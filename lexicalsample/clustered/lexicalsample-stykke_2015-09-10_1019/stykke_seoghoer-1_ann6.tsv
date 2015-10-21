@@ -1,0 +1,2776 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=-Jeg troede, jeg kunne stole på programmet, for det kostede 20.000 kr. for 12 uger, fortæller 48-årige Michael, Men han fik det forkerte skema, der viste, at han skulle træne intenst og spise meget over et stykke tid, hvorefter han skulle faste og gå i sauna.
+1-1	-	-	NC:piu#:--:----	O	
+1-2	Jeg	jeg	NC:siun:--:----	O	
+1-3	troede	tro	VF:----:ta:----	O	
+1-4	,	,	ZD	O	
+1-5	jeg	jeg	PP:s-nc:--:-1n-	O	
+1-6	kunne	kunne	VF:----:ta:----	O	
+1-7	stole	stole	VI:----:-a:----	O	
+1-8	på	på	T-:----:--:----	O	
+1-9	programmet	program	NC:sdun:--:----	O	
+1-10	,	,	ZD	O	
+1-11	for	for	T-:----:--:----	O	
+1-12	det	den	PM:s-un:--:----	O	
+1-13	kostede	koste	VP:sdu#:t-:----	O	
+1-14	20	20	LO:--u#:--:----	O	
+1-15	.	.	ZP	O	
+1-16	000	000	LC:--u-:--:----	O	
+1-17	kr	krone	NC:piu#:--:----	O	
+1-18	.	.	ZP	O	
+1-19	for	for	T-:----:--:----	O	
+1-20	12	12	LC:--u-:--:----	O	
+1-21	uger	uge	NC:piu#:--:----	O	
+1-22	,	,	ZD	O	
+1-23	fortæller	fortælle	VF:----:sa:----	O	
+1-24	48	48	LC:--u-:--:----	O	
+1-25	-	-	ZH	O	
+1-26	årige	årig	AC:sdu#:--:p---	O	
+1-27	Michael	Michael	NP:siu#:--:----	O	
+1-28	,	,	ZD	O	
+1-29	Men	men	CC:----:--:----	O	
+1-30	han	han	PP:s-nc:--:-3n-	O	
+1-31	fik	få	VF:----:ta:----	O	
+1-32	det	den	PM:s-un:--:----	O	
+1-33	forkerte	forkert	AC:sdu#:--:p---	O	
+1-34	skema	skema	NC:siun:--:----	O	
+1-35	,	,	ZD	O	
+1-36	der	der	US:----:--:----	O	
+1-37	viste	vise	VF:----:ta:----	O	
+1-38	,	,	ZD	O	
+1-39	at	at	CS:----:--:----	O	
+1-40	han	han	PP:s-nc:--:-3n-	O	
+1-41	skulle	skulle	VF:----:ta:----	O	
+1-42	træne	træne	VI:----:-a:----	O	
+1-43	intenst	intens	AC:siun:--:p---	O	
+1-44	og	og	CC:----:--:----	O	
+1-45	spise	spise	VI:----:-a:----	O	
+1-46	meget	megen	AD:----:--:p---	O	
+1-47	over	over	T-:----:--:----	O	
+1-48	et	en	PI:s-un:--:----	O	
+1-49	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+1-50	tid	tid	NC:siuc:--:----	O	
+1-51	,	,	ZD	O	
+1-52	hvorefter	hvorefter	D-:----:--:u---	O	
+1-53	han	han	PP:s-nc:--:-3n-	O	
+1-54	skulle	skulle	VF:----:ta:----	O	
+1-55	faste	faste	VI:----:-a:----	O	
+1-56	og	og	CC:----:--:----	O	
+1-57	gå	gå	VI:----:-a:----	O	
+1-58	i	i	T-:----:--:----	O	
+1-59	sauna	sauna	NC:siuc:--:----	O	
+1-60	.	.	ZP	O	
+
+#id=2
+#text=Tilgengæld bevæger man sig så også ind i en verden, der et langt stykke hen ad vejen lever op til det romantiske billede af vinlandet med de frodige druemarker, de hyggelige, snoede veje og de prægtige vingårde.
+2-1	Til	til	T-:----:--:----	O	
+2-2	gengæld	gengæld	NC:siuc:--:----	O	
+2-3	bevæger	bevæge	VF:----:sa:----	O	
+2-4	man	man	PI:#-uc:--:----	O	
+2-5	sig	sig	PP:#-u#:--:-3y-	O	
+2-6	så	så	D-:----:--:u---	O	
+2-7	også	også	D-:----:--:u---	O	
+2-8	ind	ind	D-:----:--:u---	O	
+2-9	i	i	T-:----:--:----	O	
+2-10	en	en	PI:s-uc:--:----	O	
+2-11	verden	verden	NC:siuc:--:----	O	
+2-12	,	,	ZD	O	
+2-13	der	der	US:----:--:----	O	
+2-14	et	en	PI:s-un:--:----	O	
+2-15	langt	lang	AC:siun:--:p---	O	
+2-16	stykke	stykke	NC:siun:--:----	B-stykke-F-et-langt-stykke-(af-vejen)/et-langt-stykke-hen-ad-vejen	
+2-17	hen	hen	D-:----:--:u---	O	
+2-18	ad	ad	T-:----:--:----	O	
+2-19	vejen	vej	NC:sduc:--:----	O	
+2-20	lever	leve	VF:----:sa:----	O	
+2-21	op	op	D-:----:--:u---	O	
+2-22	til	til	T-:----:--:----	O	
+2-23	det	den	PM:s-un:--:----	O	
+2-24	romantiske	romantisk	AC:sdu#:--:p---	O	
+2-25	billede	billede	NC:siun:--:----	O	
+2-26	af	af	T-:----:--:----	O	
+2-27	vinlandet	vinland	NC:sdun:--:----	O	
+2-28	med	med	T-:----:--:----	O	
+2-29	de	den	PM:p-u#:--:----	O	
+2-30	frodige	frodig	AC:p#u#:--:p---	O	
+2-31	druemarker	druemark	NC:piu#:--:----	O	
+2-32	,	,	ZD	O	
+2-33	de	den	PM:p-u#:--:----	O	
+2-34	hyggelige	hyggelig	AC:p#u#:--:p---	O	
+2-35	,	,	ZD	O	
+2-36	snoede	sno	VP:p#u#:t-:----	O	
+2-37	veje	vej	--:----	O	
+2-38	og	og	CC:----:--:----	O	
+2-39	de	den	PM:p-u#:--:----	O	
+2-40	prægtige	prægtig	AC:p#u#:--:p---	O	
+2-41	vingårde	vingård	NC:piu#:--:----	O	
+2-42	.	.	ZP	O	
+
+#id=3
+#text=Nuer der igen en orden, der er gået i stykker Mellem venner:- Du ser lidt t rist ud.
+3-1	Nu	nu	D-:----:--:u---	O	
+3-2	er	være	VF:----:sa:----	O	
+3-3	der	der	US:----:--:----	O	
+3-4	igen	igen	D-:----:--:u---	O	
+3-5	en	en	PI:s-uc:--:----	O	
+3-6	orden	orden	NC:siuc:--:----	O	
+3-7	,	,	ZD	O	
+3-8	der	der	US:----:--:----	O	
+3-9	er	være	VF:----:sa:----	O	
+3-10	gået	gå	VT:siu#:t-:----	O	
+3-11	i	i	T-:----:--:----	O	
+3-12	stykker	stykke	NC:piu#:--:----	B-stykke-F-i-stykker	
+3-13	Mellem	mellem	T-:----:--:----	O	
+3-14	venner	ven	NC:piu#:--:----	O	
+3-15	:	:	ZP	O	
+3-16	-	-	ZH	O	
+3-17	Du	du	XF:----:--:----	O	
+3-18	ser	se	VF:----:sa:----	O	
+3-19	lidt	lidt	AD:----:--:p---	O	
+3-20	t	t	T-:----:--:----	O	
+3-21	rist	rist	NC:siuc:--:----	O	
+3-22	ud	ud	D-:----:--:u---	O	
+3-23	.	.	ZP	O	
+
+#id=4
+#text=december,har afsløret, at ægteskabet gik i stykker, fordi parret efterhånden blev mere venner end mand og kone.
+4-1	december	december	NC:siuc:--:----	O	
+4-2	,	,	ZD	O	
+4-3	har	have	VF:----:sa:----	O	
+4-4	afsløret	afsløre	VT:siu#:t-:----	O	
+4-5	,	,	ZD	O	
+4-6	at	at	CS:----:--:----	O	
+4-7	ægteskabet	ægteskab	NC:sdun:--:----	O	
+4-8	gik	gå	VF:----:ta:----	O	
+4-9	i	i	T-:----:--:----	O	
+4-10	stykker	stykke	NC:piu#:--:----	B-stykke-F-i-stykker	
+4-11	,	,	ZD	O	
+4-12	fordi	fordi	CS:----:--:----	O	
+4-13	parret	par	NC:sdun:--:----	O	
+4-14	efterhånden	efterhånden	D-:----:--:u---	O	
+4-15	blev	blive	VF:----:ta:----	O	
+4-16	mere	megen	AC:##u#:--:c---	O	
+4-17	venner	ven	NC:piu#:--:----	O	
+4-18	end	end	CS:----:--:----	O	
+4-19	mand	mand	NC:siuc:--:----	O	
+4-20	og	og	CC:----:--:----	O	
+4-21	kone	kone	NC:siuc:--:----	O	
+4-22	.	.	ZP	O	
+
+#id=5
+#text=Jimmy skal have fjernet endnu et stykke af sit ben.
+5-1	Jimmy	Jimmy	NP:siu#:--:----	O	
+5-2	skal	skulle	VF:----:sa:----	O	
+5-3	have	have	VI:----:-a:----	O	
+5-4	fjernet	fjerne	VT:siu#:t-:----	O	
+5-5	endnu	endnu	D-:----:--:u---	O	
+5-6	et	en	PI:s-un:--:----	O	
+5-7	stykke	stykke	NC:siun:--:----	B-stykke-1	
+5-8	af	af	T-:----:--:----	O	
+5-9	sit	sin	PO:s--n:--:-3ys	O	
+5-10	ben	ben	NC:siun:--:----	O	
+5-11	.	.	ZP	O	
+
+#id=6
+#text=-Først røg foden og så underbenet, stykke for stykke.
+6-1	-	-	NC:piu#:--:----	O	
+6-2	Først	først	D-:----:--:u---	O	
+6-3	røg	ryge	VF:----:ta:----	O	
+6-4	foden	fod	NC:sduc:--:----	O	
+6-5	og	og	CC:----:--:----	O	
+6-6	så	så	CS:----:--:----	O	
+6-7	underbenet	underben	NC:sdun:--:----	O	
+6-8	,	,	ZD	O	
+6-9	stykke	stykke	NC:siun:--:----	B-stykke-1	
+6-10	for	for	T-:----:--:----	O	
+6-11	stykke	stykke	NC:siun:--:----	B-stykke-1	
+6-12	.	.	ZP	O	
+
+#id=7
+#text=Hanvar til en fødselsdag hos en af sine venner, og ved festen var de nogle stykker, der for sjov optrådte med lidt sang.
+7-1	Han	han	PP:s-nc:--:-3n-	O	
+7-2	var	være	VF:----:ta:----	O	
+7-3	til	til	T-:----:--:----	O	
+7-4	en	en	PI:s-uc:--:----	O	
+7-5	fødselsdag	fødselsdag	NC:siuc:--:----	O	
+7-6	hos	hos	T-:----:--:----	O	
+7-7	en	en	PI:s-uc:--:----	O	
+7-8	af	af	T-:----:--:----	O	
+7-9	sine	sin	PO:p--#:--:-3ys	O	
+7-10	venner	ven	NC:piu#:--:----	O	
+7-11	,	,	ZD	O	
+7-12	og	og	CC:----:--:----	O	
+7-13	ved	ved	T-:----:--:----	O	
+7-14	festen	fest	NC:sduc:--:----	O	
+7-15	var	være	VF:----:ta:----	O	
+7-16	de	den	PM:p-u#:--:----	O	
+7-17	nogle	nogen	PI:p-u#:--:----	O	
+7-18	stykker	stykke	NC:piu#:--:----	B-stykke-4a	
+7-19	,	,	ZD	O	
+7-20	der	der	US:----:--:----	O	
+7-21	for	for	T-:----:--:----	O	
+7-22	sjov	sjov	NC:siu#:--:----	O	
+7-23	optrådte	optræde	VF:----:ta:----	O	
+7-24	med	med	T-:----:--:----	O	
+7-25	lidt	lidt	AC:siu§:--:p---	O	
+7-26	sang	sang	NC:siuc:--:----	O	
+7-27	.	.	ZP	O	
+
+#id=8
+#text=Det fortsatte et godt stykke tid efter og gav en kæmpe formue.
+8-1	Det	det	PP:s-un:--:-3n-	O	
+8-2	fortsatte	fortsætte	VF:----:ta:----	O	
+8-3	et	en	PI:s-un:--:----	O	
+8-4	godt	god	AC:siun:--:p---	O	
+8-5	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+8-6	tid	tid	NC:siuc:--:----	O	
+8-7	efter	efter	T-:----:--:----	O	
+8-8	og	og	CC:----:--:----	O	
+8-9	gav	give	VF:----:ta:----	O	
+8-10	en	en	PI:s-uc:--:----	O	
+8-11	kæmpe	kæmpe	AC:§§u§:--:p---	O	
+8-12	formue	formue	NC:siuc:--:----	O	
+8-13	.	.	ZP	O	
+
+#id=9
+#text=Så meget skal du af med, hvis du vil eje verdens dyreste stykke legetøj.
+9-1	Så	så	D-:----:--:u---	O	
+9-2	meget	megen	AD:----:--:p---	O	
+9-3	skal	skulle	VF:----:sa:----	O	
+9-4	du	du	PP:s-nc:--:-2n-	O	
+9-5	af	af	D-:----:--:u---	O	
+9-6	med	med	T-:----:--:----	O	
+9-7	,	,	ZD	O	
+9-8	hvis	hvis	CS:----:--:----	O	
+9-9	du	du	PP:s-nc:--:-2n-	O	
+9-10	vil	ville	VF:----:sa:----	O	
+9-11	eje	eje	XY:----:--:----	O	
+9-12	verdens	verden	NC:sigc:--:----	O	
+9-13	dyreste	dyr	AC:§du§:--:s---	O	
+9-14	stykke	stykke	NC:siun:--:----	B-stykke-4	
+9-15	legetøj	legetøj	NC:siun:--:----	O	
+9-16	.	.	ZP	O	
+
+#id=10
+#text=En heldig amatørfotograf tog dette billede et godt stykke nord for polarcirklen.
+10-1	En	en	PI:s-uc:--:----	O	
+10-2	heldig	heldig	AC:siuc:--:p---	O	
+10-3	amatørfotograf	amatørfotograf	NC:siuc:--:----	O	
+10-4	tog	tage	VF:----:ta:----	O	
+10-5	dette	denne	PM:s-un:--:----	O	
+10-6	billede	billede	NC:siun:--:----	O	
+10-7	et	en	PI:s-un:--:----	O	
+10-8	godt	god	AC:siun:--:p---	O	
+10-9	stykke	stykke	NC:siun:--:----	B-stykke-3	
+10-10	nord	nord	D-:----:--:u---	O	
+10-11	for	for	T-:----:--:----	O	
+10-12	polarcirklen	polarcirkel	NC:sduc:--:----	O	
+10-13	.	.	ZP	O	
+
+#id=11
+#text=Hun er for længst kommet sig over barndommens nederlag, som der var nogle stykker af.
+11-1	Hun	hun	PP:s-nc:--:-3n-	O	
+11-2	er	være	VF:----:sa:----	O	
+11-3	for	for	T-:----:--:----	O	
+11-4	længst	længst	XY:----:--:----	O	
+11-5	kommet	komme	VT:siu#:t-:----	O	
+11-6	sig	sig	PP:#-u#:--:-3y-	O	
+11-7	over	over	T-:----:--:----	O	
+11-8	barndommens	barndom	NC:sdgc:--:----	O	
+11-9	nederlag	nederlag	NC:siun:--:----	O	
+11-10	,	,	ZD	O	
+11-11	som	som	US:----:--:----	O	
+11-12	der	der	US:----:--:----	O	
+11-13	var	være	VF:----:ta:----	O	
+11-14	nogle	nogen	PI:p-u#:--:----	O	
+11-15	stykker	stykke	NC:piu#:--:----	B-stykke-4	
+11-16	af	af	T-:----:--:----	O	
+11-17	.	.	ZP	O	
+
+#id=12
+#text=Etstykke over midnat havde gæsterne på Karel for længst danset sig varme.
+12-1	Et	en	PI:s-un:--:----	O	
+12-2	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+12-3	over	over	T-:----:--:----	O	
+12-4	midnat	midnat	NC:siuc:--:----	O	
+12-5	havde	have	VF:----:ta:----	O	
+12-6	gæsterne	gæst	NC:pdu#:--:----	O	
+12-7	på	på	T-:----:--:----	O	
+12-8	Karel	Karel	NP:siu#:--:----	O	
+12-9	for	for	T-:----:--:----	O	
+12-10	længst	længst	XY:----:--:----	O	
+12-11	danset	danse	VT:siu#:t-:----	O	
+12-12	sig	sig	PP:#-u#:--:-3y-	O	
+12-13	varme	varme	VI:----:-a:----	O	
+12-14	.	.	ZP	O	
+
+#id=13
+#text=De talte sammen i et stykke tid og fik udvekslet både håndtryk og klap på skulderen, inden sportsmanden vendte tilbage til baren, hvor han hang ud hele natten sammen med en flok gutter.
+13-1	De	de	PP:p-n#:--:-3n-	O	
+13-2	talte	tale	VF:----:ta:----	O	
+13-3	sammen	sammen	D-:----:--:u---	O	
+13-4	i	i	T-:----:--:----	O	
+13-5	et	en	PI:s-un:--:----	O	
+13-6	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+13-7	tid	tid	NC:siuc:--:----	O	
+13-8	og	og	CC:----:--:----	O	
+13-9	fik	få	VF:----:ta:----	O	
+13-10	udvekslet	udveksle	VT:siu#:t-:----	O	
+13-11	både	både	D-:----:--:u---	O	
+13-12	håndtryk	håndtryk	NC:siun:--:----	O	
+13-13	og	og	CC:----:--:----	O	
+13-14	klap	klap	NC:piu#:--:----	O	
+13-15	på	på	T-:----:--:----	O	
+13-16	skulderen	skulder	NC:sduc:--:----	O	
+13-17	,	,	ZD	O	
+13-18	inden	inden	CS:----:--:----	O	
+13-19	sportsmanden	sportsmand	NC:sduc:--:----	O	
+13-20	vendte	vende	VF:----:ta:----	O	
+13-21	tilbage	tilbage	D-:----:--:u---	O	
+13-22	til	til	T-:----:--:----	O	
+13-23	baren	bar	NC:sduc:--:----	O	
+13-24	,	,	ZD	O	
+13-25	hvor	hvor	D-:----:--:u---	O	
+13-26	han	han	PP:s-nc:--:-3n-	O	
+13-27	hang	hænge	VF:----:ta:----	O	
+13-28	ud	ud	D-:----:--:u---	O	
+13-29	hele	hel	AC:sdu#:--:p---	O	
+13-30	natten	nat	NC:sduc:--:----	O	
+13-31	sammen	sammen	D-:----:--:u---	O	
+13-32	med	med	T-:----:--:----	O	
+13-33	en	en	PI:s-uc:--:----	O	
+13-34	flok	flok	NC:siuc:--:----	O	
+13-35	gutter	gut	NC:piu#:--:----	O	
+13-36	.	.	ZP	O	
+
+#id=14
+#text=Han erkender, at det har haft stor betydning for, at forholdene gik i stykker.
+14-1	Han	han	PP:s-nc:--:-3n-	O	
+14-2	erkender	erkende	VF:----:sa:----	O	
+14-3	,	,	ZD	O	
+14-4	at	at	CS:----:--:----	O	
+14-5	det	det	PP:s-un:--:-3n-	O	
+14-6	har	have	VF:----:sa:----	O	
+14-7	haft	have	----	O	
+14-8	stor	stor	AC:siuc:--:p---	O	
+14-9	betydning	betydning	NC:siuc:--:----	O	
+14-10	for	for	T-:----:--:----	O	
+14-11	,	,	ZD	O	
+14-12	at	at	CS:----:--:----	O	
+14-13	forholdene	forhold	NC:pdu#:--:----	O	
+14-14	gik	gå	VF:----:ta:----	O	
+14-15	i	i	T-:----:--:----	O	
+14-16	stykker	stykke	NC:piu#:--:----	B-stykke-F-i-stykker	
+14-17	.	.	ZP	O	
+
+#id=15
+#text=Kanet forhold gå i stykker på sølle 18 meter?
+15-1	Kan	kunne	VF:----:sa:----	O	
+15-2	et	en	PI:s-un:--:----	O	
+15-3	forhold	forhold	NC:siun:--:----	O	
+15-4	gå	gå	VI:----:-a:----	O	
+15-5	i	i	T-:----:--:----	O	
+15-6	stykker	stykke	NC:piu#:--:----	B-stykke-F-i-stykker	
+15-7	på	på	T-:----:--:----	O	
+15-8	sølle	sølle	AC:§§u§:--:p---	O	
+15-9	18	18	LC:--u-:--:----	O	
+15-10	meter	meter	NC:piu#:--:----	O	
+15-11	?	?	ZQ	O	
+
+#id=16
+#text=-Jeg er født kun med mælketænder, så der mangler et par stykker i munden på mig, fortalte han.
+16-1	-	-	NC:piu#:--:----	O	
+16-2	Jeg	jeg	NC:siun:--:----	O	
+16-3	er	være	VF:----:sa:----	O	
+16-4	født	føde	VT:siu#:t-:----	O	
+16-5	kun	kun	D-:----:--:u---	O	
+16-6	med	med	T-:----:--:----	O	
+16-7	mælketænder	mælketænder	NC:piu#:--:----	O	
+16-8	,	,	ZD	O	
+16-9	så	så	CS:----:--:----	O	
+16-10	der	der	US:----:--:----	O	
+16-11	mangler	mangle	VF:----:sa:----	O	
+16-12	et	en	PI:s-un:--:----	O	
+16-13	par	par	NC:siun:--:----	O	
+16-14	stykker	stykke	NC:piu#:--:----	B-stykke-4	
+16-15	i	i	T-:----:--:----	O	
+16-16	munden	mund	NC:sduc:--:----	O	
+16-17	på	på	T-:----:--:----	O	
+16-18	mig	jeg	PP:s-uc:--:-1#-	O	
+16-19	,	,	ZD	O	
+16-20	fortalte	fortale	VF:----:ta:----	O	
+16-21	han	han	PP:s-nc:--:-3n-	O	
+16-22	.	.	ZP	O	
+
+#id=17
+#text=Lossenhavde tilsyneladende ikke fået mad det sidste stykke tid og måtte der for prøve at stjæle en tilfældig gribs mad.
+17-1	Lossen	los	NC:sduc:--:----	O	
+17-2	havde	have	VF:----:ta:----	O	
+17-3	tilsyneladende	tilsyneladende	AD:----:--:p---	O	
+17-4	ikke	ikke	D-:----:--:u---	O	
+17-5	fået	få	VT:siu#:t-:----	O	
+17-6	mad	mad	NC:siuc:--:----	O	
+17-7	det	den	PM:s-un:--:----	O	
+17-8	sidste	sidste	AC:§§u§:--:p---	O	
+17-9	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+17-10	tid	tid	NC:siuc:--:----	O	
+17-11	og	og	CC:----:--:----	O	
+17-12	måtte	måtte	VF:----:ta:----	O	
+17-13	der	der	US:----:--:----	O	
+17-14	for	for	T-:----:--:----	O	
+17-15	prøve	prøve	NC:siuc:--:----	O	
+17-16	at	at	UI:----:--:----	O	
+17-17	stjæle	stjæle	VI:----:-a:----	O	
+17-18	en	en	PI:s-uc:--:----	O	
+17-19	tilfældig	tilfældig	AC:siuc:--:p---	O	
+17-20	gribs	grib	NC:sigc:--:----	O	
+17-21	mad	mad	NC:siuc:--:----	O	
+17-22	.	.	ZP	O	
+
+#id=18
+#text=-Når noget går i stykker, køber vi noget nyt.
+18-1	-	-	NC:piu#:--:----	O	
+18-2	Når	når	CS:----:--:----	O	
+18-3	noget	nogen	PI:s-un:--:----	O	
+18-4	går	gå	VF:----:sa:----	O	
+18-5	i	i	T-:----:--:----	O	
+18-6	stykker	stykke	NC:piu#:--:----	B-stykke-F-i-stykker	
+18-7	,	,	ZD	O	
+18-8	køber	købe	VF:----:sa:----	O	
+18-9	vi	vi	PP:p-nc:--:-1n-	O	
+18-10	noget	nogen	PI:s-un:--:----	O	
+18-11	nyt	ny	AC:siun:--:p---	O	
+18-12	.	.	ZP	O	
+
+#id=19
+#text=-Fint, sagde han, hvis jeg ikke er færdig inden, stopper jeg Parret havde været gift i 15 år, og en aften gik deres TV i stykker, hvoref ter manden sagde: - Jamen, så må jeg jo hellere finde en bog.
+19-1	-	-	NC:piu#:--:----	O	
+19-2	Fint	fin	AC:siun:--:p---	O	
+19-3	,	,	ZD	O	
+19-4	sagde	sige	VF:----:ta:----	O	
+19-5	han	han	PP:s-nc:--:-3n-	O	
+19-6	,	,	ZD	O	
+19-7	hvis	hvis	CS:----:--:----	O	
+19-8	jeg	jeg	PP:s-nc:--:-1n-	O	
+19-9	ikke	ikke	D-:----:--:u---	O	
+19-10	er	være	VF:----:sa:----	O	
+19-11	færdig	færdig	AD:----:--:p---	O	
+19-12	inden	inden	T-:----:--:----	O	
+19-13	,	,	ZD	O	
+19-14	stopper	stoppe	VF:----:sa:----	O	
+19-15	jeg	jeg	PP:s-nc:--:-1n-	O	
+19-16	Parret	par	NC:sdun:--:----	O	
+19-17	havde	have	VF:----:ta:----	O	
+19-18	været	være	VT:siu#:t-:----	O	
+19-19	gift	gift	AC:siu§:--:p---	O	
+19-20	i	i	T-:----:--:----	O	
+19-21	15	15	LC:--u-:--:----	O	
+19-22	år	år	NC:piu#:--:----	O	
+19-23	,	,	ZD	O	
+19-24	og	og	CC:----:--:----	O	
+19-25	en	en	PI:s-uc:--:----	O	
+19-26	aften	aften	NC:siuc:--:----	O	
+19-27	gik	gå	VF:----:ta:----	O	
+19-28	deres	deres	PO:#--#:--:-3np	O	
+19-29	TV	tv	NC:siun:--:----	O	
+19-30	i	i	T-:----:--:----	O	
+19-31	stykker	stykke	NC:piu#:--:----	B-stykke-F-i-stykker	
+19-32	,	,	ZD	O	
+19-33	hvoref	hvoref	XS:----:--:----	O	
+19-34	ter	te	VF:----:sa:----	O	
+19-35	manden	mand	NC:sduc:--:----	O	
+19-36	sagde	sige	VF:----:ta:----	O	
+19-37	:	:	ZP	O	
+19-38	-	-	ZH	O	
+19-39	Jamen	jamen	CC:----:--:----	O	
+19-40	,	,	ZD	O	
+19-41	så	så	D-:----:--:u---	O	
+19-42	må	måtte	VF:----:sa:----	O	
+19-43	jeg	jeg	PP:s-nc:--:-1n-	O	
+19-44	jo	jo	D-:----:--:u---	O	
+19-45	hellere	hellere	:--:u---	O	
+19-46	finde	finde	VI:----:-a:----	O	
+19-47	en	en	PI:s-uc:--:----	O	
+19-48	bog	bog	NC:siuc:--:----	O	
+19-49	.	.	ZP	O	
+
+#id=20
+#text=Detpressesky par splittede dog op, lige inden de nåede hoveddøren og gik ind på natklubben et godt stykke fra hinanden for ikke at skabe opmærksomhed.
+20-1	Det	det	PP:s-un:--:-3n-	O	
+20-2	pressesky	pressesky	AD:----:--:p---	O	
+20-3	par	par	NC:siun:--:----	O	
+20-4	splittede	splitte	VF:----:ta:----	O	
+20-5	dog	dog	D-:----:--:u---	O	
+20-6	op	op	D-:----:--:u---	O	
+20-7	,	,	ZD	O	
+20-8	lige	lige	D-:----:--:u---	O	
+20-9	inden	inden	CS:----:--:----	O	
+20-10	de	de	PP:p-n#:--:-3n-	O	
+20-11	nåede	nå	VF:----:ta:----	O	
+20-12	hoveddøren	hoveddør	NC:sduc:--:----	O	
+20-13	og	og	CC:----:--:----	O	
+20-14	gik	gå	VF:----:ta:----	O	
+20-15	ind	ind	D-:----:--:u---	O	
+20-16	på	på	T-:----:--:----	O	
+20-17	natklubben	natklub	NC:sduc:--:----	O	
+20-18	et	en	PI:s-un:--:----	O	
+20-19	godt	god	AC:siun:--:p---	O	
+20-20	stykke	stykke	NC:siun:--:----	B-stykke-3	
+20-21	fra	fra	T-:----:--:----	O	
+20-22	hinanden	hinanden	PC:p-u-:--:----	O	
+20-23	for	for	T-:----:--:----	O	
+20-24	ikke	ikke	D-:----:--:u---	O	
+20-25	at	at	UI:----:--:----	O	
+20-26	skabe	skabe	VI:----:-a:----	O	
+20-27	opmærksomhed	opmærksomhed	NC:siuc:--:----	O	
+20-28	.	.	ZP	O	
+
+#id=21
+#text=Atpopdrengen og Ibis forhold gik i stykker, har ikke skræmt ham.
+21-1	At	at	CS:----:--:----	O	
+21-2	popdrengen	popdreng	NC:sduc:--:----	O	
+21-3	og	og	CC:----:--:----	O	
+21-4	Ibis	ibis	NC:siuc:--:----	O	
+21-5	forhold	forhold	NC:siun:--:----	O	
+21-6	gik	gå	VF:----:ta:----	O	
+21-7	i	i	T-:----:--:----	O	
+21-8	stykker	stykke	NC:piu#:--:----	B-stykke-F-i-stykker	
+21-9	,	,	ZD	O	
+21-10	har	have	VF:----:sa:----	O	
+21-11	ikke	ikke	D-:----:--:u---	O	
+21-12	skræmt	skræmme	VT:siu#:t-:----	O	
+21-13	ham	han	PP:s-uc:--:-3n-	O	
+21-14	.	.	ZP	O	
+
+#id=22
+#text=Men så gik forholdet i stykker.
+22-1	Men	men	CC:----:--:----	O	
+22-2	så	så	D-:----:--:u---	O	
+22-3	gik	gå	VF:----:ta:----	O	
+22-4	forholdet	forhold	NC:sdun:--:----	O	
+22-5	i	i	T-:----:--:----	O	
+22-6	stykker	stykke	NC:piu#:--:----	B-stykke-F-i-stykker	
+22-7	.	.	ZP	O	
+
+#id=23
+#text=Mendet kan godt være, at der kommer til at gå et stykke tid, før minearbejderne får tid til krydstogt og gratis fodboldkampe.
+23-1	Men	men	CC:----:--:----	O	
+23-2	det	det	PP:s-un:--:-3n-	O	
+23-3	kan	kunne	VF:----:sa:----	O	
+23-4	godt	god	AD:----:--:p---	O	
+23-5	være	være	VI:----:-a:----	O	
+23-6	,	,	ZD	O	
+23-7	at	at	CS:----:--:----	O	
+23-8	der	der	US:----:--:----	O	
+23-9	kommer	komme	VF:----:sa:----	O	
+23-10	til	til	T-:----:--:----	O	
+23-11	at	at	UI:----:--:----	O	
+23-12	gå	gå	VI:----:-a:----	O	
+23-13	et	en	PI:s-un:--:----	O	
+23-14	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+23-15	tid	tid	NC:siuc:--:----	O	
+23-16	,	,	ZD	O	
+23-17	før	før	CS:----:--:----	O	
+23-18	minearbejderne	minearbejder	NC:pdu#:--:----	O	
+23-19	får	få	VF:----:sa:----	O	
+23-20	tid	tid	NC:siuc:--:----	O	
+23-21	til	til	T-:----:--:----	O	
+23-22	krydstogt	krydstogt	NC:siun:--:----	O	
+23-23	og	og	CC:----:--:----	O	
+23-24	gratis	gratis	AC:§§u§:--:p---	O	
+23-25	fodboldkampe	fodboldkamp	NC:piu#:--:----	O	
+23-26	.	.	ZP	O	
+
+#id=24
+#text=De har nemlig nok at se til det næste stykke tid.
+24-1	De	de	PP:p-n#:--:-3n-	O	
+24-2	har	have	VF:----:sa:----	O	
+24-3	nemlig	nemlig	D-:----:--:u---	O	
+24-4	nok	nok	D-:----:--:u---	O	
+24-5	at	at	UI:----:--:----	O	
+24-6	se	se	VI:----:-a:----	O	
+24-7	til	til	T-:----:--:----	O	
+24-8	det	den	PM:s-un:--:----	O	
+24-9	næste	næste	AC:§§u§:--:p---	O	
+24-10	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+24-11	tid	tid	NC:siuc:--:----	O	
+24-12	.	.	ZP	O	
+
+#id=25
+#text=Peterhyrede en personlig træner og gik ellers i gang med projektet, men hver gang det hele blev lidt for hårdt, tog han et stykke mørk chokolade for at genvinde sin energi og lyst.
+25-1	Peter	Peter	NP:siu#:--:----	O	
+25-2	hyrede	hyre	VF:----:ta:----	O	
+25-3	en	en	PI:s-uc:--:----	O	
+25-4	personlig	personlig	AC:siuc:--:p---	O	
+25-5	træner	træner	NC:siuc:--:----	O	
+25-6	og	og	CC:----:--:----	O	
+25-7	gik	gå	VF:----:ta:----	O	
+25-8	ellers	ellers	D-:----:--:u---	O	
+25-9	i	i	T-:----:--:----	O	
+25-10	gang	gang	NC:siuc:--:----	O	
+25-11	med	med	T-:----:--:----	O	
+25-12	projektet	projekt	NC:sdun:--:----	O	
+25-13	,	,	ZD	O	
+25-14	men	men	CC:----:--:----	O	
+25-15	hver	hver	PI:s-uc:--:----	O	
+25-16	gang	gang	NC:siuc:--:----	O	
+25-17	det	den	PM:s-un:--:----	O	
+25-18	hele	hel	AC:sdu#:--:p---	O	
+25-19	blev	blive	VF:----:ta:----	O	
+25-20	lidt	lidt	AD:----:--:p---	O	
+25-21	for	for	T-:----:--:----	O	
+25-22	hårdt	hård	AC:siun:--:p---	O	
+25-23	,	,	ZD	O	
+25-24	tog	tage	VF:----:ta:----	O	
+25-25	han	han	PP:s-nc:--:-3n-	O	
+25-26	et	en	PI:s-un:--:----	O	
+25-27	stykke	stykke	NC:siun:--:----	B-stykke-4	
+25-28	mørk	mørk	AC:siuc:--:p---	O	
+25-29	chokolade	chokolade	NC:siuc:--:----	O	
+25-30	for	for	T-:----:--:----	O	
+25-31	at	at	UI:----:--:----	O	
+25-32	genvinde	genvinde	VI:----:-a:----	O	
+25-33	sin	sin	PO:s--c:--:-3ys	O	
+25-34	energi	energi	NC:siuc:--:----	O	
+25-35	og	og	CC:----:--:----	O	
+25-36	lyst	lyst	NC:siuc:--:----	O	
+25-37	.	.	ZP	O	
+
+#id=26
+#text=-Hun spiller den sukkersøde og uskyldige pige, men det er hun så ikke, når det kommer til stykket, fortæller kilden.
+26-1	-	-	NC:piu#:--:----	O	
+26-2	Hun	hun	PP:s-nc:--:-3n-	O	
+26-3	spiller	spille	VF:----:sa:----	O	
+26-4	den	den	PM:s-uc:--:----	O	
+26-5	sukkersøde	sukkersød	AC:sdu#:--:p---	O	
+26-6	og	og	CC:----:--:----	O	
+26-7	uskyldige	uskyldig	AC:sdu#:--:p---	O	
+26-8	pige	pige	NC:siuc:--:----	O	
+26-9	,	,	ZD	O	
+26-10	men	men	CC:----:--:----	O	
+26-11	det	det	PP:s-un:--:-3n-	O	
+26-12	er	være	VF:----:sa:----	O	
+26-13	hun	hun	PP:s-nc:--:-3n-	O	
+26-14	så	så	D-:----:--:u---	O	
+26-15	ikke	ikke	D-:----:--:u---	O	
+26-16	,	,	ZD	O	
+26-17	når	når	CS:----:--:----	O	
+26-18	det	det	PP:s-un:--:-3n-	O	
+26-19	kommer	komme	VF:----:sa:----	O	
+26-20	til	til	T-:----:--:----	O	
+26-21	stykket	stykke	NC:sdun:--:----	B-stykke-F-når-det-kommer-til-stykket	
+26-22	,	,	ZD	O	
+26-23	fortæller	fortælle	VF:----:sa:----	O	
+26-24	kilden	kilde	NC:sduc:--:----	O	
+26-25	.	.	ZP	O	
+
+#id=27
+#text=Tinastidligere veninde supplerer: - Jeg har hørt fra de fyre, der har været sammen med hende, at hun er en styg dame, når det kommer til stykket.
+27-1	Tinas	Tina	NP:sig#:--:----	O	
+27-2	tidligere	tidlig	AC:##u#:--:c---	O	
+27-3	veninde	veninde	NC:siuc:--:----	O	
+27-4	supplerer	supplere	VF:----:sa:----	O	
+27-5	:	:	ZP	O	
+27-6	-	-	ZH	O	
+27-7	Jeg	jeg	NC:siun:--:----	O	
+27-8	har	have	VF:----:sa:----	O	
+27-9	hørt	høre	VT:siu#:t-:----	O	
+27-10	fra	fra	T-:----:--:----	O	
+27-11	de	den	PM:p-u#:--:----	O	
+27-12	fyre	fyr	NC:piu#:--:----	O	
+27-13	,	,	ZD	O	
+27-14	der	der	US:----:--:----	O	
+27-15	har	have	VF:----:sa:----	O	
+27-16	været	være	VT:siu#:t-:----	O	
+27-17	sammen	sammen	D-:----:--:u---	O	
+27-18	med	med	T-:----:--:----	O	
+27-19	hende	hun	PP:s-uc:--:-3n-	O	
+27-20	,	,	ZD	O	
+27-21	at	at	CS:----:--:----	O	
+27-22	hun	hun	PP:s-nc:--:-3n-	O	
+27-23	er	være	VF:----:sa:----	O	
+27-24	en	en	PI:s-uc:--:----	O	
+27-25	styg	styg	AC:siuc:--:p---	O	
+27-26	dame	dame	NC:siuc:--:----	O	
+27-27	,	,	ZD	O	
+27-28	når	når	CS:----:--:----	O	
+27-29	det	det	PP:s-un:--:-3n-	O	
+27-30	kommer	komme	VF:----:sa:----	O	
+27-31	til	til	T-:----:--:----	O	
+27-32	stykket	stykke	NC:sdun:--:----	B-stykke-F-når-det-kommer-til-stykket	
+27-33	.	.	ZP	O	
+
+#id=28
+#text=Mitfokus har været væk fra at finde den eneste ene i et stykke tid, kvidrer den optimistiske singlepige.
+28-1	Mit	mit	XF:----:--:----	O	
+28-2	fokus	fokus	NC:siu#:--:----	O	
+28-3	har	have	VF:----:sa:----	O	
+28-4	været	være	VT:siu#:t-:----	O	
+28-5	væk	væk	D-:----:--:u---	O	
+28-6	fra	fra	T-:----:--:----	O	
+28-7	at	at	UI:----:--:----	O	
+28-8	finde	finde	VI:----:-a:----	O	
+28-9	den	den	PM:s-uc:--:----	O	
+28-10	eneste	eneste	AC:§§u§:--:p---	O	
+28-11	ene	ene	AC:§§u§:--:p---	O	
+28-12	i	i	T-:----:--:----	O	
+28-13	et	en	PI:s-un:--:----	O	
+28-14	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+28-15	tid	tid	NC:siuc:--:----	O	
+28-16	,	,	ZD	O	
+28-17	kvidrer	kvidre	VF:----:sa:----	O	
+28-18	den	den	PM:s-uc:--:----	O	
+28-19	optimistiske	optimistisk	AC:sdu#:--:p---	O	
+28-20	singlepige	singlepige	NC:siuc:--:----	O	
+28-21	.	.	ZP	O	
+
+#id=29
+#text=Tre stykker brænde ( 8,9,10), et æble på jorden ( 11), to æbler på træet ( 12,13) og endelig en gren på det lille træ ( 14).
+29-1	Tre	tre	LC:--u-:--:----	O	
+29-2	stykker	stykke	NC:piu#:--:----	B-stykke-4	
+29-3	brænde	brænde	NC:siun:--:----	O	
+29-4	(	(	ZD	O	
+29-5	8	8	LC:--u-:--:----	O	
+29-6	,	,	ZD	O	
+29-7	9	9	LC:--u-:--:----	O	
+29-8	,	,	ZD	O	
+29-9	10	10	LC:--u-:--:----	O	
+29-10	)	)	ZD	O	
+29-11	,	,	ZD	O	
+29-12	et	en	PI:s-un:--:----	O	
+29-13	æble	æble	NC:siun:--:----	O	
+29-14	på	på	T-:----:--:----	O	
+29-15	jorden	jord	NC:sduc:--:----	O	
+29-16	(	(	ZD	O	
+29-17	11	11	LC:--u-:--:----	O	
+29-18	)	)	ZD	O	
+29-19	,	,	ZD	O	
+29-20	to	to	LC:--u-:--:----	O	
+29-21	æbler	æble	NC:piu#:--:----	O	
+29-22	på	på	T-:----:--:----	O	
+29-23	træet	træ	NC:sdun:--:----	O	
+29-24	(	(	ZD	O	
+29-25	12	12	LC:--u-:--:----	O	
+29-26	,	,	ZD	O	
+29-27	13	13	LC:--u-:--:----	O	
+29-28	)	)	ZD	O	
+29-29	og	og	CC:----:--:----	O	
+29-30	endelig	endelig	D-:----:--:u---	O	
+29-31	en	en	PI:s-uc:--:----	O	
+29-32	gren	gren	NC:siuc:--:----	O	
+29-33	på	på	T-:----:--:----	O	
+29-34	det	den	PM:s-un:--:----	O	
+29-35	lille	lille	AC:s§u§:--:p---	O	
+29-36	træ	træ	NC:siun:--:----	O	
+29-37	(	(	ZD	O	
+29-38	14	14	LC:--u-:--:----	O	
+29-39	)	)	ZD	O	
+29-40	.	.	ZP	O	
+
+#id=30
+#text=-Jeg stoppede med dem for et stykke tid siden.
+30-1	-	-	NC:piu#:--:----	O	
+30-2	Jeg	jeg	NC:siun:--:----	O	
+30-3	stoppede	stoppe	VF:----:ta:----	O	
+30-4	med	med	T-:----:--:----	O	
+30-5	dem	de	PP:p-u#:--:-3n-	O	
+30-6	for	for	T-:----:--:----	O	
+30-7	et	en	PI:s-un:--:----	O	
+30-8	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+30-9	tid	tid	NC:siuc:--:----	O	
+30-10	siden	siden	D-:----:--:u---	O	
+30-11	.	.	ZP	O	
+
+#id=31
+#text=Der var ikke sparet på noget som helst, og festen varede da også til et pænt stykke ud på natten.
+31-1	Der	der	US:----:--:----	O	
+31-2	var	være	VF:----:ta:----	O	
+31-3	ikke	ikke	D-:----:--:u---	O	
+31-4	sparet	spare	VT:siu#:t-:----	O	
+31-5	på	på	T-:----:--:----	O	
+31-6	noget	nogen	PI:s-un:--:----	O	
+31-7	som	som	US:----:--:----	O	
+31-8	helst	helst	D-:----:--:u---	O	
+31-9	,	,	ZD	O	
+31-10	og	og	CC:----:--:----	O	
+31-11	festen	fest	NC:sduc:--:----	O	
+31-12	varede	vare	VF:----:ta:----	O	
+31-13	da	da	D-:----:--:u---	O	
+31-14	også	også	D-:----:--:u---	O	
+31-15	til	til	T-:----:--:----	O	
+31-16	et	en	PI:s-un:--:----	O	
+31-17	pænt	pæn	AC:siun:--:p---	O	
+31-18	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+31-19	ud	ud	D-:----:--:u---	O	
+31-20	på	på	T-:----:--:----	O	
+31-21	natten	nat	NC:sduc:--:----	O	
+31-22	.	.	ZP	O	
+
+#id=32
+#text=Enrolle, han er rigtig glad for, bortset fra at han som royalt overhoved hverken får mulighed for at fægte eller ride som de andre "drengerøve" i stykket.
+32-1	En	en	PI:s-uc:--:----	O	
+32-2	rolle	rolle	NC:siuc:--:----	O	
+32-3	,	,	ZD	O	
+32-4	han	han	PP:s-nc:--:-3n-	O	
+32-5	er	være	VF:----:sa:----	O	
+32-6	rigtig	rigtig	AD:----:--:p---	O	
+32-7	glad	glad	AC:siu§:--:p---	O	
+32-8	for	for	T-:----:--:----	O	
+32-9	,	,	ZD	O	
+32-10	bortset	bortset	D-:----:--:u---	O	
+32-11	fra	fra	T-:----:--:----	O	
+32-12	at	at	CS:----:--:----	O	
+32-13	han	han	PP:s-nc:--:-3n-	O	
+32-14	som	som	US:----:--:----	O	
+32-15	royalt	royal	AC:siun:--:p---	O	
+32-16	overhoved	overhoved	NC:siun:--:----	O	
+32-17	hverken	hverken	D-:----:--:u---	O	
+32-18	får	få	VF:----:sa:----	O	
+32-19	mulighed	mulighed	NC:siuc:--:----	O	
+32-20	for	for	T-:----:--:----	O	
+32-21	at	at	UI:----:--:----	O	
+32-22	fægte	fægte	VI:----:-a:----	O	
+32-23	eller	eller	CC:----:--:----	O	
+32-24	ride	ride	NC:siuc:--:----	O	
+32-25	som	som	US:----:--:----	O	
+32-26	de	n	PM:p-u#:--:----	O	
+32-27	andre	anden	PI:p-u#:--:----	O	
+32-28	"	"	ZI	O	
+32-29	drengerøve	drengerøv	NC:piu#:--:----	O	
+32-30	"	"	ZI	O	
+32-31	i	i	T-:----:--:----	O	
+32-32	stykket	stykke	NC:sdun:--:----	B-stykke-5a-5b	
+32-33	.	.	ZP	O	
+
+#id=33
+#text=-Har du nogen i tankerne? - Jeg har et par stykker, men jeg kan ikke sige, hvem. - Er det nogen, vi har set på skærmen før?
+33-1	-	-	NC:piu#:--:----	O	
+33-2	Har	have	VF:----:sa:----	O	
+33-3	du	du	PP:s-nc:--:-2n-	O	
+33-4	nogen	nogen	PI:s-uc:--:----	O	
+33-5	i	i	T-:----:--:----	O	
+33-6	tankerne	tanke	NC:pdu#:--:----	O	
+33-7	?	?	XY:----:--:----	O	
+33-8	-	-	ZH	O	
+33-9	Jeg	jeg	NC:siun:--:----	O	
+33-10	har	have	VF:----:sa:----	O	
+33-11	et	en	PI:s-un:--:----	O	
+33-12	par	par	NC:siun:--:----	O	
+33-13	stykker	stykke	NC:piu#:--:----	B-stykke-4a	
+33-14	,	,	ZD	O	
+33-15	men	men	CC:----:--:----	O	
+33-16	jeg	jeg	PP:s-nc:--:-1n-	O	
+33-17	kan	kunne	VF:----:sa:----	O	
+33-18	ikke	ikke	D-:----:--:u---	O	
+33-19	sige	sige	VI:----:-a:----	O	
+33-20	,	,	ZD	O	
+33-21	hvem	hvem	PR:s-u#:--:----	O	
+33-22	.	.	ZP	O	
+33-23	-	-	ZH	O	
+33-24	Er	være	sa:----	O	
+33-25	det	det	PP:s-un:--:-3n-	O	
+33-26	nogen	nogen	PI:s-uc:--:----	O	
+33-27	,	,	ZD	O	
+33-28	vi	vi	PP:p-nc:--:-1n-	O	
+33-29	har	have	VF:----:sa:----	O	
+33-30	set	se	VT:siu#:t-:----	O	
+33-31	på	på	T-:----:--:----	O	
+33-32	skærmen	skærm	NC:sduc:--:----	O	
+33-33	før	før	D-:----:--:u---	O	
+33-34	?	?	ZQ	O	
+
+#id=34
+#text=Uden for toiletterne var Ditte Hapel fra The Voice i fuld gang med at overbevise en ung mand om, at hun skulle være vaskeægte ladyboy, mens hun med et stykke sammenrullet toiletparpir forsøgte at sjusse sig frem til størrelsen på det påståede lem.
+34-1	Uden	uden	D-:----:--:u---	O	
+34-2	for	for	T-:----:--:----	O	
+34-3	toiletterne	toilet	NC:pdu#:--:----	O	
+34-4	var	være	VF:----:ta:----	O	
+34-5	Ditte	Ditte	NP:siu#:--:----	O	
+34-6	Hapel	Hapel	NP:siu#:--:----	O	
+34-7	fra	fra	T-:----:--:----	O	
+34-8	The	The	NC:siuc:--:----	O	
+34-9	Voice	Voice	NP:siu#:--:----	O	
+34-10	i	i	T-:----:--:----	O	
+34-11	fuld	fuld	AC:siuc:--:p---	O	
+34-12	gang	gang	NC:siuc:--:----	O	
+34-13	med	med	T-:----:--:----	O	
+34-14	at	at	UI:----:--:----	O	
+34-15	overbevise	overbevise	VI:----:-a:----	O	
+34-16	en	en	PI:s-uc:--:----	O	
+34-17	ung	ung	AC:siuc:--:p---	O	
+34-18	mand	mand	NC:siuc:--:----	O	
+34-19	om	om	T-:----:--:----	O	
+34-20	,	,	ZD	O	
+34-21	at	at	CS:----:--:----	O	
+34-22	hun	hun	PP:s-nc:--:-3n-	O	
+34-23	skulle	skulle	VF:----:ta:----	O	
+34-24	være	være	VI:----:-a:----	O	
+34-25	vaskeægte	vaskeægte	AC:§§u§:--:p---	O	
+34-26	ladyboy	ladyboy	NP:siu#:--:----	O	
+34-27	,	,	ZD	O	
+34-28	mens	mens	CS:----:--:----	O	
+34-29	hun	hun	PP:s-nc:--:-3n-	O	
+34-30	med	med	T-:----:--:----	O	
+34-31	et	en	PI:s-un:--:----	O	
+34-32	stykke	stykke	NC:siun:--:----	B-stykke-1	
+34-33	sammenrullet	sammenrullet	AC:siu§:--:p---	O	
+34-34	toiletparpir	toiletparpir	XY:----:--:----	O	
+34-35	forsøgte	forsøge	VF:----:ta:----	O	
+34-36	at	at	UI:----:--:----	O	
+34-37	sjusse	sjusse	VI:----:-a:----	O	
+34-38	sig	sig	PP:#-u#:--:-3y-	O	
+34-39	frem	frem	D-:----:--:u---	O	
+34-40	til	til	T-:----:--:----	O	
+34-41	størrelsen	størrelse	NC:sduc:--:----	O	
+34-42	på	på	T-:----:--:----	O	
+34-43	det	den	PM:s-un:--:----	O	
+34-44	påståede	påstå	VP:sdu#:t-:----	O	
+34-45	lem	lem	NC:siun:--:----	O	
+34-46	.	.	ZP	O	
+
+#id=35
+#text=Hunhar haft et forhold til Jens Peter gennem et stykke tid, og han var årsag til, at hun forlod sin mand i slutningen af november sidste år og flyttede ind i rækkehuset.
+35-1	Hun	hun	PP:s-nc:--:-3n-	O	
+35-2	har	have	VF:----:sa:----	O	
+35-3	haft	have	VT:siu#:t-:----	O	
+35-4	et	en	PI:s-un:--:----	O	
+35-5	forhold	forhold	NC:siun:--:----	O	
+35-6	til	til	T-:----:--:----	O	
+35-7	Jens	Jens	NP:siu#:--:----	O	
+35-8	Peter	Peter	NP:siu#:--:----	O	
+35-9	gennem	gennem	T-:----:--:----	O	
+35-10	et	en	PI:s-un:--:----	O	
+35-11	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+35-12	tid	tid	NC:siuc:--:----	O	
+35-13	,	,	ZD	O	
+35-14	og	og	CC:----:--:----	O	
+35-15	han	han	PP:s-nc:--:-3n-	O	
+35-16	var	være	VF:----:ta:----	O	
+35-17	årsag	årsag	NC:siuc:--:----	O	
+35-18	til	til	T-:----:--:----	O	
+35-19	,	,	ZD	O	
+35-20	at	at	CS:----:--:----	O	
+35-21	hun	hun	PP:s-nc:--:-3n-	O	
+35-22	forlod	forlade	VF:----:ta:----	O	
+35-23	sin	sin	PO:s--c:--:-3ys	O	
+35-24	mand	mand	NC:siuc:--:----	O	
+35-25	i	i	T-:----:--:----	O	
+35-26	slutningen	slutning	NC:sduc:--:----	O	
+35-27	af	af	T-:----:--:----	O	
+35-28	november	november	NC:siuc:--:----	O	
+35-29	sidste	sidste	AC:§§u§:--:p---	O	
+35-30	år	år	NC:siun:--:----	O	
+35-31	og	og	CC:----:--:----	O	
+35-32	flyttede	flytte	VF:----:ta:----	O	
+35-33	ind	ind	D-:----:--:u---	O	
+35-34	i	i	T-:----:--:----	O	
+35-35	rækkehuset	rækkehus	NC:sdun:--:----	O	
+35-36	.	.	ZP	O	
+
+#id=36
+#text=Dog må man sige, at der endnu er et godt stykke vej tilbage til de kredse, businessdivaen tidligere omgav sig med.
+36-1	Dog	dog	D-:----:--:u---	O	
+36-2	må	måtte	VF:----:sa:----	O	
+36-3	man	man	PI:#-uc:--:----	O	
+36-4	sige	sige	VI:----:-a:----	O	
+36-5	,	,	ZD	O	
+36-6	at	at	CS:----:--:----	O	
+36-7	der	der	US:----:--:----	O	
+36-8	endnu	endnu	D-:----:--:u---	O	
+36-9	er	være	VF:----:sa:----	O	
+36-10	et	en	PI:s-un:--:----	O	
+36-11	godt	god	AC:siun:--:p---	O	
+36-12	stykke	stykke	NC:siun:--:----	B-stykke-4b	
+36-13	vej	vej	NC:siuc:--:----	O	
+36-14	tilbage	tilbage	D-:----:--:u---	O	
+36-15	til	til	T-:----:--:----	O	
+36-16	de	den	PM:p-u#:--:----	O	
+36-17	kredse	kreds	NC:piu#:--:----	O	
+36-18	,	,	ZD	O	
+36-19	businessdivaen	businessdiva	NC:sduc:--:----	O	
+36-20	tidligere	tidlig	AD:----:--:c---	O	
+36-21	omgav	omgive	VF:----:ta:----	O	
+36-22	sig	sig	PP:#-u#:--:-3y-	O	
+36-23	med	med	T-:----:--:----	O	
+36-24	.	.	ZP	O	
+
+#id=37
+#text=-Mange forhold ville nok også være gået i stykker af sådan en historie... men Laust har været utrolig god ved mig i den periode.
+37-1	-	-	NC:piu#:--:----	O	
+37-2	Mange	mangen	AC:p#u#:--:p---	O	
+37-3	forhold	forhold	NC:piu#:--:----	O	
+37-4	ville	ville	VF:----:ta:----	O	
+37-5	nok	nok	D-:----:--:u---	O	
+37-6	også	også	D-:----:--:u---	O	
+37-7	være	være	VI:----:-a:----	O	
+37-8	gået	gå	VT:siu#:t-:----	O	
+37-9	i	i	T-:----:--:----	O	
+37-10	stykker	stykke	NC:piu#:--:----	B-stykke-F-i-stykker	
+37-11	af	af	T-:----:--:----	O	
+37-12	sådan	sådan	D-:----:--:u---	O	
+37-13	en	en	PI:s-uc:--:----	O	
+37-14	historie	historie	NC:siuc:--:----	O	
+37-15	.	.	ZP	O	
+37-16	.	.	ZP	O	
+37-17	.	.	ZP	O	
+37-18	men	men	CC:----:--:----	O	
+37-19	Laust	Laust	NP:siu#:--:----	O	
+37-20	har	have	VF:----:sa:----	O	
+37-21	været	være	VT:siu#:t-:----	O	
+37-22	utrolig	utrolig	AD:----:--:p---	O	
+37-23	god	god	AC:siuc:--:p---	O	
+37-24	ved	ved	T-:----:--:----	O	
+37-25	mig	jeg	PP:s-uc:--:-1#-	O	
+37-26	i	i	T-:----:--:----	O	
+37-27	den	den	PM:s-uc:--:----	O	
+37-28	periode	periode	NC:siuc:--:----	O	
+37-29	.	.	ZP	O	
+
+#id=38
+#text=RasmusNøhr har været single et stykke tid, efter et forhold forliste sidste år på grund af hans utroskab.
+38-1	Rasmus	Rasmus	NP:siu#:--:----	O	
+38-2	Nøhr	Nøhr	NP:siu#:--:----	O	
+38-3	har	have	VF:----:sa:----	O	
+38-4	været	være	VT:siu#:t-:----	O	
+38-5	single	single	NC:siuc:--:----	O	
+38-6	et	en	PI:s-un:--:----	O	
+38-7	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+38-8	tid	tid	NC:siuc:--:----	O	
+38-9	,	,	ZD	O	
+38-10	efter	efter	CS:----:--:----	O	
+38-11	et	en	PI:s-un:--:----	O	
+38-12	forhold	forhold	NC:siun:--:----	O	
+38-13	forliste	forlise	VF:----:ta:----	O	
+38-14	sidste	sidste	AC:§§u§:--:p---	O	
+38-15	år	år	NC:siun:--:----	O	
+38-16	på	på	T-:----:--:----	O	
+38-17	grund	grund	NC:siuc:--:----	O	
+38-18	af	af	T-:----:--:----	O	
+38-19	hans	hans	PO:#--#:--:-3ns	O	
+38-20	utroskab	utroskab	NC:siuc:--:----	O	
+38-21	.	.	ZP	O	
+
+#id=39
+#text=Jegkastede op, fordi jeg ikke kunne trække vejret på grund af et stykke kød, der sad fast i halsen.
+39-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+39-2	kastede	kaste	VF:----:ta:----	O	
+39-3	op	op	D-:----:--:u---	O	
+39-4	,	,	ZD	O	
+39-5	fordi	fordi	CS:----:--:----	O	
+39-6	jeg	jeg	PP:s-nc:--:-1n-	O	
+39-7	ikke	ikke	D-:----:--:u---	O	
+39-8	kunne	kunne	VF:----:ta:----	O	
+39-9	trække	trække	VI:----:-a:----	O	
+39-10	vejret	vejr	NC:sdun:--:----	O	
+39-11	på	på	T-:----:--:----	O	
+39-12	grund	grund	NC:siuc:--:----	O	
+39-13	af	af	T-:----:--:----	O	
+39-14	et	en	PI:s-un:--:----	O	
+39-15	stykke	stykke	NC:siun:--:----	B-stykke-1	
+39-16	kød	kød	NC:siun:--:----	O	
+39-17	,	,	ZD	O	
+39-18	der	der	US:----:--:----	O	
+39-19	sad	sidde	VF:----:ta:----	O	
+39-20	fast	fast	AD:----:--:p---	O	
+39-21	i	i	T-:----:--:----	O	
+39-22	halsen	hals	NC:sduc:--:----	O	
+39-23	.	.	ZP	O	
+
+#id=40
+#text=90procent af Egypten består af  ørken, og det fornemmer man, når man sidder i flyet og kigger ned på de store ørkenområder i et godt stykke tid inden landingen.
+40-1	90	90	LC:--u-:--:----	O	
+40-2	procent	procent	NC:piu#:--:----	O	
+40-3	af	af	T-:----:--:----	O	
+40-4	Egypten	Egypten	NP:siu#:--:----	O	
+40-5	består	bestå	VF:----:sa:----	O	
+40-6	af	af	T-:----:--:----	O	
+40-7	ørken	ørken	NC:siuc:--:----	O	
+40-8	,	,	ZD	O	
+40-9	og	og	CC:----:--:----	O	
+40-10	det	det	PP:s-un:--:-3n-	O	
+40-11	fornemmer	fornemme	VF:----:sa:----	O	
+40-12	man	man	PI:#-uc:--:----	O	
+40-13	,	,	ZD	O	
+40-14	når	når	CS:----:--:----	O	
+40-15	man	man	PI:#-uc:--:----	O	
+40-16	sidder	sidde	VF:----:sa:----	O	
+40-17	i	i	T-:----:--:----	O	
+40-18	flyet	fly	NC:sdun:--:----	O	
+40-19	og	og	CC:----:--:----	O	
+40-20	kigger	kigge	VF:----:sa:----	O	
+40-21	ned	ned	D-:----:--:u---	O	
+40-22	på	på	T-:----:--:----	O	
+40-23	de	den	PM:p-u#:--:----	O	
+40-24	store	stor	AC:p#u#:--:p---	O	
+40-25	ørkenområder	ørkenområde	NC:piu#:--:----	O	
+40-26	i	i	T-:----:--:----	O	
+40-27	et	en	PI:s-un:--:----	O	
+40-28	godt	god	AC:siun:--:p---	O	
+40-29	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+40-30	tid	tid	NC:siuc:--:----	O	
+40-31	inden	inden	T-:----:--:----	O	
+40-32	landingen	landing	NC:sduc:--:----	O	
+40-33	.	.	ZP	O	
+
+#id=41
+#text=Han kan opleves til hest under stykket - og føler sig helt hjemme på ryggen af den.
+41-1	H	H	NP:siu#:--:----	O	
+41-2	an	an	D-:----:--:u---	O	
+41-3	kan	kunne	VF:----:sa:----	O	
+41-4	opleves	opleve	VI:----:-p:----	O	
+41-5	til	til	T-:----:--:----	O	
+41-6	hest	hest	NC:siuc:--:----	O	
+41-7	under	under	T-:----:--:----	O	
+41-8	stykket	stykke	NC:sdun:--:----	B-stykke-5a-5b	
+41-9	-	-	NC:piu#:--:----	O	
+41-10	og	og	CC:----:--:----	O	
+41-11	føler	føle	VF:----:sa:----	O	
+41-12	sig	sig	PP:#-u#:--:-3y-	O	
+41-13	helt	hel	AD:----:--:p---	O	
+41-14	hjemme	hjemme	D-:----:--:u---	O	
+41-15	på	på	T-:----:--:----	O	
+41-16	ryggen	ryg	NC:sduc:--:----	O	
+41-17	af	af	T-:----:--:----	O	
+41-18	den	den	PP:s-uc:--:-3n-	O	
+41-19	.	.	ZP	O	
+
+#id=42
+#text=Lee ikke at gå uden for en dør uden et stykke spraglet stof på hovedet.
+42-1	Lee	Lee	NP:siu#:--:----	O	
+42-2	ikke	ikke	D-:----:--:u---	O	
+42-3	at	at	UI:----:--:----	O	
+42-4	gå	gå	VI:----:-a:----	O	
+42-5	uden	uden	D-:----:--:u---	O	
+42-6	for	for	T-:----:--:----	O	
+42-7	en	en	PI:s-uc:--:----	O	
+42-8	dør	dør	NC:siuc:--:----	O	
+42-9	uden	uden	T-:----:--:----	O	
+42-10	et	en	PI:s-un:--:----	O	
+42-11	stykke	stykke	NC:siun:--:----	B-stykke-1	
+42-12	spraglet	spraglet	AC:siun:--:p---	O	
+42-13	stof	stof	NC:siun:--:----	O	
+42-14	på	på	T-:----:--:----	O	
+42-15	hovedet	hoved	NC:sdun:--:----	O	
+42-16	.	.	ZP	O	
+
+#id=43
+#text=Hersatte han tænderne i et stykke pekan-kringle, der er en lokal delikatesse.
+43-1	Her	her	D-:----:--:u---	O	
+43-2	satte	sætte	VF:----:ta:----	O	
+43-3	han	han	PP:s-nc:--:-3n-	O	
+43-4	tænderne	tand	NC:pdu#:--:----	O	
+43-5	i	i	T-:----:--:----	O	
+43-6	et	en	PI:s-un:--:----	O	
+43-7	stykke	stykke	NC:siun:--:----	B-stykke-1	
+43-8	pekan	pekunne	-	O	
+43-9	-	-	NC:piu#:--:----	O	
+43-10	kringle	kringle	NC:siuc:--:----	O	
+43-11	,	,	ZD	O	
+43-12	der	der	US:----:--:----	O	
+43-13	er	være	VF:----:sa:----	O	
+43-14	en	en	PI:s-uc:--:----	O	
+43-15	lokal	lokal	AC:siuc:--:p---	O	
+43-16	delikatesse	delikatesse	NC:siuc:--:----	O	
+43-17	.	.	ZP	O	
+
+#id=44
+#text=Jeg ville ellers have troet, at det var  et forholdsvis dødt stykke kød tilhørende en mand på 53.
+44-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+44-2	ville	ville	VF:----:ta:----	O	
+44-3	ellers	ellers	D-:----:--:u---	O	
+44-4	have	have	VI:----:-a:----	O	
+44-5	troet	tro	VT:siu#:t-:----	O	
+44-6	,	,	ZD	O	
+44-7	at	at	CS:----:--:----	O	
+44-8	det	det	PP:s-un:--:-3n-	O	
+44-9	var	være	VF:----:ta:----	O	
+44-10	et	en	PI:s-un:--:----	O	
+44-11	forholdsvis	forholdsvis	AD:----:--:p---	O	
+44-12	dødt	død	AC:siun:--:p---	O	
+44-13	stykke	stykke	NC:siun:--:----	B-stykke-2	
+44-14	kød	kød	NC:siun:--:----	O	
+44-15	tilhørende	tilhøre	VP:##u#:s-:----	O	
+44-16	en	en	PI:s-uc:--:----	O	
+44-17	mand	mand	NC:siuc:--:----	O	
+44-18	på	på	T-:----:--:----	O	
+44-19	53	53	LC:--u-:--:----	O	
+44-20	.	.	ZP	O	
+
+#id=45
+#text=Et par år senere købte de yderligere et stykke jord for 108.960 kr., så grunden nu er på næsten 5000 kvadratmeter.
+45-1	Et	en	PI:s-un:--:----	O	
+45-2	par	par	NC:siun:--:----	O	
+45-3	år	år	NC:piu#:--:----	O	
+45-4	senere	sen	AD:----:--:c---	O	
+45-5	købte	købe	VF:----:ta:----	O	
+45-6	de	den	PM:p-u#:--:----	O	
+45-7	yderligere	yderlig	AD:----:--:c---	O	
+45-8	et	en	PI:s-un:--:----	O	
+45-9	stykke	stykke	NC:siun:--:----	B-stykke-2a	
+45-10	jord	jord	NC:siuc:--:----	O	
+45-11	for	for	T-:----:--:----	O	
+45-12	108	108	LC:--u-:--:----	O	
+45-13	.	.	ZP	O	
+45-14	960	960	LC:--u-:--:----	O	
+45-15	kr	krone	NC:piu#:--:----	O	
+45-16	.	.	ZP	O	
+45-17	,	,	ZD	O	
+45-18	så	så	CS:----:--:----	O	
+45-19	grunden	grund	NC:sduc:--:----	O	
+45-20	nu	nu	D-:----:--:u---	O	
+45-21	er	være	VF:----:sa:----	O	
+45-22	på	på	T-:----:--:----	O	
+45-23	næsten	næsten	D-:----:--:u---	O	
+45-24	5000	5000	LC:--u-:--:----	O	
+45-25	kvadratmeter	kvadratmeter	NC:piu#:--:----	O	
+45-26	.	.	ZP	O	
+
+#id=46
+#text=Som om utroskaben i sig selv ikke var skandale nok, kom afsløringen, samtidig med at parret spillede over for hinanden, som elskende i stykket " Frøken Julie" på Dramaten i Stockholm.
+46-1	Som	som	US:----:--:----	O	
+46-2	om	om	T-:----:--:----	O	
+46-3	utroskaben	utroskab	NC:sduc:--:----	O	
+46-4	i	i	T-:----:--:----	O	
+46-5	sig	sig	PP:#-u#:--:-3y-	O	
+46-6	selv	selv	PM:#-u#:--:----	O	
+46-7	ikke	ikke	D-:----:--:u---	O	
+46-8	var	være	VF:----:ta:----	O	
+46-9	skandale	skandale	NC:siuc:--:----	O	
+46-10	nok	nok	D-:----:--:u---	O	
+46-11	,	,	ZD	O	
+46-12	kom	komme	VF:----:ta:----	O	
+46-13	afsløringen	afsløring	NC:sduc:--:----	O	
+46-14	,	,	ZD	O	
+46-15	samtidig	samtidig	D-:----:--:u---	O	
+46-16	med	med	T-:----:--:----	O	
+46-17	at	at	CS:----:--:----	O	
+46-18	parret	par	NC:sdun:--:----	O	
+46-19	spillede	spille	VF:----:ta:----	O	
+46-20	over	over	D-:----:--:u---	O	
+46-21	for	for	T-:----:--:----	O	
+46-22	hinanden	hinanden	PC:p-u-:--:----	O	
+46-23	,	,	ZD	O	
+46-24	som	som	US:----:--:----	O	
+46-25	elskende	elske	VP:##u#:s-:----	O	
+46-26	i	i	T-:----:--:----	O	
+46-27	stykket	stykke	NC:sdun:--:----	B-stykke-5a-5b	
+46-28	"	"	ZI	O	
+46-29	Frøken	frøken	NC:siuc:--:----	O	
+46-30	Julie	Julie	NP:siu#:--:----	O	
+46-31	"	"	ZI	O	
+46-32	på	på	T-:----:--:----	O	
+46-33	Dramaten	Dramaten	NP:siu#:--:----	O	
+46-34	i	i	T-:----:--:----	O	
+46-35	Stockholm	Stockholm	NP:siu#:--:----	O	
+46-36	.	.	ZP	O	
+
+#id=47
+#text=Susannesynger under stykket, ger der handler om vold mod kvinder og er en  del af et EU-projekt.
+47-1	Susanne	Susanne	NP:siu#:--:----	O	
+47-2	synger	synge	VF:----:sa:----	O	
+47-3	under	under	T-:----:--:----	O	
+47-4	stykket	stykke	NC:sdun:--:----	B-stykke-5a-5b	
+47-5	,	,	ZD	O	
+47-6	ger	ger	NC:siuc:--:----	O	
+47-7	der	der	US:----:--:----	O	
+47-8	handler	handle	VF:----:sa:----	O	
+47-9	om	om	T-:----:--:----	O	
+47-10	vold	vold	NC:siuc:--:----	O	
+47-11	mod	mod	T-:----:--:----	O	
+47-12	kvinder	kvinde	NC:piu#:--:----	O	
+47-13	og	og	CC:----:--:----	O	
+47-14	er	være	VF:----:sa:----	O	
+47-15	en	en	PI:s-uc:--:----	O	
+47-16	del	del	NC:siuc:--:----	O	
+47-17	af	af	T-:----:--:----	O	
+47-18	et	en	PI:s-un:--:----	O	
+47-19	EU	EU	NP:siu#:--:----	O	
+47-20	-	-	ZH	O	
+47-21	projekt	projekt	NC:siun:--:----	O	
+47-22	.	.	ZP	O	
+
+#id=48
+#text=Lige meget hvilket stykke tøj hun iførte sig, kunne det ikke skjule de tændstiktynde arme og ben.
+48-1	Lige	lige	D-:----:--:u---	O	
+48-2	meget	megen	AD:----:--:p---	O	
+48-3	hvilket	hvilket	XY:----:--:----	O	
+48-4	stykke	stykke	NC:siun:--:----	B-stykke-4d	
+48-5	tøj	tøj	NC:siun:--:----	O	
+48-6	hun	hun	PP:s-nc:--:-3n-	O	
+48-7	iførte	iføre	VF:----:ta:----	O	
+48-8	sig	sig	PP:#-u#:--:-3y-	O	
+48-9	,	,	ZD	O	
+48-10	kunne	kunne	VF:----:ta:----	O	
+48-11	det	det	PP:s-un:--:-3n-	O	
+48-12	ikke	ikke	D-:----:--:u---	O	
+48-13	skjule	skjule	VI:----:-a:----	O	
+48-14	de	den	PM:p-u#:--:----	O	
+48-15	tændstiktynde	tændstiktynd	AC:p#u#:--:p---	O	
+48-16	arme	arm	NC:piu#:--:----	O	
+48-17	og	og	CC:----:--:----	O	
+48-18	ben	ben	NC:piu#:--:----	O	
+48-19	.	.	ZP	O	
+
+#id=49
+#text=De har drømt om at blive forældre i et stykke tid, og Christian har tidligere udtalt: - Hvis der er en mening med livet, må det være at blive far og få ført sine gener videre.
+49-1	De	de	PP:p-n#:--:-3n-	O	
+49-2	har	have	VF:----:sa:----	O	
+49-3	drømt	drømme	VT:siu#:t-:----	O	
+49-4	om	om	T-:----:--:----	O	
+49-5	at	at	UI:----:--:----	O	
+49-6	blive	blive	VI:----:-a:----	O	
+49-7	forældre	forælder	NC:piu#:--:----	O	
+49-8	i	i	T-:----:--:----	O	
+49-9	et	en	PI:s-un:--:----	O	
+49-10	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+49-11	tid	tid	NC:siuc:--:----	O	
+49-12	,	,	ZD	O	
+49-13	og	og	CC:----:--:----	O	
+49-14	Christian	Christian	NP:siu#:--:----	O	
+49-15	har	have	VF:----:sa:----	O	
+49-16	tidligere	tidlig	AD:----:--:c---	O	
+49-17	udtalt	udtale	VT:siu#:t-:----	O	
+49-18	:	:	ZP	O	
+49-19	-	-	ZH	O	
+49-20	Hvis	hvis	CS:----:--:----	O	
+49-21	der	der	US:----:--:----	O	
+49-22	er	være	VF:----:sa:----	O	
+49-23	en	en	PI:s-uc:--:----	O	
+49-24	mening	mening	NC:siuc:--:----	O	
+49-25	med	med	T-:----:--:----	O	
+49-26	livet	liv	NC:sdun:--:----	O	
+49-27	,	,	ZD	O	
+49-28	må	måtte	VF:----:sa:----	O	
+49-29	det	det	PP:s-un:--:-3n-	O	
+49-30	være	være	VI:----:-a:----	O	
+49-31	at	at	UI:----:--:----	O	
+49-32	blive	blive	VI:----:-a:----	O	
+49-33	far	far	NC:siuc:--:----	O	
+49-34	og	og	CC:----:--:----	O	
+49-35	få	få	VI:----:-a:----	O	
+49-36	ført	føre	VT:siu#:t-:----	O	
+49-37	sine	sin	PO:p--#:--:-3ys	O	
+49-38	gener	gen	NC:piu#:--:----	O	
+49-39	videre	videre	D-:----:--:u---	O	
+49-40	.	.	ZP	O	
+
+#id=50
+#text=-festglad forlagsredaktør, holder lav profil i forhold til pressen i det næste lange stykke tid.
+50-1	-	-	NC:piu#:--:----	O	
+50-2	festglad	festglad	AC:siuc:--:p---	O	
+50-3	forlagsredaktør	forlagsredaktør	NC:siuc:--:----	O	
+50-4	,	,	ZD	O	
+50-5	holder	holde	VF:----:sa:----	O	
+50-6	lav	lav	AC:siuc:--:p---	O	
+50-7	profil	profil	NC:siuc:--:----	O	
+50-8	i	i	T-:----:--:----	O	
+50-9	forhold	forhold	NC:siun:--:----	O	
+50-10	til	til	T-:----:--:----	O	
+50-11	pressen	presse	NC:sduc:--:----	O	
+50-12	i	i	T-:----:--:----	O	
+50-13	det	den	PM:s-un:--:----	O	
+50-14	næste	næste	AC:§§u§:--:p---	O	
+50-15	lange	lang	AC:sdu#:--:p---	O	
+50-16	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+50-17	tid	tid	NC:siuc:--:----	O	
+50-18	.	.	ZP	O	
+
+#id=51
+#text=-Men der er  også et par stykker, hvor jeg har været helt blank.
+51-1	-	-	NC:piu#:--:----	O	
+51-2	Men	men	CC:----:--:----	O	
+51-3	der	der	US:----:--:----	O	
+51-4	er	være	a:----	O	
+51-5	også	også	D-:----:--:u---	O	
+51-6	et	en	PI:s-un:--:----	O	
+51-7	par	par	NC:siun:--:----	O	
+51-8	stykker	stykke	NC:piu#:--:----	B-stykke-4	
+51-9	,	,	ZD	O	
+51-10	hvor	hvor	D-:----:--:u---	O	
+51-11	jeg	jeg	PP:s-nc:--:-1n-	O	
+51-12	har	have	VF:----:sa:----	O	
+51-13	været	være	VT:siu#:t-:----	O	
+51-14	helt	hel	AD:----:--:p---	O	
+51-15	blank	blank	AC:siuc:--:p---	O	
+51-16	.	.	ZP	O	
+
+#id=52
+#text=Derer masser af fredagshygge med et stykke kage fra Lagkagehuset og lidt godt fjernsyn.
+52-1	Der	der	US:----:--:----	O	
+52-2	er	være	VF:----:sa:----	O	
+52-3	masser	masse	NC:piu#:--:----	O	
+52-4	af	af	T-:----:--:----	O	
+52-5	fredagshygge	fredagshygge	NC:siuc:--:----	O	
+52-6	med	med	T-:----:--:----	O	
+52-7	et	en	PI:s-un:--:----	O	
+52-8	stykke	stykke	NC:siun:--:----	B-stykke-4	
+52-9	kage	kag	NC:piu#:--:----	O	
+52-10	fra	fra	T-:----:--:----	O	
+52-11	Lagkagehuset	Lagkagehuset	NP:siu#:--:----	O	
+52-12	og	og	CC:----:--:----	O	
+52-13	lidt	lidt	AD:----:--:p---	O	
+52-14	godt	god	AC:siun:--:p---	O	
+52-15	fjernsyn	fjernsyn	NC:siun:--:----	O	
+52-16	.	.	ZP	O	
+
+#id=53
+#text=-Liam og jeg har i det seneste stykke tid været så bundet op af arbejde, at vi ikke har haft tid til at pleje vores forhold.
+53-1	-	-	NC:piu#:--:----	O	
+53-2	Liam	Liam	NP:siu#:--:----	O	
+53-3	og	og	CC:----:--:----	O	
+53-4	jeg	jeg	PP:s-nc:--:-1n-	O	
+53-5	har	have	VF:----:sa:----	O	
+53-6	i	i	T-:----:--:----	O	
+53-7	det	den	PM:s-un:--:----	O	
+53-8	seneste	sen	AC:§du§:--:s---	O	
+53-9	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+53-10	tid	tid	NC:siuc:--:----	O	
+53-11	været	være	VT:siu#:t-:----	O	
+53-12	så	så	D-:----:--:u---	O	
+53-13	bundet	binde	VT:siu#:t-:----	O	
+53-14	op	op	D-:----:--:u---	O	
+53-15	af	af	T-:----:--:----	O	
+53-16	arbejde	arbejde	NC:siun:--:----	O	
+53-17	,	,	ZD	O	
+53-18	at	at	CS:----:--:----	O	
+53-19	vi	vi	PP:p-nc:--:-1n-	O	
+53-20	ikke	ikke	D-:----:--:u---	O	
+53-21	har	have	VF:----:sa:----	O	
+53-22	haft	have	VT:siu#:t-:----	O	
+53-23	tid	tid	NC:siuc:--:----	O	
+53-24	til	til	T-:----:--:----	O	
+53-25	at	at	UI:----:--:----	O	
+53-26	pleje	pleje	VI:----:-a:----	O	
+53-27	vores	vores	PO:#--#:--:-1np	O	
+53-28	forhold	forhold	NC:siun:--:----	O	
+53-29	.	.	ZP	O	
+
+#id=54
+#text=Dahendes sidste ægteskab gik i stykker, sparkede hun voldsomt fra sig i den danske presse, beskylder Goedele og henviser til Jills første ægteskab med Klaus Riskær, der endte efter tre års ægteskab.
+54-1	Da	da	CS:----:--:----	O	
+54-2	hendes	hendes	PO:#--#:--:-3ns	O	
+54-3	sidste	sidste	AC:§§u§:--:p---	O	
+54-4	ægteskab	ægteskab	NC:siun:--:----	O	
+54-5	gik	gå	VF:----:ta:----	O	
+54-6	i	i	T-:----:--:----	O	
+54-7	stykker	stykke	NC:piu#:--:----	B-stykke-F-i-stykker	
+54-8	,	,	ZD	O	
+54-9	sparkede	sparke	VF:----:ta:----	O	
+54-10	hun	hun	PP:s-nc:--:-3n-	O	
+54-11	voldsomt	voldsom	AD:----:--:p---	O	
+54-12	fra	fra	T-:----:--:----	O	
+54-13	sig	sig	PP:#-u#:--:-3y-	O	
+54-14	i	i	T-:----:--:----	O	
+54-15	den	den	PM:s-uc:--:----	O	
+54-16	danske	dansk	AC:sdu#:--:p---	O	
+54-17	presse	presse	NC:siuc:--:----	O	
+54-18	,	,	ZD	O	
+54-19	beskylder	beskylde	VF:----:sa:----	O	
+54-20	Goedele	Goedele	NP:siu#:--:----	O	
+54-21	og	og	CC:----:--:----	O	
+54-22	henviser	henvise	VF:----:sa:----	O	
+54-23	til	til	T-:----:--:----	O	
+54-24	Jills	Jills	NP:sig#:--:----	O	
+54-25	første	første	AC:§§u§:--:p---	O	
+54-26	ægteskab	ægteskab	NC:siun:--:----	O	
+54-27	med	med	T-:----:--:----	O	
+54-28	Klaus	Klaus	NP:siu#:--:----	O	
+54-29	Riskær	Riskær	NP:siu#:--:----	O	
+54-30	,	,	ZD	O	
+54-31	der	der	US:----:--:----	O	
+54-32	endte	ende	VF:----:ta:----	O	
+54-33	efter	efter	T-:----:--:----	O	
+54-34	tre	tre	LC:--u-:--:----	O	
+54-35	års	år	NC:pig#:--:----	O	
+54-36	ægteskab	ægteskab	NC:siun:--:----	O	
+54-37	.	.	ZP	O	
+
+#id=55
+#text=-Men du må gerne skrive, at jeg mangler én til at varme mig her i den kolde vinter og i det næste lange stykke tid, fniser hun.
+55-1	-	-	NC:piu#:--:----	O	
+55-2	Men	men	CC:----:--:----	O	
+55-3	du	du	PP:s-nc:--:-2n-	O	
+55-4	må	måtte	VF:----:sa:----	O	
+55-5	gerne	gerne	D-:----:--:u---	O	
+55-6	skrive	skrive	VI:----:-a:----	O	
+55-7	,	,	ZD	O	
+55-8	at	at	CS:----:--:----	O	
+55-9	jeg	jeg	PP:s-nc:--:-1n-	O	
+55-10	mangler	mangle	VF:----:sa:----	O	
+55-11	én	en	PI:s-uc:--:----	O	
+55-12	til	til	T-:----:--:----	O	
+55-13	at	at	UI:----:--:----	O	
+55-14	varme	varme	VI:----:-a:----	O	
+55-15	mig	jeg	PP:s-uc:--:-1#-	O	
+55-16	her	her	D-:----:--:u---	O	
+55-17	i	i	T-:----:--:----	O	
+55-18	den	den	PM:s-uc:--:----	O	
+55-19	kolde	kold	AC:sdu#:--:p---	O	
+55-20	vinter	vinter	NC:siuc:--:----	O	
+55-21	og	og	CC:----:--:----	O	
+55-22	i	i	T-:----:--:----	O	
+55-23	det	den	PM:s-un:--:----	O	
+55-24	næste	næste	AC:§§u§:--:p---	O	
+55-25	lange	lang	AC:sdu#:--:p---	O	
+55-26	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+55-27	tid	tid	NC:siuc:--:----	O	
+55-28	,	,	ZD	O	
+55-29	fniser	fnise	VF:----:sa:----	O	
+55-30	hun	hun	PP:s-nc:--:-3n-	O	
+55-31	.	.	ZP	O	
+
+#id=56
+#text=I hvert fald virkede hun ikke, som om hun kendte færdselsloven, da hun med hestekræfterne i ryggen kørte på det stykke af Nørrebrogade i København, der er forbeholdt busser.
+56-1	I	i	T-:----:--:----	O	
+56-2	hvert	hver	PI:s-un:--:----	O	
+56-3	fald	fald	NC:siun:--:----	O	
+56-4	virkede	virke	VF:----:ta:----	O	
+56-5	hun	hun	PP:s-nc:--:-3n-	O	
+56-6	ikke	ikke	D-:----:--:u---	O	
+56-7	,	,	ZD	O	
+56-8	som	som	US:----:--:----	O	
+56-9	om	om	CS:----:--:----	O	
+56-10	hun	hun	PP:s-nc:--:-3n-	O	
+56-11	kendte	kende	VF:----:ta:----	O	
+56-12	færdselsloven	færdselsloven	NC:siuc:--:----	O	
+56-13	,	,	ZD	O	
+56-14	da	da	CS:----:--:----	O	
+56-15	hun	hun	PP:s-nc:--:-3n-	O	
+56-16	med	med	T-:----:--:----	O	
+56-17	hestekræfterne	hestekraft	NC:pdu#:--:----	O	
+56-18	i	i	----	O	
+56-19	ryggen	ryg	NC:sduc:--:----	O	
+56-20	kørte	køre	VF:----:ta:----	O	
+56-21	på	på	T-:----:--:----	O	
+56-22	det	den	PM:s-un:--:----	O	
+56-23	stykke	stykke	NC:siun:--:----	B-stykke-2a	
+56-24	af	af	T-:----:--:----	O	
+56-25	Nørrebrogade	Nørrebrogade	NP:siu#:--:----	O	
+56-26	i	i	T-:----:--:----	O	
+56-27	København	København	NP:siu#:--:----	O	
+56-28	,	,	ZD	O	
+56-29	der	der	US:----:--:----	O	
+56-30	er	være	VF:----:sa:----	O	
+56-31	forbeholdt	forbeholde	VT:siu#:t-:----	O	
+56-32	busser	bus	NC:piu#:--:----	O	
+56-33	.	.	ZP	O	
+
+#id=57
+#text=Privatdannede Peter Gade i en årrække par med Camilla Martin, men da de brød med hinanden, og han havde været single et stykke tid, blev han forelsket i endnu en Camilla - Høeg Andersen - som han siden er blevet gift med.
+57-1	Privat	privat	AD:----:--:p---	O	
+57-2	dannede	danne	VF:----:ta:----	O	
+57-3	Peter	Peter	NP:siu#:--:----	O	
+57-4	Gade	Gade	NP:siu#:--:----	O	
+57-5	i	i	T-:----:--:----	O	
+57-6	en	en	PI:s-uc:--:----	O	
+57-7	årrække	årrække	NC:siuc:--:----	O	
+57-8	par	par	NC:piu#:--:----	O	
+57-9	med	med	T-:----:--:----	O	
+57-10	Camilla	Camilla	NP:siu#:--:----	O	
+57-11	Martin	Martin	NP:siu#:--:----	O	
+57-12	,	,	ZD	O	
+57-13	men	men	CC:----:--:----	O	
+57-14	da	da	CS:----:--:----	O	
+57-15	de	de	PP:p-n#:--:-3n-	O	
+57-16	brød	bryde	VF:----:ta:----	O	
+57-17	med	med	T-:----:--:----	O	
+57-18	hinanden	hinanden	PC:p-u-:--:----	O	
+57-19	,	,	ZD	O	
+57-20	og	og	CC:----:--:----	O	
+57-21	han	han	PP:s-nc:--:-3n-	O	
+57-22	havde	have	VF:----:ta:----	O	
+57-23	været	være	VT:siu#:t-:----	O	
+57-24	single	single	NC:siuc:--:----	O	
+57-25	et	en	PI:s-un:--:----	O	
+57-26	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+57-27	tid	tid	NC:siuc:--:----	O	
+57-28	,	,	ZD	O	
+57-29	blev	blive	VF:----:ta:----	O	
+57-30	han	han	PP:s-nc:--:-3n-	O	
+57-31	forelsket	forelske	VT:siu#:t-:----	O	
+57-32	i	i	T-:----:--:----	O	
+57-33	endnu	endnu	D-:----:--:u---	O	
+57-34	en	en	PI:s-uc:--:----	O	
+57-35	Camilla	Camilla	NW:----:--:----	O	
+57-36	-	-	ZH	O	
+57-37	Høeg	Høeg	NP:siu#:--:----	O	
+57-38	Andersen	Andersen	NW:----:--:----	O	
+57-39	-	-	ZH	O	
+57-40	som	som	US:----:--:----	O	
+57-41	han	han	PP:s-nc:--:-3n-	O	
+57-42	siden	siden	D-:----:--:u---	O	
+57-43	er	være	VF:----:sa:----	O	
+57-44	blevet	blive	VT:siu#:t-:----	O	
+57-45	gift	gift	AC:siu§:--:p---	O	
+57-46	med	med	T-:----:--:----	O	
+57-47	.	.	ZP	O	
+
+#id=58
+#text=Det vil sige, at der er et langt stykke fra skambenet til bryst benet, hvor fosterne kan gemme sig.
+58-1	Det	det	PP:s-un:--:-3n-	O	
+58-2	vil	ville	VF:----:sa:----	O	
+58-3	sige	sige	VI:----:-a:----	O	
+58-4	,	,	ZD	O	
+58-5	at	at	CS:----:--:----	O	
+58-6	der	der	US:----:--:----	O	
+58-7	er	være	VF:----:sa:----	O	
+58-8	et	en	PI:s-un:--:----	O	
+58-9	langt	lang	AC:siun:--:p---	O	
+58-10	stykke	stykke	NC:siun:--:----	B-stykke-3	
+58-11	fra	fra	T-:----:--:----	O	
+58-12	skambenet	skamben	NC:sdun:--:----	O	
+58-13	til	til	T-:----:--:----	O	
+58-14	bryst	bryst	NC:siun:--:----	O	
+58-15	benet	bene	VT:siu#:t-:----	O	
+58-16	,	,	ZD	O	
+58-17	hvor	hvor	D-:----:--:u---	O	
+58-18	fosterne	fosterne	NC:siuc:--:----	O	
+58-19	kan	kunne	VF:----:sa:----	O	
+58-20	gemme	gemme	VI:----:-a:----	O	
+58-21	sig	sig	PP:#-u#:--:-3y-	O	
+58-22	.	.	ZP	O	
+
+#id=59
+#text=Hanudtalte forleden, at han overhovedet ikke tror på ægteskabet, da han har set for mange gode forhold gå i stykker efter ceremonien i kirken.
+59-1	Han	han	PP:s-nc:--:-3n-	O	
+59-2	udtalte	udtale	VF:----:ta:----	O	
+59-3	forleden	forleden	AD:----:--:p---	O	
+59-4	,	,	ZD	O	
+59-5	at	at	CS:----:--:----	O	
+59-6	han	han	PP:s-nc:--:-3n-	O	
+59-7	overhovedet	overhovedet	D-:----:--:u---	O	
+59-8	ikke	ikke	D-:----:--:u---	O	
+59-9	tror	tro	VF:----:sa:----	O	
+59-10	på	på	T-:----:--:----	O	
+59-11	ægteskabet	ægteskab	NC:sdun:--:----	O	
+59-12	,	,	ZD	O	
+59-13	da	da	CS:----:--:----	O	
+59-14	han	han	PP:s-nc:--:-3n-	O	
+59-15	har	have	VF:----:sa:----	O	
+59-16	set	se	VT:siu#:t-:----	O	
+59-17	for	for	T-:----:--:----	O	
+59-18	mange	mangen	AC:p#u#:--:p---	O	
+59-19	gode	god	AC:p#u#:--:p---	O	
+59-20	forhold	forhold	NC:piu#:--:----	O	
+59-21	gå	gå	VI:----:-a:----	O	
+59-22	i	i	T-:----:--:----	O	
+59-23	stykker	stykke	NC:piu#:--:----	B-stykke-F-i-stykker	
+59-24	efter	efter	T-:----:--:----	O	
+59-25	ceremonien	ceremoni	NC:sduc:--:----	O	
+59-26	i	i	T-:----:--:----	O	
+59-27	kirken	kirke	NC:sduc:--:----	O	
+59-28	.	.	ZP	O	
+
+#id=60
+#text=Psykologenskar ormen over i to stykker og spiste det ene.
+60-1	Psykologen	psykolog	NC:sduc:--:----	O	
+60-2	skar	skære	VF:----:ta:----	O	
+60-3	ormen	orm	NC:sduc:--:----	O	
+60-4	over	over	D-:----:--:u---	O	
+60-5	i	i	T-:----:--:----	O	
+60-6	to	to	LC:--u-:--:----	O	
+60-7	stykker	stykke	NC:piu#:--:----	B-stykke-1	
+60-8	og	og	CC:----:--:----	O	
+60-9	spiste	spise	VF:----:ta:----	O	
+60-10	det	den	PM:s-un:--:----	O	
+60-11	ene	ene	AC:§§u§:--:p---	O	
+60-12	.	.	ZP	O	
+
+#id=61
+#text=Det spekulerede jeg over i et stykke tid.
+61-1	Det	det	PP:s-un:--:-3n-	O	
+61-2	spekulerede	spekulere	VF:----:ta:----	O	
+61-3	jeg	jeg	PP:s-nc:--:-1n-	O	
+61-4	over	over	D-:----:--:u---	O	
+61-5	i	i	T-:----:--:----	O	
+61-6	et	en	PI:s-un:--:----	O	
+61-7	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+61-8	tid	tid	NC:siuc:--:----	O	
+61-9	.	.	ZP	O	
+
+#id=62
+#text=Og prins Christian var da heller ikke helt så kry, som han plejer, da han tog fat i geviret på et stykke råvildt.
+62-1	Og	og	CC:----:--:----	O	
+62-2	prins	prins	NC:siuc:--:----	O	
+62-3	Christian	Christian	NP:siu#:--:----	O	
+62-4	var	være	VF:----:ta:----	O	
+62-5	da	da	D-:----:--:u---	O	
+62-6	heller	heller	D-:----:--:u---	O	
+62-7	ikke	ikke	D-:----:--:u---	O	
+62-8	helt	hel	AD:----:--:p---	O	
+62-9	så	så	D-:----:--:u---	O	
+62-10	kry	kry	AD:----:--:p---	O	
+62-11	,	,	ZD	O	
+62-12	som	som	US:----:--:----	O	
+62-13	han	han	PP:s-nc:--:-3n-	O	
+62-14	plejer	pleje	VF:----:sa:----	O	
+62-15	,	,	ZD	O	
+62-16	da	da	CS:----:--:----	O	
+62-17	han	han	PP:s-nc:--:-3n-	O	
+62-18	tog	tage	VF:----:ta:----	O	
+62-19	fat	fat	D-:----:--:u---	O	
+62-20	i	i	T-:----:--:----	O	
+62-21	geviret	gevir	NC:sdun:--:----	O	
+62-22	på	på	T-:----:--:----	O	
+62-23	et	en	PI:s-un:--:----	O	
+62-24	stykke	stykke	NC:siun:--:----	B-stykke-4	
+62-25	råvildt	råvildt	NC:siun:--:----	O	
+62-26	.	.	ZP	O	
+
+#id=63
+#text=Ogder var nok at se på, for de kongelige jægere og deres jagtkammerater nedlagde fire stykker kronvildt, 32 dådyr, 20 råvildt - og én ræv.
+63-1	Og	og	CC:----:--:----	O	
+63-2	der	der	US:----:--:----	O	
+63-3	var	være	VF:----:ta:----	O	
+63-4	nok	nok	D-:----:--:u---	O	
+63-5	at	at	UI:----:--:----	O	
+63-6	se	se	VI:----:-a:----	O	
+63-7	på	på	T-:----:--:----	O	
+63-8	,	,	ZD	O	
+63-9	for	for	T-:----:--:----	O	
+63-10	de	den	PM:p-u#:--:----	O	
+63-11	kongelige	kongelig	AC:p#u#:--:p---	O	
+63-12	jægere	jæger	NC:piu#:--:----	O	
+63-13	og	og	CC:----:--:----	O	
+63-14	deres	deres	PO:#--#:--:-3np	O	
+63-15	jagtkammerater	jagtkammerat	NC:piu#:--:----	O	
+63-16	nedlagde	nedlægge	VF:----:ta:----	O	
+63-17	fire	fire	LC:--u-:--:----	O	
+63-18	stykker	stykke	NC:piu#:--:----	B-stykke-4	
+63-19	kronvildt	kronvildt	NC:siun:--:----	O	
+63-20	,	,	ZD	O	
+63-21	32	32	LC:--u-:--:----	O	
+63-22	dådyr	dådyr	NC:piu#:--:----	O	
+63-23	,	,	ZD	O	
+63-24	20	20	LC:--u-:--:----	O	
+63-25	råvildt	råvildt	NW:----:--:----	O	
+63-26	-	-	ZH	O	
+63-27	og	og	CC:----:--:----	O	
+63-28	én	en	PI:s-uc:--:----	O	
+63-29	ræv	ræv	NC:siuc:--:----	O	
+63-30	.	.	ZP	O	
+
+#id=64
+#text=Et projekt har dog været undervejs gennem et stykke tid, og det når desværre ikke at blive færdigt til hendes fødselsdag på lørdag.
+64-1	Et	en	PI:s-un:--:----	O	
+64-2	projekt	projekt	NC:siun:--:----	O	
+64-3	har	have	VF:----:sa:----	O	
+64-4	dog	dog	:u---	O	
+64-5	været	være	VT:siu#:t-:----	O	
+64-6	undervejs	undervejs	D-:----:--:u---	O	
+64-7	gennem	gennem	T-:----:--:----	O	
+64-8	et	en	PI:s-un:--:----	O	
+64-9	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+64-10	tid	tid	NC:siuc:--:----	O	
+64-11	,	,	ZD	O	
+64-12	og	og	CC:----:--:----	O	
+64-13	det	det	PP:s-un:--:-3n-	O	
+64-14	når	nå	VF:----:sa:----	O	
+64-15	desværre	desværre	D-:----:--:u---	O	
+64-16	ikke	ikke	D-:----:--:u---	O	
+64-17	at	at	UI:----:--:----	O	
+64-18	blive	blive	VI:----:-a:----	O	
+64-19	færdigt	færdig	AD:----:--:p---	O	
+64-20	til	til	T-:----:--:----	O	
+64-21	hendes	hendes	PO:#--#:--:-3ns	O	
+64-22	fødselsdag	fødselsdag	NC:siuc:--:----	O	
+64-23	på	på	T-:----:--:----	O	
+64-24	lørdag	lørdag	NC:siuc:--:----	O	
+64-25	.	.	ZP	O	
+
+#id=65
+#text=-Jeg kunne faktisk godt tænke mig sådan en 14-15 stykker.
+65-1	-	-	NC:piu#:--:----	O	
+65-2	Jeg	jeg	NC:siun:--:----	O	
+65-3	kunne	kunne	VF:----:ta:----	O	
+65-4	faktisk	faktisk	AD:----:--:p---	O	
+65-5	godt	god	AD:----:--:p---	O	
+65-6	tænke	tænke	VI:----:-a:----	O	
+65-7	mig	jeg	PP:s-uc:--:-1#-	O	
+65-8	sådan	sådan	D-:----:--:u---	O	
+65-9	en	en	PI:s-uc:--:----	O	
+65-10	14	14	LW:----:--:----	O	
+65-11	-	-	ZH	O	
+65-12	15	15	LC:--u-:--:----	O	
+65-13	stykker	stykke	NC:piu#:--:----	B-stykke-4	
+65-14	.	.	ZP	O	
+
+#id=66
+#text=Deter efterhånden blevet ekstremt moderigtigt at være en lækker kvinde med et meget ungt stykke mandfolk ved sin side.
+66-1	Det	det	PP:s-un:--:-3n-	O	
+66-2	er	være	VF:----:sa:----	O	
+66-3	efterhånden	efterhånden	D-:----:--:u---	O	
+66-4	blevet	blive	VT:siu#:t-:----	O	
+66-5	ekstremt	ekstrem	AD:----:--:p---	O	
+66-6	moderigtigt	moderigtig	AC:siun:--:p---	O	
+66-7	at	at	UI:----:--:----	O	
+66-8	være	være	VI:----:-a:----	O	
+66-9	en	en	PI:s-uc:--:----	O	
+66-10	lækker	lækker	AC:siuc:--:p---	O	
+66-11	kvinde	kvinde	NC:siuc:--:----	O	
+66-12	med	med	T-:----:--:----	O	
+66-13	et	en	PI:s-un:--:----	O	
+66-14	meget	megen	AD:----:--:p---	O	
+66-15	ungt	ung	AC:siun:--:p---	O	
+66-16	stykke	stykke	NC:siun:--:----	B-stykke-4	
+66-17	mandfolk	mandfolk	NC:piu#:--:----	O	
+66-18	ved	ved	T-:----:--:----	O	
+66-19	sin	sin	PO:s--c:--:-3ys	O	
+66-20	side	side	NC:siuc:--:----	O	
+66-21	.	.	ZP	O	
+
+#id=67
+#text=Defleste mennesker ville gå i stykker i sådan en situation, men ikke den irskfødte Liam Neeson.
+67-1	De	den	PM:p-u#:--:----	O	
+67-2	fleste	mange	AC:p#u#:--:s---	O	
+67-3	mennesker	menneske	NC:piu#:--:----	O	
+67-4	ville	ville	VF:----:ta:----	O	
+67-5	gå	gå	VI:----:-a:----	O	
+67-6	i	i	T-:----:--:----	O	
+67-7	stykker	stykke	NC:piu#:--:----	B-stykke-F-i-stykker	
+67-8	i	i	T-:----:--:----	O	
+67-9	sådan	sådan	D-:----:--:u---	O	
+67-10	en	en	PI:s-uc:--:----	O	
+67-11	situation	situation	NC:siuc:--:----	O	
+67-12	,	,	ZD	O	
+67-13	men	men	CC:----:--:----	O	
+67-14	ikke	ikke	D-:----:--:u---	O	
+67-15	den	den	PM:s-uc:--:----	O	
+67-16	irskfødte	irskfødt	AC:sdu#:--:p---	O	
+67-17	Liam	Liam	NP:siu#:--:----	O	
+67-18	Neeson	Neeson	NP:siu#:--:----	O	
+67-19	.	.	ZP	O	
+
+#id=68
+#text=De medvirkede  begge i et Broadway-stykke i 1993, men hun var gift med en anden.
+68-1	De	de	PP:p-n#:--:-3n-	O	
+68-2	medvirkede	medvirke	VF:----:ta:----	O	
+68-3	begge	begge	PM:p-u#:--:----	O	
+68-4	i	i	T-:----:--:----	O	
+68-5	et	en	PI:s-un:--:----	O	
+68-6	Broadway	Broadway	NP:siu#:--:----	O	
+68-7	-	-	ZH	O	
+68-8	stykke	stykke	NC:siun:--:----	B-stykke-5a-5b	
+68-9	i	i	T-:----:--:----	O	
+68-10	1993	1993	LC:--u-:--:----	O	
+68-11	,	,	ZD	O	
+68-12	men	men	CC:----:--:----	O	
+68-13	hun	hun	PP:s-nc:--:-3n-	O	
+68-14	var	være	VF:----:ta:----	O	
+68-15	gift	gift	AC:siu§:--:p---	O	
+68-16	med	med	T-:----:--:----	O	
+68-17	en	en	PI:s-uc:--:----	O	
+68-18	anden	anden	PI:s-uc:--:----	O	
+68-19	.	.	ZP	O	
+
+#id=69
+#text=Beslutningener truffet, men der kommer alligevel til at gå et stykke tid, før der står Tantholdt på postkassen.
+69-1	Beslutningen	beslutning	NC:sduc:--:----	O	
+69-2	er	være	VF:----:sa:----	O	
+69-3	truffet	træffe	VT:siu#:t-:----	O	
+69-4	,	,	ZD	O	
+69-5	men	men	CC:----:--:----	O	
+69-6	der	der	US:----:--:----	O	
+69-7	kommer	komme	VF:----:sa:----	O	
+69-8	alligevel	alligevel	D-:----:--:u---	O	
+69-9	til	til	T-:----:--:----	O	
+69-10	at	at	UI:----:--:----	O	
+69-11	gå	gå	VI:----:-a:----	O	
+69-12	et	en	PI:s-un:--:----	O	
+69-13	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+69-14	tid	tid	NC:siuc:--:----	O	
+69-15	,	,	ZD	O	
+69-16	før	før	CS:----:--:----	O	
+69-17	der	der	US:----:--:----	O	
+69-18	står	stå	VF:----:sa:----	O	
+69-19	Tantholdt	Tantholdt	NP:siu#:--:----	O	
+69-20	på	på	T-:----:--:----	O	
+69-21	postkassen	postkasse	NC:sduc:--:----	O	
+69-22	.	.	ZP	O	
+
+#id=70
+#text=Et stykke chokolade, måske?
+70-1	Et	en	PI:s-un:--:----	O	
+70-2	stykke	stykke	NC:siun:--:----	B-stykke-4	
+70-3	chokolade	chokolade	NC:siuc:--:----	O	
+70-4	,	,	ZD	O	
+70-5	måske	måske	D-:----:--:u---	O	
+70-6	?	?	ZQ	O	
+
+#id=71
+#text=Haner i hvert fald et stykke vej fra at være en farlig strandløve i franske Saint-Tropez, der er de riges legeplads om sommeren.
+71-1	Han	han	PP:s-nc:--:-3n-	O	
+71-2	er	være	VF:----:sa:----	O	
+71-3	i	i	T-:----:--:----	O	
+71-4	hvert	hver	PI:s-un:--:----	O	
+71-5	fald	fald	NC:siun:--:----	O	
+71-6	et	en	PI:s-un:--:----	O	
+71-7	stykke	stykke	NC:siun:--:----	B-stykke-4b	
+71-8	vej	vej	NC:siuc:--:----	O	
+71-9	fra	fra	T-:----:--:----	O	
+71-10	at	at	UI:----:--:----	O	
+71-11	være	være	VI:----:-a:----	O	
+71-12	en	en	PI:s-uc:--:----	O	
+71-13	farlig	farlig	AC:siuc:--:p---	O	
+71-14	strandløve	strandløve	NC:siuc:--:----	O	
+71-15	i	i	T-:----:--:----	O	
+71-16	franske	fransk	AC:p#u#:--:p---	O	
+71-17	Saint	Saint	NW:----:--:----	O	
+71-18	-	-	ZH	O	
+71-19	Tropez	Tropez	NP:siu#:--:----	O	
+71-20	,	,	ZD	O	
+71-21	der	der	US:----:--:----	O	
+71-22	er	være	VF:----:sa:----	O	
+71-23	de	de	NP:siu#:--:----	O	
+71-24	riges	riges	NP:sig#:--:----	O	
+71-25	legeplads	legeplads	NC:siuc:--:----	O	
+71-26	om	om	T-:----:--:----	O	
+71-27	sommeren	sommer	NC:sduc:--:----	O	
+71-28	.	.	ZP	O	
+
+#id=72
+#text=Og selv om Lasse ikke vil bekræfte, at der er ekstra kærlige følelser mellem dem, har den sexede skuespillerinde også snuppet et stykke af hans hjerte.
+72-1	Og	og	CC:----:--:----	O	
+72-2	selv	selv	D-:----:--:u---	O	
+72-3	om	om	T-:----:--:----	O	
+72-4	Lasse	Lasse	NP:siu#:--:----	O	
+72-5	ikke	ikke	D-:----:--:u---	O	
+72-6	vil	ville	VF:----:sa:----	O	
+72-7	bekræfte	bekræfte	VI:----:-a:----	O	
+72-8	,	,	ZD	O	
+72-9	at	at	CS:----:--:----	O	
+72-10	der	der	US:----:--:----	O	
+72-11	er	være	VF:----:sa:----	O	
+72-12	ekstra	ekstra	AC:§§u§:--:p---	O	
+72-13	kærlige	kærlig	AC:p#u#:--:p---	O	
+72-14	følelser	følelse	NC:piu#:--:----	O	
+72-15	mellem	mellem	T-:----:--:----	O	
+72-16	dem	de	PP:p-u#:--:-3n-	O	
+72-17	,	,	ZD	O	
+72-18	har	have	VF:----:sa:----	O	
+72-19	den	den	PM:s-uc:--:----	O	
+72-20	sexede	sexet	AC:sdu#:--:p---	O	
+72-21	skuespillerinde	skuespillerinde	NC:siuc:--:----	O	
+72-22	også	også	D-:----:--:u---	O	
+72-23	snuppet	snuppe	VT:siu#:t-:----	O	
+72-24	et	en	PI:s-un:--:----	O	
+72-25	stykke	stykke	NC:siun:--:----	B-stykke-2	
+72-26	af	af	T-:----:--:----	O	
+72-27	hans	hans	PO:#--#:--:-3ns	O	
+72-28	hjerte	hjerte	NC:siun:--:----	O	
+72-29	.	.	ZP	O	
+
+#id=73
+#text=Det må være på det gamle Scanticon i Kolding, hvor vi boede under en turné, og efter forestillingen fik vi altid et stykke natmad.
+73-1	Det	det	PP:s-un:--:-3n-	O	
+73-2	må	måtte	VF:----:sa:----	O	
+73-3	være	være	VI:----:-a:----	O	
+73-4	på	på	T-:----:--:----	O	
+73-5	det	den	PM:s-un:--:----	O	
+73-6	gamle	gammel	AC:sdu#:--:p---	O	
+73-7	Scanticon	Scanticon	NP:siu#:--:----	O	
+73-8	i	i	T-:----:--:----	O	
+73-9	Kolding	Kolding	NP:siu#:--:----	O	
+73-10	,	,	ZD	O	
+73-11	hvor	hvor	D-:----:--:u---	O	
+73-12	vi	vi	PP:p-nc:--:-1n-	O	
+73-13	boede	bo	VF:----:ta:----	O	
+73-14	under	under	T-:----:--:----	O	
+73-15	en	en	PI:s-uc:--:----	O	
+73-16	turné	turné	NC:siuc:--:----	O	
+73-17	,	,	ZD	O	
+73-18	og	og	CC:----:--:----	O	
+73-19	efter	efter	T-:----:--:----	O	
+73-20	forestillingen	forestilling	NC:sduc:--:----	O	
+73-21	fik	få	VF:----:ta:----	O	
+73-22	vi	vi	PP:p-nc:--:-1n-	O	
+73-23	altid	altid	D-:----:--:u---	O	
+73-24	et	en	PI:s-un:--:----	O	
+73-25	stykke	stykke	NC:siun:--:----	B-stykke-1a	
+73-26	natmad	natmad	NC:siuc:--:----	O	
+73-27	.	.	ZP	O	
+
+#id=74
+#text=Pedersen, ster men det forhold gik i stykker, og parret fik aldrig børn.
+74-1	Pedersen	Pedersen	NP:siu#:--:----	O	
+74-2	,	,	ZD	O	
+74-3	ster	ste	VF:----:sa:----	O	
+74-4	men	men	CC:----:--:----	O	
+74-5	det	den	PM:s-un:--:----	O	
+74-6	forhold	forhold	NC:siun:--:----	O	
+74-7	gik	gå	VF:----:ta:----	O	
+74-8	i	i	T-:----:--:----	O	
+74-9	stykker	stykke	NC:piu#:--:----	B-stykke-F-i-stykker	
+74-10	,	,	ZD	O	
+74-11	og	og	CC:----:--:----	O	
+74-12	parret	par	NC:sdun:--:----	O	
+74-13	fik	få	VF:----:ta:----	O	
+74-14	aldrig	aldrig	D-:----:--:u---	O	
+74-15	børn	barn	NC:piu#:--:----	O	
+74-16	.	.	ZP	O	
+
+#id=75
+#text=Detalte begge bevægede om hans humoristiske sans, der spredte godt humør, hans indre legebarn, der gjorde ham populær blandt de mindste, og hans evne til at se det gode i selv små ting som et stykke chokolade til teen.
+75-1	De	de	PP:p-n#:--:-3n-	O	
+75-2	talte	tale	VF:----:ta:----	O	
+75-3	begge	begge	PM:p-u#:--:----	O	
+75-4	bevægede	bevæge	VP:p#u#:t-:----	O	
+75-5	om	om	T-:----:--:----	O	
+75-6	hans	hans	PO:#--#:--:-3ns	O	
+75-7	humoristiske	humoristisk	AC:sdu#:--:p---	O	
+75-8	sans	sans	NC:siuc:--:----	O	
+75-9	,	,	ZD	O	
+75-10	der	der	US:----:--:----	O	
+75-11	spredte	ede	VF:----:ta:----	O	
+75-12	godt	god	AC:siun:--:p---	O	
+75-13	humør	humør	NC:siun:--:----	O	
+75-14	,	,	ZD	O	
+75-15	hans	hans	PO:#--#:--:-3ns	O	
+75-16	indre	indre	AC:§§u§:--:p---	O	
+75-17	legebarn	legebarn	NC:siun:--:----	O	
+75-18	,	,	ZD	O	
+75-19	der	der	US:----:--:----	O	
+75-20	gjorde	gøre	VF:----:ta:----	O	
+75-21	ham	han	PP:s-uc:--:-3n-	O	
+75-22	populær	populær	AC:siuc:--:p---	O	
+75-23	blandt	blandt	T-:----:--:----	O	
+75-24	de	den	PM:p-u#:--:----	O	
+75-25	mindste	lille	AC:§du§:--:s---	O	
+75-26	,	,	ZD	O	
+75-27	og	og	CC:----:--:----	O	
+75-28	hans	hans	PO:#--#:--:-3ns	O	
+75-29	evne	evne	NC:siuc:--:----	O	
+75-30	til	til	T-:----:--:----	O	
+75-31	at	at	UI:----:--:----	O	
+75-32	se	se	VI:----:-a:----	O	
+75-33	det	den	PM:s-un:--:----	O	
+75-34	gode	god	AC:sdu#:--:p---	O	
+75-35	i	i	T-:----:--:----	O	
+75-36	selv	selv	D-:----:--:u---	O	
+75-37	små	lille	AC:p#u#:--:p---	O	
+75-38	ting	ting	NC:piu#:--:----	O	
+75-39	som	som	US:----:--:----	O	
+75-40	et	en	PI:s-un:--:----	O	
+75-41	stykke	stykke	NC:siun:--:----	B-stykke-4	
+75-42	chokolade	chokolade	--:----	O	
+75-43	til	til	T-:----:--:----	O	
+75-44	teen	te	NC:sduc:--:----	O	
+75-45	.	.	ZP	O	
+
+#id=76
+#text=-Nej, hvor er det bare en fed dag! udbrød Simone, mens hun strålede og kiggede på det stykke papir, hun lige havde fået som bevis på, at hun nu må køre bil.
+76-1	-	-	NC:piu#:--:----	O	
+76-2	Nej	nej	NC:siun:--:----	O	
+76-3	,	,	ZD	O	
+76-4	hvor	hvor	D-:----:--:u---	O	
+76-5	er	være	VF:----:sa:----	O	
+76-6	det	det	PP:s-un:--:-3n-	O	
+76-7	bare	bare	D-:----:--:u---	O	
+76-8	en	en	PI:s-uc:--:----	O	
+76-9	fed	fed	AC:siuc:--:p---	O	
+76-10	dag	dag	NC:siuc:--:----	O	
+76-11	!	!	ZP	O	
+76-12	udbrød	udbryde	VF:----:ta:----	O	
+76-13	Simone	Simone	NP:siu#:--:----	O	
+76-14	,	,	ZD	O	
+76-15	mens	mens	CS:----:--:----	O	
+76-16	hun	hun	PP:s-nc:--:-3n-	O	
+76-17	strålede	stråle	VF:----:ta:----	O	
+76-18	og	og	CC:----:--:----	O	
+76-19	kiggede	kigge	VF:----:ta:----	O	
+76-20	på	på	T-:----:--:----	O	
+76-21	det	den	PM:s-un:--:----	O	
+76-22	stykke	stykke	NC:siun:--:----	B-stykke-4	
+76-23	papir	papir	NC:siun:--:----	O	
+76-24	,	,	ZD	O	
+76-25	hun	hun	PP:s-nc:--:-3n-	O	
+76-26	lige	lige	D-:----:--:u---	O	
+76-27	havde	have	VF:----:ta:----	O	
+76-28	fået	få	VT:siu#:t-:----	O	
+76-29	som	som	US:----:--:----	O	
+76-30	bevis	bevis	NC:siun:--:----	O	
+76-31	på	på	T-:----:--:----	O	
+76-32	,	,	ZD	O	
+76-33	at	at	CS:----:--:----	O	
+76-34	hun	hun	PP:s-nc:--:-3n-	O	
+76-35	nu	nu	D-:----:--:u---	O	
+76-36	må	måtte	VF:----:sa:----	O	
+76-37	køre	køre	VI:----:-a:----	O	
+76-38	bil	bil	NC:siuc:--:----	O	
+76-39	.	.	ZP	O	
+
+#id=77
+#text=Derfor ville vi godt et stykke op i Sverige, fordi Danmark sådan naturmæssigt ikke er så spændende har Jesper Allentoft udtalt til svensk radio.
+77-1	Derfor	derfor	D-:----:--:u---	O	
+77-2	ville	ville	VF:----:ta:----	O	
+77-3	vi	vi	PP:p-nc:--:-1n-	O	
+77-4	godt	god	AD:----:--:p---	O	
+77-5	et	en	PI:s-un:--:----	O	
+77-6	stykke	stykke	NC:siun:--:----	B-stykke-3	
+77-7	op	op	D-:----:--:u---	O	
+77-8	i	i	T-:----:--:----	O	
+77-9	Sverige	Sverige	NP:siu#:--:----	O	
+77-10	,	,	ZD	O	
+77-11	fordi	fordi	CS:----:--:----	O	
+77-12	Danmark	Danmark	NP:siu#:--:----	O	
+77-13	sådan	sådan	D-:----:--:u---	O	
+77-14	naturmæssigt	naturmæssig	AD:----:--:p---	O	
+77-15	ikke	ikke	D-:----:--:u---	O	
+77-16	er	være	VF:----:sa:----	O	
+77-17	så	så	D-:----:--:u---	O	
+77-18	spændende	spændende	AC:§§u§:--:p---	O	
+77-19	har	have	VF:----:sa:----	O	
+77-20	Jesper	Jesper	NP:siu#:--:----	O	
+77-21	Allentoft	Allentoft	NP:siu#:--:----	O	
+77-22	udtalt	udtale	VT:siu#:t-:----	O	
+77-23	til	til	T-:----:--:----	O	
+77-24	svensk	svensk	AC:siu§:--:p---	O	
+77-25	radio	radio	NC:siuc:--:----	O	
+77-26	.	.	ZP	O	
+
+#id=78
+#text=Han er så glad for de dyre stykker  hår, at han tit bare går ind og kigger på dem, friserer dem og sætter dem i orden.
+78-1	Han	han	PP:s-nc:--:-3n-	O	
+78-2	er	være	VF:----:sa:----	O	
+78-3	så	så	D-:----:--:u---	O	
+78-4	glad	glad	AC:siu§:--:p---	O	
+78-5	for	for	T-:----:--:----	O	
+78-6	de	den	PM:p-u#:--:----	O	
+78-7	dyre	dyr	AC:p#u#:--:p---	O	
+78-8	stykker	stykke	NC:piu#:--:----	B-stykke-4	
+78-9	hår	hår	NC:piu#:--:----	O	
+78-10	,	,	ZD	O	
+78-11	at	at	CS:----:--:----	O	
+78-12	han	han	PP:s-nc:--:-3n-	O	
+78-13	tit	tit	D-:----:--:u---	O	
+78-14	bare	bare	D-:----:--:u---	O	
+78-15	går	gå	VF:----:sa:----	O	
+78-16	ind	ind	D-:----:--:u---	O	
+78-17	og	og	CC:----:--:----	O	
+78-18	kigger	kigge	VF:----:sa:----	O	
+78-19	på	på	T-:----:--:----	O	
+78-20	dem	de	PP:p-u#:--:-3n-	O	
+78-21	,	,	ZD	O	
+78-22	friserer	frisere	VF:----:sa:----	O	
+78-23	dem	de	PP:p-u#:--:-3n-	O	
+78-24	og	og	CC:----:--:----	O	
+78-25	sætter	sætte	VF:----:sa:----	O	
+78-26	dem	de	PP:p-u#:--:-3n-	O	
+78-27	i	i	T-:----:--:----	O	
+78-28	orden	orden	NC:siuc:--:----	O	
+78-29	.	.	ZP	O	
+
+#id=79
+#text=Tilgengæld satte hvalen sit tydelige spor på den høje mast, der blev tilintetgjort, og samtidig efterlod den et stykke hvalfedt på båden, inden den svømmede videre.
+79-1	Til	til	T-:----:--:----	O	
+79-2	gengæld	gengæld	NC:siuc:--:----	O	
+79-3	satte	sætte	VF:----:ta:----	O	
+79-4	hvalen	hval	NC:sduc:--:----	O	
+79-5	sit	sit	XY:----:--:----	O	
+79-6	tydelige	tydelig	AC:sdu#:--:p---	O	
+79-7	spor	spor	NC:siun:--:----	O	
+79-8	på	på	T-:----:--:----	O	
+79-9	den	den	PM:s-uc:--:----	O	
+79-10	høje	høj	AC:sdu#:--:p---	O	
+79-11	mast	mast	NC:siuc:--:----	O	
+79-12	,	,	ZD	O	
+79-13	der	der	US:----:--:----	O	
+79-14	blev	blive	VF:----:ta:----	O	
+79-15	tilintetgjort	tilintetgøre	VT:siu#:t-:----	O	
+79-16	,	,	ZD	O	
+79-17	og	og	CC:----:--:----	O	
+79-18	samtidig	samtidig	D-:----:--:u---	O	
+79-19	efterlod	efterlod	VF:----:ta:----	O	
+79-20	den	den	PP:s-uc:--:-3n-	O	
+79-21	et	en	PI:s-un:--:----	O	
+79-22	stykke	stykke	NC:siun:--:----	B-stykke-1	
+79-23	hvalfedt	hvalfedt	NC:siun:--:----	O	
+79-24	på	på	T-:----:--:----	O	
+79-25	båden	båd	NC:sduc:--:----	O	
+79-26	,	,	ZD	O	
+79-27	inden	inden	CS:----:--:----	O	
+79-28	den	den	PP:s-uc:--:-3n-	O	
+79-29	svømmede	svømme	VF:----:ta:----	O	
+79-30	videre	videre	D-:----:--:u---	O	
+79-31	.	.	ZP	O	
+
+#id=80
+#text=Mit trekløver er splittet, og vores lille familie er gået i stykker,  begyndte " X Factorbødlen".
+80-1	Mit	mit	XF:----:--:----	O	
+80-2	trekløver	trekløver	NC:siu#:--:----	O	
+80-3	er	være	VF:----:sa:----	O	
+80-4	splittet	splitte	VT:siu#:t-:----	O	
+80-5	,	,	ZD	O	
+80-6	og	og	CC:----:--:----	O	
+80-7	vores	vores	XY:----:--:----	O	
+80-8	lille	lille	AC:s§u§:--:p---	O	
+80-9	familie	familie	NC:siuc:--:----	O	
+80-10	er	være	VF:----:sa:----	O	
+80-11	gået	gå	VT:siu#:t-:----	O	
+80-12	i	i	T-:----:--:----	O	
+80-13	stykker	stykke	NC:piu#:--:----	B-stykke-F-i-stykker	
+80-14	,	,	ZD	O	
+80-15	begyndte	begynde	VF:----:ta:----	O	
+80-16	"	"	ZI	O	
+80-17	X	X	NC:siun:--:----	O	
+80-18	Factorbødlen	Factorbødlen	NP:siu#:--:----	O	
+80-19	"	"	ZI	O	
+80-20	.	.	ZP	O	
+
+#id=81
+#text=Såda Aura for nylig optrådte i Hamburg i Tyskland under showet " Nacht der Legenden", var det med fjer på hovedet og et stykke bart bryst.
+81-1	Så	så	D-:----:--:u---	O	
+81-2	da	da	CS:----:--:----	O	
+81-3	Aura	aura	NC:siuc:--:----	O	
+81-4	for	for	T-:----:--:----	O	
+81-5	nylig	nylig	AD:----:--:p---	O	
+81-6	optrådte	optræde	VF:----:ta:----	O	
+81-7	i	i	T-:----:--:----	O	
+81-8	Hamburg	Hamburg	NP:siu#:--:----	O	
+81-9	i	i	T-:----:--:----	O	
+81-10	Tyskland	Tyskland	NP:siu#:--:----	O	
+81-11	under	under	T-:----:--:----	O	
+81-12	showet	show	NC:sdun:--:----	O	
+81-13	"	"	ZI	O	
+81-14	Nacht	Nacht	NP:siu#:--:----	O	
+81-15	der	der	US:----:--:----	O	
+81-16	Legenden	legende	NC:sduc:--:----	O	
+81-17	"	"	ZI	O	
+81-18	,	,	ZD	O	
+81-19	var	være	VF:----:ta:----	O	
+81-20	det	det	PP:s-un:--:-3n-	O	
+81-21	med	med	T-:----:--:----	O	
+81-22	fjer	fjer	NC:siuc:--:----	O	
+81-23	på	på	T-:----:--:----	O	
+81-24	hovedet	hoved	NC:sdun:--:----	O	
+81-25	og	og	CC:----:--:----	O	
+81-26	et	en	PI:s-un:--:----	O	
+81-27	stykke	stykke	NC:siun:--:----	B-stykke-2	
+81-28	bart	bar	AC:siun:--:p---	O	
+81-29	bryst	bryst	NC:siun:--:----	O	
+81-30	.	.	ZP	O	
+
+#id=82
+#text=blev,som nævnt i Boulevarden for nylig, skilt fra manden Tim Robbins, og nu iler vi med en mulig grund til, at ægteskabet forliste: 63-årige Susan er set flere gange i byen med et nyt stykke legetøj:
+82-1	blev	blive	VF:----:ta:----	O	
+82-2	,	,	ZD	O	
+82-3	som	som	US:----:--:----	O	
+82-4	nævnt	nævne	VT:siu#:t-:----	O	
+82-5	i	i	T-:----:--:----	O	
+82-6	Boulevarden	boulevard	NC:sduc:--:----	O	
+82-7	for	for	T-:----:--:----	O	
+82-8	nylig	nylig	AD:----:--:p---	O	
+82-9	,	,	ZD	O	
+82-10	skilt	skille	VT:siu#:t-:----	O	
+82-11	fra	fra	T-:----:--:----	O	
+82-12	manden	mand	NC:sduc:--:----	O	
+82-13	Tim	Tim	XY:----:--:----	O	
+82-14	Robbins	Robbins	NP:siu#:--:----	O	
+82-15	,	,	ZD	O	
+82-16	og	og	--:----	O	
+82-17	nu	nu	D-:----:--:u---	O	
+82-18	iler	ile	VF:----:sa:----	O	
+82-19	vi	vi	PP:p-nc:--:-1n-	O	
+82-20	med	med	T-:----:--:----	O	
+82-21	en	en	PI:s-uc:--:----	O	
+82-22	mulig	mulig	AC:siuc:--:p---	O	
+82-23	grund	grund	NC:siuc:--:----	O	
+82-24	til	til	T-:----:--:----	O	
+82-25	,	,	ZD	O	
+82-26	at	at	CS:----:--:----	O	
+82-27	ægteskabet	ægteskab	NC:sdun:--:----	O	
+82-28	forliste	forlise	VF:----:ta:----	O	
+82-29	:	:	ZP	O	
+82-30	63	63	LC:--u-:--:----	O	
+82-31	-	-	ZH	O	
+82-32	årige	årig	AC:sdu#:--:p---	O	
+82-33	Susan	Susan	NP:siu#:--:----	O	
+82-34	er	være	VF:----:sa:----	O	
+82-35	set	se	VT:siu#:t-:----	O	
+82-36	flere	mange	AC:##u#:--:c---	O	
+82-37	gange	gang	NC:piu#:--:----	O	
+82-38	i	i	T-:----:--:----	O	
+82-39	byen	by	NC:sduc:--:----	O	
+82-40	med	med	T-:----:--:----	O	
+82-41	et	en	PI:s-un:--:----	O	
+82-42	nyt	ny	AC:siun:--:p---	O	
+82-43	stykke	stykke	NC:siun:--:----	B-stykke-4a	
+82-44	legetøj	legetøj	NC:siun:--:----	O	
+82-45	:	:	ZP	O	
+
+#id=83
+#text=Schackenborgs ejer gav nemlig forleden tilladelse til en jagt på jorder i Gallehus Skov, hvor deltagerne nedlagde 39 stykker vildt.
+83-1	Schackenborgs	Schackenborg	NP:sig#:--:----	O	
+83-2	ejer	ejer	NC:siuc:--:----	O	
+83-3	gav	give	VF:----:ta:----	O	
+83-4	nemlig	nemlig	D-:----:--:u---	O	
+83-5	forleden	forleden	AD:----:--:p---	O	
+83-6	tilladelse	tilladelse	NC:siuc:--:----	O	
+83-7	til	til	T-:----:--:----	O	
+83-8	en	en	PI:s-uc:--:----	O	
+83-9	jagt	jagt	NC:siuc:--:----	O	
+83-10	på	på	T-:----:--:----	O	
+83-11	jorder	jorder	NC:piu#:--:----	O	
+83-12	i	i	T-:----:--:----	O	
+83-13	Gallehus	Gallehus	NP:sig#:--:----	O	
+83-14	Skov	skov	NC:siuc:--:----	O	
+83-15	,	,	ZD	O	
+83-16	hvor	hvor	D-:----:--:u---	O	
+83-17	deltagerne	deltager	NC:pdu#:--:----	O	
+83-18	nedlagde	nedlægge	VF:----:ta:----	O	
+83-19	39	39	LC:--u-:--:----	O	
+83-20	stykker	stykke	NC:piu#:--:----	B-stykke-4	
+83-21	vildt	vild	AD:----:--:p---	O	
+83-22	.	.	ZP	O	
+
+#id=84
+#text=Ti stykker nedlagt vildt havde været mere passende, mener flere af jægerne.
+84-1	Ti	ti	LC:--u-:--:----	O	
+84-2	stykker	stykke	NC:piu#:--:----	B-stykke-4	
+84-3	nedlagt	nedlægge	VT:siu#:t-:----	O	
+84-4	vildt	vild	AD:----:--:p---	O	
+84-5	havde	have	VF:----:ta:----	O	
+84-6	været	være	VT:siu#:t-:----	O	
+84-7	mere	megen	AD:----:--:c---	O	
+84-8	passende	passende	AC:§§u§:--:p---	O	
+84-9	,	,	ZD	O	
+84-10	mener	mene	VF:----:sa:----	O	
+84-11	flere	mange	AC:##u#:--:c---	O	
+84-12	af	af	T-:----:--:----	O	
+84-13	jægerne	jæger	NC:pdu#:--:----	O	
+84-14	.	.	ZP	O	
+
+#id=85
+#text=Lige nu har jeg både lysten og motivationen til at bokse videre, så jeg bliver ved et stykke tid endnu, fastslår Mads Larsen.
+85-1	Lige	lige	D-:----:--:u---	O	
+85-2	nu	nu	D-:----:--:u---	O	
+85-3	har	have	VF:----:sa:----	O	
+85-4	jeg	jeg	PP:s-nc:--:-1n-	O	
+85-5	både	både	D-:----:--:u---	O	
+85-6	lysten	lysten	AC:siuc:--:p---	O	
+85-7	og	og	:----:--:----	O	
+85-8	motivationen	motivation	NC:sduc:--:----	O	
+85-9	til	til	T-:----:--:----	O	
+85-10	at	at	UI:----:--:----	O	
+85-11	bokse	bokse	VI:----:-a:----	O	
+85-12	videre	videre	D-:----:--:u---	O	
+85-13	,	,	ZD	O	
+85-14	så	så	CS:----:--:----	O	
+85-15	jeg	jeg	PP:s-nc:--:-1n-	O	
+85-16	bliver	blive	VF:----:sa:----	O	
+85-17	ved	ved	T-:----:--:----	O	
+85-18	et	en	PI:s-un:--:----	O	
+85-19	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+85-20	tid	tid	NC:siuc:--:----	O	
+85-21	endnu	endnu	D-:----:--:u---	O	
+85-22	,	,	ZD	O	
+85-23	fastslår	fastslå	VF:----:sa:----	O	
+85-24	Mads	Mads	NP:siu#:--:----	O	
+85-25	Larsen	Larsen	NP:siu#:--:----	O	
+85-26	.	.	ZP	O	
+
+#id=86
+#text=Nuom stunder vil kun rige russere være det bras bekendt, og Kenneth ville være bedre hjulpet med et stykke snor.
+86-1	Nu	nu	D-:----:--:u---	O	
+86-2	om	om	T-:----:--:----	O	
+86-3	stunder	stund	NC:piu#:--:----	O	
+86-4	vil	ville	VF:----:sa:----	O	
+86-5	kun	kun	D-:----:--:u---	O	
+86-6	rige	rig	AC:p#u#:--:p---	O	
+86-7	russere	russer	NC:piu#:--:----	O	
+86-8	være	være	VI:----:-a:----	O	
+86-9	det	den	PM:s-un:--:----	O	
+86-10	bras	bras	NC:siun:--:----	O	
+86-11	bekendt	bekendt	AC:siu§:--:p---	O	
+86-12	,	,	ZD	O	
+86-13	og	og	CC:----:--:----	O	
+86-14	Kenneth	Kenneth	NP:siu#:--:----	O	
+86-15	ville	ville	VF:----:ta:----	O	
+86-16	være	være	VI:----:-a:----	O	
+86-17	bedre	god	AD:----:--:c---	O	
+86-18	hjulpet	hjælpe	VT:siu#:t-:----	O	
+86-19	med	med	T-:----:--:----	O	
+86-20	et	en	PI:s-un:--:----	O	
+86-21	stykke	stykke	NC:siun:--:----	B-stykke-1	
+86-22	snor	sno	VF:----:sa:----	O	
+86-23	.	.	ZP	O	
+
+#id=87
+#text=-Derfor har vi nok gået med beslutningen et stykke tid, men det nyttede ikke - og så er det bare synd for alle parter, siger Henrik Dahl, som sidste år barslede med bogen " Idiot", hvor han sammen med Camilla åbenhjertigt skrev om livet som maniodepressiv.
+87-1	-	-	NC:piu#:--:----	O	
+87-2	Derfor	derfor	D-:----:--:u---	O	
+87-3	har	have	VF:----:sa:----	O	
+87-4	vi	vi	PP:p-nc:--:-1n-	O	
+87-5	nok	nok	D-:----:--:u---	O	
+87-6	gået	gå	#:t-:----	O	
+87-7	med	med	T-:----:--:----	O	
+87-8	beslutningen	beslutning	NC:sduc:--:----	O	
+87-9	et	en	PI:s-un:--:----	O	
+87-10	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+87-11	tid	tid	NC:siuc:--:----	O	
+87-12	,	,	ZD	O	
+87-13	men	men	CC:----:--:----	O	
+87-14	det	det	PP:s-un:--:-3n-	O	
+87-15	nyttede	nytte	VF:----:ta:----	O	
+87-16	ikke	ikke	D-:----:--:u---	O	
+87-17	-	-	NC:piu#:--:----	O	
+87-18	og	og	CC:----:--:----	O	
+87-19	så	så	D-:----:--:u---	O	
+87-20	er	være	VF:----:sa:----	O	
+87-21	det	det	PP:s-un:--:-3n-	O	
+87-22	bare	bare	D-:----:--:u---	O	
+87-23	synd	synd	AC:§§u§:--:p---	O	
+87-24	for	for	T-:----:--:----	O	
+87-25	alle	al	PI:p-u#:--:----	O	
+87-26	parter	part	NC:piu#:--:----	O	
+87-27	,	,	ZD	O	
+87-28	siger	sige	VF:----:sa:----	O	
+87-29	Henrik	Henrik	NP:siu#:--:----	O	
+87-30	Dahl	Dahl	--	O	
+87-31	,	,	ZD	O	
+87-32	som	som	US:----:--:----	O	
+87-33	sidste	sidste	AC:§§u§:--:p---	O	
+87-34	år	år	NC:siun:--:----	O	
+87-35	barslede	barsle	VF:----:ta:----	O	
+87-36	med	med	T-:----:--:----	O	
+87-37	bogen	bog	NC:sduc:--:----	O	
+87-38	"	"	ZI	O	
+87-39	Idiot	idiot	NC:siuc:--:----	O	
+87-40	"	"	ZI	O	
+87-41	,	,	ZD	O	
+87-42	hvor	hvor	D-:----:--:u---	O	
+87-43	han	han	PP:s-nc:--:-3n-	O	
+87-44	sammen	sammen	D-:----:--:u---	O	
+87-45	med	med	T-:----:--:----	O	
+87-46	Camilla	Camilla	NP:siu#:--:----	O	
+87-47	åbenhjertigt	åbenhjertig	AD:----:--:p---	O	
+87-48	skrev	skrive	VF:----:ta:----	O	
+87-49	om	om	T-:----:--:----	O	
+87-50	livet	liv	NC:sdun:--:----	O	
+87-51	som	som	US:----:--:----	O	
+87-52	maniodepressiv	maniodepressiv	AC:siuc:--:p---	O	
+87-53	.	.	ZP	O	
+
+#id=88
+#text=Jeg er booket som gæstebartender det næste lange stykke tid.
+88-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+88-2	er	være	VF:----:sa:----	O	
+88-3	booket	booke	VT:siu#:t-:----	O	
+88-4	som	som	US:----:--:----	O	
+88-5	gæstebartender	gæstebartender	NC:siuc:--:----	O	
+88-6	det	den	PM:s-un:--:----	O	
+88-7	næste	næste	AC:§§u§:--:p---	O	
+88-8	lange	lang	AC:sdu#:--:p---	O	
+88-9	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+88-10	tid	tid	NC:siuc:--:----	O	
+88-11	.	.	ZP	O	
+
+#id=89
+#text=Og når det kommer til stykket, skal man spise, drikke og være glad".
+89-1	Og	og	CC:----:--:----	O	
+89-2	når	når	CS:----:--:----	O	
+89-3	det	det	PP:s-un:--:-3n-	O	
+89-4	kommer	komme	VF:----:sa:----	O	
+89-5	til	til	T-:----:--:----	O	
+89-6	stykket	stykke	NC:sdun:--:----	B-stykke-F-når-det-kommer-til-stykket	
+89-7	,	,	ZD	O	
+89-8	skal	skulle	VF:----:sa:----	O	
+89-9	man	man	PI:#-uc:--:----	O	
+89-10	spise	spise	VI:----:-a:----	O	
+89-11	,	,	ZD	O	
+89-12	drikke	drikke	NC:siuc:--:----	O	
+89-13	og	og	CC:----:--:----	O	
+89-14	være	være	VI:----:-a:----	O	
+89-15	glad	glad	AC:siu§:--:p---	O	
+89-16	"	"	ZI	O	
+89-17	.	.	ZP	O	
+
+#id=90
+#text=Varhan gået i teatret for at se " Kreditorer", ville han vide, at stykket er en enakter uden pause.
+90-1	Var	være	VF:----:ta:----	O	
+90-2	han	han	PP:s-nc:--:-3n-	O	
+90-3	gået	gå	VT:siu#:t-:----	O	
+90-4	i	i	T-:----:--:----	O	
+90-5	teatret	teater	NC:sdun:--:----	O	
+90-6	for	for	T-:----:--:----	O	
+90-7	at	at	UI:----:--:----	O	
+90-8	se	se	VI:----:-a:----	O	
+90-9	"	"	ZI	O	
+90-10	Kreditorer	kreditor	NC:piu#:--:----	O	
+90-11	"	"	ZI	O	
+90-12	,	,	ZD	O	
+90-13	ville	ville	VF:----:ta:----	O	
+90-14	han	han	PP:s-nc:--:-3n-	O	
+90-15	vide	vide	VI:----:-a:----	O	
+90-16	,	,	ZD	O	
+90-17	at	at	CS:----:--:----	O	
+90-18	stykket	stykke	NC:sdun:--:----	B-stykke-5a-5b	
+90-19	er	være	VF:----:sa:----	O	
+90-20	en	en	PI:s-uc:--:----	O	
+90-21	enakter	enakter	NC:siuc:--:----	O	
+90-22	uden	uden	-:--:----	O	
+90-23	pause	pause	NC:siuc:--:----	O	
+90-24	.	.	ZP	O	
+
+#id=91
+#text=Forholdetgik dog hurtigt i stykker, og en kilde tæt på Grønkjær kunne forklare, at han stadig ikke var klar til et nyt forhold, selv om der var gået tre år siden bruddet med Gitte.
+91-1	Forholdet	forhold	NC:sdun:--:----	O	
+91-2	gik	gå	VF:----:ta:----	O	
+91-3	dog	dog	D-:----:--:u---	O	
+91-4	hurtigt	hurtig	AD:----:--:p---	O	
+91-5	i	i	T-:----:--:----	O	
+91-6	stykker	stykke	NC:piu#:--:----	B-stykke-F-i-stykker	
+91-7	,	,	ZD	O	
+91-8	og	og	CC:----:--:----	O	
+91-9	en	en	PI:s-uc:--:----	O	
+91-10	kilde	kilde	NC:siuc:--:----	O	
+91-11	tæt	tæt	AD:----:--:p---	O	
+91-12	på	på	T-:----:--:----	O	
+91-13	Grønkjær	Grønkjær	NP:siu#:--:----	O	
+91-14	kunne	kunne	VF:----:ta:----	O	
+91-15	forklare	forklare	VI:----:-a:----	O	
+91-16	,	,	ZD	O	
+91-17	at	at	CS:----:--:----	O	
+91-18	han	han	PP:s-nc:--:-3n-	O	
+91-19	stadig	stadig	D-:----:--:u---	O	
+91-20	ikke	ikke	D-:----:--:u---	O	
+91-21	var	være	VF:----:ta:----	O	
+91-22	klar	klar	AC:siuc:--:p---	O	
+91-23	til	til	T-:----:--:----	O	
+91-24	et	en	PI:s-un:--:----	O	
+91-25	nyt	ny	AC:siun:--:p---	O	
+91-26	forhold	forhold	NC:siun:--:----	O	
+91-27	,	,	ZD	O	
+91-28	selv	selv	D-:----:--:u---	O	
+91-29	om	om	CS:----:--:----	O	
+91-30	der	der	US:----:--:----	O	
+91-31	var	være	VF:----:ta:----	O	
+91-32	gået	gå	VT:siu#:t-:----	O	
+91-33	tre	tre	LC:--u-:--:----	O	
+91-34	år	år	NC:piu#:--:----	O	
+91-35	siden	siden	T-:----:--:----	O	
+91-36	bruddet	brud	NC:sdun:--:----	O	
+91-37	med	med	T-:----:--:----	O	
+91-38	Gitte	Gitte	NP:siu#:--:----	O	
+91-39	.	.	ZP	O	
+
+#id=92
+#text=Forholdetgik i stykker kort efter, og siden har ekskæresterne diskuteret, hvad der skulle ske med deres gamle elskovsrede.
+92-1	Forholdet	forhold	NC:sdun:--:----	O	
+92-2	gik	gå	VF:----:ta:----	O	
+92-3	i	i	T-:----:--:----	O	
+92-4	stykker	stykke	NC:piu#:--:----	B-stykke-F-i-stykker	
+92-5	kort	kort	AD:----:--:p---	O	
+92-6	efter	efter	T-:----:--:----	O	
+92-7	,	,	ZD	O	
+92-8	og	og	CC:----:--:----	O	
+92-9	siden	siden	D-:----:--:u---	O	
+92-10	har	have	VF:----:sa:----	O	
+92-11	ekskæresterne	ekskæreste	NC:pdu#:--:----	O	
+92-12	diskuteret	diskutere	VT:siu#:t-:----	O	
+92-13	,	,	ZD	O	
+92-14	hvad	hvad	PR:s-u#:--:----	O	
+92-15	der	der	US:----:--:----	O	
+92-16	skulle	skulle	VF:----:ta:----	O	
+92-17	ske	ske	VI:----:-a:----	O	
+92-18	med	med	T-:----:--:----	O	
+92-19	deres	deres	PO:#--#:--:-3np	O	
+92-20	gamle	gammel	AC:sdu#:--:p---	O	
+92-21	elskovsrede	elskovsrede	NC:siuc:--:----	O	
+92-22	.	.	ZP	O	
+
+#id=93
+#text=Victoria Beckham, derimod, har omkring 100 stykker af den berømte taske og dens forgænger Kelly.
+93-1	Victoria	Victoria	NP:siu#:--:----	O	
+93-2	Beckham	Beckham	NP:siu#:--:----	O	
+93-3	,	,	ZD	O	
+93-4	derimod	derimod	D-:----:--:u---	O	
+93-5	,	,	ZD	O	
+93-6	har	have	VF:----:sa:----	O	
+93-7	omkring	omkring	T-:----:--:----	O	
+93-8	100	100	LC:--u-:--:----	O	
+93-9	stykker	stykke	NC:piu#:--:----	B-stykke-4	
+93-10	af	af	T-:----:--:----	O	
+93-11	den	den	PM:s-uc:--:----	O	
+93-12	berømte	berømt	AC:sdu#:--:p---	O	
+93-13	taske	taske	NC:siuc:--:----	O	
+93-14	og	og	CC:----:--:----	O	
+93-15	dens	dens	PO:#--#:--:-3ns	O	
+93-16	forgænger	forgænger	NC:siuc:--:----	O	
+93-17	Kelly	Kelly	NP:siu#:--:----	O	
+93-18	.	.	ZP	O	
+
+#id=94
+#text=I alt fald havde hun et stykke tyggegummi i munden, da man fandt hendes lig.
+94-1	I	i	T-:----:--:----	O	
+94-2	alt	al	PI:s-un:--:----	O	
+94-3	fald	fald	NC:siun:--:----	O	
+94-4	havde	have	VF:----:ta:----	O	
+94-5	hun	hun	PP:s-nc:--:-3n-	O	
+94-6	et	en	PI:s-un:--:----	O	
+94-7	stykke	stykke	NC:siun:--:----	B-stykke-4	
+94-8	tyggegummi	tyggegummi	NC:siun:--:----	O	
+94-9	i	i	T-:----:--:----	O	
+94-10	munden	mund	NC:sduc:--:----	O	
+94-11	,	,	ZD	O	
+94-12	da	da	CS:----:--:----	O	
+94-13	man	man	PI:#-uc:--:----	O	
+94-14	fandt	finde	VF:----:ta:----	O	
+94-15	hendes	hendes	PO:#--#:--:-3ns	O	
+94-16	lig	lig	NC:siun:--:----	O	
+94-17	.	.	ZP	O	
+
+#id=95
+#text=Med sit alibi slået i stykker tilstod han mordet.
+95-1	Med	med	T-:----:--:----	O	
+95-2	sit	sin	PO:s--n:--:-3ys	O	
+95-3	alibi	alibi	NC:siun:--:----	O	
+95-4	slået	slå	VT:siu#:t-:----	O	
+95-5	i	i	T-:----:--:----	O	
+95-6	stykker	stykke	NC:piu#:--:----	B-stykke-F-slå-i-stykker	
+95-7	tilstod	tilstå	VF:----:ta:----	O	
+95-8	han	han	PP:s-nc:--:-3n-	O	
+95-9	mordet	mord	NC:sdun:--:----	O	
+95-10	.	.	ZP	O	
+
+#id=96
+#text=Ikkesiden Jennifer indrømmede for et stykke tid siden i et David Letterman Show, at hun ikke anede, hvem David skulle giftes med.
+96-1	Ikke	ikke	D-:----:--:u---	O	
+96-2	siden	siden	T-:----:--:----	O	
+96-3	Jennifer	Jennifer	NP:siu#:--:----	O	
+96-4	indrømmede	indrømme	VF:----:ta:----	O	
+96-5	for	for	T-:----:--:----	O	
+96-6	et	en	PI:s-un:--:----	O	
+96-7	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+96-8	tid	tid	NC:siuc:--:----	O	
+96-9	siden	siden	D-:----:--:u---	O	
+96-10	i	i	T-:----:--:----	O	
+96-11	et	en	PI:s-un:--:----	O	
+96-12	David	David	NP:siu#:--:----	O	
+96-13	Letterman	Letterman	NP:siu#:--:----	O	
+96-14	Show	show	NC:siun:--:----	O	
+96-15	,	,	ZD	O	
+96-16	at	at	CS:----:--:----	O	
+96-17	hun	hun	PP:s-nc:--:-3n-	O	
+96-18	ikke	ikke	D-:----:--:u---	O	
+96-19	anede	ane	VF:----:ta:----	O	
+96-20	,	,	ZD	O	
+96-21	hvem	hvem	PR:#-uc:--:----	O	
+96-22	David	David	NP:siu#:--:----	O	
+96-23	skulle	skulle	VF:----:ta:----	O	
+96-24	giftes	gifte	VI:----:-p:----	O	
+96-25	med	med	T-:----:--:----	O	
+96-26	.	.	ZP	O	
+
+#id=97
+#text=Vennenførte an og kørte over det nedfaldne stykke træ, som derefter fløj op i luften og lige ind i den uheldige amerikaners ben.
+97-1	Vennen	ven	NC:sduc:--:----	O	
+97-2	førte	føre	VF:----:ta:----	O	
+97-3	an	an	D-:----:--:u---	O	
+97-4	og	og	CC:----:--:----	O	
+97-5	kørte	køre	VF:----:ta:----	O	
+97-6	over	over	T-:----:--:----	O	
+97-7	det	den	PM:s-un:--:----	O	
+97-8	nedfaldne	nedfalden	AC:sdu#:--:p---	O	
+97-9	stykke	stykke	NC:siun:--:----	B-stykke-1	
+97-10	træ	træ	NC:siun:--:----	O	
+97-11	,	,	ZD	O	
+97-12	som	som	US:----:--:----	O	
+97-13	derefter	derefter	D-:----:--:u---	O	
+97-14	fløj	flyve	VF:----:ta:----	O	
+97-15	op	op	D-:----:--:u---	O	
+97-16	i	i	T-:----:--:----	O	
+97-17	luften	luft	NC:sduc:--:----	O	
+97-18	og	og	CC:----:--:----	O	
+97-19	lige	lige	D-:----:--:u---	O	
+97-20	ind	ind	D-:----:--:u---	O	
+97-21	i	i	T-:----:--:----	O	
+97-22	den	den	PM:s-uc:--:----	O	
+97-23	uheldige	uheldig	AC:sdu#:--:p---	O	
+97-24	amerikaners	amerikaner	NC:sigc:--:----	O	
+97-25	ben	ben	NC:siun:--:----	O	
+97-26	.	.	ZP	O	
+
+#id=98
+#text=Kvinderne var vilde efter et stykke med småberuset nordmand, men Asle holdt stand, afværgede tappert de kåde fruentimmere og koncentrerede sig om sin kunst - og om de grønne flasker, naturligvis.
+98-1	Kvinderne	kvinde	NC:pdu#:--:----	O	
+98-2	var	være	VF:----:ta:----	O	
+98-3	vilde	vild	AC:p#u#:--:p---	O	
+98-4	efter	efter	T-:----:--:----	O	
+98-5	et	en	PI:s-un:--:----	O	
+98-6	stykke	stykke	NC:siun:--:----	B-stykke-4b	
+98-7	med	med	T-:----:--:----	O	
+98-8	småberuset	småberuset	AC:siu§:--:p---	O	
+98-9	nordmand	nordmand	NC:siuc:--:----	O	
+98-10	,	,	ZD	O	
+98-11	men	men	CC:----:--:----	O	
+98-12	Asle	Asle	NP:siu#:--:----	O	
+98-13	holdt	holde	VF:----:ta:----	O	
+98-14	stand	stand	NC:siuc:--:----	O	
+98-15	,	,	ZD	O	
+98-16	afværgede	afværge	VF:----:ta:----	O	
+98-17	tappert	tapper	AD:----:--:p---	O	
+98-18	de	den	PM:p-u#:--:----	O	
+98-19	kåde	kåd	AC:p#u#:--:p---	O	
+98-20	fruentimmere	fruentimmer	NC:piu#:--:----	O	
+98-21	og	og	CC:----:--:----	O	
+98-22	koncentrerede	koncentrere	VF:----:ta:----	O	
+98-23	sig	sig	PP:#-u#:--:-3y-	O	
+98-24	om	om	T-:----:--:----	O	
+98-25	sin	sin	PO:s--c:--:-3ys	O	
+98-26	kunst	kunst	NW:----:--:----	O	
+98-27	-	-	ZH	O	
+98-28	og	og	CC:----:--:----	O	
+98-29	om	om	T-:----:--:----	O	
+98-30	de	den	PM:p-u#:--:----	O	
+98-31	grønne	grøn	AC:p#u#:--:p---	O	
+98-32	flasker	flaske	NC:piu#:--:----	O	
+98-33	,	,	ZD	O	
+98-34	naturligvis	naturligvis	D-:----:--:u---	O	
+98-35	.	.	ZP	O	
+
+#id=99
+#text=Det er ikke kun Danmark, der har været hårdt ramt af sne og frost det seneste stykke tid.
+99-1	Det	det	PP:s-un:--:-3n-	O	
+99-2	er	være	VF:----:sa:----	O	
+99-3	ikke	ikke	D-:----:--:u---	O	
+99-4	kun	kun	D-:----:--:u---	O	
+99-5	Danmark	Danmark	NP:siu#:--:----	O	
+99-6	,	,	ZD	O	
+99-7	der	der	US:----:--:----	O	
+99-8	har	have	VF:----:sa:----	O	
+99-9	været	være	VT:siu#:t-:----	O	
+99-10	hårdt	hård	AD:----:--:p---	O	
+99-11	ramt	ramme	VT:siu#:t-:----	O	
+99-12	af	af	T-:----:--:----	O	
+99-13	sne	sne	NC:siuc:--:----	O	
+99-14	og	og	CC:----:--:----	O	
+99-15	frost	frost	NC:siuc:--:----	O	
+99-16	det	den	PM:s-un:--:----	O	
+99-17	seneste	sen	AC:§du§:--:s---	O	
+99-18	stykke	stykke	NC:siun:--:----	B-stykke-3a	
+99-19	tid	tid	NC:siuc:--:----	O	
+99-20	.	.	ZP	O	
+
+#id=100
+#text=Etstykke derfra på ZEN i Nørregade var der gang i en kæmpe fest ud på natten.
+100-1	Et	en	PI:s-un:--:----	O	
+100-2	stykke	stykke	un:--:----	B-stykke-3	
+100-3	derfra	derfra	D-:----:--:u---	O	
+100-4	på	på	T-:----:--:----	O	
+100-5	ZEN	zen	NC:siuc:--:----	O	
+100-6	i	i	T-:----:--:----	O	
+100-7	Nørregade	Nørregade	NP:siu#:--:----	O	
+100-8	var	være	VF:----:ta:----	O	
+100-9	der	der	US:----:--:----	O	
+100-10	gang	gang	NC:siuc:--:----	O	
+100-11	i	i	T-:----:--:----	O	
+100-12	en	en	PI:s-uc:--:----	O	
+100-13	kæmpe	kæmpe	AC:§§u§:--:p---	O	
+100-14	fest	fest	NC:siuc:--:----	O	
+100-15	ud	ud	D-:----:--:u---	O	
+100-16	på	på	T-:----:--:----	O	
+100-17	natten	nat	NC:sduc:--:----	O	
+100-18	.	.	ZP	O	
+

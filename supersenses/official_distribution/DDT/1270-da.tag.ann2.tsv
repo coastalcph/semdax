@@ -1,0 +1,213 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Selveoperationen foregår ved , at man via en såkaldt artroskopi kigger ind i Dronningens knæ for at få et overblik over , hvor stor læsionen er .
+1-1	Selve	O	
+1-2	operationen	B-noun.act	
+1-3	foregår	B-verb.phenomenon	
+1-4	ved	O	
+1-5	,	O	
+1-6	at	O	
+1-7	man	O	
+1-8	via	O	
+1-9	en	O	
+1-10	såkaldt	O	
+1-11	artroskopi	B-noun.act	
+1-12	kigger	B-verb.perception	
+1-13	ind	O	
+1-14	i	O	
+1-15	Dronningens	B-noun.person	
+1-16	knæ	B-noun.body	
+1-17	for	O	
+1-18	at	O	
+1-19	få	B-verb.possession	
+1-20	et	O	
+1-21	overblik	B-noun.cognition	
+1-22	over	O	
+1-23	,	O	
+1-24	hvor	O	
+1-25	stor	B-adj.phys	
+1-26	læsionen	B-noun.phenomenon	
+1-27	er	B-verb.stative	
+1-28	.	O	
+
+#id=2
+#text=Hereftertildanner man menisken ved at slibe af der , hvor den er læderet .
+2-1	Herefter	O	
+2-2	tildanner	B-verb.creation	
+2-3	man	O	
+2-4	menisken	B-noun.body	
+2-5	ved	O	
+2-6	at	O	
+2-7	slibe	B-verb.contact	
+2-8	af	O	
+2-9	der	O	
+2-10	,	O	
+2-11	hvor	O	
+2-12	den	O	
+2-13	er	B-verb.stative	
+2-14	læderet	B-adj.phys	
+2-15	.	O	
+
+#id=3
+#text=Bruskenkan eventuelt også glattes af .
+3-1	Brusken	B-noun.body	
+3-2	kan	O	
+3-3	eventuelt	O	
+3-4	også	O	
+3-5	glattes	B-verb.change	
+3-6	af	O	
+3-7	.	O	
+
+#id=4
+#text=Beggeoperationer kan foregå ambulant og kræver altså ikke nødvendigvis sengeleje .
+4-1	Begge	O	
+4-2	operationer	B-noun.act	
+4-3	kan	O	
+4-4	foregå	B-verb.phenomenon	
+4-5	ambulant	O	
+4-6	og	O	
+4-7	kræver	B-verb.phenomenon	
+4-8	altså	O	
+4-9	ikke	O	
+4-10	nødvendigvis	O	
+4-11	sengeleje	B-noun.phenomenon	
+4-12	.	O	
+
+#id=5
+#text=Skullenogen tro , at det er fordi Dronningen er overvægtig , kan jeg afvise dette .
+5-1	Skulle	O	
+5-2	nogen	O	
+5-3	tro	B-verb.cognition	
+5-4	,	O	
+5-5	at	O	
+5-6	det	O	
+5-7	er	B-verb.stative	
+5-8	fordi	O	
+5-9	Dronningen	B-noun.person	
+5-10	er	B-verb.stative	
+5-11	overvægtig	B-adj.phys	
+5-12	,	O	
+5-13	kan	O	
+5-14	jeg	O	
+5-15	afvise	B-verb.communication	
+5-16	dette	O	
+5-17	.	O	
+
+#id=6
+#text=Meresandsynligt er det , at Dronningen fra ungdommen har haft blød brusk .
+6-1	Mere	O	
+6-2	sandsynligt	O	
+6-3	er	B-verb.stative	
+6-4	det	O	
+6-5	,	O	
+6-6	at	O	
+6-7	Dronningen	B-noun.person	
+6-8	fra	O	
+6-9	ungdommen	B-noun.time	
+6-10	har	O	
+6-11	haft	B-verb.possession	
+6-12	blød	B-adj.phys	
+6-13	brusk	B-noun.body	
+6-14	.	O	
+
+#id=7
+#text=Ogde forskellige fald , hun har haft , bl.a. i Rebild Bakker , kan medføre , at hun har vanskeligt ved at styre de bløde knæskaller .
+7-1	Og	O	
+7-2	de	O	
+7-3	forskellige	B-adj.all	
+7-4	fald	B-noun.phenomenon	
+7-5	,	O	
+7-6	hun	O	
+7-7	har	O	
+7-8	haft	B-verb.phenomenon	
+7-9	,	O	
+7-10	bl.a.	O	
+7-11	i	O	
+7-12	Rebild	B-noun.location	
+7-13	Bakker	I-noun.location	
+7-14	,	O	
+7-15	kan	O	
+7-16	medføre	B-verb.phenomenon	
+7-17	,	O	
+7-18	at	O	
+7-19	hun	O	
+7-20	har	O	
+7-21	vanskeligt	O	
+7-22	ved	O	
+7-23	at	O	
+7-24	styre	B-verb.act	
+7-25	de	O	
+7-26	bløde	B-adj.phys	
+7-27	knæskaller	B-noun.body	
+7-28	.	O	
+
+#id=8
+#text=Mennår hun får opereret knæet , slipper hun for smerten .
+8-1	Men	O	
+8-2	når	O	
+8-3	hun	O	
+8-4	får	O	
+8-5	opereret	B-verb.act	
+8-6	knæet	B-noun.body	
+8-7	,	O	
+8-8	slipper	B-verb.phenomenon	
+8-9	hun	O	
+8-10	for	O	
+8-11	smerten	B-noun.feeling	
+8-12	.	O	
+
+#id=9
+#text=Detkræver dog , at hun laver en specifik træning af lårmusklerne med strækøvelser over en pølle , " siger ortopædkirurgen .
+9-1	Det	O	
+9-2	kræver	B-verb.stative	
+9-3	dog	O	
+9-4	,	O	
+9-5	at	O	
+9-6	hun	O	
+9-7	laver	B-verb.act	
+9-8	en	O	
+9-9	specifik	B-adj.all	
+9-10	træning	B-noun.act	
+9-11	af	O	
+9-12	lårmusklerne	B-noun.body	
+9-13	med	O	
+9-14	strækøvelser	B-noun.act	
+9-15	over	O	
+9-16	en	O	
+9-17	pølle	B-noun.artifact	
+9-18	,	O	
+9-19	"	O	
+9-20	siger	B-verb.communication	
+9-21	ortopædkirurgen	B-noun.person	
+9-22	.	O	
+
+#id=10
+#text=EKSPERTPÅ OMRÅDET
+10-1	EKSPERT	B-noun.person	
+10-2	PÅ	O	
+10-3	OMRÅDET	B-noun.domain	
+
+#id=11
+#text=Hanhar gennem mange år arbejdet sammen med den ortopædkirurg på Ortopædisk Hospital i Århus , som skal operere Dronningen .
+11-1	Han	O	
+11-2	har	O	
+11-3	gennem	O	
+11-4	mange	O	
+11-5	år	B-noun.time	
+11-6	arbejdet	B-verb.act	
+11-7	sammen	O	
+11-8	med	O	
+11-9	den	O	
+11-10	ortopædkirurg	B-noun.person	
+11-11	på	O	
+11-12	Ortopædisk	B-noun.building	
+11-13	Hospital	I-noun.building	
+11-14	i	O	
+11-15	Århus	B-noun.location	
+11-16	,	O	
+11-17	som	O	
+11-18	skal	O	
+11-19	operere	B-verb.act	
+11-20	Dronningen	B-noun.person	
+11-21	.	O	
+

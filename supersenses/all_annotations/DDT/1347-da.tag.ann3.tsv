@@ -1,0 +1,217 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=EF-landenehar , som det må være Pia Kjærsgaard bekendt , i flere år samarbejdet om indvandrings- og asylpolitikken , og samarbejdet har bl.a. resulteret i EF-asylkonventionen , der fastlægger , hvilken stat der er ansvarlig for behandlingen af en asylansøgning , der indgives i et EF-medlemsland .
+1-1	EF-landene	B-noun.person	
+1-2	har	O	
+1-3	,	O	
+1-4	som	O	
+1-5	det	O	
+1-6	må	O	
+1-7	være	B-verb.stative	
+1-8	Pia	B-noun.person	
+1-9	Kjærsgaard	I-noun.person	
+1-10	bekendt	B-adj.mental	
+1-11	,	O	
+1-12	i	O	
+1-13	flere	O	
+1-14	år	O	
+1-15	samarbejdet	B-verb.act	
+1-16	om	O	
+1-17	indvandrings-	B-noun.abstract	
+1-18	og	O	
+1-19	asylpolitikken	B-noun.abstract	
+1-20	,	O	
+1-21	og	O	
+1-22	samarbejdet	B-noun.act	
+1-23	har	O	
+1-24	bl.a.	O	
+1-25	resulteret	B-verb.phenomenon	
+1-26	i	O	
+1-27	EF-asylkonventionen	B-noun.act	
+1-28	,	O	
+1-29	der	O	
+1-30	fastlægger	B-verb.cognition	
+1-31	,	O	
+1-32	hvilken	O	
+1-33	stat	B-noun.institution	
+1-34	der	O	
+1-35	er	O	
+1-36	ansvarlig	B-adj.social	
+1-37	for	O	
+1-38	behandlingen	B-noun.act	
+1-39	af	O	
+1-40	en	O	
+1-41	asylansøgning	B-noun.communication	
+1-42	,	O	
+1-43	der	O	
+1-44	indgives	B-verb.possession	
+1-45	i	O	
+1-46	et	O	
+1-47	EF-medlemsland	B-noun.location	
+1-48	.	O	
+
+#id=2
+#text=Nårkonventionen træder i kraft , vil man f.eks. kunne forhindre , at asylansøgere indgiver ansøgning i flere lande samtidig , idet ansøgningen kun behandles af ét land .
+2-1	Når	O	
+2-2	konventionen	B-noun.cognition	
+2-3	træder	B-verb.aspectual	
+2-4	i	B-verb.COLL	
+2-5	kraft	B-verb.COLL	
+2-6	,	O	
+2-7	vil	O	
+2-8	man	O	
+2-9	f.eks.	O	
+2-10	kunne	O	
+2-11	forhindre	B-verb.act	
+2-12	,	O	
+2-13	at	O	
+2-14	asylansøgere	B-noun.person	
+2-15	indgiver	B-verb.possession	
+2-16	ansøgning	B-noun.communication	
+2-17	i	O	
+2-18	flere	O	
+2-19	lande	B-noun.location	
+2-20	samtidig	O	
+2-21	,	O	
+2-22	idet	O	
+2-23	ansøgningen	B-noun.communication	
+2-24	kun	O	
+2-25	behandles	B-verb.act	
+2-26	af	O	
+2-27	ét	O	
+2-28	land	B-noun.person	
+2-29	.	O	
+
+#id=3
+#text=Detbetyder , at en asylansøger , der først har indgivet sin ansøgning i f.eks. Portugal eller Spanien , ikke som hævdet af Pia Kjærsgaard blot kan vælge at tage til Danmark og få en asylansøgning behandlet her .
+3-1	Det	O	
+3-2	betyder	B-verb.stative	
+3-3	,	O	
+3-4	at	O	
+3-5	en	O	
+3-6	asylansøger	B-noun.person	
+3-7	,	O	
+3-8	der	O	
+3-9	først	O	
+3-10	har	O	
+3-11	indgivet	B-verb.possession	
+3-12	sin	O	
+3-13	ansøgning	B-noun.communication	
+3-14	i	O	
+3-15	f.eks.	O	
+3-16	Portugal	B-noun.location	
+3-17	eller	O	
+3-18	Spanien	B-noun.location	
+3-19	,	O	
+3-20	ikke	O	
+3-21	som	O	
+3-22	hævdet	B-verb.communication	
+3-23	af	O	
+3-24	Pia	B-noun.person	
+3-25	Kjærsgaard	I-noun.person	
+3-26	blot	O	
+3-27	kan	O	
+3-28	vælge	B-verb.cognition	
+3-29	at	O	
+3-30	tage	B-verb.motion	
+3-31	til	O	
+3-32	Danmark	B-noun.location	
+3-33	og	O	
+3-34	få	B-verb.phenomenon	
+3-35	en	O	
+3-36	asylansøgning	B-noun.communication	
+3-37	behandlet	B-verb.act	
+3-38	her	O	
+3-39	.	O	
+
+#id=4
+#text=DETbliver resultatet af den konvention , som EF-landene har udarbejdet som led i samarbejdet om immigrations- og asylområdet .
+4-1	DET	O	
+4-2	bliver	B-verb.change	
+4-3	resultatet	B-noun.phenomenon	
+4-4	af	O	
+4-5	den	O	
+4-6	konvention	B-noun.cognition	
+4-7	,	O	
+4-8	som	O	
+4-9	EF-landene	B-noun.institution	
+4-10	har	O	
+4-11	udarbejdet	B-verb.creation	
+4-12	som	O	
+4-13	led	B-noun.relation	
+4-14	i	O	
+4-15	samarbejdet	B-noun.act	
+4-16	om	O	
+4-17	immigrations-	B-noun.domain	
+4-18	og	O	
+4-19	asylområdet	B-noun.domain	
+4-20	.	O	
+
+#id=5
+#text=Mendet har intet med Unionstraktaten at gøre .
+5-1	Men	O	
+5-2	det	O	
+5-3	har	B-verb.stative	
+5-4	intet	O	
+5-5	med	O	
+5-6	Unionstraktaten	B-noun.abstract	
+5-7	at	O	
+5-8	gøre	O	
+5-9	.	O	
+
+#id=6
+#text=Detnye i Unionstraktaten er , at det allerede eksisterende samarbejde om immigrations- og asylpolitikken finder en plads inden for traktatens rammer .
+6-1	Det	O	
+6-2	nye	B-adj.time	
+6-3	i	O	
+6-4	Unionstraktaten	B-noun.abstract	
+6-5	er	B-verb.stative	
+6-6	,	O	
+6-7	at	O	
+6-8	det	O	
+6-9	allerede	O	
+6-10	eksisterende	B-adj.time	
+6-11	samarbejde	B-noun.act	
+6-12	om	O	
+6-13	immigrations-	B-noun.abstract	
+6-14	og	O	
+6-15	asylpolitikken	B-noun.abstract	
+6-16	finder	B-verb.phenomenon	
+6-17	en	O	
+6-18	plads	B-noun.abstract	
+6-19	inden	O	
+6-20	for	O	
+6-21	traktatens	B-noun.abstract	
+6-22	rammer	B-noun.container	
+6-23	.	O	
+
+#id=7
+#text=Derer stadig tale om et mellemstatsligt samarbejde , men EF-landene har nu ønsket at medtage dette spørgsmål i traktaten som et spørgsmål af fælles interesse .
+7-1	Der	O	
+7-2	er	B-verb.stative	
+7-3	stadig	O	
+7-4	tale	B-noun.communication	
+7-5	om	O	
+7-6	et	O	
+7-7	mellemstatsligt	B-adj.all	
+7-8	samarbejde	B-noun.act	
+7-9	,	O	
+7-10	men	O	
+7-11	EF-landene	B-noun.institution	
+7-12	har	O	
+7-13	nu	O	
+7-14	ønsket	B-verb.cognition	
+7-15	at	O	
+7-16	medtage	B-verb.act	
+7-17	dette	O	
+7-18	spørgsmål	B-noun.cognition	
+7-19	i	O	
+7-20	traktaten	B-noun.abstract	
+7-21	som	O	
+7-22	et	O	
+7-23	spørgsmål	B-noun.cognition	
+7-24	af	O	
+7-25	fælles	B-adj.social	
+7-26	interesse	B-noun.cognition	
+7-27	.	O	
+

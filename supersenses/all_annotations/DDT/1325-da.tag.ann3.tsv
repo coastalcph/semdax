@@ -1,0 +1,208 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Ogjeg er bange for , at italienerne fra Torino er de klogeste i det taktiske spil inden onsdagens kvartfinale i UEFA-turneringen på Gentoftes tætpakkede , men ikke særlig forbrugervenlige Stadion .
+1-1	Og	O	
+1-2	jeg	O	
+1-3	er	B-verb.social	
+1-4	bange	B-adj.mental	
+1-5	for	O	
+1-6	,	O	
+1-7	at	O	
+1-8	italienerne	B-noun.person	
+1-9	fra	O	
+1-10	Torino	B-noun.location	
+1-11	er	B-verb.stative	
+1-12	de	O	
+1-13	klogeste	B-adj.mental	
+1-14	i	O	
+1-15	det	O	
+1-16	taktiske	B-adj.mental	
+1-17	spil	B-noun.act	
+1-18	inden	O	
+1-19	onsdagens	B-noun.time	
+1-20	kvartfinale	B-noun.event	
+1-21	i	O	
+1-22	UEFA-turneringen	B-noun.event	
+1-23	på	O	
+1-24	Gentoftes	B-noun.location	
+1-25	tætpakkede	B-adj.phys	
+1-26	,	O	
+1-27	men	O	
+1-28	ikke	O	
+1-29	særlig	O	
+1-30	forbrugervenlige	B-adj.all	
+1-31	Stadion	B-noun.building	
+1-32	.	O	
+
+#id=2
+#text=Skalman tro på italienerne - men det ska' man  ikke - ja så er det lige før , de får os overbevist om , at de er lykkelige for at slippe fra besøget i Danmark med et beskedent nederlag .
+2-1	Skal	O	
+2-2	man	O	
+2-3	tro	B-verb.cognition	
+2-4	på	O	
+2-5	italienerne	B-noun.person	
+2-6	-	O	
+2-7	men	O	
+2-8	det	O	
+2-9	ska'	O	
+2-10	man	O	
+2-11	ikke	O	
+2-12	-	O	
+2-13	ja	O	
+2-14	så	O	
+2-15	er	B-verb.stative	
+2-16	det	O	
+2-17	lige	O	
+2-18	før	O	
+2-19	,	O	
+2-20	de	O	
+2-21	får	B-verb.phenomenon	
+2-22	os	O	
+2-23	overbevist	B-adj.mental	
+2-24	om	O	
+2-25	,	O	
+2-26	at	O	
+2-27	de	O	
+2-28	er	B-verb.stative	
+2-29	lykkelige	B-adj.mental	
+2-30	for	O	
+2-31	at	O	
+2-32	slippe	B-verb.phenomenon	
+2-33	fra	O	
+2-34	besøget	B-noun.act	
+2-35	i	O	
+2-36	Danmark	B-noun.location	
+2-37	med	O	
+2-38	et	O	
+2-39	beskedent	B-adj.phys	
+2-40	nederlag	B-noun.event	
+2-41	.	O	
+
+#id=3
+#text=TÅGESNAK
+3-1	TÅGESNAK	B-noun.act	
+
+#id=4
+#text=Deter naturligvis ren tågesnak .
+4-1	Det	O	
+4-2	er	B-verb.stative	
+4-3	naturligvis	O	
+4-4	ren	B-adj.all	
+4-5	tågesnak	B-noun.act	
+4-6	.	O	
+
+#id=5
+#text=Ikkeén i Torinos rejseselskab tror på , de kan tabe i København .
+5-1	Ikke	O	
+5-2	én	O	
+5-3	i	O	
+5-4	Torinos	B-noun.location	
+5-5	rejseselskab	B-noun.institution	
+5-6	tror	B-verb.cognition	
+5-7	på	O	
+5-8	,	O	
+5-9	de	O	
+5-10	kan	O	
+5-11	tabe	B-verb.phenomenon	
+5-12	i	O	
+5-13	København	B-noun.location	
+5-14	.	O	
+
+#id=6
+#text=Naturligviseksisterer den risiko , at de feterede fodboldmillionærer , der jo ikke lægger skjul på , at ingen af de danske navne siger dem noget  , kan finde på at undervurdere modstanderne , så engagementet bliver slattent og prisen for den fejltagelse større , end de bryder sig om .
+6-1	Naturligvis	O	
+6-2	eksisterer	B-verb.stative	
+6-3	den	O	
+6-4	risiko	B-noun.abstract	
+6-5	,	O	
+6-6	at	O	
+6-7	de	O	
+6-8	feterede	B-adj.all	
+6-9	fodboldmillionærer	B-noun.person	
+6-10	,	O	
+6-11	der	O	
+6-12	jo	O	
+6-13	ikke	O	
+6-14	lægger	B-verb.act	
+6-15	skjul	B-verb.COLL	
+6-16	på	O	
+6-17	,	O	
+6-18	at	O	
+6-19	ingen	O	
+6-20	af	O	
+6-21	de	O	
+6-22	danske	B-adj.social	
+6-23	navne	B-noun.person	
+6-24	siger	B-verb.cognition	
+6-25	dem	O	
+6-26	noget	O	
+6-27	,	O	
+6-28	kan	O	
+6-29	finde	B-verb.cognition	
+6-30	på	B-verb.PARTICLE	
+6-31	at	O	
+6-32	undervurdere	B-verb.cognition	
+6-33	modstanderne	B-noun.person	
+6-34	,	O	
+6-35	så	O	
+6-36	engagementet	B-noun.cognition	
+6-37	bliver	B-verb.stative	
+6-38	slattent	B-adj.all	
+6-39	og	O	
+6-40	prisen	B-noun.abstract	
+6-41	for	O	
+6-42	den	O	
+6-43	fejltagelse	B-noun.act	
+6-44	større	O	
+6-45	,	O	
+6-46	end	O	
+6-47	de	O	
+6-48	bryder	B-verb.cognition	
+6-49	sig	B-verb.REFLPRON	
+6-50	om	O	
+6-51	.	O	
+
+#id=7
+#text=Menproblemet er teoretisk .
+7-1	Men	O	
+7-2	problemet	B-noun.cognition	
+7-3	er	B-verb.stative	
+7-4	teoretisk	B-adj.mental	
+7-5	.	O	
+
+#id=8
+#text=Italienerneved , hvad udfordringen på Gentofte Stadion indeholder , og de bør - nøgternt bedømt - ikke komme i større vanskeligheder end de kan klare i kraft af kvalitet og træningstilstand .
+8-1	Italienerne	B-noun.person	
+8-2	ved	B-verb.cognition	
+8-3	,	O	
+8-4	hvad	O	
+8-5	udfordringen	B-noun.act	
+8-6	på	O	
+8-7	Gentofte	B-noun.building	
+8-8	Stadion	I-noun.building	
+8-9	indeholder	B-verb.stative	
+8-10	,	O	
+8-11	og	O	
+8-12	de	O	
+8-13	bør	O	
+8-14	-	O	
+8-15	nøgternt	O	
+8-16	bedømt	B-verb.cognition	
+8-17	-	O	
+8-18	ikke	O	
+8-19	komme	B-verb.phenomenon	
+8-20	i	O	
+8-21	større	B-adj.phys	
+8-22	vanskeligheder	B-noun.state	
+8-23	end	O	
+8-24	de	O	
+8-25	kan	O	
+8-26	klare	B-verb.act	
+8-27	i	O	
+8-28	kraft	O	
+8-29	af	O	
+8-30	kvalitet	B-noun.attribute	
+8-31	og	O	
+8-32	træningstilstand	B-noun.attribute	
+8-33	.	O	
+

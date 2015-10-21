@@ -1,0 +1,206 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=PÅde fleste  uddannelsesinstitutioner er aktivitetskontrollen let at foretage fra uddannelsens start .
+1-1	PÅ	O	
+1-2	de	O	
+1-3	fleste	O	
+1-4	uddannelsesinstitutioner	B-noun.institution	
+1-5	er	B-verb.stative	
+1-6	aktivitetskontrollen	B-noun.act	
+1-7	let	O	
+1-8	at	O	
+1-9	foretage	B-verb.act	
+1-10	fra	O	
+1-11	uddannelsens	B-noun.act	
+1-12	start	B-noun.time	
+1-13	.	O	
+
+#id=2
+#text=Deltageren elev i undervisning , opgaver og prøver , er man aktiv .
+2-1	Deltager	B-verb.act	
+2-2	en	O	
+2-3	elev	B-noun.person	
+2-4	i	O	
+2-5	undervisning	B-noun.communication	
+2-6	,	O	
+2-7	opgaver	B-noun.communication	
+2-8	og	O	
+2-9	prøver	B-noun.act	
+2-10	,	O	
+2-11	er	B-verb.stative	
+2-12	man	O	
+2-13	aktiv	B-adj.all	
+2-14	.	O	
+
+#id=3
+#text=Hvisikke , er man inaktiv .
+3-1	Hvis	O	
+3-2	ikke	O	
+3-3	,	O	
+3-4	er	B-verb.stative	
+3-5	man	O	
+3-6	inaktiv	B-adj.all	
+3-7	.	O	
+
+#id=4
+#text=HVORder ikke er mødepligt , vil der som regel være opgaver og lignende , der muliggør en studieaktivitetskontrol , og deleksaminer er der jo i alle uddannelser .
+4-1	HVOR	O	
+4-2	der	O	
+4-3	ikke	O	
+4-4	er	B-verb.stative	
+4-5	mødepligt	B-noun.cognition	
+4-6	,	O	
+4-7	vil	O	
+4-8	der	O	
+4-9	som	O	
+4-10	regel	O	
+4-11	være	B-verb.stative	
+4-12	opgaver	B-noun.communication	
+4-13	og	O	
+4-14	lignende	B-adj.all	
+4-15	,	O	
+4-16	der	O	
+4-17	muliggør	B-verb.stative	
+4-18	en	O	
+4-19	studieaktivitetskontrol	B-noun.act	
+4-20	,	O	
+4-21	og	O	
+4-22	deleksaminer	B-noun.act	
+4-23	er	B-verb.stative	
+4-24	der	O	
+4-25	jo	O	
+4-26	i	O	
+4-27	alle	O	
+4-28	uddannelser	B-noun.act	
+4-29	.	O	
+
+#id=5
+#text=Studieaktivitetskontrollenligger på uddannelsesinstitutionerne .
+5-1	Studieaktivitetskontrollen	B-noun.act	
+5-2	ligger	B-verb.stative	
+5-3	på	O	
+5-4	uddannelsesinstitutionerne	B-noun.institution	
+5-5	.	O	
+
+#id=6
+#text=Jeghar ingen grund til at tro , at institutionerne ikke tager denne opgave alvorligt .
+6-1	Jeg	O	
+6-2	har	B-verb.cognition	
+6-3	ingen	O	
+6-4	grund	B-noun.abstract	
+6-5	til	O	
+6-6	at	O	
+6-7	tro	B-verb.cognition	
+6-8	,	O	
+6-9	at	O	
+6-10	institutionerne	B-noun.institution	
+6-11	ikke	O	
+6-12	tager	B-verb.cognition	
+6-13	denne	O	
+6-14	opgave	B-noun.communication	
+6-15	alvorligt	O	
+6-16	.	O	
+
+#id=7
+#text=Enmulighed for snyd kan i sagens natur ligge i uddannelsens første år .
+7-1	En	O	
+7-2	mulighed	B-noun.abstract	
+7-3	for	O	
+7-4	snyd	B-noun.act	
+7-5	kan	O	
+7-6	i	O	
+7-7	sagens	B-noun.abstract	
+7-8	natur	B-noun.attribute	
+7-9	ligge	B-verb.stative	
+7-10	i	O	
+7-11	uddannelsens	B-noun.act	
+7-12	første	B-adj.time	
+7-13	år	B-noun.time	
+7-14	.	O	
+
+#id=8
+#text=Jegvil derfor indføre en bestemmelse om , at institutionerne skal gennemføre første aktivitetskontrol senest 6 måneder efter uddannelsens start .
+8-1	Jeg	O	
+8-2	vil	O	
+8-3	derfor	O	
+8-4	indføre	B-verb.act	
+8-5	en	O	
+8-6	bestemmelse	B-noun.cognition	
+8-7	om	O	
+8-8	,	O	
+8-9	at	O	
+8-10	institutionerne	B-noun.institution	
+8-11	skal	O	
+8-12	gennemføre	B-verb.act	
+8-13	første	B-adj.time	
+8-14	aktivitetskontrol	B-noun.act	
+8-15	senest	O	
+8-16	6	O	
+8-17	måneder	B-noun.time	
+8-18	efter	O	
+8-19	uddannelsens	B-noun.act	
+8-20	start	B-noun.time	
+8-21	.	O	
+
+#id=9
+#text=JENSSandfeld Søndergaard hævder , at SU-reglerne er så lempelige , at man kan få fra 3.198 kr. til 38.376 kr.  om året uden at vise sig på uddannelsesstedet og uden at åbne en bog .
+9-1	JENS	B-noun.person	
+9-2	Sandfeld	I-noun.person	
+9-3	Søndergaard	I-noun.person	
+9-4	hævder	B-verb.communication	
+9-5	,	O	
+9-6	at	O	
+9-7	SU-reglerne	B-noun.cognition	
+9-8	er	B-verb.stative	
+9-9	så	O	
+9-10	lempelige	B-adj.all	
+9-11	,	O	
+9-12	at	O	
+9-13	man	O	
+9-14	kan	O	
+9-15	få	B-verb.possession	
+9-16	fra	O	
+9-17	3.198	O	
+9-18	kr.	B-noun.quantity	
+9-19	til	O	
+9-20	38.376	O	
+9-21	kr.	B-noun.quantity	
+9-22	om	O	
+9-23	året	B-noun.time	
+9-24	uden	O	
+9-25	at	O	
+9-26	vise	B-verb.act	
+9-27	sig	O	
+9-28	på	O	
+9-29	uddannelsesstedet	B-noun.building	
+9-30	og	O	
+9-31	uden	O	
+9-32	at	O	
+9-33	åbne	B-verb.motion	
+9-34	en	O	
+9-35	bog	B-noun.artifact	
+9-36	.	O	
+
+#id=10
+#text=Someksempel anføres , at hvis en person tjener 300.000 kr. , kan vedkommende få uddannelsesstøtte i én måned .
+10-1	Som	O	
+10-2	eksempel	B-noun.communication	
+10-3	anføres	B-verb.communication	
+10-4	,	O	
+10-5	at	O	
+10-6	hvis	O	
+10-7	en	O	
+10-8	person	B-noun.person	
+10-9	tjener	B-verb.possession	
+10-10	300.000	O	
+10-11	kr.	B-noun.quantity	
+10-12	,	O	
+10-13	kan	O	
+10-14	vedkommende	B-noun.person	
+10-15	få	B-verb.possession	
+10-16	uddannelsesstøtte	B-noun.possession	
+10-17	i	O	
+10-18	én	O	
+10-19	måned	B-noun.time	
+10-20	.	O	
+

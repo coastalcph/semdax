@@ -1,0 +1,194 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Sideløbendemed forberedelserne til næste års Le_Mans-race kører ACO en erstatningssag mod FIA for de tab , som klubben har lidt som følge af sportskommissionen FISA's manglende indfrielse af løfter og forpligtelser indgået i forbindelse med en tvangsordning omkring det klassiske langdistanceløb .
+1-1	Sideløbende	O	
+1-2	med	O	
+1-3	forberedelserne	B-noun.act	
+1-4	til	O	
+1-5	næste	B-adj.time	
+1-6	års	B-noun.time	
+1-7	Le_Mans-race	B-noun.event	
+1-8	kører	B-verb.act	
+1-9	ACO	B-noun.institution	
+1-10	en	O	
+1-11	erstatningssag	B-noun.abstract	
+1-12	mod	O	
+1-13	FIA	B-noun.institution	
+1-14	for	O	
+1-15	de	O	
+1-16	tab	B-noun.phenomenon	
+1-17	,	O	
+1-18	som	O	
+1-19	klubben	B-noun.institution	
+1-20	har	O	
+1-21	lidt	B-verb.emotion	
+1-22	som	O	
+1-23	følge	B-noun.phenomenon	
+1-24	af	O	
+1-25	sportskommissionen	B-noun.institution	
+1-26	FISA's	B-noun.institution	
+1-27	manglende	B-adj.all	
+1-28	indfrielse	B-noun.act	
+1-29	af	O	
+1-30	løfter	B-noun.communication	
+1-31	og	O	
+1-32	forpligtelser	B-noun.attribute	
+1-33	indgået	B-verb.act	
+1-34	i	O	
+1-35	forbindelse	B-noun.relation	
+1-36	med	O	
+1-37	en	O	
+1-38	tvangsordning	B-noun.abstract	
+1-39	omkring	O	
+1-40	det	O	
+1-41	klassiske	B-adj.all	
+1-42	langdistanceløb	B-noun.act	
+1-43	.	O	
+
+#id=2
+#text=FISAtvang ACO til en række ændringer mod at garantere et fuldt felt og massiv mediedækning .
+2-1	FISA	B-noun.institution	
+2-2	tvang	B-verb.act	
+2-3	ACO	B-noun.institution	
+2-4	til	O	
+2-5	en	O	
+2-6	række	B-noun.quantity	
+2-7	ændringer	B-noun.act	
+2-8	mod	B-verb.COLL	
+2-9	at	O	
+2-10	garantere	B-verb.communication	
+2-11	et	O	
+2-12	fuldt	B-adj.all	
+2-13	felt	B-noun.location	
+2-14	og	O	
+2-15	massiv	B-adj.all	
+2-16	mediedækning	B-noun.abstract	
+2-17	.	O	
+
+#id=3
+#text=Meni de sidste to år er alting gået skævt .
+3-1	Men	O	
+3-2	i	O	
+3-3	de	O	
+3-4	sidste	B-adj.time	
+3-5	to	O	
+3-6	år	B-noun.time	
+3-7	er	O	
+3-8	alting	O	
+3-9	gået	B-verb.change	
+3-10	skævt	B-verb.COLL	
+3-11	.	O	
+
+#id=4
+#text=Feltetskrumpede ind med 50 pct. , tusindvis af tilskuere  blev væk , fordi spændingen var gået tabt , og af samme grund blev en stor del af sportspressen også væk , så ACO stod tilbage med en renoveret bane og et helt nyt pitanlæg efter en millioninvestering - og en økonomisk bet så stor , at man slæbte FIA for en domstol for at få erstatning .
+4-1	Feltet	B-noun.location	
+4-2	skrumpede	B-verb.change	
+4-3	ind	B-verb.PARTICLE	
+4-4	med	O	
+4-5	50	O	
+4-6	pct.	B-noun.quantity	
+4-7	,	O	
+4-8	tusindvis	O	
+4-9	af	O	
+4-10	tilskuere	B-noun.person	
+4-11	blev	B-verb.stative	
+4-12	væk	O	
+4-13	,	O	
+4-14	fordi	O	
+4-15	spændingen	B-noun.phenomenon	
+4-16	var	O	
+4-17	gået	B-verb.phenomenon	
+4-18	tabt	B-verb.COLL	
+4-19	,	O	
+4-20	og	O	
+4-21	af	O	
+4-22	samme	O	
+4-23	grund	B-noun.abstract	
+4-24	blev	B-verb.stative	
+4-25	en	O	
+4-26	stor	B-adj.all	
+4-27	del	B-noun.quantity	
+4-28	af	O	
+4-29	sportspressen	B-noun.person	
+4-30	også	O	
+4-31	væk	O	
+4-32	,	O	
+4-33	så	O	
+4-34	ACO	B-noun.institution	
+4-35	stod	B-verb.stative	
+4-36	tilbage	O	
+4-37	med	O	
+4-38	en	O	
+4-39	renoveret	B-adj.phys	
+4-40	bane	B-noun.location	
+4-41	og	O	
+4-42	et	O	
+4-43	helt	O	
+4-44	nyt	B-adj.time	
+4-45	pitanlæg	B-noun.location	
+4-46	efter	O	
+4-47	en	O	
+4-48	millioninvestering	B-noun.possession	
+4-49	-	O	
+4-50	og	O	
+4-51	en	O	
+4-52	økonomisk	B-adj.all	
+4-53	bet	B-noun.abstract	
+4-54	så	O	
+4-55	stor	B-adj.all	
+4-56	,	O	
+4-57	at	O	
+4-58	man	O	
+4-59	slæbte	B-verb.motion	
+4-60	FIA	B-noun.institution	
+4-61	for	O	
+4-62	en	O	
+4-63	domstol	B-noun.institution	
+4-64	for	O	
+4-65	at	O	
+4-66	få	B-verb.possession	
+4-67	erstatning	B-noun.quantity	
+4-68	.	O	
+
+#id=5
+#text=Næsteår bliver Le_Mans-racet åbent for fire slags biler uden benzinrestriktioner og så bliver der fuld fart på igen .
+5-1	Næste	B-adj.time	
+5-2	år	B-noun.time	
+5-3	bliver	O	
+5-4	Le_Mans-racet	B-noun.act	
+5-5	åbent	B-verb.act	
+5-6	for	O	
+5-7	fire	O	
+5-8	slags	B-noun.abstract	
+5-9	biler	B-noun.vehicle	
+5-10	uden	O	
+5-11	benzinrestriktioner	B-noun.abstract	
+5-12	og	O	
+5-13	så	O	
+5-14	bliver	B-verb.stative	
+5-15	der	O	
+5-16	fuld	B-adj.all	
+5-17	fart	B-noun.phenomenon	
+5-18	på	O	
+5-19	igen	O	
+5-20	.	O	
+
+#id=6
+#text=Påtirsdag åbner ACO for tilmeldinger til næste års race med biler i fire kategorier :
+6-1	På	O	
+6-2	tirsdag	B-noun.time	
+6-3	åbner	B-verb.act	
+6-4	ACO	B-noun.institution	
+6-5	for	O	
+6-6	tilmeldinger	B-noun.communication	
+6-7	til	O	
+6-8	næste	B-adj.time	
+6-9	års	B-noun.time	
+6-10	race	B-noun.act	
+6-11	med	O	
+6-12	biler	B-noun.vehicle	
+6-13	i	O	
+6-14	fire	O	
+6-15	kategorier	B-noun.communication	
+6-16	:	O	
+

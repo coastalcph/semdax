@@ -1,0 +1,203 @@
+1stOrderEntity	69	noun.TOP
+2ndOrderEntity	54	verb.TOP; noun.TOP
+3rdOrderEntity	369	noun.abstract
+3rdOrderEntity+Mental	717	noun.cognition
+3rdOrderEntity+Mental+Experience	20	noun.cognition
+3rdOrderEntity+Mental+Location	116	noun.cognition
+3rdOrderEntity+Mental+Purpose	59	noun.motive
+3rdOrderEntity+Mental+Purpose(+Domain)	743	noun.domain
+3rdOrderEntity+Mental+Purpose+Manner	498	noun.abstract
+3rdOrderEntity+Mental+Purpose+Social	596	noun.abstract
+3rdOrderEntity+Mental+Purpose+Social(+Institution)	1372	noun.institution
+3rdOrderEntity+Mental+Social	280	noun.cognition
+3rdOrderEntity+Part	10	noun.abstract
+3rdOrderEntity+Quantity	1843	noun.quantity
+3rdOrderEntity+Quantity+MoneyRepresentation	1	noun.quantity
+3rdOrderEntity+Quantity+Part	20	noun.quantity
+3rdOrderEntity+Relation	9	noun.relation
+3rdOrderEntity+Time	1315	noun.time
+3rdOrderEntity+Time+Part	10	noun.time
+Animal+Comestible+Object	48	noun.food
+Animal+Comestible+Part	144	noun.food
+Animal+Comestible+Substance	48	noun.food
+Animal+Object	1358	noun.animal
+Animal+Object+Group	75	noun.animal
+Animal+Object+Part	114	noun.body
+Artifact+Object	1957	noun.artifact
+Artifact+Object(+Artwork)	306	noun.artifact
+Artifact+Object+Group	156	noun.artifact
+Artifact+Object+Part	408	noun.artifact
+Artifact+Substance	753	noun.artifact
+Artifact+Substance+Part	4	noun.artifact
+BoundedEvent	346	noun.act; verb.act
+BoundedEvent+Agentive	369	noun.act; verb.act
+BoundedEvent+Agentive+Condition+Physical	209	noun.act; verb.act
+BoundedEvent+Agentive+Existence	79	noun.creation; verb.act
+BoundedEvent+Agentive+Experience+Condition+Purpose	2	noun.act
+BoundedEvent+Agentive+Mental	146	noun.cognition; verb.cognition
+BoundedEvent+Agentive+Mental+Communication	67	noun.communication; verb.communication
+BoundedEvent+Agentive+Mental+Purpose	248	noun.cognition; verb.cognition
+BoundedEvent+Agentive+Physical+Existence	169	noun.act; verb.creation
+BoundedEvent+Agentive+Physical+Existence+Purpose	90	noun.act; verb.creation
+BoundedEvent+Agentive+Physical+Location	329	noun.act; verb.motion
+BoundedEvent+Agentive+Physical+Purpose	239	noun.act; verb.change
+BoundedEvent+Agentive+Physical+Social	82	noun.act; verb.social
+BoundedEvent+Agentive+Possession	112	noun.act; verb.possession
+BoundedEvent+Agentive+Purpose	287	noun.act.; verb.act
+BoundedEvent+Agentive+Purpose+Communication	396	noun.communication; verb.communication
+BoundedEvent+Agentive+Purpose+Possession	75	noun.act; verb.possession
+BoundedEvent+Agentive+Purpose+Possession+Social	4	noun.act; verb.social
+BoundedEvent+Agentive+Purpose+Social	92	noun.act; verb.social
+BoundedEvent+Agentive+Time	2	noun.act
+BoundedEvent+Cause	626	noun.event; verb.change
+BoundedEvent+Cause+Existence	138	noun.event; verb.phenomenon
+BoundedEvent+Cause+Location+Physical	603	noun.event; verb.motion
+BoundedEvent+Cause+Physical	385	noun.event; verb.phenomenon
+BoundedEvent+Communication	27	noun.communication; verb.communication
+BoundedEvent+Experience+Mental	3	noun.cognition
+BoundedEvent+Experience+Physical	50	noun.event; verb.phenomenon
+BoundedEvent+Location	8	noun.event; verb.motion
+BoundedEvent+Mental	67	noun.feeling; verb.emotion
+BoundedEvent+Phenomenal	306	noun.phenomenon; verb.phenomenon
+BoundedEvent+Physical	114	noun.event; verb.change
+BoundedEvent+Physical+Location	123	noun.event; verb.motion
+BoundedEvent+Possession	28	noun.possession; verb.possession
+BoundedEvent+Social	22	noun.event; verb.social
+Building+Object	1247	noun.building
+Building+Object+Group	70	noun.building
+Building+Object+Part	1023	noun.artifact
+Comestible	111	noun.food
+Comestible+Artifact+Liquid	337	noun.food
+Comestible+Artifact+Object	513	noun.food
+Comestible+Artifact+Object+Part	66	noun.food
+Comestible+Artifact+Substance	479	noun.food
+Comestible+Artifact+Substance+Part	3	noun.food
+Comestible+Group	7	noun.food
+Comestible+Natural+Liquid	37	noun.food
+Comestible+Natural+Substance	52	noun.food
+Comestible+Natural+Substance+Part	3	noun.food
+Container+Artifact+Object	806	noun.container
+Container+Artifact+Object+Group	7	noun.container
+Container+Artifact+Object+Part	6	noun.artifact
+Covering	25	noun.artifact
+Creature	123	noun.object
+Dynamic	103	noun.event
+Dynamic+Agentive	276	noun.act; verb.act
+Dynamic+Agentive+Communication	665	noun.communication; verb.communication
+Dynamic+Agentive+Mental	19	noun.cognition; verb.cognition
+Dynamic+Agentive+Mental+Purpose	52	noun.cognition; verb.cognition
+Dynamic+Agentive+Physical+Location	407	noun.act; verb.motion
+Dynamic+Agentive+Physical+Purpose	599	noun.act; verb.act
+Dynamic+Agentive+Physical+Purpose+Social	811	noun.act; verb.social
+Dynamic+Agentive+Purpose	375	noun.act; verb.act
+Dynamic+Agentive+Purpose+Social	681	noun.act; verb.social
+Dynamic+Agentive+Social	60	noun.act; verb.social
+Dynamic+Cause+Physical	136	noun.act; verb.act
+Dynamic+Experience	35	noun.feeling; verb.perception
+Dynamic+Experience+Mental	476	noun.feeling; verb.emotion
+Dynamic+Experience+Physical	56	noun.feeling; verb.perception
+Dynamic+Phenomenal	64	noun.phenomenon; verb.phenomenon
+Dynamic+Phenomenal+Physical	358	noun.phenomenon; verb.phenomenon
+Dynamic+Phenomenal+Physical+Condition	35	noun.phenomenon; verb.phenomenon
+Dynamic+Possession	35	noun.possession; verb.possession
+Form	9	noun.shape
+Furniture+Artifact+Object	312	noun.artifact
+Furniture+Artifact+Object+Group	9	noun.artifact
+Furniture+Artifact+Object+Part	41	noun.artifact
+Garment	2	noun.artifact
+Garment+Artifact+Object	685	noun.artifact
+Garment+Artifact+Object+Group	131	noun.artifact
+Garment+Artifact+Object+Part	164	noun.artifact
+GeopoliticalPlace+Object+Artifact	1201	noun.location
+Group	25	noun.group
+Group+Object	110	noun.group
+Group+Object+Living	20	noun.group
+Group+Object+Natural	14	noun.group
+Human+Object	5005	noun.person
+Human+Object+Group	1781	noun.person
+Human+Object+Occupation	2790	noun.person
+Human+Object+Part	180	noun.body
+Imagerepresentation+Artifact+Object	536	noun.artifact
+Instrument+Artifact+Object	1925	noun.artifact
+Instrument+Artifact+Object+Group	116	noun.artifact
+Instrument+Artifact+Object+Part	306	noun.artifact
+LanguageRepresentation+Artifact+Object	2829	noun.communication
+LanguageRepresentation+Artifact+Object+Group	87	noun.communication
+LanguageRepresentation+Artifact+Object+Part	162	noun.communication
+Liquid	14	noun.substance
+Liquid+Artifact	138	noun.artifact
+Liquid+Natural	118	noun.substance
+Living+Object	93	noun.object
+MoneyRepresentation	224	noun.artifact
+Natural+Group	28	noun.object
+Natural+Object	201	noun.object
+Natural+Object(+BodyPart)	733	noun.body
+Natural+Object+Part	150	noun.object
+noun.food	804	noun.substance
+Natural+Substance+Part	74	noun.substance
+Object	86	noun.object
+Object+Part	97	noun.object
+Part	30	noun.object
+Place	5	noun.location
+Place+Liquid+Natural	52	noun.location
+Place+Object	780	noun.location
+Place+Object+Artifact	536	noun.location
+Place+Object+Artifact+Part	123	noun.artifact
+Place+Object+Group	13	noun.location
+Place+Object+Natural	375	noun.location
+Place+Object+Natural+Part	65	noun.location
+Place+Object+Part	61	noun.location
+Plant+Group	79	noun.plant
+Plant+Object	949	noun.plant
+Plant+Object+Comestible	136	noun.food; noun.plant
+Plant+Object+Part	302	noun.plant
+Plant+Object+Part+Comestible	324	noun.food; noun.plant
+Property	2061	noun.attribute; adj.all
+Property+Existence	29	noun.attribute; adj.phys
+Property+LanguageRepresentation	6	noun.attribute; adj.phys
+Property+Location	27	noun.location; adj.phys
+Property+Mental	999	noun.feeling; adj.mental
+Property+Physical	990	noun.phenomenon; adj.phys
+Property+Physical+Colour	390	noun.attribute; adj.phys
+Property+Physical+Condition	536	noun.disease; adj.phys
+Property+Physical+Form	181	noun.shape; adj.phys
+Property+Social	431	noun.attribute; adj.social
+Property+Stimulating+Physical	6	noun.phenomenon; adj.phys
+Property+Time	136	noun.time; adj.time
+Relation	19	noun.relation
+Relation+Location	1	noun.relation
+Relation+Possession	8	noun.relation
+Representation	7	noun.artifact
+Software	1	noun.artifact
+Static	244	noun.state;verb.static
+Static+Existence	17	noun.state; verb.static
+Static+Location	83	noun.state; verb.static
+Static+Mental	11	noun.state; verb.static
+Static+Relation	29	noun.relation; verb.static
+Static+Social	16	noun.state; verb.static
+Substance	236	noun.substance
+UnboundedEvent	139	noun.event; verb.phenomenon
+UnboundedEvent+Agentive	292	noun.act; verb.act
+UnboundedEvent+Agentive+Communication+Social	783	noun.communication; verb.communication
+UnboundedEvent+Agentive+Existence	89	noun.act; verb.act
+UnboundedEvent+Agentive+Mental	330	noun.cognition; verb.cognition
+UnboundedEvent+Agentive+Physical	255	noun.act; verb.act
+UnboundedEvent+Agentive+Physical+Location	270	noun.act; verb.motion
+UnboundedEvent+Agentive+Physical+Purpose	462	noun.act;verb.act
+UnboundedEvent+Agentive+Physical+Social	274	noun.act; verb.social
+UnboundedEvent+Agentive+Purpose	430	noun.act; verb.act
+UnboundedEvent+Cause	86	noun.act; verb.phenomenon
+UnboundedEvent+Cause+Physical	113	noun.act; verb.change
+UnboundedEvent+Cause+Physical+Location	380	noun.act; verb.motion
+UnboundedEvent+Communication+Purpose+Social	327	noun.communication; verb.communication
+UnboundedEvent+Experience+Physical	159	noun.phenomenon; verb.phenomenon
+UnboundedEvent+Mental	163	noun.feeling; verb.emotion
+UnboundedEvent+Phenomenal	155	noun.phenomenon; verb.phenomenon
+UnboundedEvent+Phenomenal+Physical	647	noun.phenomenon; verb.phenomenon
+UnboundedEvent+Physical+Location	89	noun.location; verb.motion
+UnboundedEvent+Social	46	noun.relation; verb.social
+UnboundedEvent+Time	9	noun.time
+Underspecified	110	noun.TOP
+Vehicle+Object+Artifact	641	noun.vehicle
+Vehicle+Object+Artifact+Group	24	noun.vehicle
+Vehicle+Object+Artifact+Part	245	noun.artifact

@@ -1,0 +1,248 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Skråtoverfor demonstranterne , indenfor i burgerkæden Wimpys behageligt varme lokaler , drikker to jævnaldrende mænd kaffe , mens de udfylder tipskuponer .
+1-1	Skråt	O	
+1-2	overfor	O	
+1-3	demonstranterne	B-noun.person	
+1-4	,	O	
+1-5	indenfor	O	
+1-6	i	O	
+1-7	burgerkæden	B-noun.institution	
+1-8	Wimpys	B-noun.institution	
+1-9	behageligt	O	
+1-10	varme	B-adj.phys	
+1-11	lokaler	B-noun.building	
+1-12	,	O	
+1-13	drikker	B-verb.consumption	
+1-14	to	O	
+1-15	jævnaldrende	B-adj.time	
+1-16	mænd	B-noun.person	
+1-17	kaffe	B-noun.food	
+1-18	,	O	
+1-19	mens	O	
+1-20	de	O	
+1-21	udfylder	B-verb.act	
+1-22	tipskuponer	B-noun.artifact	
+1-23	.	O	
+
+#id=2
+#text=Deter to pænt klædte irakiske kurdere , som næsten taler flydende svensk .
+2-1	Det	O	
+2-2	er	B-verb.stative	
+2-3	to	O	
+2-4	pænt	O	
+2-5	klædte	B-adj.phys	
+2-6	irakiske	B-adj.social	
+2-7	kurdere	B-noun.person	
+2-8	,	O	
+2-9	som	O	
+2-10	næsten	O	
+2-11	taler	B-verb.communication	
+2-12	flydende	B-adj.all	
+2-13	svensk	B-noun.communication	
+2-14	.	O	
+
+#id=3
+#text=Beggehar mistet deres job inden for det seneste halve års tid .
+3-1	Begge	O	
+3-2	har	O	
+3-3	mistet	B-verb.phenomenon	
+3-4	deres	O	
+3-5	job	B-noun.act	
+3-6	inden	O	
+3-7	for	O	
+3-8	det	O	
+3-9	seneste	B-adj.time	
+3-10	halve	B-adj.all	
+3-11	års	B-noun.time	
+3-12	tid	B-noun.time	
+3-13	.	O	
+
+#id=4
+#text=Dehar været i Sverige , siden de kom hertil i 1986 som flygtninge .
+4-1	De	O	
+4-2	har	O	
+4-3	været	B-verb.stative	
+4-4	i	O	
+4-5	Sverige	B-noun.location	
+4-6	,	O	
+4-7	siden	O	
+4-8	de	O	
+4-9	kom	B-verb.motion	
+4-10	hertil	O	
+4-11	i	O	
+4-12	1986	B-noun.time	
+4-13	som	O	
+4-14	flygtninge	B-noun.person	
+4-15	.	O	
+
+#id=5
+#text="Arbejdsløsheden i Sverige er meget slem .
+5-1	"	O	
+5-2	Arbejdsløsheden	B-noun.phenomenon	
+5-3	i	O	
+5-4	Sverige	B-noun.location	
+5-5	er	B-verb.stative	
+5-6	meget	O	
+5-7	slem	B-adj.all	
+5-8	.	O	
+
+#id=6
+#text=Ogdet er svært at få en uddannelse , " siger de .
+6-1	Og	O	
+6-2	det	O	
+6-3	er	B-verb.stative	
+6-4	svært	B-adj.all	
+6-5	at	O	
+6-6	få	B-verb.phenomenon	
+6-7	en	O	
+6-8	uddannelse	B-noun.act	
+6-9	,	O	
+6-10	"	O	
+6-11	siger	B-verb.communication	
+6-12	de	O	
+6-13	.	O	
+
+#id=7
+#text=Flertalletaf bekendtskabskredsen står nu uden arbejde .
+7-1	Flertallet	B-noun.quantity	
+7-2	af	O	
+7-3	bekendtskabskredsen	B-noun.person	
+7-4	står	B-verb.stative	
+7-5	nu	O	
+7-6	uden	O	
+7-7	arbejde	B-noun.act	
+7-8	.	O	
+
+#id=8
+#text="Vi regner ikke med , at vi kan få arbejde nu .
+8-1	"	O	
+8-2	Vi	O	
+8-3	regner	B-verb.cognition	
+8-4	ikke	O	
+8-5	med	B-verb.COLL	
+8-6	,	O	
+8-7	at	O	
+8-8	vi	O	
+8-9	kan	O	
+8-10	få	B-verb.phenomenon	
+8-11	arbejde	B-noun.act	
+8-12	nu	O	
+8-13	.	O	
+
+#id=9
+#text=Vitipper i stedet for , " siger den ene .
+9-1	Vi	O	
+9-2	tipper	B-verb.act	
+9-3	i	O	
+9-4	stedet	O	
+9-5	for	O	
+9-6	,	O	
+9-7	"	O	
+9-8	siger	B-verb.communication	
+9-9	den	O	
+9-10	ene	O	
+9-11	.	O	
+
+#id=10
+#text=Dennegang på godt engelsk , som er det sprog , den udfrittende danske journalist bedst kan gøre sig forståelig på .
+10-1	Denne	O	
+10-2	gang	B-noun.abstract	
+10-3	på	O	
+10-4	godt	B-adj.all	
+10-5	engelsk	B-noun.communication	
+10-6	,	O	
+10-7	som	O	
+10-8	er	B-verb.stative	
+10-9	det	O	
+10-10	sprog	B-noun.communication	
+10-11	,	O	
+10-12	den	O	
+10-13	udfrittende	B-adj.all	
+10-14	danske	B-adj.social	
+10-15	journalist	B-noun.person	
+10-16	bedst	O	
+10-17	kan	O	
+10-18	gøre	B-verb.act	
+10-19	sig	O	
+10-20	forståelig	B-adj.all	
+10-21	på	O	
+10-22	.	O	
+
+#id=11
+#text=Påvej ud fra Wimpy passer jeg på ikke at betale med danske kroner .
+11-1	På	O	
+11-2	vej	O	
+11-3	ud	O	
+11-4	fra	O	
+11-5	Wimpy	B-noun.building	
+11-6	passer	B-verb.cognition	
+11-7	jeg	O	
+11-8	på	B-verb.PARTICLE	
+11-9	ikke	O	
+11-10	at	O	
+11-11	betale	B-verb.possession	
+11-12	med	O	
+11-13	danske	B-adj.social	
+11-14	kroner	B-noun.artifact	
+11-15	.	O	
+
+#id=12
+#text=Forførste gang er de mere værd end broderfolkets .
+12-1	For	O	
+12-2	første	B-adj.time	
+12-3	gang	B-noun.abstract	
+12-4	er	B-verb.stative	
+12-5	de	O	
+12-6	mere	O	
+12-7	værd	B-adj.all	
+12-8	end	O	
+12-9	broderfolkets	B-noun.person	
+12-10	.	O	
+
+#id=13
+#text=Deter lørdag middag .
+13-1	Det	O	
+13-2	er	B-verb.stative	
+13-3	lørdag	B-noun.time	
+13-4	middag	B-noun.time	
+13-5	.	O	
+
+#id=14
+#text=Dyrtklædte familier Jönsson og Carlsson'er i hobetal slentrer ind og ud af de mange luksuriøse butikker i det centrale Stockholms Norrmalm-kvarter .
+14-1	Dyrt	O	
+14-2	klædte	B-adj.phys	
+14-3	familier	B-noun.person	
+14-4	Jönsson	B-noun.person	
+14-5	og	O	
+14-6	Carlsson'er	B-noun.person	
+14-7	i	O	
+14-8	hobetal	B-noun.quantity	
+14-9	slentrer	B-verb.motion	
+14-10	ind	O	
+14-11	og	O	
+14-12	ud	O	
+14-13	af	O	
+14-14	de	O	
+14-15	mange	B-adj.phys	
+14-16	luksuriøse	B-adj.all	
+14-17	butikker	B-noun.building	
+14-18	i	O	
+14-19	det	O	
+14-20	centrale	B-adj.phys	
+14-21	Stockholms	B-noun.location	
+14-22	Norrmalm-kvarter	B-noun.location	
+14-23	.	O	
+
+#id=15
+#text=Tænkat en komode kan koste 18.000 kroner .
+15-1	Tænk	B-verb.cognition	
+15-2	at	O	
+15-3	en	O	
+15-4	komode	B-noun.artifact	
+15-5	kan	O	
+15-6	koste	B-verb.stative	
+15-7	18.000	O	
+15-8	kroner	B-noun.artifact	
+15-9	.	O	
+

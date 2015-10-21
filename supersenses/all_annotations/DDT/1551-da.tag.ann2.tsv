@@ -1,0 +1,225 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text="Men da det gik op for mig , at andre brancher var udsat for de samme henvendelser fra politiet , valgte jeg at stoppe de juletraditioner , forretningen og dens kunder ellers har haft glæde af i flere år , " tilføjer hun .
+1-1	"	O	
+1-2	Men	O	
+1-3	da	O	
+1-4	det	O	
+1-5	gik	B-verb.cognition	
+1-6	op	B-verb.COLL	
+1-7	for	B-verb.COLL	
+1-8	mig	O	
+1-9	,	O	
+1-10	at	O	
+1-11	andre	O	
+1-12	brancher	B-noun.institution	
+1-13	var	O	
+1-14	udsat	B-verb.phenomenon	
+1-15	for	O	
+1-16	de	O	
+1-17	samme	O	
+1-18	henvendelser	B-noun.communication	
+1-19	fra	O	
+1-20	politiet	B-noun.institution	
+1-21	,	O	
+1-22	valgte	B-verb.cognition	
+1-23	jeg	O	
+1-24	at	O	
+1-25	stoppe	B-verb.act	
+1-26	de	O	
+1-27	juletraditioner	B-noun.abstract	
+1-28	,	O	
+1-29	forretningen	B-noun.institution	
+1-30	og	O	
+1-31	dens	O	
+1-32	kunder	B-noun.person	
+1-33	ellers	O	
+1-34	har	O	
+1-35	haft	B-verb.emotion	
+1-36	glæde	B-verb.COLL	
+1-37	af	B-verb.COLL	
+1-38	i	O	
+1-39	flere	O	
+1-40	år	B-noun.time	
+1-41	,	O	
+1-42	"	O	
+1-43	tilføjer	B-verb.communication	
+1-44	hun	O	
+1-45	.	O	
+
+#id=2
+#text=Enanden blomsterhandler , Carsten Ove Dalsø Nielsen fra Carstens Blomster i Bredegade 55 , Slagelse , har også modtaget henvendelser fra politiet .
+2-1	En	O	
+2-2	anden	O	
+2-3	blomsterhandler	B-noun.person	
+2-4	,	O	
+2-5	Carsten	B-noun.person	
+2-6	Ove	I-noun.person	
+2-7	Dalsø	I-noun.person	
+2-8	Nielsen	I-noun.person	
+2-9	fra	O	
+2-10	Carstens	B-noun.building	
+2-11	Blomster	I-noun.building	
+2-12	i	O	
+2-13	Bredegade	B-noun.location	
+2-14	55	O	
+2-15	,	O	
+2-16	Slagelse	B-noun.location	
+2-17	,	O	
+2-18	har	O	
+2-19	også	O	
+2-20	modtaget	B-verb.possession	
+2-21	henvendelser	B-noun.communication	
+2-22	fra	O	
+2-23	politiet	B-noun.institution	
+2-24	.	O	
+
+#id=3
+#text="Jeg serverede gløgg for kunderne , men nu må jeg drikke resterne selv .
+3-1	"	O	
+3-2	Jeg	O	
+3-3	serverede	B-verb.possession	
+3-4	gløgg	B-noun.food	
+3-5	for	O	
+3-6	kunderne	B-noun.person	
+3-7	,	O	
+3-8	men	O	
+3-9	nu	O	
+3-10	må	O	
+3-11	jeg	O	
+3-12	drikke	B-verb.consumption	
+3-13	resterne	B-noun.food	
+3-14	selv	O	
+3-15	.	O	
+
+#id=4
+#text=Påtrods af , at jeg har mest lyst til at fastholde traditionen .
+4-1	På	O	
+4-2	trods	O	
+4-3	af	O	
+4-4	,	O	
+4-5	at	O	
+4-6	jeg	O	
+4-7	har	B-verb.emotion	
+4-8	mest	O	
+4-9	lyst	B-verb.COLL	
+4-10	til	B-verb.COLL	
+4-11	at	O	
+4-12	fastholde	B-verb.act	
+4-13	traditionen	B-noun.abstract	
+4-14	.	O	
+
+#id=5
+#text=Politietsaktion virker latterlig .
+5-1	Politiets	B-noun.institution	
+5-2	aktion	B-noun.act	
+5-3	virker	B-verb.cognition	
+5-4	latterlig	B-adj.all	
+5-5	.	O	
+
+#id=6
+#text=Betjenteneburde have andet at tage sig til i en by som Slagelse , der absolut ikke er fri for hverken hærværk eller anden form for kriminalitet , " siger Carsten Ove Dalsø Nielsen .
+6-1	Betjentene	B-noun.person	
+6-2	burde	O	
+6-3	have	B-verb.stative	
+6-4	andet	O	
+6-5	at	O	
+6-6	tage	B-verb.act	
+6-7	sig	B-verb.REFLPRON	
+6-8	til	B-verb.PARTICLE	
+6-9	i	O	
+6-10	en	O	
+6-11	by	B-noun.location	
+6-12	som	O	
+6-13	Slagelse	B-noun.location	
+6-14	,	O	
+6-15	der	O	
+6-16	absolut	O	
+6-17	ikke	O	
+6-18	er	B-verb.stative	
+6-19	fri	B-adj.all	
+6-20	for	O	
+6-21	hverken	O	
+6-22	hærværk	B-noun.act	
+6-23	eller	O	
+6-24	anden	O	
+6-25	form	B-noun.abstract	
+6-26	for	O	
+6-27	kriminalitet	B-noun.act	
+6-28	,	O	
+6-29	"	O	
+6-30	siger	B-verb.communication	
+6-31	Carsten	B-noun.person	
+6-32	Ove	I-noun.person	
+6-33	Dalsø	I-noun.person	
+6-34	Nielsen	I-noun.person	
+6-35	.	O	
+
+#id=7
+#text=Endel frisørsaloner i Slagelse er heller ikke gået ram forbi , fordi de hygger om kunderne .
+7-1	En	O	
+7-2	del	B-noun.quantity	
+7-3	frisørsaloner	B-noun.building	
+7-4	i	O	
+7-5	Slagelse	B-noun.location	
+7-6	er	O	
+7-7	heller	O	
+7-8	ikke	O	
+7-9	gået	B-verb.phenomenon	
+7-10	ram	B-verb.COLL	
+7-11	forbi	B-verb.COLL	
+7-12	,	O	
+7-13	fordi	O	
+7-14	de	O	
+7-15	hygger	B-verb.social	
+7-16	om	O	
+7-17	kunderne	B-noun.person	
+7-18	.	O	
+
+#id=8
+#text=Ikkeblot i juletiden , men hele året med kaffe , te og småkager , mens folk enten venter på at komme til eller skal sidde en times tid med curlere i håret eller i tørrehjelm .
+8-1	Ikke	O	
+8-2	blot	O	
+8-3	i	O	
+8-4	juletiden	B-noun.time	
+8-5	,	O	
+8-6	men	O	
+8-7	hele	B-adj.time	
+8-8	året	B-noun.time	
+8-9	med	O	
+8-10	kaffe	B-noun.food	
+8-11	,	O	
+8-12	te	B-noun.food	
+8-13	og	O	
+8-14	småkager	B-noun.food	
+8-15	,	O	
+8-16	mens	O	
+8-17	folk	B-noun.person	
+8-18	enten	O	
+8-19	venter	B-verb.stative	
+8-20	på	O	
+8-21	at	O	
+8-22	komme	B-verb.phenomenon	
+8-23	til	B-verb.PARTICLE	
+8-24	eller	O	
+8-25	skal	O	
+8-26	sidde	B-verb.stative	
+8-27	en	O	
+8-28	times	B-noun.time	
+8-29	tid	B-noun.time	
+8-30	med	O	
+8-31	curlere	B-noun.artifact	
+8-32	i	O	
+8-33	håret	B-noun.body	
+8-34	eller	O	
+8-35	i	O	
+8-36	tørrehjelm	B-noun.artifact	
+8-37	.	O	
+
+#id=9
+#text=HVA'MED AVISERNE ?
+9-1	HVA'	O	
+9-2	MED	O	
+9-3	AVISERNE	B-noun.communication	
+9-4	?	O	
+

@@ -1,0 +1,208 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Flereaf de pårørende til morderens ofre gik også amok efter domsafsigelsen .
+1-1	Flere	O	
+1-2	af	O	
+1-3	de	O	
+1-4	pårørende	B-noun.person	
+1-5	til	O	
+1-6	morderens	B-noun.person	
+1-7	ofre	B-noun.person	
+1-8	gik	B-verb.act	
+1-9	også	O	
+1-10	amok	B-verb.COLL	
+1-11	efter	O	
+1-12	domsafsigelsen	B-noun.act	
+1-13	.	O	
+
+#id=2
+#text="Giv ham til os .
+2-1	"	O	
+2-2	Giv	B-verb.possession	
+2-3	ham	O	
+2-4	til	O	
+2-5	os	O	
+2-6	.	O	
+
+#id=3
+#text=Lados få ham , " råbte den desperate mor , Lydia Khobotova , mens hun prøvede at presse sig forbi vagterne foran Chikatilo , som brutalt myrdede hendes 10-årige søn .
+3-1	Lad	O	
+3-2	os	O	
+3-3	få	B-verb.possession	
+3-4	ham	O	
+3-5	,	O	
+3-6	"	O	
+3-7	råbte	B-verb.communication	
+3-8	den	O	
+3-9	desperate	B-adj.mental	
+3-10	mor	B-noun.person	
+3-11	,	O	
+3-12	Lydia	B-noun.person	
+3-13	Khobotova	I-noun.person	
+3-14	,	O	
+3-15	mens	O	
+3-16	hun	O	
+3-17	prøvede	B-verb.act	
+3-18	at	O	
+3-19	presse	B-verb.motion	
+3-20	sig	B-verb.REFLPRON	
+3-21	forbi	O	
+3-22	vagterne	B-noun.person	
+3-23	foran	O	
+3-24	Chikatilo	B-noun.person	
+3-25	,	O	
+3-26	som	O	
+3-27	brutalt	O	
+3-28	myrdede	B-verb.act	
+3-29	hendes	O	
+3-30	10-årige	B-adj.time	
+3-31	søn	B-noun.person	
+3-32	.	O	
+
+#id=4
+#text=LADOS FÅ HAM
+4-1	LAD	O	
+4-2	OS	O	
+4-3	FÅ	B-verb.possession	
+4-4	HAM	O	
+
+#id=5
+#text=NinaBelovetskayas 12-årige søn Vanya blev også dræbt af den sadistiske skolelærer .
+5-1	Nina	B-noun.person	
+5-2	Belovetskayas	I-noun.person	
+5-3	12-årige	B-adj.time	
+5-4	søn	B-noun.person	
+5-5	Vanya	B-noun.person	
+5-6	blev	O	
+5-7	også	O	
+5-8	dræbt	B-verb.act	
+5-9	af	O	
+5-10	den	O	
+5-11	sadistiske	B-adj.mental	
+5-12	skolelærer	B-noun.person	
+5-13	.	O	
+
+#id=6
+#text="Han skulle ha' en lærestreg for alle de rædsler , han har begået .
+6-1	"	O	
+6-2	Han	O	
+6-3	skulle	O	
+6-4	ha'	B-verb.phenomenon	
+6-5	en	O	
+6-6	lærestreg	B-noun.abstract	
+6-7	for	O	
+6-8	alle	O	
+6-9	de	O	
+6-10	rædsler	B-noun.act	
+6-11	,	O	
+6-12	han	O	
+6-13	har	O	
+6-14	begået	B-verb.act	
+6-15	.	O	
+
+#id=7
+#text=Viburde tage os af ham lige her i retssalen .
+7-1	Vi	O	
+7-2	burde	O	
+7-3	tage	B-verb.act	
+7-4	os	B-verb.REFLPRON	
+7-5	af	B-verb.COLL	
+7-6	ham	O	
+7-7	lige	O	
+7-8	her	O	
+7-9	i	O	
+7-10	retssalen	B-noun.building	
+7-11	.	O	
+
+#id=8
+#text=Såville jeg personligt aflive ham , " sagde Nina Belovetskaya .
+8-1	Så	O	
+8-2	ville	O	
+8-3	jeg	O	
+8-4	personligt	O	
+8-5	aflive	B-verb.act	
+8-6	ham	O	
+8-7	,	O	
+8-8	"	O	
+8-9	sagde	B-noun.communication	
+8-10	Nina	B-noun.person	
+8-11	Belovetskaya	I-noun.person	
+8-12	.	O	
+
+#id=9
+#text=DommerenLeonid Akubzhanov lagde stor vægt på , at massemorderen omhyggeligt og kynisk havde planlagt og udført sine grusomme forbrydelser - og bagefter udryddet afslørende bevis-materiale .
+9-1	Dommeren	B-noun.person	
+9-2	Leonid	B-noun.person	
+9-3	Akubzhanov	I-noun.person	
+9-4	lagde	B-verb.communication	
+9-5	stor	O	
+9-6	vægt	B-verb.COLL	
+9-7	på	B-verb.COLL	
+9-8	,	O	
+9-9	at	O	
+9-10	massemorderen	B-noun.person	
+9-11	omhyggeligt	O	
+9-12	og	O	
+9-13	kynisk	O	
+9-14	havde	O	
+9-15	planlagt	B-verb.cognition	
+9-16	og	O	
+9-17	udført	B-verb.act	
+9-18	sine	O	
+9-19	grusomme	B-adj.all	
+9-20	forbrydelser	B-noun.act	
+9-21	-	O	
+9-22	og	O	
+9-23	bagefter	O	
+9-24	udryddet	B-verb.act	
+9-25	afslørende	B-adj.all	
+9-26	bevis-materiale	B-noun.artifact	
+9-27	.	O	
+
+#id=10
+#text=Oftebar skolelæreren en mappe med et ekstra sæt tøj , så han kunne skifte , hvis han mødte et offer og fik blod på sine klæder .
+10-1	Ofte	O	
+10-2	bar	B-verb.stative	
+10-3	skolelæreren	B-noun.person	
+10-4	en	O	
+10-5	mappe	B-noun.container	
+10-6	med	O	
+10-7	et	O	
+10-8	ekstra	B-adj.all	
+10-9	sæt	B-noun.artifact	
+10-10	tøj	B-noun.artifact	
+10-11	,	O	
+10-12	så	O	
+10-13	han	O	
+10-14	kunne	O	
+10-15	skifte	B-verb.act	
+10-16	,	O	
+10-17	hvis	O	
+10-18	han	O	
+10-19	mødte	B-verb.phenomenon	
+10-20	et	O	
+10-21	offer	B-noun.person	
+10-22	og	O	
+10-23	fik	B-verb.phenomenon	
+10-24	blod	B-noun.substance	
+10-25	på	O	
+10-26	sine	O	
+10-27	klæder	B-noun.artifact	
+10-28	.	O	
+
+#id=11
+#text=Hanarrangerede også forretningsrejser med det ene formål at opstøve velegnede ofre .
+11-1	Han	O	
+11-2	arrangerede	B-verb.act	
+11-3	også	O	
+11-4	forretningsrejser	B-noun.act	
+11-5	med	O	
+11-6	det	O	
+11-7	ene	O	
+11-8	formål	B-noun.motive	
+11-9	at	O	
+11-10	opstøve	B-verb.act	
+11-11	velegnede	B-adj.all	
+11-12	ofre	B-noun.person	
+11-13	.	O	
+

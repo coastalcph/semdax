@@ -1,0 +1,237 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Mendet er ikke bare ejere af solcentre , der piller ved solarierne .
+1-1	Men	O	
+1-2	det	O	
+1-3	er	B-verb.stative	
+1-4	ikke	O	
+1-5	bare	O	
+1-6	ejere	B-noun.person	
+1-7	af	O	
+1-8	solcentre	B-noun.building	
+1-9	,	O	
+1-10	der	O	
+1-11	piller	B-verb.act	
+1-12	ved	O	
+1-13	solarierne	B-noun.artifact	
+1-14	.	O	
+
+#id=2
+#text="Vi har ofte måtte indskærpe overfor leverandørerne , at når vi har godkendt et apparat med filter , så skal filtret blive siddende .
+2-1	"	O	
+2-2	Vi	O	
+2-3	har	O	
+2-4	ofte	O	
+2-5	måtte	O	
+2-6	indskærpe	B-verb.change	
+2-7	overfor	O	
+2-8	leverandørerne	B-noun.institution	
+2-9	,	O	
+2-10	at	O	
+2-11	når	O	
+2-12	vi	O	
+2-13	har	O	
+2-14	godkendt	B-verb.cognition	
+2-15	et	O	
+2-16	apparat	B-noun.artifact	
+2-17	med	O	
+2-18	filter	B-noun.artifact	
+2-19	,	O	
+2-20	så	O	
+2-21	skal	O	
+2-22	filtret	B-noun.artifact	
+2-23	blive	O	
+2-24	siddende	B-verb.stative	
+2-25	.	O	
+
+#id=3
+#text=Deter alt for tit , vi er ude til sådanne sager .
+3-1	Det	O	
+3-2	er	B-verb.stative	
+3-3	alt	O	
+3-4	for	O	
+3-5	tit	O	
+3-6	,	O	
+3-7	vi	O	
+3-8	er	B-verb.stative	
+3-9	ude	O	
+3-10	til	O	
+3-11	sådanne	O	
+3-12	sager	B-noun.event	
+3-13	.	O	
+
+#id=4
+#text=Derer bestemte solcentre vi besøger gang på gang , hvor sikkerheden ikke er i orden .
+4-1	Der	O	
+4-2	er	B-verb.stative	
+4-3	bestemte	B-adj.all	
+4-4	solcentre	B-noun.building	
+4-5	vi	O	
+4-6	besøger	B-verb.act	
+4-7	gang	B-noun.time	
+4-8	på	O	
+4-9	gang	B-noun.time	
+4-10	,	O	
+4-11	hvor	O	
+4-12	sikkerheden	B-noun.attribute	
+4-13	ikke	O	
+4-14	er	B-verb.stative	
+4-15	i	B-adj.all	
+4-16	orden	I-adj.all	
+4-17	.	O	
+
+#id=5
+#text=Vihar oplevet solarier , hvor der har været risiko for elektriske stød .
+5-1	Vi	O	
+5-2	har	O	
+5-3	oplevet	B-verb.perception	
+5-4	solarier	B-noun.artifact	
+5-5	,	O	
+5-6	hvor	O	
+5-7	der	O	
+5-8	har	O	
+5-9	været	B-verb.stative	
+5-10	risiko	B-noun.abstract	
+5-11	for	O	
+5-12	elektriske	B-adj.phys	
+5-13	stød	B-noun.phenomenon	
+5-14	.	O	
+
+#id=6
+#text=Vihar været ude for , at der er gået ild i den øverste del af et solarie .
+6-1	Vi	O	
+6-2	har	O	
+6-3	været	B-verb.perception	
+6-4	ude	B-verb.COLL	
+6-5	for	B-verb.COLL	
+6-6	,	O	
+6-7	at	O	
+6-8	der	O	
+6-9	er	O	
+6-10	gået	B-verb.phenomenon	
+6-11	ild	B-verb.COLL	
+6-12	i	O	
+6-13	den	O	
+6-14	øverste	O	
+6-15	del	B-noun.relation	
+6-16	af	O	
+6-17	et	O	
+6-18	solarie	B-noun.artifact	
+6-19	.	O	
+
+#id=7
+#text=Også har vi set solarier , hvor automatikken ikke var i orden .
+7-1	Og	O	
+7-2	så	O	
+7-3	har	O	
+7-4	vi	O	
+7-5	set	B-verb.perception	
+7-6	solarier	B-noun.artifact	
+7-7	,	O	
+7-8	hvor	O	
+7-9	automatikken	B-noun.artifact	
+7-10	ikke	O	
+7-11	var	B-verb.stative	
+7-12	i	B-adj.all	
+7-13	orden	I-adj.all	
+7-14	.	O	
+
+#id=8
+#text=Hvorf.eks. den øverste del ikke har kunnet trækkes op , " siger Finn Rønlov Andersen .
+8-1	Hvor	O	
+8-2	f.eks.	O	
+8-3	den	O	
+8-4	øverste	B-adj.all	
+8-5	del	B-noun.relation	
+8-6	ikke	O	
+8-7	har	O	
+8-8	kunnet	O	
+8-9	trækkes	B-verb.act	
+8-10	op	O	
+8-11	,	O	
+8-12	"	O	
+8-13	siger	B-verb.communication	
+8-14	Finn	B-noun.person	
+8-15	Rønlov	I-noun.person	
+8-16	Andersen	I-noun.person	
+8-17	.	O	
+
+#id=9
+#text=SigneSylvest , der selv har Riviera Solcenter  i Århus kalder Danmark en bananrepublik , når det gælder regler og tilsyn for solcentre .
+9-1	Signe	B-noun.person	
+9-2	Sylvest	I-noun.person	
+9-3	,	O	
+9-4	der	O	
+9-5	selv	O	
+9-6	har	B-verb.possession	
+9-7	Riviera	B-noun.building	
+9-8	Solcenter	I-noun.building	
+9-9	i	O	
+9-10	Århus	B-noun.location	
+9-11	kalder	B-verb.communication	
+9-12	Danmark	B-noun.location	
+9-13	en	O	
+9-14	bananrepublik	B-noun.institution	
+9-15	,	O	
+9-16	når	O	
+9-17	det	O	
+9-18	gælder	B-verb.stative	
+9-19	regler	B-noun.cognition	
+9-20	og	O	
+9-21	tilsyn	B-noun.cognition	
+9-22	for	O	
+9-23	solcentre	B-noun.building	
+9-24	.	O	
+
+#id=10
+#text="Der burde være nogle minimumskrav for oprettelse af solcentre sammen med efterfølgende jævnlige tilsyn .
+10-1	"	O	
+10-2	Der	O	
+10-3	burde	O	
+10-4	være	B-verb.stative	
+10-5	nogle	O	
+10-6	minimumskrav	B-noun.abstract	
+10-7	for	O	
+10-8	oprettelse	B-noun.act	
+10-9	af	O	
+10-10	solcentre	B-noun.building	
+10-11	sammen	O	
+10-12	med	O	
+10-13	efterfølgende	O	
+10-14	jævnlige	B-adj.all	
+10-15	tilsyn	B-noun.act	
+10-16	.	O	
+
+#id=11
+#text=Somdet er i_dag kan alle smække et center op .
+11-1	Som	O	
+11-2	det	O	
+11-3	er	B-verb.stative	
+11-4	i_dag	B-noun.time	
+11-5	kan	O	
+11-6	alle	O	
+11-7	smække	B-verb.act	
+11-8	et	O	
+11-9	center	B-noun.building	
+11-10	op	B-verb.COLL	
+11-11	.	O	
+
+#id=12
+#text=Jegkender eksempler på grillbarer og blomsterhandlere , der har et par sole i baglokalet .
+12-1	Jeg	O	
+12-2	kender	B-verb.cognition	
+12-3	eksempler	B-noun.abstract	
+12-4	på	O	
+12-5	grillbarer	B-noun.building	
+12-6	og	O	
+12-7	blomsterhandlere	B-noun.building	
+12-8	,	O	
+12-9	der	O	
+12-10	har	B-verb.possession	
+12-11	et	O	
+12-12	par	B-noun.quantity	
+12-13	sole	B-noun.artifact	
+12-14	i	O	
+12-15	baglokalet	B-noun.building	
+12-16	.	O	
+

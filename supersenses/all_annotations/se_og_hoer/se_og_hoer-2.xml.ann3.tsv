@@ -1,0 +1,2271 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Mende kan ikke få parforholdet til at fungere.
+1-1	Men	O	
+1-2	de	O	
+1-3	kan	B-verb.emotion	
+1-4	ikke	O	
+1-5	få	B-verb.change	
+1-6	parforholdet	B-noun.state	
+1-7	til	O	
+1-8	at	O	
+1-9	fungere	B-verb.phenomenon	
+1-10	.	O	
+
+#id=2
+#text=Glædenlyste ud af dem, da stort set samtlige dansktopstjerner optrådte i et kæmpe fødselsdagsshow.
+2-1	Glæden	B-noun.feeling	
+2-2	lyste	B-verb.phenomenon	
+2-3	ud	O	
+2-4	af	O	
+2-5	dem	O	
+2-6	,	O	
+2-7	da	O	
+2-8	stort	O	
+2-9	set	O	
+2-10	samtlige	O	
+2-11	dansktopstjerner	B-noun.person	
+2-12	optrådte	B-verb.act	
+2-13	i	O	
+2-14	et	O	
+2-15	kæmpe	B-adj.phys	
+2-16	fødselsdagsshow	B-noun.event	
+2-17	.	O	
+
+#id=3
+#text=Detførste katalog udkom i 1911, og Bent er den lykkelige ejer af en stor samling af eftertidens eksemplarer.
+3-1	Det	O	
+3-2	første	B-adj.all	
+3-3	katalog	B-noun.communication	
+3-4	udkom	B-verb.communication	
+3-5	i	O	
+3-6	1911	B-noun.time	
+3-7	,	O	
+3-8	og	O	
+3-9	Bent	B-noun.person	
+3-10	er	B-verb.stative	
+3-11	den	O	
+3-12	lykkelige	B-adj.mental	
+3-13	ejer	B-noun.person	
+3-14	af	O	
+3-15	en	O	
+3-16	stor	B-adj.phys	
+3-17	samling	B-noun.group	
+3-18	af	O	
+3-19	eftertidens	B-noun.time	
+3-20	eksemplarer	B-noun.artifact	
+3-21	.	O	
+
+#id=4
+#text=Den96-årige skibsreder er bestemt i fuldt vigør.
+4-1	Den	O	
+4-2	96	B-adj.phys	
+4-3	-	I-adj.phys	
+4-4	årige	I-adj.phys	
+4-5	skibsreder	B-noun.person	
+4-6	er	B-verb.stative	
+4-7	bestemt	O	
+4-8	i	O	
+4-9	fuldt	B-adj.phys	
+4-10	vigør	I-adj.phys	
+4-11	.	O	
+
+#id=5
+#text=Hælensad fast, men kronprinsessen  fik hurtigt skoen på igen, efter at hun og Frederik havde besøgt Arlington kirkegård og John F.
+5-1	Hælen	B-noun.artifact	
+5-2	sad	B-verb.stative	
+5-3	fast	B-verb.PARTICLE	
+5-4	,	O	
+5-5	men	O	
+5-6	kronprinsessen	B-noun.person	
+5-7	fik	B-verb.change	
+5-8	hurtigt	O	
+5-9	skoen	B-noun.artifact	
+5-10	på	B-verb.PARTICLE	
+5-11	igen	O	
+5-12	,	O	
+5-13	efter	O	
+5-14	at	O	
+5-15	hun	O	
+5-16	og	O	
+5-17	Frederik	B-noun.person	
+5-18	havde	O	
+5-19	besøgt	B-verb.act	
+5-20	Arlington	B-noun.location	
+5-21	kirkegård	I-noun.location	
+5-22	og	O	
+5-23	John	O	
+5-24	F	O	
+5-25	.	O	
+
+#id=6
+#text=Nukoster de  172 kvadratmeter med ude ndør s bruseniche 12.950.000 kr.
+6-1	Nu	O	
+6-2	koster	B-verb.possession	
+6-3	de	O	
+6-4	172	O	
+6-5	kvadratmeter	B-noun.quantity	
+6-6	med	O	
+6-7	ude	B-adj.phys	
+6-8	ndør	I-adj.phys	
+6-9	s	I-adj.phys	
+6-10	bruseniche	B-noun.artifact	
+6-11	12	O	
+6-12	.	O	
+6-13	950	O	
+6-14	.	O	
+6-15	000	O	
+6-16	kr	O	
+6-17	.	O	
+
+#id=7
+#text=-sjov 37-årig komiker med hang til unge piger, luftede forleden sin 16 år yngre skuespillerkæreste Julie Zangenberg i de små gader i Københavns indre by.
+7-1	-	O	
+7-2	sjov	B-adj.mental	
+7-3	37	B-adj.phys	
+7-4	-	I-adj.phys	
+7-5	årig	I-adj.phys	
+7-6	komiker	B-noun.person	
+7-7	med	O	
+7-8	hang	B-noun.cognition	
+7-9	til	O	
+7-10	unge	B-adj.phys	
+7-11	piger	B-noun.person	
+7-12	,	O	
+7-13	luftede	B-verb.act	
+7-14	forleden	B-adj.time	
+7-15	sin	O	
+7-16	16	O	
+7-17	år	B-noun.time	
+7-18	yngre	B-adj.phys	
+7-19	skuespillerkæreste	B-noun.person	
+7-20	Julie	B-noun.person	
+7-21	Zangenberg	I-noun.person	
+7-22	i	O	
+7-23	de	O	
+7-24	små	B-adj.phys	
+7-25	gader	B-noun.location	
+7-26	i	O	
+7-27	Københavns	B-noun.location	
+7-28	indre	I-noun.location	
+7-29	by	I-noun.location	
+7-30	.	O	
+
+#id=8
+#text=4Alle gebissers Porsche virker som en magnet på silikonebryster.
+8-1	4	O	
+8-2	Alle	O	
+8-3	gebissers	B-noun.artifact|B-noun.person	
+8-4	Porsche	B-noun.vehicle	
+8-5	virker	B-verb.phenomenon	
+8-6	som	O	
+8-7	en	O	
+8-8	magnet	B-noun.artifact	
+8-9	på	O	
+8-10	silikonebryster	B-noun.body|B-noun.person	
+8-11	.	O	
+
+#id=9
+#text=Denældste halvdel af Brødrene Olsen føler sig bare som en glad dreng, der har fået en masse drømme opfyldt.
+9-1	Den	O	
+9-2	ældste	B-adj.time	
+9-3	halvdel	B-noun.quantity	
+9-4	af	O	
+9-5	Brødrene	B-noun.communication	
+9-6	Olsen	I-noun.communication	
+9-7	føler	B-verb.emotion	
+9-8	sig	B-verb.REFLPRON	
+9-9	bare	O	
+9-10	som	O	
+9-11	en	O	
+9-12	glad	B-adj.mental	
+9-13	dreng	B-noun.person	
+9-14	,	O	
+9-15	der	O	
+9-16	har	O	
+9-17	fået	B-verb.phenomenon	
+9-18	en	O	
+9-19	masse	B-noun.quantity	
+9-20	drømme	B-noun.cognition	
+9-21	opfyldt	B-verb.aspectual	
+9-22	.	O	
+
+#id=10
+#text=Vidtforskellig smag kendetegner TV-værternes valg af bolig.
+10-1	Vidt	O	
+10-2	forskellig	B-adj.all	
+10-3	smag	B-noun.cognition	
+10-4	kendetegner	B-verb.stative	
+10-5	TV	B-noun.person	
+10-6	-	I-noun.person	
+10-7	værternes	I-noun.person	
+10-8	valg	B-noun.cognition	
+10-9	af	O	
+10-10	bolig	B-noun.building	
+10-11	.	O	
+
+#id=11
+#text=Den løb løbsk, og det var ret sjovt.
+11-1	Den	O	
+11-2	løb	B-verb.motion	
+11-3	løbsk	O	
+11-4	,	O	
+11-5	og	O	
+11-6	det	O	
+11-7	var	B-verb.stative	
+11-8	ret	O	
+11-9	sjovt	B-adj.mental	
+11-10	.	O	
+
+#id=12
+#text=Og såmænd også på vores bare balder, proklamerede de to kvinder frimodigt.
+12-1	Og	O	
+12-2	såmænd	O	
+12-3	også	O	
+12-4	på	O	
+12-5	vores	O	
+12-6	bare	B-adj.phys	
+12-7	balder	B-noun.body	
+12-8	,	O	
+12-9	proklamerede	B-verb.communication	
+12-10	de	O	
+12-11	to	O	
+12-12	kvinder	B-noun.person	
+12-13	frimodigt	O	
+12-14	.	O	
+
+#id=13
+#text=-glad sønderjysk kornprinsesse, var i bogstaveligste forstand klædt på til lejligheden, da hun åbnede Odense Blomsterfestival.
+13-1	-	O	
+13-2	glad	B-adj.mental	
+13-3	sønderjysk	B-adj.social	
+13-4	kornprinsesse	B-noun.person	
+13-5	,	O	
+13-6	var	B-verb.stative	
+13-7	i	O	
+13-8	bogstaveligste	B-adj.mental	
+13-9	forstand	B-noun.cognition	
+13-10	klædt	B-verb.change	
+13-11	på	B-verb.PARTICLE	
+13-12	til	O	
+13-13	lejligheden	B-noun.time	
+13-14	,	O	
+13-15	da	O	
+13-16	hun	O	
+13-17	åbnede	B-verb.communication	
+13-18	Odense	B-noun.event	
+13-19	Blomsterfestival	I-noun.event	
+13-20	.	O	
+
+#id=14
+#text=Men den løse hud kan også skyldes, at den i forvejen spinkle grevinde i den senere tid er blevet en hel del mindre.
+14-1	Men	O	
+14-2	den	O	
+14-3	løse	B-adj.phys	
+14-4	hud	B-noun.body	
+14-5	kan	B-verb.emotion	
+14-6	også	O	
+14-7	skyldes	B-verb.phenomenon	
+14-8	,	O	
+14-9	at	O	
+14-10	den	O	
+14-11	i	O	
+14-12	forvejen	O	
+14-13	spinkle	B-adj.phys	
+14-14	grevinde	B-noun.person	
+14-15	i	O	
+14-16	den	O	
+14-17	senere	O	
+14-18	tid	B-noun.time	
+14-19	er	O	
+14-20	blevet	B-verb.change	
+14-21	en	O	
+14-22	hel	B-adj.phys	
+14-23	del	B-noun.quantity	
+14-24	mindre	B-adj.phys	
+14-25	.	O	
+
+#id=15
+#text=Mennej.
+15-1	Men	O	
+15-2	nej	O	
+15-3	.	O	
+
+#id=16
+#text=Efterat SE og HØR for nylig afslørede, at de er kærester, har turtelduerne ellers nægtet at udtale sig om deres romance.
+16-1	Efter	O	
+16-2	at	O	
+16-3	SE	B-noun.communication	
+16-4	og	I-noun.communication	
+16-5	HØR	I-noun.communication	
+16-6	for	O	
+16-7	nylig	O	
+16-8	afslørede	B-verb.communication	
+16-9	,	O	
+16-10	at	O	
+16-11	de	O	
+16-12	er	B-verb.stative	
+16-13	kærester	B-noun.person	
+16-14	,	O	
+16-15	har	O	
+16-16	turtelduerne	B-noun.person	
+16-17	ellers	O	
+16-18	nægtet	B-verb.act	
+16-19	at	O	
+16-20	udtale	B-verb.communication	
+16-21	sig	B-verb.REFLPRON	
+16-22	om	O	
+16-23	deres	O	
+16-24	romance	B-noun.state	
+16-25	.	O	
+
+#id=17
+#text=Kommerbøsserne?
+17-1	Kommer	B-verb.motion	
+17-2	bøsserne	B-noun.person	
+17-3	?	O	
+
+#id=18
+#text=-Det er en film, der bare sidder på nethinden, fordi den er så speciel, sagde Robert, som selv er nomineret til årets birolle for sin præstation i komedien " Old Boys".
+18-1	-	O	
+18-2	Det	O	
+18-3	er	B-verb.stative	
+18-4	en	O	
+18-5	film	B-noun.artifact	
+18-6	,	O	
+18-7	der	O	
+18-8	bare	O	
+18-9	sidder	B-verb.stative	
+18-10	på	O	
+18-11	nethinden	B-noun.cognition	
+18-12	,	O	
+18-13	fordi	O	
+18-14	den	O	
+18-15	er	B-verb.stative	
+18-16	så	O	
+18-17	speciel	B-adj.all	
+18-18	,	O	
+18-19	sagde	B-verb.communication	
+18-20	Robert	B-noun.person	
+18-21	,	O	
+18-22	som	O	
+18-23	selv	O	
+18-24	er	O	
+18-25	nomineret	B-verb.competition	
+18-26	til	O	
+18-27	årets	B-noun.time	
+18-28	birolle	B-noun.person	
+18-29	for	O	
+18-30	sin	O	
+18-31	præstation	B-noun.act	
+18-32	i	O	
+18-33	komedien	B-noun.domain	
+18-34	"	O	
+18-35	Old	B-noun.communication	
+18-36	Boys	I-noun.communication	
+18-37	"	O	
+18-38	.	O	
+
+#id=19
+#text=Tiden læger alle sår - men hjælper ikke mod rynker En kvinde gik op til lægen og klagede over, hun havde ondt i knæene.
+19-1	Tiden	B-noun.time	
+19-2	læger	B-verb.change	
+19-3	alle	O	
+19-4	sår	B-noun.object	
+19-5	-	O	
+19-6	men	O	
+19-7	hjælper	B-verb.act	
+19-8	ikke	O	
+19-9	mod	O	
+19-10	rynker	B-noun.body	
+19-11	En	O	
+19-12	kvinde	B-noun.person	
+19-13	gik	B-verb.motion	
+19-14	op	B-verb.PARTICLE	
+19-15	til	O	
+19-16	lægen	B-noun.person	
+19-17	og	O	
+19-18	klagede	B-verb.communication	
+19-19	over	O	
+19-20	,	O	
+19-21	hun	O	
+19-22	havde	B-verb.phenomenon	
+19-23	ondt	B-adj.phys	
+19-24	i	O	
+19-25	knæene	B-noun.body	
+19-26	.	O	
+
+#id=20
+#text=Idag, onsdag, fylder Lotte Thor Høgsberg, som hun hedder nu, 40 år, og får sit livs bedste fødselsdagsgave - et barn.
+20-1	I	O	
+20-2	dag	B-noun.time	
+20-3	,	O	
+20-4	onsdag	B-noun.time	
+20-5	,	O	
+20-6	fylder	B-verb.change	
+20-7	Lotte	B-noun.person	
+20-8	Thor	I-noun.person	
+20-9	Høgsberg	I-noun.person	
+20-10	,	O	
+20-11	som	O	
+20-12	hun	O	
+20-13	hedder	B-verb.phenomenon	
+20-14	nu	O	
+20-15	,	O	
+20-16	40	O	
+20-17	år	B-verb.PARTICLE	
+20-18	,	O	
+20-19	og	O	
+20-20	får	B-verb.possession	
+20-21	sit	O	
+20-22	livs	B-noun.time	
+20-23	bedste	B-adj.all	
+20-24	fødselsdagsgave	B-noun.artifact	
+20-25	-	O	
+20-26	et	O	
+20-27	barn	B-noun.person	
+20-28	.	O	
+
+#id=21
+#text=Hunhar været med Patrik alle fredagene.
+21-1	Hun	O	
+21-2	har	O	
+21-3	været	B-verb.social	
+21-4	med	O	
+21-5	Patrik	B-noun.person	
+21-6	alle	O	
+21-7	fredagene	B-noun.time	
+21-8	.	O	
+
+#id=22
+#text=Jo, det er bestemt ikke uden grund, at Yosemite bliver kaldt for USA's smukkeste nationalpark.
+22-1	Jo	O	
+22-2	,	O	
+22-3	det	O	
+22-4	er	B-verb.stative	
+22-5	bestemt	O	
+22-6	ikke	O	
+22-7	uden	O	
+22-8	grund	B-noun.motive	
+22-9	,	O	
+22-10	at	O	
+22-11	Yosemite	B-noun.location	
+22-12	bliver	O	
+22-13	kaldt	B-verb.communication	
+22-14	for	O	
+22-15	USA	B-noun.location	
+22-16	'	O	
+22-17	s	O	
+22-18	smukkeste	B-adj.phys	
+22-19	nationalpark	B-noun.location	
+22-20	.	O	
+
+#id=23
+#text=Seti bakspejlet var det godt for børnene, at jeg ikke gik helt i panik.
+23-1	Set	B-verb.cognition	
+23-2	i	O	
+23-3	bakspejlet	B-noun.artifact	
+23-4	var	B-verb.stative	
+23-5	det	O	
+23-6	godt	B-adj.all	
+23-7	for	O	
+23-8	børnene	B-noun.person	
+23-9	,	O	
+23-10	at	O	
+23-11	jeg	O	
+23-12	ikke	O	
+23-13	gik	B-verb.change	
+23-14	helt	O	
+23-15	i	O	
+23-16	panik	B-noun.feeling	
+23-17	.	O	
+
+#id=24
+#text=Dethele tårnede sig op for mig, og så stod jeg dér med mit pilleglas med vand fra kirkegårdens vandhane og prøvede at begå selvmord.
+24-1	Det	O	
+24-2	hele	B-noun.TOP	
+24-3	tårnede	B-verb.act	
+24-4	sig	B-verb.REFLPRON	
+24-5	op	B-verb.PARTICLE	
+24-6	for	O	
+24-7	mig	O	
+24-8	,	O	
+24-9	og	O	
+24-10	så	O	
+24-11	stod	B-verb.stative	
+24-12	jeg	O	
+24-13	dér	O	
+24-14	med	O	
+24-15	mit	O	
+24-16	pilleglas	B-noun.container	
+24-17	med	O	
+24-18	vand	B-noun.substance	
+24-19	fra	O	
+24-20	kirkegårdens	B-noun.location	
+24-21	vandhane	B-noun.artifact	
+24-22	og	O	
+24-23	prøvede	B-verb.act	
+24-24	at	O	
+24-25	begå	B-verb.act	
+24-26	selvmord	B-noun.act	
+24-27	.	O	
+
+#id=25
+#text=Iårene før og efter 1. verdenskrig følger vi den russiske komponist Igor Stravinsky og den franske modediva Coco Chanel.
+25-1	I	O	
+25-2	årene	B-noun.time	
+25-3	før	O	
+25-4	og	O	
+25-5	efter	O	
+25-6	1	B-noun.event	
+25-7	.	I-noun.event	
+25-8	verdenskrig	I-noun.event	
+25-9	følger	B-verb.phenomenon	
+25-10	vi	O	
+25-11	den	O	
+25-12	russiske	B-adj.social	
+25-13	komponist	B-noun.person	
+25-14	Igor	B-noun.person	
+25-15	Stravinsky	I-noun.person	
+25-16	og	O	
+25-17	den	O	
+25-18	franske	B-adj.social	
+25-19	modediva	B-noun.person	
+25-20	Coco	B-noun.person	
+25-21	Chanel	I-noun.person	
+25-22	.	O	
+
+#id=26
+#text=Sammen med konen Mette Due Nielsen har han fået en lille søn på 3010 gram og 51 cm, og sammen med Jakobs tre piger på to, 14 og 17 år er de blevet enige om navnet Anders.
+26-1	Sammen	O	
+26-2	med	O	
+26-3	konen	B-noun.person	
+26-4	Mette	B-noun.person	
+26-5	Due	I-noun.person	
+26-6	Nielsen	I-noun.person	
+26-7	har	O	
+26-8	han	O	
+26-9	fået	B-verb.possession	
+26-10	en	O	
+26-11	lille	B-adj.phys	
+26-12	søn	B-noun.person	
+26-13	på	O	
+26-14	3010	O	
+26-15	gram	B-noun.quantity	
+26-16	og	O	
+26-17	51	O	
+26-18	cm	O	
+26-19	,	O	
+26-20	og	O	
+26-21	sammen	O	
+26-22	med	O	
+26-23	Jakobs	B-noun.person	
+26-24	tre	O	
+26-25	piger	B-noun.person	
+26-26	på	O	
+26-27	to	O	
+26-28	,	O	
+26-29	14	O	
+26-30	og	O	
+26-31	17	O	
+26-32	år	B-noun.time	
+26-33	er	O	
+26-34	de	O	
+26-35	blevet	B-verb.stative	
+26-36	enige	B-adj.mental	
+26-37	om	O	
+26-38	navnet	B-noun.attribute	
+26-39	Anders	B-noun.attribute	
+26-40	.	O	
+
+#id=27
+#text=-billedskøn sportsvært på TV2, nedkom i weekenden på Hvidovre Hospital med en lille pige, som skal hedde Mathilda Augusta.
+27-1	-	O	
+27-2	billedskøn	B-adj.phys	
+27-3	sportsvært	B-noun.person	
+27-4	på	O	
+27-5	TV2	B-noun.communication	
+27-6	,	O	
+27-7	nedkom	B-verb.phenomenon	
+27-8	i	O	
+27-9	weekenden	B-noun.time	
+27-10	på	O	
+27-11	Hvidovre	B-noun.location	
+27-12	Hospital	I-noun.location	
+27-13	med	O	
+27-14	en	O	
+27-15	lille	B-adj.phys	
+27-16	pige	B-noun.person	
+27-17	,	O	
+27-18	som	O	
+27-19	skal	B-verb.emotion	
+27-20	hedde	B-verb.stative	
+27-21	Mathilda	B-noun.attribute	
+27-22	Augusta	I-noun.attribute	
+27-23	.	O	
+
+#id=28
+#text=Derfor er han selv kommet med på billedet.
+28-1	Derfor	O	
+28-2	er	B-verb.stative	
+28-3	han	O	
+28-4	selv	O	
+28-5	kommet	B-verb.social	
+28-6	med	B-verb.PARTICLE	
+28-7	på	O	
+28-8	billedet	B-noun.artifact	
+28-9	.	O	
+
+#id=29
+#text=-verdensberømtdansk-amerikansk skuespiller var i mandags i audiens hos Margrethe for at takke for sit ridderkors, som han modtog på dronningens 70 års fødselsdag.
+29-1	-	O	
+29-2	verdensberømt	B-adj.social	
+29-3	dansk	B-adj.social	
+29-4	-	O	
+29-5	amerikansk	B-adj.social	
+29-6	skuespiller	B-noun.person	
+29-7	var	B-verb.stative	
+29-8	i	O	
+29-9	mandags	B-noun.time	
+29-10	i	O	
+29-11	audiens	B-noun.act	
+29-12	hos	O	
+29-13	Margrethe	B-noun.person	
+29-14	for	O	
+29-15	at	O	
+29-16	takke	B-verb.communication	
+29-17	for	O	
+29-18	sit	O	
+29-19	ridderkors	B-noun.artifact	
+29-20	,	O	
+29-21	som	O	
+29-22	han	O	
+29-23	modtog	B-verb.possession	
+29-24	på	O	
+29-25	dronningens	B-noun.person	
+29-26	70	O	
+29-27	års	B-noun.time	
+29-28	fødselsdag	B-noun.time	
+29-29	.	O	
+
+#id=30
+#text=Destore vodkasjusser så ud til at gå lige i blodet på den lille ekscykelrytter Bo Hamburger.
+30-1	De	O	
+30-2	store	B-adj.phys	
+30-3	vodkasjusser	B-noun.artifact	
+30-4	så	B-verb.perception	
+30-5	ud	B-verb.PARTICLE	
+30-6	til	B-verb.COLL	
+30-7	at	O	
+30-8	gå	B-verb.act	
+30-9	lige	O	
+30-10	i	B-verb.COLL	
+30-11	blodet	I-verb.COLL	
+30-12	på	O	
+30-13	den	O	
+30-14	lille	B-adj.phys	
+30-15	ekscykelrytter	B-noun.person	
+30-16	Bo	B-noun.person	
+30-17	Hamburger	I-noun.person	
+30-18	.	O	
+
+#id=31
+#text=-humørfyldt instruktør, overvejede at få en navlepiercing for 15 år siden, da hun var 32 år.
+31-1	-	O	
+31-2	humørfyldt	B-adj.mental	
+31-3	instruktør	B-noun.person	
+31-4	,	O	
+31-5	overvejede	B-verb.cognition	
+31-6	at	O	
+31-7	få	B-verb.possession	
+31-8	en	O	
+31-9	navlepiercing	B-noun.body	
+31-10	for	O	
+31-11	15	O	
+31-12	år	B-noun.time	
+31-13	siden	O	
+31-14	,	O	
+31-15	da	O	
+31-16	hun	O	
+31-17	var	B-verb.stative	
+31-18	32	O	
+31-19	år	B-noun.time	
+31-20	.	O	
+
+#id=32
+#text=En gammel mand ti ltrak sig forleden stor opmærksom hed i New York, da han spadserede ned ad gaden i et out fit, der lignede en blanding af Madam Skrald og Anne Marie Helger på en dårlig dag.
+32-1	En	O	
+32-2	gammel	B-adj.time	
+32-3	mand	B-noun.person	
+32-4	ti	B-verb.phenomenon	
+32-5	ltrak	I-verb.phenomenon	
+32-6	sig	O	
+32-7	forleden	B-adj.time	
+32-8	stor	B-adj.phys	
+32-9	opmærksom	B-noun.attribute	
+32-10	hed	I-noun.attribute	
+32-11	i	O	
+32-12	New	B-noun.location	
+32-13	York	I-noun.location	
+32-14	,	O	
+32-15	da	O	
+32-16	han	O	
+32-17	spadserede	B-verb.motion	
+32-18	ned	O	
+32-19	ad	O	
+32-20	gaden	B-noun.location	
+32-21	i	O	
+32-22	et	O	
+32-23	out	B-noun.artifact	
+32-24	fit	I-noun.artifact	
+32-25	,	O	
+32-26	der	O	
+32-27	lignede	B-verb.perception	
+32-28	en	O	
+32-29	blanding	B-noun.act	
+32-30	af	O	
+32-31	Madam	B-noun.person	
+32-32	Skrald	I-noun.person	
+32-33	og	O	
+32-34	Anne	B-noun.person	
+32-35	Marie	I-noun.person	
+32-36	Helger	I-noun.person	
+32-37	på	O	
+32-38	en	O	
+32-39	dårlig	B-adj.social	
+32-40	dag	B-noun.time	
+32-41	.	O	
+
+#id=33
+#text=-Vi mødtes første gang, da Lis var en helt ung pige.
+33-1	-	O	
+33-2	Vi	O	
+33-3	mødtes	B-verb.social	
+33-4	første	B-adj.all	
+33-5	gang	B-noun.quantity	
+33-6	,	O	
+33-7	da	O	
+33-8	Lis	B-noun.person	
+33-9	var	B-verb.stative	
+33-10	en	O	
+33-11	helt	O	
+33-12	ung	B-adj.phys	
+33-13	pige	B-noun.person	
+33-14	.	O	
+
+#id=34
+#text=Deter dog ikke det kølige havvand, der trækker, men derimod hans nye indendørs swimmingpool med 24 grader varmt vand.
+34-1	Det	O	
+34-2	er	B-verb.stative	
+34-3	dog	O	
+34-4	ikke	O	
+34-5	det	O	
+34-6	kølige	B-adj.phys	
+34-7	havvand	B-noun.substance	
+34-8	,	O	
+34-9	der	O	
+34-10	trækker	B-verb.phenomenon	
+34-11	,	O	
+34-12	men	O	
+34-13	derimod	O	
+34-14	hans	O	
+34-15	nye	B-adj.time	
+34-16	indendørs	B-adj.phys	
+34-17	swimmingpool	B-noun.artifact	
+34-18	med	O	
+34-19	24	O	
+34-20	grader	B-noun.quantity	
+34-21	varmt	B-adj.phys	
+34-22	vand	B-noun.substance	
+34-23	.	O	
+
+#id=35
+#text=Tværtimod fortalte hun mig, at hun udmærket var klar over, at hendes mand var hende utro.
+35-1	Tværtimod	O	
+35-2	fortalte	B-verb.communication	
+35-3	hun	O	
+35-4	mig	O	
+35-5	,	O	
+35-6	at	O	
+35-7	hun	O	
+35-8	udmærket	O	
+35-9	var	B-verb.stative	
+35-10	klar	B-adj.mental	
+35-11	over	I-adj.mental	
+35-12	,	O	
+35-13	at	O	
+35-14	hendes	O	
+35-15	mand	B-noun.person	
+35-16	var	B-verb.stative	
+35-17	hende	O	
+35-18	utro	B-adj.social	
+35-19	.	O	
+
+#id=36
+#text=Hun skulle have vundet, sagde Laura Drasbæks ældste søn, Albert på otte.
+36-1	Hun	O	
+36-2	skulle	B-verb.emotion	
+36-3	have	O	
+36-4	vundet	B-verb.competition	
+36-5	,	O	
+36-6	sagde	B-verb.communication	
+36-7	Laura	B-noun.person	
+36-8	Drasbæks	I-noun.person	
+36-9	ældste	B-adj.time	
+36-10	søn	B-noun.person	
+36-11	,	O	
+36-12	Albert	B-noun.person	
+36-13	på	O	
+36-14	otte	O	
+36-15	.	O	
+
+#id=37
+#text=Afholder nytårsreception for sine protektioner på Amalienborg.
+37-1	Afholder	B-verb.social	
+37-2	nytårsreception	B-noun.event	
+37-3	for	O	
+37-4	sine	O	
+37-5	protektioner	B-noun.group	
+37-6	på	O	
+37-7	Amalienborg	B-noun.location	
+37-8	.	O	
+
+#id=38
+#text=-velbetalt bolddribler, har lukket sit anpartsselskab Boom selskab Dubai, der investerede i ejendomme i... ja, gæt hvor?
+38-1	-	O	
+38-2	velbetalt	B-adj.social	
+38-3	bolddribler	B-noun.person	
+38-4	,	O	
+38-5	har	O	
+38-6	lukket	B-verb.aspectual	
+38-7	sit	O	
+38-8	anpartsselskab	B-noun.institution	
+38-9	Boom	B-noun.institution	
+38-10	selskab	I-noun.institution	
+38-11	Dubai	I-noun.institution	
+38-12	,	O	
+38-13	der	O	
+38-14	investerede	B-verb.possession	
+38-15	i	O	
+38-16	ejendomme	B-noun.building	
+38-17	i	O	
+38-18	.	O	
+38-19	.	O	
+38-20	.	O	
+38-21	ja	O	
+38-22	,	O	
+38-23	gæt	B-verb.cognition	
+38-24	hvor	O	
+38-25	?	O	
+
+#id=39
+#text=Denellers så glade dreng bærer på en stor sorg:
+39-1	Den	O	
+39-2	ellers	O	
+39-3	så	O	
+39-4	glade	B-adj.mental	
+39-5	dreng	B-noun.person	
+39-6	bærer	B-verb.act	
+39-7	på	O	
+39-8	en	O	
+39-9	stor	B-adj.phys	
+39-10	sorg	B-noun.feeling	
+39-11	:	O	
+
+#id=40
+#text=OAHU:
+40-1	OAHU	O	
+40-2	:	O	
+
+#id=41
+#text=Hvorfor er jeg egentlig sådan én, som godt kan lide at gå i byen?
+41-1	Hvorfor	O	
+41-2	er	B-verb.stative	
+41-3	jeg	O	
+41-4	egentlig	O	
+41-5	sådan	O	
+41-6	én	O	
+41-7	,	O	
+41-8	som	O	
+41-9	godt	O	
+41-10	kan	B-verb.cognition	
+41-11	lide	B-verb.COLL	
+41-12	at	O	
+41-13	gå	B-verb.act	
+41-14	i	B-verb.COLL	
+41-15	byen	I-verb.COLL	
+41-16	?	O	
+
+#id=42
+#text=-Det kan være, at idioten selv er for grim og derfor har valgt et billede af en attraktiv mand.
+42-1	-	O	
+42-2	Det	O	
+42-3	kan	B-verb.emotion	
+42-4	være	B-verb.stative	
+42-5	,	O	
+42-6	at	O	
+42-7	idioten	B-noun.person	
+42-8	selv	O	
+42-9	er	B-verb.stative	
+42-10	for	O	
+42-11	grim	B-adj.phys	
+42-12	og	O	
+42-13	derfor	O	
+42-14	har	O	
+42-15	valgt	B-verb.cognition	
+42-16	et	O	
+42-17	billede	B-noun.artifact	
+42-18	af	O	
+42-19	en	O	
+42-20	attraktiv	B-adj.phys	
+42-21	mand	B-noun.person	
+42-22	.	O	
+
+#id=43
+#text=Detskete i forbindelse med Danish Travel Awards for nylig, hvor 31 procent af de stemmeberettigede pegede på den markante skikkelse.
+43-1	Det	O	
+43-2	skete	B-verb.phenomenon	
+43-3	i	O	
+43-4	forbindelse	O	
+43-5	med	O	
+43-6	Danish	B-noun.event	
+43-7	Travel	I-noun.event	
+43-8	Awards	I-noun.event	
+43-9	for	O	
+43-10	nylig	O	
+43-11	,	O	
+43-12	hvor	O	
+43-13	31	O	
+43-14	procent	B-noun.quantity	
+43-15	af	O	
+43-16	de	O	
+43-17	stemmeberettigede	B-noun.person	
+43-18	pegede	B-verb.communication	
+43-19	på	O	
+43-20	den	O	
+43-21	markante	B-adj.all	
+43-22	skikkelse	B-noun.person	
+43-23	.	O	
+
+#id=44
+#text=-suveræn Tour de Francekommentator, så efter afslutningen af cykelløbet i Paris frem til et ordentligt måltid mad.
+44-1	-	O	
+44-2	suveræn	B-adj.all	
+44-3	Tour	B-noun.person	
+44-4	de	I-noun.person	
+44-5	Francekommentator	I-noun.person	
+44-6	,	O	
+44-7	så	B-verb.cognition	
+44-8	efter	O	
+44-9	afslutningen	B-noun.act	
+44-10	af	O	
+44-11	cykelløbet	B-noun.event	
+44-12	i	O	
+44-13	Paris	B-noun.location	
+44-14	frem	B-verb.PARTICLE	
+44-15	til	O	
+44-16	et	O	
+44-17	ordentligt	B-adj.phys	
+44-18	måltid	B-noun.food	
+44-19	mad	B-noun.food	
+44-20	.	O	
+
+#id=45
+#text=-Men nu trænger den vist til ny potte og jord.
+45-1	-	O	
+45-2	Men	O	
+45-3	nu	O	
+45-4	trænger	B-verb.phenomenon	
+45-5	den	O	
+45-6	vist	O	
+45-7	til	O	
+45-8	ny	B-adj.time	
+45-9	potte	B-noun.container	
+45-10	og	O	
+45-11	jord	B-noun.object	
+45-12	.	O	
+
+#id=46
+#text=AtWilliams var en så afstumpet mand, kom bag på alle, der kendte til ham.
+46-1	At	O	
+46-2	Williams	B-noun.person	
+46-3	var	B-verb.stative	
+46-4	en	O	
+46-5	så	O	
+46-6	afstumpet	B-adj.mental	
+46-7	mand	B-noun.person	
+46-8	,	O	
+46-9	kom	B-verb.cognition	
+46-10	bag	B-verb.PARTICLE	
+46-11	på	O	
+46-12	alle	O	
+46-13	,	O	
+46-14	der	O	
+46-15	kendte	B-verb.cognition	
+46-16	til	O	
+46-17	ham	O	
+46-18	.	O	
+
+#id=47
+#text=EdouardCavallier, prinsesse Maries halvlillebror, var på besøg hos søster, og parret var ikke sene til at benytte prins Joachims racerløb i København til også at lægge de sønderjyske marker bag sig til fordel for byens puls.
+47-1	Edouard	B-noun.person	
+47-2	Cavallier	I-noun.person	
+47-3	,	O	
+47-4	prinsesse	B-noun.person	
+47-5	Maries	I-noun.person	
+47-6	halvlillebror	B-noun.person	
+47-7	,	O	
+47-8	var	B-verb.stative	
+47-9	på	O	
+47-10	besøg	B-noun.act	
+47-11	hos	O	
+47-12	søster	B-noun.person	
+47-13	,	O	
+47-14	og	O	
+47-15	parret	B-noun.person	
+47-16	var	B-verb.stative	
+47-17	ikke	O	
+47-18	sene	B-adj.time	
+47-19	til	O	
+47-20	at	O	
+47-21	benytte	B-verb.act	
+47-22	prins	B-noun.person	
+47-23	Joachims	I-noun.person	
+47-24	racerløb	B-noun.event	
+47-25	i	O	
+47-26	København	B-noun.location	
+47-27	til	O	
+47-28	også	O	
+47-29	at	O	
+47-30	lægge	B-verb.motion	
+47-31	de	O	
+47-32	sønderjyske	B-adj.social	
+47-33	marker	B-noun.location	
+47-34	bag	B-verb.COLL	
+47-35	sig	O	
+47-36	til	O	
+47-37	fordel	O	
+47-38	for	O	
+47-39	byens	B-noun.artifact	
+47-40	puls	B-noun.attribute	
+47-41	.	O	
+
+#id=48
+#text=Da han får fat i kæresten og fortæller, at det er slut, svarer hun dog blot: - Nej, jeg er her, når du kommer tilbage.
+48-1	Da	O	
+48-2	han	O	
+48-3	får	B-verb.communication	
+48-4	fat	B-verb.PARTICLE	
+48-5	i	O	
+48-6	kæresten	B-noun.person	
+48-7	og	O	
+48-8	fortæller	B-verb.communication	
+48-9	,	O	
+48-10	at	O	
+48-11	det	O	
+48-12	er	B-verb.stative	
+48-13	slut	B-adj.time	
+48-14	,	O	
+48-15	svarer	B-verb.communication	
+48-16	hun	O	
+48-17	dog	O	
+48-18	blot	O	
+48-19	:	O	
+48-20	-	O	
+48-21	Nej	O	
+48-22	,	O	
+48-23	jeg	O	
+48-24	er	B-verb.stative	
+48-25	her	O	
+48-26	,	O	
+48-27	når	O	
+48-28	du	O	
+48-29	kommer	B-verb.social	
+48-30	tilbage	O	
+48-31	.	O	
+
+#id=49
+#text=Gennemhele forløbet har jeg bare prøvet at være mig selv, og det prøver jeg stadig, smiler han og ser for første gang ud til virkelig at nyde sin stjernestatus.
+49-1	Gennem	O	
+49-2	hele	B-adj.phys	
+49-3	forløbet	B-noun.time	
+49-4	har	O	
+49-5	jeg	O	
+49-6	bare	O	
+49-7	prøvet	B-verb.phenomenon	
+49-8	at	O	
+49-9	være	B-verb.stative	
+49-10	mig	O	
+49-11	selv	O	
+49-12	,	O	
+49-13	og	O	
+49-14	det	O	
+49-15	prøver	B-verb.phenomenon	
+49-16	jeg	O	
+49-17	stadig	O	
+49-18	,	O	
+49-19	smiler	B-verb.communication	
+49-20	han	O	
+49-21	og	O	
+49-22	ser	B-verb.perception	
+49-23	for	O	
+49-24	første	B-adj.all	
+49-25	gang	B-noun.quantity	
+49-26	ud	B-verb.PARTICLE	
+49-27	til	O	
+49-28	virkelig	O	
+49-29	at	O	
+49-30	nyde	B-verb.emotion	
+49-31	sin	O	
+49-32	stjernestatus	B-noun.attribute	
+49-33	.	O	
+
+#id=50
+#text=Så da Emil Thorup sagde op som Caspers personlige assistent, var Isabel hurtig til at søge jobbet.
+50-1	Så	O	
+50-2	da	O	
+50-3	Emil	B-noun.person	
+50-4	Thorup	I-noun.person	
+50-5	sagde	B-verb.aspectual	
+50-6	op	B-verb.PARTICLE	
+50-7	som	O	
+50-8	Caspers	B-noun.person	
+50-9	personlige	B-noun.person	
+50-10	assistent	I-noun.person	
+50-11	,	O	
+50-12	var	B-verb.stative	
+50-13	Isabel	B-noun.person	
+50-14	hurtig	B-adj.mental	
+50-15	til	O	
+50-16	at	O	
+50-17	søge	B-verb.act	
+50-18	jobbet	B-noun.act	
+50-19	.	O	
+
+#id=51
+#text=Jeg ved ikke engang, om man kan sige, at vi var rigtige kærester, men vi har kendt hinanden i et år.
+51-1	Jeg	O	
+51-2	ved	B-verb.cognition	
+51-3	ikke	O	
+51-4	engang	O	
+51-5	,	O	
+51-6	om	O	
+51-7	man	O	
+51-8	kan	B-verb.emotion	
+51-9	sige	B-verb.communication	
+51-10	,	O	
+51-11	at	O	
+51-12	vi	O	
+51-13	var	B-verb.stative	
+51-14	rigtige	B-adj.all	
+51-15	kærester	B-noun.person	
+51-16	,	O	
+51-17	men	O	
+51-18	vi	O	
+51-19	har	O	
+51-20	kendt	B-verb.cognition	
+51-21	hinanden	O	
+51-22	i	O	
+51-23	et	O	
+51-24	år	B-noun.time	
+51-25	.	O	
+
+#id=52
+#text=Amalieer godt klar over, at mange mennesker vil mene, at hendes mor maser sig på i den nye serie.
+52-1	Amalie	B-noun.person	
+52-2	er	B-verb.stative	
+52-3	godt	O	
+52-4	klar	B-adj.mental|B-adj.mental	
+52-5	over	I-adj.mental	
+52-6	,	O	
+52-7	at	O	
+52-8	mange	O	
+52-9	mennesker	B-noun.person	
+52-10	vil	O	
+52-11	mene	B-verb.cognition	
+52-12	,	O	
+52-13	at	O	
+52-14	hendes	O	
+52-15	mor	B-noun.person	
+52-16	maser	B-verb.act	
+52-17	sig	B-verb.COLL	
+52-18	på	B-verb.COLL	
+52-19	i	O	
+52-20	den	O	
+52-21	nye	B-adj.time	
+52-22	serie	B-noun.communication	
+52-23	.	O	
+
+#id=53
+#text=Ellers kan det hurtigt blive en lang dag for denne mand, der er i gang med at transportere et læs med sække fyldt med tørrede, røde chilier Han ligner i hvert fald en, der godt kunne bruge et skub.
+53-1	Ellers	O	
+53-2	kan	B-verb.emotion	
+53-3	det	O	
+53-4	hurtigt	O	
+53-5	blive	B-verb.change	
+53-6	en	O	
+53-7	lang	B-adj.time	
+53-8	dag	B-noun.time	
+53-9	for	O	
+53-10	denne	O	
+53-11	mand	B-noun.person	
+53-12	,	O	
+53-13	der	O	
+53-14	er	B-verb.stative	
+53-15	i	O	
+53-16	gang	O	
+53-17	med	O	
+53-18	at	O	
+53-19	transportere	B-verb.motion	
+53-20	et	O	
+53-21	læs	B-noun.group	
+53-22	med	O	
+53-23	sække	B-noun.container	
+53-24	fyldt	B-verb.change	
+53-25	med	O	
+53-26	tørrede	B-adj.phys	
+53-27	,	O	
+53-28	røde	B-adj.phys	
+53-29	chilier	B-noun.food	
+53-30	Han	O	
+53-31	ligner	B-verb.perception	
+53-32	i	O	
+53-33	hvert	O	
+53-34	fald	O	
+53-35	en	O	
+53-36	,	O	
+53-37	der	O	
+53-38	godt	O	
+53-39	kunne	B-verb.emotion	
+53-40	bruge	B-verb.act	
+53-41	et	O	
+53-42	skub	B-noun.act	
+53-43	.	O	
+
+#id=54
+#text=Onsdagden 19. ma j:
+54-1	Onsdag	B-noun.time	
+54-2	den	O	
+54-3	19	O	
+54-4	.	O	
+54-5	ma	O	
+54-6	j	O	
+54-7	:	O	
+
+#id=55
+#text=-stolt mor, mødte op sammen med sin mand Martin, da hendes drenge, otte-årige Felix og snart 11-årige Nikolai begyndte et nyt skoleår i mandags på Krebs Skole.
+55-1	-	O	
+55-2	stolt	B-adj.mental	
+55-3	mor	B-noun.person	
+55-4	,	O	
+55-5	mødte	B-verb.social	
+55-6	op	B-verb.PARTICLE	
+55-7	sammen	O	
+55-8	med	O	
+55-9	sin	O	
+55-10	mand	B-noun.person	
+55-11	Martin	B-noun.person	
+55-12	,	O	
+55-13	da	O	
+55-14	hendes	O	
+55-15	drenge	B-noun.person	
+55-16	,	O	
+55-17	otte	B-adj.phys	
+55-18	-	I-adj.phys	
+55-19	årige	I-adj.phys	
+55-20	Felix	B-noun.person	
+55-21	og	O	
+55-22	snart	O	
+55-23	11	B-adj.phys	
+55-24	-	I-adj.phys	
+55-25	årige	I-adj.phys	
+55-26	Nikolai	B-noun.person	
+55-27	begyndte	B-verb.aspectual	
+55-28	et	O	
+55-29	nyt	B-adj.time	
+55-30	skoleår	B-noun.time	
+55-31	i	O	
+55-32	mandags	B-noun.time	
+55-33	på	O	
+55-34	Krebs	B-noun.institution	
+55-35	Skole	I-noun.institution	
+55-36	.	O	
+
+#id=56
+#text=Forde har altid noget at snakke om og deler alt med hinanden - undtagen kærester.
+56-1	For	O	
+56-2	de	O	
+56-3	har	O	
+56-4	altid	O	
+56-5	noget	O	
+56-6	at	O	
+56-7	snakke	B-verb.communication	
+56-8	om	O	
+56-9	og	O	
+56-10	deler	B-verb.communication	
+56-11	alt	O	
+56-12	med	O	
+56-13	hinanden	O	
+56-14	-	O	
+56-15	undtagen	O	
+56-16	kærester	B-noun.person	
+56-17	.	O	
+
+#id=57
+#text=Og når dansedommernes grande dame, selveste Britt Bendixen, møder op til tjansen i lurvede, gamle cowboybukser, så spiller konceptet vist på sidste vers.
+57-1	Og	O	
+57-2	når	O	
+57-3	dansedommernes	B-noun.person	
+57-4	grande	B-adj.social	
+57-5	dame	B-noun.person	
+57-6	,	O	
+57-7	selveste	O	
+57-8	Britt	B-noun.person	
+57-9	Bendixen	I-noun.person	
+57-10	,	O	
+57-11	møder	B-verb.social	
+57-12	op	B-verb.PARTICLE	
+57-13	til	O	
+57-14	tjansen	B-noun.act	
+57-15	i	O	
+57-16	lurvede	B-adj.all	
+57-17	,	O	
+57-18	gamle	B-adj.time	
+57-19	cowboybukser	B-noun.artifact	
+57-20	,	O	
+57-21	så	O	
+57-22	spiller	B-verb.aspectual	
+57-23	konceptet	B-noun.communication	
+57-24	vist	O	
+57-25	på	O	
+57-26	sidste	B-verb.COLL	
+57-27	vers	B-verb.COLL	
+57-28	.	O	
+
+#id=58
+#text=Mandag:
+58-1	Mandag	B-noun.time	
+58-2	:	O	
+
+#id=59
+#text=Desendte store ballone r i vejret med flere hundrede tusi nde sedler, der fordømmer den nordkoreanske lede r Ki m Jong-il, efter at nabolandet havde skudt et sydkoreansk k rigssk ib i sænk og dermed dræbt flere sydkoreanere.
+59-1	De	O	
+59-2	sendte	O	
+59-3	store	B-adj.phys	
+59-4	ballone	B-noun.artifact	
+59-5	r	I-noun.artifact	
+59-6	i	O	
+59-7	vejret	O	
+59-8	med	O	
+59-9	flere	O	
+59-10	hundrede	B-noun.quantity	
+59-11	tusi	B-noun.quantity	
+59-12	nde	I-noun.quantity	
+59-13	sedler	B-noun.artifact	
+59-14	,	O	
+59-15	der	O	
+59-16	fordømmer	B-verb.cognition	
+59-17	den	O	
+59-18	nordkoreanske	B-adj.social	
+59-19	lede	B-noun.person	
+59-20	r	I-noun.person	
+59-21	Ki	B-noun.person	
+59-22	m	I-noun.person	
+59-23	Jong	I-noun.person	
+59-24	-	I-noun.person	
+59-25	il	I-noun.person	
+59-26	,	O	
+59-27	efter	O	
+59-28	at	O	
+59-29	nabolandet	B-noun.institution	
+59-30	havde	O	
+59-31	skudt	B-verb.act	
+59-32	et	O	
+59-33	sydkoreansk	B-adj.social	
+59-34	k	B-noun.vehicle	
+59-35	rigssk	I-noun.vehicle	
+59-36	ib	I-noun.vehicle	
+59-37	i	B-verb.COLL	
+59-38	sænk	I-verb.COLL	
+59-39	og	O	
+59-40	dermed	O	
+59-41	dræbt	B-verb.act	
+59-42	flere	O	
+59-43	sydkoreanere	B-noun.person	
+59-44	.	O	
+
+#id=60
+#text=Jeg var mest bange for, at der skulle ske Lina noget, fortæller Kasper Kristensen.
+60-1	Jeg	O	
+60-2	var	B-verb.stative	
+60-3	mest	O	
+60-4	bange	B-adj.mental	
+60-5	for	O	
+60-6	,	O	
+60-7	at	O	
+60-8	der	O	
+60-9	skulle	B-verb.emotion	
+60-10	ske	B-verb.phenomenon	
+60-11	Lina	B-noun.person	
+60-12	noget	B-verb.COLL	
+60-13	,	O	
+60-14	fortæller	B-verb.communication	
+60-15	Kasper	B-noun.person	
+60-16	Kristensen	I-noun.person	
+60-17	.	O	
+
+#id=61
+#text=Sådan tegnes billedet ofte af de områder, der i medierne kaldes Udkantsdanmark.
+61-1	Sådan	O	
+61-2	tegnes	B-verb.communication	
+61-3	billedet	B-noun.cognition	
+61-4	ofte	O	
+61-5	af	O	
+61-6	de	O	
+61-7	områder	B-noun.location	
+61-8	,	O	
+61-9	der	O	
+61-10	i	O	
+61-11	medierne	B-noun.institution	
+61-12	kaldes	B-verb.communication	
+61-13	Udkantsdanmark	B-noun.location	
+61-14	.	O	
+
+#id=62
+#text=Alle scanninger var gode, og jeg gik endda rundt med en ret stor mave.
+62-1	Alle	O	
+62-2	scanninger	B-noun.act	
+62-3	var	B-verb.stative	
+62-4	gode	B-adj.all	
+62-5	,	O	
+62-6	og	O	
+62-7	jeg	O	
+62-8	gik	B-verb.motion	
+62-9	endda	O	
+62-10	rundt	O	
+62-11	med	O	
+62-12	en	O	
+62-13	ret	O	
+62-14	stor	B-adj.phys	
+62-15	mave	B-noun.body	
+62-16	.	O	
+
+#id=63
+#text=-temperamentsfuld musiker, går mod strømmen, når det gælder prissætning af ejendomme.
+63-1	-	O	
+63-2	temperamentsfuld	B-adj.mental	
+63-3	musiker	B-noun.person	
+63-4	,	O	
+63-5	går	B-verb.act	
+63-6	mod	B-verb.COLL	
+63-7	strømmen	B-verb.COLL	
+63-8	,	O	
+63-9	når	O	
+63-10	det	O	
+63-11	gælder	B-verb.stative	
+63-12	prissætning	B-noun.act	
+63-13	af	O	
+63-14	ejendomme	B-noun.building	
+63-15	.	O	
+
+#id=64
+#text=Påskolen er musikundervisningen dog i stor krise, for pengekassen er ved at være tom.
+64-1	På	O	
+64-2	skolen	B-noun.building	
+64-3	er	B-verb.stative	
+64-4	musikundervisningen	B-noun.communication	
+64-5	dog	O	
+64-6	i	O	
+64-7	stor	B-adj.phys	
+64-8	krise	B-noun.state	
+64-9	,	O	
+64-10	for	O	
+64-11	pengekassen	B-noun.container	
+64-12	er	B-verb.stative	
+64-13	ved	O	
+64-14	at	O	
+64-15	være	B-verb.stative	
+64-16	tom	B-adj.all	
+64-17	.	O	
+
+#id=65
+#text=-tidligere Paradisevinder, er ikke længere sammen med den tidligere Paradisedeltager Jon.
+65-1	-	O	
+65-2	tidligere	B-adj.time	
+65-3	Paradisevinder	B-noun.person	
+65-4	,	O	
+65-5	er	B-verb.stative	
+65-6	ikke	O	
+65-7	længere	O	
+65-8	sammen	B-verb.social	
+65-9	med	O	
+65-10	den	O	
+65-11	tidligere	B-adj.time	
+65-12	Paradisedeltager	B-noun.person	
+65-13	Jon	B-noun.person	
+65-14	.	O	
+
+#id=66
+#text=Deter en fantastisk følelse, når nogen sætter pris på noget, som du har skabt.
+66-1	Det	O	
+66-2	er	B-verb.stative	
+66-3	en	O	
+66-4	fantastisk	B-adj.all	
+66-5	følelse	B-noun.feeling	
+66-6	,	O	
+66-7	når	O	
+66-8	nogen	O	
+66-9	sætter	B-verb.cognition	
+66-10	pris	B-verb.COLL	
+66-11	på	O	
+66-12	noget	O	
+66-13	,	O	
+66-14	som	O	
+66-15	du	O	
+66-16	har	O	
+66-17	skabt	B-verb.creation	
+66-18	.	O	
+
+#id=67
+#text=Iden sprudlende bog om den kongelige familie, " Se, de vinker", som der udloddes ti eksemplarer af, følger vi dronningen, hendes mand, deres børn og smukke koner i tykt og tyndt.
+67-1	I	O	
+67-2	den	O	
+67-3	sprudlende	B-adj.mental	
+67-4	bog	B-noun.communication	
+67-5	om	O	
+67-6	den	O	
+67-7	kongelige	B-adj.social	
+67-8	familie	B-noun.person	
+67-9	,	O	
+67-10	"	O	
+67-11	Se	B-verb.perception	
+67-12	,	O	
+67-13	de	O	
+67-14	vinker	B-verb.motion	
+67-15	"	O	
+67-16	,	O	
+67-17	som	O	
+67-18	der	O	
+67-19	udloddes	B-verb.phenomenon	
+67-20	ti	O	
+67-21	eksemplarer	B-noun.artifact	
+67-22	af	O	
+67-23	,	O	
+67-24	følger	B-verb.cognition	
+67-25	vi	O	
+67-26	dronningen	B-noun.person	
+67-27	,	O	
+67-28	hendes	O	
+67-29	mand	B-noun.person	
+67-30	,	O	
+67-31	deres	O	
+67-32	børn	B-noun.person	
+67-33	og	O	
+67-34	smukke	B-adj.phys	
+67-35	koner	B-noun.person	
+67-36	i	O	
+67-37	tykt	B-adj.phys	
+67-38	og	O	
+67-39	tyndt	B-adj.phys	
+67-40	.	O	
+
+#id=68
+#text=Bemærk hans overdimensionerede snørebånd, der trods alt vidner om et vist modikum af selvironi og humor.
+68-1	Bemærk	B-verb.perception	
+68-2	hans	O	
+68-3	overdimensionerede	B-adj.phys	
+68-4	snørebånd	B-noun.artifact	
+68-5	,	O	
+68-6	der	O	
+68-7	trods	O	
+68-8	alt	O	
+68-9	vidner	B-verb.communication	
+68-10	om	O	
+68-11	et	O	
+68-12	vist	O	
+68-13	modikum	B-noun.abstract	
+68-14	af	O	
+68-15	selvironi	B-noun.attribute	
+68-16	og	O	
+68-17	humor	B-noun.attribute	
+68-18	.	O	
+
+#id=69
+#text=Peter Grosen Jourhavende:
+69-1	Peter	B-noun.person	
+69-2	Grosen	I-noun.person	
+69-3	Jourhavende	I-noun.person	
+69-4	:	O	
+
+#id=70
+#text=MichaelBjørnsons sygelige besættelse af kvinder og sex krævede for et halvt år siden professionel hjælp hos sexterapeuten Katrine Berling.
+70-1	Michael	B-noun.person	
+70-2	Bjørnsons	I-noun.person	
+70-3	sygelige	B-adj.social	
+70-4	besættelse	B-noun.feeling	
+70-5	af	O	
+70-6	kvinder	B-noun.person	
+70-7	og	O	
+70-8	sex	B-noun.act	
+70-9	krævede	B-verb.phenomenon	
+70-10	for	O	
+70-11	et	O	
+70-12	halvt	B-adj.phys	
+70-13	år	B-noun.time	
+70-14	siden	O	
+70-15	professionel	B-adj.social	
+70-16	hjælp	B-noun.act	
+70-17	hos	O	
+70-18	sexterapeuten	B-noun.person	
+70-19	Katrine	B-noun.person	
+70-20	Berling	I-noun.person	
+70-21	.	O	
+
+#id=71
+#text=Lejligheden på Frederiksberg er fremlejet til lillebror, og Jesper har allerede flyttet sine ting til sit nye rækkehus i Washington.
+71-1	Lejligheden	B-noun.building	
+71-2	på	O	
+71-3	Frederiksberg	B-noun.location	
+71-4	er	O	
+71-5	fremlejet	B-verb.act	
+71-6	til	O	
+71-7	lillebror	B-noun.person	
+71-8	,	O	
+71-9	og	O	
+71-10	Jesper	B-noun.person	
+71-11	har	O	
+71-12	allerede	O	
+71-13	flyttet	B-verb.motion	
+71-14	sine	O	
+71-15	ting	B-noun.artifact	
+71-16	til	O	
+71-17	sit	O	
+71-18	nye	B-adj.time	
+71-19	rækkehus	B-noun.building	
+71-20	i	O	
+71-21	Washington	B-noun.location	
+71-22	.	O	
+
+#id=72
+#text=-skøn TV2-vejrvært, har sammen med kollegerne ( fra venstre)
+72-1	-	O	
+72-2	skøn	B-adj.social	
+72-3	TV2	B-noun.person	
+72-4	-	I-noun.person	
+72-5	vejrvært	I-noun.person	
+72-6	,	O	
+72-7	har	O	
+72-8	sammen	O	
+72-9	med	O	
+72-10	kollegerne	B-noun.person	
+72-11	(	O	
+72-12	fra	O	
+72-13	venstre	O	
+72-14	)	O	
+
+#id=73
+#text=Endikke hendes bønfaldende " hold dig fra min far.
+73-1	End	O	
+73-2	ikke	O	
+73-3	hendes	O	
+73-4	bønfaldende	B-adj.social	
+73-5	"	O	
+73-6	hold	B-verb.social	
+73-7	dig	B-verb.COLL	
+73-8	fra	B-verb.COLL	
+73-9	min	O	
+73-10	far	B-noun.person	
+73-11	.	O	
+
+#id=74
+#text=SAALFELD:
+74-1	SAALFELD	O	
+74-2	:	O	
+
+#id=75
+#text=-Jeg er ved at være for gammel til at rende rundt i byen.
+75-1	-	O	
+75-2	Jeg	O	
+75-3	er	B-verb.stative	
+75-4	ved	O	
+75-5	at	O	
+75-6	være	B-verb.stative	
+75-7	for	O	
+75-8	gammel	B-adj.phys	
+75-9	til	O	
+75-10	at	O	
+75-11	rende	B-verb.motion	
+75-12	rundt	B-verb.PARTICLE	
+75-13	i	O	
+75-14	byen	B-noun.location	
+75-15	.	O	
+
+#id=76
+#text=Viudlodder også en masse biografbilletter og såkaldte goodybags med bl.a.
+76-1	Vi	O	
+76-2	udlodder	B-verb.phenomenon	
+76-3	også	O	
+76-4	en	O	
+76-5	masse	B-noun.quantity	
+76-6	biografbilletter	B-noun.artifact	
+76-7	og	O	
+76-8	såkaldte	O	
+76-9	goodybags	B-noun.artifact	
+76-10	med	O	
+76-11	bl	O	
+76-12	.	O	
+76-13	a	O	
+76-14	.	O	
+
+#id=77
+#text=Enkeltehverdagsopgaver er naturligvis vanskelige for Nick, men tingene lykkes alligevel altid for ham på den ene eller anden måde.
+77-1	Enkelte	O	
+77-2	hverdagsopgaver	B-noun.act	
+77-3	er	B-verb.stative	
+77-4	naturligvis	O	
+77-5	vanskelige	B-adj.all	
+77-6	for	O	
+77-7	Nick	B-noun.person	
+77-8	,	O	
+77-9	men	O	
+77-10	tingene	B-noun.TOP	
+77-11	lykkes	B-verb.phenomenon	
+77-12	alligevel	O	
+77-13	altid	O	
+77-14	for	O	
+77-15	ham	O	
+77-16	på	O	
+77-17	den	O	
+77-18	ene	O	
+77-19	eller	O	
+77-20	anden	O	
+77-21	måde	B-noun.motive	
+77-22	.	O	
+
+#id=78
+#text=Det afslørede han i " Til middag hos..." på TV3.
+78-1	Det	O	
+78-2	afslørede	B-verb.communication	
+78-3	han	O	
+78-4	i	O	
+78-5	"	O	
+78-6	Til	B-noun.communication	
+78-7	middag	I-noun.communication	
+78-8	hos	I-noun.communication	
+78-9	.	I-noun.communication	
+78-10	.	I-noun.communication	
+78-11	.	I-noun.communication	
+78-12	"	O	
+78-13	på	O	
+78-14	TV3	B-noun.communication	
+78-15	.	O	
+
+#id=79
+#text=Detskal min familie ikke, fastslår Mads.
+79-1	Det	O	
+79-2	skal	B-verb.emotion	
+79-3	min	O	
+79-4	familie	B-noun.person	
+79-5	ikke	O	
+79-6	,	O	
+79-7	fastslår	B-verb.communication	
+79-8	Mads	B-noun.person	
+79-9	.	O	
+
+#id=80
+#text=Sangerindenspringer ud som modelbabe i forårskataloget for smykkefirmaet Kranz & Ziegler
+80-1	Sangerinden	B-noun.person	
+80-2	springer	B-verb.act	
+80-3	ud	B-verb.PARTICLE	
+80-4	som	O	
+80-5	modelbabe	B-noun.person	
+80-6	i	O	
+80-7	forårskataloget	B-noun.artifact	
+80-8	for	O	
+80-9	smykkefirmaet	B-noun.institution	
+80-10	Kranz	B-noun.institution	
+80-11	&	I-noun.institution	
+80-12	Ziegler	I-noun.institution	
+
+#id=81
+#text=-De forsøger at styre mig.
+81-1	-	O	
+81-2	De	O	
+81-3	forsøger	B-verb.act	
+81-4	at	O	
+81-5	styre	B-verb.act	
+81-6	mig	O	
+81-7	.	O	
+
+#id=82
+#text=Fraapril til august prøvede BP på flere forskellige måder at stoppe det store udslip, og selskabet fik mange hug for ikke at gøre det godt nok.
+82-1	Fra	O	
+82-2	april	B-noun.time	
+82-3	til	O	
+82-4	august	B-noun.time	
+82-5	prøvede	B-verb.act	
+82-6	BP	B-noun.institution	
+82-7	på	O	
+82-8	flere	O	
+82-9	forskellige	B-adj.all	
+82-10	måder	B-noun.TOP	
+82-11	at	O	
+82-12	stoppe	B-verb.aspectual	
+82-13	det	O	
+82-14	store	B-adj.phys	
+82-15	udslip	B-noun.phenomenon	
+82-16	,	O	
+82-17	og	O	
+82-18	selskabet	B-noun.institution	
+82-19	fik	B-verb.possession	
+82-20	mange	O	
+82-21	hug	B-noun.act	
+82-22	for	O	
+82-23	ikke	O	
+82-24	at	O	
+82-25	gøre	B-verb.act	
+82-26	det	O	
+82-27	godt	O	
+82-28	nok	O	
+82-29	.	O	
+
+#id=83
+#text=1.-præm ie To billetter på første ræk ke inklusive middag og champagne og afterparty samt et møde med Chippendales til en værdi af 1540 kr.
+83-1	1	O	
+83-2	.	O	
+83-3	-	O	
+83-4	præm	B-noun.artifact	
+83-5	ie	I-noun.artifact	
+83-6	To	O	
+83-7	billetter	B-noun.artifact	
+83-8	på	O	
+83-9	første	B-adj.all	
+83-10	ræk	B-noun.artifact	
+83-11	ke	I-noun.artifact	
+83-12	inklusive	O	
+83-13	middag	B-noun.food	
+83-14	og	O	
+83-15	champagne	B-noun.food	
+83-16	og	O	
+83-17	afterparty	B-noun.event	
+83-18	samt	O	
+83-19	et	O	
+83-20	møde	B-noun.event	
+83-21	med	O	
+83-22	Chippendales	B-noun.person	
+83-23	til	O	
+83-24	en	O	
+83-25	værdi	B-noun.quantity	
+83-26	af	O	
+83-27	1540	O	
+83-28	kr	O	
+83-29	.	O	
+
+#id=84
+#text=-moden modefrue, havde  manden Erik og datteren Julie med til åbningen af sin udstilling " Walk on the Wild Side" på Kunstindustri-museet i København.
+84-1	-	O	
+84-2	moden	B-adj.phys	
+84-3	modefrue	B-noun.person	
+84-4	,	O	
+84-5	havde	B-verb.act	
+84-6	manden	B-noun.person	
+84-7	Erik	B-noun.person	
+84-8	og	O	
+84-9	datteren	B-noun.person	
+84-10	Julie	B-noun.person	
+84-11	med	B-verb.PARTICLE	
+84-12	til	O	
+84-13	åbningen	B-noun.act	
+84-14	af	O	
+84-15	sin	O	
+84-16	udstilling	B-noun.communication	
+84-17	"	O	
+84-18	Walk	B-noun.communication	
+84-19	on	I-noun.communication	
+84-20	the	I-noun.communication	
+84-21	Wild	I-noun.communication	
+84-22	Side	I-noun.communication	
+84-23	"	O	
+84-24	på	O	
+84-25	Kunstindustri	B-noun.building	
+84-26	-	I-noun.building	
+84-27	museet	I-noun.building	
+84-28	i	O	
+84-29	København	B-noun.location	
+84-30	.	O	
+
+#id=85
+#text=ANDERSEN Layout:
+85-1	ANDERSEN	O	
+85-2	Layout	O	
+85-3	:	O	
+
+#id=86
+#text=Således også i sidste uge, hvor hun blev spot tet af en årvågen da nsker, imens hun handlede Tommy Hilfigertøj i det sommerlæk re Miami.
+86-1	Således	O	
+86-2	også	O	
+86-3	i	O	
+86-4	sidste	B-adj.time	
+86-5	uge	B-noun.time	
+86-6	,	O	
+86-7	hvor	O	
+86-8	hun	O	
+86-9	blev	O	
+86-10	spot	B-verb.perception	
+86-11	tet	I-verb.perception	
+86-12	af	O	
+86-13	en	O	
+86-14	årvågen	B-adj.mental	
+86-15	da	B-noun.person	
+86-16	nsker	I-noun.person	
+86-17	,	O	
+86-18	imens	O	
+86-19	hun	O	
+86-20	handlede	B-verb.possession	
+86-21	Tommy	B-noun.artifact	
+86-22	Hilfigertøj	I-noun.artifact	
+86-23	i	O	
+86-24	det	O	
+86-25	sommerlæk	B-adj.phys	
+86-26	re	I-adj.phys	
+86-27	Miami	B-noun.location	
+86-28	.	O	
+
+#id=87
+#text=-folkekær norskfødt tidligere Grand Prix-vinder, udsender fredag, albummet " Lad det swinge" med 13 fantastiske Grand Prix-klassikere.
+87-1	-	O	
+87-2	folkekær	B-adj.social	
+87-3	norskfødt	B-adj.social	
+87-4	tidligere	B-adj.time	
+87-5	Grand	B-noun.person	
+87-6	Prix	I-noun.person	
+87-7	-	I-noun.person	
+87-8	vinder	I-noun.person	
+87-9	,	O	
+87-10	udsender	B-verb.communication	
+87-11	fredag	B-noun.time	
+87-12	,	O	
+87-13	albummet	B-noun.communication	
+87-14	"	O	
+87-15	Lad	B-noun.communication	
+87-16	det	I-noun.communication	
+87-17	swinge	I-noun.communication	
+87-18	"	O	
+87-19	med	O	
+87-20	13	O	
+87-21	fantastiske	B-adj.all	
+87-22	Grand	B-noun.communication	
+87-23	Prix	I-noun.communication	
+87-24	-	I-noun.communication	
+87-25	klassikere	I-noun.communication	
+87-26	.	O	
+
+#id=88
+#text=Vanentro med en flaske vin og en ung brunette ved sin side.
+88-1	Vanen	B-noun.attribute	
+88-2	tro	B-verb.cognition	
+88-3	med	O	
+88-4	en	O	
+88-5	flaske	B-noun.container	
+88-6	vin	B-noun.food	
+88-7	og	O	
+88-8	en	O	
+88-9	ung	B-adj.phys	
+88-10	brunette	B-noun.person	
+88-11	ved	O	
+88-12	sin	O	
+88-13	side	B-noun.body	
+88-14	.	O	
+
+#id=89
+#text=Denalternative form for u nderholdning er en del af San Fermínfestivalen.
+89-1	Den	O	
+89-2	alternative	B-adj.social	
+89-3	form	B-noun.domain	
+89-4	for	O	
+89-5	u	B-noun.act	
+89-6	nderholdning	I-noun.act	
+89-7	er	B-verb.stative	
+89-8	en	O	
+89-9	del	B-noun.relation	
+89-10	af	O	
+89-11	San	B-noun.event	
+89-12	Fermínfestivalen	I-noun.event	
+89-13	.	O	
+
+#id=90
+#text=En kun toårig pige blev efter 40 minutters intens kamp endelig reddet ud af en stor industrimaskine, som hun var faldet i.
+90-1	En	O	
+90-2	kun	O	
+90-3	toårig	B-adj.phys	
+90-4	pige	B-noun.person	
+90-5	blev	O	
+90-6	efter	O	
+90-7	40	O	
+90-8	minutters	B-noun.time	
+90-9	intens	B-adj.all	
+90-10	kamp	B-noun.act	
+90-11	endelig	O	
+90-12	reddet	B-verb.phenomenon	
+90-13	ud	O	
+90-14	af	O	
+90-15	en	O	
+90-16	stor	B-adj.phys	
+90-17	industrimaskine	B-noun.artifact	
+90-18	,	O	
+90-19	som	O	
+90-20	hun	O	
+90-21	var	O	
+90-22	faldet	B-verb.phenomenon	
+90-23	i	B-verb.PARTICLE	
+90-24	.	O	
+
+#id=91
+#text=Firmaets direktør har anskaffet sig selv en elbil og kan fremover køre på arbejde med miljørigtig samvittighed.
+91-1	Firmaets	B-noun.institution	
+91-2	direktør	B-noun.person	
+91-3	har	O	
+91-4	anskaffet	B-verb.possession	
+91-5	sig	O	
+91-6	selv	O	
+91-7	en	O	
+91-8	elbil	B-noun.vehicle	
+91-9	og	O	
+91-10	kan	B-verb.emotion	
+91-11	fremover	B-noun.time	
+91-12	køre	B-verb.motion	
+91-13	på	O	
+91-14	arbejde	B-noun.act	
+91-15	med	O	
+91-16	miljørigtig	B-adj.all	
+91-17	samvittighed	B-noun.feeling	
+91-18	.	O	
+
+#id=92
+#text=-åbenhjertig forfatter, inkasserede i 2009 i alt 446.008 kr.
+92-1	-	O	
+92-2	åbenhjertig	B-adj.mental	
+92-3	forfatter	B-noun.person	
+92-4	,	O	
+92-5	inkasserede	B-verb.possession	
+92-6	i	O	
+92-7	2009	B-noun.time	
+92-8	i	O	
+92-9	alt	O	
+92-10	446	O	
+92-11	.	O	
+92-12	008	O	
+92-13	kr	O	
+92-14	.	O	
+
+#id=93
+#text=Han sagde bare: " Vil du virkelig bruge dit liv på, at tigge regeringen og organisationer om penge til miljøet, som ingen alligevel bekymrer sig om?", husker Ian, som hurtigt opdagede, at det var de skrå brædder, der trak allermest.
+93-1	Han	O	
+93-2	sagde	B-verb.communication	
+93-3	bare	O	
+93-4	:	O	
+93-5	"	O	
+93-6	Vil	B-verb.emotion	
+93-7	du	O	
+93-8	virkelig	O	
+93-9	bruge	B-verb.act	
+93-10	dit	O	
+93-11	liv	B-noun.time	
+93-12	på	O	
+93-13	,	O	
+93-14	at	O	
+93-15	tigge	B-verb.communication	
+93-16	regeringen	B-noun.institution	
+93-17	og	O	
+93-18	organisationer	B-noun.institution	
+93-19	om	O	
+93-20	penge	B-noun.artifact	
+93-21	til	O	
+93-22	miljøet	B-noun.state	
+93-23	,	O	
+93-24	som	O	
+93-25	ingen	O	
+93-26	alligevel	O	
+93-27	bekymrer	B-verb.cognition	
+93-28	sig	O	
+93-29	om	B-verb.COLL	
+93-30	?	O	
+93-31	"	O	
+93-32	,	O	
+93-33	husker	B-verb.cognition	
+93-34	Ian	B-noun.person	
+93-35	,	O	
+93-36	som	O	
+93-37	hurtigt	O	
+93-38	opdagede	B-verb.cognition	
+93-39	,	O	
+93-40	at	O	
+93-41	det	O	
+93-42	var	B-verb.stative	
+93-43	de	B-noun.domain	
+93-44	skrå	I-noun.domain	
+93-45	brædder	I-noun.domain	
+93-46	,	O	
+93-47	der	O	
+93-48	trak	B-verb.cognition	
+93-49	allermest	O	
+93-50	.	O	
+
+#id=94
+#text=-nyslået udviklingsminister og delefar, scorer ekstra point hos sine børn, efter at han er blevet minister.
+94-1	-	O	
+94-2	nyslået	B-adj.social	
+94-3	udviklingsminister	B-noun.person	
+94-4	og	O	
+94-5	delefar	B-noun.person	
+94-6	,	O	
+94-7	scorer	B-verb.competition	
+94-8	ekstra	O	
+94-9	point	B-noun.quantity	
+94-10	hos	O	
+94-11	sine	O	
+94-12	børn	B-noun.person	
+94-13	,	O	
+94-14	efter	O	
+94-15	at	O	
+94-16	han	O	
+94-17	er	O	
+94-18	blevet	B-verb.stative	
+94-19	minister	B-noun.person	
+94-20	.	O	
+
+#id=95
+#text=21-årigeLotte var selv nomineret i 2005, hvor hun fik en femteplads.
+95-1	21	B-adj.phys	
+95-2	-	I-adj.phys	
+95-3	årige	I-adj.phys	
+95-4	Lotte	B-noun.person	
+95-5	var	O	
+95-6	selv	O	
+95-7	nomineret	B-verb.phenomenon	
+95-8	i	O	
+95-9	2005	B-noun.time	
+95-10	,	O	
+95-11	hvor	O	
+95-12	hun	O	
+95-13	fik	B-verb.possession	
+95-14	en	O	
+95-15	femteplads	B-noun.relation	
+95-16	.	O	
+
+#id=96
+#text=-stadig erhvervs-aktiv, overrakte sammen med Carlsbergs administrerende direktør Jesper Jørgensen, 15.000 kr.  til Ronald McDonald Hus ved Rigshospitalet.
+96-1	-	O	
+96-2	stadig	O	
+96-3	erhvervs	B-adj.all	
+96-4	-	I-adj.all	
+96-5	aktiv	I-adj.all	
+96-6	,	O	
+96-7	overrakte	B-verb.possession	
+96-8	sammen	O	
+96-9	med	O	
+96-10	Carlsbergs	B-noun.institution	
+96-11	administrerende	B-noun.person	
+96-12	direktør	I-noun.person	
+96-13	Jesper	B-noun.person	
+96-14	Jørgensen	I-noun.person	
+96-15	,	O	
+96-16	15	O	
+96-17	.	O	
+96-18	000	O	
+96-19	kr	O	
+96-20	.	O	
+96-21	til	O	
+96-22	Ronald	B-noun.institution	
+96-23	McDonald	I-noun.institution	
+96-24	Hus	I-noun.institution	
+96-25	ved	O	
+96-26	Rigshospitalet	B-noun.institution	
+96-27	.	O	
+
+#id=97
+#text=Maryfortalte, at de i Kancellihuset sørger for, at børnene ikke ser for mange tegnefilm.
+97-1	Mary	B-noun.person	
+97-2	fortalte	I-noun.person|B-verb.communication	
+97-3	,	O	
+97-4	at	O	
+97-5	de	O	
+97-6	i	O	
+97-7	Kancellihuset	B-noun.building	
+97-8	sørger	B-verb.act	
+97-9	for	B-verb.PARTICLE	
+97-10	,	O	
+97-11	at	O	
+97-12	børnene	B-noun.person	
+97-13	ikke	O	
+97-14	ser	B-verb.perception	
+97-15	for	O	
+97-16	mange	O	
+97-17	tegnefilm	B-noun.artifact	
+97-18	.	O	
+
+#id=98
+#text=Det ser bare helt naturligt og trygt ud, når den britiske dyretæmmer Alex Larenty giver løven Zien et rigtigt sæbebad her i løveparken i Johannesburg i Sydafrika.
+98-1	Det	O	
+98-2	ser	B-verb.perception	
+98-3	bare	O	
+98-4	helt	O	
+98-5	naturligt	B-adj.phys	
+98-6	og	O	
+98-7	trygt	B-adj.mental	
+98-8	ud	B-verb.PARTICLE	
+98-9	,	O	
+98-10	når	O	
+98-11	den	O	
+98-12	britiske	B-adj.social	
+98-13	dyretæmmer	B-noun.person	
+98-14	Alex	B-noun.person	
+98-15	Larenty	I-noun.person	
+98-16	giver	B-verb.possession	
+98-17	løven	B-noun.animal	
+98-18	Zien	B-noun.animal	
+98-19	et	O	
+98-20	rigtigt	B-adj.all	
+98-21	sæbebad	B-noun.event	
+98-22	her	O	
+98-23	i	O	
+98-24	løveparken	B-noun.location	
+98-25	i	O	
+98-26	Johannesburg	B-noun.location	
+98-27	i	O	
+98-28	Sydafrika	B-noun.location	
+98-29	.	O	
+
+#id=99
+#text=Høeg på Café Victor med en mand ved sin ene side og en drink ved den anden, mens hun var fordybet i samtale.
+99-1	Høeg	B-noun.person	
+99-2	på	O	
+99-3	Café	B-noun.building	
+99-4	Victor	I-noun.building	
+99-5	med	O	
+99-6	en	O	
+99-7	mand	B-noun.person	
+99-8	ved	O	
+99-9	sin	O	
+99-10	ene	O	
+99-11	side	B-noun.body	
+99-12	og	O	
+99-13	en	O	
+99-14	drink	B-noun.food	
+99-15	ved	O	
+99-16	den	O	
+99-17	anden	B-noun.body	
+99-18	,	O	
+99-19	mens	O	
+99-20	hun	O	
+99-21	var	B-verb.stative	
+99-22	fordybet	B-adj.mental	
+99-23	i	O	
+99-24	samtale	B-noun.communication	
+99-25	.	O	
+
+#id=100
+#text=Navn:
+100-1	Navn	B-noun.attribute	
+100-2	:	O	
+

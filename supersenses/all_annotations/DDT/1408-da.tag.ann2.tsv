@@ -1,0 +1,212 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=HvadSocialdemokratiet mener om Danmark efter EF-nej'et afhænger af , hvem man spørger .
+1-1	Hvad	O	
+1-2	Socialdemokratiet	B-noun.person	
+1-3	mener	B-verb.cognition	
+1-4	om	O	
+1-5	Danmark	B-noun.institution	
+1-6	efter	O	
+1-7	EF-nej'et	B-noun.communication	
+1-8	afhænger	B-verb.phenomenon	
+1-9	af	O	
+1-10	,	O	
+1-11	hvem	O	
+1-12	man	O	
+1-13	spørger	B-verb.communication	
+1-14	.	O	
+
+#id=2
+#text=Partieter leveringsdygtigt i mange interessante synspunkter .
+2-1	Partiet	B-noun.person	
+2-2	er	B-verb.stative	
+2-3	leveringsdygtigt	B-adj.all	
+2-4	i	O	
+2-5	mange	B-adj.all	
+2-6	interessante	B-adj.all	
+2-7	synspunkter	B-noun.cognition	
+2-8	.	O	
+
+#id=3
+#text=PåChristiansborg står den ny formand Poul Nyrup Rasmussen og tilslutter sig det " officielle " synspunkt , at vi ikke skal komme med bud på en løsning , før vi har set , om Frankrig og England godkender Maastricht-Traktaten .
+3-1	På	O	
+3-2	Christiansborg	B-noun.building	
+3-3	står	B-verb.stative	
+3-4	den	O	
+3-5	ny	B-adj.time	
+3-6	formand	B-noun.person	
+3-7	Poul	B-noun.person	
+3-8	Nyrup	I-noun.person	
+3-9	Rasmussen	I-noun.person	
+3-10	og	O	
+3-11	tilslutter	B-verb.communication	
+3-12	sig	O	
+3-13	det	O	
+3-14	"	O	
+3-15	officielle	B-adj.social	
+3-16	"	O	
+3-17	synspunkt	B-noun.cognition	
+3-18	,	O	
+3-19	at	O	
+3-20	vi	O	
+3-21	ikke	O	
+3-22	skal	O	
+3-23	komme	B-verb.communication	
+3-24	med	O	
+3-25	bud	B-noun.communication	
+3-26	på	O	
+3-27	en	O	
+3-28	løsning	B-noun.act	
+3-29	,	O	
+3-30	før	O	
+3-31	vi	O	
+3-32	har	O	
+3-33	set	B-verb.phenomenon	
+3-34	,	O	
+3-35	om	O	
+3-36	Frankrig	B-noun.person	
+3-37	og	O	
+3-38	England	B-noun.person	
+3-39	godkender	B-verb.cognition	
+3-40	Maastricht-Traktaten	B-noun.communication	
+3-41	.	O	
+
+#id=4
+#text=Etforhandlingstaktisk synspunkt , som deles af regeringspartierne .
+4-1	Et	O	
+4-2	forhandlingstaktisk	B-adj.all	
+4-3	synspunkt	B-noun.cognition	
+4-4	,	O	
+4-5	som	O	
+4-6	deles	B-verb.phenomenon	
+4-7	af	O	
+4-8	regeringspartierne	B-noun.person	
+4-9	.	O	
+
+#id=5
+#text=IDet Fri Aktuelt opfordrer Ritt Bjerregaard til en ny folkeafstemning om noget , der ligner Maastricht-Traktaten .
+5-1	I	O	
+5-2	Det	B-noun.communication	
+5-3	Fri	I-noun.communication	
+5-4	Aktuelt	I-noun.communication	
+5-5	opfordrer	B-verb.communication	
+5-6	Ritt	B-noun.person	
+5-7	Bjerregaard	I-noun.person	
+5-8	til	O	
+5-9	en	O	
+5-10	ny	B-adj.time	
+5-11	folkeafstemning	B-noun.communication	
+5-12	om	O	
+5-13	noget	O	
+5-14	,	O	
+5-15	der	O	
+5-16	ligner	B-verb.stative	
+5-17	Maastricht-Traktaten	B-noun.communication	
+5-18	.	O	
+
+#id=6
+#text=Hunhar ikke tænkt sig at tage afstemningsresultatet til efterretning , fordi der ikke findes nogen mellemløsning .
+6-1	Hun	O	
+6-2	har	O	
+6-3	ikke	O	
+6-4	tænkt	B-verb.cognition	
+6-5	sig	B-verb.REFLPRON	
+6-6	at	O	
+6-7	tage	B-verb.act	
+6-8	afstemningsresultatet	B-noun.phenomenon	
+6-9	til	O	
+6-10	efterretning	B-noun.communication	
+6-11	,	O	
+6-12	fordi	O	
+6-13	der	O	
+6-14	ikke	O	
+6-15	findes	B-verb.stative	
+6-16	nogen	O	
+6-17	mellemløsning	B-noun.abstract	
+6-18	.	O	
+
+#id=7
+#text=Entener vi ude eller også er vi inde , mener fru Bjerregaard .
+7-1	Enten	O	
+7-2	er	B-verb.stative	
+7-3	vi	O	
+7-4	ude	O	
+7-5	eller	O	
+7-6	også	O	
+7-7	er	B-verb.stative	
+7-8	vi	O	
+7-9	inde	O	
+7-10	,	O	
+7-11	mener	B-verb.cognition	
+7-12	fru	B-noun.person	
+7-13	Bjerregaard	I-noun.person	
+7-14	.	O	
+
+#id=8
+#text=Entredje fremtrædende socialdemokrat , nemlig den detroniserede formand Svend Auken , kolporterer et helt tredje synspunkt i  det engelske parlaments blad Parliamentary Brief .
+8-1	En	O	
+8-2	tredje	O	
+8-3	fremtrædende	B-adj.social	
+8-4	socialdemokrat	B-noun.person	
+8-5	,	O	
+8-6	nemlig	O	
+8-7	den	O	
+8-8	detroniserede	B-adj.social	
+8-9	formand	B-noun.person	
+8-10	Svend	B-noun.person	
+8-11	Auken	I-noun.person	
+8-12	,	O	
+8-13	kolporterer	B-verb.communication	
+8-14	et	O	
+8-15	helt	O	
+8-16	tredje	O	
+8-17	synspunkt	B-noun.cognition	
+8-18	i	O	
+8-19	det	O	
+8-20	engelske	B-adj.social	
+8-21	parlaments	B-noun.person	
+8-22	blad	B-noun.communication	
+8-23	Parliamentary	B-noun.communication	
+8-24	Brief	I-noun.communication	
+8-25	.	O	
+
+#id=9
+#text=Herkalder han alle spekulationer om en ny folkeafstemning for ren ønsketænkning .
+9-1	Her	O	
+9-2	kalder	B-verb.communication	
+9-3	han	O	
+9-4	alle	O	
+9-5	spekulationer	B-noun.cognition	
+9-6	om	O	
+9-7	en	O	
+9-8	ny	B-adj.time	
+9-9	folkeafstemning	B-noun.communication	
+9-10	for	O	
+9-11	ren	B-adj.all	
+9-12	ønsketænkning	B-noun.cognition	
+9-13	.	O	
+
+#id=10
+#text=Fordi: den danske folkeafstemning er juridisk bindende , og Danmark er derfor ude af stand til at ratificere Maastricht-Traktaten .
+10-1	Fordi	O	
+10-2	:	O	
+10-3	den	O	
+10-4	danske	B-adj.social	
+10-5	folkeafstemning	B-noun.communication	
+10-6	er	B-verb.stative	
+10-7	juridisk	O	
+10-8	bindende	B-adj.social	
+10-9	,	O	
+10-10	og	O	
+10-11	Danmark	B-noun.institution	
+10-12	er	B-verb.stative	
+10-13	derfor	O	
+10-14	ude	O	
+10-15	af	O	
+10-16	stand	B-noun.phenomenon	
+10-17	til	O	
+10-18	at	O	
+10-19	ratificere	B-verb.communication	
+10-20	Maastricht-Traktaten	B-noun.communication	
+10-21	.	O	
+

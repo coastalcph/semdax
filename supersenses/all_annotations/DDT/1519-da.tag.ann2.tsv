@@ -1,0 +1,225 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text="Personalet måtte vække ham i mandskabsrummet , og toget , der senere forulykkede i Næstved , kørte fra Nykøbing F. med nogle minutters forsinkelse . "
+1-1	"	O	
+1-2	Personalet	B-noun.person	
+1-3	måtte	O	
+1-4	vække	B-verb.act	
+1-5	ham	O	
+1-6	i	O	
+1-7	mandskabsrummet	B-noun.building	
+1-8	,	O	
+1-9	og	O	
+1-10	toget	B-noun.vehicle	
+1-11	,	O	
+1-12	der	O	
+1-13	senere	O	
+1-14	forulykkede	B-verb.phenomenon	
+1-15	i	O	
+1-16	Næstved	B-noun.location	
+1-17	,	O	
+1-18	kørte	B-verb.motion	
+1-19	fra	O	
+1-20	Nykøbing	B-noun.location	
+1-21	F.	I-noun.location	
+1-22	med	O	
+1-23	nogle	O	
+1-24	minutters	B-noun.time	
+1-25	forsinkelse	B-noun.time	
+1-26	.	O	
+1-27	"	O	
+
+#id=2
+#text=Trafikchefenerkender også , at havarigruppens rapport viser , at lokoføreren på gifttoget var dobbeltjobber i stor stil .
+2-1	Trafikchefen	B-noun.person	
+2-2	erkender	B-verb.cognition	
+2-3	også	O	
+2-4	,	O	
+2-5	at	O	
+2-6	havarigruppens	B-noun.person	
+2-7	rapport	B-noun.communication	
+2-8	viser	B-verb.communication	
+2-9	,	O	
+2-10	at	O	
+2-11	lokoføreren	B-noun.person	
+2-12	på	O	
+2-13	gifttoget	B-noun.vehicle	
+2-14	var	B-verb.stative	
+2-15	dobbeltjobber	B-noun.person	
+2-16	i	O	
+2-17	stor	O	
+2-18	stil	O	
+2-19	.	O	
+
+#id=3
+#text="Dobbeltjobbet er kommet frem i forbindelse med havarigruppens arbejde , men jeg vil gerne understrege , at havarigruppen ikke mener , at loko-førerens dobbeltbeskæftigelse har haft nogen som helst indflydelse på togkollisionen i Næstved , " siger Henrik Nørgaard .
+3-1	"	O	
+3-2	Dobbeltjobbet	B-noun.act	
+3-3	er	O	
+3-4	kommet	B-verb.phenomenon	
+3-5	frem	B-verb.COLL	
+3-6	i	O	
+3-7	forbindelse	B-noun.phenomenon	
+3-8	med	O	
+3-9	havarigruppens	B-noun.person	
+3-10	arbejde	B-noun.act	
+3-11	,	O	
+3-12	men	O	
+3-13	jeg	O	
+3-14	vil	O	
+3-15	gerne	O	
+3-16	understrege	B-verb.communication	
+3-17	,	O	
+3-18	at	O	
+3-19	havarigruppen	B-noun.person	
+3-20	ikke	O	
+3-21	mener	B-verb.cognition	
+3-22	,	O	
+3-23	at	O	
+3-24	loko-førerens	B-noun.person	
+3-25	dobbeltbeskæftigelse	B-noun.act	
+3-26	har	O	
+3-27	haft	B-verb.stative	
+3-28	nogen	O	
+3-29	som	O	
+3-30	helst	O	
+3-31	indflydelse	B-noun.abstract	
+3-32	på	O	
+3-33	togkollisionen	B-noun.phenomenon	
+3-34	i	O	
+3-35	Næstved	B-noun.location	
+3-36	,	O	
+3-37	"	O	
+3-38	siger	B-verb.communication	
+3-39	Henrik	B-noun.person	
+3-40	Nørgaard	I-noun.person	
+3-41	.	O	
+
+#id=4
+#text=DENSKYLDIGE
+4-1	DEN	O	
+4-2	SKYLDIGE	B-adj.all	
+
+#id=5
+#text=DSBsegne undersøgelser , som politimester J. P. Clausen , Næstved , modtog resultatet af i_går , udpeger loko-føreren som den skyldige i togkollisionen på Næstved Station tidligt om morgenen den 25. september .
+5-1	DSBs	B-noun.institution	
+5-2	egne	O	
+5-3	undersøgelser	B-noun.act	
+5-4	,	O	
+5-5	som	O	
+5-6	politimester	B-noun.person	
+5-7	J.	B-noun.person	
+5-8	P.	I-noun.person	
+5-9	Clausen	I-noun.person	
+5-10	,	O	
+5-11	Næstved	B-noun.location	
+5-12	,	O	
+5-13	modtog	B-verb.possession	
+5-14	resultatet	B-noun.abstract	
+5-15	af	O	
+5-16	i_går	B-noun.time	
+5-17	,	O	
+5-18	udpeger	B-verb.communication	
+5-19	loko-føreren	B-noun.person	
+5-20	som	O	
+5-21	den	O	
+5-22	skyldige	B-adj.all	
+5-23	i	O	
+5-24	togkollisionen	B-noun.phenomenon	
+5-25	på	O	
+5-26	Næstved	B-noun.location	
+5-27	Station	I-noun.location	
+5-28	tidligt	O	
+5-29	om	O	
+5-30	morgenen	B-noun.time	
+5-31	den	O	
+5-32	25.	O	
+5-33	september	B-noun.time	
+5-34	.	O	
+
+#id=6
+#text=Enkollision , der var tæt på at få katastrofale følger , fordi en tankvogn med giftstoffet acrylonitril sprang læk .
+6-1	En	O	
+6-2	kollision	B-noun.phenomenon	
+6-3	,	O	
+6-4	der	O	
+6-5	var	B-verb.stative	
+6-6	tæt	O	
+6-7	på	O	
+6-8	at	O	
+6-9	få	B-verb.phenomenon	
+6-10	katastrofale	B-adj.all	
+6-11	følger	B-noun.phenomenon	
+6-12	,	O	
+6-13	fordi	O	
+6-14	en	O	
+6-15	tankvogn	B-noun.vehicle	
+6-16	med	O	
+6-17	giftstoffet	B-noun.substance	
+6-18	acrylonitril	B-noun.substance	
+6-19	sprang	B-verb.phenomenon	
+6-20	læk	B-verb.COLL	
+6-21	.	O	
+
+#id=7
+#text=Altoggang til og fra Næstved måtte indstilles i de tidlige morgentimer , og i_alt 26 personer kom på hospitalet .
+7-1	Al	O	
+7-2	toggang	B-noun.act	
+7-3	til	O	
+7-4	og	O	
+7-5	fra	O	
+7-6	Næstved	B-noun.location	
+7-7	måtte	O	
+7-8	indstilles	B-verb.act	
+7-9	i	O	
+7-10	de	O	
+7-11	tidlige	B-adj.time	
+7-12	morgentimer	B-noun.time	
+7-13	,	O	
+7-14	og	O	
+7-15	i_alt	O	
+7-16	26	O	
+7-17	personer	B-noun.person	
+7-18	kom	B-verb.motion	
+7-19	på	O	
+7-20	hospitalet	B-noun.building	
+7-21	.	O	
+
+#id=8
+#text=Herundersyv politifolk , som var tæt på den lækkede tankvogn , indtil det gik op for brandinspektør Svend Åge Jensen , at det var livsfarligt stof , der sivede ud og forurenede jernbaneterrænet .
+8-1	Herunder	O	
+8-2	syv	O	
+8-3	politifolk	B-noun.person	
+8-4	,	O	
+8-5	som	O	
+8-6	var	B-verb.stative	
+8-7	tæt	O	
+8-8	på	O	
+8-9	den	O	
+8-10	lækkede	B-adj.phys	
+8-11	tankvogn	B-noun.vehicle	
+8-12	,	O	
+8-13	indtil	O	
+8-14	det	O	
+8-15	gik	B-verb.cognition	
+8-16	op	B-verb.COLL	
+8-17	for	B-verb.COLL	
+8-18	brandinspektør	B-noun.person	
+8-19	Svend	B-noun.person	
+8-20	Åge	I-noun.person	
+8-21	Jensen	I-noun.person	
+8-22	,	O	
+8-23	at	O	
+8-24	det	O	
+8-25	var	B-verb.stative	
+8-26	livsfarligt	B-adj.all	
+8-27	stof	B-noun.substance	
+8-28	,	O	
+8-29	der	O	
+8-30	sivede	B-verb.motion	
+8-31	ud	O	
+8-32	og	O	
+8-33	forurenede	B-verb.phenomenon	
+8-34	jernbaneterrænet	B-noun.location	
+8-35	.	O	
+

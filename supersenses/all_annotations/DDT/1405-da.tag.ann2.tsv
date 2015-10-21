@@ -1,0 +1,201 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Pået tidspunkt , hvor der også manglede glød i Olé-sangen , fordi der skete for lidt , så det fik afsmittende virkning  på tribunerne , huggede han til bolden .
+1-1	På	O	
+1-2	et	O	
+1-3	tidspunkt	B-noun.time	
+1-4	,	O	
+1-5	hvor	O	
+1-6	der	O	
+1-7	også	O	
+1-8	manglede	B-verb.stative	
+1-9	glød	B-noun.phenomenon	
+1-10	i	O	
+1-11	Olé-sangen	B-noun.communication	
+1-12	,	O	
+1-13	fordi	O	
+1-14	der	O	
+1-15	skete	B-verb.phenomenon	
+1-16	for	O	
+1-17	lidt	O	
+1-18	,	O	
+1-19	så	O	
+1-20	det	O	
+1-21	fik	O	
+1-22	afsmittende	B-adj.social	
+1-23	virkning	B-noun.phenomenon	
+1-24	på	O	
+1-25	tribunerne	B-noun.building	
+1-26	,	O	
+1-27	huggede	B-verb.contact	
+1-28	han	O	
+1-29	til	O	
+1-30	bolden	B-noun.artifact	
+1-31	.	O	
+
+#id=2
+#text=Bom... sagde det .
+2-1	Bom	O	
+2-2	...	O	
+2-3	sagde	B-verb.phenomenon	
+2-4	det	O	
+2-5	.	O	
+
+#id=3
+#text=Ogtyskerne havde fået det chok , de aldrig overvandt .
+3-1	Og	O	
+3-2	tyskerne	B-noun.person	
+3-3	havde	O	
+3-4	fået	B-verb.phenomenon	
+3-5	det	O	
+3-6	chok	B-noun.feeling	
+3-7	,	O	
+3-8	de	O	
+3-9	aldrig	O	
+3-10	overvandt	B-verb.act	
+3-11	.	O	
+
+#id=4
+#text=Måletvar den doping , de trætte mænd havde behov for .
+4-1	Målet	B-noun.act	
+4-2	var	B-verb.stative	
+4-3	den	O	
+4-4	doping	B-noun.artifact	
+4-5	,	O	
+4-6	de	O	
+4-7	trætte	B-adj.phys	
+4-8	mænd	B-noun.person	
+4-9	havde	B-verb.stative	
+4-10	behov	B-noun.feeling	
+4-11	for	O	
+4-12	.	O	
+
+#id=5
+#text=Detvar det , der skulle til for at " tænde " dynamitten , og med John Jensen som inspirator begyndte danskerne at  udfordre tyskerne på deres banehalvdel - en spillefacon de ikke er vant til i Bundesligaen , hvor de plejer at få tid og plads i egen zone .
+5-1	Det	O	
+5-2	var	B-verb.stative	
+5-3	det	O	
+5-4	,	O	
+5-5	der	O	
+5-6	skulle	B-verb.phenomenon	
+5-7	til	B-verb.PARTICLE	
+5-8	for	O	
+5-9	at	O	
+5-10	"	O	
+5-11	tænde	B-verb.change	
+5-12	"	O	
+5-13	dynamitten	B-noun.artifact	
+5-14	,	O	
+5-15	og	O	
+5-16	med	O	
+5-17	John	B-noun.person	
+5-18	Jensen	I-noun.person	
+5-19	som	O	
+5-20	inspirator	B-noun.person	
+5-21	begyndte	B-verb.aspectual	
+5-22	danskerne	B-noun.person	
+5-23	at	O	
+5-24	udfordre	B-verb.competition	
+5-25	tyskerne	B-noun.person	
+5-26	på	O	
+5-27	deres	O	
+5-28	banehalvdel	B-noun.location	
+5-29	-	O	
+5-30	en	O	
+5-31	spillefacon	B-noun.abstract	
+5-32	de	O	
+5-33	ikke	O	
+5-34	er	B-verb.cognition	
+5-35	vant	B-verb.COLL	
+5-36	til	B-verb.COLL	
+5-37	i	O	
+5-38	Bundesligaen	B-noun.institution	
+5-39	,	O	
+5-40	hvor	O	
+5-41	de	O	
+5-42	plejer	B-verb.stative	
+5-43	at	O	
+5-44	få	B-verb.phenomenon	
+5-45	tid	B-noun.time	
+5-46	og	O	
+5-47	plads	B-noun.location	
+5-48	i	O	
+5-49	egen	B-adj.all	
+5-50	zone	B-noun.location	
+5-51	.	O	
+
+#id=6
+#text=Menden form for presfodbold kræver kræfter .
+6-1	Men	O	
+6-2	den	O	
+6-3	form	B-noun.abstract	
+6-4	for	O	
+6-5	presfodbold	B-noun.act	
+6-6	kræver	B-verb.phenomenon	
+6-7	kræfter	B-noun.attribute	
+6-8	.	O	
+
+#id=7
+#text=Ogdem var der ikke mange tilbage af i det danske kollektiv , der i perioder måtte slippe grebet , så tyskerne fik sat gang i deres opslidende omend forudsigelige tempospil .
+7-1	Og	O	
+7-2	dem	O	
+7-3	var	B-verb.stative	
+7-4	der	O	
+7-5	ikke	O	
+7-6	mange	B-adj.all	
+7-7	tilbage	O	
+7-8	af	O	
+7-9	i	O	
+7-10	det	O	
+7-11	danske	B-adj.social	
+7-12	kollektiv	B-noun.person	
+7-13	,	O	
+7-14	der	O	
+7-15	i	O	
+7-16	perioder	B-noun.time	
+7-17	måtte	O	
+7-18	slippe	B-verb.act	
+7-19	grebet	B-noun.act	
+7-20	,	O	
+7-21	så	O	
+7-22	tyskerne	B-noun.person	
+7-23	fik	O	
+7-24	sat	B-verb.act	
+7-25	gang	B-noun.phenomenon	
+7-26	i	O	
+7-27	deres	O	
+7-28	opslidende	B-adj.all	
+7-29	omend	O	
+7-30	forudsigelige	B-adj.all	
+7-31	tempospil	B-noun.act	
+7-32	.	O	
+
+#id=8
+#text=Mendet var til at se :
+8-1	Men	O	
+8-2	det	O	
+8-3	var	B-verb.stative	
+8-4	til	O	
+8-5	at	O	
+8-6	se	B-verb.perception	
+8-7	:	O	
+
+#id=9
+#text=Kunnedanskerne klare belastningen og sætte de rådvilde modstandere under pres , kunne kampen vindes .
+9-1	Kunne	O	
+9-2	danskerne	B-noun.person	
+9-3	klare	B-verb.emotion	
+9-4	belastningen	B-noun.phenomenon	
+9-5	og	O	
+9-6	sætte	B-verb.act	
+9-7	de	O	
+9-8	rådvilde	B-adj.mental	
+9-9	modstandere	B-noun.person	
+9-10	under	O	
+9-11	pres	B-noun.phenomenon	
+9-12	,	O	
+9-13	kunne	O	
+9-14	kampen	B-noun.act	
+9-15	vindes	B-verb.communication	
+9-16	.	O	
+

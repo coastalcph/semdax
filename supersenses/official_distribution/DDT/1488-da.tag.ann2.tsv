@@ -1,0 +1,217 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text="På baggrund af pigens langvarige ophold i hjemmet finder forvaltningen ikke , at der bør foretages videre i sagen , og forvaltningen finder heller ikke , at der er grundlag for en ophævelse af plejeforholdet nu . "
+1-1	"	O	
+1-2	På	O	
+1-3	baggrund	B-noun.abstract	
+1-4	af	O	
+1-5	pigens	B-noun.person	
+1-6	langvarige	B-adj.time	
+1-7	ophold	B-noun.state	
+1-8	i	O	
+1-9	hjemmet	B-noun.building	
+1-10	finder	B-verb.cognition	
+1-11	forvaltningen	B-noun.person	
+1-12	ikke	O	
+1-13	,	O	
+1-14	at	O	
+1-15	der	O	
+1-16	bør	O	
+1-17	foretages	B-verb.act	
+1-18	videre	O	
+1-19	i	O	
+1-20	sagen	B-noun.abstract	
+1-21	,	O	
+1-22	og	O	
+1-23	forvaltningen	B-noun.person	
+1-24	finder	B-verb.cognition	
+1-25	heller	O	
+1-26	ikke	O	
+1-27	,	O	
+1-28	at	O	
+1-29	der	O	
+1-30	er	B-verb.stative	
+1-31	grundlag	B-noun.abstract	
+1-32	for	O	
+1-33	en	O	
+1-34	ophævelse	B-noun.act	
+1-35	af	O	
+1-36	plejeforholdet	B-noun.relation	
+1-37	nu	O	
+1-38	.	O	
+1-39	"	O	
+
+#id=2
+#text=HerningKommunes socialudvalg tiltræder indstillingen , der meddeles Mona Lisa i et brev .
+2-1	Herning	B-noun.institution	
+2-2	Kommunes	I-noun.institution	
+2-3	socialudvalg	B-noun.person	
+2-4	tiltræder	B-verb.communication	
+2-5	indstillingen	B-noun.cognition	
+2-6	,	O	
+2-7	der	O	
+2-8	meddeles	B-verb.communication	
+2-9	Mona	B-noun.person	
+2-10	Lisa	I-noun.person	
+2-11	i	O	
+2-12	et	O	
+2-13	brev	B-noun.communication	
+2-14	.	O	
+
+#id=3
+#text=Familienfår lov til at leve i fred , men myndighederne vil gerne have kastet jord over sagen .
+3-1	Familien	B-noun.person	
+3-2	får	B-verb.communication	
+3-3	lov	B-verb.COLL	
+3-4	til	O	
+3-5	at	O	
+3-6	leve	B-verb.phenomenon	
+3-7	i	O	
+3-8	fred	O	
+3-9	,	O	
+3-10	men	O	
+3-11	myndighederne	B-noun.institution	
+3-12	vil	O	
+3-13	gerne	O	
+3-14	have	O	
+3-15	kastet	B-verb.motion	
+3-16	jord	B-noun.object	
+3-17	over	O	
+3-18	sagen	B-noun.abstract	
+3-19	.	O	
+
+#id=4
+#text=Iflere måneder nægter man at give familien aktindsigt i sagen .
+4-1	I	O	
+4-2	flere	O	
+4-3	måneder	B-noun.time	
+4-4	nægter	B-verb.communication	
+4-5	man	O	
+4-6	at	O	
+4-7	give	B-verb.possession	
+4-8	familien	B-noun.person	
+4-9	aktindsigt	B-noun.cognition	
+4-10	i	O	
+4-11	sagen	B-noun.abstract	
+4-12	.	O	
+
+#id=5
+#text=Efterjuridisk tovtrækkeri udleveres papirerne , og Herning Kommune betaler familiens advokatudgifter , da Merete Haugaard truer med at gå til pressen .
+5-1	Efter	O	
+5-2	juridisk	B-adj.social	
+5-3	tovtrækkeri	B-noun.act	
+5-4	udleveres	B-verb.possession	
+5-5	papirerne	B-noun.communication	
+5-6	,	O	
+5-7	og	O	
+5-8	Herning	B-noun.institution	
+5-9	Kommune	I-noun.institution	
+5-10	betaler	B-verb.possession	
+5-11	familiens	B-noun.person	
+5-12	advokatudgifter	B-noun.quantity	
+5-13	,	O	
+5-14	da	O	
+5-15	Merete	B-noun.person	
+5-16	Haugaard	I-noun.person	
+5-17	truer	B-verb.communication	
+5-18	med	O	
+5-19	at	O	
+5-20	gå	B-verb.act	
+5-21	til	O	
+5-22	pressen	B-noun.person	
+5-23	.	O	
+
+#id=6
+#text=Den9. maj 1990 registrerer Herning Kommune på Mona Lisas sagsmappe , at kommunen har betalt 10.000 kr. for psykologsamtaler til Mona Lisa .
+6-1	Den	O	
+6-2	9.	O	
+6-3	maj	B-noun.time	
+6-4	1990	B-noun.time	
+6-5	registrerer	B-verb.act	
+6-6	Herning	B-noun.institution	
+6-7	Kommune	I-noun.institution	
+6-8	på	O	
+6-9	Mona	B-noun.person	
+6-10	Lisas	I-noun.person	
+6-11	sagsmappe	B-noun.communication	
+6-12	,	O	
+6-13	at	O	
+6-14	kommunen	B-noun.institution	
+6-15	har	O	
+6-16	betalt	B-verb.possession	
+6-17	10.000	O	
+6-18	kr.	B-noun.quantity	
+6-19	for	O	
+6-20	psykologsamtaler	B-noun.communication	
+6-21	til	O	
+6-22	Mona	B-noun.person	
+6-23	Lisa	I-noun.person	
+6-24	.	O	
+
+#id=7
+#text=Denkidnapningslignende aktion er betalt .
+7-1	Den	O	
+7-2	kidnapningslignende	B-adj.all	
+7-3	aktion	B-noun.act	
+7-4	er	O	
+7-5	betalt	B-verb.possession	
+7-6	.	O	
+
+#id=8
+#text=B.T.har bedt psykolog Sine Diemar om nogle uddybende kommentarer , men hun ønsker hverken at høre artiklen eller fremkommme med udtalelser .
+8-1	B.T.	B-noun.person	
+8-2	har	O	
+8-3	bedt	B-verb.communication	
+8-4	psykolog	B-noun.person	
+8-5	Sine	B-noun.person	
+8-6	Diemar	I-noun.person	
+8-7	om	O	
+8-8	nogle	O	
+8-9	uddybende	B-adj.all	
+8-10	kommentarer	B-noun.communication	
+8-11	,	O	
+8-12	men	O	
+8-13	hun	O	
+8-14	ønsker	B-verb.cognition	
+8-15	hverken	O	
+8-16	at	O	
+8-17	høre	B-verb.perception	
+8-18	artiklen	B-noun.communication	
+8-19	eller	O	
+8-20	fremkommme	B-verb.act	
+8-21	med	O	
+8-22	udtalelser	B-noun.communication	
+8-23	.	O	
+
+#id=9
+#text=B.T.har forelagt artiklen for advokat J. Quade Andersen , Herning , der med sin indgriben forhindrede , at Mona Lisa blev fjernet fra sin far og mor .
+9-1	B.T.	B-noun.person	
+9-2	har	O	
+9-3	forelagt	B-verb.possession	
+9-4	artiklen	B-noun.communication	
+9-5	for	O	
+9-6	advokat	B-noun.person	
+9-7	J.	B-noun.person	
+9-8	Quade	I-noun.person	
+9-9	Andersen	I-noun.person	
+9-10	,	O	
+9-11	Herning	B-noun.location	
+9-12	,	O	
+9-13	der	O	
+9-14	med	O	
+9-15	sin	O	
+9-16	indgriben	B-noun.act	
+9-17	forhindrede	B-verb.phenomenon	
+9-18	,	O	
+9-19	at	O	
+9-20	Mona	B-noun.person	
+9-21	Lisa	I-noun.person	
+9-22	blev	O	
+9-23	fjernet	B-verb.motion	
+9-24	fra	O	
+9-25	sin	O	
+9-26	far	B-noun.person	
+9-27	og	O	
+9-28	mor	B-noun.person	
+9-29	.	O	
+

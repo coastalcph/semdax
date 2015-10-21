@@ -1,0 +1,254 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text="At vi - altså først og fremmest jeg - ikke har været opmærksomme på det pres , som har hvilet på de nye spillere .
+1-1	"	O	
+1-2	At	O	
+1-3	vi	O	
+1-4	-	O	
+1-5	altså	O	
+1-6	først	O	
+1-7	og	O	
+1-8	fremmest	O	
+1-9	jeg	O	
+1-10	-	O	
+1-11	ikke	O	
+1-12	har	O	
+1-13	været	B-verb.stative	
+1-14	opmærksomme	B-adj.mental	
+1-15	på	O	
+1-16	det	O	
+1-17	pres	B-noun.phenomenon	
+1-18	,	O	
+1-19	som	O	
+1-20	har	O	
+1-21	hvilet	B-verb.stative	
+1-22	på	O	
+1-23	de	O	
+1-24	nye	B-adj.time	
+1-25	spillere	B-noun.person	
+1-26	.	O	
+
+#id=2
+#text=Ustraffetskifter man ikke hele otte spillere ud fra sidste år . "
+2-1	Ustraffet	B-adj.all	
+2-2	skifter	B-verb.act	
+2-3	man	O	
+2-4	ikke	O	
+2-5	hele	O	
+2-6	otte	O	
+2-7	spillere	B-noun.person	
+2-8	ud	B-verb.COLL	
+2-9	fra	O	
+2-10	sidste	B-adj.time	
+2-11	år	B-noun.time	
+2-12	.	O	
+2-13	"	O	
+
+#id=3
+#text=MenI har også fået en stærk tilgang ?
+3-1	Men	O	
+3-2	I	O	
+3-3	har	O	
+3-4	også	O	
+3-5	fået	B-verb.phenomenon	
+3-6	en	O	
+3-7	stærk	B-adj.all	
+3-8	tilgang	B-noun.phenomenon	
+3-9	?	O	
+
+#id=4
+#text="Det er faktisk det , som er problemet .
+4-1	"	O	
+4-2	Det	O	
+4-3	er	B-verb.stative	
+4-4	faktisk	O	
+4-5	det	O	
+4-6	,	O	
+4-7	som	O	
+4-8	er	B-verb.stative	
+4-9	problemet	B-noun.abstract	
+4-10	.	O	
+
+#id=5
+#text=Ikkeat vi har fået dem , men at de lidt " afsindige " ikke er med mere .
+5-1	Ikke	O	
+5-2	at	O	
+5-3	vi	O	
+5-4	har	O	
+5-5	fået	B-verb.possession	
+5-6	dem	O	
+5-7	,	O	
+5-8	men	O	
+5-9	at	O	
+5-10	de	O	
+5-11	lidt	O	
+5-12	"	O	
+5-13	afsindige	B-adj.all	
+5-14	"	O	
+5-15	ikke	O	
+5-16	er	B-verb.stative	
+5-17	med	O	
+5-18	mere	O	
+5-19	.	O	
+
+#id=6
+#text=Jegtænker på for eksempel Henning Dons , John Winther og Mikael Kold . "
+6-1	Jeg	O	
+6-2	tænker	B-verb.cognition	
+6-3	på	O	
+6-4	for	O	
+6-5	eksempel	O	
+6-6	Henning	B-noun.person	
+6-7	Dons	I-noun.person	
+6-8	,	O	
+6-9	John	B-noun.person	
+6-10	Winther	I-noun.person	
+6-11	og	O	
+6-12	Mikael	B-noun.person	
+6-13	Kold	I-noun.person	
+6-14	.	O	
+6-15	"	O	
+
+#id=7
+#text=Hvadhavde de , som nu savnes ?
+7-1	Hvad	O	
+7-2	havde	B-verb.possession	
+7-3	de	O	
+7-4	,	O	
+7-5	som	O	
+7-6	nu	O	
+7-7	savnes	B-verb.phenomenon	
+7-8	?	O	
+
+#id=8
+#text="De var så rutinerede , at de ikke accepterede et nederlag , før kampens sidste fløjt .
+8-1	"	O	
+8-2	De	O	
+8-3	var	B-verb.stative	
+8-4	så	O	
+8-5	rutinerede	B-adj.all	
+8-6	,	O	
+8-7	at	O	
+8-8	de	O	
+8-9	ikke	O	
+8-10	accepterede	B-verb.cognition	
+8-11	et	O	
+8-12	nederlag	B-noun.phenomenon	
+8-13	,	O	
+8-14	før	O	
+8-15	kampens	B-noun.event	
+8-16	sidste	B-adj.time	
+8-17	fløjt	B-noun.act	
+8-18	.	O	
+
+#id=9
+#text=Ogde var formidable til at hjælpe de unge spillere i modgang .
+9-1	Og	O	
+9-2	de	O	
+9-3	var	B-verb.stative	
+9-4	formidable	B-adj.all	
+9-5	til	O	
+9-6	at	O	
+9-7	hjælpe	B-verb.act	
+9-8	de	O	
+9-9	unge	B-adj.phys	
+9-10	spillere	B-noun.person	
+9-11	i	O	
+9-12	modgang	B-noun.phenomenon	
+9-13	.	O	
+
+#id=10
+#text=Ikkemindst John Winther .
+10-1	Ikke	O	
+10-2	mindst	O	
+10-3	John	B-noun.person	
+10-4	Winther	I-noun.person	
+10-5	.	O	
+
+#id=11
+#text=Hamsavner jeg virkelig .
+11-1	Ham	O	
+11-2	savner	B-verb.emotion	
+11-3	jeg	O	
+11-4	virkelig	O	
+11-5	.	O	
+
+#id=12
+#text="" LANGE " SULTER
+12-1	"	O	
+12-2	"	O	
+12-3	LANGE	B-noun.person	
+12-4	"	O	
+12-5	SULTER	B-verb.emotion	
+
+#id=13
+#text=Hardu fokuseret for meget på John Jacobsen ?
+13-1	Har	O	
+13-2	du	O	
+13-3	fokuseret	B-verb.cognition	
+13-4	for	O	
+13-5	meget	O	
+13-6	på	O	
+13-7	John	B-noun.person	
+13-8	Jacobsen	I-noun.person	
+13-9	?	O	
+
+#id=14
+#text="Hvis jeg har gjort det  , har jeg i_hvert_fald gjort det på den forkerte måde .
+14-1	"	O	
+14-2	Hvis	O	
+14-3	jeg	O	
+14-4	har	O	
+14-5	gjort	B-verb.act	
+14-6	det	O	
+14-7	,	O	
+14-8	har	O	
+14-9	jeg	O	
+14-10	i_hvert_fald	O	
+14-11	gjort	B-verb.act	
+14-12	det	O	
+14-13	på	O	
+14-14	den	O	
+14-15	forkerte	B-adj.all	
+14-16	måde	B-noun.abstract	
+14-17	.	O	
+
+#id=15
+#text=Detskal ikke glemmes , at det var " Langes " skyld , at vi overhovedet nåede semifinalen i Europa Cup'en .
+15-1	Det	O	
+15-2	skal	O	
+15-3	ikke	O	
+15-4	glemmes	B-verb.cognition	
+15-5	,	O	
+15-6	at	O	
+15-7	det	O	
+15-8	var	B-verb.stative	
+15-9	"	O	
+15-10	Langes	B-noun.person	
+15-11	"	O	
+15-12	skyld	B-noun.abstract	
+15-13	,	O	
+15-14	at	O	
+15-15	vi	O	
+15-16	overhovedet	O	
+15-17	nåede	B-verb.act	
+15-18	semifinalen	B-noun.event	
+15-19	i	O	
+15-20	Europa	B-noun.event	
+15-21	Cup'en	I-noun.event	
+15-22	.	O	
+
+#id=16
+#text=Hanspillede nogle fremragende kampe for Kolding før jul . "
+16-1	Han	O	
+16-2	spillede	B-verb.act	
+16-3	nogle	O	
+16-4	fremragende	B-adj.all	
+16-5	kampe	B-noun.act	
+16-6	for	O	
+16-7	Kolding	B-noun.institution	
+16-8	før	O	
+16-9	jul	B-noun.time	
+16-10	.	O	
+16-11	"	O	
+

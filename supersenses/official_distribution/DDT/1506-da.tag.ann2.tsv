@@ -1,0 +1,222 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Detkonservative Folkeparti vinder ind på det andet regeringsparti , Venstre , forud for regeringens 10 års jubilæum om en lille uge .
+1-1	Det	B-noun.person	
+1-2	konservative	I-noun.person	
+1-3	Folkeparti	I-noun.person	
+1-4	vinder	B-verb.phenomenon	
+1-5	ind	B-verb.COLL	
+1-6	på	O	
+1-7	det	O	
+1-8	andet	O	
+1-9	regeringsparti	B-noun.person	
+1-10	,	O	
+1-11	Venstre	B-noun.person	
+1-12	,	O	
+1-13	forud	O	
+1-14	for	O	
+1-15	regeringens	B-noun.person	
+1-16	10	O	
+1-17	års	B-noun.time	
+1-18	jubilæum	B-noun.time	
+1-19	om	O	
+1-20	en	O	
+1-21	lille	B-adj.time	
+1-22	uge	B-noun.time	
+1-23	.	O	
+
+#id=2
+#text=Ifølgeen Observa-undersøgelse foretaget af analyse-instituttet GfK for B.T. er der nu kun halvanden procents forskel på de to borgerlige partier .
+2-1	Ifølge	O	
+2-2	en	O	
+2-3	Observa-undersøgelse	B-noun.act	
+2-4	foretaget	B-verb.act	
+2-5	af	O	
+2-6	analyse-instituttet	B-noun.institution	
+2-7	GfK	B-noun.institution	
+2-8	for	O	
+2-9	B.T.	B-noun.institution	
+2-10	er	B-verb.stative	
+2-11	der	O	
+2-12	nu	O	
+2-13	kun	O	
+2-14	halvanden	O	
+2-15	procents	B-noun.quantity	
+2-16	forskel	B-noun.quantity	
+2-17	på	O	
+2-18	de	O	
+2-19	to	O	
+2-20	borgerlige	B-adj.social	
+2-21	partier	B-noun.person	
+2-22	.	O	
+
+#id=3
+#text=Venstremister 1,2 procent af stemmerne i forhold til prøvevalget i begyndelsen af juni .
+3-1	Venstre	B-noun.person	
+3-2	mister	B-verb.phenomenon	
+3-3	1,2	O	
+3-4	procent	B-noun.quantity	
+3-5	af	O	
+3-6	stemmerne	B-noun.communication	
+3-7	i	O	
+3-8	forhold	O	
+3-9	til	O	
+3-10	prøvevalget	B-noun.act	
+3-11	i	O	
+3-12	begyndelsen	B-noun.time	
+3-13	af	O	
+3-14	juni	B-noun.time	
+3-15	.	O	
+
+#id=4
+#text=MensDet konservative Folkeparti går 1,3 procent frem , viser GfK-undersøgelsen , der er foretaget 31. august .
+4-1	Mens	O	
+4-2	Det	B-noun.person	
+4-3	konservative	I-noun.person	
+4-4	Folkeparti	I-noun.person	
+4-5	går	B-verb.phenomenon	
+4-6	1,3	O	
+4-7	procent	O	
+4-8	frem	B-verb.COLL	
+4-9	,	O	
+4-10	viser	B-verb.phenomenon	
+4-11	GfK-undersøgelsen	B-noun.act	
+4-12	,	O	
+4-13	der	O	
+4-14	er	O	
+4-15	foretaget	B-verb.act	
+4-16	31.	O	
+4-17	august	B-noun.time	
+4-18	.	O	
+
+#id=5
+#text=Trodsfremgangen mister de konservative alligevel ét mandat til 29 , fordi mandaterne er blevet dyrere på_grund_af mindre stemmespild .
+5-1	Trods	O	
+5-2	fremgangen	B-noun.phenomenon	
+5-3	mister	B-verb.phenomenon	
+5-4	de	B-noun.person	
+5-5	konservative	I-noun.person	
+5-6	alligevel	O	
+5-7	ét	O	
+5-8	mandat	B-noun.person	
+5-9	til	O	
+5-10	29	O	
+5-11	,	O	
+5-12	fordi	O	
+5-13	mandaterne	B-noun.person	
+5-14	er	O	
+5-15	blevet	O	
+5-16	dyrere	B-adj.all	
+5-17	på_grund_af	O	
+5-18	mindre	B-adj.all	
+5-19	stemmespild	B-noun.phenomenon	
+5-20	.	O	
+
+#id=6
+#text=STADIGSTØRST
+6-1	STADIG	O	
+6-2	STØRST	B-adj.phys	
+
+#id=7
+#text=Venstrekan mønstre 32 mandater og er dermed stadig det største borgerlige parti .
+7-1	Venstre	B-noun.person	
+7-2	kan	O	
+7-3	mønstre	B-verb.phenomenon	
+7-4	32	O	
+7-5	mandater	B-noun.person	
+7-6	og	O	
+7-7	er	B-verb.stative	
+7-8	dermed	O	
+7-9	stadig	O	
+7-10	det	O	
+7-11	største	B-adj.phys	
+7-12	borgerlige	B-adj.social	
+7-13	parti	B-noun.person	
+7-14	.	O	
+
+#id=8
+#text=Serman på midtbanen i dansk politik , vinder Det radikale Venstre 0,9 procent flere stemmer end ved sidste prøvevalg .
+8-1	Ser	B-verb.cognition	
+8-2	man	O	
+8-3	på	O	
+8-4	midtbanen	B-noun.abstract	
+8-5	i	O	
+8-6	dansk	B-adj.social	
+8-7	politik	B-noun.domain	
+8-8	,	O	
+8-9	vinder	B-verb.phenomenon	
+8-10	Det	B-noun.person	
+8-11	radikale	I-noun.person	
+8-12	Venstre	I-noun.person	
+8-13	0,9	O	
+8-14	procent	B-noun.quantity	
+8-15	flere	O	
+8-16	stemmer	B-noun.communication	
+8-17	end	O	
+8-18	ved	O	
+8-19	sidste	B-adj.time	
+8-20	prøvevalg	B-noun.act	
+8-21	.	O	
+
+#id=9
+#text=Partietgår to mandater frem og har i_dag otte .
+9-1	Partiet	B-noun.person	
+9-2	går	B-verb.phenomenon	
+9-3	to	O	
+9-4	mandater	B-noun.person	
+9-5	frem	B-verb.COLL	
+9-6	og	O	
+9-7	har	B-verb.possession	
+9-8	i_dag	B-noun.time	
+9-9	otte	O	
+9-10	.	O	
+
+#id=10
+#text=Detandet vigtige midterparti , CD , får ifølge GfK-undersøgelsen det laveste resultat siden folketingsvalget 12. december 1990 .
+10-1	Det	O	
+10-2	andet	O	
+10-3	vigtige	B-adj.all	
+10-4	midterparti	B-noun.person	
+10-5	,	O	
+10-6	CD	B-noun.person	
+10-7	,	O	
+10-8	får	B-verb.phenomenon	
+10-9	ifølge	O	
+10-10	GfK-undersøgelsen	B-noun.act	
+10-11	det	O	
+10-12	laveste	B-adj.all	
+10-13	resultat	B-noun.abstract	
+10-14	siden	O	
+10-15	folketingsvalget	B-noun.act	
+10-16	12.	O	
+10-17	december	B-noun.time	
+10-18	1990	B-noun.time	
+10-19	.	O	
+
+#id=11
+#text=CDmister 0,7 procent i forhold til sidste prøvevalg , og partiet er med ialt 3,8 procent af stemmerne nede på syv mandater .
+11-1	CD	B-noun.person	
+11-2	mister	B-verb.phenomenon	
+11-3	0,7	O	
+11-4	procent	B-noun.quantity	
+11-5	i	O	
+11-6	forhold	O	
+11-7	til	O	
+11-8	sidste	B-adj.time	
+11-9	prøvevalg	B-noun.act	
+11-10	,	O	
+11-11	og	O	
+11-12	partiet	B-noun.person	
+11-13	er	B-verb.stative	
+11-14	med	O	
+11-15	ialt	O	
+11-16	3,8	O	
+11-17	procent	B-noun.quantity	
+11-18	af	O	
+11-19	stemmerne	B-noun.communication	
+11-20	nede	O	
+11-21	på	O	
+11-22	syv	O	
+11-23	mandater	B-noun.person	
+11-24	.	O	
+

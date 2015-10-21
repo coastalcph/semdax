@@ -1,0 +1,224 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text="Det er så rørende med den lille grimme fyr , der på én gang bliver den skønneste svane .
+1-1	"	O	
+1-2	Det	O	
+1-3	er	B-verb.stative	
+1-4	så	O	
+1-5	rørende	B-adj.mental	
+1-6	med	O	
+1-7	den	O	
+1-8	lille	B-adj.phys	
+1-9	grimme	B-adj.phys	
+1-10	fyr	B-noun.person	
+1-11	,	O	
+1-12	der	O	
+1-13	på	O	
+1-14	én	O	
+1-15	gang	B-noun.abstract	
+1-16	bliver	B-verb.change	
+1-17	den	O	
+1-18	skønneste	B-adj.phys	
+1-19	svane	B-noun.animal	
+1-20	.	O	
+
+#id=2
+#text=Deter så  følelsesmæssigt stærkt , og i min alder skal der ikke meget til , før man falder sammen af bevægelse . "
+2-1	Det	O	
+2-2	er	B-verb.stative	
+2-3	så	O	
+2-4	følelsesmæssigt	O	
+2-5	stærkt	B-adj.mental	
+2-6	,	O	
+2-7	og	O	
+2-8	i	O	
+2-9	min	O	
+2-10	alder	B-noun.attribute	
+2-11	skal	O	
+2-12	der	O	
+2-13	ikke	O	
+2-14	meget	O	
+2-15	til	O	
+2-16	,	O	
+2-17	før	O	
+2-18	man	O	
+2-19	falder	B-verb.phenomenon	
+2-20	sammen	B-verb.PARTICLE	
+2-21	af	O	
+2-22	bevægelse	B-noun.act	
+2-23	.	O	
+2-24	"	O	
+
+#id=3
+#text="For dem , der har læst H. C. Andersen , forsvinder historierne aldrig .
+3-1	"	O	
+3-2	For	O	
+3-3	dem	O	
+3-4	,	O	
+3-5	der	O	
+3-6	har	O	
+3-7	læst	B-verb.cognition	
+3-8	H.	B-noun.communication	
+3-9	C.	I-noun.communication	
+3-10	Andersen	I-noun.communication	
+3-11	,	O	
+3-12	forsvinder	B-verb.phenomenon	
+3-13	historierne	B-noun.communication	
+3-14	aldrig	O	
+3-15	.	O	
+
+#id=4
+#text=Deter da forfærdeligt at originalmanuskripter er forsvundet .
+4-1	Det	O	
+4-2	er	B-verb.stative	
+4-3	da	O	
+4-4	forfærdeligt	B-adj.all	
+4-5	at	O	
+4-6	originalmanuskripter	B-noun.communication	
+4-7	er	O	
+4-8	forsvundet	B-verb.phenomenon	
+4-9	.	O	
+
+#id=5
+#text=Mendet vigtigste ved hans eventyr er , at de bliver fortalt og læst  , " siger Victor Borge , som netop er i_gang med at indtale flere af forfatterens eventyr til et stort TV-program , der skal sendes i USA .
+5-1	Men	O	
+5-2	det	O	
+5-3	vigtigste	B-adj.all	
+5-4	ved	O	
+5-5	hans	O	
+5-6	eventyr	B-noun.event	
+5-7	er	B-verb.stative	
+5-8	,	O	
+5-9	at	O	
+5-10	de	O	
+5-11	bliver	O	
+5-12	fortalt	B-verb.communication	
+5-13	og	O	
+5-14	læst	B-verb.cognition	
+5-15	,	O	
+5-16	"	O	
+5-17	siger	B-verb.communication	
+5-18	Victor	B-noun.person	
+5-19	Borge	I-noun.person	
+5-20	,	O	
+5-21	som	O	
+5-22	netop	O	
+5-23	er	B-verb.stative	
+5-24	i_gang	O	
+5-25	med	O	
+5-26	at	O	
+5-27	indtale	B-verb.communication	
+5-28	flere	O	
+5-29	af	O	
+5-30	forfatterens	B-noun.person	
+5-31	eventyr	B-noun.communication	
+5-32	til	O	
+5-33	et	O	
+5-34	stort	B-adj.phys	
+5-35	TV-program	B-noun.communication	
+5-36	,	O	
+5-37	der	O	
+5-38	skal	O	
+5-39	sendes	B-verb.communication	
+5-40	i	O	
+5-41	USA	B-noun.location	
+5-42	.	O	
+
+#id=6
+#text="H. C. Andersen er jo verdensberømt , fordi hans forfatterskab er blevet oversat til alle sprog .
+6-1	"	O	
+6-2	H.	B-noun.person	
+6-3	C.	I-noun.person	
+6-4	Andersen	I-noun.person	
+6-5	er	B-verb.stative	
+6-6	jo	O	
+6-7	verdensberømt	B-adj.all	
+6-8	,	O	
+6-9	fordi	O	
+6-10	hans	O	
+6-11	forfatterskab	B-noun.communication	
+6-12	er	O	
+6-13	blevet	O	
+6-14	oversat	B-verb.communication	
+6-15	til	O	
+6-16	alle	O	
+6-17	sprog	B-noun.communication	
+6-18	.	O	
+
+#id=7
+#text=Menbøger er jo ikke så populær som underholdning som tidligere , og det er svært at sige , hvor mange der i_dag kender ham her i USA .
+7-1	Men	O	
+7-2	bøger	B-noun.communication	
+7-3	er	B-verb.stative	
+7-4	jo	O	
+7-5	ikke	O	
+7-6	så	O	
+7-7	populær	B-adj.all	
+7-8	som	O	
+7-9	underholdning	B-noun.domain	
+7-10	som	O	
+7-11	tidligere	O	
+7-12	,	O	
+7-13	og	O	
+7-14	det	O	
+7-15	er	B-verb.stative	
+7-16	svært	B-adj.all	
+7-17	at	O	
+7-18	sige	B-verb.communication	
+7-19	,	O	
+7-20	hvor	O	
+7-21	mange	O	
+7-22	der	O	
+7-23	i_dag	B-noun.time	
+7-24	kender	B-verb.cognition	
+7-25	ham	O	
+7-26	her	O	
+7-27	i	O	
+7-28	USA	B-noun.location	
+7-29	.	O	
+
+#id=8
+#text=Denyngre generation er ikke så forvænt med den slags litteratur .
+8-1	Den	O	
+8-2	yngre	B-adj.phys	
+8-3	generation	B-noun.person	
+8-4	er	B-verb.stative	
+8-5	ikke	O	
+8-6	så	O	
+8-7	forvænt	B-adj.mental	
+8-8	med	O	
+8-9	den	O	
+8-10	slags	B-noun.domain	
+8-11	litteratur	B-noun.communication	
+8-12	.	O	
+
+#id=9
+#text=SåTV-programmet er et fremstød , hvor vi prøver at gøre ham populær , " siger Victor Borge for hvem H. C. Andersen har stor betydning .
+9-1	Så	O	
+9-2	TV-programmet	B-noun.communication	
+9-3	er	B-verb.stative	
+9-4	et	O	
+9-5	fremstød	B-noun.act	
+9-6	,	O	
+9-7	hvor	O	
+9-8	vi	O	
+9-9	prøver	B-verb.act	
+9-10	at	O	
+9-11	gøre	B-verb.change	
+9-12	ham	O	
+9-13	populær	B-adj.social	
+9-14	,	O	
+9-15	"	O	
+9-16	siger	B-verb.communication	
+9-17	Victor	B-noun.person	
+9-18	Borge	I-noun.person	
+9-19	for	O	
+9-20	hvem	O	
+9-21	H.	B-noun.person	
+9-22	C.	I-noun.person	
+9-23	Andersen	I-noun.person	
+9-24	har	B-verb.possession	
+9-25	stor	B-adj.phys	
+9-26	betydning	B-noun.cognition	
+9-27	.	O	
+

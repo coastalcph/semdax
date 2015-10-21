@@ -1,0 +1,221 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Manindkvarteres i hytter med fire ferieboligeri hver og maksimalt seks personer i hver bolig .
+1-1	Man	O	
+1-2	indkvarteres	B-verb.act	
+1-3	i	O	
+1-4	hytter	B-noun.building	
+1-5	med	O	
+1-6	fire	O	
+1-7	ferieboligeri	B-noun.building	
+1-8	hver	O	
+1-9	og	O	
+1-10	maksimalt	B-adj.all	
+1-11	seks	O	
+1-12	personer	B-noun.person	
+1-13	i	O	
+1-14	hver	O	
+1-15	bolig	B-noun.building	
+1-16	.	O	
+
+#id=2
+#text=Priserfra 1.095 kr. og med i prisen er bus fra Fyn og Jylland , overfart Frederikshavn-Göteborg , bus til Branäs og dansk skiguide .
+2-1	Priser	B-noun.quantity	
+2-2	fra	O	
+2-3	1.095	O	
+2-4	kr.	B-noun.artifact	
+2-5	og	O	
+2-6	med	O	
+2-7	i	O	
+2-8	prisen	B-noun.quantity	
+2-9	er	B-verb.stative	
+2-10	bus	B-noun.vehicle	
+2-11	fra	O	
+2-12	Fyn	B-noun.location	
+2-13	og	O	
+2-14	Jylland	B-noun.location	
+2-15	,	O	
+2-16	overfart	B-noun.act	
+2-17	Frederikshavn-Göteborg	B-noun.location	
+2-18	,	O	
+2-19	bus	B-noun.vehicle	
+2-20	til	O	
+2-21	Branäs	B-noun.location	
+2-22	og	O	
+2-23	dansk	B-adj.social	
+2-24	skiguide	B-noun.person	
+2-25	.	O	
+
+#id=3
+#text=Juli Norge
+3-1	Jul	B-noun.time	
+3-2	i	O	
+3-3	Norge	B-noun.location	
+
+#id=4
+#text=Traditionentro har Norsk Rejsebureau jule- og nytårsrejser til Norge .
+4-1	Traditionen	B-noun.abstract	
+4-2	tro	B-adj.mental	
+4-3	har	B-verb.stative	
+4-4	Norsk	B-noun.institution	
+4-5	Rejsebureau	I-noun.institution	
+4-6	jule-	B-noun.act	
+4-7	og	O	
+4-8	nytårsrejser	B-noun.act	
+4-9	til	O	
+4-10	Norge	B-noun.location	
+4-11	.	O	
+
+#id=5
+#text=TilGausdal Høifjellshotell og til Kampsæter og Ruten Fjellstue .
+5-1	Til	O	
+5-2	Gausdal	B-noun.building	
+5-3	Høifjellshotell	I-noun.building	
+5-4	og	O	
+5-5	til	O	
+5-6	Kampsæter	B-noun.location	
+5-7	og	O	
+5-8	Ruten	B-noun.building	
+5-9	Fjellstue	I-noun.building	
+5-10	.	O	
+
+#id=6
+#text=Rejserneer med DFDS til Oslo og med bus derfra til Guldbrandsdalen .
+6-1	Rejserne	B-noun.act	
+6-2	er	B-verb.stative	
+6-3	med	O	
+6-4	DFDS	B-noun.institution	
+6-5	til	O	
+6-6	Oslo	B-noun.location	
+6-7	og	O	
+6-8	med	O	
+6-9	bus	B-noun.vehicle	
+6-10	derfra	O	
+6-11	til	O	
+6-12	Guldbrandsdalen	B-noun.location	
+6-13	.	O	
+
+#id=7
+#text=Rejsenplus fem dage med fuldpension i juleugen på Gausdal koster 4.415 kr. for en voksen i dobbeltværelse med bad og toilet .
+7-1	Rejsen	B-noun.act	
+7-2	plus	O	
+7-3	fem	O	
+7-4	dage	B-noun.time	
+7-5	med	O	
+7-6	fuldpension	B-noun.abstract	
+7-7	i	O	
+7-8	juleugen	B-noun.time	
+7-9	på	O	
+7-10	Gausdal	B-noun.building	
+7-11	koster	B-verb.stative	
+7-12	4.415	O	
+7-13	kr.	B-noun.artifact	
+7-14	for	O	
+7-15	en	O	
+7-16	voksen	B-noun.person	
+7-17	i	O	
+7-18	dobbeltværelse	B-noun.building	
+7-19	med	O	
+7-20	bad	B-noun.artifact	
+7-21	og	O	
+7-22	toilet	B-noun.artifact	
+7-23	.	O	
+
+#id=8
+#text=Børnunder 16. år pr. en voksen i dobbeltværelset koster 450 kr. .
+8-1	Børn	B-noun.person	
+8-2	under	O	
+8-3	16.	O	
+8-4	år	B-noun.time	
+8-5	pr.	O	
+8-6	en	O	
+8-7	voksen	B-noun.person	
+8-8	i	O	
+8-9	dobbeltværelset	B-noun.building	
+8-10	koster	B-verb.stative	
+8-11	450	O	
+8-12	kr.	B-noun.artifact	
+8-13	.	O	
+
+#id=9
+#text=Detkan blive billigere , hvis man f.eks. bor i tre- eller firekøjers kahytter på båden , og dyrere , hvis man f.eks. vil bo i hotellets luksusafdeling .
+9-1	Det	O	
+9-2	kan	O	
+9-3	blive	B-verb.stative	
+9-4	billigere	B-adj.all	
+9-5	,	O	
+9-6	hvis	O	
+9-7	man	B-noun.act	
+9-8	f.eks.	I-noun.act	
+9-9	bor	B-verb.stative	
+9-10	i	O	
+9-11	tre-	O	
+9-12	eller	O	
+9-13	firekøjers	B-adj.phys	
+9-14	kahytter	B-noun.building	
+9-15	på	O	
+9-16	båden	B-noun.vehicle	
+9-17	,	O	
+9-18	og	O	
+9-19	dyrere	B-adj.all	
+9-20	,	O	
+9-21	hvis	O	
+9-22	man	O	
+9-23	f.eks.	O	
+9-24	vil	O	
+9-25	bo	B-verb.stative	
+9-26	i	O	
+9-27	hotellets	B-noun.building	
+9-28	luksusafdeling	B-noun.relation	
+9-29	.	O	
+
+#id=10
+#text=TilAlperne i egen bil
+10-1	Til	O	
+10-2	Alperne	B-noun.location	
+10-3	i	O	
+10-4	egen	O	
+10-5	bil	B-noun.vehicle	
+
+#id=11
+#text=Foretrækkerman selv at køre på skiferie , så formidler Dansk Fri Ferie , Valby , en række lejligheder i de kendte , men også i de mindre kendte skisportssteder i Østrig , Frankrig , Schweiz og Italien .
+11-1	Foretrækker	B-verb.cognition	
+11-2	man	O	
+11-3	selv	O	
+11-4	at	O	
+11-5	køre	B-verb.motion	
+11-6	på	O	
+11-7	skiferie	B-noun.act	
+11-8	,	O	
+11-9	så	O	
+11-10	formidler	B-verb.act	
+11-11	Dansk	B-noun.institution	
+11-12	Fri	I-noun.institution	
+11-13	Ferie	I-noun.institution	
+11-14	,	O	
+11-15	Valby	B-noun.location	
+11-16	,	O	
+11-17	en	O	
+11-18	række	B-noun.quantity	
+11-19	lejligheder	B-noun.building	
+11-20	i	O	
+11-21	de	O	
+11-22	kendte	B-adj.social	
+11-23	,	O	
+11-24	men	O	
+11-25	også	O	
+11-26	i	O	
+11-27	de	O	
+11-28	mindre	O	
+11-29	kendte	B-adj.social	
+11-30	skisportssteder	B-noun.location	
+11-31	i	O	
+11-32	Østrig	B-noun.location	
+11-33	,	O	
+11-34	Frankrig	B-noun.location	
+11-35	,	O	
+11-36	Schweiz	B-noun.location	
+11-37	og	O	
+11-38	Italien	B-noun.location	
+11-39	.	O	
+

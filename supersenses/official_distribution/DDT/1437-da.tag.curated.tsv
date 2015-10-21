@@ -1,0 +1,237 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Dettyske Transall fly taxier ind på stand-pladsen - vi skal med det en halv time efter .
+1-1	Det	O	
+1-2	tyske	B-adj.social	
+1-3	Transall	B-noun.vehicle	
+1-4	fly	I-noun.vehicle	
+1-5	taxier	B-verb.motion	
+1-6	ind	O	
+1-7	på	O	
+1-8	stand-pladsen	B-noun.location	
+1-9	-	O	
+1-10	vi	O	
+1-11	skal	B-verb.motion	
+1-12	med	B-verb.PARTICLE	
+1-13	det	O	
+1-14	en	O	
+1-15	halv	B-adj.phys	
+1-16	time	B-noun.time	
+1-17	efter	O	
+1-18	.	O	
+
+#id=2
+#text=Udaf flyet springer en ung kvinde , korthåret , cowboybukser , små sandaler , i slutningen af tyverne .
+2-1	Ud	O	
+2-2	af	O	
+2-3	flyet	B-noun.vehicle	
+2-4	springer	B-verb.motion	
+2-5	en	O	
+2-6	ung	B-adj.phys	
+2-7	kvinde	B-noun.person	
+2-8	,	O	
+2-9	korthåret	B-adj.phys	
+2-10	,	O	
+2-11	cowboybukser	B-noun.artifact	
+2-12	,	O	
+2-13	små	B-adj.phys	
+2-14	sandaler	B-noun.artifact	
+2-15	,	O	
+2-16	i	O	
+2-17	slutningen	B-noun.time	
+2-18	af	O	
+2-19	tyverne	B-noun.time	
+2-20	.	O	
+
+#id=3
+#text=Hunvar på lynbesøg i den belejrede hovedstad og følger med i flyet hjem .
+3-1	Hun	O	
+3-2	var	B-verb.stative	
+3-3	på	O	
+3-4	lynbesøg	B-noun.act	
+3-5	i	O	
+3-6	den	O	
+3-7	belejrede	B-adj.all	
+3-8	hovedstad	B-noun.location	
+3-9	og	O	
+3-10	følger	B-verb.motion	
+3-11	med	B-verb.PARTICLE	
+3-12	i	O	
+3-13	flyet	B-noun.vehicle	
+3-14	hjem	O	
+3-15	.	O	
+
+#id=4
+#text=Enhver, der har forsøgt at gennemføre en samtale i lastrummet på sådan en tyksak af et fly , kender betingelserne .
+4-1	Enhver	O	
+4-2	,	O	
+4-3	der	O	
+4-4	har	O	
+4-5	forsøgt	B-verb.act	
+4-6	at	O	
+4-7	gennemføre	B-verb.act	
+4-8	en	O	
+4-9	samtale	B-noun.communication	
+4-10	i	O	
+4-11	lastrummet	B-noun.building	
+4-12	på	O	
+4-13	sådan	O	
+4-14	en	O	
+4-15	tyksak	B-noun.person	
+4-16	af	O	
+4-17	et	O	
+4-18	fly	B-noun.vehicle	
+4-19	,	O	
+4-20	kender	B-verb.cognition	
+4-21	betingelserne	B-noun.abstract	
+4-22	.	O	
+
+#id=5
+#text=Flyeter kun nødtørftigt isoleret .
+5-1	Flyet	B-noun.vehicle	
+5-2	er	B-verb.stative	
+5-3	kun	O	
+5-4	nødtørftigt	O	
+5-5	isoleret	B-adj.all	
+5-6	.	O	
+
+#id=6
+#text=Deter militæret - det her - ikke nogen business-class .
+6-1	Det	O	
+6-2	er	B-verb.stative	
+6-3	militæret	B-noun.institution	
+6-4	-	O	
+6-5	det	O	
+6-6	her	O	
+6-7	-	O	
+6-8	ikke	O	
+6-9	nogen	O	
+6-10	business-class	B-noun.domain	
+6-11	.	O	
+
+#id=7
+#text=Halvtråbende spørger hun , hvad jeg mener om krigen i Bosnien .
+7-1	Halvt	B-adj.all	
+7-2	råbende	I-adj.all	
+7-3	spørger	B-verb.communication	
+7-4	hun	O	
+7-5	,	O	
+7-6	hvad	O	
+7-7	jeg	O	
+7-8	mener	B-verb.cognition	
+7-9	om	O	
+7-10	krigen	B-noun.state	
+7-11	i	O	
+7-12	Bosnien	B-noun.location	
+7-13	.	O	
+
+#id=8
+#text=Jegsvarer , at alle parter har blod på hænderne - at man som udenforstående skal vare sig for at vælge side .
+8-1	Jeg	O	
+8-2	svarer	B-verb.communication	
+8-3	,	O	
+8-4	at	O	
+8-5	alle	O	
+8-6	parter	B-noun.relation	
+8-7	har	B-verb.phenomenon	
+8-8	blod	B-noun.substance	
+8-9	på	O	
+8-10	hænderne	B-noun.body	
+8-11	-	O	
+8-12	at	O	
+8-13	man	O	
+8-14	som	O	
+8-15	udenforstående	B-noun.person	
+8-16	skal	O	
+8-17	vare	B-verb.cognition	
+8-18	sig	B-verb.REFLPRON	
+8-19	for	O	
+8-20	at	O	
+8-21	vælge	B-verb.cognition	
+8-22	side	B-noun.relation	
+8-23	.	O	
+
+#id=9
+#text=Menat det virker som_om , Kroatien og Serbien er ved at dele landet mellem sig .
+9-1	Men	O	
+9-2	at	O	
+9-3	det	O	
+9-4	virker	B-verb.phenomenon	
+9-5	som_om	O	
+9-6	,	O	
+9-7	Kroatien	B-noun.person	
+9-8	og	O	
+9-9	Serbien	B-noun.person	
+9-10	er	B-verb.stative	
+9-11	ved	B-verb.PARTICLE	
+9-12	at	O	
+9-13	dele	B-verb.change	
+9-14	landet	B-noun.location	
+9-15	mellem	O	
+9-16	sig	O	
+9-17	.	O	
+
+#id=10
+#text=Udentanke for den store muslimske befolkning .
+10-1	Uden	O	
+10-2	tanke	B-noun.cognition	
+10-3	for	O	
+10-4	den	O	
+10-5	store	B-adj.phys	
+10-6	muslimske	B-adj.social	
+10-7	befolkning	B-noun.person	
+10-8	.	O	
+
+#id=11
+#text="Du kender ikke muslimerne .
+11-1	"	O	
+11-2	Du	O	
+11-3	kender	B-verb.cognition	
+11-4	ikke	O	
+11-5	muslimerne	B-noun.person	
+11-6	.	O	
+
+#id=12
+#text=Deter fantastisk .
+12-1	Det	O	
+12-2	er	B-verb.stative	
+12-3	fantastisk	B-adj.all	
+12-4	.	O	
+
+#id=13
+#text=Delyver én lige op i ansigtet , selv_om det er indlysende , at de gør det .
+13-1	De	O	
+13-2	lyver	B-verb.communication	
+13-3	én	O	
+13-4	lige	O	
+13-5	op	O	
+13-6	i	O	
+13-7	ansigtet	B-noun.body	
+13-8	,	O	
+13-9	selv_om	O	
+13-10	det	O	
+13-11	er	B-verb.stative	
+13-12	indlysende	B-adj.mental	
+13-13	,	O	
+13-14	at	O	
+13-15	de	O	
+13-16	gør	B-verb.act	
+13-17	det	O	
+13-18	.	O	
+
+#id=14
+#text=Deter , som_om det er en del af deres kultur . "
+14-1	Det	O	
+14-2	er	B-verb.stative	
+14-3	,	O	
+14-4	som_om	O	
+14-5	det	O	
+14-6	er	B-verb.stative	
+14-7	en	O	
+14-8	del	B-noun.quantity	
+14-9	af	O	
+14-10	deres	O	
+14-11	kultur	B-noun.attribute	
+14-12	.	O	
+14-13	"	O	
+

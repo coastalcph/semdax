@@ -1,0 +1,208 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=TILKNAPPET
+1-1	TILKNAPPET	B-adj.all	
+
+#id=2
+#text=Vinterenhar været barsk og drøj for Brøndby-ledelsens ellers så velplejede image .
+2-1	Vinteren	B-noun.time	
+2-2	har	O	
+2-3	været	B-verb.stative	
+2-4	barsk	B-adj.all	
+2-5	og	O	
+2-6	drøj	B-adj.phys	
+2-7	for	O	
+2-8	Brøndby-ledelsens	B-noun.institution	
+2-9	ellers	O	
+2-10	så	O	
+2-11	velplejede	B-adj.all	
+2-12	image	B-noun.attribute	
+2-13	.	O	
+
+#id=3
+#text=Efterat Bjerregaard havde fået udtalt , at sportsjournalister ikke er så gode til at læse fodbold-finanstal , begyndte dagbladet Børsen at tackle mesterklubben .
+3-1	Efter	O	
+3-2	at	O	
+3-3	Bjerregaard	B-noun.person	
+3-4	havde	O	
+3-5	fået	B-verb.phenomenon	
+3-6	udtalt	B-verb.communication	
+3-7	,	O	
+3-8	at	O	
+3-9	sportsjournalister	B-noun.person	
+3-10	ikke	O	
+3-11	er	B-verb.stative	
+3-12	så	O	
+3-13	gode	B-adj.all	
+3-14	til	O	
+3-15	at	O	
+3-16	læse	B-verb.cognition	
+3-17	fodbold-finanstal	B-noun.artifact	
+3-18	,	O	
+3-19	begyndte	B-verb.aspectual	
+3-20	dagbladet	B-noun.communication	
+3-21	Børsen	I-noun.communication	
+3-22	at	O	
+3-23	tackle	B-verb.act	
+3-24	mesterklubben	B-noun.person	
+3-25	.	O	
+
+#id=4
+#text=Senesthar Børsen gravet så dybt i klubøkonomien , at den frygter for Brøndbys InterBank-ruin og for klubbens troværdighed .
+4-1	Senest	B-adj.time	
+4-2	har	O	
+4-3	Børsen	B-noun.institution	
+4-4	gravet	B-verb.act	
+4-5	så	O	
+4-6	dybt	O	
+4-7	i	O	
+4-8	klubøkonomien	B-noun.attribute	
+4-9	,	O	
+4-10	at	O	
+4-11	den	O	
+4-12	frygter	B-verb.emotion	
+4-13	for	O	
+4-14	Brøndbys	B-noun.institution	
+4-15	InterBank-ruin	B-noun.attribute	
+4-16	og	O	
+4-17	for	O	
+4-18	klubbens	B-noun.institution	
+4-19	troværdighed	B-noun.attribute	
+4-20	.	O	
+
+#id=5
+#text=OgsåBjerregaards komplicerede private spekulationer i og omkring Brøndby IF er blevet hudflettet på en lidet flatterende måde .
+5-1	Også	O	
+5-2	Bjerregaards	B-noun.person	
+5-3	komplicerede	B-adj.all	
+5-4	private	B-adj.all	
+5-5	spekulationer	B-noun.cognition	
+5-6	i	O	
+5-7	og	O	
+5-8	omkring	O	
+5-9	Brøndby	B-noun.institution	
+5-10	IF	I-noun.institution	
+5-11	er	O	
+5-12	blevet	O	
+5-13	hudflettet	B-verb.act	
+5-14	på	O	
+5-15	en	O	
+5-16	lidet	O	
+5-17	flatterende	B-adj.all	
+5-18	måde	B-noun.abstract	
+5-19	.	O	
+
+#id=6
+#text=Højfinansernestidsalder i Brøndby IF har forvandlet en tidligere så åbenhjertig fodboldklub til en tavs , tilknappet erhvervsvirksomhed , der døgnet rundt vogter mistænksomt over sin store bankhemmelighed .
+6-1	Højfinansernes	B-noun.abstract	
+6-2	tidsalder	B-noun.time	
+6-3	i	O	
+6-4	Brøndby	B-noun.institution	
+6-5	IF	I-noun.institution	
+6-6	har	O	
+6-7	forvandlet	B-verb.change	
+6-8	en	O	
+6-9	tidligere	O	
+6-10	så	O	
+6-11	åbenhjertig	B-adj.all	
+6-12	fodboldklub	B-noun.person	
+6-13	til	O	
+6-14	en	O	
+6-15	tavs	B-adj.all	
+6-16	,	O	
+6-17	tilknappet	B-adj.all	
+6-18	erhvervsvirksomhed	B-noun.institution	
+6-19	,	O	
+6-20	der	O	
+6-21	døgnet	B-noun.time	
+6-22	rundt	O	
+6-23	vogter	B-verb.act	
+6-24	mistænksomt	O	
+6-25	over	O	
+6-26	sin	O	
+6-27	store	B-adj.phys	
+6-28	bankhemmelighed	B-noun.abstract	
+6-29	.	O	
+
+#id=7
+#text=Præcissom Morten Olsen før hver Superliga-kamp våger og vogter over sin startopstilling til almindelig undren og irritation for Brøndbys tilskuer-kunder .
+7-1	Præcis	O	
+7-2	som	O	
+7-3	Morten	B-noun.person	
+7-4	Olsen	I-noun.person	
+7-5	før	O	
+7-6	hver	O	
+7-7	Superliga-kamp	B-noun.event	
+7-8	våger	B-verb.act	
+7-9	og	O	
+7-10	vogter	B-verb.act	
+7-11	over	O	
+7-12	sin	O	
+7-13	startopstilling	B-noun.abstract	
+7-14	til	O	
+7-15	almindelig	B-adj.all	
+7-16	undren	B-noun.feeling	
+7-17	og	O	
+7-18	irritation	B-noun.feeling	
+7-19	for	O	
+7-20	Brøndbys	B-noun.institution	
+7-21	tilskuer-kunder	B-noun.person	
+7-22	.	O	
+
+#id=8
+#text=TROVÆRDIGHED
+8-1	TROVÆRDIGHED	B-noun.attribute	
+
+#id=9
+#text=Brøndbyer blevet den lukkede klub , der spekulerer stort uden for banen og småt indenfor .
+9-1	Brøndby	B-noun.institution	
+9-2	er	O	
+9-3	blevet	B-verb.change	
+9-4	den	O	
+9-5	lukkede	B-adj.all	
+9-6	klub	B-noun.institution	
+9-7	,	O	
+9-8	der	O	
+9-9	spekulerer	B-verb.cognition	
+9-10	stort	O	
+9-11	uden	O	
+9-12	for	O	
+9-13	banen	B-noun.location	
+9-14	og	O	
+9-15	småt	O	
+9-16	indenfor	O	
+9-17	.	O	
+
+#id=10
+#text=Sidsteuges juridisk pletfri , men moralsk diskutable " magtovertagelse " af Per Pedersen styrker næppe Brøndbys trængte image , men vil uvægerlig skærpe mistilliden til den blågule Superliga-supermagt  .
+10-1	Sidste	B-adj.time	
+10-2	uges	B-noun.time	
+10-3	juridisk	O	
+10-4	pletfri	B-adj.social	
+10-5	,	O	
+10-6	men	O	
+10-7	moralsk	O	
+10-8	diskutable	B-adj.social	
+10-9	"	O	
+10-10	magtovertagelse	B-noun.act	
+10-11	"	O	
+10-12	af	O	
+10-13	Per	B-noun.person	
+10-14	Pedersen	I-noun.person	
+10-15	styrker	B-verb.change	
+10-16	næppe	O	
+10-17	Brøndbys	B-noun.institution	
+10-18	trængte	B-adj.all	
+10-19	image	B-noun.attribute	
+10-20	,	O	
+10-21	men	O	
+10-22	vil	O	
+10-23	uvægerlig	O	
+10-24	skærpe	B-verb.change	
+10-25	mistilliden	B-noun.feeling	
+10-26	til	O	
+10-27	den	O	
+10-28	blågule	B-adj.phys	
+10-29	Superliga-supermagt	B-noun.institution	
+10-30	.	O	
+

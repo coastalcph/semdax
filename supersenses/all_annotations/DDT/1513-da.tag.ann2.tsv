@@ -1,0 +1,218 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=PerHenriksen har været med til at starte Skovlunde Golfklub , og derfor blev han valgt til formand . "
+1-1	Per	B-noun.person	
+1-2	Henriksen	I-noun.person	
+1-3	har	O	
+1-4	været	B-verb.stative	
+1-5	med	B-verb.PARTICLE	
+1-6	til	O	
+1-7	at	O	
+1-8	starte	B-verb.act	
+1-9	Skovlunde	B-noun.institution	
+1-10	Golfklub	I-noun.institution	
+1-11	,	O	
+1-12	og	O	
+1-13	derfor	O	
+1-14	blev	O	
+1-15	han	O	
+1-16	valgt	B-verb.communication	
+1-17	til	O	
+1-18	formand	B-noun.person	
+1-19	.	O	
+1-20	"	O	
+
+#id=2
+#text=Citatslut !
+2-1	Citat	B-noun.communication	
+2-2	slut	B-adj.all	
+2-3	!	O	
+
+#id=3
+#text="Det er utroligt , at Per Henriksen kan få sig selv til at fyre de bemærkninger af .
+3-1	"	O	
+3-2	Det	O	
+3-3	er	B-verb.stative	
+3-4	utroligt	B-adj.mental	
+3-5	,	O	
+3-6	at	O	
+3-7	Per	B-noun.person	
+3-8	Henriksen	I-noun.person	
+3-9	kan	O	
+3-10	få	B-verb.act	
+3-11	sig	O	
+3-12	selv	O	
+3-13	til	B-verb.PARTICLE	
+3-14	at	O	
+3-15	fyre	B-verb.communication	
+3-16	de	O	
+3-17	bemærkninger	B-noun.communication	
+3-18	af	B-verb.PARTICLE	
+3-19	.	O	
+
+#id=4
+#text=Forer der noget , han har gjort , så er det at fortsætte med at bygge underskuddet op .
+4-1	For	O	
+4-2	er	B-verb.stative	
+4-3	der	O	
+4-4	noget	O	
+4-5	,	O	
+4-6	han	O	
+4-7	har	O	
+4-8	gjort	B-verb.act	
+4-9	,	O	
+4-10	så	O	
+4-11	er	B-verb.stative	
+4-12	det	O	
+4-13	at	O	
+4-14	fortsætte	B-verb.aspectual	
+4-15	med	O	
+4-16	at	O	
+4-17	bygge	B-verb.act	
+4-18	underskuddet	B-noun.quantity	
+4-19	op	B-verb.PARTICLE	
+4-20	.	O	
+
+#id=5
+#text=Oghan har aldrig holdt vore aftaler .
+5-1	Og	O	
+5-2	han	O	
+5-3	har	O	
+5-4	aldrig	O	
+5-5	holdt	B-verb.cognition	
+5-6	vore	O	
+5-7	aftaler	B-noun.communication	
+5-8	.	O	
+
+#id=6
+#text=Jegvil helt klart opfordre fremtidige trænere i BMS til at forlange en bankgaranti .
+6-1	Jeg	O	
+6-2	vil	O	
+6-3	helt	O	
+6-4	klart	O	
+6-5	opfordre	B-verb.communication	
+6-6	fremtidige	B-adj.time	
+6-7	trænere	B-noun.person	
+6-8	i	O	
+6-9	BMS	B-noun.institution	
+6-10	til	O	
+6-11	at	O	
+6-12	forlange	B-verb.communication	
+6-13	en	O	
+6-14	bankgaranti	B-noun.communication	
+6-15	.	O	
+
+#id=7
+#text=Alleredetidligt sidste år sagde jeg til Per Henriksen , at jeg gerne ville stoppe med en måneds varsel .
+7-1	Allerede	O	
+7-2	tidligt	O	
+7-3	sidste	B-adj.time	
+7-4	år	B-noun.time	
+7-5	sagde	B-verb.communication	
+7-6	jeg	O	
+7-7	til	O	
+7-8	Per	B-noun.person	
+7-9	Henriksen	I-noun.person	
+7-10	,	O	
+7-11	at	O	
+7-12	jeg	O	
+7-13	gerne	O	
+7-14	ville	O	
+7-15	stoppe	B-verb.act	
+7-16	med	O	
+7-17	en	O	
+7-18	måneds	B-noun.time	
+7-19	varsel	B-noun.communication	
+7-20	.	O	
+
+#id=8
+#text=Forpå det tidspunkt havde jeg store problemer med at få mine penge .
+8-1	For	O	
+8-2	på	O	
+8-3	det	O	
+8-4	tidspunkt	B-noun.time	
+8-5	havde	B-verb.stative	
+8-6	jeg	O	
+8-7	store	B-adj.all	
+8-8	problemer	B-noun.abstract	
+8-9	med	O	
+8-10	at	O	
+8-11	få	B-verb.possession	
+8-12	mine	O	
+8-13	penge	B-noun.artifact	
+8-14	.	O	
+
+#id=9
+#text=Jegfik blot besked om , at der overhovedet ikke var nogen problemer .
+9-1	Jeg	O	
+9-2	fik	B-verb.communication	
+9-3	blot	O	
+9-4	besked	B-verb.COLL	
+9-5	om	O	
+9-6	,	O	
+9-7	at	O	
+9-8	der	O	
+9-9	overhovedet	O	
+9-10	ikke	O	
+9-11	var	B-verb.stative	
+9-12	nogen	O	
+9-13	problemer	B-noun.abstract	
+9-14	.	O	
+
+#id=10
+#text=Løfterneom bonus har jeg heller aldrig fået svar på , hvor bare en undskyldning kunne have gjort underværker , " understreger Peter Freil .
+10-1	Løfterne	B-noun.communication	
+10-2	om	O	
+10-3	bonus	B-noun.quantity	
+10-4	har	O	
+10-5	jeg	O	
+10-6	heller	O	
+10-7	aldrig	O	
+10-8	fået	B-verb.communication	
+10-9	svar	B-verb.COLL	
+10-10	på	O	
+10-11	,	O	
+10-12	hvor	O	
+10-13	bare	O	
+10-14	en	O	
+10-15	undskyldning	B-noun.communication	
+10-16	kunne	O	
+10-17	have	O	
+10-18	gjort	B-verb.change	
+10-19	underværker	B-verb.COLL	
+10-20	,	O	
+10-21	"	O	
+10-22	understreger	B-verb.communication	
+10-23	Peter	B-noun.person	
+10-24	Freil	I-noun.person	
+10-25	.	O	
+
+#id=11
+#text=TVANGSAKKORD
+11-1	TVANGSAKKORD	B-noun.communication	
+
+#id=12
+#text=BMSforsøger nu at få en tvangsakkord stablet på benene , men flere personer spænder i øjeblikket ben for den plan .
+12-1	BMS	B-noun.person	
+12-2	forsøger	B-verb.act	
+12-3	nu	O	
+12-4	at	O	
+12-5	få	B-verb.act	
+12-6	en	O	
+12-7	tvangsakkord	B-noun.communication	
+12-8	stablet	B-verb.COLL	
+12-9	på	B-verb.COLL	
+12-10	benene	B-verb.COLL	
+12-11	,	O	
+12-12	men	O	
+12-13	flere	O	
+12-14	personer	B-noun.person	
+12-15	spænder	B-verb.act	
+12-16	i	O	
+12-17	øjeblikket	B-noun.time	
+12-18	ben	B-verb.COLL	
+12-19	for	O	
+12-20	den	O	
+12-21	plan	B-noun.cognition	
+12-22	.	O	
+

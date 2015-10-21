@@ -1,0 +1,224 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=FamilienKnudsen i landsbyen Akkerup ved Assens var lamslåede øjenvidner til en tragisk flyulykke søndag middag , hvor tre omkom .
+1-1	Familien	B-noun.person	
+1-2	Knudsen	I-noun.person	
+1-3	i	O	
+1-4	landsbyen	B-noun.location	
+1-5	Akkerup	B-noun.location	
+1-6	ved	O	
+1-7	Assens	B-noun.location	
+1-8	var	B-verb.stative	
+1-9	lamslåede	B-adj.mental	
+1-10	øjenvidner	B-noun.person	
+1-11	til	O	
+1-12	en	O	
+1-13	tragisk	B-adj.all	
+1-14	flyulykke	B-noun.phenomenon	
+1-15	søndag	B-noun.time	
+1-16	middag	B-noun.time	
+1-17	,	O	
+1-18	hvor	O	
+1-19	tre	O	
+1-20	omkom	B-verb.phenomenon	
+1-21	.	O	
+
+#id=2
+#text=Dedræbte er den 42-årige Palle Kreiberg-Nielsen , Tommerup , og Kim Scavenius Johnsen , 32 , Tommerup , samt Palle Kreiberg-Nielsens veninde , Inger Agnes Mandrup Flindtgaard , 54 , Slangerup .
+2-1	De	O	
+2-2	dræbte	B-adj.phys	
+2-3	er	B-verb.stative	
+2-4	den	O	
+2-5	42-årige	B-adj.time	
+2-6	Palle	B-noun.person	
+2-7	Kreiberg-Nielsen	I-noun.person	
+2-8	,	O	
+2-9	Tommerup	B-noun.location	
+2-10	,	O	
+2-11	og	O	
+2-12	Kim	B-noun.person	
+2-13	Scavenius	I-noun.person	
+2-14	Johnsen	I-noun.person	
+2-15	,	O	
+2-16	32	O	
+2-17	,	O	
+2-18	Tommerup	B-noun.location	
+2-19	,	O	
+2-20	samt	O	
+2-21	Palle	B-noun.person	
+2-22	Kreiberg-Nielsens	I-noun.person	
+2-23	veninde	B-noun.person	
+2-24	,	O	
+2-25	Inger	B-noun.person	
+2-26	Agnes	I-noun.person	
+2-27	Mandrup	I-noun.person	
+2-28	Flindtgaard	I-noun.person	
+2-29	,	O	
+2-30	54	O	
+2-31	,	O	
+2-32	Slangerup	B-noun.location	
+2-33	.	O	
+
+#id=3
+#text=PalleKreiberg var lærer , men i sin fritid arbejdede han som luftfotograf med firmanavnet Gy-Kort .
+3-1	Palle	B-noun.person	
+3-2	Kreiberg	I-noun.person	
+3-3	var	B-verb.stative	
+3-4	lærer	B-noun.person	
+3-5	,	O	
+3-6	men	O	
+3-7	i	O	
+3-8	sin	O	
+3-9	fritid	B-noun.time	
+3-10	arbejdede	B-verb.social	
+3-11	han	O	
+3-12	som	O	
+3-13	luftfotograf	B-noun.person	
+3-14	med	O	
+3-15	firmanavnet	B-noun.attribute	
+3-16	Gy-Kort	B-noun.communication	
+3-17	.	O	
+
+#id=4
+#text=I_lørdagsringede han til Birthe Knudsen , 40 , der kendte Palle Kreiberg en smule gennem sit virke som kunstner .
+4-1	I_lørdags	B-noun.time	
+4-2	ringede	B-verb.communication	
+4-3	han	O	
+4-4	til	O	
+4-5	Birthe	B-noun.person	
+4-6	Knudsen	I-noun.person	
+4-7	,	O	
+4-8	40	O	
+4-9	,	O	
+4-10	der	O	
+4-11	kendte	B-verb.cognition	
+4-12	Palle	B-noun.person	
+4-13	Kreiberg	I-noun.person	
+4-14	en	O	
+4-15	smule	B-noun.quantity	
+4-16	gennem	O	
+4-17	sit	O	
+4-18	virke	B-noun.act	
+4-19	som	O	
+4-20	kunstner	B-noun.person	
+4-21	.	O	
+
+#id=5
+#text=PalleKreiberg spurgte , om hun var interesseret i et billede af sit barndomshjem , og da hun svarede bekræftende , aftalte de , at flyet skulle komme forbi søndag ved frokosttid .
+5-1	Palle	B-noun.person	
+5-2	Kreiberg	I-noun.person	
+5-3	spurgte	B-verb.communication	
+5-4	,	O	
+5-5	om	O	
+5-6	hun	O	
+5-7	var	B-verb.stative	
+5-8	interesseret	B-adj.mental	
+5-9	i	O	
+5-10	et	O	
+5-11	billede	B-noun.object	
+5-12	af	O	
+5-13	sit	O	
+5-14	barndomshjem	B-noun.building	
+5-15	,	O	
+5-16	og	O	
+5-17	da	O	
+5-18	hun	O	
+5-19	svarede	B-verb.communication	
+5-20	bekræftende	B-adj.all	
+5-21	,	O	
+5-22	aftalte	B-verb.communication	
+5-23	de	O	
+5-24	,	O	
+5-25	at	O	
+5-26	flyet	B-noun.vehicle	
+5-27	skulle	O	
+5-28	komme	B-verb.motion	
+5-29	forbi	B-verb.COLL	
+5-30	søndag	B-noun.time	
+5-31	ved	O	
+5-32	frokosttid	B-noun.time	
+5-33	.	O	
+
+#id=6
+#text="Jeg stod i en bæk og vaskede mine støvler efter noget havearbejde , da jeg så maskinen komme .
+6-1	"	O	
+6-2	Jeg	O	
+6-3	stod	B-verb.stative	
+6-4	i	O	
+6-5	en	O	
+6-6	bæk	B-noun.location	
+6-7	og	O	
+6-8	vaskede	B-verb.contact	
+6-9	mine	O	
+6-10	støvler	B-noun.artifact	
+6-11	efter	O	
+6-12	noget	O	
+6-13	havearbejde	B-noun.act	
+6-14	,	O	
+6-15	da	O	
+6-16	jeg	O	
+6-17	så	B-verb.perception	
+6-18	maskinen	B-noun.vehicle	
+6-19	komme	B-verb.motion	
+6-20	.	O	
+
+#id=7
+#text=Deter utroligt , at de kan flyve så lavt og så langsomt , tænkte jeg , " fortæller Christian Knudsen , 71 , pensioneret ingeniør .
+7-1	Det	O	
+7-2	er	B-verb.stative	
+7-3	utroligt	B-adj.all	
+7-4	,	O	
+7-5	at	O	
+7-6	de	O	
+7-7	kan	O	
+7-8	flyve	B-verb.motion	
+7-9	så	O	
+7-10	lavt	B-adj.phys	
+7-11	og	O	
+7-12	så	O	
+7-13	langsomt	B-adj.phys	
+7-14	,	O	
+7-15	tænkte	B-verb.cognition	
+7-16	jeg	O	
+7-17	,	O	
+7-18	"	O	
+7-19	fortæller	B-verb.communication	
+7-20	Christian	B-noun.person	
+7-21	Knudsen	I-noun.person	
+7-22	,	O	
+7-23	71	O	
+7-24	,	O	
+7-25	pensioneret	B-adj.social	
+7-26	ingeniør	B-noun.person	
+7-27	.	O	
+
+#id=8
+#text=KURSMOD BUSKE
+8-1	KURS	B-noun.location	
+8-2	MOD	O	
+8-3	BUSKE	B-noun.plant	
+
+#id=9
+#text=Detet-motorede Cessna 172 fly med plads til fire personer havde da retning mod en række fire meter høje buske .
+9-1	Det	O	
+9-2	et-motorede	B-adj.phys	
+9-3	Cessna	B-noun.vehicle	
+9-4	172	I-noun.vehicle	
+9-5	fly	I-noun.vehicle	
+9-6	med	O	
+9-7	plads	B-noun.location	
+9-8	til	O	
+9-9	fire	O	
+9-10	personer	B-noun.person	
+9-11	havde	B-verb.phenomenon	
+9-12	da	O	
+9-13	retning	B-noun.location	
+9-14	mod	O	
+9-15	en	O	
+9-16	række	B-noun.group	
+9-17	fire	O	
+9-18	meter	B-noun.quantity	
+9-19	høje	B-adj.phys	
+9-20	buske	B-noun.plant	
+9-21	.	O	
+

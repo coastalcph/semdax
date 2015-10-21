@@ -1,0 +1,204 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text="Jeg har hele tiden kuldegysninger ned ad ryggen .
+1-1	"	O	
+1-2	Jeg	O	
+1-3	har	B-verb.stative	
+1-4	hele	O	
+1-5	tiden	O	
+1-6	kuldegysninger	B-noun.phenomenon	
+1-7	ned	O	
+1-8	ad	O	
+1-9	ryggen	B-noun.body	
+1-10	.	O	
+
+#id=2
+#text=Jegfrygter , der er mange dræbte , " sagde en talsmand for politiet , Klaaf Wilting .
+2-1	Jeg	O	
+2-2	frygter	B-verb.emotion	
+2-3	,	O	
+2-4	der	O	
+2-5	er	B-verb.stative	
+2-6	mange	O	
+2-7	dræbte	B-adj.phys	
+2-8	,	O	
+2-9	"	O	
+2-10	sagde	B-verb.communication	
+2-11	en	O	
+2-12	talsmand	B-noun.person	
+2-13	for	O	
+2-14	politiet	B-noun.institution	
+2-15	,	O	
+2-16	Klaaf	B-noun.person	
+2-17	Wilting	I-noun.person	
+2-18	.	O	
+
+#id=3
+#text=Ulykkenfandt sted i spisetiden ca. 18.45 i_aftes , kort efter at El-Al-flyet med tre besætningsmedlemmer og en kvindelig passager om_bord lettede fra Amsterdams Schiphol lufthavn .
+3-1	Ulykken	B-noun.phenomenon	
+3-2	fandt	B-verb.phenomenon	
+3-3	sted	B-verb.COLL	
+3-4	i	O	
+3-5	spisetiden	B-noun.time	
+3-6	ca.	O	
+3-7	18.45	O	
+3-8	i_aftes	B-noun.time	
+3-9	,	O	
+3-10	kort	O	
+3-11	efter	O	
+3-12	at	O	
+3-13	El-Al-flyet	B-noun.vehicle	
+3-14	med	O	
+3-15	tre	O	
+3-16	besætningsmedlemmer	B-noun.person	
+3-17	og	O	
+3-18	en	O	
+3-19	kvindelig	B-adj.all	
+3-20	passager	B-noun.person	
+3-21	om_bord	O	
+3-22	lettede	B-verb.motion	
+3-23	fra	O	
+3-24	Amsterdams	B-noun.location	
+3-25	Schiphol	B-noun.location	
+3-26	lufthavn	I-noun.location	
+3-27	.	O	
+
+#id=4
+#text=Pilotenmeddelte pludselig kontroltårnet , at han havde motorproblemer og var tvunget til at vende om for at nødlande i Schiphol .
+4-1	Piloten	B-noun.person	
+4-2	meddelte	B-verb.communication	
+4-3	pludselig	O	
+4-4	kontroltårnet	B-noun.person	
+4-5	,	O	
+4-6	at	O	
+4-7	han	O	
+4-8	havde	B-verb.stative	
+4-9	motorproblemer	B-noun.abstract	
+4-10	og	O	
+4-11	var	B-verb.stative	
+4-12	tvunget	B-verb.stative	
+4-13	til	O	
+4-14	at	O	
+4-15	vende	B-verb.motion	
+4-16	om	B-verb.PARTICLE	
+4-17	for	O	
+4-18	at	O	
+4-19	nødlande	B-verb.motion	
+4-20	i	O	
+4-21	Schiphol	B-noun.location	
+4-22	.	O	
+
+#id=5
+#text="Jeg så flyet med næsen pegende nedad , venstre vinge op og højre vinge ned ovre bag den flade bygning .
+5-1	"	O	
+5-2	Jeg	O	
+5-3	så	B-verb.perception	
+5-4	flyet	B-noun.vehicle	
+5-5	med	O	
+5-6	næsen	B-noun.artifact	
+5-7	pegende	B-adj.phys	
+5-8	nedad	O	
+5-9	,	O	
+5-10	venstre	B-adj.phys	
+5-11	vinge	B-noun.artifact	
+5-12	op	O	
+5-13	og	O	
+5-14	højre	B-adj.phys	
+5-15	vinge	B-noun.artifact	
+5-16	ned	O	
+5-17	ovre	O	
+5-18	bag	O	
+5-19	den	O	
+5-20	flade	B-adj.phys	
+5-21	bygning	B-noun.building	
+5-22	.	O	
+
+#id=6
+#text=Detrøg ud af motorerne .
+6-1	Det	O	
+6-2	røg	B-verb.phenomenon	
+6-3	ud	O	
+6-4	af	O	
+6-5	motorerne	B-noun.artifact	
+6-6	.	O	
+
+#id=7
+#text=Pilotenforsøgte at rette maskinen op - så kunne jeg ikke se mere , men pludselig var der gnister i luften , " siger øjenvidnet Peter de Neef .
+7-1	Piloten	B-noun.person	
+7-2	forsøgte	B-verb.act	
+7-3	at	O	
+7-4	rette	B-verb.act	
+7-5	maskinen	B-noun.vehicle	
+7-6	op	B-verb.PARTICLE	
+7-7	-	O	
+7-8	så	O	
+7-9	kunne	O	
+7-10	jeg	O	
+7-11	ikke	O	
+7-12	se	B-verb.perception	
+7-13	mere	O	
+7-14	,	O	
+7-15	men	O	
+7-16	pludselig	O	
+7-17	var	O	
+7-18	der	O	
+7-19	gnister	B-noun.object	
+7-20	i	O	
+7-21	luften	B-noun.location	
+7-22	,	O	
+7-23	"	O	
+7-24	siger	B-verb.communication	
+7-25	øjenvidnet	B-noun.person	
+7-26	Peter	B-noun.person	
+7-27	de	I-noun.person	
+7-28	Neef	I-noun.person	
+7-29	.	O	
+
+#id=8
+#text=ISchiphol lufthavnen fulgte fly-ledelsen i kontroltårnet med rædsel den dramatiske udvikling .
+8-1	I	O	
+8-2	Schiphol	B-noun.location	
+8-3	lufthavnen	I-noun.location	
+8-4	fulgte	B-verb.cognition	
+8-5	fly-ledelsen	B-noun.person	
+8-6	i	O	
+8-7	kontroltårnet	B-noun.building	
+8-8	med	O	
+8-9	rædsel	B-noun.feeling	
+8-10	den	O	
+8-11	dramatiske	B-adj.all	
+8-12	udvikling	B-noun.phenomenon	
+8-13	.	O	
+
+#id=9
+#text="De kunne se en kæmpe ildkugle , " siger en ansat fra det hollandske luftfartsselskab , KLM .
+9-1	"	O	
+9-2	De	O	
+9-3	kunne	O	
+9-4	se	B-verb.perception	
+9-5	en	O	
+9-6	kæmpe	B-adj.phys	
+9-7	ildkugle	B-noun.object	
+9-8	,	O	
+9-9	"	O	
+9-10	siger	B-verb.communication	
+9-11	en	O	
+9-12	ansat	B-noun.person	
+9-13	fra	O	
+9-14	det	O	
+9-15	hollandske	B-adj.social	
+9-16	luftfartsselskab	B-noun.institution	
+9-17	,	O	
+9-18	KLM	B-noun.institution	
+9-19	.	O	
+
+#id=10
+#text=Årsagentil motor-problemerne var ukendt i_nat .
+10-1	Årsagen	B-noun.abstract	
+10-2	til	O	
+10-3	motor-problemerne	B-noun.abstract	
+10-4	var	B-verb.stative	
+10-5	ukendt	B-adj.all	
+10-6	i_nat	B-noun.time	
+10-7	.	O	
+

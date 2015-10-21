@@ -1,0 +1,216 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=KOLDING: Så er den koldingensiske bilsælger Christian Christensen igen klar til at tage kampen op med partisanerne i Guatamalas jungle .
+1-1	KOLDING	B-noun.location	
+1-2	:	O	
+1-3	Så	O	
+1-4	er	O	
+1-5	den	O	
+1-6	koldingensiske	B-adj.social	
+1-7	bilsælger	B-noun.person	
+1-8	Christian	B-noun.person	
+1-9	Christensen	I-noun.person	
+1-10	igen	O	
+1-11	klar	B-adj.all	
+1-12	til	O	
+1-13	at	O	
+1-14	tage	B-verb.act	
+1-15	kampen	B-noun.act	
+1-16	op	B-verb.PARTICLE	
+1-17	med	O	
+1-18	partisanerne	B-noun.person	
+1-19	i	O	
+1-20	Guatamalas	B-noun.location	
+1-21	jungle	B-noun.location	
+1-22	.	O	
+
+#id=2
+#text=Dennegang i følgeskab med Jørn Middelhede , ligeledes fra Kolding .
+2-1	Denne	O	
+2-2	gang	B-noun.abstract	
+2-3	i	O	
+2-4	følgeskab	B-noun.relation	
+2-5	med	O	
+2-6	Jørn	B-noun.person	
+2-7	Middelhede	I-noun.person	
+2-8	,	O	
+2-9	ligeledes	O	
+2-10	fra	O	
+2-11	Kolding	B-noun.location	
+2-12	.	O	
+
+#id=3
+#text="Målet er en bestemt grotte , hvor Maya-indianerne har malet inskriptioner på væggen , " fortæller Christian Christensen , som rejser fra Billund til Guatamala på tirsdag .
+3-1	"	O	
+3-2	Målet	B-noun.motive	
+3-3	er	B-verb.stative	
+3-4	en	O	
+3-5	bestemt	B-adj.all	
+3-6	grotte	B-noun.building	
+3-7	,	O	
+3-8	hvor	O	
+3-9	Maya-indianerne	B-noun.person	
+3-10	har	O	
+3-11	malet	B-verb.creation	
+3-12	inskriptioner	B-noun.communication	
+3-13	på	O	
+3-14	væggen	B-noun.building	
+3-15	,	O	
+3-16	"	O	
+3-17	fortæller	B-verb.communication	
+3-18	Christian	B-noun.person	
+3-19	Christensen	I-noun.person	
+3-20	,	O	
+3-21	som	O	
+3-22	rejser	B-verb.motion	
+3-23	fra	O	
+3-24	Billund	B-noun.location	
+3-25	til	O	
+3-26	Guatamala	B-noun.location	
+3-27	på	O	
+3-28	tirsdag	B-noun.time	
+3-29	.	O	
+
+#id=4
+#text=Sammemål havde han for to år siden sammen med rejsekammeraten Jan Højrup Nielsen , men ambitionerne måtte  opgives .
+4-1	Samme	O	
+4-2	mål	B-noun.motive	
+4-3	havde	B-verb.cognition	
+4-4	han	O	
+4-5	for	O	
+4-6	to	O	
+4-7	år	B-noun.time	
+4-8	siden	O	
+4-9	sammen	O	
+4-10	med	O	
+4-11	rejsekammeraten	B-noun.person	
+4-12	Jan	B-noun.person	
+4-13	Højrup	I-noun.person	
+4-14	Nielsen	I-noun.person	
+4-15	,	O	
+4-16	men	O	
+4-17	ambitionerne	B-noun.feeling	
+4-18	måtte	O	
+4-19	opgives	B-verb.cognition	
+4-20	.	O	
+
+#id=5
+#text="Af hensyn til vores egen sikkerhed .
+5-1	"	O	
+5-2	Af	O	
+5-3	hensyn	B-noun.cognition	
+5-4	til	O	
+5-5	vores	O	
+5-6	egen	O	
+5-7	sikkerhed	B-noun.phenomenon	
+5-8	.	O	
+
+#id=6
+#text=Detvar dødspatruljerne , som havde den reelle magt i området , " fortæller Christian Christensen .
+6-1	Det	O	
+6-2	var	B-verb.stative	
+6-3	dødspatruljerne	B-noun.person	
+6-4	,	O	
+6-5	som	O	
+6-6	havde	B-verb.social	
+6-7	den	O	
+6-8	reelle	B-adj.social	
+6-9	magt	B-noun.phenomenon	
+6-10	i	O	
+6-11	området	B-noun.location	
+6-12	,	O	
+6-13	"	O	
+6-14	fortæller	B-verb.communication	
+6-15	Christian	B-noun.person	
+6-16	Christensen	I-noun.person	
+6-17	.	O	
+
+#id=7
+#text=Hanfik selv beviset , da han kom til Guatamala .
+7-1	Han	O	
+7-2	fik	B-verb.phenomenon	
+7-3	selv	O	
+7-4	beviset	B-noun.abstract	
+7-5	,	O	
+7-6	da	O	
+7-7	han	O	
+7-8	kom	B-verb.motion	
+7-9	til	O	
+7-10	Guatamala	B-noun.location	
+7-11	.	O	
+
+#id=8
+#text=Etpar uger tidligere var hans meget gode ven , den amerikanske arkæolog Mike de Vine , blevet fundet dræbt .
+8-1	Et	O	
+8-2	par	B-noun.quantity	
+8-3	uger	B-noun.time	
+8-4	tidligere	O	
+8-5	var	O	
+8-6	hans	O	
+8-7	meget	O	
+8-8	gode	B-adj.all	
+8-9	ven	B-noun.person	
+8-10	,	O	
+8-11	den	O	
+8-12	amerikanske	B-adj.social	
+8-13	arkæolog	B-noun.person	
+8-14	Mike	B-noun.person	
+8-15	de	I-noun.person	
+8-16	Vine	I-noun.person	
+8-17	,	O	
+8-18	blevet	O	
+8-19	fundet	B-verb.phenomenon	
+8-20	dræbt	B-adj.phys	
+8-21	.	O	
+
+#id=9
+#text=Denene dag blev han bortført , og næste dag blev han fundet med halsen skåret halvt over .
+9-1	Den	O	
+9-2	ene	B-adj.all	
+9-3	dag	B-noun.time	
+9-4	blev	O	
+9-5	han	O	
+9-6	bortført	B-verb.motion	
+9-7	,	O	
+9-8	og	O	
+9-9	næste	B-adj.time	
+9-10	dag	B-noun.time	
+9-11	blev	O	
+9-12	han	O	
+9-13	fundet	B-verb.phenomenon	
+9-14	med	O	
+9-15	halsen	B-noun.body	
+9-16	skåret	B-verb.contact	
+9-17	halvt	O	
+9-18	over	O	
+9-19	.	O	
+
+#id=10
+#text="Hverken militær eller politi gjorde noget .
+10-1	"	O	
+10-2	Hverken	O	
+10-3	militær	B-noun.person	
+10-4	eller	O	
+10-5	politi	B-noun.person	
+10-6	gjorde	B-verb.act	
+10-7	noget	O	
+10-8	.	O	
+
+#id=11
+#text=Dengang kunne man købe en lejemorder for 75 kr. , "  fortæller bilsælgeren .
+11-1	Den	O	
+11-2	gang	O	
+11-3	kunne	O	
+11-4	man	O	
+11-5	købe	B-verb.possession	
+11-6	en	O	
+11-7	lejemorder	B-noun.person	
+11-8	for	O	
+11-9	75	O	
+11-10	kr.	B-noun.quantity	
+11-11	,	O	
+11-12	"	O	
+11-13	fortæller	B-verb.communication	
+11-14	bilsælgeren	B-noun.person	
+11-15	.	O	
+

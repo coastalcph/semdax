@@ -1,0 +1,237 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Deter de store multi-nationale selskabers danske afdelinger , der bruger millioner på TV-2-spots .
+1-1	Det	O	
+1-2	er	B-verb.stative	
+1-3	de	O	
+1-4	store	B-adj.all	
+1-5	multi-nationale	B-adj.social	
+1-6	selskabers	B-noun.institution	
+1-7	danske	B-adj.social	
+1-8	afdelinger	B-noun.institution	
+1-9	,	O	
+1-10	der	O	
+1-11	bruger	B-verb.act	
+1-12	millioner	B-noun.quantity	
+1-13	på	O	
+1-14	TV-2-spots	B-noun.communication	
+1-15	.	O	
+
+#id=2
+#text=ABBA" Gold " har været massivt annonceret på tv , ligesom AC/DC og andre " greatest hits " bliver det .
+2-1	ABBA	B-noun.person	
+2-2	"	O	
+2-3	Gold	B-noun.communication	
+2-4	"	O	
+2-5	har	O	
+2-6	været	O	
+2-7	massivt	O	
+2-8	annonceret	B-verb.communication	
+2-9	på	O	
+2-10	tv	B-noun.communication	
+2-11	,	O	
+2-12	ligesom	O	
+2-13	AC/DC	B-noun.person	
+2-14	og	O	
+2-15	andre	O	
+2-16	"	O	
+2-17	greatest	B-noun.communication	
+2-18	hits	I-noun.communication	
+2-19	"	O	
+2-20	bliver	B-verb.stative	
+2-21	det	O	
+2-22	.	O	
+
+#id=3
+#text="Jeg tror tv-annonce-kampagner skader dansk rock meget .
+3-1	"	O	
+3-2	Jeg	O	
+3-3	tror	B-verb.cognition	
+3-4	tv-annonce-kampagner	B-noun.communication	
+3-5	skader	B-verb.change	
+3-6	dansk	B-adj.social	
+3-7	rock	B-noun.domain	
+3-8	meget	O	
+3-9	.	O	
+
+#id=4
+#text=Vived af erfaring , at der er en stor gruppe publikum , der blot køber tre-fire plader om året .
+4-1	Vi	O	
+4-2	ved	B-verb.cognition	
+4-3	af	O	
+4-4	erfaring	B-noun.cognition	
+4-5	,	O	
+4-6	at	O	
+4-7	der	O	
+4-8	er	B-verb.stative	
+4-9	en	O	
+4-10	stor	B-adj.phys	
+4-11	gruppe	B-noun.person	
+4-12	publikum	B-noun.person	
+4-13	,	O	
+4-14	der	O	
+4-15	blot	O	
+4-16	køber	B-verb.possession	
+4-17	tre-fire	O	
+4-18	plader	B-noun.artifact	
+4-19	om	O	
+4-20	året	B-noun.time	
+4-21	.	O	
+
+#id=5
+#text=Oghvor de tidligere måske købte Kim Larsen , Anne Linnet , TV-2 , køber  de nu , hvad de ser reklamer for på tv , " siger Stefan Fryland , formand for pladeselskabernes sammenslutning IFPI .
+5-1	Og	O	
+5-2	hvor	O	
+5-3	de	O	
+5-4	tidligere	B-adj.time	
+5-5	måske	O	
+5-6	købte	B-verb.possession	
+5-7	Kim	B-noun.person	
+5-8	Larsen	I-noun.person	
+5-9	,	O	
+5-10	Anne	B-noun.person	
+5-11	Linnet	I-noun.person	
+5-12	,	O	
+5-13	TV-2	B-noun.person	
+5-14	,	O	
+5-15	køber	B-verb.possession	
+5-16	de	O	
+5-17	nu	O	
+5-18	,	O	
+5-19	hvad	O	
+5-20	de	O	
+5-21	ser	B-verb.perception	
+5-22	reklamer	B-noun.communication	
+5-23	for	O	
+5-24	på	O	
+5-25	tv	B-noun.communication	
+5-26	,	O	
+5-27	"	O	
+5-28	siger	B-verb.communication	
+5-29	Stefan	B-noun.person	
+5-30	Fryland	I-noun.person	
+5-31	,	O	
+5-32	formand	B-noun.person	
+5-33	for	O	
+5-34	pladeselskabernes	B-noun.institution	
+5-35	sammenslutning	I-noun.institution	
+5-36	IFPI	B-noun.institution	
+5-37	.	O	
+
+#id=6
+#text=MenFryland er også direktør for Polygram - et af de selskaber , der tv-annoncerer mest massivt med opsam lings-plader , hvilket godt kan blotte hans udtalelse for god vilje .
+6-1	Men	O	
+6-2	Fryland	B-noun.person	
+6-3	er	B-verb.stative	
+6-4	også	O	
+6-5	direktør	B-noun.person	
+6-6	for	O	
+6-7	Polygram	B-noun.institution	
+6-8	-	O	
+6-9	et	O	
+6-10	af	O	
+6-11	de	O	
+6-12	selskaber	B-noun.institution	
+6-13	,	O	
+6-14	der	O	
+6-15	tv-annoncerer	B-verb.communication	
+6-16	mest	O	
+6-17	massivt	O	
+6-18	med	O	
+6-19	opsam	B-noun.communication	
+6-20	lings-plader	I-noun.communication	
+6-21	,	O	
+6-22	hvilket	O	
+6-23	godt	O	
+6-24	kan	O	
+6-25	blotte	B-verb.phenomenon	
+6-26	hans	O	
+6-27	udtalelse	B-noun.communication	
+6-28	for	O	
+6-29	god	B-adj.all	
+6-30	vilje	B-noun.feeling	
+6-31	.	O	
+
+#id=7
+#text="Jeg er klar over , at jeg har to kasketter og to regnestykker i den sag .
+7-1	"	O	
+7-2	Jeg	O	
+7-3	er	B-verb.cognition	
+7-4	klar	B-verb.COLL	
+7-5	over	B-verb.COLL	
+7-6	,	O	
+7-7	at	O	
+7-8	jeg	O	
+7-9	har	B-verb.possession	
+7-10	to	O	
+7-11	kasketter	B-noun.artifact	
+7-12	og	O	
+7-13	to	O	
+7-14	regnestykker	B-noun.cognition	
+7-15	i	O	
+7-16	den	O	
+7-17	sag	B-noun.abstract	
+7-18	.	O	
+
+#id=8
+#text=Mendet er også min helt personlige mening , at tv-spots er skadelige , " siger han .
+8-1	Men	O	
+8-2	det	O	
+8-3	er	B-verb.stative	
+8-4	også	O	
+8-5	min	O	
+8-6	helt	O	
+8-7	personlige	B-adj.social	
+8-8	mening	B-noun.feeling	
+8-9	,	O	
+8-10	at	O	
+8-11	tv-spots	B-noun.communication	
+8-12	er	B-verb.stative	
+8-13	skadelige	B-adj.all	
+8-14	,	O	
+8-15	"	O	
+8-16	siger	B-verb.communication	
+8-17	han	O	
+8-18	.	O	
+
+#id=9
+#text=Derfindes ikke opgørelser over , hvor mange millioner kroner pladebranchen kaster ud i tv-kampagner .
+9-1	Der	O	
+9-2	findes	B-verb.stative	
+9-3	ikke	O	
+9-4	opgørelser	B-noun.communication	
+9-5	over	O	
+9-6	,	O	
+9-7	hvor	O	
+9-8	mange	O	
+9-9	millioner	B-noun.quantity	
+9-10	kroner	B-noun.artifact	
+9-11	pladebranchen	B-noun.institution	
+9-12	kaster	B-verb.possession	
+9-13	ud	O	
+9-14	i	O	
+9-15	tv-kampagner	B-noun.communication	
+9-16	.	O	
+
+#id=10
+#text=Menflere mener , at det maner til eftertanke , at det totale salg alligevel er gået ned .
+10-1	Men	O	
+10-2	flere	O	
+10-3	mener	B-verb.cognition	
+10-4	,	O	
+10-5	at	O	
+10-6	det	O	
+10-7	maner	B-verb.phenomenon	
+10-8	til	O	
+10-9	eftertanke	B-noun.cognition	
+10-10	,	O	
+10-11	at	O	
+10-12	det	O	
+10-13	totale	B-adj.all	
+10-14	salg	B-noun.possession	
+10-15	alligevel	O	
+10-16	er	O	
+10-17	gået	B-verb.change	
+10-18	ned	O	
+10-19	.	O	
+

@@ -1,0 +1,225 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=DASocialdemokratiet gav op i september 1982 var det vel egentlig også mest af taktiske grunde .
+1-1	DA	O	
+1-2	Socialdemokratiet	B-noun.person	
+1-3	gav	B-verb.cognition	
+1-4	op	B-verb.PARTICLE	
+1-5	i	O	
+1-6	september	B-noun.time	
+1-7	1982	B-noun.time	
+1-8	var	B-verb.stative	
+1-9	det	O	
+1-10	vel	O	
+1-11	egentlig	O	
+1-12	også	O	
+1-13	mest	O	
+1-14	af	O	
+1-15	taktiske	B-adj.all	
+1-16	grunde	B-noun.cognition	
+1-17	.	O	
+
+#id=2
+#text=Ihåbet om hurtigt at vende tilbage til regeringsbænkene når firkløverregeringen var kørt fast .
+2-1	I	O	
+2-2	håbet	B-noun.feeling	
+2-3	om	O	
+2-4	hurtigt	O	
+2-5	at	O	
+2-6	vende	B-verb.motion	
+2-7	tilbage	B-verb.COLL	
+2-8	til	O	
+2-9	regeringsbænkene	B-noun.artifact	
+2-10	når	O	
+2-11	firkløverregeringen	B-noun.person	
+2-12	var	O	
+2-13	kørt	B-verb.phenomenon	
+2-14	fast	B-verb.COLL	
+2-15	.	O	
+
+#id=3
+#text=MENendnu en gang var det en skæbnefyldt fejlvurdering af  ledende politikere .
+3-1	MEN	O	
+3-2	endnu	O	
+3-3	en	O	
+3-4	gang	B-noun.abstract	
+3-5	var	B-verb.stative	
+3-6	det	O	
+3-7	en	O	
+3-8	skæbnefyldt	B-adj.all	
+3-9	fejlvurdering	B-noun.cognition	
+3-10	af	O	
+3-11	ledende	B-adj.all	
+3-12	politikere	B-noun.person	
+3-13	.	O	
+
+#id=4
+#text=FIRKLØVERREGERINGENvar ikke en døgnflue .
+4-1	FIRKLØVERREGERINGEN	B-noun.person	
+4-2	var	B-verb.stative	
+4-3	ikke	O	
+4-4	en	O	
+4-5	døgnflue	B-noun.phenomenon	
+4-6	.	O	
+
+#id=5
+#text=Undervisse omstændigheder kunne den såmænd have siddet den dag i_dag .
+5-1	Under	O	
+5-2	visse	O	
+5-3	omstændigheder	B-noun.state	
+5-4	kunne	O	
+5-5	den	O	
+5-6	såmænd	O	
+5-7	have	O	
+5-8	siddet	B-verb.stative	
+5-9	den	O	
+5-10	dag	B-noun.time	
+5-11	i_dag	B-noun.time	
+5-12	.	O	
+
+#id=6
+#text=Deter vel ikke engang udelukket , at den på_ny dukker op .
+6-1	Det	O	
+6-2	er	B-verb.stative	
+6-3	vel	O	
+6-4	ikke	O	
+6-5	engang	O	
+6-6	udelukket	B-adj.all	
+6-7	,	O	
+6-8	at	O	
+6-9	den	O	
+6-10	på_ny	O	
+6-11	dukker	B-verb.phenomenon	
+6-12	op	B-verb.PARTICLE	
+6-13	.	O	
+
+#id=7
+#text=Hvemtør afvise det .
+7-1	Hvem	O	
+7-2	tør	B-verb.emotion	
+7-3	afvise	B-verb.communication	
+7-4	det	O	
+7-5	.	O	
+
+#id=8
+#text=I_hvert_faldblev dens dannelse starten til en ny fase i dansk politik efter anden verdenskrig .
+8-1	I_hvert_fald	O	
+8-2	blev	B-verb.stative	
+8-3	dens	O	
+8-4	dannelse	B-noun.act	
+8-5	starten	B-noun.time	
+8-6	til	O	
+8-7	en	O	
+8-8	ny	B-adj.time	
+8-9	fase	B-noun.time	
+8-10	i	O	
+8-11	dansk	B-adj.social	
+8-12	politik	B-noun.domain	
+8-13	efter	O	
+8-14	anden	B-noun.event	
+8-15	verdenskrig	I-noun.event	
+8-16	.	O	
+
+#id=9
+#text=REGERINGSCHEFENbærer sin store del af æren herfor , men et par andre momenter bør dog også drages frem .
+9-1	REGERINGSCHEFEN	B-noun.person	
+9-2	bærer	B-verb.stative	
+9-3	sin	O	
+9-4	store	B-adj.all	
+9-5	del	B-noun.relation	
+9-6	af	O	
+9-7	æren	B-noun.cognition	
+9-8	herfor	O	
+9-9	,	O	
+9-10	men	O	
+9-11	et	O	
+9-12	par	B-noun.quantity	
+9-13	andre	O	
+9-14	momenter	B-noun.event	
+9-15	bør	O	
+9-16	dog	O	
+9-17	også	O	
+9-18	drages	B-verb.communication	
+9-19	frem	O	
+9-20	.	O	
+
+#id=10
+#text=DEfire partier var enige om mangt og meget , da regeringen blev dannet .
+10-1	DE	O	
+10-2	fire	O	
+10-3	partier	B-noun.person	
+10-4	var	B-verb.stative	
+10-5	enige	B-adj.mental	
+10-6	om	O	
+10-7	mangt	O	
+10-8	og	O	
+10-9	meget	O	
+10-10	,	O	
+10-11	da	O	
+10-12	regeringen	B-noun.person	
+10-13	blev	O	
+10-14	dannet	B-verb.creation	
+10-15	.	O	
+
+#id=11
+#text=Langtmere end dens modstandere havde troet var muligt .
+11-1	Langt	O	
+11-2	mere	O	
+11-3	end	O	
+11-4	dens	O	
+11-5	modstandere	B-noun.person	
+11-6	havde	O	
+11-7	troet	B-verb.cognition	
+11-8	var	B-verb.stative	
+11-9	muligt	B-adj.all	
+11-10	.	O	
+
+#id=12
+#text=Envæsentlig grund hertil var , at vi alle havde en intuitiv fornemmelse af , at regeringens overlevelse ville bero på , om vi havde mod til at spille ud med meget radikale forslag , der afgørende ville ændre forventningerne i befolkningen og i erhvervslivet .
+12-1	En	O	
+12-2	væsentlig	B-adj.all	
+12-3	grund	B-noun.abstract	
+12-4	hertil	O	
+12-5	var	B-verb.stative	
+12-6	,	O	
+12-7	at	O	
+12-8	vi	O	
+12-9	alle	O	
+12-10	havde	B-verb.cognition	
+12-11	en	O	
+12-12	intuitiv	B-adj.all	
+12-13	fornemmelse	B-noun.feeling	
+12-14	af	O	
+12-15	,	O	
+12-16	at	O	
+12-17	regeringens	B-noun.person	
+12-18	overlevelse	B-noun.phenomenon	
+12-19	ville	O	
+12-20	bero	B-verb.stative	
+12-21	på	O	
+12-22	,	O	
+12-23	om	O	
+12-24	vi	O	
+12-25	havde	B-verb.possession	
+12-26	mod	B-noun.feeling	
+12-27	til	O	
+12-28	at	O	
+12-29	spille	B-verb.act	
+12-30	ud	B-verb.PARTICLE	
+12-31	med	O	
+12-32	meget	O	
+12-33	radikale	B-adj.all	
+12-34	forslag	B-noun.communication	
+12-35	,	O	
+12-36	der	O	
+12-37	afgørende	O	
+12-38	ville	O	
+12-39	ændre	B-verb.change	
+12-40	forventningerne	B-noun.cognition	
+12-41	i	O	
+12-42	befolkningen	B-noun.person	
+12-43	og	O	
+12-44	i	O	
+12-45	erhvervslivet	B-noun.institution	
+12-46	.	O	
+

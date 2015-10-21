@@ -1,0 +1,241 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Kurset, som kombinerer tre sanser : syns- , høre- og følesansen , udbydes normalt på Tasteskolen i København , og her har 24 dansklærere fra gymnasiet fået undervisning siden foråret .
+1-1	Kurset	B-noun.event	
+1-2	,	O	
+1-3	som	O	
+1-4	kombinerer	B-verb.phenomenon	
+1-5	tre	O	
+1-6	sanser	B-noun.phenomenon	
+1-7	:	O	
+1-8	syns-	B-noun.phenomenon	
+1-9	,	O	
+1-10	høre-	B-noun.phenomenon	
+1-11	og	O	
+1-12	følesansen	B-noun.phenomenon	
+1-13	,	O	
+1-14	udbydes	B-verb.stative	
+1-15	normalt	O	
+1-16	på	O	
+1-17	Tasteskolen	B-noun.building	
+1-18	i	O	
+1-19	København	B-noun.location	
+1-20	,	O	
+1-21	og	O	
+1-22	her	O	
+1-23	har	O	
+1-24	24	O	
+1-25	dansklærere	B-noun.person	
+1-26	fra	O	
+1-27	gymnasiet	B-noun.institution	
+1-28	fået	B-verb.phenomenon	
+1-29	undervisning	B-noun.communication	
+1-30	siden	O	
+1-31	foråret	B-noun.time	
+1-32	.	O	
+
+#id=2
+#text=Nuvideregiver de talenterne til eleverne - som er vilde med det .
+2-1	Nu	O	
+2-2	videregiver	B-verb.communication	
+2-3	de	O	
+2-4	talenterne	B-noun.attribute	
+2-5	til	O	
+2-6	eleverne	B-noun.person	
+2-7	-	O	
+2-8	som	O	
+2-9	er	B-verb.stative	
+2-10	vilde	B-adj.mental	
+2-11	med	O	
+2-12	det	O	
+2-13	.	O	
+
+#id=3
+#text="Når man begynder at kunne det , er det bare vildt morsomt .
+3-1	"	O	
+3-2	Når	O	
+3-3	man	O	
+3-4	begynder	B-verb.aspectual	
+3-5	at	O	
+3-6	kunne	O	
+3-7	det	O	
+3-8	,	O	
+3-9	er	B-verb.stative	
+3-10	det	O	
+3-11	bare	O	
+3-12	vildt	O	
+3-13	morsomt	B-adj.mental	
+3-14	.	O	
+
+#id=4
+#text=Deter meget nemmere og hurtigere at skrive med ti fingre end med to , " mener Filip Willemoes .
+4-1	Det	O	
+4-2	er	B-verb.stative	
+4-3	meget	O	
+4-4	nemmere	B-adj.all	
+4-5	og	O	
+4-6	hurtigere	B-adj.all	
+4-7	at	O	
+4-8	skrive	B-verb.creation	
+4-9	med	O	
+4-10	ti	O	
+4-11	fingre	B-noun.body	
+4-12	end	O	
+4-13	med	O	
+4-14	to	O	
+4-15	,	O	
+4-16	"	O	
+4-17	mener	B-verb.cognition	
+4-18	Filip	B-noun.person	
+4-19	Willemoes	I-noun.person	
+4-20	.	O	
+
+#id=5
+#text=Haner en af " eksperterne " fra 4. klasse , der allerede har overstået de obligatoriske 25 timers undervisning .
+5-1	Han	O	
+5-2	er	B-verb.stative	
+5-3	en	O	
+5-4	af	O	
+5-5	"	O	
+5-6	eksperterne	B-noun.person	
+5-7	"	O	
+5-8	fra	O	
+5-9	4.	O	
+5-10	klasse	B-noun.relation	
+5-11	,	O	
+5-12	der	O	
+5-13	allerede	O	
+5-14	har	O	
+5-15	overstået	B-verb.act	
+5-16	de	O	
+5-17	obligatoriske	B-adj.all	
+5-18	25	O	
+5-19	timers	B-noun.time	
+5-20	undervisning	B-noun.communication	
+5-21	.	O	
+
+#id=6
+#text="Jeg tænkte , at det her lærer jeg bare ikke .
+6-1	"	O	
+6-2	Jeg	O	
+6-3	tænkte	B-verb.cognition	
+6-4	,	O	
+6-5	at	O	
+6-6	det	O	
+6-7	her	O	
+6-8	lærer	B-verb.cognition	
+6-9	jeg	O	
+6-10	bare	O	
+6-11	ikke	O	
+6-12	.	O	
+
+#id=7
+#text=Jegopgav næsten på forhånd , men efter en uge gik det bedre , " supplerer Ulrik Holst Hansen ; og Marie Louise Løvgren sender en taknemmelig tanke til " benzinen " - det slik , som lærerne delte ud for at holde modet oppe .
+7-1	Jeg	O	
+7-2	opgav	B-verb.act	
+7-3	næsten	O	
+7-4	på	O	
+7-5	forhånd	O	
+7-6	,	O	
+7-7	men	O	
+7-8	efter	O	
+7-9	en	O	
+7-10	uge	B-noun.time	
+7-11	gik	B-verb.stative	
+7-12	det	O	
+7-13	bedre	O	
+7-14	,	O	
+7-15	"	O	
+7-16	supplerer	B-verb.communication	
+7-17	Ulrik	B-noun.person	
+7-18	Holst	I-noun.person	
+7-19	Hansen	I-noun.person	
+7-20	;	O	
+7-21	og	O	
+7-22	Marie	B-noun.person	
+7-23	Louise	I-noun.person	
+7-24	Løvgren	I-noun.person	
+7-25	sender	B-verb.cognition	
+7-26	en	O	
+7-27	taknemmelig	B-adj.mental	
+7-28	tanke	B-noun.cognition	
+7-29	til	O	
+7-30	"	O	
+7-31	benzinen	B-noun.food	
+7-32	"	O	
+7-33	-	O	
+7-34	det	O	
+7-35	slik	B-noun.food	
+7-36	,	O	
+7-37	som	O	
+7-38	lærerne	B-noun.person	
+7-39	delte	B-verb.possession	
+7-40	ud	B-verb.PARTICLE	
+7-41	for	O	
+7-42	at	O	
+7-43	holde	B-verb.stative	
+7-44	modet	B-noun.feeling	
+7-45	oppe	O	
+7-46	.	O	
+
+#id=8
+#text=Lidtforkælelse skulle der være plads til , for " man får kuk i hovedet " af at sidde fra otte til elleve hver morgen i to uger og bare taste de samme bogstav- og talremser .
+8-1	Lidt	O	
+8-2	forkælelse	B-noun.phenomenon	
+8-3	skulle	O	
+8-4	der	O	
+8-5	være	B-verb.stative	
+8-6	plads	B-noun.abstract	
+8-7	til	O	
+8-8	,	O	
+8-9	for	O	
+8-10	"	O	
+8-11	man	O	
+8-12	får	B-verb.possession	
+8-13	kuk	B-noun.phenomenon	
+8-14	i	O	
+8-15	hovedet	B-noun.body	
+8-16	"	O	
+8-17	af	O	
+8-18	at	O	
+8-19	sidde	B-verb.stative	
+8-20	fra	O	
+8-21	otte	O	
+8-22	til	O	
+8-23	elleve	O	
+8-24	hver	O	
+8-25	morgen	B-noun.time	
+8-26	i	O	
+8-27	to	O	
+8-28	uger	B-noun.time	
+8-29	og	O	
+8-30	bare	O	
+8-31	taste	B-verb.contact	
+8-32	de	O	
+8-33	samme	B-adj.phys	
+8-34	bogstav-	B-noun.artifact	
+8-35	og	O	
+8-36	talremser	B-noun.artifact	
+8-37	.	O	
+
+#id=9
+#text=Tilgengæld er det  nu sjovt at sidde og skrive på maskine derhjemme , siger de samstemmende .
+9-1	Til	O	
+9-2	gengæld	O	
+9-3	er	B-verb.stative	
+9-4	det	O	
+9-5	nu	O	
+9-6	sjovt	B-adj.mental	
+9-7	at	O	
+9-8	sidde	B-verb.stative	
+9-9	og	O	
+9-10	skrive	B-verb.creation	
+9-11	på	O	
+9-12	maskine	B-noun.artifact	
+9-13	derhjemme	O	
+9-14	,	O	
+9-15	siger	B-verb.communication	
+9-16	de	O	
+9-17	samstemmende	B-adj.phys	
+9-18	.	O	
+

@@ -1,0 +1,226 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Åretefter blev jeg fodboldlærling i Arsenal , og så havde jeg fundet min løbebane . "
+1-1	Året	B-noun.time	
+1-2	efter	O	
+1-3	blev	B-verb.stative	
+1-4	jeg	O	
+1-5	fodboldlærling	B-noun.person	
+1-6	i	O	
+1-7	Arsenal	B-noun.institution	
+1-8	,	O	
+1-9	og	O	
+1-10	så	O	
+1-11	havde	O	
+1-12	jeg	O	
+1-13	fundet	B-verb.cognition	
+1-14	min	O	
+1-15	løbebane	B-noun.abstract	
+1-16	.	O	
+1-17	"	O	
+
+#id=2
+#text=Hanfik debut mod Island i maj 1986 .
+2-1	Han	O	
+2-2	fik	B-verb.phenomenon	
+2-3	debut	B-noun.act	
+2-4	mod	O	
+2-5	Island	O	
+2-6	i	O	
+2-7	maj	B-noun.time	
+2-8	1986	B-noun.time	
+2-9	.	O	
+
+#id=3
+#text=Isommeren 1990 skiftede han fra Arsenal til Manchester City .
+3-1	I	O	
+3-2	sommeren	B-noun.time	
+3-3	1990	B-noun.time	
+3-4	skiftede	B-verb.act	
+3-5	han	O	
+3-6	fra	O	
+3-7	Arsenal	B-noun.institution	
+3-8	til	O	
+3-9	Manchester	B-noun.institution	
+3-10	City	I-noun.institution	
+3-11	.	O	
+
+#id=4
+#text="Jeg er meget glad for at være i City og har forlænget min kontrakt til sommeren 1997 . "
+4-1	"	O	
+4-2	Jeg	O	
+4-3	er	B-verb.emotion	
+4-4	meget	O	
+4-5	glad	B-verb.COLL	
+4-6	for	B-verb.COLL	
+4-7	at	O	
+4-8	være	B-verb.stative	
+4-9	i	O	
+4-10	City	B-noun.institution	
+4-11	og	O	
+4-12	har	O	
+4-13	forlænget	B-verb.change	
+4-14	min	O	
+4-15	kontrakt	B-noun.communication	
+4-16	til	O	
+4-17	sommeren	B-noun.time	
+4-18	1997	B-noun.time	
+4-19	.	O	
+4-20	"	O	
+
+#id=5
+#text=Partnerskabetmed den veltrimmede veteran , 34-årige John Aldridge fra Tranmere , har skaffet flere betydningsfulde irske mål .
+5-1	Partnerskabet	B-noun.relation	
+5-2	med	O	
+5-3	den	O	
+5-4	veltrimmede	B-adj.phys	
+5-5	veteran	B-noun.person	
+5-6	,	O	
+5-7	34-årige	B-adj.time	
+5-8	John	B-noun.person	
+5-9	Aldridge	I-noun.person	
+5-10	fra	O	
+5-11	Tranmere	B-noun.institution	
+5-12	,	O	
+5-13	har	O	
+5-14	skaffet	B-verb.act	
+5-15	flere	O	
+5-16	betydningsfulde	B-adj.all	
+5-17	irske	B-adj.social	
+5-18	mål	B-noun.act	
+5-19	.	O	
+
+#id=6
+#text=KENDERSIT JOB
+6-1	KENDER	B-verb.cognition	
+6-2	SIT	O	
+6-3	JOB	B-noun.act	
+
+#id=7
+#text="Jeg kender mit job sammen med John .
+7-1	"	O	
+7-2	Jeg	O	
+7-3	kender	B-verb.cognition	
+7-4	mit	O	
+7-5	job	B-noun.act	
+7-6	sammen	O	
+7-7	med	O	
+7-8	John	B-noun.person	
+7-9	.	O	
+
+#id=8
+#text=Viforstår hinanden godt , og jeg nyder at heade ham fri til scoring .
+8-1	Vi	O	
+8-2	forstår	B-verb.cognition	
+8-3	hinanden	O	
+8-4	godt	O	
+8-5	,	O	
+8-6	og	O	
+8-7	jeg	O	
+8-8	nyder	B-verb.emotion	
+8-9	at	O	
+8-10	heade	B-verb.act	
+8-11	ham	O	
+8-12	fri	O	
+8-13	til	O	
+8-14	scoring	B-noun.act	
+8-15	.	O	
+
+#id=9
+#text=ModDanmark bliver det formentlig Torben Piechnik fra Liverpool og mig , der skal slås .
+9-1	Mod	O	
+9-2	Danmark	B-noun.institution	
+9-3	bliver	B-verb.stative	
+9-4	det	O	
+9-5	formentlig	O	
+9-6	Torben	B-noun.person	
+9-7	Piechnik	I-noun.person	
+9-8	fra	O	
+9-9	Liverpool	B-noun.institution	
+9-10	og	O	
+9-11	mig	O	
+9-12	,	O	
+9-13	der	O	
+9-14	skal	O	
+9-15	slås	B-verb.act	
+9-16	.	O	
+
+#id=10
+#text=Jeghar aldrig mødt ham før , kun set ham spille i TV-kampe .
+10-1	Jeg	O	
+10-2	har	O	
+10-3	aldrig	O	
+10-4	mødt	B-verb.social	
+10-5	ham	O	
+10-6	før	O	
+10-7	,	O	
+10-8	kun	O	
+10-9	set	B-verb.perception	
+10-10	ham	O	
+10-11	spille	B-verb.act	
+10-12	i	O	
+10-13	TV-kampe	B-noun.act	
+10-14	.	O	
+
+#id=11
+#text=Hanhavde en uheldig debutkamp , 2-4 mod Aston Villa , men siden har han udmærket sig med solidt spil .
+11-1	Han	O	
+11-2	havde	B-verb.phenomenon	
+11-3	en	O	
+11-4	uheldig	B-adj.all	
+11-5	debutkamp	B-noun.act	
+11-6	,	O	
+11-7	2-4	O	
+11-8	mod	O	
+11-9	Aston	B-noun.institution	
+11-10	Villa	I-noun.institution	
+11-11	,	O	
+11-12	men	O	
+11-13	siden	O	
+11-14	har	O	
+11-15	han	O	
+11-16	udmærket	B-verb.act	
+11-17	sig	B-verb.REFLPRON	
+11-18	med	O	
+11-19	solidt	B-adj.all	
+11-20	spil	B-noun.act	
+11-21	.	O	
+
+#id=12
+#text=Deter værd at bemærke ,  at Liverpools forsvar er blevet mere stabilt efter Piechniks entre " .
+12-1	Det	O	
+12-2	er	B-verb.stative	
+12-3	værd	B-adj.all	
+12-4	at	O	
+12-5	bemærke	B-verb.cognition	
+12-6	,	O	
+12-7	at	O	
+12-8	Liverpools	B-noun.institution	
+12-9	forsvar	B-noun.act	
+12-10	er	O	
+12-11	blevet	B-verb.stative	
+12-12	mere	O	
+12-13	stabilt	B-adj.all	
+12-14	efter	O	
+12-15	Piechniks	B-noun.person	
+12-16	entre	B-noun.act	
+12-17	"	O	
+12-18	.	O	
+
+#id=13
+#text=HeleIrland håber , at Quinns udtørrede målstrøm begynder at risle igen i_aften .
+13-1	Hele	O	
+13-2	Irland	B-noun.person	
+13-3	håber	B-verb.emotion	
+13-4	,	O	
+13-5	at	O	
+13-6	Quinns	B-noun.person	
+13-7	udtørrede	B-adj.phys	
+13-8	målstrøm	B-noun.phenomenon	
+13-9	begynder	B-verb.aspectual	
+13-10	at	O	
+13-11	risle	B-verb.motion	
+13-12	igen	O	
+13-13	i_aften	B-noun.time	
+13-14	.	O	
+

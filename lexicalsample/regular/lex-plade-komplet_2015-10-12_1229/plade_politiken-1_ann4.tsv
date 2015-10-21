@@ -1,0 +1,2976 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Lex | Tag
+#id=1
+#text=På de seneste plader med Depeche Mode er han blevet akkrediteret som sangskriver og har således tre bidrag med på det nye album, ' Sounds Of The Universe'.
+1-1	På	på	T-:----:--:----	_	
+1-2	de	den	PM:p-u#:--:----	_	
+1-3	seneste	sen	AC:§du§:--:s---	_	
+1-4	plader	plade	NC:piu#:--:----	plade_2a	
+1-5	med	med	T-:----:--:----	_	
+1-6	Depeche	Depeche	NP:siu#:--:----	_	
+1-7	Mode	Mode	NP:siu#:--:----	_	
+1-8	er	være	VF:----:sa:----	_	
+1-9	han	han	PP:s-nc:--:-3n-	_	
+1-10	blevet	blive	VT:siu#:t-:----	_	
+1-11	akkrediteret	akkreditere	VT:siu#:t-:----	_	
+1-12	som	som	US:----:--:----	_	
+1-13	sangskriver	sangskriver	NC:siuc:--:----	_	
+1-14	og	og	CC:----:--:----	_	
+1-15	har	have	VF:----:sa:----	_	
+1-16	således	således	D-:----:--:u---	_	
+1-17	tre	tre	LC:--u-:--:----	_	
+1-18	bidrag	bidrag	NC:piu#:--:----	_	
+1-19	med	med	T-:----:--:----	_	
+1-20	på	på	T-:----:--:----	_	
+1-21	det	den	PM:s-un:--:----	_	
+1-22	nye	ny	AC:sdu#:--:p---	_	
+1-23	album	album	NC:siun:--:----	_	
+1-24	,	,	ZD	_	
+1-25	'	'	XY:----:--:----	_	
+1-26	Sounds	sound	NC:sigc:--:----	_	
+1-27	Of	Of	NP:siu#:--:----	_	
+1-28	The	The	XF:---:--:----	_	
+1-29	Universe	Universe	NP:siu#:--:----	_	
+1-30	'	'	ZA	_	
+1-31	.	.	ZP	_	
+
+#id=2
+#text= Men en version til gule plader er dog ikke på trapperne.
+2-1	Men	men	CC:----:--:----	_	
+2-2	en	en	PI:s-uc:--:----	_	
+2-3	version	version	NC:siuc:--:----	_	
+2-4	til	til	T-:----:--:----	_	
+2-5	gule	gul	AC:p#u#:--:p---	_	
+2-6	plader	plade	NC:piu#:--:----	plade_F_gule-plader	
+2-7	er	være	VF:----:sa:----	_	
+2-8	dog	dog	D-:----:--:u---	_	
+2-9	ikke	ikke	D-:----:--:u---	_	
+2-10	på	på	T-:----:--:----	_	
+2-11	trapperne	trappe	NC:pdu#:--:----	_	
+2-12	.	.	ZP	_	
+
+#id=3
+#text= fl. udgav deres første plader.
+3-1	fl	mange	AC:##u#:--:c---	_	
+3-2	.	.	ZP	_	
+3-3	udgav	udgive	VF:----:ta:----	_	
+3-4	deres	deres	PO:#--#:--:-3np	_	
+3-5	første	første	AC:§§u§:--:p---	_	
+3-6	plader	plade	NC:piu#:--:----	plade_2a	
+3-7	.	.	ZP	_	
+
+#id=4
+#text=Ikke fordi der er noget galt med plader fra Poul Krebs, naturligvis, men fordi mediet er ved at forsvinde under musikerne og musikken.
+4-1	Ikke	ikke	D-:----:--:u---	_	
+4-2	fordi	fordi	CS:----:--:----	_	
+4-3	der	der	US:----:--:----	_	
+4-4	er	være	VF:----:sa:----	_	
+4-5	noget	nogen	PI:s-un:--:----	_	
+4-6	galt	gal	AC:siun:--:p---	_	
+4-7	med	med	T-:----:--:----	_	
+4-8	plader	plade	NC:piu#:--:----	plade_2a	
+4-9	fra	fra	T-:----:--:----	_	
+4-10	Poul	Poul	NP:siu#:--:----	_	
+4-11	Krebs	krebs	NC:siuc:--:----	_	
+4-12	,	,	ZD	_	
+4-13	naturligvis	naturligvis	D-:----:--:u---	_	
+4-14	,	,	ZD	_	
+4-15	men	men	CC:----:--:----	_	
+4-16	fordi	fordi	CS:----:--:----	_	
+4-17	mediet	medie	NC:sdun:--:----	_	
+4-18	er	være	VF:----:sa:----	_	
+4-19	ved	ved	T-:----:--:----	_	
+4-20	at	at	UI:----:--:----	_	
+4-21	forsvinde	forsvinde	VI:----:-a:----	_	
+4-22	under	under	T-:----:--:----	_	
+4-23	musikerne	musiker	NC:pdu#:--:----	_	
+4-24	og	og	CC:----:--:----	_	
+4-25	musikken	musik	NC:sduc:--:----	_	
+4-26	.	.	ZP	_	
+
+#id=5
+#text= Han virkede ægte ydmyg grænsende til det usikre, og han stod i hvert fald slet ikke mejslet i panser og plade, sådan som Anders Fogh gennem mere  end syv år har vænnet os til.
+5-1	Han	han	PP:s-nc:--:-3n-	_	
+5-2	virkede	virke	VF:----:ta:----	_	
+5-3	ægte	ægte	VI:----:-a:----	_	
+5-4	ydmyg	ydmyg	AC:siuc:--:p---	_	
+5-5	grænsende	grænsende	AD:----:--:p---	_	
+5-6	til	til	T-:----:--:----	_	
+5-7	det	den	PM:s-un:--:----	_	
+5-8	usikre	usikker	AC:sdu#:--:p---	_	
+5-9	,	,	ZD	_	
+5-10	og	og	CC:----:--:----	_	
+5-11	han	han	PP:s-nc:--:-3n-	_	
+5-12	stod	stå	VF:----:ta:----	_	
+5-13	i	i	T-:----:--:----	_	
+5-14	hvert	hver	PI:s-un:--:----	_	
+5-15	fald	fald	NC:siun:--:----	_	
+5-16	slet	slet	D-:----:--:u---	_	
+5-17	ikke	ikke	D-:----:--:u---	_	
+5-18	mejslet	mejsle	VT:siu#:t-:----	_	
+5-19	i	i	T-:----:--:----	_	
+5-20	panser	panser	NC:siuc:--:----	_	
+5-21	og	og	CC:----:--:----	_	
+5-22	plade	plade	NC:siuc:--:----	plade_F_panser-og-plade	
+5-23	,	,	ZD	_	
+5-24	sådan	sådan	D-:----:--:u---	_	
+5-25	som	som	US:----:--:----	_	
+5-26	Anders	Anders	NP:siu#:--:----	_	
+5-27	Fogh	Fogh	NP:siu#:--:----	_	
+5-28	gennem	gennem	T-:----:--:----	_	
+5-29	mere	megen	AC:##u#:--:c---	_	
+5-30	end	end	CS:----:--:----	_	
+5-31	syv	syv	LC:--u-:--:----	_	
+5-32	år	år	NC:piu#:--:----	_	
+5-33	har	have	VF:----:sa:----	_	
+5-34	vænnet	vænne	VT:siu#:t-:----	_	
+5-35	os	vi	PP:p-uc:--:-1#-	_	
+5-36	til	til	T-:----:--:----	_	
+5-37	.	.	ZP	_	
+
+#id=6
+#text= Hun har udgivet fem plader med egne sange, skrevet internationale hits og forfattet værket ' Kogebog for sangskrivere'.
+6-1	Hun	hun	PP:s-nc:--:-3n-	_	
+6-2	har	have	VF:----:sa:----	_	
+6-3	udgivet	udgive	VT:siu#:t-:----	_	
+6-4	fem	fem	LC:--u-:--:----	_	
+6-5	plader	plade	NC:piu#:--:----	plade_2a	
+6-6	med	med	T-:----:--:----	_	
+6-7	egne	egen	AC:p#u#:--:p---	_	
+6-8	sange	sang	NC:piu#:--:----	_	
+6-9	,	,	ZD	_	
+6-10	skrevet	skrive	VT:siu#:t-:----	_	
+6-11	internationale	international	AC:p#u#:--:p---	_	
+6-12	hits	hits	NC:pig#:--:----	_	
+6-13	og	og	CC:----:--:----	_	
+6-14	forfattet	forfatte	VT:siu#:t-:----	_	
+6-15	værket	værket	XY:----:--:----	_	
+6-16	'	'	ZA	_	
+6-17	Kogebog	kogebog	NC:siuc:--:----	_	
+6-18	for	for	T-:----:--:----	_	
+6-19	sangskrivere	sangskriver	NW:----:--:----	_	
+6-20	'	'	ZA	_	
+6-21	.	.	ZP	_	
+
+#id=7
+#text= Han har udgivet flere plader med sit gamle band, men følte, at det nu var tid til noget ny inspiration.
+7-1	Han	han	PP:s-nc:--:-3n-	_	
+7-2	har	have	VF:----:sa:----	_	
+7-3	udgivet	udgive	VT:siu#:t-:----	_	
+7-4	flere	mange	AC:##u#:--:c---	_	
+7-5	plader	plade	NC:piu#:--:----	plade_2a	
+7-6	med	med	T-:----:--:----	_	
+7-7	sit	sin	PO:s--n:--:-3ys	_	
+7-8	gamle	gammel	AC:sdu#:--:p---	_	
+7-9	band	band	NC:siun:--:----	_	
+7-10	,	,	ZD	_	
+7-11	men	men	CC:----:--:----	_	
+7-12	følte	føle	VF:----:ta:----	_	
+7-13	,	,	ZD	_	
+7-14	at	at	CS:----:--:----	_	
+7-15	det	det	PP:s-un:--:-3n-	_	
+7-16	nu	nu	D-:----:--:u---	_	
+7-17	var	være	VF:----:ta:----	_	
+7-18	tid	tid	NC:siuc:--:----	_	
+7-19	til	til	T-:----:--:----	_	
+7-20	noget	nogen	PI:s-un:--:----	_	
+7-21	ny	ny	AC:siuc:--:p---	_	
+7-22	inspiration	inspiration	NC:siuc:--:----	_	
+7-23	.	.	ZP	_	
+
+#id=8
+#text=I 1965 kom den første plade med ' Non Stop Dancing' på gaden, og siden har musikken spillet derudad med James Lasts arrangementer af nye og gamle klassikere, tyske og skandinaviske folkesange og meget mere.
+8-1	I	i	T-:----:--:----	_	
+8-2	1965	1965	LC:--u-:--:----	_	
+8-3	kom	komme	VF:----:ta:----	_	
+8-4	den	den	PM:s-uc:--:----	_	
+8-5	første	første	AC:§§u§:--:p---	_	
+8-6	plade	plade	NC:siuc:--:----	plade_2a	
+8-7	med	med	D-:----:--:u---	_	
+8-8	'	'	ZA	_	
+8-9	Non	non	NC:siuc:--:----	_	
+8-10	Stop	Stop	NP:siu#:--:----	_	
+8-11	Dancing	Dancing	---	_	
+8-12	'	'	ZA	_	
+8-13	på	på	T-:----:--:----	_	
+8-14	gaden	gade	NC:sduc:--:----	_	
+8-15	,	,	ZD	_	
+8-16	og	og	CC:----:--:----	_	
+8-17	siden	siden	D-:----:--:u---	_	
+8-18	har	have	VF:----:sa:----	_	
+8-19	musikken	musik	NC:sduc:--:----	_	
+8-20	spillet	spille	VT:siu#:t-:----	_	
+8-21	derudad	derudad	D-:----:--:u---	_	
+8-22	med	med	T-:----:--:----	_	
+8-23	James	James	NP:siu#:--:----	_	
+8-24	Lasts	last	NC:sigc:--:----	_	
+8-25	arrangementer	arrangement	NC:piu#:--:----	_	
+8-26	af	af	T-:----:--:----	_	
+8-27	nye	ny	AC:p#u#:--:p---	_	
+8-28	og	og	CC:----:--:----	_	
+8-29	gamle	gammel	AC:p#u#:--:p---	_	
+8-30	klassikere	klassiker	NC:piu#:--:----	_	
+8-31	,	,	ZD	_	
+8-32	tyske	tysk	AC:p#u#:--:p---	_	
+8-33	og	og	CC:----:--:----	_	
+8-34	skandinaviske	skandinavisk	AC:p#u#:--:p---	_	
+8-35	folkesange	folkesang	NC:piu#:--:----	_	
+8-36	og	og	CC:----:--:----	_	
+8-37	meget	en	AD:----:--:p---	_	
+8-38	mere	megen	AC:##u#:--:c---	_	
+8-39	.	.	ZP	_	
+
+#id=9
+#text= For Viva Vertigo sørger ligesom på sine to første plader for at indhylle den i fin, strømførende lyd med en intensitet, der formelig dirrer i højttalerne.
+9-1	For	for	T-:----:--:----	_	
+9-2	Viva	Viva	NP:siu#:--:----	_	
+9-3	Vertigo	Vertigo	NP:siu#:--:----	_	
+9-4	sørger	sørge	VF:----:sa:----	_	
+9-5	ligesom	ligesom	D-:----:--:u---	_	
+9-6	på	på	T-:----:--:----	_	
+9-7	sine	sin	PO:p--#:--:-3ys	_	
+9-8	to	to	LC:--u-:--:----	_	
+9-9	første	første	AC:§§u§:--:p---	_	
+9-10	plader	plade	NC:piu#:--:----	plade_2a	
+9-11	for	for	T-:----:--:----	_	
+9-12	at	at	UI:----:--:----	_	
+9-13	indhylle	indhylle	VI:----:-a:----	_	
+9-14	den	den	PP:s-uc:--:-3n-	_	
+9-15	i	i	T-:----:--:----	_	
+9-16	fin	fin	AC:siuc:--:p---	_	
+9-17	,	,	ZD	_	
+9-18	strømførende	strømførende	AC:§§u§:--:p---	_	
+9-19	lyd	lyd	NC:siuc:--:----	_	
+9-20	med	med	T-:----:--:----	_	
+9-21	en	en	PI:s-uc:--:----	_	
+9-22	intensitet	intensitet	NC:siuc:--:----	_	
+9-23	,	,	ZD	_	
+9-24	der	der	US:----:--:----	_	
+9-25	formelig	formelig	D-:----:--:u---	_	
+9-26	dirrer	dirre	VF:----:sa:----	_	
+9-27	i	i	T-:----:--:----	_	
+9-28	højttalerne	højttaler	NC:pdu#:--:----	_	
+9-29	.	.	ZP	_	
+
+#id=10
+#text= Tre gange er Tom Harrells af Downbeat Magazine blevet kåret som årets trompetist for sit lyriske improvisationsspil og sin subtile rytmik, og han har indspillet plader med alt fra Dizzy Gillespie til Bill Evans og Charlie Hadden.
+10-1	Tre	tre	LC:--u-:--:----	_	
+10-2	gange	gang	NC:piu#:--:----	_	
+10-3	er	være	VF:----:sa:----	_	
+10-4	Tom	Tom	NP:siu#:--:----	_	
+10-5	Harrells	Harrells	NP:siu#:--:----	_	
+10-6	af	af	T-:----:--:----	_	
+10-7	Downbeat	downbeat	NC:siun:--:----	_	
+10-8	Magazine	Magazine	NP:siu#:--:----	_	
+10-9	blevet	blive	VT:siu#:t-:----	_	
+10-10	kåret	kåre	VT:siu#:t-:----	_	
+10-11	som	som	US:----:--:----	_	
+10-12	årets	år	NC:sdgn:--:----	_	
+10-13	trompetist	trompetist	NC:siuc:--:----	_	
+10-14	for	for	T-:----:--:----	_	
+10-15	sit	sin	PO:s--n:--:-3ys	_	
+10-16	lyriske	lyrisk	AC:sdu#:--:p---	_	
+10-17	improvisationsspil	improvisationsspil	NC:siun:--:----	_	
+10-18	og	og	CC:----:--:----	_	
+10-19	sin	sin	PO:s--c:--:-3ys	_	
+10-20	subtile	subtil	AC:sdu#:--:p---	_	
+10-21	rytmik	rytmik	NC:siuc:--:----	_	
+10-22	,	,	ZD	_	
+10-23	og	og	CC:----:--:----	_	
+10-24	han	han	PP:s-nc:--:-3n-	_	
+10-25	har	have	VF:----:sa:----	_	
+10-26	indspillet	indspille	VT:siu#:t-:----	_	
+10-27	plader	plade	NC:piu#:--:----	plade_2a	
+10-28	med	med	T-:----:--:----	_	
+10-29	alt	al	PI:s-un:--:----	_	
+10-30	fra	fra	T-:----:--:----	_	
+10-31	Dizzy	Dizzy	NP:siu#:--:----	_	
+10-32	Gillespie	Gillespie	NP:siu#:--:----	_	
+10-33	til	til	T-:----:--:----	_	
+10-34	Bill	Bill	NP:siu#:--:----	_	
+10-35	Evans	Evan	NP:sig#:--:----	_	
+10-36	og	og	CC:----:--:----	_	
+10-37	Charlie	Charlie	NP:siu#:--:----	_	
+10-38	Hadden	Hadden	NP:siu#:--:----	_	
+10-39	.	.	ZP	_	
+
+#id=11
+#text= På førstepladsen ligger ikke overraskende Michael Jacksons ' Thriller', som også er den bedst sælgende plade nogensinde.
+11-1	På	på	T-:----:--:----	_	
+11-2	førstepladsen	førsteplads	NC:sduc:--:----	_	
+11-3	ligger	ligge	VF:----:sa:----	_	
+11-4	ikke	ikke	D-:----:--:u---	_	
+11-5	overraskende	overraske	VP:##u#:s-:----	_	
+11-6	Michael	Michael	NP:siu#:--:----	_	
+11-7	Jacksons	Jackson	NP:sig#:--:----	_	
+11-8	'	'	ZA	_	
+11-9	Thriller	thriller	NC:siuc:--:----	_	
+11-10	'	'	ZA	_	
+11-11	,	,	ZD	_	
+11-12	som	som	US:----:--:----	_	
+11-13	også	også	D-:----:--:u---	_	
+11-14	er	være	VF:----:sa:----	_	
+11-15	den	den	PM:s-uc:--:----	_	
+11-16	bedst	god	AD:----:--:s---	_	
+11-17	sælgende	sælge	VP:##u#:s-:----	_	
+11-18	plade	plade	NC:siuc:--:----	plade_2a	
+11-19	nogensinde	nogensinde	D-:----:--:u---	_	
+11-20	.	.	ZP	_	
+
+#id=12
+#text= Pladens version af ' Min gåsemor' ligger derimod helt i top.
+12-1	Pladens	plade	NC:sdgc:--:----	plade_2a	
+12-2	version	version	NC:siuc:--:----	_	
+12-3	af	af	-	_	
+12-4	'	'	ZA	_	
+12-5	Min	Min	XY:----:--:----	_	
+12-6	gåsemor	gåsemor	NC:siuc:--:----	_	
+12-7	'	'	ZA	_	
+12-8	ligger	ligge	VF:----:sa:----	_	
+12-9	derimod	derimod	D-:----:--:u---	_	
+12-10	helt	hel	AD:----:--:p---	_	
+12-11	i	i	T-:----:--:----	_	
+12-12	top	top	NC:siuc:--:----	_	
+12-13	.	.	ZP	_	
+
+#id=13
+#text= Stærkest står dog hans billeder fra studierne, hvor Ole Brask fulgte tilblivelsen af mange legendariske plader.
+13-1	Stærkest	stærk	AD:----:--:s---	_	
+13-2	står	stå	VF:----:sa:----	_	
+13-3	dog	dog	D-:----:--:u---	_	
+13-4	hans	hans	PO:#--#:--:-3ns	_	
+13-5	billeder	billede	NC:piu#:--:----	_	
+13-6	fra	fra	T-:----:--:----	_	
+13-7	studierne	studie	NC:pdu#:--:----	_	
+13-8	,	,	ZD	_	
+13-9	hvor	hvor	D-:----:--:u---	_	
+13-10	Ole	Ole	NP:siu#:--:----	_	
+13-11	Brask	brask	NC:siuc:--:----	_	
+13-12	fulgte	følge	VF:----:ta:----	_	
+13-13	tilblivelsen	tilblivelse	NC:sduc:--:----	_	
+13-14	af	af	:----:--:----	_	
+13-15	mange	mangen	AC:p#u#:--:p---	_	
+13-16	legendariske	legendariske	AC:p#u#:--:p---	_	
+13-17	plader	plade	NC:piu#:--:----	plade_2a	
+13-18	.	.	ZP	_	
+
+#id=14
+#text= Ole Brasks fantastiske fotografier viser musikerne (...) mens de optræder, indspiller plader eller bare slapper af.
+14-1	Ole	Ole	NP:siu#:--:----	_	
+14-2	Brasks	Brasks	NP:sig#:--:----	_	
+14-3	fantastiske	fantastisk	AC:p#u#:--:p---	_	
+14-4	fotografier	fotografi	NC:piu#:--:----	_	
+14-5	viser	vise	VF:----:sa:----	_	
+14-6	musikerne	musiker	NC:pdu#:--:----	_	
+14-7	(	(	ZD	_	
+14-8	.	.	ZP	_	
+14-9	.	.	ZP	_	
+14-10	.	.	ZP	_	
+14-11	)	)	ZD	_	
+14-12	mens	mens	CS:----:--:----	_	
+14-13	de	de	PP:p-n#:--:-3n-	_	
+14-14	optræder	optræde	VF:----:sa:----	_	
+14-15	,	,	ZD	_	
+14-16	indspiller	indspille	VF:----:sa:----	_	
+14-17	plader	plade	NC:piu#:--:----	plade_2a	
+14-18	eller	eller	CC:----:--:----	_	
+14-19	bare	bare	D-:----:--:u---	_	
+14-20	slapper	slappe	VF:----:sa:----	_	
+14-21	af	af	T-:----:--:----	_	
+14-22	.	.	ZP	_	
+
+#id=15
+#text= I 1981 endte et instrumentalprojekt som et album med sangeren Mona Larsen, og to plader senere var der ' Magi i luften' over de danske radiobølger.
+15-1	I	i	T-:----:--:----	_	
+15-2	1981	1981	LC:--u-:--:----	_	
+15-3	endte	ende	VF:----:ta:----	_	
+15-4	et	en	PI:s-un:--:----	_	
+15-5	instrumentalprojekt	instrumentalprojekt	NC:siun:--:----	_	
+15-6	som	som	US:----:--:----	_	
+15-7	et	en	PI:s-un:--:----	_	
+15-8	album	album	NC:siun:--:----	_	
+15-9	med	med	T-:----:--:----	_	
+15-10	sangeren	sanger	NC:sduc:--:----	_	
+15-11	Mona	Mona	NP:siu#:--:----	_	
+15-12	Larsen	Larsen	NP:siu#:--:----	_	
+15-13	,	,	ZD	_	
+15-14	og	og	CC:----:--:----	_	
+15-15	to	to	LC:--u-:--:----	_	
+15-16	plader	plade	NC:piu#:--:----	plade_2a	
+15-17	senere	sen	AD:----:--:c---	_	
+15-18	var	være	VF:----:ta:----	_	
+15-19	der	der	D-:----:--:u---	_	
+15-20	'	'	ZA	_	
+15-21	Magi	magi	NC:siuc:--:----	_	
+15-22	i	i	T-:----:--:----	_	
+15-23	luften	luft	NW:----:--:----	_	
+15-24	'	'	ZA	_	
+15-25	over	over	T-:----:--:----	_	
+15-26	de	den	PM:p-u#:--:----	_	
+15-27	danske	dansk	AC:p#u#:--:p---	_	
+15-28	radiobølger	radiobølge	NC:piu#:--:----	_	
+15-29	.	.	ZP	_	
+
+#id=16
+#text=I 2000 udgav han soloalbummet med den sigende titel ' Freedom' - stilistisk noget af et stykke vej fra den Bamse-plade, han også medvirkede på samme år.
+16-1	I	i	T-:----:--:----	_	
+16-2	2000	2000	LC:--u-:--:----	_	
+16-3	udgav	udgive	VF:----:ta:----	_	
+16-4	han	han	PP:s-nc:--:-3n-	_	
+16-5	soloalbummet	soloalbum	NC:sdun:--:----	_	
+16-6	med	med	T-:----:--:----	_	
+16-7	den	den	PM:s-uc:--:----	_	
+16-8	sigende	sige	VP:##u#:s-:----	_	
+16-9	titel	titel	NC:siuc:--:----	_	
+16-10	'	'	ZA	_	
+16-11	Freedom	Freedom	NP:siu#:--:----	_	
+16-12	'	'	ZA	_	
+16-13	-	-	NC:piu#:--:----	_	
+16-14	stilistisk	stilistisk	AD:----:--:p---	_	
+16-15	noget	nogen	PI:s-un:--:----	_	
+16-16	af	af	T-:----:--:----	_	
+16-17	et	en	PI:s-un:--:----	_	
+16-18	stykke	stykke	NC:siun:--:----	_	
+16-19	vej	vej	NC:siuc:--:----	_	
+16-20	fra	fra	T-:----:--:----	_	
+16-21	den	den	PM:s-uc:--:----	_	
+16-22	Bamse	bamse	NW:----:--:----	_	
+16-23	-	-	ZH	_	
+16-24	plade	plade	NC:siuc:--:----	plade_2a	
+16-25	,	,	ZD	_	
+16-26	han	han	PP:s-nc:--:-3n-	_	
+16-27	også	også	D-:----:--:u---	_	
+16-28	medvirkede	medvirke	VF:----:ta:----	_	
+16-29	på	på	T-:----:--:----	_	
+16-30	samme	samme	AC:§§u§:--:p---	_	
+16-31	år	år	NC:siun:--:----	_	
+16-32	.	.	ZP	_	
+
+#id=17
+#text= Rino Zena står der, i panser  og plade, parat til at møde virkeligheden, som den med stor sandsynlighed aldrig viser sig, og klar til at kaste sig ud i den kamp, som for længst er afskaffet:
+17-1	Rino	Rino	NP:siu#:--:----	_	
+17-2	Zena	Zena	NP:siu#:--:----	_	
+17-3	står	stå	VF:----:sa:----	_	
+17-4	der	der	D-:----:--:u---	_	
+17-5	,	,	ZD	_	
+17-6	i	i	T-:----:--:----	_	
+17-7	panser	panser	NC:siuc:--:----	_	
+17-8	og	og	CC:----:--:----	_	
+17-9	plade	plade	NC:siuc:--:----	plade_F_panser-og-plade	
+17-10	,	,	ZD	_	
+17-11	parat	parat	AC:siu§:--:p---	_	
+17-12	til	til	T-:----:--:----	_	
+17-13	at	at	UI:----:--:----	_	
+17-14	møde	møde	VI:----:-a:----	_	
+17-15	virkeligheden	virkelighed	NC:sduc:--:----	_	
+17-16	,	,	ZD	_	
+17-17	som	som	US:----:--:----	_	
+17-18	den	den	PP:s-uc:--:-3n-	_	
+17-19	med	med	T-:----:--:----	_	
+17-20	stor	stor	AC:siuc:--:p---	_	
+17-21	sandsynlighed	sandsynlighed	NC:siuc:--:----	_	
+17-22	aldrig	aldrig	D-:----:--:u---	_	
+17-23	viser	vise	VF:----:sa:----	_	
+17-24	sig	sig	PP:#-u#:--:-3y-	_	
+17-25	,	,	ZD	_	
+17-26	og	og	CC:----:--:----	_	
+17-27	klar	klar	AC:siuc:--:p---	_	
+17-28	til	til	T-:----:--:----	_	
+17-29	at	at	UI:----:--:----	_	
+17-30	kaste	kaste	VI:----:-a:----	_	
+17-31	sig	sig	PP:#-u#:--:-3y-	_	
+17-32	ud	ud	D-:----:--:u---	_	
+17-33	i	i	-:----	_	
+17-34	den	den	PM:s-uc:--:----	_	
+17-35	kamp	kamp	NC:siuc:--:----	_	
+17-36	,	,	ZD	_	
+17-37	som	som	US:----:--:----	_	
+17-38	for	for	T-:----:--:----	_	
+17-39	længst	længst	XY:----:--:----	_	
+17-40	er	være	VF:----:sa:----	_	
+17-41	afskaffet	afskaffe	VT:siu#:t-:----	_	
+17-42	:	:	ZP	_	
+
+#id=18
+#text=Den findes på pladen ' Erika Voigt synger.
+18-1	Den	den	PP:s-uc:--:-3n-	_	
+18-2	findes	finde	VF:----:sp:----	_	
+18-3	på	på	T-:----:--:----	_	
+18-4	pladen	plade	NW:----:--:----	plade_2a	
+18-5	'	'	ZA	_	
+18-6	Erika	erika	NC:siuc:--:----	_	
+18-7	Voigt	Voigt	NP:siu#:--:----	_	
+18-8	synger	synge	VF:----:sa:----	_	
+18-9	.	.	ZP	_	
+
+#id=19
+#text= Måske fordi samarbejdspartneren på pladen, guitaristen fra Blur og meget andet Graham Coxon, ikke var til stede.
+19-1	Måske	måske	D-:----:--:u---	_	
+19-2	fordi	fordi	CS:----:--:----	_	
+19-3	samarbejdspartneren	samarbejdspartner	NC:sduc:--:----	_	
+19-4	på	på	T-:----:--:----	_	
+19-5	pladen	plade	NC:sduc:--:----	plade_2a	
+19-6	,	,	ZD	_	
+19-7	guitaristen	guitarist	NC:sduc:--:----	_	
+19-8	fra	fra	T-:----:--:----	_	
+19-9	Blur	Blur	NP:siu#:--:----	_	
+19-10	og	og	CC:----:--:----	_	
+19-11	meget	megen	AD:----:--:p---	_	
+19-12	andet	anden	PI:s-un:--:----	_	
+19-13	Graham	Graham	NP:siu#:--:----	_	
+19-14	Coxon	Coxon	NP:siu#:--:----	_	
+19-15	,	,	ZD	_	
+19-16	ikke	ikke	D-:----:--:u---	_	
+19-17	var	være	VF:----:ta:----	_	
+19-18	til	til	T-:----:--:----	_	
+19-19	stede	sted	NC:sifn:--:----	_	
+19-20	.	.	ZP	_	
+
+#id=20
+#text=Det er, hvad jeg kalder gevinst på den fulde plade", siger koncerndirektør Jens Munch-Hansen fra Business Nordic i TDC til Ritzau.
+20-1	Det	det	PP:s-un:--:-3n-	_	
+20-2	er	være	VF:----:sa:----	_	
+20-3	,	,	ZD	_	
+20-4	hvad	hvad	PR:s-u#:--:----	_	
+20-5	jeg	jeg	PP:s-nc:--:-1n-	_	
+20-6	kalder	kalde	VF:----:sa:----	_	
+20-7	gevinst	gevinst	NC:siuc:--:----	_	
+20-8	på	på	T-:----:--:----	_	
+20-9	den	den	PM:s-uc:--:----	_	
+20-10	fulde	fuld	-	_	
+20-11	plade	plade	NC:siuc:--:----	plade_5	
+20-12	"	"	ZI	_	
+20-13	,	,	ZD	_	
+20-14	siger	sige	VF:----:sa:----	_	
+20-15	koncerndirektør	koncerndirektør	NC:siuc:--:----	_	
+20-16	Jens	Jens	NP:siu#:--:----	_	
+20-17	Munch	Munch	NW:----:--:----	_	
+20-18	-	-	ZH	_	
+20-19	Hansen	Hansen	NP:siu#:--:----	_	
+20-20	fra	fra	T-:----:--:----	_	
+20-21	Business	business	NC:siuc:--:----	_	
+20-22	Nordic	Nordic	NP:siu#:--:----	_	
+20-23	i	i	T-:----:--:----	_	
+20-24	TDC	TDC	NP:siu#:--:----	_	
+20-25	til	til	T-:----:--:----	_	
+20-26	Ritzau	Ritzau	NP:siu#:--:----	_	
+20-27	.	.	ZP	_	
+
+#id=21
+#text=Pladen er naturligvis indspillet med hans faste kvartet, som også følger i kapelmesterens store fodspor, når Henning Stærk endnu en gang tager rundturen til de danske koncertsteder dette forår med start i Herning 4.
+21-1	Pladen	plade	NC:sduc:--:----	plade_2a	
+21-2	er	være	VF:----:sa:----	_	
+21-3	naturligvis	naturligvis	D-:----:--:u---	_	
+21-4	indspillet	indspille	VT:siu#:t-:----	_	
+21-5	med	med	T-:----:--:----	_	
+21-6	hans	hans	PO:#--#:--:-3ns	_	
+21-7	faste	fast	AC:sdu#:--:p---	_	
+21-8	kvartet	kvartet	NC:siuc:--:----	_	
+21-9	,	,	ZD	_	
+21-10	som	som	US:----:--:----	_	
+21-11	også	også	D-:----:--:u---	_	
+21-12	følger	følge	VF:----:sa:----	_	
+21-13	i	i	T-:----:--:----	_	
+21-14	kapelmesterens	kapelmester	NC:sdgc:--:----	_	
+21-15	store	stor	AC:sdu#:--:p---	_	
+21-16	fodspor	fodspor	NC:siun:--:----	_	
+21-17	,	,	ZD	_	
+21-18	når	når	CS:----:--:----	_	
+21-19	Henning	Henning	NP:siu#:--:----	_	
+21-20	Stærk	stærk	AC:siuc:--:p---	_	
+21-21	endnu	endnu	D-:----:--:u---	_	
+21-22	en	en	PI:s-uc:--:----	_	
+21-23	gang	gang	NC:siuc:--:----	_	
+21-24	tager	tage	VF:----:sa:----	_	
+21-25	rundturen	rundtur	NC:sduc:--:----	_	
+21-26	til	til	T-:----:--:----	_	
+21-27	de	den	PM:p-u#:--:----	_	
+21-28	danske	dansk	AC:p#u#:--:p---	_	
+21-29	koncertsteder	koncertsted	NC:piu#:--:----	_	
+21-30	dette	dette	XY:----:--:----	_	
+21-31	forår	forår	--:----	_	
+21-32	med	med	T-:----:--:----	_	
+21-33	start	start	NC:siuc:--:----	_	
+21-34	i	i	T-:----:--:----	_	
+21-35	Herning	Herning	NP:siu#:--:----	_	
+21-36	4	4	LC:--u-:--:----	_	
+21-37	.	.	ZP	_	
+
+#id=22
+#text=Det bliver billigere at beholde den gamle varebil på gule plader.
+22-1	Det	det	PP:s-un:--:-3n-	_	
+22-2	bliver	blive	VF:----:sa:----	_	
+22-3	billigere	billig	AC:##u#:--:c---	_	
+22-4	at	at	UI:----:--:----	_	
+22-5	beholde	beholde	VI:----:-a:----	_	
+22-6	den	den	PM:s-uc:--:----	_	
+22-7	gamle	gammel	AC:sdu#:--:p---	_	
+22-8	varebil	varebil	NC:siuc:--:----	_	
+22-9	på	på	T-:----:--:----	_	
+22-10	gule	gul	AC:p#u#:--:p---	_	
+22-11	plader	plade	NC:piu#:--:----	plade_F_gule-plader	
+22-12	.	.	ZP	_	
+
+#id=23
+#text=Dansk pris for hybridmodellen på hvide plader vil nok lande omkring 900.000 kroner.
+23-1	Dansk	dansk	AC:siu§:--:p---	_	
+23-2	pris	pris	NC:siuc:--:----	_	
+23-3	for	for	T-:----:--:----	_	
+23-4	hybridmodellen	hybridmodel	NC:sduc:--:----	_	
+23-5	på	på	T-:----:--:----	_	
+23-6	hvide	hvid	AC:p#u#:--:p---	_	
+23-7	plader	plade	NC:piu#:--:----	plade_F_hvide-plader	
+23-8	vil	ville	VF:----:sa:----	_	
+23-9	nok	nok	D-:----:--:u---	_	
+23-10	lande	lande	VI:----:-a:----	_	
+23-11	omkring	omkring	T-:----:--:----	_	
+23-12	900	900	LC:--u-:--:----	_	
+23-13	.	.	ZP	_	
+23-14	000	000	LC:--u-:--:----	_	
+23-15	kroner	krone	NC:piu#:--:----	_	
+23-16	.	.	ZP	_	
+
+#id=24
+#text=DEN AMERIKANSKE saxofonist George Garzone er, som albumtitlen siger, blandt venner, her hvor den respekterede musiker lufter den Coltraneprægede tenor på en af sine relativt få plader i eget navn.
+24-1	DEN	den	PM:s-uc:--:----	_	
+24-2	AMERIKANSKE	amerikansk	AC:sdu#:--:p---	_	
+24-3	saxofonist	saxofonist	NC:siuc:--:----	_	
+24-4	George	George	NP:siu#:--:----	_	
+24-5	Garzone	Garzone	NP:siu#:--:----	_	
+24-6	er	være	VF:----:sa:----	_	
+24-7	,	,	ZD	_	
+24-8	som	som	US:----:--:----	_	
+24-9	albumtitlen	albumtitel	NC:sduc:--:----	_	
+24-10	siger	sige	VF:----:sa:----	_	
+24-11	,	,	ZD	_	
+24-12	blandt	blandt	T-:----:--:----	_	
+24-13	venner	ven	NC:piu#:--:----	_	
+24-14	,	,	ZD	_	
+24-15	her	her	D-:----:--:u---	_	
+24-16	hvor	hvor	D-:----:--:u---	_	
+24-17	den	den	PM:s-uc:--:----	_	
+24-18	respekterede	respektere	VP:sdu#:t-:----	_	
+24-19	musiker	musiker	NC:siuc:--:----	_	
+24-20	lufter	lufte	VF:----:sa:----	_	
+24-21	den	den	PM:s-uc:--:----	_	
+24-22	Coltraneprægede	Coltraneprægede	NP:siu#:--:----	_	
+24-23	tenor	tenor	NC:siuc:--:----	_	
+24-24	på	på	T-:----:--:----	_	
+24-25	en	en	PI:s-uc:--:----	_	
+24-26	af	af	T-:----:--:----	_	
+24-27	sine	sin	PO:p--#:--:-3ys	_	
+24-28	relativt	relativ	AD:----:--:p---	_	
+24-29	få	få	AC:p#u#:--:p---	_	
+24-30	plader	plade	NC:piu#:--:----	plade_2a	
+24-31	i	i	T-:----:--:----	_	
+24-32	eget	egen	AC:siun:--:p---	_	
+24-33	navn	navn	NC:siun:--:----	_	
+24-34	.	.	ZP	_	
+
+#id=25
+#text= Det er kun ' the melody at night with you', som Keith Jarrett kaldte sin plade med standards udsat for soloklaver, da han forsøgte sig i 1999.
+25-1	Det	det	PP:s-un:--:-3n-	_	
+25-2	er	være	VF:----:sa:----	_	
+25-3	kun	kun	D-:----:--:u---	_	
+25-4	'	'	ZA	_	
+25-5	the	the	--:----	_	
+25-6	melody	melody	VI:----:-a:----	_	
+25-7	at	at	XY:----:--:----	_	
+25-8	night	Night	XF:----:--:----	_	
+25-9	with	with	XF:----:--:----	_	
+25-10	you	You	XF:----:--:----	_	
+25-11	'	'	ZA	_	
+25-12	,	,	ZD	_	
+25-13	som	som	US:----:--:----	_	
+25-14	Keith	Keith	NP:siu#:--:----	_	
+25-15	Jarrett	Jarrett	NP:siu#:--:----	_	
+25-16	kaldte	kalde	VF:----:ta:----	_	
+25-17	sin	sin	PO:s--c:--:-3ys	_	
+25-18	plade	plade	NC:siuc:--:----	_	
+25-19	med	med	T-:----:--:----	_	
+25-20	standards	standard	NC:sigc:--:----	_	
+25-21	udsat	udsætte	VT:siu#:t-:----	_	
+25-22	for	for	T-:----:--:----	_	
+25-23	soloklaver	soloklaver	NC:siun:--:----	_	
+25-24	,	,	ZD	_	
+25-25	da	da	CS:----:--:----	_	
+25-26	han	han	PP:s-nc:--:-3n-	_	
+25-27	forsøgte	forsøge	VF:----:ta:----	_	
+25-28	sig	sig	PP:#-u#:--:-3y-	_	
+25-29	i	i	T-:----:--:----	_	
+25-30	1999	1999	LC:--u-:--:----	_	
+25-31	.	.	ZP	_	
+
+#id=26
+#text=Ud over numrene fra den amerikanske sangbog indeholder pladen tre egne kompositioner, hvor især den elegant impressionistiske ' Night Reflections' rammer øret rent.
+26-1	Ud	ud	D-:----:--:u---	_	
+26-2	over	over	T-:----:--:----	_	
+26-3	numrene	nummer	NC:pdu#:--:----	_	
+26-4	fra	fra	T-:----:--:----	_	
+26-5	den	den	PM:s-uc:--:----	_	
+26-6	amerikanske	amerikansk	AC:sdu#:--:p---	_	
+26-7	sangbog	sangbog	NC:siuc:--:----	_	
+26-8	indeholder	indeholde	VF:----:sa:----	_	
+26-9	pladen	plade	NC:sduc:--:----	plade_2a	
+26-10	tre	tre	LC:--u-:--:----	_	
+26-11	egne	egen	AC:p#u#:--:p---	_	
+26-12	kompositioner	komposition	NC:piu#:--:----	_	
+26-13	,	,	ZD	_	
+26-14	hvor	hvor	D-:----:--:u---	_	
+26-15	især	især	D-:----:--:u---	_	
+26-16	den	den	PM:s-uc:--:----	_	
+26-17	elegant	elegant	AD:----:--:p---	_	
+26-18	impressionistiske	impressionistiske	XY:----:--:----	_	
+26-19	'	'	ZA	_	
+26-20	Night	Night	XF:----:--:----	_	
+26-21	Reflections	Reflections	NP:siu#:--:----	_	
+26-22	'	'	ZA	_	
+26-23	rammer	ramme	VF:----:sa:----	_	
+26-24	øret	øre	NC:sdun:--:----	_	
+26-25	rent	ren	AD:----:--:p---	_	
+26-26	.	.	ZP	_	
+
+#id=27
+#text=Det er nu ti år siden, Will Oldham udgav sin første plade under navnet Bonnie ' Prince' Billy.
+27-1	Det	det	PP:s-un:--:-3n-	_	
+27-2	er	være	VF:----:sa:----	_	
+27-3	nu	nu	D-:----:--:u---	_	
+27-4	ti	ti	LC:--u-:--:----	_	
+27-5	år	år	NC:piu#:--:----	_	
+27-6	siden	siden	D-:----:--:u---	_	
+27-7	,	,	ZD	_	
+27-8	Will	Will	XF:----:--:----	_	
+27-9	Oldham	Oldham	NP:siu#:--:----	_	
+27-10	udgav	udgive	VF:----:ta:----	_	
+27-11	sin	sin	PO:s--c:--:-3ys	_	
+27-12	første	første	AC:§§u§:--:p---	_	
+27-13	plade	plade	NC:siuc:--:----	plade_2a	
+27-14	under	under	T-:----:--:----	_	
+27-15	navnet	navn	NC:sdun:--:----	_	
+27-16	Bonnie	Bonnie	NP:siu#:--:----	_	
+27-17	'	'	ZA	_	
+27-18	Prince	Prince	NP:siu#:--:----	_	
+27-19	'	'	ZA	_	
+27-20	Billy	Billy	NP:siu#:--:----	_	
+27-21	.	.	ZP	_	
+
+#id=28
+#text=Da dette stykke skulle skrives, fandt jeg ud af, at jeg ikke ejede en Sedaka-plade,  men det er jo sådan, det er med langtidsholdbar pop:
+28-1	Da	da	CS:----:--:----	_	
+28-2	dette	denne	PM:s-un:--:----	_	
+28-3	stykke	stykke	NC:siun:--:----	_	
+28-4	skulle	skulle	VF:----:ta:----	_	
+28-5	skrives	skrive	VI:----:-p:----	_	
+28-6	,	,	ZD	_	
+28-7	fandt	finde	VF:----:ta:----	_	
+28-8	jeg	jeg	PP:s-nc:--:-1n-	_	
+28-9	ud	ud	D-:----:--:u---	_	
+28-10	af	af	T-:----:--:----	_	
+28-11	,	,	ZD	_	
+28-12	at	at	CS:----:--:----	_	
+28-13	jeg	jeg	PP:s-nc:--:-1n-	_	
+28-14	ikke	ikke	D-:----:--:u---	_	
+28-15	ejede	eje	VF:----:ta:----	_	
+28-16	en	en	PI:s-uc:--:----	_	
+28-17	Sedaka	Sedaka	NP:siu#:--:----	_	
+28-18	-	-	ZH	_	
+28-19	plade	plade	NC:siuc:--:----	plade_2a	
+28-20	,	,	ZD	_	
+28-21	men	men	CC:----:--:----	_	
+28-22	det	det	PP:s-un:--:-3n-	_	
+28-23	er	være	VF:----:sa:----	_	
+28-24	jo	jo	D-:----:--:u---	_	
+28-25	sådan	sådan	-:--:u---	_	
+28-26	,	,	ZD	_	
+28-27	det	det	PP:s-un:--:-3n-	_	
+28-28	er	være	VF:----:sa:----	_	
+28-29	med	med	T-:----:--:----	_	
+28-30	langtidsholdbar	langtidsholdbar	AC:siuc:--:p---	_	
+28-31	pop	pop	NC:siuc:--:----	_	
+28-32	:	:	ZP	_	
+
+#id=29
+#text= Så typisk kunne de være 20 glade børn i svømmehallen og så Luna, der stod for sig selv og ikke ville være med til at pjaske med plader".
+29-1	Så	så	D-:----:--:u---	_	
+29-2	typisk	typisk	AD:----:--:p---	_	
+29-3	kunne	kunne	VF:----:ta:----	_	
+29-4	de	de	PP:p-n#:--:-3n-	_	
+29-5	være	være	VI:----:-a:----	_	
+29-6	20	20	LC:--u-:--:----	_	
+29-7	glade	glad	AC:p#u#:--:p---	_	
+29-8	børn	barn	NC:piu#:--:----	_	
+29-9	i	i	T-:----:--:----	_	
+29-10	svømmehallen	svømmehal	NC:sduc:--:----	_	
+29-11	og	og	CC:----:--:----	_	
+29-12	så	så	D-:----:--:u---	_	
+29-13	Luna	Luna	NP:siu#:--:----	_	
+29-14	,	,	ZD	_	
+29-15	der	der	US:----:--:----	_	
+29-16	stod	stå	VF:----:ta:----	_	
+29-17	for	for	T-:----:--:----	_	
+29-18	sig	sig	PP:#-u#:--:-3y-	_	
+29-19	selv	selv	PM:#-u#:--:----	_	
+29-20	og	og	CC:----:--:----	_	
+29-21	ikke	ikke	D-:----:--:u---	_	
+29-22	ville	ville	VF:----:ta:----	_	
+29-23	være	være	VI:----:-a:----	_	
+29-24	med	med	D-:----:--:u---	_	
+29-25	til	til	T-:----:--:----	_	
+29-26	at	at	UI:----:--:----	_	
+29-27	pjaske	pjaske	VI:----:-a:----	_	
+29-28	med	med	T-:----:--:----	_	
+29-29	plader	plade	NC:piu#:--:----	plade_1	
+29-30	"	"	ZI	_	
+29-31	.	.	ZP	_	
+
+#id=30
+#text="Hvor fedt er det at gå på en uddannelsesinstitution, hvor der tomme plader og ingen liv?
+30-1	"	"	ZI	_	
+30-2	Hvor	hvor	D-:----:--:u---	_	
+30-3	fedt	fed	AD:----:--:p---	_	
+30-4	er	være	VF:----:sa:----	_	
+30-5	det	det	PP:s-un:--:-3n-	_	
+30-6	at	at	UI:----:--:----	_	
+30-7	gå	gå	VI:----:-a:----	_	
+30-8	på	på	T-:----:--:----	_	
+30-9	en	en	PI:s-uc:--:----	_	
+30-10	uddannelsesinstitution	uddannelsesinstitution	---	_	
+30-11	,	,	ZD	_	
+30-12	hvor	hvor	D-:----:--:u---	_	
+30-13	der	der	US:----:--:----	_	
+30-14	tomme	tom	AC:p#u#:--:p---	_	
+30-15	plader	plade	NC:piu#:--:----	plade_1	
+30-16	og	og	CC:----:--:----	_	
+30-17	ingen	ingen	PI:s-uc:--:----	_	
+30-18	liv	liv	NC:piu#:--:----	_	
+30-19	?	?	ZQ	_	
+
+#id=31
+#text=Musikinteressen kom senere, da han en dag hørte Pink Floyds plade ' The Wall'.
+31-1	Musikinteressen	musikinteresse	NC:sduc:--:----	_	
+31-2	kom	komme	VF:----:ta:----	_	
+31-3	senere	sen	AC:##u#:--:c---	_	
+31-4	,	,	ZD	_	
+31-5	da	da	CS:----:--:----	_	
+31-6	han	han	PP:s-nc:--:-3n-	_	
+31-7	en	en	PI:s-uc:--:----	_	
+31-8	dag	dag	NC:siuc:--:----	_	
+31-9	hørte	høre	VF:----:ta:----	_	
+31-10	Pink	pink	AD:----:--:p---	_	
+31-11	Floyds	Floyds	NP:sig#:--:----	_	
+31-12	plade	plade	NC:siuc:--:----	plade_2a	
+31-13	'	'	ZA	_	
+31-14	The	the	XF:----:--:----	_	
+31-15	Wall	Wall	:----	_	
+31-16	'	'	ZA	_	
+31-17	.	.	ZP	_	
+
+#id=32
+#text=Kort efter købte han pladen, men så skulle familien på bondegårdsferie i Nordjylland, hvor der var en pladespiller, men ingen højtalere.
+32-1	Kort	kort	AD:----:--:p---	_	
+32-2	efter	efter	D-:----:--:u---	_	
+32-3	købte	købe	VF:----:ta:----	_	
+32-4	han	han	PP:s-nc:--:-3n-	_	
+32-5	pladen	plade	NC:sduc:--:----	_	
+32-6	,	,	ZD	_	
+32-7	men	men	CC:----:--:----	_	
+32-8	så	så	D-:----:--:u---	_	
+32-9	skulle	skulle	VF:----:ta:----	_	
+32-10	familien	familie	NC:sduc:--:----	_	
+32-11	på	på	T-:----:--:----	_	
+32-12	bondegårdsferie	bondegårdsferie	NC:siuc:--:----	_	
+32-13	i	i	T-:----:--:----	_	
+32-14	Nordjylland	Nordjylland	NP:siu#:--:----	_	
+32-15	,	,	ZD	_	
+32-16	hvor	hvor	D-:----:--:u---	_	
+32-17	der	der	US:----:--:----	_	
+32-18	var	være	VF:----:ta:----	_	
+32-19	en	en	PI:s-uc:--:----	_	
+32-20	pladespiller	pladespiller	NC:siuc:--:----	_	
+32-21	,	,	ZD	_	
+32-22	men	men	CC:----:--:----	_	
+32-23	ingen	ingen	PI:s-uc:--:----	_	
+32-24	højtalere	højtalere	NC:piu#:--:----	_	
+32-25	.	.	ZP	_	
+
+#id=33
+#text=Og ovenstående cover til U2' s nye plade korresponderer derfor ikke så satans godt med det aktuelle stormvejr, som det irske rockband pludselig har befundet sig i på det seneste, da de fik beskyldninger om skatteunddragelse på nakken.
+33-1	Og	og	CC:----:--:----	_	
+33-2	ovenstående	ovenstående	AC:§§u§:--:p---	_	
+33-3	cover	cover	NC:siun:--:----	_	
+33-4	til	til	T-:----:--:----	_	
+33-5	U2	U2	NP:siu#:--:----	_	
+33-6	'	'	ZA	_	
+33-7	s	@s	MN:sig#:--:----	_	
+33-8	nye	ny	AC:sdu#:--:p---	_	
+33-9	plade	plade	NC:siuc:--:----	plade_2a	
+33-10	korresponderer	korrespondere	VF:----:sa:----	_	
+33-11	derfor	derfor	D-:----:--:u---	_	
+33-12	ikke	ikke	D-:----:--:u---	_	
+33-13	så	så	D-:----:--:u---	_	
+33-14	satans	satans	AC:§§u§:--:p---	_	
+33-15	godt	god	AD:----:--:p---	_	
+33-16	med	med	T-:----:--:----	_	
+33-17	det	den	PM:s-un:--:----	_	
+33-18	aktuelle	aktuel	AC:sdu#:--:p---	_	
+33-19	stormvejr	stormvejr	NC:siun:--:----	_	
+33-20	,	,	ZD	_	
+33-21	som	som	US:----:--:----	_	
+33-22	det	den	PM:s-un:--:----	_	
+33-23	irske	irsk	AC:sdu#:--:p---	_	
+33-24	rockband	rockband	NC:siun:--:----	_	
+33-25	pludselig	pludselig	D-:----:--:u---	_	
+33-26	har	have	VF:----:sa:----	_	
+33-27	befundet	befinde	VT:siu#:t-:----	_	
+33-28	sig	sig	PP:#-u#:--:-3y-	_	
+33-29	i	i	T-:----:--:----	_	
+33-30	på	på	T-:----:--:----	_	
+33-31	det	den	PM:s-un:--:----	_	
+33-32	seneste	sen	AC:§du§:--:s---	_	
+33-33	,	,	ZD	_	
+33-34	da	da	CS:----:--:----	_	
+33-35	de	de	PP:p-n#:--:-3n-	_	
+33-36	fik	få	VF:----:ta:----	_	
+33-37	beskyldninger	beskyldning	NC:piu#:--:----	_	
+33-38	om	om	T-:----:--:----	_	
+33-39	skatteunddragelse	skatteunddragelse	NC:siuc:--:----	_	
+33-40	på	på	T-:----:--:----	_	
+33-41	nakken	nakke	NC:sduc:--:----	_	
+33-42	.	.	ZP	_	
+
+#id=34
+#text= Men nu er stormen tilsyneladende løjet af, og Bono og resten af U2 kan glæde sig over, at pladen straks har fortrængt Kandis fra førstepladsen på den danske albumhitliste.
+34-1	Men	men	CC:----:--:----	_	
+34-2	nu	nu	D-:----:--:u---	_	
+34-3	er	være	VF:----:sa:----	_	
+34-4	stormen	storm	NC:sduc:--:----	_	
+34-5	tilsyneladende	tilsyneladende	AD:----:--:p---	_	
+34-6	løjet	lyve	VT:siu#:t-:----	_	
+34-7	af	af	T-:----:--:----	_	
+34-8	,	,	ZD	_	
+34-9	og	og	CC:----:--:----	_	
+34-10	Bono	Bono	NP:siu#:--:----	_	
+34-11	og	og	CC:----:--:----	_	
+34-12	resten	rest	NC:sduc:--:----	_	
+34-13	af	af	T-:----:--:----	_	
+34-14	U2	U2	NP:siu#:--:----	_	
+34-15	kan	kunne	VF:----:sa:----	_	
+34-16	glæde	glæde	VI:----:-a:----	_	
+34-17	sig	sig	PP:#-u#:--:-3y-	_	
+34-18	over	over	T-:----:--:----	_	
+34-19	,	,	ZD	_	
+34-20	at	at	CS:----:--:----	_	
+34-21	pladen	plade	NC:sduc:--:----	plade_2a	
+34-22	straks	straks	D-:----:--:u---	_	
+34-23	har	have	VF:----:sa:----	_	
+34-24	fortrængt	fortrænge	VT:siu#:t-:----	_	
+34-25	Kandis	kandis	NC:siuc:--:----	_	
+34-26	fra	fra	T-:----:--:----	_	
+34-27	førstepladsen	førsteplads	NC:sduc:--:----	_	
+34-28	på	på	T-:----:--:----	_	
+34-29	den	den	PM:s-uc:--:----	_	
+34-30	danske	dansk	AC:sdu#:--:p---	_	
+34-31	albumhitliste	albumhitliste	NC:siuc:--:----	_	
+34-32	.	.	ZP	_	
+
+#id=35
+#text= En gruppe af dj's, sangere og producere, der både spiller plader og synger eller råber henover de forskellige riddims.
+35-1	En	en	PI:s-uc:--:----	_	
+35-2	gruppe	gruppe	NC:siuc:--:----	_	
+35-3	af	af	T-:----:--:----	_	
+35-4	dj	dj	NC:siuc:--:----	_	
+35-5	'	'	ZA	_	
+35-6	s	@s	MN:sig#:--:----	_	
+35-7	,	,	ZD	_	
+35-8	sangere	sanger	NC:piu#:--:----	_	
+35-9	og	og	CC:----:--:----	_	
+35-10	producere	producer	NC:piu#:--:----	_	
+35-11	,	,	ZD	_	
+35-12	der	der	US:----:--:----	_	
+35-13	både	både	D-:----:--:u---	_	
+35-14	spiller	spille	VF:----:sa:----	_	
+35-15	plader	plade	NC:piu#:--:----	plade_2a	
+35-16	og	og	CC:----:--:----	_	
+35-17	synger	synge	VF:----:sa:----	_	
+35-18	eller	eller	CC:----:--:----	_	
+35-19	råber	råbe	VF:----:sa:----	_	
+35-20	henover	henover	T-:----:--:----	_	
+35-21	de	den	PM:p-u#:--:----	_	
+35-22	forskellige	forskellig	AC:p#u#:--:p---	_	
+35-23	riddims	riddims	NC:siuc:--:----	_	
+35-24	.	.	ZP	_	
+
+#id=36
+#text=Jeg har faktisk læst mange af den slags bøger om druk og alkoholmisbrug - måske fordi jeg selv i perioder holder op med at drikke, når jeg skal arbejde meget, som for eksempel i øjeblikket med turné og indspilning af en ny Raveonettes-plade".
+36-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+36-2	har	have	VF:----:sa:----	_	
+36-3	faktisk	faktisk	AD:----:--:p---	_	
+36-4	læst	læse	VT:siu#:t-:----	_	
+36-5	mange	mangen	AC:p#u#:--:p---	_	
+36-6	af	af	T-:----:--:----	_	
+36-7	den	den	PM:s-uc:--:----	_	
+36-8	slags	slags	NC:siuc:--:----	_	
+36-9	bøger	bog	NC:piu#:--:----	_	
+36-10	om	om	T-:----:--:----	_	
+36-11	druk	druk	NC:siu#:--:----	_	
+36-12	og	og	CC:----:--:----	_	
+36-13	alkoholmisbrug	alkoholmisbrug	NC:piu#:--:----	_	
+36-14	-	-	ZH	_	
+36-15	måske	måske	D-:----:--:u---	_	
+36-16	fordi	fordi	CS:----:--:----	_	
+36-17	jeg	jeg	PP:s-nc:--:-1n-	_	
+36-18	selv	selv	PM:#-u#:--:----	_	
+36-19	i	i	T-:----:--:----	_	
+36-20	perioder	periode	NC:piu#:--:----	_	
+36-21	holder	holde	VF:----:sa:----	_	
+36-22	op	op	D-:----:--:u---	_	
+36-23	med	med	T-:----:--:----	_	
+36-24	at	at	UI:----:--:----	_	
+36-25	drikke	drikke	VI:----:-a:----	_	
+36-26	,	,	ZD	_	
+36-27	når	når	CS:----:--:----	_	
+36-28	jeg	jeg	PP:s-nc:--:-1n-	_	
+36-29	skal	skulle	VF:----:sa:----	_	
+36-30	arbejde	arbejde	VI:----:-a:----	_	
+36-31	meget	megen	AD:----:--:p---	_	
+36-32	,	,	ZD	_	
+36-33	som	som	US:----:--:----	_	
+36-34	for	for	T-:----:--:----	_	
+36-35	eksempel	eksempel	NC:siun:--:----	_	
+36-36	i	i	T-:----:--:----	_	
+36-37	øjeblikket	øjeblik	NC:sdun:--:----	_	
+36-38	med	med	T-:----:--:----	_	
+36-39	turné	turné	NC:siuc:--:----	_	
+36-40	og	og	CC:----:--:----	_	
+36-41	indspilning	indspilning	NC:siuc:--:----	_	
+36-42	af	af	T-:----:--:----	_	
+36-43	en	en	PI:s-uc:--:----	_	
+36-44	ny	ny	AC:siuc:--:p---	_	
+36-45	Raveonettes	Raveonettes	NP:siu#:--:----	_	
+36-46	-	-	ZH	_	
+36-47	plade	plade	NC:siuc:--:----	plade_2a	
+36-48	"	"	ZI	_	
+36-49	.	.	ZP	_	
+
+#id=37
+#text= For langt størstedelens vedkommende er den litterære plade blevet stukket for at imponere en samtalepartner, skriver TimesOnline.
+37-1	For	for	CC:----:--:----	_	
+37-2	langt	lang	AD:----:--:p---	_	
+37-3	størstedelens	størstedel	NC:sdgc:--:----	_	
+37-4	vedkommende	vedkommende	NC:siun:--:----	_	
+37-5	er	være	VF:----:sa:----	_	
+37-6	den	den	PM:s-uc:--:----	_	
+37-7	litterære	litterær	AC:sdu#:--:p---	_	
+37-8	plade	plade	NC:siuc:--:----	plade_F_stikke-en-plade	
+37-9	blevet	blive	VT:siu#:t-:----	_	
+37-10	stukket	stikke	VT:siu#:t-:----	_	
+37-11	for	for	T-:----:--:----	_	
+37-12	at	at	UI:----:--:----	_	
+37-13	imponere	imponere	VI:----:-a:----	_	
+37-14	en	en	PI:s-uc:--:----	_	
+37-15	samtalepartner	samtalepartner	NC:siuc:--:----	_	
+37-16	,	,	ZD	_	
+37-17	skriver	skrive	VF:----:sa:----	_	
+37-18	TimesOnline	TimesOnline	NP:siu#:--:----	_	
+37-19	.	.	ZP	_	
+
+#id=38
+#text= For selv om den 51-årige rocksanger (om end lidt modvilligt) har været svensk folkeeje siden gennembruddet med først Ebba Grön og siden Imperiet i starten af 1980' erne, udgives hans plader sjældent i Danmark.
+38-1	For	fore	VM:----:--:----	_	
+38-2	selv	selv	PM:#-u#:--:----	_	
+38-3	om	om	T-:----:--:----	_	
+38-4	den	den	PM:s-uc:--:----	_	
+38-5	51	51	LW:----:--:----	_	
+38-6	-	-	ZH	_	
+38-7	årige	årig	AC:sdu#:--:p---	_	
+38-8	rocksanger	rocksanger	NC:siuc:--:----	_	
+38-9	(	(	ZD	_	
+38-10	om	om	CS:----:--:----	_	
+38-11	end	end	CS:----:--:----	_	
+38-12	lidt	lidt	AD:----:--:p---	_	
+38-13	modvilligt	modvillig	AC:siun:--:p---	_	
+38-14	)	)	ZD	_	
+38-15	har	have	VF:----:sa:----	_	
+38-16	været	være	VT:siu#:t-:----	_	
+38-17	svensk	svensk	AC:siu§:--:p---	_	
+38-18	folkeeje	folkeeje	NC:siun:--:----	_	
+38-19	siden	siden	T-:----:--:----	_	
+38-20	gennembruddet	gennembrud	NC:sdun:--:----	_	
+38-21	med	med	T-:----:--:----	_	
+38-22	først	først	D-:----:--:u---	_	
+38-23	Ebba	Ebba	NP:siu#:--:----	_	
+38-24	Grön	Grön	#:--:----	_	
+38-25	og	og	CC:----:--:----	_	
+38-26	siden	siden	T-:----:--:----	_	
+38-27	Imperiet	imperium	NC:sdun:--:----	_	
+38-28	i	i	T-:----:--:----	_	
+38-29	starten	start	NC:sduc:--:----	_	
+38-30	af	af	T-:----:--:----	_	
+38-31	1980	1980	LC:--u-:--:----	_	
+38-32	'	'	ZA	_	
+38-33	erne	@erne	MN:pdu#:--:----	_	
+38-34	,	,	ZD	_	
+38-35	udgives	udgive	VF:----:sp:----	_	
+38-36	hans	hans	PO:#--#:--:-3ns	_	
+38-37	plader	plade	NC:piu#:--:----	plade_2a	
+38-38	sjældent	sjælden	AD:----:--:p---	_	
+38-39	i	i	T-:----:--:----	_	
+38-40	Danmark	Danmark	NP:siu#:--:----	_	
+38-41	.	.	ZP	_	
+
+#id=39
+#text= Her er der plader og instrumenter, men ingen telefon.
+39-1	Her	her	D-:----:--:u---	_	
+39-2	er	være	VF:----:sa:----	_	
+39-3	der	der	US:----:--:----	_	
+39-4	plader	plade	NC:piu#:--:----	plade_2	
+39-5	og	og	CC:----:--:----	_	
+39-6	instrumenter	instrument	NC:piu#:--:----	_	
+39-7	,	,	ZD	_	
+39-8	men	men	CC:----:--:----	_	
+39-9	ingen	ingen	PI:s-uc:--:----	_	
+39-10	telefon	telefon	NC:siuc:--:----	_	
+39-11	.	.	ZP	_	
+
+#id=40
+#text= ' Fear of a black planet' (1990) "Jeg tør slet ikke at kaste mig ud i at fortælle, hvad den her plade har betydet for musikhistorien.
+40-1	'	'	ZA	_	
+40-2	Fear	Fear	NP:siu#:--:----	_	
+40-3	of	of	XF:----:--:----	_	
+40-4	a	a	XF:----:--:----	_	
+40-5	black	Black	XF:----:--:----	_	
+40-6	planet	planet	NC:siuc:--:----	_	
+40-7	'	'	ZA	_	
+40-8	(	(	ZD	_	
+40-9	1990	1990	LC:--u-:--:----	_	
+40-10	)	)	ZD	_	
+40-11	"	"	ZI	_	
+40-12	Jeg	jeg	PP:s-nc:--:-1n-	_	
+40-13	tør	turde	VF:----:sa:----	_	
+40-14	slet	slet	D-:----:--:u---	_	
+40-15	ikke	ikke	D-:----:--:u---	_	
+40-16	at	at	UI:----:--:----	_	
+40-17	kaste	kaste	VI:----:-a:----	_	
+40-18	mig	jeg	PP:s-uc:--:-1#-	_	
+40-19	ud	ud	D-:----:--:u---	_	
+40-20	i	i	T-:----:--:----	_	
+40-21	at	at	UI:----:--:----	_	
+40-22	fortælle	fortælle	VI:----:-a:----	_	
+40-23	,	,	ZD	_	
+40-24	hvad	hvad	PR:s-u#:--:----	_	
+40-25	den	den	PP:s-uc:--:-3n-	_	
+40-26	her	her	D-:----:--:u---	_	
+40-27	plade	plade	NC:siuc:--:----	plade_2a	
+40-28	har	have	VF:----:sa:----	_	
+40-29	betydet	betyde	VT:siu#:t-:----	_	
+40-30	for	for	T-:----:--:----	_	
+40-31	musikhistorien	musikhistorie	NC:sduc:--:----	_	
+40-32	.	.	ZP	_	
+
+#id=41
+#text= ' Madvillainy' (2004) "En plade, som jeg lytter til mindst en gang om ugen.
+41-1	'	'	ZA	_	
+41-2	Madvillainy	Madvillainy	NP:siu#:--:----	_	
+41-3	'	'	ZA	_	
+41-4	(	(	ZD	_	
+41-5	2004	2004	LC:--u-:--:----	_	
+41-6	)	)	ZD	_	
+41-7	"	"	ZI	_	
+41-8	En	en	PI:s-uc:--:----	_	
+41-9	plade	plade	NC:siuc:--:----	plade_2a	
+41-10	,	,	ZD	_	
+41-11	som	som	US:----:--:----	_	
+41-12	jeg	jeg	PP:s-nc:--:-1n-	_	
+41-13	lytter	lytte	VF:----:sa:----	_	
+41-14	til	til	D-:----:--:u---	_	
+41-15	mindst	liden	AD:----:--:s---	_	
+41-16	en	en	PI:s-uc:--:----	_	
+41-17	gang	gang	NC:siuc:--:----	_	
+41-18	om	om	T-:----:--:----	_	
+41-19	ugen	uge	NC:sduc:--:----	_	
+41-20	.	.	ZP	_	
+
+#id=42
+#text= Men når jeg sad i tour-bussen og hørte den her plade, følte jeg mig hjemme.
+42-1	Men	men	CC:----:--:----	_	
+42-2	når	når	CS:----:--:----	_	
+42-3	jeg	jeg	PP:s-nc:--:-1n-	_	
+42-4	sad	sidde	VF:----:ta:----	_	
+42-5	i	i	T-:----:--:----	_	
+42-6	tour	tour	NW:----:--:----	_	
+42-7	-	-	ZH	_	
+42-8	bussen	bus	NC:sduc:--:----	_	
+42-9	og	og	CC:----:--:----	_	
+42-10	hørte	høre	VF:----:ta:----	_	
+42-11	den	den	PP:s-uc:--:-3n-	_	
+42-12	her	her	D-:----:--:u---	_	
+42-13	plade	plade	NC:siuc:--:----	plade_2a	
+42-14	,	,	ZD	_	
+42-15	følte	føle	VF:----:ta:----	_	
+42-16	jeg	jeg	PP:s-nc:--:-1n-	_	
+42-17	mig	jeg	PP:s-uc:--:-1#-	_	
+42-18	hjemme	hjemme	D-:----:--:u---	_	
+42-19	.	.	ZP	_	
+
+#id=43
+#text=Forsanger i støjrockbandet Speaker Bite Me, der har fem plader bag sig.
+43-1	Forsanger	forsanger	NC:siuc:--:----	_	
+43-2	i	i	T-:----:--:----	_	
+43-3	støjrockbandet	støjrockband	NC:sdun:--:----	_	
+43-4	Speaker	speake	VF:----:sa:----	_	
+43-5	Bite	Bite	NP:siu#:--:----	_	
+43-6	Me	Me	XF:----:--:----	_	
+43-7	,	,	ZD	_	
+43-8	der	der	US:----:--:----	_	
+43-9	har	have	VF:----:sa:----	_	
+43-10	fem	fem	LC:--u-:--:----	_	
+43-11	plader	plade	NC:piu#:--:----	plade_2a	
+43-12	bag	bag	T-:----:--:----	_	
+43-13	sig	sig	PP:#-u#:--:-3y-	_	
+43-14	.	.	ZP	_	
+
+#id=44
+#text=Med lynende skarp hukommelse kunne han levendegøre stoffet suppleret  med musik fra 78-plader samt artikler og fotoer fra tidsskrifter og bøger fra sin enorme og enestående samling.
+44-1	Med	med	D-:----:--:u---	_	
+44-2	lynende	lynende	D-:----:--:u---	_	
+44-3	skarp	skarp	AC:siuc:--:p---	_	
+44-4	hukommelse	hukommelse	NC:siuc:--:----	_	
+44-5	kunne	kunne	VF:----:ta:----	_	
+44-6	han	han	PP:s-nc:--:-3n-	_	
+44-7	levendegøre	levendegøre	VI:----:-a:----	_	
+44-8	stoffet	stof	NC:sdun:--:----	_	
+44-9	suppleret	supplere	VT:siu#:t-:----	_	
+44-10	med	med	T-:----:--:----	_	
+44-11	musik	musik	NC:siuc:--:----	_	
+44-12	fra	fra	T-:----:--:----	_	
+44-13	78	78	LC:--u-:--:----	_	
+44-14	-	-	ZH	_	
+44-15	plader	plade	NC:piu#:--:----	plade_2	
+44-16	samt	samt	CC:----:--:----	_	
+44-17	artikler	artikel	NC:piu#:--:----	_	
+44-18	og	og	CC:----:--:----	_	
+44-19	fotoer	fotoer	NC:piu#:--:----	_	
+44-20	fra	fra	T-:----:--:----	_	
+44-21	tidsskrifter	tidsskrift	NC:piu#:--:----	_	
+44-22	og	og	CC:----:--:----	_	
+44-23	bøger	bog	NC:piu#:--:----	_	
+44-24	fra	fra	T-:----:--:----	_	
+44-25	sin	sin	PO:s--c:--:-3ys	_	
+44-26	enorme	enorm	AC:sdu#:--:p---	_	
+44-27	og	og	CC:----:--:----	_	
+44-28	enestående	enestående	AC:§§u§:--:p---	_	
+44-29	samling	samling	NC:siuc:--:----	_	
+44-30	.	.	ZP	_	
+
+#id=45
+#text= De fleste af sedlerne vender dog teksten ind mod pladen, men på de mindre lyssky udmeldinger kan man læse ting som "Elsker dig Camilla W.
+45-1	De	den	PM:p-u#:--:----	_	
+45-2	fleste	mange	AC:p#u#:--:s---	_	
+45-3	af	af	T-:----:--:----	_	
+45-4	sedlerne	seddel	NC:pdu#:--:----	_	
+45-5	vender	vende	VF:----:sa:----	_	
+45-6	dog	dog	D-:----:--:u---	_	
+45-7	teksten	tekst	NC:sduc:--:----	_	
+45-8	ind	ind	D-:----:--:u---	_	
+45-9	mod	mod	T-:----:--:----	_	
+45-10	pladen	plade	NC:sduc:--:----	plade_1	
+45-11	,	,	ZD	_	
+45-12	men	men	CC:----:--:----	_	
+45-13	på	på	T-:----:--:----	_	
+45-14	de	den	PM:p-u#:--:----	_	
+45-15	mindre	liden	AD:----:--:c---	_	
+45-16	lyssky	lyssky	AC:§§u§:--:p---	_	
+45-17	udmeldinger	udmelding	NC:piu#:--:----	_	
+45-18	kan	kunne	VF:----:sa:----	_	
+45-19	man	man	PI:#-uc:--:----	_	
+45-20	læse	læse	VI:----:-a:----	_	
+45-21	ting	ting	NC:piu#:--:----	_	
+45-22	som	som	US:----:--:----	_	
+45-23	"	"	ZI	_	
+45-24	Elsker	elske	VF:----:sa:----	_	
+45-25	dig	dig	XY:----:--:----	_	
+45-26	Camilla	Camilla	NP:siu#:--:----	_	
+45-27	W	W	NP:siu#:--:----	_	
+45-28	.	.	ZP	_	
+
+#id=46
+#text=* Punch' hedder et af numrene fra Oddjobs nyeste plade, og både titel og musik indrammer temmelig præcist deres koncert i JazzHouse.
+46-1	*	*	NP:siu#:--:----	_	
+46-2	Punch	punch	NC:siuc:--:----	_	
+46-3	'	'	ZA	_	
+46-4	hedder	hedde	VF:----:sa:----	_	
+46-5	et	en	PI:s-un:--:----	_	
+46-6	af	af	T-:----:--:----	_	
+46-7	numrene	nummer	NC:pdu#:--:----	_	
+46-8	fra	fra	T-:----:--:----	_	
+46-9	Oddjobs	Oddjobs	NP:sig#:--:----	_	
+46-10	nyeste	ny	AC:§du§:--:s---	_	
+46-11	plade	plade	NC:siuc:--:----	plade_2a	
+46-12	,	,	ZD	_	
+46-13	og	og	CC:----:--:----	_	
+46-14	både	både	D-:----:--:u---	_	
+46-15	titel	titel	NC:siuc:--:----	_	
+46-16	og	og	CC:----:--:----	_	
+46-17	musik	musik	NC:siuc:--:----	_	
+46-18	indrammer	indramme	VF:----:sa:----	_	
+46-19	temmelig	temmelig	D-:----:--:u---	_	
+46-20	præcist	præcis	AD:----:--:p---	_	
+46-21	deres	deres	XY:----:--:----	_	
+46-22	koncert	koncert	NC:siuc:--:----	_	
+46-23	i	i	T-:----:--:----	_	
+46-24	JazzHouse	Jazzhouse	NP:siu#:--:----	_	
+46-25	.	.	ZP	_	
+
+#id=47
+#text= Pladen har figureret på adskillige lister over sidste års bedste udgivelser og har modtaget flest nomineringer til dette års Danish Music Awards.
+47-1	Pladen	plade	NC:sduc:--:----	plade_2a	
+47-2	har	have	VF:----:sa:----	_	
+47-3	figureret	figurere	VT:siu#:t-:----	_	
+47-4	på	på	T-:----:--:----	_	
+47-5	adskillige	adskillig	AC:p#u#:--:p---	_	
+47-6	lister	liste	NC:piu#:--:----	_	
+47-7	over	over	T-:----:--:----	_	
+47-8	sidste	sidste	AC:§§u§:--:p---	_	
+47-9	års	år	NC:sign:--:----	_	
+47-10	bedste	god	AC:§du§:--:s---	_	
+47-11	udgivelser	udgivelse	NC:piu#:--:----	_	
+47-12	og	og	CC:----:--:----	_	
+47-13	har	have	VF:----:sa:----	_	
+47-14	modtaget	modtage	VT:siu#:t-:----	_	
+47-15	flest	flest	XY:----:--:----	_	
+47-16	nomineringer	nominering	NC:piu#:--:----	_	
+47-17	til	til	T-:----:--:----	_	
+47-18	dette	denne	PM:s-un:--:----	_	
+47-19	års	år	NC:sign:--:----	_	
+47-20	Danish	Danish	NP:siu#:--:----	_	
+47-21	Music	Music	XF:----:--:----	_	
+47-22	Awards	Awards	NP:siu#:--:----	_	
+47-23	.	.	ZP	_	
+
+#id=48
+#text="Men med hensyn til 'Pære Punk', så er spørgsmålet jo, hvor mange der egentlig kender den plade.
+48-1	"	"	ZI	_	
+48-2	Men	men	CC:----:--:----	_	
+48-3	med	med	T-:----:--:----	_	
+48-4	hensyn	hensyn	NC:siun:--:----	_	
+48-5	til	til	D-:----:--:u---	_	
+48-6	'	'	ZA	_	
+48-7	Pære	pære	NC:siuc:--:----	_	
+48-8	Punk	punk	NC:siuc:--:----	_	
+48-9	'	'	ZA	_	
+48-10	,	,	ZD	_	
+48-11	så	så	D-:----:--:u---	_	
+48-12	er	være	VF:----:sa:----	_	
+48-13	spørgsmålet	spørgsmål	NC:sdun:--:----	_	
+48-14	jo	jo	D-:----:--:u---	_	
+48-15	,	,	ZD	_	
+48-16	hvor	hvor	D-:----:--:u---	_	
+48-17	mange	mangen	AC:p#u#:--:p---	_	
+48-18	der	der	US:----:--:----	_	
+48-19	egentlig	egentlig	D-:----:--:u---	_	
+48-20	kender	kende	VF:----:sa:----	_	
+48-21	den	den	PM:s-uc:--:----	_	
+48-22	plade	plade	NC:siuc:--:----	plade_2a	
+48-23	.	.	ZP	_	
+
+#id=49
+#text= Måske er det teknikken, monotypi, hvor man påfører en plade farve for derefter at dække pladen med papir og kører den gennem en trykpresse, der gør godt.
+49-1	Måske	måske	D-:----:--:u---	_	
+49-2	er	være	VF:----:sa:----	_	
+49-3	det	det	PP:s-un:--:-3n-	_	
+49-4	teknikken	teknik	NC:sduc:--:----	_	
+49-5	,	,	ZD	_	
+49-6	monotypi	monotypi	NW:----:--:----	_	
+49-7	,	,	ZD	_	
+49-8	hvor	hvor	D-:----:--:u---	_	
+49-9	man	man	PI:#-uc:--:----	_	
+49-10	påfører	påføre	VF:----:sa:----	_	
+49-11	en	en	PI:s-uc:--:----	_	
+49-12	plade	de	NC:siuc:--:----	plade_1	
+49-13	farve	farve	NC:siuc:--:----	_	
+49-14	for	for	T-:----:--:----	_	
+49-15	derefter	derefter	D-:----:--:u---	_	
+49-16	at	at	UI:----:--:----	_	
+49-17	dække	dække	VI:----:-a:----	_	
+49-18	pladen	plade	NC:sduc:--:----	plade_1	
+49-19	med	med	T-:----:--:----	_	
+49-20	papir	papir	NC:siun:--:----	_	
+49-21	og	og	CC:----:--:----	_	
+49-22	kører	køre	VF:----:sa:----	_	
+49-23	den	den	PP:s-uc:--:-3n-	_	
+49-24	gennem	gennem	T-:----:--:----	_	
+49-25	en	en	PI:s-uc:--:----	_	
+49-26	trykpresse	trykpresse	NC:siuc:--:----	_	
+49-27	,	,	ZD	_	
+49-28	der	der	US:----:--:----	_	
+49-29	gør	gøre	VF:----:sa:----	_	
+49-30	godt	god	AD:----:--:p---	_	
+49-31	.	.	ZP	_	
+
+#id=50
+#text=Melodierne på den klichéfede cd er i øvrigt traditionelle, folkelige sicilianske sange, og er man alligevel i køkkenet med en Nero d'Avola i glasset, er dette såmænd en hyggelig plade at smække i afspilleren.
+50-1	Melodierne	melodi	NC:pdu#:--:----	_	
+50-2	på	på	T-:----:--:----	_	
+50-3	den	den	PM:s-uc:--:----	_	
+50-4	klichéfede	klichéfed	AC:sdu#:--:p---	_	
+50-5	cd	cd	NC:siuc:--:----	_	
+50-6	er	være	VF:----:sa:----	_	
+50-7	i	i	T-:----:--:----	_	
+50-8	øvrigt	øvrig	AD:----:--:p---	_	
+50-9	traditionelle	traditionel	AC:p#u#:--:p---	_	
+50-10	,	,	ZD	_	
+50-11	folkelige	folkelig	AC:p#u#:--:p---	_	
+50-12	sicilianske	siciliansk	AC:p#u#:--:p---	_	
+50-13	sange	sang	NC:piu#:--:----	_	
+50-14	,	,	ZD	_	
+50-15	og	og	CC:----:--:----	_	
+50-16	er	være	VF:----:sa:----	_	
+50-17	man	man	PI:#-uc:--:----	_	
+50-18	alligevel	alligevel	D-:----:--:u---	_	
+50-19	i	i	T-:----:--:----	_	
+50-20	køkkenet	køkken	NC:sdun:--:----	_	
+50-21	med	med	T-:----:--:----	_	
+50-22	en	en	PI:s-uc:--:----	_	
+50-23	Nero	Nero	NP:siu#:--:----	_	
+50-24	d	d	NP:siu#:--:----	_	
+50-25	'	'	ZA	_	
+50-26	Avola	Avola	NP:siu#:--:----	_	
+50-27	i	i	T-:----:--:----	_	
+50-28	glasset	glas	NC:sdun:--:----	_	
+50-29	,	,	ZD	_	
+50-30	er	være	VF:----:sa:----	_	
+50-31	dette	denne	PM:s-un:--:----	_	
+50-32	såmænd	såmænd	D-:----:--:u---	_	
+50-33	en	en	PI:s-uc:--:----	_	
+50-34	hyggelig	hyggelig	AC:siuc:--:p---	_	
+50-35	plade	plade	NC:siuc:--:----	plade_2a	
+50-36	at	at	UI:----:--:----	_	
+50-37	smække	smække	VI:----:-a:----	_	
+50-38	i	i	T-:----:--:----	_	
+50-39	afspilleren	afspiller	NC:sduc:--:----	_	
+50-40	.	.	ZP	_	
+
+#id=51
+#text= marts afholder banko, er præmierne for en fuld plade vaskeægte kunstværker - af blandt andre så anerkendte kunstnere som Jørgen Nash og Per Kirkeby.
+51-1	marts	marts	NC:siuc:--:----	_	
+51-2	afholder	afholde	VF:----:sa:----	_	
+51-3	banko	banko	NC:siuc:--:----	_	
+51-4	,	,	ZD	_	
+51-5	er	være	VF:----:sa:----	_	
+51-6	præmierne	præmie	NC:pdu#:--:----	_	
+51-7	for	for	T-:----:--:----	_	
+51-8	en	en	PI:s-uc:--:----	_	
+51-9	fuld	fuld	AC:siuc:--:p---	_	
+51-10	plade	plade	NC:siuc:--:----	plade_5	
+51-11	vaskeægte	vaskeægte	AC:§§u§:--:p---	_	
+51-12	kunstværker	kunstværk	NW:----:--:----	_	
+51-13	-	-	ZH	_	
+51-14	af	af	D-:----:--:u---	_	
+51-15	blandt	blandt	T-:----:--:----	_	
+51-16	andre	anden	PI:p-u#:--:----	_	
+51-17	så	så	D-:----:--:u---	_	
+51-18	anerkendte	anerkende	VP:p#u#:t-:----	_	
+51-19	kunstnere	kunstner	NC:piu#:--:----	_	
+51-20	som	som	US:----:--:----	_	
+51-21	Jørgen	Jørgen	NP:siu#:--:----	_	
+51-22	Nash	Nash	----	_	
+51-23	og	og	CC:----:--:----	_	
+51-24	Per	Per	NP:siu#:--:----	_	
+51-25	Kirkeby	Kirkeby	NP:siu#:--:----	_	
+51-26	.	.	ZP	_	
+
+#id=52
+#text= Der vil blive udloddet kunst for i alt 50.000 kroner, og man skal bløde 500 kroner for to plader.
+52-1	Der	der	US:----:--:----	_	
+52-2	vil	ville	VF:----:sa:----	_	
+52-3	blive	blive	VI:----:-a:----	_	
+52-4	udloddet	udlodde	VT:siu#:t-:----	_	
+52-5	kunst	kunst	NC:siuc:--:----	_	
+52-6	for	for	T-:----:--:----	_	
+52-7	i	i	T-:----:--:----	_	
+52-8	alt	al	PI:s-un:--:----	_	
+52-9	50	50	LO:--u#:--:----	_	
+52-10	.	.	ZP	_	
+52-11	000	000	LC:--u-:--:----	_	
+52-12	kroner	krone	NC:piu#:--:----	_	
+52-13	,	,	ZD	_	
+52-14	og	og	CC:----:--:----	_	
+52-15	man	man	PI:#-uc:--:----	_	
+52-16	skal	skulle	VF:----:sa:----	_	
+52-17	bløde	bløde	VI:----:-a:----	_	
+52-18	500	500	LC:--u-:--:----	_	
+52-19	kroner	krone	NC:piu#:--:----	_	
+52-20	for	for	T-:----:--:----	_	
+52-21	to	to	LC:--u-:--:----	_	
+52-22	plader	plade	NC:piu#:--:----	plade_5	
+52-23	.	.	ZP	_	
+
+#id=53
+#text= Som eksempelvis kommer til udtryk i Ole 'Fessor' Lindgrens growlende trombonespil på den roots-agtige fortolkning af Bob Dylans 'Things Have Changed', der indleder pladen.
+53-1	Som	som	US:----:--:----	_	
+53-2	eksempelvis	eksempelvis	D-:----:--:u---	_	
+53-3	kommer	komme	VF:----:sa:----	_	
+53-4	til	til	T-:----:--:----	_	
+53-5	udtryk	udtryk	NC:siun:--:----	_	
+53-6	i	i	T-:----:--:----	_	
+53-7	Ole	Ole	NP:siu#:--:----	_	
+53-8	'	'	ZA	_	
+53-9	Fessor	Fessor	NP:siu#:--:----	_	
+53-10	'	'	ZA	_	
+53-11	Lindgrens	Lindgren	NP:sig#:--:----	_	
+53-12	growlende	growle	VP:##u#:s-:----	_	
+53-13	trombonespil	trombonespil	NC:siun:--:----	_	
+53-14	på	på	T-:----:--:----	_	
+53-15	den	den	PM:s-uc:--:----	_	
+53-16	roots	roots	XF:----:--:----	_	
+53-17	-	-	ZH	_	
+53-18	agtige	agtig	AC:sdu#:--:p---	_	
+53-19	fortolkning	fortolkning	NC:siuc:--:----	_	
+53-20	af	af	T-:----:--:----	_	
+53-21	Bob	Bob	NP:siu#:--:----	_	
+53-22	Dylans	Dylan	NP:sig#:--:----	_	
+53-23	'	'	ZA	_	
+53-24	Things	Thing	NP:sig#:--:----	_	
+53-25	Have	have	NC:siuc:--:----	_	
+53-26	Changed	Changed	NP:siu#:--:----	_	
+53-27	'	'	ZA	_	
+53-28	,	,	ZD	_	
+53-29	der	der	US:----:--:----	_	
+53-30	indleder	indlede	VF:----:sa:----	_	
+53-31	pladen	plade	NC:sduc:--:----	plade_2a	
+53-32	.	.	ZP	_	
+
+#id=54
+#text=Men det skal ikke skygge for, at denne Plade er en overvældende musikalsk oplevelse og et stykke verdensmusik af den mest interessante slags.
+54-1	Men	men	CC:----:--:----	_	
+54-2	det	det	PP:s-un:--:-3n-	_	
+54-3	skal	skulle	VF:----:sa:----	_	
+54-4	ikke	ikke	D-:----:--:u---	_	
+54-5	skygge	skygge	VI:----:-a:----	_	
+54-6	for	for	T-:----:--:----	_	
+54-7	,	,	ZD	_	
+54-8	at	at	CS:----:--:----	_	
+54-9	denne	denne	PM:s-uc:--:----	_	
+54-10	Plade	plade	NC:siuc:--:----	plade_2a	
+54-11	er	være	VF:----:sa:----	_	
+54-12	en	en	PI:s-uc:--:----	_	
+54-13	overvældende	overvældende	AC:§§u§:--:p---	_	
+54-14	musikalsk	musikalsk	AC:siu§:--:p---	_	
+54-15	oplevelse	oplevelse	NC:siuc:--:----	_	
+54-16	og	og	CC:----:--:----	_	
+54-17	et	en	PI:s-un:--:----	_	
+54-18	stykke	stykke	NC:siun:--:----	_	
+54-19	verdensmusik	verdensmusik	NC:siuc:--:----	_	
+54-20	af	af	T-:----:--:----	_	
+54-21	den	den	PM:s-uc:--:----	_	
+54-22	mest	megen	AD:----:--:s---	_	
+54-23	interessante	interessant	AC:sdu#:--:p---	_	
+54-24	slags	slags	NC:siuc:--:----	_	
+54-25	.	.	ZP	_	
+
+#id=55
+#text= Dén trio skal man have en vis alder for at huske, for bortset fra radiohittet 'Marble Afternoon' fra pladen 'Careless' fra 1989 var Naïve et endnu mere overset navn end den ligeledes britisk inspirerede og beslægtede danske gruppe Gangway.
+55-1	Dén	den	PM:s-uc:--:----	_	
+55-2	trio	trio	NC:siuc:--:----	_	
+55-3	skal	skulle	VF:----:sa:----	_	
+55-4	man	man	PI:#-uc:--:----	_	
+55-5	have	have	VI:----:-a:----	_	
+55-6	en	en	PI:s-uc:--:----	_	
+55-7	vis	vis	AC:siuc:--:p---	_	
+55-8	alder	alder	NC:siuc:--:----	_	
+55-9	for	for	T-:----:--:----	_	
+55-10	at	at	UI:----:--:----	_	
+55-11	huske	huske	VI:----:-a:----	_	
+55-12	,	,	ZD	_	
+55-13	for	for	CC:----:--:----	_	
+55-14	bortset	bortset	D-:----:--:u---	_	
+55-15	fra	fra	T-:----:--:----	_	
+55-16	radiohittet	radiohittet	XY:----:--:----	_	
+55-17	'	'	ZA	_	
+55-18	Marble	Marble	NP:siu#:--:----	_	
+55-19	Afternoon	Afternoon	NP:siu#:--:----	_	
+55-20	'	'	ZA	_	
+55-21	fra	fra	T-:----:--:----	_	
+55-22	pladen	plade	NW:----:--:----	plade_2a	
+55-23	'	'	ZA	_	
+55-24	Careless	Careless	NP:sig#:--:----	_	
+55-25	'	'	ZA	_	
+55-26	fra	fra	T-:----:--:----	_	
+55-27	1989	1989	LC:--u-:--:----	_	
+55-28	var	være	VF:----:ta:----	_	
+55-29	Naïve	Naïve	NP:siu#:--:----	_	
+55-30	et	en	PI:s-un:--:----	_	
+55-31	endnu	endnu	D-:----:--:u---	_	
+55-32	mere	megen	AD:----:--:c---	_	
+55-33	overset	overse	VT:siu#:t-:----	_	
+55-34	navn	navn	NC:siun:--:----	_	
+55-35	end	end	CS:----:--:----	_	
+55-36	den	den	:-3n-	_	
+55-37	ligeledes	ligeledes	D-:----:--:u---	_	
+55-38	britisk	britisk	AD:----:--:p---	_	
+55-39	inspirerede	inspirere	VP:p#u#:t-:----	_	
+55-40	og	og	CC:----:--:----	_	
+55-41	beslægtede	beslægtet	AC:sdu#:--:p---	_	
+55-42	danske	dansk	AC:sdu#:--:p---	_	
+55-43	gruppe	gruppe	NC:siuc:--:----	_	
+55-44	Gangway	Gangway	NP:siu#:--:----	_	
+55-45	.	.	ZP	_	
+
+#id=56
+#text= Hassig medvirkede på mange plader, og Lynggaard hiver den ene efter den anden op i vinylform.
+56-1	Hassig	Hassig	NP:siu#:--:----	_	
+56-2	medvirkede	medvirke	VF:----:ta:----	_	
+56-3	på	på	T-:----:--:----	_	
+56-4	mange	mangen	AC:p#u#:--:p---	_	
+56-5	plader	plade	NC:piu#:--:----	plade_2a	
+56-6	,	,	ZD	_	
+56-7	og	og	CC:----:--:----	_	
+56-8	Lynggaard	Lynggaard	NP:siu#:--:----	_	
+56-9	hiver	hive	VF:----:sa:----	_	
+56-10	den	den	PM:s-uc:--:----	_	
+56-11	ene	ene	AC:§§u§:--:p---	_	
+56-12	efter	efter	T-:----:--:----	_	
+56-13	den	den	PM:s-uc:--:----	_	
+56-14	anden	anden	PI:s-uc:--:----	_	
+56-15	op	op	D-:----:--:u---	_	
+56-16	i	i	T-:----:--:----	_	
+56-17	vinylform	vinylform	NC:siuc:--:----	_	
+56-18	.	.	ZP	_	
+
+#id=57
+#text=Når min far satte plader på, Røde mor, Woodstock-pladen, Christiania-pladen, og vi dansede, så bøjede min mor sig forover, så håret faldt frem for ansigtet,  og hun stod med skrævende ben og boksede i luften mellem disse ben.
+57-1	Når	når	CS:----:--:----	_	
+57-2	min	min	PO:s--c:--:-1ns	_	
+57-3	far	far	NC:siuc:--:----	_	
+57-4	satte	sat	AC:p#u#:--:p---	_	
+57-5	plader	plade	NC:piu#:--:----	plade_2a	
+57-6	på	på	T-:----:--:----	_	
+57-7	,	,	ZD	_	
+57-8	Røde	rød	AC:sdu#:--:p---	_	
+57-9	mor	mor	NC:siuc:--:----	_	
+57-10	,	,	ZD	_	
+57-11	Woodstock	Woodstock	NP:siu#:--:----	_	
+57-12	-	-	ZH	_	
+57-13	pladen	plade	NC:sduc:--:----	_	
+57-14	,	,	ZD	_	
+57-15	Christiania	Christiania	NW:----:--:----	_	
+57-16	-	-	ZH	_	
+57-17	pladen	plade	NC:sduc:--:----	_	
+57-18	,	,	ZD	_	
+57-19	og	og	CC:----:--:----	_	
+57-20	vi	vi	PP:p-nc:--:-1n-	_	
+57-21	dansede	danse	VF:----:ta:----	_	
+57-22	,	,	ZD	_	
+57-23	så	så	D-:----:--:u---	_	
+57-24	bøjede	bøje	VF:----:ta:----	_	
+57-25	min	min	PO:s--c:--:-1ns	_	
+57-26	mor	mor	NC:siuc:--:----	_	
+57-27	sig	sig	XY:----:--:----	_	
+57-28	forover	forover	D-:----:--:u---	_	
+57-29	,	,	ZD	_	
+57-30	så	så	CS:----:--:----	_	
+57-31	håret	hår	NC:sdun:--:----	_	
+57-32	faldt	falde	VF:----:ta:----	_	
+57-33	frem	frem	D-:----:--:u---	_	
+57-34	for	for	T-:----:--:----	_	
+57-35	ansigtet	ansigt	NC:sdun:--:----	_	
+57-36	,	,	ZD	_	
+57-37	og	og	CC:----:--:----	_	
+57-38	hun	hun	PP:s-nc:--:-3n-	_	
+57-39	stod	stå	VF:----:ta:----	_	
+57-40	med	med	T-:----:--:----	_	
+57-41	skrævende	skræve	VP:##u#:s-:----	_	
+57-42	ben	ben	NC:piu#:--:----	_	
+57-43	og	og	CC:----:--:----	_	
+57-44	boksede	bokse	VF:----:ta:----	_	
+57-45	i	i	T-:----:--:----	_	
+57-46	luften	luft	NC:sduc:--:----	_	
+57-47	mellem	mellem	T-:----:--:----	_	
+57-48	disse	denne	PM:p-u#:--:----	_	
+57-49	ben	ben	NC:piu#:--:----	_	
+57-50	.	.	ZP	_	
+
+#id=58
+#text=, så fortæller jeg jo ikke om svampetrips i Dyrehaven, så spørger jeg til finanserne og damerne og champagnen, og når jeg så vender mig om og ser en eller anden kunstner stå og kede sig, så skynder jeg mig at spørge til den nye plade eller farverne i rummet og tonerne i musikken".
+58-1	,	,	ZD	_	
+58-2	så	så	D-:----:--:u---	_	
+58-3	fortæller	fortælle	VF:----:sa:----	_	
+58-4	jeg	jeg	PP:s-nc:--:-1n-	_	
+58-5	jo	jo	D-:----:--:u---	_	
+58-6	ikke	ikke	D-:----:--:u---	_	
+58-7	om	om	T-:----:--:----	_	
+58-8	svampetrips	svampetrip	NC:piu#:--:----	_	
+58-9	i	i	T-:----:--:----	_	
+58-10	Dyrehaven	dyrehave	NC:sduc:--:----	_	
+58-11	,	,	ZD	_	
+58-12	så	så	D-:----:--:u---	_	
+58-13	spørger	spørge	VF:----:sa:----	_	
+58-14	jeg	jeg	PP:s-nc:--:-1n-	_	
+58-15	til	til	T-:----:--:----	_	
+58-16	finanserne	finans	NC:pdu#:--:----	_	
+58-17	og	og	CC:----:--:----	_	
+58-18	damerne	dame	NC:pdu#:--:----	_	
+58-19	og	og	CC:----:--:----	_	
+58-20	champagnen	champagne	NC:sduc:--:----	_	
+58-21	,	,	ZD	_	
+58-22	og	og	CC:----:--:----	_	
+58-23	når	når	CS:----:--:----	_	
+58-24	jeg	jeg	PP:s-nc:--:-1n-	_	
+58-25	så	så	D-:----:--:u---	_	
+58-26	vender	vende	VF:----:sa:----	_	
+58-27	mig	jeg	PP:s-uc:--:-1#-	_	
+58-28	om	om	D-:----:--:u---	_	
+58-29	og	og	CC:----:--:----	_	
+58-30	ser	se	VF:----:sa:----	_	
+58-31	en	en	PI:s-uc:--:----	_	
+58-32	eller	eller	CC:----:--:----	_	
+58-33	anden	anden	PI:s-uc:--:----	_	
+58-34	kunstner	kunstner	NC:siuc:--:----	_	
+58-35	stå	stå	VI:----:-a:----	_	
+58-36	og	og	CC:----:--:----	_	
+58-37	kede	kede	VI:----:-a:----	_	
+58-38	sig	sig	PP:#-u#:--:-3y-	_	
+58-39	,	,	ZD	_	
+58-40	så	så	D-:----:--:u---	_	
+58-41	skynder	skynde	VF:----:sa:----	_	
+58-42	jeg	jeg	PP:s-nc:--:-1n-	_	
+58-43	mig	jeg	PP:s-uc:--:-1#-	_	
+58-44	at	at	UI:----:--:----	_	
+58-45	spørge	spørge	VI:----:-a:----	_	
+58-46	til	til	T-:----:--:----	_	
+58-47	den	den	PM:s-uc:--:----	_	
+58-48	nye	ny	AC:sdu#:--:p---	_	
+58-49	plade	plade	NC:siuc:--:----	plade_2a	
+58-50	eller	eller	CC:----:--:----	_	
+58-51	farverne	farve	NC:pdu#:--:----	_	
+58-52	i	i	T-:----:--:----	_	
+58-53	rummet	rum	NC:sdun:--:----	_	
+58-54	og	og	CC:----:--:----	_	
+58-55	tonerne	tone	NC:pdu#:--:----	_	
+58-56	i	i	T-:----:--:----	_	
+58-57	musikken	musik	NC:sduc:--:----	_	
+58-58	"	"	ZI	_	
+58-59	.	.	ZP	_	
+
+#id=59
+#text= Det forhindrer Imidlertid Ikke Pladen i at Være Ganske indtagende og Pege i Retning af såvel islandske Björk - det er nok der, det drømmeagtige stammer fra - som nyere fusionsmusik.
+59-1	Det	det	PP:s-un:--:-3n-	_	
+59-2	forhindrer	forhindre	VF:----:sa:----	_	
+59-3	Imidlertid	imidlertid	D-:----:--:u---	_	
+59-4	Ikke	ikke	D-:----:--:u---	_	
+59-5	Pladen	plade	NC:sduc:--:----	plade_2a	
+59-6	i	i	T-:----:--:----	_	
+59-7	at	at	UI:----:--:----	_	
+59-8	Være	være	VI:----:-a:----	_	
+59-9	Ganske	ganske	D-:----:--:u---	_	
+59-10	indtagende	indtage	VP:##u#:s-:----	_	
+59-11	og	og	CC:----:--:----	_	
+59-12	Pege	pege	VI:----:-a:----	_	
+59-13	i	i	T-:----:--:----	_	
+59-14	Retning	retning	NC:siuc:--:----	_	
+59-15	af	af	T-:----:--:----	_	
+59-16	såvel	såvel	CC:----:--:----	_	
+59-17	islandske	islandsk	AC:sdu#:--:p---	_	
+59-18	Björk	Björk	NP:siu#:--:----	_	
+59-19	-	-	ZH	_	
+59-20	det	det	XY:----:--:----	_	
+59-21	er	være	VF:----:sa:----	_	
+59-22	nok	nok	D-:----:--:u---	_	
+59-23	der	der	D-:----:--:u---	_	
+59-24	,	,	ZD	_	
+59-25	det	den	PM:s-un:--:----	_	
+59-26	drømmeagtige	drømmeagtig	AC:sdu#:--:p---	_	
+59-27	stammer	stammer	NC:siuc:--:----	_	
+59-28	fra	fra	T-:----:--:----	_	
+59-29	-	-	NC:piu#:--:----	_	
+59-30	som	som	US:----:--:----	_	
+59-31	nyere	ny	AC:##u#:--:c---	_	
+59-32	fusionsmusik	fusionsmusik	NC:siuc:--:----	_	
+59-33	.	.	ZP	_	
+
+#id=60
+#text=Hør det sprøde klik fra højtalerne, når pickuppen placeres på den snurrende plade.
+60-1	Hør	hør	VM:----:--:----	_	
+60-2	det	det	PP:s-un:--:-3n-	_	
+60-3	sprøde	sprød	AC:p#u#:--:p---	_	
+60-4	klik	klik	NC:piu#:--:----	_	
+60-5	fra	fra	T-:----:--:----	_	
+60-6	højtalerne	højtalerne	NC:pdu#:--:----	_	
+60-7	,	,	ZD	_	
+60-8	når	når	CS:----:--:----	_	
+60-9	pickuppen	pickup	NC:sduc:--:----	_	
+60-10	placeres	placere	VF:----:sp:----	_	
+60-11	på	på	T-:----:--:----	_	
+60-12	den	den	PM:s-uc:--:----	_	
+60-13	snurrende	snurre	VP:##u#:s-:----	_	
+60-14	plade	plade	NC:siuc:--:----	plade_2	
+60-15	.	.	ZP	_	
+
+#id=61
+#text= "Der er samlere, der prøver at lave penge på sjældne plader, ligesom nogle gør med antikviteter.
+61-1	"	"	ZI	_	
+61-2	Der	der	US:----:--:----	_	
+61-3	er	være	VF:----:sa:----	_	
+61-4	samlere	samler	NC:piu#:--:----	_	
+61-5	,	,	ZD	_	
+61-6	der	der	US:----:--:----	_	
+61-7	prøver	prøve	VF:----:sa:----	_	
+61-8	at	at	UI:----:--:----	_	
+61-9	lave	lave	VI:----:-a:----	_	
+61-10	penge	penge	NC:piu#:--:----	_	
+61-11	på	på	T-:----:--:----	_	
+61-12	sjældne	sjælden	AC:p#u#:--:p---	_	
+61-13	plader	plade	NC:piu#:--:----	plade_2	
+61-14	,	,	ZD	_	
+61-15	ligesom	ligesom	CS:----:--:----	_	
+61-16	nogle	nogen	PI:p-u#:--:----	_	
+61-17	gør	gøre	VF:----:sa:----	_	
+61-18	med	med	T-:----:--:----	_	
+61-19	antikviteter	antikvitet	NC:piu#:--:----	_	
+61-20	.	.	ZP	_	
+
+#id=62
+#text= Plader, der er lavet efter 1993, er for eksempel meget sjældne, fordi cd'ens indtog satte pladeproduktionen i stå, og alle solgte ud af deres pladesamlinger.
+62-1	Plader	plade	NC:piu#:--:----	plade_2	
+62-2	,	,	ZD	_	
+62-3	der	der	US:----:--:----	_	
+62-4	er	være	VF:----:sa:----	_	
+62-5	lavet	lave	VT:siu#:t-:----	_	
+62-6	efter	efter	T-:----:--:----	_	
+62-7	1993	1993	LC:--u-:--:----	_	
+62-8	,	,	ZD	_	
+62-9	er	være	VF:----:sa:----	_	
+62-10	for	for	--:--:----	_	
+62-11	eksempel	eksempel	NC:siun:--:----	_	
+62-12	meget	megen	AD:----:--:p---	_	
+62-13	sjældne	sjælden	AC:p#u#:--:p---	_	
+62-14	,	,	ZD	_	
+62-15	fordi	fordi	CS:----:--:----	_	
+62-16	cd	cd	NC:siuc:--:----	_	
+62-17	'	'	XY:----:--:----	_	
+62-18	ens	ens	AC:§§u§:--:p---	_	
+62-19	indtog	indtog	NC:siun:--:----	_	
+62-20	satte	sætte	VF:----:ta:----	_	
+62-21	pladeproduktionen	pladeproduktion	NC:sduc:--:----	_	
+62-22	i	i	T-:----:--:----	_	
+62-23	stå	stå	NC:§§u§:--:----	_	
+62-24	,	,	ZD	_	
+62-25	og	og	CC:----:--:----	_	
+62-26	alle	al	PI:p-u#:--:----	_	
+62-27	solgte	sælge	VF:----:ta:----	_	
+62-28	ud	ud	D-:----:--:u---	_	
+62-29	af	af	T-:----:--:----	_	
+62-30	deres	deres	PO:#--#:--:-3np	_	
+62-31	pladesamlinger	pladesamling	NC:piu#:--:----	_	
+62-32	.	.	ZP	_	
+
+#id=63
+#text= I dag er det ikke usædvanligt, at en ung pige kommer ind og betaler 2.500 kroner for en pladespiller, og bare i København er der jo dukket ti-tolv små pladebutikker op, som ikke laver andet end at sælge vinyl-plader", siger Kristian Hansen fra Lydbutikken.
+63-1	I	i	T-:----:--:----	_	
+63-2	dag	dag	NC:siuc:--:----	_	
+63-3	er	være	VF:----:sa:----	_	
+63-4	det	det	PP:s-un:--:-3n-	_	
+63-5	ikke	ikke	D-:----:--:u---	_	
+63-6	usædvanligt	usædvanlig	AC:siun:--:p---	_	
+63-7	,	,	ZD	_	
+63-8	at	at	CS:----:--:----	_	
+63-9	en	en	PI:s-uc:--:----	_	
+63-10	ung	ung	AC:siuc:--:p---	_	
+63-11	pige	pige	NC:siuc:--:----	_	
+63-12	kommer	komme	VF:----:sa:----	_	
+63-13	ind	ind	D-:----:--:u---	_	
+63-14	og	og	CC:----:--:----	_	
+63-15	betaler	betale	VF:----:sa:----	_	
+63-16	2	2	LC:--u-:--:----	_	
+63-17	.	.	ZP	_	
+63-18	500	500	LC:--u-:--:----	_	
+63-19	kroner	krone	NC:piu#:--:----	_	
+63-20	for	for	T-:----:--:----	_	
+63-21	en	en	PI:s-uc:--:----	_	
+63-22	pladespiller	pladespiller	NC:siuc:--:----	_	
+63-23	,	,	ZD	_	
+63-24	og	og	CC:----:--:----	_	
+63-25	bare	bare	D-:----:--:u---	_	
+63-26	i	i	T-:----:--:----	_	
+63-27	København	København	NP:siu#:--:----	_	
+63-28	er	være	VF:----:sa:----	_	
+63-29	der	der	US:----:--:----	_	
+63-30	jo	jo	D-:----:--:u---	_	
+63-31	dukket	dukke	VT:siu#:t-:----	_	
+63-32	ti	ti	LC:--u-:--:----	_	
+63-33	-	-	ZH	_	
+63-34	tolv	tolv	LC:--u-:--:----	_	
+63-35	små	lille	AC:p#u#:--:p---	_	
+63-36	pladebutikker	pladebutik	NC:piu#:--:----	_	
+63-37	op	op	D-:----:--:u---	_	
+63-38	,	,	ZD	_	
+63-39	som	som	US:----:--:----	_	
+63-40	ikke	ikke	D-:----:--:u---	_	
+63-41	laver	lave	VF:----:sa:----	_	
+63-42	andet	anden	PI:s-un:--:----	_	
+63-43	end	end	CS:----:--:----	_	
+63-44	at	at	UI:----:--:----	_	
+63-45	sælge	sælge	VI:----:-a:----	_	
+63-46	vinyl	vinyl	NW:----:--:----	_	
+63-47	-	-	ZH	_	
+63-48	plader	plade	NC:piu#:--:----	plade_2	
+63-49	"	"	ZI	_	
+63-50	,	,	ZD	_	
+63-51	siger	sige	VF:----:sa:----	_	
+63-52	Kristian	Kristian	NP:siu#:--:----	_	
+63-53	Hansen	Hansen	NP:siu#:--:----	_	
+63-54	fra	fra	T-:----:--:----	_	
+63-55	Lydbutikken	Lydbutikken	NP:siu#:--:----	_	
+63-56	.	.	ZP	_	
+
+#id=64
+#text= Men folk vil alligevel gerne have et cover, de kan se på og røre ved, de vil gerne have et stykke kunst i hånden, og så køber de plader", siger Kristian Hansen og tilføjer, at det for mange af butikkens kunder selvfølgelig også handler om lydkvalitet.
+64-1	Men	men	CC:----:--:----	_	
+64-2	folk	folk	NC:piu#:--:----	_	
+64-3	vil	ville	VF:----:sa:----	_	
+64-4	alligevel	alligevel	D-:----:--:u---	_	
+64-5	gerne	gerne	D-:----:--:u---	_	
+64-6	have	have	VI:----:-a:----	_	
+64-7	et	en	PI:s-un:--:----	_	
+64-8	cover	cover	NC:siun:--:----	_	
+64-9	,	,	ZD	_	
+64-10	de	de	PP:p-n#:--:-3n-	_	
+64-11	kan	kunne	VF:----:sa:----	_	
+64-12	se	se	VI:----:-a:----	_	
+64-13	på	på	T-:----:--:----	_	
+64-14	og	og	CC:----:--:----	_	
+64-15	røre	røre	VI:----:-a:----	_	
+64-16	ved	ved	T-:----:--:----	_	
+64-17	,	,	ZD	_	
+64-18	de	de	PP:p-n#:--:-3n-	_	
+64-19	vil	ville	VF:----:sa:----	_	
+64-20	gerne	gerne	D-:----:--:u---	_	
+64-21	have	have	VI:----:-a:----	_	
+64-22	et	en	PI:s-un:--:----	_	
+64-23	stykke	stykke	NC:siun:--:----	_	
+64-24	kunst	kunst	NC:siuc:--:----	_	
+64-25	i	i	T-:----:--:----	_	
+64-26	hånden	hånd	NC:sduc:--:----	_	
+64-27	,	,	ZD	_	
+64-28	og	og	CC:----:--:----	_	
+64-29	så	så	D-:----:--:u---	_	
+64-30	køber	købe	VF:----:sa:----	_	
+64-31	de	den	PM:p-u#:--:----	_	
+64-32	plader	plade	NC:piu#:--:----	plade_2	
+64-33	"	"	ZI	_	
+64-34	,	,	ZD	_	
+64-35	siger	sige	VF:----:sa:----	_	
+64-36	Kristian	Kristian	NP:siu#:--:----	_	
+64-37	Hansen	Hansen	NP:siu#:--:----	_	
+64-38	og	og	CC:----:--:----	_	
+64-39	tilføjer	tilføje	VF:----:sa:----	_	
+64-40	,	,	ZD	_	
+64-41	at	at	CS:----:--:----	_	
+64-42	det	det	PP:s-un:--:-3n-	_	
+64-43	for	for	T-:----:--:----	_	
+64-44	mange	mangen	AC:p#u#:--:p---	_	
+64-45	af	af	T-:----:--:----	_	
+64-46	butikkens	butik	NC:sdgc:--:----	_	
+64-47	kunder	kunde	NC:piu#:--:----	_	
+64-48	selvfølgelig	selvfølgelig	D-:----:--:u---	_	
+64-49	også	også	D-:----:--:u---	_	
+64-50	handler	handle	VF:----:sa:----	_	
+64-51	om	om	T-:----:--:----	_	
+64-52	lydkvalitet	lydkvalitet	NC:siuc:--:----	_	
+64-53	.	.	ZP	_	
+
+#id=65
+#text= Hvis du har hørt en koncert eller bare en guitar live og gerne vil have den lyd med hjem, så kan du kun opnå det på plade.
+65-1	Hvis	hvis	CS:----:--:----	_	
+65-2	du	du	PP:s-nc:--:-2n-	_	
+65-3	har	have	VF:----:sa:----	_	
+65-4	hørt	høre	VT:siu#:t-:----	_	
+65-5	en	en	PI:s-uc:--:----	_	
+65-6	koncert	koncert	NC:siuc:--:----	_	
+65-7	eller	eller	CC:----:--:----	_	
+65-8	bare	bare	D-:----:--:u---	_	
+65-9	en	en	PI:s-uc:--:----	_	
+65-10	guitar	guitar	NC:siuc:--:----	_	
+65-11	live	live	AC:§§u§:--:p---	_	
+65-12	og	og	CC:----:--:----	_	
+65-13	gerne	gerne	D-:----:--:u---	_	
+65-14	vil	ville	VF:----:sa:----	_	
+65-15	have	have	VI:----:-a:----	_	
+65-16	den	den	PM:s-uc:--:----	_	
+65-17	lyd	lyd	NC:siuc:--:----	_	
+65-18	med	med	T-:----:--:----	_	
+65-19	hjem	hjem	NC:siun:--:----	_	
+65-20	,	,	ZD	_	
+65-21	så	så	D-:----:--:u---	_	
+65-22	kan	kunne	VF:----:sa:----	_	
+65-23	du	du	PP:s-nc:--:-2n-	_	
+65-24	kun	kun	D-:----:--:u---	_	
+65-25	opnå	opnå	VI:----:-a:----	_	
+65-26	det	det	PP:s-un:--:-3n-	_	
+65-27	på	på	T-:----:--:----	_	
+65-28	plade	plade	NC:siuc:--:----	plade_2	
+65-29	.	.	ZP	_	
+
+#id=66
+#text=At mange feinschmeckere alligevel mener, at der er en anderledes og mere virkelighedstro lyd på vinyl, kan skyldes, at musikken på de gamle plader oftest er optaget og mikset på en anden måde i studiet, end man gør i dag, vurderer Finn Agerkvist.
+66-1	At	at	CS:----:--:----	_	
+66-2	mange	mangen	AC:p#u#:--:p---	_	
+66-3	feinschmeckere	feinschmecker	NC:piu#:--:----	_	
+66-4	alligevel	alligevel	D-:----:--:u---	_	
+66-5	mener	mene	VF:----:sa:----	_	
+66-6	,	,	ZD	_	
+66-7	at	at	CS:----:--:----	_	
+66-8	der	der	US:----:--:----	_	
+66-9	er	være	VF:----:sa:----	_	
+66-10	en	en	PI:s-uc:--:----	_	
+66-11	anderledes	anderledes	AC:§§u§:--:p---	_	
+66-12	og	og	CC:----:--:----	_	
+66-13	mere	megen	AD:----:--:c---	_	
+66-14	virkelighedstro	hedstro	AD:----:--:p---	_	
+66-15	lyd	lyd	NC:siuc:--:----	_	
+66-16	på	på	T-:----:--:----	_	
+66-17	vinyl	vinyl	NC:siun:--:----	_	
+66-18	,	,	ZD	_	
+66-19	kan	kunne	VF:----:sa:----	_	
+66-20	skyldes	skylde	VI:----:-p:----	_	
+66-21	,	,	ZD	_	
+66-22	at	at	CS:----:--:----	_	
+66-23	musikken	musik	NC:sduc:--:----	_	
+66-24	på	på	T-:----:--:----	_	
+66-25	de	den	PM:p-u#:--:----	_	
+66-26	gamle	gammel	AC:p#u#:--:p---	_	
+66-27	plader	plade	NC:piu#:--:----	plade_2	
+66-28	oftest	oftest	XY:----:--:----	_	
+66-29	er	være	VF:----:sa:----	_	
+66-30	optaget	optage	VT:siu#:t-:----	_	
+66-31	og	og	--	_	
+66-32	mikset	miks	NC:sdun:--:----	_	
+66-33	på	på	T-:----:--:----	_	
+66-34	en	en	PI:s-uc:--:----	_	
+66-35	anden	anden	PI:s-uc:--:----	_	
+66-36	måde	måde	NC:siuc:--:----	_	
+66-37	i	i	T-:----:--:----	_	
+66-38	studiet	studie	NC:sdun:--:----	_	
+66-39	,	,	ZD	_	
+66-40	end	end	CS:----:--:----	_	
+66-41	man	man	PI:#-uc:--:----	_	
+66-42	gør	gøre	VF:----:sa:----	_	
+66-43	i	i	T-:----:--:----	_	
+66-44	dag	dag	NC:siuc:--:----	_	
+66-45	,	,	ZD	_	
+66-46	vurderer	vurdere	VF:----:sa:----	_	
+66-47	Finn	Finn	NP:siu#:--:----	_	
+66-48	Agerkvist	Agerkvist	NP:siu#:--:----	_	
+66-49	.	.	ZP	_	
+
+#id=67
+#text=blev der solgt plader i Danmark for knap 659.000 kroner.
+67-1	blev	blive	VF:----:ta:----	_	
+67-2	der	der	US:----:--:----	_	
+67-3	solgt	sælge	VT:siu#:t-:----	_	
+67-4	plader	plade	NC:piu#:--:----	plade_2a	
+67-5	i	i	T-:----:--:----	_	
+67-6	Danmark	Danmark	NP:siu#:--:----	_	
+67-7	for	for	T-:----:--:----	_	
+67-8	knap	knap	D-:----:--:u---	_	
+67-9	659	659	LC:--u-:--:----	_	
+67-10	.	.	ZP	_	
+67-11	000	000	LC:--u-:--:----	_	
+67-12	kroner	krone	NC:piu#:--:----	_	
+67-13	.	.	ZP	_	
+
+#id=68
+#text= Danske plader udgjorde omkring 180.000 kroner af omsætningen.
+68-1	Danske	dansk	AC:p#u#:--:p---	_	
+68-2	plader	plade	NC:piu#:--:----	plade_2a	
+68-3	udgjorde	udgøre	VF:----:ta:----	_	
+68-4	omkring	omkring	T-:----:--:----	_	
+68-5	180	180	LC:--u-:--:----	_	
+68-6	.	.	ZP	_	
+68-7	000	000	LC:--u-:--:----	_	
+68-8	kroner	krone	NC:piu#:--:----	_	
+68-9	af	af	T-:----:--:----	_	
+68-10	omsætningen	omsætning	NC:sduc:--:----	_	
+68-11	.	.	ZP	_	
+
+#id=69
+#text=plader udgjorde knap 500.000 kroner af omsætningen.
+69-1	plader	plade	NC:piu#:--:----	plade_2a	
+69-2	udgjorde	udgøre	VF:----:ta:----	_	
+69-3	knap	knap	D-:----:--:u---	_	
+69-4	500	500	LC:--u-:--:----	_	
+69-5	.	.	ZP	_	
+69-6	000	000	----	_	
+69-7	kroner	krone	NC:piu#:--:----	_	
+69-8	af	af	T-:----:--:----	_	
+69-9	omsætningen	omsætning	NC:sduc:--:----	_	
+69-10	.	.	ZP	_	
+
+#id=70
+#text=Årsagen til, at netop danskeren Peter Flinth fik lov til at filmatisere Jan Guillous romaner om den svenske ridder Arn, er nok denne gode ungdomsridderfilm, en flot omgang middelalder a la de gamle Ota-bøger om, da kongen var knægt, og så et ordentligt drys panser og plade fra Walter Scotts 'Ivanhoe'.
+70-1	Årsagen	årsag	NC:sduc:--:----	_	
+70-2	til	til	T-:----:--:----	_	
+70-3	,	,	ZD	_	
+70-4	at	at	CS:----:--:----	_	
+70-5	netop	netop	D-:----:--:u---	_	
+70-6	danskeren	dansker	NC:sduc:--:----	_	
+70-7	Peter	Peter	NP:siu#:--:----	_	
+70-8	Flinth	Flinth	NP:siu#:--:----	_	
+70-9	fik	få	VF:----:ta:----	_	
+70-10	lov	lov	NC:§§u§:--:----	_	
+70-11	til	til	T-:----:--:----	_	
+70-12	at	at	UI:----:--:----	_	
+70-13	filmatisere	filmatisere	VI:----:-a:----	_	
+70-14	Jan	Jan	NP:siu#:--:----	_	
+70-15	Guillous	Guillous	NP:sig#:--:----	_	
+70-16	romaner	roman	NC:piu#:--:----	_	
+70-17	om	om	T-:----:--:----	_	
+70-18	den	den	PM:s-uc:--:----	_	
+70-19	svenske	svensk	AC:sdu#:--:p---	_	
+70-20	ridder	ridder	NC:siuc:--:----	_	
+70-21	Arn	Arn	NP:siu#:--:----	_	
+70-22	,	,	ZD	_	
+70-23	er	være	VF:----:sa:----	_	
+70-24	nok	nok	D-:----:--:u---	_	
+70-25	denne	denne	PM:s-uc:--:----	_	
+70-26	gode	god	AC:sdu#:--:p---	_	
+70-27	ungdomsridderfilm	ungdomsridderfilm	NC:siuc:--:----	_	
+70-28	,	,	ZD	_	
+70-29	en	en	PI:s-uc:--:----	_	
+70-30	flot	flot	AC:siu§:--:p---	_	
+70-31	omgang	omgang	NC:siuc:--:----	_	
+70-32	middelalder	middelalder	XY:----:--:----	_	
+70-33	a	a	XF:----:--:----	_	
+70-34	la	la	XF:----:--:----	_	
+70-35	de	de	NP:siu#:--:----	_	
+70-36	gamle	gammel	AC:sdu#:--:p---	_	
+70-37	Ota	Ota	NP:siu#:--:----	_	
+70-38	-	-	ZH	_	
+70-39	bøger	bog	NC:piu#:--:----	_	
+70-40	om	om	T-:----:--:----	_	
+70-41	,	,	ZD	_	
+70-42	da	da	CS:----:--:----	_	
+70-43	kongen	konge	NC:sduc:--:----	_	
+70-44	var	være	VF:----:ta:----	_	
+70-45	knægt	knægt	NC:siuc:--:----	_	
+70-46	,	,	ZD	_	
+70-47	og	og	CC:----:--:----	_	
+70-48	så	så	D-:----:--:u---	_	
+70-49	et	en	PI:s-un:--:----	_	
+70-50	ordentligt	ordentlig	AC:siun:--:p---	_	
+70-51	drys	drys	NC:siun:--:----	_	
+70-52	panser	panser	NC:siuc:--:----	_	
+70-53	og	og	CC:----:--:----	_	
+70-54	plade	plade	NC:siuc:--:----	plade_F_panser-og-plade	
+70-55	fra	fra	T-:----:--:----	_	
+70-56	Walter	Walter	NP:siu#:--:----	_	
+70-57	Scotts	Scotts	NP:sig#:--:----	_	
+70-58	'	'	ZA	_	
+70-59	Ivanhoe	Ivanhoe	NP:siu#:--:----	_	
+70-60	'	'	ZA	_	
+70-61	.	.	ZP	_	
+
+#id=71
+#text= Pladerne opfanger og reflekterer rummets lyde via resonans.
+71-1	Pladerne	plade	NC:pdu#:--:----	plade_1c	
+71-2	opfanger	opfange	VF:----:sa:----	_	
+71-3	og	og	CC:----:--:----	_	
+71-4	reflekterer	reflektere	VF:----:sa:----	_	
+71-5	rummets	rum	NC:sdgn:--:----	_	
+71-6	lyde	lyde	NC:siuc:--:----	_	
+71-7	via	via	T-:----:--:----	_	
+71-8	resonans	resonans	NC:siuc:--:----	_	
+71-9	.	.	ZP	_	
+
+#id=72
+#text= Jeg tog dem til Sverige og begyndte at lave plader med det formål.
+72-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+72-2	tog	tage	VF:----:ta:----	_	
+72-3	dem	de	PP:p-u#:--:-3n-	_	
+72-4	til	til	T-:----:--:----	_	
+72-5	Sverige	Sverige	NP:siu#:--:----	_	
+72-6	og	og	CC:----:--:----	_	
+72-7	begyndte	begynde	VF:----:ta:----	_	
+72-8	at	at	UI:----:--:----	_	
+72-9	lave	lave	VI:----:-a:----	_	
+72-10	plader	plade	NC:piu#:--:----	plade_2a	
+72-11	med	med	T-:----:--:----	_	
+72-12	det	den	PM:s-un:--:----	_	
+72-13	formål	formål	NC:siun:--:----	_	
+72-14	.	.	ZP	_	
+
+#id=73
+#text= Der lavede vi så Backstreets første plade på tre uger".
+73-1	Der	der	US:----:--:----	_	
+73-2	lavede	lave	VF:----:ta:----	_	
+73-3	vi	vi	PP:p-nc:--:-1n-	_	
+73-4	så	så	D-:----:--:u---	_	
+73-5	Backstreets	Backstreets	NP:sig#:--:----	_	
+73-6	første	første	AC:§§u§:--:p---	_	
+73-7	plade	plade	NC:siuc:--:----	plade_2a	
+73-8	på	på	T-:----:--:----	_	
+73-9	tre	tre	LC:--u-:--:----	_	
+73-10	uger	uge	NC:piu#:--:----	_	
+73-11	"	"	ZI	_	
+73-12	.	.	ZP	_	
+
+#id=74
+#text= 14 år, ved den første session for den første *NSYNC-plade.
+74-1	14	14	LC:--u-:--:----	_	
+74-2	år	år	NC:piu#:--:----	_	
+74-3	,	,	ZD	_	
+74-4	ved	ved	T-:----:--:----	_	
+74-5	den	den	PM:s-uc:--:----	_	
+74-6	første	første	AC:§§u§:--:p---	_	
+74-7	session	session	NC:siuc:--:----	_	
+74-8	for	for	T-:----:--:----	_	
+74-9	den	den	PM:s-uc:--:----	_	
+74-10	første	første	AC:§§u§:--:p---	_	
+74-11	*NSYNC	*NSYNC	NP:siu#:--:----	_	
+74-12	-	-	ZH	_	
+74-13	plade	plade	NC:siuc:--:----	plade_2a	
+74-14	.	.	ZP	_	
+
+#id=75
+#text= Så indspillede vi den som den første sang, men inden brugte vi 11 måneder på at sætte pladen op med promotion, hvor hun spillede i ethvert indkøbscenter, du kan forestille dig".
+75-1	Så	så	D-:----:--:u---	_	
+75-2	indspillede	indspille	VF:----:ta:----	_	
+75-3	vi	vi	PP:p-nc:--:-1n-	_	
+75-4	den	den	PP:s-uc:--:-3n-	_	
+75-5	som	som	US:----:--:----	_	
+75-6	den	den	PM:s-uc:--:----	_	
+75-7	første	første	AC:§§u§:--:p---	_	
+75-8	sang	sang	NC:siuc:--:----	_	
+75-9	,	,	ZD	_	
+75-10	men	men	CC:----:--:----	_	
+75-11	inden	inden	D-:----:--:u---	_	
+75-12	brugte	bruge	VF:----:ta:----	_	
+75-13	vi	vi	PP:p-nc:--:-1n-	_	
+75-14	11	11	LC:--u-:--:----	_	
+75-15	måneder	måned	NC:piu#:--:----	_	
+75-16	på	på	T-:----:--:----	_	
+75-17	at	at	UI:----:--:----	_	
+75-18	sætte	sætte	VI:----:-a:----	_	
+75-19	pladen	plade	NC:sduc:--:----	plade_2a	
+75-20	op	op	D-:----:--:u---	_	
+75-21	med	med	T-:----:--:----	_	
+75-22	promotion	promotion	NC:siuc:--:----	_	
+75-23	,	,	ZD	_	
+75-24	hvor	hvor	D-:----:--:u---	_	
+75-25	hun	hun	PP:s-nc:--:-3n-	_	
+75-26	spillede	spille	VF:----:ta:----	_	
+75-27	i	i	T-:----:--:----	_	
+75-28	ethvert	enhver	PI:s-un:--:----	_	
+75-29	indkøbscenter	indkøbscenter	NC:siun:--:----	_	
+75-30	,	,	ZD	_	
+75-31	du	du	PP:s-nc:--:-2n-	_	
+75-32	kan	kunne	VF:----:sa:----	_	
+75-33	forestille	forestille	VI:----:-a:----	_	
+75-34	dig	dig	XY:----:--:----	_	
+75-35	"	"	ZI	_	
+75-36	.	.	ZP	_	
+
+#id=76
+#text= Der var ikke noget tidspunkt,  hvor man satte sig ned og egentlig tænkte over, at vi lige havde solgt 25 millioner af den plade.
+76-1	Der	der	US:----:--:----	_	
+76-2	var	være	VF:----:ta:----	_	
+76-3	ikke	ikke	D-:----:--:u---	_	
+76-4	noget	nogen	PI:s-un:--:----	_	
+76-5	tidspunkt	tidspunkt	NC:siun:--:----	_	
+76-6	,	,	ZD	_	
+76-7	hvor	hvor	D-:----:--:u---	_	
+76-8	man	man	PI:#-uc:--:----	_	
+76-9	satte	sætte	VF:----:ta:----	_	
+76-10	sig	sig	PP:#-u#:--:-3y-	_	
+76-11	ned	ned	D-:----:--:u---	_	
+76-12	og	og	CC:----:--:----	_	
+76-13	egentlig	egentlig	D-:----:--:u---	_	
+76-14	tænkte	tænke	VF:----:ta:----	_	
+76-15	over	over	T-:----:--:----	_	
+76-16	,	,	ZD	_	
+76-17	at	at	CS:----:--:----	_	
+76-18	vi	vi	PP:p-nc:--:-1n-	_	
+76-19	lige	lige	D-:----:--:u---	_	
+76-20	havde	have	VF:----:ta:----	_	
+76-21	solgt	sælge	VT:siu#:t-:----	_	
+76-22	25	25	LC:--u-:--:----	_	
+76-23	millioner	million	NC:piu#:--:----	_	
+76-24	af	af	T-:----:--:----	_	
+76-25	den	den	PM:s-uc:--:----	_	
+76-26	plade	plade	NC:siuc:--:----	plade_2a	
+76-27	.	.	ZP	_	
+
+#id=77
+#text= Plader solgte slet ikke i de samme mængder længere, og ulovlig digital musikdistribution over internettet blev syndebuk i en musikbranche, der langsomt begyndte at gå i panik.
+77-1	Plader	plade	NC:piu#:--:----	plade_2a	
+77-2	solgte	sælge	VF:----:ta:----	_	
+77-3	slet	slet	D-:----:--:u---	_	
+77-4	ikke	ikke	D-:----:--:u---	_	
+77-5	i	i	T-:----:--:----	_	
+77-6	de	den	PM:p-u#:--:----	_	
+77-7	samme	samme	AC:§§u§:--:p---	_	
+77-8	mængder	mængde	NC:piu#:--:----	_	
+77-9	længere	lang	AD:----:--:c---	_	
+77-10	,	,	ZD	_	
+77-11	og	og	CC:----:--:----	_	
+77-12	ulovlig	ulovlig	AC:siuc:--:p---	_	
+77-13	digital	digital	AC:siuc:--:p---	_	
+77-14	musikdistribution	musikdistribution	NC:siuc:--:----	_	
+77-15	over	over	T-:----:--:----	_	
+77-16	internettet	internet	NC:sdun:--:----	_	
+77-17	blev	blive	VF:----:ta:----	_	
+77-18	syndebuk	syndebuk	NC:siuc:--:----	_	
+77-19	i	i	T-:----:--:----	_	
+77-20	en	en	PI:s-uc:--:----	_	
+77-21	musikbranche	musikbranche	NC:siuc:--:----	_	
+77-22	,	,	ZD	_	
+77-23	der	der	US:----:--:----	_	
+77-24	langsomt	langsom	AD:----:--:p---	_	
+77-25	begyndte	begynde	VF:----:ta:----	_	
+77-26	at	at	UI:----:--:----	_	
+77-27	gå	gå	VI:----:-a:----	_	
+77-28	i	i	T-:----:--:----	_	
+77-29	panik	panik	NC:siuc:--:----	_	
+77-30	.	.	ZP	_	
+
+#id=78
+#text= Og så er folk bare engagerede i hende på en måde, som går ud over, om de synes, hun laver en god plade eller ej.
+78-1	Og	og	CC:----:--:----	_	
+78-2	så	så	D-:----:--:u---	_	
+78-3	er	være	VF:----:sa:----	_	
+78-4	folk	folk	NC:piu#:--:----	_	
+78-5	bare	bare	D-:----:--:u---	_	
+78-6	engagerede	engagere	VF:----:ta:----	_	
+78-7	i	i	T-:----:--:----	_	
+78-8	hende	hun	-:-3n-	_	
+78-9	på	på	T-:----:--:----	_	
+78-10	en	en	PI:s-uc:--:----	_	
+78-11	måde	måde	NC:siuc:--:----	_	
+78-12	,	,	ZD	_	
+78-13	som	som	US:----:--:----	_	
+78-14	går	gå	VF:----:sa:----	_	
+78-15	ud	ud	D-:----:--:u---	_	
+78-16	over	over	T-:----:--:----	_	
+78-17	,	,	ZD	_	
+78-18	om	om	CS:----:--:----	_	
+78-19	de	de	PP:p-n#:--:-3n-	_	
+78-20	synes	syne	VF:----:sp:----	_	
+78-21	,	,	ZD	_	
+78-22	hun	hun	PP:s-nc:--:-3n-	_	
+78-23	laver	lave	VF:----:sa:----	_	
+78-24	en	en	PI:s-uc:--:----	_	
+78-25	god	god	AC:siuc:--:p---	_	
+78-26	plade	plade	NC:siuc:--:----	plade_2a	
+78-27	eller	eller	CC:----:--:----	_	
+78-28	ej	ej	D-:----:--:u---	_	
+78-29	.	.	ZP	_	
+
+#id=79
+#text= At fungere behøver ikke at være, at man sælger 10 eller 50 mio. plader.
+79-1	At	at	UI:----:--:----	_	
+79-2	fungere	fungere	VI:----:-a:----	_	
+79-3	behøver	behøve	VF:----:sa:----	_	
+79-4	ikke	ikke	D-:----:--:u---	_	
+79-5	at	at	UI:----:--:----	_	
+79-6	være	være	VI:----:-a:----	_	
+79-7	,	,	ZD	_	
+79-8	at	at	CS:----:--:----	_	
+79-9	man	man	PI:#-uc:--:----	_	
+79-10	sælger	sælge	VF:----:sa:----	_	
+79-11	10	10	LC:--u-:--:----	_	
+79-12	eller	eller	CC:----:--:----	_	
+79-13	50	50	LC:--u-:--:----	_	
+79-14	mio	mio	XS:----:--:----	_	
+79-15	.	.	ZP	_	
+79-16	plader	plade	NC:piu#:--:----	plade_2	
+79-17	.	.	ZP	_	
+
+#id=80
+#text= Her arbejdede han sig op, indtil han først i 1990'erne skrev kontrakt med Ace of Base, der solgte over 30 millioner plader.
+80-1	Her	her	D-:----:--:u---	_	
+80-2	arbejdede	arbejde	VF:----:ta:----	_	
+80-3	han	han	PP:s-nc:--:-3n-	_	
+80-4	sig	sig	PP:#-u#:--:-3y-	_	
+80-5	op	op	D-:----:--:u---	_	
+80-6	,	,	ZD	_	
+80-7	indtil	indtil	CS:----:--:----	_	
+80-8	han	han	PP:s-nc:--:-3n-	_	
+80-9	først	først	D-:----:--:u---	_	
+80-10	i	i	T-:----:--:----	_	
+80-11	1990	1990	LC:--u-:--:----	_	
+80-12	'	'	ZA	_	
+80-13	erne	@erne	MN:pdu#:--:----	_	
+80-14	skrev	skrive	VF:----:ta:----	_	
+80-15	kontrakt	kontrakt	NC:siuc:--:----	_	
+80-16	med	med	T-:----:--:----	_	
+80-17	Ace	Ace	NP:siu#:--:----	_	
+80-18	of	of	XF:----:--:----	_	
+80-19	Base	base	NC:siuc:--:----	_	
+80-20	,	,	ZD	_	
+80-21	der	der	US:----:--:----	_	
+80-22	solgte	sælge	VF:----:ta:----	_	
+80-23	over	over	T-:----:--:----	_	
+80-24	30	30	LC:--u-:--:----	_	
+80-25	millioner	million	NC:piu#:--:----	_	
+80-26	plader	plade	NC:piu#:--:----	plade_2	
+80-27	.	.	ZP	_	
+
+#id=81
+#text= Konceptet var, at pladerne kun skulle sælges i landets Tigerbutikker og ikke koste mere end en tyver stykket.
+81-1	Konceptet	koncept	NC:sdun:--:----	_	
+81-2	var	være	VF:----:ta:----	_	
+81-3	,	,	ZD	_	
+81-4	at	at	CS:----:--:----	_	
+81-5	pladerne	plade	NC:pdu#:--:----	plade_2	
+81-6	kun	kun	D-:----:--:u---	_	
+81-7	skulle	skulle	VF:----:ta:----	_	
+81-8	sælges	sælge	VI:----:-p:----	_	
+81-9	i	i	T-:----:--:----	_	
+81-10	landets	land	NC:sdgn:--:----	_	
+81-11	Tigerbutikker	Tigerbutikker	NP:siu#:--:----	_	
+81-12	og	og	CC:----:--:----	_	
+81-13	ikke	ikke	D-:----:--:u---	_	
+81-14	koste	koste	VI:----:-a:----	_	
+81-15	mere	megen	AC:##u#:--:c---	_	
+81-16	end	end	CS:----:--:----	_	
+81-17	en	en	PI:s-uc:--:----	_	
+81-18	tyver	tyver	NC:siuc:--:----	_	
+81-19	stykket	stykke	NC:sdun:--:----	_	
+81-20	.	.	ZP	_	
+
+#id=82
+#text= De tilbød en kontrakt - hvis altså bandet kunne have en færdig plade klar inden for halvanden måned.
+82-1	De	de	PP:p-n#:--:-3n-	_	
+82-2	tilbød	tilbyde	VF:----:ta:----	_	
+82-3	en	en	PI:s-uc:--:----	_	
+82-4	kontrakt	kontrakt	NW:----:--:----	_	
+82-5	-	-	ZH	_	
+82-6	hvis	hvis	CS:----:--:----	_	
+82-7	altså	altså	D-:----:--:u---	_	
+82-8	bandet	band	NC:sdun:--:----	_	
+82-9	kunne	kunne	VF:----:ta:----	_	
+82-10	have	have	VI:----:-a:----	_	
+82-11	en	en	PI:s-uc:--:----	_	
+82-12	færdig	færdig	AC:siuc:--:p---	_	
+82-13	plade	plade	NC:siuc:--:----	plade_2a	
+82-14	klar	klar	AC:siuc:--:p---	_	
+82-15	inden	inden	T-:----:--:----	_	
+82-16	for	for	T-:----:--:----	_	
+82-17	halvanden	halvanden	AC:siuc:--:p---	_	
+82-18	måned	måned	NC:siuc:--:----	_	
+82-19	.	.	ZP	_	
+
+#id=83
+#text= Og hvis de nu alligevel skulle lave en plade, hvorfor så ikke få en ordentlig kontrakt med et ordentligt selskab og sælge den til 150 kr. i en ordentlig pladebutik?
+83-1	Og	og	CC:----:--:----	_	
+83-2	hvis	hvis	CS:----:--:----	_	
+83-3	de	de	PP:p-n#:--:-3n-	_	
+83-4	nu	nu	D-:----:--:u---	_	
+83-5	alligevel	alligevel	D-:----:--:u---	_	
+83-6	skulle	skulle	VF:----:ta:----	_	
+83-7	lave	lave	VI:----:-a:----	_	
+83-8	en	en	PI:s-uc:--:----	_	
+83-9	plade	plade	NC:siuc:--:----	plade_2a	
+83-10	,	,	ZD	_	
+83-11	hvorfor	hvorfor	D-:----:--:u---	_	
+83-12	så	så	D-:----:--:u---	_	
+83-13	ikke	ikke	D-:----:--:u---	_	
+83-14	få	få	VI:----:-a:----	_	
+83-15	en	en	PI:s-uc:--:----	_	
+83-16	ordentlig	ordentlig	AC:siuc:--:p---	_	
+83-17	kontrakt	kontrakt	NC:siuc:--:----	_	
+83-18	med	med	T-:----:--:----	_	
+83-19	et	en	PI:s-un:--:----	_	
+83-20	ordentligt	ordentlig	AC:siun:--:p---	_	
+83-21	selskab	selskab	NC:siun:--:----	_	
+83-22	og	og	CC:----:--:----	_	
+83-23	sælge	sælge	VI:----:-a:----	_	
+83-24	den	den	PP:s-uc:--:-3n-	_	
+83-25	til	til	T-:----:--:----	_	
+83-26	150	150	LC:--u-:--:----	_	
+83-27	kr	krone	NC:piu#:--:----	_	
+83-28	.	.	ZP	_	
+83-29	i	i	T-:----:--:----	_	
+83-30	en	en	PI:s-uc:--:----	_	
+83-31	ordentlig	ordentlig	AC:siuc:--:p---	_	
+83-32	pladebutik	pladebutik	NC:siuc:--:----	_	
+83-33	?	?	ZQ	_	
+
+#id=84
+#text= Ikke mindst, fordi pladerne blev en populær pakkelegsgave til julefrokosterne.
+84-1	Ikke	ikke	D-:----:--:u---	_	
+84-2	mindst	mindst	XY:----:--:----	_	
+84-3	,	,	ZD	_	
+84-4	fordi	fordi	CS:----:--:----	_	
+84-5	pladerne	plade	NC:pdu#:--:----	plade_2	
+84-6	blev	blive	VF:----:ta:----	_	
+84-7	en	en	PI:s-uc:--:----	_	
+84-8	populær	populær	AC:siuc:--:p---	_	
+84-9	pakkelegsgave	pakkelegsgave	NC:siuc:--:----	_	
+84-10	til	til	T-:----:--:----	_	
+84-11	julefrokosterne	julefrokost	NC:pdu#:--:----	_	
+84-12	.	.	ZP	_	
+
+#id=85
+#text= Allerede ved årsskiftet efter  udgivelsen i november 2006 havde de udsolgt første oplag på 5.000 plader, hvilket var dobbelt så meget som det næstbedst sælgende Tigerband.
+85-1	Allerede	allerede	D-:----:--:u---	_	
+85-2	ved	ved	T-:----:--:----	_	
+85-3	årsskiftet	årsskifte	NC:sdun:--:----	_	
+85-4	efter	efter	T-:----:--:----	_	
+85-5	udgivelsen	udgivelse	NC:sduc:--:----	_	
+85-6	i	i	T-:----:--:----	_	
+85-7	november	november	NC:siuc:--:----	_	
+85-8	2006	2006	LC:--u-:--:----	_	
+85-9	havde	have	VF:----:ta:----	_	
+85-10	de	de	PP:p-n#:--:-3n-	_	
+85-11	udsolgt	udsolgt	AD:----:--:p---	_	
+85-12	første	første	AC:§§u§:--:p---	_	
+85-13	oplag	oplag	NC:siun:--:----	_	
+85-14	på	på	T-:----:--:----	_	
+85-15	5	5	LC:--u-:--:----	_	
+85-16	.	.	ZP	_	
+85-17	000	000	LC:--u-:--:----	_	
+85-18	plader	plade	NC:piu#:--:----	plade_2	
+85-19	,	,	ZD	_	
+85-20	hvilket	hvilken	PR:s-un:--:----	_	
+85-21	var	være	VF:----:ta:----	_	
+85-22	dobbelt	dobbelt	AD:----:--:p---	_	
+85-23	så	så	D-:----:--:u---	_	
+85-24	meget	megen	AD:----:--:p---	_	
+85-25	som	som	US:----:--:----	_	
+85-26	det	det	PP:s-un:--:-3n-	_	
+85-27	næstbedst	næstbedst	AD:----:--:p---	_	
+85-28	sælgende	sælge	VP:##u#:s-:----	_	
+85-29	Tigerband	Tigerband	NP:siu#:--:----	_	
+85-30	.	.	ZP	_	
+
+#id=86
+#text=metalhjem og udsendte pladen
+86-1	metalhjem	metalhjem	D-:----:--:u---	_	
+86-2	og	og	CC:----:--:----	_	
+86-3	udsendte	udsende	VF:----:ta:----	_	
+86-4	pladen	plade	NC:sduc:--:----	plade_2a	
+
+#id=87
+#text=Remar var dynamo på hendes to første plader, som viste en sødmefuld, dovent swingende sanger på jagt efter bedre sange.
+87-1	Remar	Remar	NP:siu#:--:----	_	
+87-2	var	være	VF:----:ta:----	_	
+87-3	dynamo	dynamo	NC:siuc:--:----	_	
+87-4	på	på	T-:----:--:----	_	
+87-5	hendes	hendes	PO:#--#:--:-3ns	_	
+87-6	to	to	LC:--u-:--:----	_	
+87-7	første	første	AC:§§u§:--:p---	_	
+87-8	plader	plade	NC:piu#:--:----	plade_2a	
+87-9	,	,	ZD	_	
+87-10	som	som	US:----:--:----	_	
+87-11	viste	vise	VF:----:ta:----	_	
+87-12	en	en	PI:s-uc:--:----	_	
+87-13	sødmefuld	sødmefuld	AC:siuc:--:p---	_	
+87-14	,	,	ZD	_	
+87-15	dovent	doven	AD:----:--:p---	_	
+87-16	swingende	swingende	AC:§§u§:--:p---	_	
+87-17	sanger	sanger	NC:siuc:--:----	_	
+87-18	på	på	T-:----:--:----	_	
+87-19	jagt	jagt	NC:siuc:--:----	_	
+87-20	efter	efter	T-:----:--:----	_	
+87-21	bedre	god	AC:##u#:--:c---	_	
+87-22	sange	sang	NC:piu#:--:----	_	
+87-23	.	.	ZP	_	
+
+#id=88
+#text=I ventetiden på en ny plade, som skulle se dagens lys i løbet af året på et marked, hvor det er blevet svært at være voksen, fejrer Montell fødselsdagen med en børnekoncert i Tivolis Koncertsal til fordel for familier med kræftramte børn.
+88-1	I	i	T-:----:--:----	_	
+88-2	ventetiden	ventetid	NC:sduc:--:----	_	
+88-3	på	på	T-:----:--:----	_	
+88-4	en	en	PI:s-uc:--:----	_	
+88-5	ny	ny	AC:siuc:--:p---	_	
+88-6	plade	plade	NC:siuc:--:----	plade_2a	
+88-7	,	,	ZD	_	
+88-8	som	som	US:----:--:----	_	
+88-9	skulle	skulle	VF:----:ta:----	_	
+88-10	se	se	VI:----:-a:----	_	
+88-11	dagens	dag	NC:sdgc:--:----	_	
+88-12	lys	lys	NC:siun:--:----	_	
+88-13	i	i	T-:----:--:----	_	
+88-14	løbet	løb	NC:sdun:--:----	_	
+88-15	af	af	T-:----:--:----	_	
+88-16	året	år	NC:sdun:--:----	_	
+88-17	på	på	T-:----:--:----	_	
+88-18	et	en	PI:s-un:--:----	_	
+88-19	marked	marked	NC:siun:--:----	_	
+88-20	,	,	ZD	_	
+88-21	hvor	hvor	D-:----:--:u---	_	
+88-22	det	det	PP:s-un:--:-3n-	_	
+88-23	er	være	VF:----:sa:----	_	
+88-24	blevet	blive	VT:siu#:t-:----	_	
+88-25	svært	svær	AC:siun:--:p---	_	
+88-26	at	at	UI:----:--:----	_	
+88-27	være	være	VI:----:-a:----	_	
+88-28	voksen	voksen	AC:siuc:--:p---	_	
+88-29	,	,	ZD	_	
+88-30	fejrer	fejre	VF:----:sa:----	_	
+88-31	Montell	Montell	NP:siu#:--:----	_	
+88-32	fødselsdagen	fødselsdag	NC:sduc:--:----	_	
+88-33	med	med	T-:----:--:----	_	
+88-34	en	en	PI:s-uc:--:----	_	
+88-35	børnekoncert	børnekoncert	NC:siuc:--:----	_	
+88-36	i	i	T-:----:--:----	_	
+88-37	Tivolis	tivoli	NW:----:--:----	_	
+88-38	Koncertsal	koncertsal	NC:siuc:--:----	_	
+88-39	til	til	T-:----:--:----	_	
+88-40	fordel	fordel	NC:siuc:--:----	_	
+88-41	for	for	T-:----:--:----	_	
+88-42	familier	familie	NC:piu#:--:----	_	
+88-43	med	med	T-:----:--:----	_	
+88-44	kræftramte	kræftramt	AC:p#u#:--:p---	_	
+88-45	børn	barn	NC:piu#:--:----	_	
+88-46	.	.	ZP	_	
+
+#id=89
+#text= Ud over pladen 'Sure I had a wonderful time (1979), oplevede Jørgen den glæde, at pladeselskabet Little Beat Records i 2007 udgav yderligere to album med Swingstyrke 7.
+89-1	Ud	ud	D-:----:--:u---	_	
+89-2	over	over	T-:----:--:----	_	
+89-3	pladen	plade	NW:----:--:----	plade_2a	
+89-4	'	'	ZA	_	
+89-5	Sure	sur	AC:p#u#:--:p---	_	
+89-6	I	i	T-:----:--:----	_	
+89-7	had	had	NC:siun:--:----	_	
+89-8	a	anden	PI:s-un:--:----	_	
+89-9	wonderful	wonderful	AC:siuc:--:p---	_	
+89-10	time	time	NC:siuc:--:----	_	
+89-11	(	(	ZD	_	
+89-12	1979	1979	LC:--u-:--:----	_	
+89-13	)	)	ZD	_	
+89-14	,	,	ZD	_	
+89-15	oplevede	opleve	VF:----:ta:----	_	
+89-16	Jørgen	Jørgen	NP:siu#:--:----	_	
+89-17	den	den	PM:s-uc:--:----	_	
+89-18	glæde	glæde	NC:siuc:--:----	_	
+89-19	,	,	ZD	_	
+89-20	at	at	CS:----:--:----	_	
+89-21	pladeselskabet	pladeselskab	NC:sdun:--:----	_	
+89-22	Little	Little	NP:siu#:--:----	_	
+89-23	Beat	beat	NC:siuc:--:----	_	
+89-24	Records	Records	NP:siu#:--:----	_	
+89-25	i	i	T-:----:--:----	_	
+89-26	2007	2007	LC:--u-:--:----	_	
+89-27	udgav	udgive	VF:----:ta:----	_	
+89-28	yderligere	yderlig	AD:----:--:c---	_	
+89-29	to	to	LC:--u-:--:----	_	
+89-30	album	album	NC:piu#:--:----	_	
+89-31	med	med	T-:----:--:----	_	
+89-32	Swingstyrke	Swingstyrke	NP:siu#:--:----	_	
+89-33	7	7	LC:--u-:--:----	_	
+89-34	.	.	ZP	_	
+
+#id=90
+#text= Berry Gordy udgav Martin Luther Kings taler på plade, og en af sangene fra sættet her, 'Dancing In The Streets' med Martha Reeves & The Vandellas, blev symbolsk for gadekampen hjemme i Detroit i 1967.
+90-1	Berry	Berry	NP:siu#:--:----	_	
+90-2	Gordy	Gordy	NP:siu#:--:----	_	
+90-3	udgav	udgive	VF:----:ta:----	_	
+90-4	Martin	Martin	NP:siu#:--:----	_	
+90-5	Luther	Luther	NP:siu#:--:----	_	
+90-6	Kings	Kings	NP:siu#:--:----	_	
+90-7	taler	tale	VF:----:sa:----	_	
+90-8	på	på	T-:----:--:----	_	
+90-9	plade	plade	NC:siuc:--:----	plade_2	
+90-10	,	,	ZD	_	
+90-11	og	og	CC:----:--:----	_	
+90-12	en	en	PI:s-uc:--:----	_	
+90-13	af	af	T-:----:--:----	_	
+90-14	sangene	sang	NC:pdu#:--:----	_	
+90-15	fra	fra	T-:----:--:----	_	
+90-16	sættet	sæt	NC:sdun:--:----	_	
+90-17	her	her	D-:----:--:u---	_	
+90-18	,	,	XY:----:--:----	_	
+90-19	'	'	ZA	_	
+90-20	Dancing	Dancing	NP:siu#:--:----	_	
+90-21	In	In	XF:----:--:----	_	
+90-22	The	the	XF:----:--:----	_	
+90-23	Streets	Street	NP:sig#:--:----	_	
+90-24	'	'	ZA	_	
+90-25	med	med	T-:----:--:----	_	
+90-26	Martha	Martha	NP:siu#:--:----	_	
+90-27	Reeves	Reeves	NP:siu#:--:----	_	
+90-28	&	&	CC:----:--:----	_	
+90-29	The	the	XF:----:--:----	_	
+90-30	Vandellas	Vandellas	NP:siu#:--:----	_	
+90-31	,	,	ZD	_	
+90-32	blev	blive	VF:----:ta:----	_	
+90-33	symbolsk	symbolsk	AC:siu§:--:p---	_	
+90-34	for	for	T-:----:--:----	_	
+90-35	gadekampen	gadekamp	NC:sduc:--:----	_	
+90-36	hjemme	hjemme	D-:----:--:u---	_	
+90-37	i	i	T-:----:--:----	_	
+90-38	Detroit	Detroit	NP:siu#:--:----	_	
+90-39	i	i	T-:----:--:----	_	
+90-40	1967	1967	LC:--u-:--:----	_	
+90-41	.	.	ZP	_	
+
+#id=91
+#text=på Pladen med den Insisterende Titel 'the Point Of it all' er det dog, som Om anthony hamilton har sat sig lidt For Godt Til Rette i studiets dybeste sofa, tæt På Kaminen.
+91-1	på	på	T-:----:--:----	_	
+91-2	Pladen	plade	NC:sduc:--:----	plade_2a	
+91-3	med	med	-	_	
+91-4	den	den	PM:s-uc:--:----	_	
+91-5	Insisterende	insistere	VP:##u#:s-:----	_	
+91-6	Titel	titel	NC:siuc:--:----	_	
+91-7	'	'	ZA	_	
+91-8	the	the	XF:----:--:----	_	
+91-9	Point	Point	NP:siu#:--:----	_	
+91-10	Of	of	XF:----:--:----	_	
+91-11	it	it	XF:----:--:----	_	
+91-12	all	all	XF:----:--:----	_	
+91-13	'	'	ZA	_	
+91-14	er	være	VF:----:sa:----	_	
+91-15	det	det	PP:s-un:--:-3n-	_	
+91-16	dog	dog	D-:----:--:u---	_	
+91-17	,	,	ZD	_	
+91-18	som	som	US:----:--:----	_	
+91-19	Om	om	T-:----:--:----	_	
+91-20	anthony	anthony	AC:sdu#:--:p---	_	
+91-21	hamilton	hamilton	NC:siun:--:----	_	
+91-22	har	have	VF:----:sa:----	_	
+91-23	sat	sætte	VT:siu#:t-:----	_	
+91-24	sig	sig	PP:#-u#:--:-3y-	_	
+91-25	lidt	lidt	AD:----:--:p---	_	
+91-26	For	for	T-:----:--:----	_	
+91-27	Godt	god	AD:----:--:p---	_	
+91-28	Til	til	T-:----:--:----	_	
+91-29	Rette	ret	NC:sifc:--:----	_	
+91-30	i	i	T-:----:--:----	_	
+91-31	studiets	studie	NC:sdgn:--:----	_	
+91-32	dybeste	dybeste	XY:----:--:----	_	
+91-33	sofa	sofa	NC:siuc:--:----	_	
+91-34	,	,	ZD	_	
+91-35	tæt	tæt	AD:----:--:p---	_	
+91-36	På	på	T-:----:--:----	_	
+91-37	Kaminen	kamin	NC:sduc:--:----	_	
+91-38	.	.	ZP	_	
+
+#id=92
+#text=nyeste plade på musikanlægget har været adskillige generationers påskud for alt fra socialisering til scoringer.
+92-1	nyeste	nyeste	XY:----:--:----	_	
+92-2	plade	plade	NC:siuc:--:----	plade_2a	
+92-3	på	på	T-:----:--:----	_	
+92-4	musikanlægget	musikanlæg	NC:sdun:--:----	_	
+92-5	har	have	VF:----:sa:----	_	
+92-6	været	være	VT:siu#:t-:----	_	
+92-7	adskillige	adskillig	AC:p#u#:--:p---	_	
+92-8	generationers	generation	NC:pig#:--:----	_	
+92-9	påskud	påskud	NC:siun:--:----	_	
+92-10	for	for	T-:----:--:----	_	
+92-11	alt	al	PI:s-un:--:----	_	
+92-12	fra	fra	T-:----:--:----	_	
+92-13	socialisering	socialisering	NC:siuc:--:----	_	
+92-14	til	til	T-:----:--:----	_	
+92-15	scoringer	scoring	NC:piu#:--:----	_	
+92-16	.	.	ZP	_	
+
+#id=93
+#text=Hvilke associationer den giver, vil variere, alt efter hvem der ser skulpturen - måske tektoniske plader og gennemgribende jordskælv, men andre tankerækker kan være lige så gyldige og spændende at udforske.
+93-1	Hvilke	Hvilke	XY:----:--:----	_	
+93-2	associationer	association	NC:piu#:--:----	_	
+93-3	den	den	PM:s-uc:--:----	_	
+93-4	giver	giver	NC:siuc:--:----	_	
+93-5	,	,	ZD	_	
+93-6	vil	ville	VF:----:sa:----	_	
+93-7	variere	variere	VI:----:-a:----	_	
+93-8	,	,	ZD	_	
+93-9	alt	alt	D-:----:--:u---	_	
+93-10	efter	efter	CS:----:--:----	_	
+93-11	hvem	hvem	PR:s-u#:--:----	_	
+93-12	der	der	US:----:--:----	_	
+93-13	ser	se	VF:----:sa:----	_	
+93-14	skulpturen	skulptur	NW:----:--:----	_	
+93-15	-	-	ZH	_	
+93-16	måske	måske	D-:----:--:u---	_	
+93-17	tektoniske	tektonisk	AC:p#u#:--:p---	_	
+93-18	plader	plade	NC:piu#:--:----	plade_1c	
+93-19	og	og	CC:----:--:----	_	
+93-20	gennemgribende	gennemgribende	AD:----:--:p---	_	
+93-21	jordskælv	jordskælv	NC:siun:--:----	_	
+93-22	,	,	ZD	_	
+93-23	men	men	CC:----:--:----	_	
+93-24	andre	anden	PI:p-u#:--:----	_	
+93-25	tankerækker	tankerække	NC:piu#:--:----	_	
+93-26	kan	kunne	VF:----:sa:----	_	
+93-27	være	være	VI:----:-a:----	_	
+93-28	lige	lige	D-:----:--:u---	_	
+93-29	så	så	D-:----:--:u---	_	
+93-30	gyldige	gyldig	AC:p#u#:--:p---	_	
+93-31	og	og	CC:----:--:----	_	
+93-32	spændende	spændende	AC:§§u§:--:p---	_	
+93-33	at	at	UI:----:--:----	_	
+93-34	udforske	udforske	VI:----:-a:----	_	
+93-35	.	.	ZP	_	
+
+#id=94
+#text= Pladens problem er, at den er for lang.
+94-1	Pladens	plade	NC:sdgc:--:----	plade_2a	
+94-2	problem	problem	NC:siun:--:----	_	
+94-3	er	være	VF:----:sa:----	_	
+94-4	,	,	ZD	_	
+94-5	at	at	CS:----:--:----	_	
+94-6	den	den	PP:s-uc:--:-3n-	_	
+94-7	er	være	VF:----:sa:----	_	
+94-8	for	for	T-:----:--:----	_	
+94-9	lang	lang	AC:siuc:--:p---	_	
+94-10	.	.	ZP	_	
+
+#id=95
+#text= og Trænger Man Til at få Kildret sine ører Med fløjl, er denne Plade et Godt Bud.
+95-1	og	og	CC:----:--:----	_	
+95-2	Trænger	trænge	VF:----:sa:----	_	
+95-3	Man	man	PI:#-uc:--:----	_	
+95-4	Til	til	T-:----:--:----	_	
+95-5	at	at	UI:----:--:----	_	
+95-6	få	få	VI:----:-a:----	_	
+95-7	Kildret	kildre	VT:siu#:t-:----	_	
+95-8	sine	sin	PO:p--#:--:-3ys	_	
+95-9	ører	øre	NC:piu#:--:----	_	
+95-10	Med	med	T-:----:--:----	_	
+95-11	fløjl	fløjl	NC:siun:--:----	_	
+95-12	,	,	ZD	_	
+95-13	er	være	VF:----:sa:----	_	
+95-14	denne	denne	PM:s-uc:--:----	_	
+95-15	Plade	plade	NC:siuc:--:----	plade_2a	
+95-16	et	en	PI:s-un:--:----	_	
+95-17	Godt	god	AC:siun:--:p---	_	
+95-18	Bud	bud	NC:siun:--:----	_	
+95-19	.	.	ZP	_	
+
+#id=96
+#text= Pladen Er Velproduceret.
+96-1	Pladen	plade	NC:sduc:--:----	plade_2a	
+96-2	Er	være	VF:----:sa:----	_	
+96-3	Velproduceret	Velproduceret	NP:siu#:--:----	_	
+96-4	.	.	ZP	_	
+
+#id=97
+#text=en plade man snildt Kan undvære.
+97-1	en	en	PI:s-uc:--:----	_	
+97-2	plade	plade	NC:siuc:--:----	plade_2a	
+97-3	man	man	XY:----:--:----	_	
+97-4	snildt	snild	AD:----:--:p---	_	
+97-5	Kan	kunne	VF:----:sa:----	_	
+97-6	undvære	undvære	VI:----:-a:----	_	
+97-7	.	.	ZP	_	
+
+#id=98
+#text=  Man omsluttes af varme fra de høje plysstole, fra publikumsterrassernes brede træbeklædning, fra den gyldne ild malet på væggene  og de akustiske plader i loftet, der hænger i et 'tilfældigt rod' ligesom de usynlige skulpturelle plader udenpå.
+98-1	Man	man	PI:#-uc:--:----	_	
+98-2	omsluttes	omslutte	VF:----:sp:----	_	
+98-3	af	af	T-:----:--:----	_	
+98-4	varme	varme	NC:siuc:--:----	_	
+98-5	fra	fra	T-:----:--:----	_	
+98-6	de	den	PM:p-u#:--:----	_	
+98-7	høje	høj	AC:p#u#:--:p---	_	
+98-8	plysstole	plysstol	NC:piu#:--:----	_	
+98-9	,	,	ZD	_	
+98-10	fra	fra	T-:----:--:----	_	
+98-11	publikumsterrassernes	publikumsterrasse	NC:pdg#:--:----	_	
+98-12	brede	bred	AC:sdu#:--:p---	_	
+98-13	træbeklædning	træbeklædning	NC:siuc:--:----	_	
+98-14	,	,	ZD	_	
+98-15	fra	fra	CS:----:--:----	_	
+98-16	den	den	PM:s-uc:--:----	_	
+98-17	gyldne	gylden	AC:sdu#:--:p---	_	
+98-18	ild	ild	NC:siuc:--:----	_	
+98-19	malet	male	VT:siu#:t-:----	_	
+98-20	på	på	T-:----:--:----	_	
+98-21	væggene	væg	NC:pdu#:--:----	_	
+98-22	og	og	CC:----:--:----	_	
+98-23	de	den	PM:p-u#:--:----	_	
+98-24	akustiske	akustisk	AC:p#u#:--:p---	_	
+98-25	plader	plade	NC:piu#:--:----	plade_1	
+98-26	i	i	T-:----:--:----	_	
+98-27	loftet	loft	NC:sdun:--:----	_	
+98-28	,	,	ZD	_	
+98-29	der	der	US:----:--:----	_	
+98-30	hænger	hænge	VF:----:sa:----	_	
+98-31	i	i	T-:----:--:----	_	
+98-32	et	en	PI:s-un:--:----	_	
+98-33	'	'	XY:----:--:----	_	
+98-34	tilfældigt	tilfældig	AD:----:--:p---	_	
+98-35	rod	rod	NC:siuc:--:----	_	
+98-36	'	'	ZA	_	
+98-37	ligesom	ligesom	D-:----:--:u---	_	
+98-38	de	den	PM:p-u#:--:----	_	
+98-39	usynlige	usynlig	AC:p#u#:--:p---	_	
+98-40	skulpturelle	skulpturel	AC:p#u#:--:p---	_	
+98-41	plader	plade	NC:piu#:--:----	_	
+98-42	udenpå	udenpå	D-:----:--:u---	_	
+98-43	.	.	ZP	_	
+
+#id=99
+#text="Et Metallica, der er faldet til sin egen sorte pat og med storslået resignation prøver at lave den plade, som mange har sukket efter i årevis", skrev Kim skotte om bandets nyeste plade.
+99-1	"	"	ZI	_	
+99-2	Et	en	PI:s-un:--:----	_	
+99-3	Metallica	Metallica	NP:siu#:--:----	_	
+99-4	,	,	ZD	_	
+99-5	der	der	US:----:--:----	_	
+99-6	er	være	VF:----:sa:----	_	
+99-7	faldet	falde	VT:siu#:t-:----	_	
+99-8	til	til	T-:----:--:----	_	
+99-9	sin	sin	PO:s--c:--:-3ys	_	
+99-10	egen	egen	AC:s§uc:--:p---	_	
+99-11	sorte	sort	AC:sdu#:--:p---	_	
+99-12	pat	pat	NC:siuc:--:----	_	
+99-13	og	og	CC:----:--:----	_	
+99-14	med	med	T-:----:--:----	_	
+99-15	storslået	storslået	AC:siu§:--:p---	_	
+99-16	resignation	resignation	NC:siuc:--:----	_	
+99-17	prøver	prøve	VF:----:sa:----	_	
+99-18	at	at	UI:----:--:----	_	
+99-19	lave	lave	VI:----:-a:----	_	
+99-20	den	den	PM:s-uc:--:----	_	
+99-21	plade	plade	NC:siuc:--:----	plade_2a	
+99-22	,	,	ZD	_	
+99-23	som	som	US:----:--:----	_	
+99-24	mange	mangen	:p#u#:--:p---	_	
+99-25	har	have	VF:----:sa:----	_	
+99-26	sukket	sukke	VT:siu#:t-:----	_	
+99-27	efter	efter	T-:----:--:----	_	
+99-28	i	i	T-:----:--:----	_	
+99-29	årevis	årevis	D-:----:--:u---	_	
+99-30	"	"	ZI	_	
+99-31	,	,	ZD	_	
+99-32	skrev	skrive	VF:----:ta:----	_	
+99-33	Kim	Kim	NP:siu#:--:----	_	
+99-34	skotte	skotte	NC:siuc:--:----	_	
+99-35	om	om	T-:----:--:----	_	
+99-36	bandets	band	NC:sdgn:--:----	_	
+99-37	nyeste	ny	AC:§du§:--:s---	_	
+99-38	plade	plade	NC:siuc:--:----	plade_2a	
+99-39	.	.	ZP	_	
+
+#id=100
+#text= Produceret med masser af omhu og uden smalhans i afdelingen for guitarsoloer", skrev Kim Skotte om den nye plade fra Guns N' Roses.
+100-1	Produceret	producere	VT:siu#:t-:----	_	
+100-2	med	med	T-:----:--:----	_	
+100-3	masser	masse	NC:piu#:--:----	_	
+100-4	af	af	T-:----:--:----	_	
+100-5	omhu	omhu	NC:siuc:--:----	_	
+100-6	og	og	CC:----:--:----	_	
+100-7	uden	uden	T-:----:--:----	_	
+100-8	smalhans	smalhans	NC:siuc:--:----	_	
+100-9	i	i	--:--:----	_	
+100-10	afdelingen	afdeling	NC:sduc:--:----	_	
+100-11	for	for	T-:----:--:----	_	
+100-12	guitarsoloer	guitarsoloer	NC:piu#:--:----	_	
+100-13	"	"	ZI	_	
+100-14	,	,	ZD	_	
+100-15	skrev	skrive	VF:----:ta:----	_	
+100-16	Kim	Kim	NP:siu#:--:----	_	
+100-17	Skotte	skotte	NC:siuc:--:----	_	
+100-18	om	om	T-:----:--:----	_	
+100-19	den	den	PM:s-uc:--:----	_	
+100-20	nye	ny	AC:sdu#:--:p---	_	
+100-21	plade	plade	NC:siuc:--:----	plade_2a	
+100-22	fra	fra	T-:----:--:----	_	
+100-23	Guns	Gun	NP:siu#:--:----	_	
+100-24	N	N	NP:siu#:--:----	_	
+100-25	'	'	ZA	_	
+100-26	Roses	rose	NP:siu#:--:----	_	
+100-27	.	.	ZP	_	
+

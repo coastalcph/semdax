@@ -1,0 +1,251 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text="Folk har været søde .
+1-1	"	O	
+1-2	Folk	B-noun.person	
+1-3	har	O	
+1-4	været	B-verb.stative	
+1-5	søde	B-adj.social	
+1-6	.	O	
+
+#id=2
+#text=Ogsåbagefter .
+2-1	Også	O	
+2-2	bagefter	O	
+2-3	.	O	
+
+#id=3
+#text=Andetkan jeg ikke sige .
+3-1	Andet	O	
+3-2	kan	O	
+3-3	jeg	O	
+3-4	ikke	O	
+3-5	sige	B-verb.communication	
+3-6	.	O	
+
+#id=4
+#text=Dervar altid noget at rive i . "
+4-1	Der	O	
+4-2	var	B-verb.stative	
+4-3	altid	O	
+4-4	noget	O	
+4-5	at	O	
+4-6	rive	B-verb.act	
+4-7	i	O	
+4-8	.	O	
+4-9	"	O	
+
+#id=5
+#text=Menselv_om livet aldrig blev det økonomiske " bummelumliv " , han havde drømt om , så blev det et ordentligt liv med børnene og den uundværlige kone , Ellen .
+5-1	Men	O	
+5-2	selv_om	O	
+5-3	livet	B-noun.phenomenon	
+5-4	aldrig	O	
+5-5	blev	B-verb.stative	
+5-6	det	O	
+5-7	økonomiske	B-adj.all	
+5-8	"	O	
+5-9	bummelumliv	B-noun.phenomenon	
+5-10	"	O	
+5-11	,	O	
+5-12	han	O	
+5-13	havde	O	
+5-14	drømt	B-verb.emotion	
+5-15	om	O	
+5-16	,	O	
+5-17	så	O	
+5-18	blev	B-verb.stative	
+5-19	det	O	
+5-20	et	O	
+5-21	ordentligt	B-adj.all	
+5-22	liv	B-noun.phenomenon	
+5-23	med	O	
+5-24	børnene	B-noun.person	
+5-25	og	O	
+5-26	den	O	
+5-27	uundværlige	B-adj.all	
+5-28	kone	B-noun.person	
+5-29	,	O	
+5-30	Ellen	B-noun.person	
+5-31	.	O	
+
+#id=6
+#text=Deter det stadig .
+6-1	Det	O	
+6-2	er	B-verb.stative	
+6-3	det	O	
+6-4	stadig	O	
+6-5	.	O	
+
+#id=7
+#text=Hansmiler stadig sit brede smil , han må stadig ud og bruge sine hænder , og i et 66 år gammelt liv  , hvor glæderne er flere end bekymringerne , er det to dagligdags og samfundsskabte ting , der irriterer .
+7-1	Han	O	
+7-2	smiler	B-verb.act	
+7-3	stadig	O	
+7-4	sit	O	
+7-5	brede	B-adj.phys	
+7-6	smil	B-noun.act	
+7-7	,	O	
+7-8	han	O	
+7-9	må	O	
+7-10	stadig	O	
+7-11	ud	O	
+7-12	og	O	
+7-13	bruge	B-verb.act	
+7-14	sine	O	
+7-15	hænder	B-noun.body	
+7-16	,	O	
+7-17	og	O	
+7-18	i	O	
+7-19	et	O	
+7-20	66	O	
+7-21	år	B-noun.time	
+7-22	gammelt	B-adj.time	
+7-23	liv	B-noun.phenomenon	
+7-24	,	O	
+7-25	hvor	O	
+7-26	glæderne	B-noun.feeling	
+7-27	er	B-verb.stative	
+7-28	flere	B-adj.all	
+7-29	end	O	
+7-30	bekymringerne	B-noun.feeling	
+7-31	,	O	
+7-32	er	B-verb.stative	
+7-33	det	O	
+7-34	to	O	
+7-35	dagligdags	B-adj.all	
+7-36	og	O	
+7-37	samfundsskabte	B-adj.all	
+7-38	ting	B-noun.abstract	
+7-39	,	O	
+7-40	der	O	
+7-41	irriterer	B-verb.phenomenon	
+7-42	.	O	
+
+#id=8
+#text=Haner invalidepensionist og arbejder 200 timer om året i sønnens tømrerfirma .
+8-1	Han	O	
+8-2	er	B-verb.stative	
+8-3	invalidepensionist	B-noun.person	
+8-4	og	O	
+8-5	arbejder	B-verb.act	
+8-6	200	O	
+8-7	timer	B-noun.time	
+8-8	om	O	
+8-9	året	B-noun.time	
+8-10	i	O	
+8-11	sønnens	B-noun.person	
+8-12	tømrerfirma	B-noun.institution	
+8-13	.	O	
+
+#id=9
+#text=Hanvil gerne hjælpe mere , men må ikke , og hans kone Ellen , som altid har blandet sig , når Chris skulle sige noget , gør det stadig .
+9-1	Han	O	
+9-2	vil	O	
+9-3	gerne	O	
+9-4	hjælpe	B-verb.act	
+9-5	mere	O	
+9-6	,	O	
+9-7	men	O	
+9-8	må	B-verb.phenomenon	
+9-9	ikke	O	
+9-10	,	O	
+9-11	og	O	
+9-12	hans	O	
+9-13	kone	B-noun.person	
+9-14	Ellen	B-noun.person	
+9-15	,	O	
+9-16	som	O	
+9-17	altid	O	
+9-18	har	O	
+9-19	blandet	B-verb.act	
+9-20	sig	B-verb.REFLPRON	
+9-21	,	O	
+9-22	når	O	
+9-23	Chris	B-noun.person	
+9-24	skulle	O	
+9-25	sige	B-verb.communication	
+9-26	noget	O	
+9-27	,	O	
+9-28	gør	B-verb.act	
+9-29	det	O	
+9-30	stadig	O	
+9-31	.	O	
+
+#id=10
+#text="Jamen , det er da fortvivlende .
+10-1	"	O	
+10-2	Jamen	O	
+10-3	,	O	
+10-4	det	O	
+10-5	er	B-verb.stative	
+10-6	da	O	
+10-7	fortvivlende	B-adj.mental	
+10-8	.	O	
+
+#id=11
+#text=Numå man ikke engang hjælpe sine børn længere . "
+11-1	Nu	O	
+11-2	må	O	
+11-3	man	O	
+11-4	ikke	O	
+11-5	engang	O	
+11-6	hjælpe	B-verb.act	
+11-7	sine	O	
+11-8	børn	B-noun.person	
+11-9	længere	O	
+11-10	.	O	
+11-11	"	O	
+
+#id=12
+#text=Detandet : " Jeg har altid haft det sådan , at når man gik på  gaden , så lettede man på hatten og hilste .
+12-1	Det	O	
+12-2	andet	O	
+12-3	:	O	
+12-4	"	O	
+12-5	Jeg	O	
+12-6	har	O	
+12-7	altid	O	
+12-8	haft	B-verb.cognition	
+12-9	det	O	
+12-10	sådan	O	
+12-11	,	O	
+12-12	at	O	
+12-13	når	O	
+12-14	man	O	
+12-15	gik	B-verb.motion	
+12-16	på	O	
+12-17	gaden	B-noun.location	
+12-18	,	O	
+12-19	så	O	
+12-20	lettede	B-verb.motion	
+12-21	man	O	
+12-22	på	O	
+12-23	hatten	B-noun.artifact	
+12-24	og	O	
+12-25	hilste	B-verb.communication	
+12-26	.	O	
+
+#id=13
+#text=Detgør man ikke mere .
+13-1	Det	O	
+13-2	gør	B-verb.act	
+13-3	man	O	
+13-4	ikke	O	
+13-5	mere	O	
+13-6	.	O	
+
+#id=14
+#text=Deter s'gu ikke  moderne at sige go'morgen længere . "
+14-1	Det	O	
+14-2	er	B-verb.stative	
+14-3	s'gu	O	
+14-4	ikke	O	
+14-5	moderne	B-adj.time	
+14-6	at	O	
+14-7	sige	B-verb.communication	
+14-8	go'morgen	O	
+14-9	længere	O	
+14-10	.	O	
+14-11	"	O	
+

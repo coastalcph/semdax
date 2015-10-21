@@ -1,0 +1,215 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text="Situationen for besætningen skal tages meget alvorligt .
+1-1	"	O	
+1-2	Situationen	B-noun.state	
+1-3	for	O	
+1-4	besætningen	B-noun.person	
+1-5	skal	O	
+1-6	tages	B-verb.cognition	
+1-7	meget	O	
+1-8	alvorligt	O	
+1-9	.	O	
+
+#id=2
+#text=Ogdet kan nemt komme til at tage meget lang tid at få skibet fri .
+2-1	Og	O	
+2-2	det	O	
+2-3	kan	O	
+2-4	nemt	O	
+2-5	komme	B-verb.phenomenon	
+2-6	til	B-verb.PARTICLE	
+2-7	at	O	
+2-8	tage	B-verb.phenomenon	
+2-9	meget	O	
+2-10	lang	O	
+2-11	tid	B-verb.COLL	
+2-12	at	O	
+2-13	få	B-verb.act	
+2-14	skibet	B-noun.vehicle	
+2-15	fri	O	
+2-16	.	O	
+
+#id=3
+#text=Mennu er der heldigvis et så stort pres fra både den amerikanske ambassade og det danske udenrigsministerium , at det skal lykkes , at få besætningen hjem , " siger Jan Fabricius .
+3-1	Men	O	
+3-2	nu	O	
+3-3	er	B-verb.stative	
+3-4	der	O	
+3-5	heldigvis	O	
+3-6	et	O	
+3-7	så	O	
+3-8	stort	B-adj.all	
+3-9	pres	B-noun.phenomenon	
+3-10	fra	O	
+3-11	både	O	
+3-12	den	O	
+3-13	amerikanske	B-adj.social	
+3-14	ambassade	B-noun.person	
+3-15	og	O	
+3-16	det	O	
+3-17	danske	B-adj.social	
+3-18	udenrigsministerium	B-noun.person	
+3-19	,	O	
+3-20	at	O	
+3-21	det	O	
+3-22	skal	O	
+3-23	lykkes	B-verb.phenomenon	
+3-24	,	O	
+3-25	at	O	
+3-26	få	B-verb.act	
+3-27	besætningen	B-noun.person	
+3-28	hjem	B-verb.COLL	
+3-29	,	O	
+3-30	"	O	
+3-31	siger	B-verb.communication	
+3-32	Jan	B-noun.person	
+3-33	Fabricius	I-noun.person	
+3-34	.	O	
+
+#id=4
+#text="Hvad der skal ske med skibet , ved jeg ikke .
+4-1	"	O	
+4-2	Hvad	O	
+4-3	der	O	
+4-4	skal	O	
+4-5	ske	B-verb.phenomenon	
+4-6	med	O	
+4-7	skibet	B-noun.vehicle	
+4-8	,	O	
+4-9	ved	B-verb.cognition	
+4-10	jeg	O	
+4-11	ikke	O	
+4-12	.	O	
+
+#id=5
+#text=Mankan åbenbart forvente alt fra den såkaldt fredsbevarende styrke i landet .
+5-1	Man	O	
+5-2	kan	O	
+5-3	åbenbart	O	
+5-4	forvente	B-verb.cognition	
+5-5	alt	O	
+5-6	fra	O	
+5-7	den	O	
+5-8	såkaldt	O	
+5-9	fredsbevarende	B-adj.all	
+5-10	styrke	B-noun.person	
+5-11	i	O	
+5-12	landet	B-noun.location	
+5-13	.	O	
+
+#id=6
+#text=Deholder jo faktisk besætningen som gidsler .
+6-1	De	O	
+6-2	holder	B-verb.act	
+6-3	jo	O	
+6-4	faktisk	O	
+6-5	besætningen	B-noun.person	
+6-6	som	O	
+6-7	gidsler	B-noun.person	
+6-8	.	O	
+
+#id=7
+#text=Menjeg kan ikke forestille mig , at de bare kan stjæle et skib på den måde . "
+7-1	Men	O	
+7-2	jeg	O	
+7-3	kan	O	
+7-4	ikke	O	
+7-5	forestille	B-verb.cognition	
+7-6	mig	B-verb.REFLPRON	
+7-7	,	O	
+7-8	at	O	
+7-9	de	O	
+7-10	bare	O	
+7-11	kan	O	
+7-12	stjæle	B-verb.possession	
+7-13	et	O	
+7-14	skib	B-noun.vehicle	
+7-15	på	O	
+7-16	den	O	
+7-17	måde	B-noun.abstract	
+7-18	.	O	
+7-19	"	O	
+
+#id=8
+#text=Denfredsbevarende styrke i Monrovia har beskyldt skibet for at sejle med våben - men det afviser de danske ejere skulle være tilfældet .
+8-1	Den	O	
+8-2	fredsbevarende	B-adj.all	
+8-3	styrke	B-noun.person	
+8-4	i	O	
+8-5	Monrovia	B-noun.location	
+8-6	har	O	
+8-7	beskyldt	B-verb.communication	
+8-8	skibet	B-noun.person	
+8-9	for	O	
+8-10	at	O	
+8-11	sejle	B-verb.motion	
+8-12	med	O	
+8-13	våben	B-noun.artifact	
+8-14	-	O	
+8-15	men	O	
+8-16	det	O	
+8-17	afviser	B-verb.communication	
+8-18	de	O	
+8-19	danske	B-adj.social	
+8-20	ejere	B-noun.person	
+8-21	skulle	O	
+8-22	være	B-verb.stative	
+8-23	tilfældet	B-noun.state	
+8-24	.	O	
+
+#id=9
+#text=DenBahama-registrede coaster har i halvandet år sejlet i fast rutefart mellem Elfenbenskysten og hovedstaden Monrovia i Liberia .
+9-1	Den	O	
+9-2	Bahama-registrede	B-adj.all	
+9-3	coaster	B-noun.vehicle	
+9-4	har	O	
+9-5	i	O	
+9-6	halvandet	O	
+9-7	år	B-noun.time	
+9-8	sejlet	B-verb.motion	
+9-9	i	O	
+9-10	fast	O	
+9-11	rutefart	B-noun.act	
+9-12	mellem	O	
+9-13	Elfenbenskysten	B-noun.location	
+9-14	og	O	
+9-15	hovedstaden	B-noun.location	
+9-16	Monrovia	B-noun.location	
+9-17	i	O	
+9-18	Liberia	B-noun.location	
+9-19	.	O	
+
+#id=10
+#text=Derer ti besætningsmedlemmer på skibet  , hvoraf de seks er danske .
+10-1	Der	O	
+10-2	er	B-verb.stative	
+10-3	ti	O	
+10-4	besætningsmedlemmer	B-noun.person	
+10-5	på	O	
+10-6	skibet	B-noun.vehicle	
+10-7	,	O	
+10-8	hvoraf	O	
+10-9	de	O	
+10-10	seks	O	
+10-11	er	B-verb.stative	
+10-12	danske	B-adj.social	
+10-13	.	O	
+
+#id=11
+#text=Derudoverer der en række passagerer , blandt_andet en amerikaner og tre malayer .
+11-1	Derudover	O	
+11-2	er	B-verb.stative	
+11-3	der	O	
+11-4	en	O	
+11-5	række	B-noun.quantity	
+11-6	passagerer	B-noun.person	
+11-7	,	O	
+11-8	blandt_andet	O	
+11-9	en	O	
+11-10	amerikaner	B-noun.person	
+11-11	og	O	
+11-12	tre	O	
+11-13	malayer	B-noun.person	
+11-14	.	O	
+

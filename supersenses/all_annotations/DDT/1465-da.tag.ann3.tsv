@@ -1,0 +1,228 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Formandenfor Folketingets sundhedsudvalg , fremskridtsmanden Jan Køpke Christensen , sagde i_går , at hans parti , når Folketinget igen mødes , vil fremsætte et forslag om , at der i den danske straffelov indsættes en paragraf , der " klart og tydeligt ulovliggør , at HIV-smittede personer bevidst smitter andre . "
+1-1	Formanden	B-noun.person	
+1-2	for	O	
+1-3	Folketingets	B-noun.institution	
+1-4	sundhedsudvalg	B-noun.institution	
+1-5	,	O	
+1-6	fremskridtsmanden	B-noun.person	
+1-7	Jan	B-noun.person	
+1-8	Køpke	I-noun.person	
+1-9	Christensen	I-noun.person	
+1-10	,	O	
+1-11	sagde	B-verb.communication	
+1-12	i_går	B-noun.time	
+1-13	,	O	
+1-14	at	O	
+1-15	hans	O	
+1-16	parti	B-noun.person	
+1-17	,	O	
+1-18	når	O	
+1-19	Folketinget	B-noun.institution	
+1-20	igen	O	
+1-21	mødes	B-verb.act	
+1-22	,	O	
+1-23	vil	O	
+1-24	fremsætte	B-verb.communication	
+1-25	et	O	
+1-26	forslag	B-noun.communication	
+1-27	om	O	
+1-28	,	O	
+1-29	at	O	
+1-30	der	O	
+1-31	i	O	
+1-32	den	O	
+1-33	danske	B-adj.social	
+1-34	straffelov	B-noun.abstract	
+1-35	indsættes	B-verb.act	
+1-36	en	O	
+1-37	paragraf	B-noun.communication	
+1-38	,	O	
+1-39	der	O	
+1-40	"	O	
+1-41	klart	O	
+1-42	og	O	
+1-43	tydeligt	O	
+1-44	ulovliggør	B-verb.act	
+1-45	,	O	
+1-46	at	O	
+1-47	HIV-smittede	B-adj.phys	
+1-48	personer	B-noun.person	
+1-49	bevidst	O	
+1-50	smitter	B-verb.phenomenon	
+1-51	andre	O	
+1-52	.	O	
+1-53	"	O	
+
+#id=2
+#text=JanKøbke Christensen henviser til den 34-årige haitianer , der er sigtet for bevidst at have smittet andre med HIV .
+2-1	Jan	B-noun.person	
+2-2	Købke	I-noun.person	
+2-3	Christensen	I-noun.person	
+2-4	henviser	B-verb.communication	
+2-5	til	O	
+2-6	den	O	
+2-7	34-årige	B-adj.time	
+2-8	haitianer	B-noun.person	
+2-9	,	O	
+2-10	der	O	
+2-11	er	O	
+2-12	sigtet	B-verb.act	
+2-13	for	O	
+2-14	bevidst	O	
+2-15	at	O	
+2-16	have	O	
+2-17	smittet	B-verb.phenomenon	
+2-18	andre	O	
+2-19	med	O	
+2-20	HIV	B-noun.disease	
+2-21	.	O	
+
+#id=3
+#text=NÆPPEFLERTAL
+3-1	NÆPPE	O	
+3-2	FLERTAL	B-noun.state	
+
+#id=4
+#text=Menumiddelbart ser det ikke ud til , at der kan samles flertal for forslaget i Folketinget .
+4-1	Men	O	
+4-2	umiddelbart	O	
+4-3	ser	B-verb.phenomenon	
+4-4	det	O	
+4-5	ikke	O	
+4-6	ud	O	
+4-7	til	O	
+4-8	,	O	
+4-9	at	O	
+4-10	der	O	
+4-11	kan	O	
+4-12	samles	B-verb.act	
+4-13	flertal	B-noun.state	
+4-14	for	O	
+4-15	forslaget	B-noun.communication	
+4-16	i	O	
+4-17	Folketinget	B-noun.institution	
+4-18	.	O	
+
+#id=5
+#text="Vi vil afvente dommen mod  den sigtede haitianer , " siger Elisabeth Arnold .
+5-1	"	O	
+5-2	Vi	O	
+5-3	vil	O	
+5-4	afvente	B-verb.stative	
+5-5	dommen	B-noun.cognition	
+5-6	mod	O	
+5-7	den	O	
+5-8	sigtede	B-adj.all	
+5-9	haitianer	B-noun.person	
+5-10	,	O	
+5-11	"	O	
+5-12	siger	B-verb.communication	
+5-13	Elisabeth	B-noun.person	
+5-14	Arnold	I-noun.person	
+5-15	.	O	
+
+#id=6
+#text="Der er jo ikke noget , der tyder på , at han ikke kan dømmes ifølge de to paragraffer , han er sigtet efter .
+6-1	"	O	
+6-2	Der	O	
+6-3	er	B-verb.stative	
+6-4	jo	O	
+6-5	ikke	O	
+6-6	noget	O	
+6-7	,	O	
+6-8	der	O	
+6-9	tyder	B-verb.phenomenon	
+6-10	på	O	
+6-11	,	O	
+6-12	at	O	
+6-13	han	O	
+6-14	ikke	O	
+6-15	kan	O	
+6-16	dømmes	B-verb.cognition	
+6-17	ifølge	O	
+6-18	de	O	
+6-19	to	O	
+6-20	paragraffer	B-noun.communication	
+6-21	,	O	
+6-22	han	O	
+6-23	er	O	
+6-24	sigtet	B-verb.act	
+6-25	efter	O	
+6-26	.	O	
+
+#id=7
+#text=Nemligat han forsætligt udøver legemsbeskadigelse mod andre og bringer andres liv i fare .
+7-1	Nemlig	O	
+7-2	at	O	
+7-3	han	O	
+7-4	forsætligt	O	
+7-5	udøver	B-verb.act	
+7-6	legemsbeskadigelse	B-noun.act	
+7-7	mod	O	
+7-8	andre	O	
+7-9	og	O	
+7-10	bringer	B-verb.act	
+7-11	andres	O	
+7-12	liv	B-noun.state	
+7-13	i	O	
+7-14	fare	B-noun.state	
+7-15	.	O	
+
+#id=8
+#text=Dømmeshan , vil en ændring af straffeloven være unødvendig , men frikendes han , vil det måske være relevant .
+8-1	Dømmes	B-verb.cognition	
+8-2	han	O	
+8-3	,	O	
+8-4	vil	O	
+8-5	en	O	
+8-6	ændring	B-noun.act	
+8-7	af	O	
+8-8	straffeloven	B-noun.abstract	
+8-9	være	B-verb.stative	
+8-10	unødvendig	B-adj.all	
+8-11	,	O	
+8-12	men	O	
+8-13	frikendes	B-verb.cognition	
+8-14	han	O	
+8-15	,	O	
+8-16	vil	O	
+8-17	det	O	
+8-18	måske	O	
+8-19	være	B-verb.stative	
+8-20	relevant	B-adj.all	
+8-21	.	O	
+
+#id=9
+#text=Menmin holdning er , at det vil være langt mere effektivt , hvis lægerne offentligt erklærer , at de vil bryde tavshedspligten , " siger Elisabeth Arnold .
+9-1	Men	O	
+9-2	min	O	
+9-3	holdning	B-noun.cognition	
+9-4	er	B-verb.stative	
+9-5	,	O	
+9-6	at	O	
+9-7	det	O	
+9-8	vil	O	
+9-9	være	B-verb.stative	
+9-10	langt	O	
+9-11	mere	O	
+9-12	effektivt	B-adj.all	
+9-13	,	O	
+9-14	hvis	O	
+9-15	lægerne	B-noun.person	
+9-16	offentligt	O	
+9-17	erklærer	B-verb.communication	
+9-18	,	O	
+9-19	at	O	
+9-20	de	O	
+9-21	vil	O	
+9-22	bryde	B-verb.act	
+9-23	tavshedspligten	B-noun.abstract	
+9-24	,	O	
+9-25	"	O	
+9-26	siger	B-verb.communication	
+9-27	Elisabeth	B-noun.person	
+9-28	Arnold	I-noun.person	
+9-29	.	O	
+

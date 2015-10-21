@@ -1,0 +1,147 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Lexicalsample | Tag
+#id=1
+#text=Men så kører von Trier efter min bedste overbevisning ud på et overdrev, hvor vold og grusomhed tager over, så det næsten er en splatterfilm værdig (af og til nærmest en parodi herpå).
+1-1	Men	men	CC:----:--:----	_	
+1-2	så	så	D-:----:--:u---	_	
+1-3	kører	køre	VF:----:sa:----	_	
+1-4	von	von	NP:siu#:--:----	_	
+1-5	Trier	Trier	NP:siu#:--:----	_	
+1-6	efter	efter	T-:----:--:----	_	
+1-7	min	min	PO:s--c:--:-1ns	_	
+1-8	bedste	god	AC:§du§:--:s---	_	
+1-9	overbevisning	overbevisning	NC:siuc:--:----	_	
+1-10	ud	ud	D-:----:--:u---	_	
+1-11	på	på	T-:----:--:----	_	
+1-12	et	en	PI:s-un:--:----	_	
+1-13	overdrev	overdrev	NC:siun:--:----	_	
+1-14	,	,	ZD	_	
+1-15	hvor	hvor	D-:----:--:u---	_	
+1-16	vold	vold	NC:siuc:--:----	vold1_1_1a	
+1-17	og	og	CC:----:--:----	_	
+1-18	grusomhed	grusomhed	NC:siuc:--:----	_	
+1-19	tager	tage	VF:----:sa:----	_	
+1-20	over	over	D-:----:--:u---	_	
+1-21	,	,	ZD	_	
+1-22	så	så	CS:----:--:----	_	
+1-23	det	det	PP:s-un:--:-3n-	_	
+1-24	næsten	næsten	D-:----:--:u---	_	
+1-25	er	være	VF:----:sa:----	_	
+1-26	en	en	PI:s-uc:--:----	_	
+1-27	splatterfilm	splatterfilm	NC:siuc:--:----	_	
+1-28	værdig	værdig	AC:siuc:--:p---	_	
+1-29	(	(	ZD	_	
+1-30	af	af	D-:----:--:u---	_	
+1-31	og	og	CC:----:--:----	_	
+1-32	til	til	D-:----:--:u---	_	
+1-33	nærmest	nær	AD:----:--:s---	_	
+1-34	en	en	PI:s-uc:--:----	_	
+1-35	parodi	parodi	NC:siuc:--:----	_	
+1-36	herpå	herpå	D-:----:--:u---	_	
+1-37	)	)	ZD	_	
+1-38	.	.	ZP	_	
+
+#id=2
+#text=1.000 mennesker til fakkeltog mod meningsløs vold i går.
+2-1	1	1	LC:--u-:--:----	_	
+2-2	.	.	ZP	_	
+2-3	000	000	LC:--u-:--:----	_	
+2-4	mennesker	menneske	NC:piu#:--:----	_	
+2-5	til	til	T-:----:--:----	_	
+2-6	fakkeltog	fakkeltog	NC:siun:--:----	_	
+2-7	mod	mod	T-:----:--:----	_	
+2-8	meningsløs	meningsløs	--:p---	_	
+2-9	vold	vold	NC:siuc:--:----	vold1_1_1a	
+2-10	i	i	T-:----:--:----	_	
+2-11	går	går	NC:§§u§:--:----	_	
+2-12	.	.	ZP	_	
+
+#id=3
+#text=Forleden eftermiddag var jeg ved Nørre Vold og havde en lille halv time i overskud.
+3-1	Forleden	forleden	AD:----:--:p---	_	
+3-2	eftermiddag	eftermiddag	NC:siuc:--:----	_	
+3-3	var	være	VF:----:ta:----	_	
+3-4	jeg	jeg	PP:s-nc:--:-1n-	_	
+3-5	ved	vide	VF:----:sa:----	_	
+3-6	Nørre	Nørre	NP:siu#:--:----	_	
+3-7	Vold	vold	NC:siuc:--:----	_	
+3-8	og	og	CC:----:--:----	_	
+3-9	havde	have	VF:----:ta:----	_	
+3-10	en	en	PI:s-uc:--:----	_	
+3-11	lille	lille	AC:s§u§:--:p---	_	
+3-12	halv	halv	AC:siuc:--:p---	_	
+3-13	time	time	NC:siuc:--:----	_	
+3-14	i	i	T-:----:--:----	_	
+3-15	overskud	overskud	NC:siun:--:----	_	
+3-16	.	.	ZP	_	
+
+#id=4
+#text=Skønt jeg er vokset op først i Ballerup og senere på Frederiksberg, gik jeg i hele min folkeskoletid i skole midt på Nørre Vold.
+4-1	Skønt	skønt	CS:----:--:----	_	
+4-2	jeg	jeg	PP:s-nc:--:-1n-	_	
+4-3	er	være	VF:----:sa:----	_	
+4-4	vokset	vokse	VT:siu#:t-:----	_	
+4-5	op	op	D-:----:--:u---	_	
+4-6	først	først	D-:----:--:u---	_	
+4-7	i	i	T-:----:--:----	_	
+4-8	Ballerup	Ballerup	NP:siu#:--:----	_	
+4-9	og	og	CC:----:--:----	_	
+4-10	senere	sen	AD:----:--:c---	_	
+4-11	på	på	T-:----:--:----	_	
+4-12	Frederiksberg	Frederiksberg	NP:siu#:--:----	_	
+4-13	,	,	ZD	_	
+4-14	gik	gå	VF:----:ta:----	_	
+4-15	jeg	jeg	PP:s-nc:--:-1n-	_	
+4-16	i	i	D-:----:--:u---	_	
+4-17	hele	hele	VI:----:-a:----	_	
+4-18	min	min	PO:s--c:--:-1ns	_	
+4-19	folkeskoletid	folkeskoletid	NC:siuc:--:----	_	
+4-20	i	i	T-:----:--:----	_	
+4-21	skole	skole	NC:siuc:--:----	_	
+4-22	midt	midt	D-:----:--:u---	_	
+4-23	på	på	T-:----:--:----	_	
+4-24	Nørre	Nørre	NP:siu#:--:----	_	
+4-25	Vold	vold	NC:siuc:--:----	_	
+4-26	.	.	ZP	_	
+
+#id=5
+#text=Men jeg har også været i banaliteternes vold og vasket tøj, strøget og lavet mad.
+5-1	Men	men	CC:----:--:----	_	
+5-2	jeg	jeg	PP:s-nc:--:-1n-	_	
+5-3	har	have	VF:----:sa:----	_	
+5-4	også	også	D-:----:--:u---	_	
+5-5	været	være	VT:siu#:t-:----	_	
+5-6	i	i	T-:----:--:----	_	
+5-7	banaliteternes	banalitet	NC:pdg#:--:----	_	
+5-8	vold	vold	NC:siuc:--:----	vold1_2	
+5-9	og	og	CC:----:--:----	_	
+5-10	vasket	vaske	VT:siu#:t-:----	_	
+5-11	tøj	tøj	NC:siun:--:----	_	
+5-12	,	,	ZD	_	
+5-13	strøget	stryge	VT:siu#:t-:----	_	
+5-14	og	og	CC:----:--:----	_	
+5-15	lavet	lave	VT:siu#:t-:----	_	
+5-16	mad	mad	NC:siuc:--:----	_	
+5-17	.	.	ZP	_	
+
+#id=6
+#text=Derfor blev jeg også overrasket, da cykelhjulene rullede langs volden, og minderne begyndte at myldre frem.
+6-1	Derfor	derfor	D-:----:--:u---	_	
+6-2	blev	blive	VF:----:ta:----	_	
+6-3	jeg	jeg	PP:s-nc:--:-1n-	_	
+6-4	også	også	D-:----:--:u---	_	
+6-5	overrasket	overraske	VT:siu#:t-:----	_	
+6-6	,	,	ZD	_	
+6-7	da	da	CS:----:--:----	_	
+6-8	cykelhjulene	cykelhjul	NC:pdu#:--:----	_	
+6-9	rullede	rulle	VF:----:ta:----	_	
+6-10	langs	langs	T-:----:--:----	_	
+6-11	volden	vold	NC:sduc:--:----	vold2_1_1a	
+6-12	,	,	ZD	_	
+6-13	og	og	CC:----:--:----	_	
+6-14	minderne	minde	NC:pdu#:--:----	_	
+6-15	begyndte	begynde	VF:----:ta:----	_	
+6-16	at	at	UI:----:--:----	_	
+6-17	myldre	myldre	VI:----:-a:----	_	
+6-18	frem	frem	D-:----:--:u---	_	
+6-19	.	.	ZP	_	
+

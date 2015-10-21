@@ -1,0 +1,214 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=JESSINGERSLEV kan det samme - det overrumplende , gale - og viser det flere gange .
+1-1	JESS	B-noun.person	
+1-2	INGERSLEV	I-noun.person	
+1-3	kan	O	
+1-4	det	O	
+1-5	samme	O	
+1-6	-	O	
+1-7	det	O	
+1-8	overrumplende	B-adj.all	
+1-9	,	O	
+1-10	gale	B-adj.all	
+1-11	-	O	
+1-12	og	O	
+1-13	viser	B-verb.communication	
+1-14	det	O	
+1-15	flere	O	
+1-16	gange	B-noun.abstract	
+1-17	.	O	
+
+#id=2
+#text=Hanspiller med masser af selvironi  på det iltre - som revyen godt kunne have brug for lidt mere af .
+2-1	Han	O	
+2-2	spiller	B-verb.communication	
+2-3	med	O	
+2-4	masser	B-noun.quantity	
+2-5	af	O	
+2-6	selvironi	B-noun.attribute	
+2-7	på	O	
+2-8	det	O	
+2-9	iltre	B-adj.all	
+2-10	-	O	
+2-11	som	O	
+2-12	revyen	B-noun.communication	
+2-13	godt	O	
+2-14	kunne	O	
+2-15	have	B-verb.phenomenon	
+2-16	brug	B-verb.COLL	
+2-17	for	B-verb.COLL	
+2-18	lidt	O	
+2-19	mere	O	
+2-20	af	O	
+2-21	.	O	
+
+#id=3
+#text=Denhåndværksmæssige udførelse er i  top .
+3-1	Den	O	
+3-2	håndværksmæssige	B-adj.all	
+3-3	udførelse	B-noun.act	
+3-4	er	B-verb.stative	
+3-5	i	O	
+3-6	top	B-noun.relation	
+3-7	.	O	
+
+#id=4
+#text=Derer masser af hip i den , men den mangler lissom det sidste pift - også selv_om  den har herlige Tom McEwan , som kan pifte - ud mellem tænderne - og meget mere : Blandt_andet synge rock som en parodi på en opblæst koncertsanger .
+4-1	Der	O	
+4-2	er	B-verb.stative	
+4-3	masser	B-noun.quantity	
+4-4	af	O	
+4-5	hip	B-noun.abstract	
+4-6	i	O	
+4-7	den	O	
+4-8	,	O	
+4-9	men	O	
+4-10	den	O	
+4-11	mangler	B-verb.stative	
+4-12	lissom	O	
+4-13	det	O	
+4-14	sidste	B-adj.time	
+4-15	pift	B-noun.abstract	
+4-16	-	O	
+4-17	også	O	
+4-18	selv_om	O	
+4-19	den	O	
+4-20	har	B-verb.stative	
+4-21	herlige	B-adj.mental	
+4-22	Tom	B-noun.person	
+4-23	McEwan	I-noun.person	
+4-24	,	O	
+4-25	som	O	
+4-26	kan	O	
+4-27	pifte	B-verb.act	
+4-28	-	O	
+4-29	ud	O	
+4-30	mellem	O	
+4-31	tænderne	B-noun.body	
+4-32	-	O	
+4-33	og	O	
+4-34	meget	O	
+4-35	mere	O	
+4-36	:	O	
+4-37	Blandt_andet	O	
+4-38	synge	B-verb.communication	
+4-39	rock	B-noun.communication	
+4-40	som	O	
+4-41	en	O	
+4-42	parodi	B-noun.act	
+4-43	på	O	
+4-44	en	O	
+4-45	opblæst	B-adj.mental	
+4-46	koncertsanger	B-noun.person	
+4-47	.	O	
+
+#id=5
+#text=MEDså herligt et hold som dette : Therese Damsholt , Margrethe Koytu , Jess Ingerslev , Tom McEwan og Finn Nielsen - er det en skam , at der er så få af de numre , hvor de alle er med , der virkelig udnytter spændvidden i deres  sammenlagte talenter .
+5-1	MED	O	
+5-2	så	O	
+5-3	herligt	B-adj.all	
+5-4	et	O	
+5-5	hold	B-noun.person	
+5-6	som	O	
+5-7	dette	O	
+5-8	:	O	
+5-9	Therese	B-noun.person	
+5-10	Damsholt	I-noun.person	
+5-11	,	O	
+5-12	Margrethe	B-noun.person	
+5-13	Koytu	I-noun.person	
+5-14	,	O	
+5-15	Jess	B-noun.person	
+5-16	Ingerslev	I-noun.person	
+5-17	,	O	
+5-18	Tom	B-noun.person	
+5-19	McEwan	I-noun.person	
+5-20	og	O	
+5-21	Finn	B-noun.person	
+5-22	Nielsen	I-noun.person	
+5-23	-	O	
+5-24	er	B-verb.stative	
+5-25	det	O	
+5-26	en	O	
+5-27	skam	B-noun.cognition	
+5-28	,	O	
+5-29	at	O	
+5-30	der	O	
+5-31	er	B-verb.stative	
+5-32	så	O	
+5-33	få	B-adj.all	
+5-34	af	O	
+5-35	de	O	
+5-36	numre	B-noun.communication	
+5-37	,	O	
+5-38	hvor	O	
+5-39	de	O	
+5-40	alle	O	
+5-41	er	B-verb.social	
+5-42	med	B-verb.COLL	
+5-43	,	O	
+5-44	der	O	
+5-45	virkelig	O	
+5-46	udnytter	B-verb.phenomenon	
+5-47	spændvidden	B-noun.quantity	
+5-48	i	O	
+5-49	deres	O	
+5-50	sammenlagte	B-adj.all	
+5-51	talenter	B-noun.attribute	
+5-52	.	O	
+
+#id=6
+#text=Detgøres heldigvis helt pragtfuldt til_sidst .
+6-1	Det	O	
+6-2	gøres	B-verb.act	
+6-3	heldigvis	O	
+6-4	helt	O	
+6-5	pragtfuldt	O	
+6-6	til_sidst	O	
+6-7	.	O	
+
+#id=7
+#text=Ien vild og gal og rivende original operette-parodi .
+7-1	I	O	
+7-2	en	O	
+7-3	vild	B-adj.all	
+7-4	og	O	
+7-5	gal	B-adj.all	
+7-6	og	O	
+7-7	rivende	O	
+7-8	original	B-adj.all	
+7-9	operette-parodi	B-noun.act	
+7-10	.	O	
+
+#id=8
+#text=BrødrenePrice har komponeret romantisk musik og perverterede os dertil med en absurd tekst om blotteren , lokkeren , transvestitten og de to lystne småpiger i parken .
+8-1	Brødrene	B-noun.person	
+8-2	Price	I-noun.person	
+8-3	har	O	
+8-4	komponeret	B-verb.creation	
+8-5	romantisk	B-adj.all	
+8-6	musik	B-noun.communication	
+8-7	og	O	
+8-8	perverterede	B-verb.act	
+8-9	os	O	
+8-10	dertil	O	
+8-11	med	O	
+8-12	en	O	
+8-13	absurd	B-adj.all	
+8-14	tekst	B-noun.communication	
+8-15	om	O	
+8-16	blotteren	B-noun.person	
+8-17	,	O	
+8-18	lokkeren	B-noun.person	
+8-19	,	O	
+8-20	transvestitten	B-noun.person	
+8-21	og	O	
+8-22	de	O	
+8-23	to	O	
+8-24	lystne	B-adj.mental	
+8-25	småpiger	B-noun.person	
+8-26	i	O	
+8-27	parken	B-noun.location	
+8-28	.	O	
+

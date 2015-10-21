@@ -1,0 +1,44 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Lex | Tag
+#id=1
+#text=Lørdag aften kommer første hold hjem igen men det er der jo længe til .
+1-1	Lørdag	lørdag	NC:siuc:--:----	_	
+1-2	aften	aften	NC:siuc:--:----	_	
+1-3	kommer	komme	VF:----:sa:----	_	
+1-4	første	første	AC:§§u§:--:p---	_	
+1-5	hold	hold|hold-5|hold-4|hold-3|hold-1-1a-1b|hold-2|hold-6|hold-F-på-hold|hold-F-være/spille-med-på-holdet|hold-8|hold-7|hold-6a	NC:siun:--:----	hold-1	
+1-6	hjem	hjem	D-:----:--:u---	_	
+1-7	igen	igen	D-:----:--:u---	_	
+1-8	men	men	CC:----:--:----	_	
+1-9	det	det	PP:s-un:--:-3n-	_	
+1-10	er	være	VF:----:sa:----	_	
+1-11	der	der	US:----:--:----	_	
+1-12	jo	jo	D-:----:--:u---	_	
+1-13	længe	længe	D-:----:--:u---	_	
+1-14	til	til	T-:----:--:----	_	
+1-15	.	.	ZP	_	
+
+#id=2
+#text= En magt,  som jeg talrige gange både på nært og fjernere hold har set brugt og misbrugt af fraskilte forældre.
+2-1	En	en	PI:s-uc:--:----	_	
+2-2	magt	magt	NC:siuc:--:----	_	
+2-3	,	,	ZD	_	
+2-4	som	som	US:----:--:----	_	
+2-5	jeg	jeg	PP:s-nc:--:-1n-	_	
+2-6	talrige	talrig	AC:p#u#:--:p---	_	
+2-7	gange	gang	NC:piu#:--:----	_	
+2-8	både	både	D-:----:--:u---	_	
+2-9	på	på	T-:----:--:----	_	
+2-10	nært	nær	AC:siun:--:p---	_	
+2-11	og	og	CC:----:--:----	_	
+2-12	fjernere	fjern	AC:##u#:--:c---	_	
+2-13	hold	hold|hold-5|hold-6|hold-6a|hold-8|hold-F-på-hold|hold-F-være/spille-med-på-holdet|hold-7|hold-4|hold-1-1a-1b|hold-2|hold-3	NC:piu#:--:----	hold-2	
+2-14	har	have	VF:----:sa:----	_	
+2-15	set	se	VT:siu#:t-:----	_	
+2-16	brugt	brugt	AC:siu§:--:p---	_	
+2-17	og	og	CC:----:--:----	_	
+2-18	misbrugt	misbruge	VT:siu#:t-:----	_	
+2-19	af	af	T-:----:--:----	_	
+2-20	fraskilte	fraskille	VP:p#u#:t-:----	_	
+2-21	forældre	forælder	NC:piu#:--:----	_	
+2-22	.	.	ZP	_	
+

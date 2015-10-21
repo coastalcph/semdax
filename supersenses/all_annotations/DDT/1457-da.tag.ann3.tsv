@@ -1,0 +1,229 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text="Se lige frem .
+1-1	"	O	
+1-2	Se	B-verb.perception	
+1-3	lige	O	
+1-4	frem	O	
+1-5	.	O	
+
+#id=2
+#text=Ladvære med at kigge på mig .
+2-1	Lad	B-verb.act	
+2-2	være	B-verb.PARTICLE	
+2-3	med	O	
+2-4	at	O	
+2-5	kigge	B-verb.perception	
+2-6	på	O	
+2-7	mig	O	
+2-8	.	O	
+
+#id=3
+#text=Kørden vej , du får besked på , " lød pistolmandens ordre .
+3-1	Kør	B-verb.motion	
+3-2	den	O	
+3-3	vej	B-noun.location	
+3-4	,	O	
+3-5	du	O	
+3-6	får	B-verb.phenomenon	
+3-7	besked	B-noun.communication	
+3-8	på	O	
+3-9	,	O	
+3-10	"	O	
+3-11	lød	B-verb.communication	
+3-12	pistolmandens	B-noun.person	
+3-13	ordre	B-noun.communication	
+3-14	.	O	
+
+#id=4
+#text=Medpistolen rettet mod hovedet blev postchaufføren dirigeret ud ad Enghavevej , forbi Sydhavn S-station mod Sjællandsbroen .
+4-1	Med	O	
+4-2	pistolen	B-noun.artifact	
+4-3	rettet	B-verb.act	
+4-4	mod	O	
+4-5	hovedet	B-noun.body	
+4-6	blev	O	
+4-7	postchaufføren	B-noun.person	
+4-8	dirigeret	B-verb.communication	
+4-9	ud	O	
+4-10	ad	O	
+4-11	Enghavevej	B-noun.location	
+4-12	,	O	
+4-13	forbi	O	
+4-14	Sydhavn	B-noun.location	
+4-15	S-station	B-noun.building	
+4-16	mod	O	
+4-17	Sjællandsbroen	B-noun.building	
+4-18	.	O	
+
+#id=5
+#text=Kortfør broen fik han besked på at køre ind ad Bådehavnsgade og ud ad Speditørvej , der ender blindt ved et hegn ud mod et grønt område .
+5-1	Kort	O	
+5-2	før	O	
+5-3	broen	B-noun.building	
+5-4	fik	B-verb.phenomenon	
+5-5	han	O	
+5-6	besked	B-noun.communication	
+5-7	på	O	
+5-8	at	O	
+5-9	køre	B-verb.motion	
+5-10	ind	O	
+5-11	ad	O	
+5-12	Bådehavnsgade	B-noun.location	
+5-13	og	O	
+5-14	ud	O	
+5-15	ad	O	
+5-16	Speditørvej	B-noun.location	
+5-17	,	O	
+5-18	der	O	
+5-19	ender	B-verb.motion	
+5-20	blindt	O	
+5-21	ved	O	
+5-22	et	O	
+5-23	hegn	B-noun.artifact	
+5-24	ud	O	
+5-25	mod	O	
+5-26	et	O	
+5-27	grønt	B-adj.phys	
+5-28	område	B-noun.location	
+5-29	.	O	
+
+#id=6
+#text=PISTOLMANDTOG SELV
+6-1	PISTOLMAND	B-noun.person	
+6-2	TOG	B-verb.possession	
+6-3	SELV	O	
+
+#id=7
+#text=Pistolmandentvang sit gidsel ud af bilen , hvor han fik ordre til at låse varevognens skydedør op .
+7-1	Pistolmanden	B-noun.person	
+7-2	tvang	B-verb.act	
+7-3	sit	O	
+7-4	gidsel	B-noun.person	
+7-5	ud	O	
+7-6	af	O	
+7-7	bilen	B-noun.vehicle	
+7-8	,	O	
+7-9	hvor	O	
+7-10	han	O	
+7-11	fik	B-verb.phenomenon	
+7-12	ordre	B-noun.communication	
+7-13	til	O	
+7-14	at	O	
+7-15	låse	B-verb.act	
+7-16	varevognens	B-noun.vehicle	
+7-17	skydedør	B-noun.artifact	
+7-18	op	B-verb.PARTICLE	
+7-19	.	O	
+
+#id=8
+#text="Tak , nu ved jeg selv , hvad jeg skal have , " sagde pistolmanden og tog en plomberet postsæk og en værdipakke ud af bilen .
+8-1	"	O	
+8-2	Tak	O	
+8-3	,	O	
+8-4	nu	O	
+8-5	ved	B-verb.cognition	
+8-6	jeg	O	
+8-7	selv	O	
+8-8	,	O	
+8-9	hvad	O	
+8-10	jeg	O	
+8-11	skal	O	
+8-12	have	B-verb.possession	
+8-13	,	O	
+8-14	"	O	
+8-15	sagde	B-verb.communication	
+8-16	pistolmanden	B-noun.person	
+8-17	og	O	
+8-18	tog	B-verb.possession	
+8-19	en	O	
+8-20	plomberet	B-adj.all	
+8-21	postsæk	B-noun.container	
+8-22	og	O	
+8-23	en	O	
+8-24	værdipakke	B-noun.artifact	
+8-25	ud	O	
+8-26	af	O	
+8-27	bilen	B-noun.vehicle	
+8-28	.	O	
+
+#id=9
+#text=Chaufførenblev igen tvunget ind i bilen med besked på at lægge sig hen over sæderne og ikke kigge op , før røveren var væk .
+9-1	Chaufføren	B-noun.person	
+9-2	blev	O	
+9-3	igen	O	
+9-4	tvunget	B-verb.act	
+9-5	ind	O	
+9-6	i	O	
+9-7	bilen	B-noun.vehicle	
+9-8	med	O	
+9-9	besked	B-noun.communication	
+9-10	på	O	
+9-11	at	O	
+9-12	lægge	B-verb.motion	
+9-13	sig	O	
+9-14	hen	O	
+9-15	over	O	
+9-16	sæderne	B-noun.artifact	
+9-17	og	O	
+9-18	ikke	O	
+9-19	kigge	B-verb.perception	
+9-20	op	O	
+9-21	,	O	
+9-22	før	O	
+9-23	røveren	B-noun.person	
+9-24	var	B-verb.stative	
+9-25	væk	O	
+9-26	.	O	
+
+#id=10
+#text=Denchokerede chauffør nåede lige at se pistolmanden forsvinde gennem et hul i hegnet og løbe ind på det øde , grønne område .
+10-1	Den	O	
+10-2	chokerede	B-adj.mental	
+10-3	chauffør	B-noun.person	
+10-4	nåede	B-verb.act	
+10-5	lige	O	
+10-6	at	O	
+10-7	se	B-verb.perception	
+10-8	pistolmanden	B-noun.person	
+10-9	forsvinde	B-verb.motion	
+10-10	gennem	O	
+10-11	et	O	
+10-12	hul	B-noun.object	
+10-13	i	O	
+10-14	hegnet	B-noun.artifact	
+10-15	og	O	
+10-16	løbe	B-verb.motion	
+10-17	ind	O	
+10-18	på	O	
+10-19	det	O	
+10-20	øde	B-adj.phys	
+10-21	,	O	
+10-22	grønne	B-adj.phys	
+10-23	område	B-noun.location	
+10-24	.	O	
+
+#id=11
+#text=Derefterslog han alarm over sin radio til hovedkvarteret i Tietgensgade , hvor man slog alarm til politiet klokken 17.48 .
+11-1	Derefter	O	
+11-2	slog	B-verb.act	
+11-3	han	O	
+11-4	alarm	B-verb.COLL	
+11-5	over	O	
+11-6	sin	O	
+11-7	radio	B-noun.artifact	
+11-8	til	O	
+11-9	hovedkvarteret	B-noun.building	
+11-10	i	O	
+11-11	Tietgensgade	B-noun.location	
+11-12	,	O	
+11-13	hvor	O	
+11-14	man	O	
+11-15	slog	B-verb.act	
+11-16	alarm	B-verb.COLL	
+11-17	til	O	
+11-18	politiet	B-noun.institution	
+11-19	klokken	B-noun.time	
+11-20	17.48	O	
+11-21	.	O	
+

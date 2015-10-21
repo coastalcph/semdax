@@ -1,0 +1,29 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Lexicalsample | tag
+#id=1
+#text=Jeg kunne nok godt fatte det hvis jeg ville, men når jeg lige kaster et blik på det giver det absolut ingen mening.
+1-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+1-2	kunne	kunne	VF:----:ta:----	_	
+1-3	nok	nok	D-:----:--:u---	_	
+1-4	godt	god	AD:----:--:p---	_	
+1-5	fatte	fatte	VI:----:-a:----	_	
+1-6	det	det	PP:s-un:--:-3n-	_	
+1-7	hvis	hvis	CS:----:--:----	_	
+1-8	jeg	jeg	PP:s-nc:--:-1n-	_	
+1-9	ville	ville	VF:----:ta:----	_	
+1-10	,	,	ZD	_	
+1-11	men	men	CC:----:--:----	_	
+1-12	når	når	CS:----:--:----	_	
+1-13	jeg	jeg	PP:s-nc:--:-1n-	_	
+1-14	lige	lige	D-:----:--:u---	_	
+1-15	kaster	kaste	VF:----:sa:----	_	
+1-16	et	en	PI:s-un:--:----	_	
+1-17	blik	blik|blik-F-indre-blik|blik-1-4|blik-1-4a|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-1-3|blik-1-1|blik-1-2|blik-F-få-blikket	NC:siun:--:----	blik_1_4	
+1-18	på	på	T-:----:--:----	_	
+1-19	det	det	PP:s-un:--:-3n-	_	
+1-20	giver	give	VF:----:sa:----	_	
+1-21	det	det	PP:s-un:--:-3n-	_	
+1-22	absolut	absolut	AD:----:--:p---	_	
+1-23	ingen	ingen	PI:s-uc:--:----	_	
+1-24	mening	mening	NC:siuc:--:----	_	
+1-25	.	.	ZP	_	
+

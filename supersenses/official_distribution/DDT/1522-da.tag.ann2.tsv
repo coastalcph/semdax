@@ -1,0 +1,239 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Mensom tiden går , forsvinder forelskelsen , og dagligdagen bringer større eller mindre overraskelser .
+1-1	Men	O	
+1-2	som	O	
+1-3	tiden	B-noun.time	
+1-4	går	B-verb.phenomenon	
+1-5	,	O	
+1-6	forsvinder	B-verb.phenomenon	
+1-7	forelskelsen	B-noun.feeling	
+1-8	,	O	
+1-9	og	O	
+1-10	dagligdagen	B-noun.abstract	
+1-11	bringer	B-verb.phenomenon	
+1-12	større	B-adj.all	
+1-13	eller	O	
+1-14	mindre	B-adj.all	
+1-15	overraskelser	B-noun.abstract	
+1-16	.	O	
+
+#id=2
+#text=Nogenkan man lære at leve med , andre ikke .
+2-1	Nogen	O	
+2-2	kan	O	
+2-3	man	O	
+2-4	lære	B-verb.cognition	
+2-5	at	O	
+2-6	leve	B-verb.phenomenon	
+2-7	med	O	
+2-8	,	O	
+2-9	andre	O	
+2-10	ikke	O	
+2-11	.	O	
+
+#id=3
+#text=Sådaner det også med Parken .
+3-1	Sådan	O	
+3-2	er	B-verb.stative	
+3-3	det	O	
+3-4	også	O	
+3-5	med	O	
+3-6	Parken	B-noun.building	
+3-7	.	O	
+
+#id=4
+#text=Parkenhar fejl og mangler , som fodbold-publikummet hverken kan eller vil leve med .
+4-1	Parken	B-noun.building	
+4-2	har	O	
+4-3	fejl	B-noun.attribute	
+4-4	og	O	
+4-5	mangler	B-noun.attribute	
+4-6	,	O	
+4-7	som	O	
+4-8	fodbold-publikummet	B-noun.person	
+4-9	hverken	O	
+4-10	kan	O	
+4-11	eller	O	
+4-12	vil	O	
+4-13	leve	B-verb.cognition	
+4-14	med	B-verb.COLL	
+4-15	.	O	
+
+#id=5
+#text=Detkan godt være , der ikke er 117 fejl , men der er i_hvert_fald disse her :
+5-1	Det	O	
+5-2	kan	O	
+5-3	godt	O	
+5-4	være	B-verb.stative	
+5-5	,	O	
+5-6	der	O	
+5-7	ikke	O	
+5-8	er	B-verb.stative	
+5-9	117	O	
+5-10	fejl	B-noun.attribute	
+5-11	,	O	
+5-12	men	O	
+5-13	der	O	
+5-14	er	B-verb.stative	
+5-15	i_hvert_fald	O	
+5-16	disse	O	
+5-17	her	O	
+5-18	:	O	
+
+#id=6
+#text=1.
+6-1	1	O	
+6-2	.	O	
+
+#id=7
+#text=BygherrenBaltica Finans og arkitekt Gert Andersson har glemt den detalje at bygge billet-kontorer .
+7-1	Bygherren	B-noun.person	
+7-2	Baltica	B-noun.person	
+7-3	Finans	I-noun.person	
+7-4	og	O	
+7-5	arkitekt	B-noun.person	
+7-6	Gert	B-noun.person	
+7-7	Andersson	I-noun.person	
+7-8	har	O	
+7-9	glemt	B-verb.cognition	
+7-10	den	O	
+7-11	detalje	B-noun.abstract	
+7-12	at	O	
+7-13	bygge	B-verb.creation	
+7-14	billet-kontorer	B-noun.building	
+7-15	.	O	
+
+#id=8
+#text=Tillandskampe har tilskuerne sædvanligvis bestilt og købt billet lang tid i forvejen .
+8-1	Til	O	
+8-2	landskampe	B-noun.event	
+8-3	har	O	
+8-4	tilskuerne	B-noun.person	
+8-5	sædvanligvis	O	
+8-6	bestilt	B-verb.possession	
+8-7	og	O	
+8-8	købt	B-verb.possession	
+8-9	billet	B-noun.artifact	
+8-10	lang	B-adj.time	
+8-11	tid	B-noun.time	
+8-12	i	O	
+8-13	forvejen	O	
+8-14	.	O	
+
+#id=9
+#text=Mentil FC Københavns kampe er billetsalget en katastrofe .
+9-1	Men	O	
+9-2	til	O	
+9-3	FC	B-noun.institution	
+9-4	Københavns	I-noun.institution	
+9-5	kampe	B-noun.event	
+9-6	er	O	
+9-7	billetsalget	B-noun.act	
+9-8	en	O	
+9-9	katastrofe	B-noun.phenomenon	
+9-10	.	O	
+
+#id=10
+#text=Køerneer så lange , at mange er gået igen .
+10-1	Køerne	B-noun.person	
+10-2	er	B-verb.stative	
+10-3	så	O	
+10-4	lange	B-adj.phys	
+10-5	,	O	
+10-6	at	O	
+10-7	mange	O	
+10-8	er	O	
+10-9	gået	B-verb.motion	
+10-10	igen	O	
+10-11	.	O	
+
+#id=11
+#text=Andreer kommet så sent ind i Parken , at de er gået glip af adskillige mål .
+11-1	Andre	O	
+11-2	er	O	
+11-3	kommet	B-verb.motion	
+11-4	så	O	
+11-5	sent	O	
+11-6	ind	O	
+11-7	i	O	
+11-8	Parken	B-noun.building	
+11-9	,	O	
+11-10	at	O	
+11-11	de	O	
+11-12	er	O	
+11-13	gået	B-verb.phenomenon	
+11-14	glip	B-verb.COLL	
+11-15	af	O	
+11-16	adskillige	B-adj.all	
+11-17	mål	B-noun.act	
+11-18	.	O	
+
+#id=12
+#text=2.
+12-1	2	O	
+12-2	.	O	
+
+#id=13
+#text=Sikkerhedshegnetomkring banen er konstrueret så dårligt , at flere hundrede mennesker ikke kan se for den store stål-konstruktion , der sidder lige i øjen-højde .
+13-1	Sikkerhedshegnet	B-noun.artifact	
+13-2	omkring	O	
+13-3	banen	B-noun.location	
+13-4	er	O	
+13-5	konstrueret	B-verb.creation	
+13-6	så	O	
+13-7	dårligt	O	
+13-8	,	O	
+13-9	at	O	
+13-10	flere	O	
+13-11	hundrede	B-noun.quantity	
+13-12	mennesker	B-noun.person	
+13-13	ikke	O	
+13-14	kan	O	
+13-15	se	B-verb.perception	
+13-16	for	O	
+13-17	den	O	
+13-18	store	B-adj.phys	
+13-19	stål-konstruktion	B-noun.artifact	
+13-20	,	O	
+13-21	der	O	
+13-22	sidder	B-verb.stative	
+13-23	lige	O	
+13-24	i	O	
+13-25	øjen-højde	B-noun.location	
+13-26	.	O	
+
+#id=14
+#text=3.
+14-1	3	O	
+14-2	.	O	
+
+#id=15
+#text=Detsamme gælder for adskillige pladser på C-tribunen , modsat hovedtribunen , hvor  flere rækker ikke kan se ordentligt for stå-gelændere og stænger ved nedgangene .
+15-1	Det	O	
+15-2	samme	O	
+15-3	gælder	B-verb.stative	
+15-4	for	O	
+15-5	adskillige	B-adj.all	
+15-6	pladser	B-noun.artifact	
+15-7	på	O	
+15-8	C-tribunen	B-noun.building	
+15-9	,	O	
+15-10	modsat	O	
+15-11	hovedtribunen	B-noun.building	
+15-12	,	O	
+15-13	hvor	O	
+15-14	flere	O	
+15-15	rækker	B-noun.person	
+15-16	ikke	O	
+15-17	kan	O	
+15-18	se	B-verb.perception	
+15-19	ordentligt	O	
+15-20	for	O	
+15-21	stå-gelændere	B-noun.artifact	
+15-22	og	O	
+15-23	stænger	B-noun.artifact	
+15-24	ved	O	
+15-25	nedgangene	B-noun.location	
+15-26	.	O	
+

@@ -1,0 +1,1510 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Lexicalsample | Tag
+#id=1
+#text=Den sensuelle svingom udviklede sig til nære befamlinger fra cykelrytterens side, og kort efter nåede Andy Schleck så toppen, da parret omkring klokken halv tre byttede mundvand midt på dansegulvet.
+1-1	Den	den	PM:s-uc:--:----	_	
+1-2	sensuelle	sensuel	AC:sdu#:--:p---	_	
+1-3	svingom	svingom	NC:siuc:--:----	_	
+1-4	udviklede	udvikle	VF:----:ta:----	_	
+1-5	sig	sig	PP:#-u#:--:-3y-	_	
+1-6	til	til	T-:----:--:----	_	
+1-7	nære	nær	AC:p#u#:--:p---	_	
+1-8	befamlinger	befamling	NC:piu#:--:----	_	
+1-9	fra	fra	T-:----:--:----	_	
+1-10	cykelrytterens	cykelrytter	NC:sdgc:--:----	_	
+1-11	side	side	NC:siuc:--:----	_	
+1-12	,	,	ZD	_	
+1-13	og	og	CC:----:--:----	_	
+1-14	kort	kort	AD:----:--:p---	_	
+1-15	efter	efter	D-:----:--:u---	_	
+1-16	nåede	nå	VF:----:ta:----	_	
+1-17	Andy	Andy	NP:siu#:--:----	_	
+1-18	Schleck	Schleck	NP:siu#:--:----	_	
+1-19	så	se	VF:----:ta:----	_	
+1-20	toppen	top|top-3|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-toppen-af-isbjerget|top-F-til-tops|top-F-på-toppen-af|top-F-fra-top-til-tå|top-F-der-er-koldt-på-toppen|top-4|top-2a-2b|top-2|top-1a-1b|top-1	NC:sduc:--:----	top-2	
+1-21	,	,	ZD	_	
+1-22	da	da	CS:----:--:----	_	
+1-23	parret	par	NC:sdun:--:----	_	
+1-24	omkring	omkring	T-:----:--:----	_	
+1-25	klokken	klokke	NC:sduc:--:----	_	
+1-26	halv	halv	AC:siuc:--:p---	_	
+1-27	tre	tre	LC:--u-:--:----	_	
+1-28	byttede	bytte	VF:----:ta:----	_	
+1-29	mundvand	mundvand	NC:siun:--:----	_	
+1-30	midt	midt	D-:----:--:u---	_	
+1-31	på	på	T-:----:--:----	_	
+1-32	dansegulvet	dansegulv	NC:sdun:--:----	_	
+1-33	.	.	ZP	_	
+
+#id=2
+#text=Mrunder top fem-listen af med en indtjening på 242 millioner kr.
+2-1	Mrunder	Mrunder	NP:siu#:--:----	_	
+2-2	top	top|top-1|top-2a-2b|top-2|top-1a-1b|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-toppen-af-isbjerget|top-F-til-tops|top-F-på-toppen-af|top-F-fra-top-til-tå|top-F-der-er-koldt-på-toppen|top-4|top-3	NC:siuc:--:----	_	
+2-3	fem	fem	LC:--u-:--:----	_	
+2-4	-	-	ZH	_	
+2-5	listen	list	NC:sduc:--:----	_	
+2-6	af	af	T-:----:--:----	_	
+2-7	med	med	T-:----:--:----	_	
+2-8	en	en	PI:s-uc:--:----	_	
+2-9	indtjening	indtjening	NC:siuc:--:----	_	
+2-10	på	på	T-:----:--:----	_	
+2-11	242	242	LC:--u-:--:----	_	
+2-12	millioner	million	NC:piu#:--:----	_	
+2-13	kr	krone	NC:piu#:--:----	_	
+2-14	.	.	ZP	_	
+
+#id=3
+#text=Den århusianske stjernekok kan ikke svare på, om han er Danmarks bedste kok, men han er ikke i tvivl om, at han ligger i toppen.
+3-1	Den	den	PM:s-uc:--:----	_	
+3-2	århusianske	århusiansk	AC:sdu#:--:p---	_	
+3-3	stjernekok	stjernekok	NC:siuc:--:----	_	
+3-4	kan	kunne	VF:----:sa:----	_	
+3-5	ikke	ikke	D-:----:--:u---	_	
+3-6	svare	svare	VI:----:-a:----	_	
+3-7	på	på	T-:----:--:----	_	
+3-8	,	,	ZD	_	
+3-9	om	om	CS:----:--:----	_	
+3-10	han	han	PP:s-nc:--:-3n-	_	
+3-11	er	være	VF:----:sa:----	_	
+3-12	Danmarks	Danmark	NP:sig#:--:----	_	
+3-13	bedste	god	AC:§du§:--:s---	_	
+3-14	kok	kok	NC:siuc:--:----	_	
+3-15	,	,	ZD	_	
+3-16	men	men	CC:----:--:----	_	
+3-17	han	han	PP:s-nc:--:-3n-	_	
+3-18	er	være	VF:----:sa:----	_	
+3-19	ikke	ikke	D-:----:--:u---	_	
+3-20	i	i	T-:----:--:----	_	
+3-21	tvivl	tvivl	NC:siuc:--:----	_	
+3-22	om	om	T-:----:--:----	_	
+3-23	,	,	ZD	_	
+3-24	at	at	CS:----:--:----	_	
+3-25	han	han	PP:s-nc:--:-3n-	_	
+3-26	ligger	ligge	VF:----:sa:----	_	
+3-27	i	i	T-:----:--:----	_	
+3-28	toppen	top|top-1a-1b|top-1|top-3|top-2a-2b|top-2|top-F-toppen-af-isbjerget|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-til-tops|top-F-på-toppen-af|top-F-fra-top-til-tå|top-F-der-er-koldt-på-toppen|top-4	NC:sduc:--:----	top-2b	
+3-29	.	.	ZP	_	
+
+#id=4
+#text= Papir på sin elskede kunne så være toppen på kransekagen, men ikke for Signe Muusmann.
+4-1	Papir	papir	NC:siun:--:----	_	
+4-2	på	på	T-:----:--:----	_	
+4-3	sin	sin	XY:----:--:----	_	
+4-4	elskede	elske	VF:----:ta:----	_	
+4-5	kunne	kunne	VI:----:-a:----	_	
+4-6	så	så	D-:----:--:u---	_	
+4-7	være	være	VI:----:-a:----	_	
+4-8	toppen	top|top-4|top-3|top-2a-2b|top-2|top-1a-1b|top-1|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-toppen-af-isbjerget|top-F-til-tops|top-F-på-toppen-af|top-F-fra-top-til-tå|top-F-der-er-koldt-på-toppen	NC:sduc:--:----	top-F-toppen-af/på-kransekagen	
+4-9	på	på	T-:----:--:----	_	
+4-10	kransekagen	kransekage	NC:sduc:--:----	_	
+4-11	,	,	ZD	_	
+4-12	men	men	CC:----:--:----	_	
+4-13	ikke	ikke	D-:----:--:u---	_	
+4-14	for	for	T-:----:--:----	_	
+4-15	Signe	Signe	NP:siu#:--:----	_	
+4-16	Muusmann	Muusmann	NP:siu#:--:----	_	
+4-17	.	.	ZP	_	
+
+#id=5
+#text=I Vegas får du det ultimat ive adrenali nsus på toppen af det 350 meter høje Stratosphere Tower.
+5-1	I	i	T-:----:--:----	_	
+5-2	Vegas	Vegas	NP:siu#:--:----	_	
+5-3	får	få	VF:----:sa:----	_	
+5-4	du	du	PP:s-nc:--:-2n-	_	
+5-5	det	det	PP:s-un:--:-3n-	_	
+5-6	ultimat	ultimat	NC:siuc:--:----	_	
+5-7	ive	ive	NC:siun:--:----	_	
+5-8	adrenali	adrenali	VI:----:-a:----	_	
+5-9	nsus	nsus	NC:siun:--:----	_	
+5-10	på	på	T-:----:--:----	_	
+5-11	toppen	top|top-1|top-F-der-er-koldt-på-toppen|top-4|top-3|top-2a-2b|top-2|top-1a-1b|top-F-på-toppen-af|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-toppen-af-isbjerget|top-F-til-tops|top-F-fra-top-til-tå	NC:sduc:--:----	top-1	
+5-12	af	af	T-:----:--:----	_	
+5-13	det	den	PM:s-un:--:----	_	
+5-14	350	350	LC:--u-:--:----	_	
+5-15	meter	meter	NC:pig#:--:----	_	
+5-16	høje	høj	AC:sdu#:--:p---	_	
+5-17	Stratosphere	Stratosphere	NP:siu#:--:----	_	
+5-18	Tower	Tower	NP:siu#:--:----	_	
+5-19	.	.	ZP	_	
+
+#id=6
+#text=De beholdt vist toppen på.
+6-1	De	de	PP:p-n#:--:-3n-	_	
+6-2	beholdt	beholde	VF:----:ta:----	_	
+6-3	vist	vise	VT:siu#:t-:----	_	
+6-4	toppen	top|top-4|top-3|top-1a-1b|top-1|top-2a-2b|top-2|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-toppen-af-isbjerget|top-F-til-tops|top-F-på-toppen-af|top-F-fra-top-til-tå|top-F-der-er-koldt-på-toppen	NC:sduc:--:----	top-3	
+6-5	på	på	T-:----:--:----	_	
+6-6	.	.	ZP	_	
+
+#id=7
+#text=for passe kan ud med heldigvis Også skisport Om vinteren er Teton hovedby for skisport, men kan også stå på sommerski i hvor den store lift bringe en helt op  til sneen toppen af bjerget.
+7-1	for	for	T-:----:--:----	_	
+7-2	passe	passe	AD:----:--:p---	_	
+7-3	kan	kunne	VF:----:sa:----	_	
+7-4	ud	ud	D-:----:--:u---	_	
+7-5	med	med	T-:----:--:----	_	
+7-6	heldigvis	heldigvis	D-:----:--:u---	_	
+7-7	Også	også	D-:----:--:u---	_	
+7-8	skisport	skisport	NC:siuc:--:----	_	
+7-9	Om	om	T-:----:--:----	_	
+7-10	vinteren	vinter	NC:sduc:--:----	_	
+7-11	er	være	VF:----:sa:----	_	
+7-12	Teton	Teton	NP:siu#:--:----	_	
+7-13	hovedby	hovedby	NC:siuc:--:----	_	
+7-14	for	for	T-:----:--:----	_	
+7-15	skisport	skisport	NC:siuc:--:----	_	
+7-16	,	,	ZD	_	
+7-17	men	men	CC:----:--:----	_	
+7-18	kan	kunne	VF:----:sa:----	_	
+7-19	også	også	D-:----:--:u---	_	
+7-20	stå	stå	VI:----:-a:----	_	
+7-21	på	på	T-:----:--:----	_	
+7-22	sommerski	sommerski	NC:piu#:--:----	_	
+7-23	i	i	T-:----:--:----	_	
+7-24	hvor	hvor	D-:----:--:u---	_	
+7-25	den	den	PM:s-uc:--:----	_	
+7-26	store	stor	AC:sdu#:--:p---	_	
+7-27	lift	lift	NC:siuc:--:----	_	
+7-28	bringe	bringe	VI:----:-a:----	_	
+7-29	en	en	PI:s-uc:--:----	_	
+7-30	helt	hel	AD:----:--:p---	_	
+7-31	op	op	D-:----:--:u---	_	
+7-32	til	til	T-:----:--:----	_	
+7-33	sneen	sne	NC:sduc:--:----	_	
+7-34	toppen	top|top-1a-1b|top-1|top-F-der-er-koldt-på-toppen|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-toppen-af-isbjerget|top-F-til-tops|top-F-på-toppen-af|top-F-fra-top-til-tå|top-4|top-3|top-2a-2b|top-2	NC:sduc:--:----	top-1	
+7-35	af	af	T-:----:--:----	_	
+7-36	bjerget	bjerg	NC:sdun:--:----	_	
+7-37	.	.	ZP	_	
+
+#id=8
+#text=Dansktoppen var Sikkerheden var i top ved Lady Gagas koncert i Herning.
+8-1	Dansktoppen	dansktop	NC:sduc:--:----	_	
+8-2	var	være	VF:----:ta:----	_	
+8-3	Sikkerheden	sikkerhed	NC:sduc:--:----	_	
+8-4	var	være	VF:----:ta:----	_	
+8-5	i	i	T-:----:--:----	_	
+8-6	top	top|top-1a-1b|top-2a-2b|top-2|top-1|top-4|top-F-til-tops|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-toppen-af-isbjerget|top-F-på-toppen-af|top-F-fra-top-til-tå|top-F-der-er-koldt-på-toppen|top-3	NC:siuc:--:----	top-2a	
+8-7	ved	ved	T-:----:--:----	_	
+8-8	Lady	Lady	NP:siu#:--:----	_	
+8-9	Gagas	Gagas	NP:sig#:--:----	_	
+8-10	koncert	koncert	NC:siuc:--:----	_	
+8-11	i	i	T-:----:--:----	_	
+8-12	Herning	Herning	NP:siu#:--:----	_	
+8-13	.	.	ZP	_	
+
+#id=9
+#text= Den årlige apanage på et par millioner kroner får hun stadig, men grevinde Alexandras nedtur fra monarkiets top fortsætter med fornyet kraft, efter at kronprinseparret nu har meddelt, at de venter tvillinger.
+9-1	Den	den	PM:s-uc:--:----	_	
+9-2	årlige	årlig	AC:sdu#:--:p---	_	
+9-3	apanage	apanage	NC:siuc:--:----	_	
+9-4	på	på	T-:----:--:----	_	
+9-5	et	en	PI:s-un:--:----	_	
+9-6	par	par	NC:siun:--:----	_	
+9-7	millioner	million	NC:piu#:--:----	_	
+9-8	kroner	krone	NC:piu#:--:----	_	
+9-9	får	få	VF:----:sa:----	_	
+9-10	hun	hun	PP:s-nc:--:-3n-	_	
+9-11	stadig	stadig	D-:----:--:u---	_	
+9-12	,	,	ZD	_	
+9-13	men	men	CC:----:--:----	_	
+9-14	grevinde	grevinde	NC:siuc:--:----	_	
+9-15	Alexandras	Alexandra	NP:sig#:--:----	_	
+9-16	nedtur	nedtur	NC:siuc:--:----	_	
+9-17	fra	fra	T-:----:--:----	_	
+9-18	monarkiets	monarki	NC:sdgn:--:----	_	
+9-19	top	top|top-1|top-3|top-F-på-toppen-af|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-toppen-af-isbjerget|top-F-til-tops|top-F-fra-top-til-tå|top-F-der-er-koldt-på-toppen|top-4|top-2a-2b|top-2|top-1a-1b	NC:siuc:--:----	top-2b	
+9-20	fortsætter	fortsætte	VF:----:sa:----	_	
+9-21	med	med	D-:----:--:u---	_	
+9-22	fornyet	forny	VT:siu#:t-:----	_	
+9-23	kraft	kraft	NC:siuc:--:----	_	
+9-24	,	,	ZD	_	
+9-25	efter	efter	CS:----:--:----	_	
+9-26	at	at	CS:----:--:----	_	
+9-27	kronprinseparret	kronprinsepar	NC:sdun:--:----	_	
+9-28	nu	nu	D-:----:--:u---	_	
+9-29	har	have	VF:----:sa:----	_	
+9-30	meddelt	meddele	VT:siu#:t-:----	_	
+9-31	,	,	ZD	_	
+9-32	at	at	CS:----:--:----	_	
+9-33	de	de	PP:p-n#:--:-3n-	_	
+9-34	venter	vente	VF:----:sa:----	_	
+9-35	tvillinger	tvilling	NC:piu#:--:----	_	
+9-36	.	.	ZP	_	
+
+#id=10
+#text=Hun var i højt humør og viste sin veldrejede figur frem i en lårkort nederdel og stram top, da hun sprang ud i en sexet dans i VIP-området.
+10-1	Hun	hun	PP:s-nc:--:-3n-	_	
+10-2	var	være	VF:----:ta:----	_	
+10-3	i	i	T-:----:--:----	_	
+10-4	højt	høj	AC:siun:--:p---	_	
+10-5	humør	humør	NC:siun:--:----	_	
+10-6	og	og	CC:----:--:----	_	
+10-7	viste	vise	VF:----:ta:----	_	
+10-8	sin	sin	PO:s--c:--:-3ys	_	
+10-9	veldrejede	veldrejet	AC:sdu#:--:p---	_	
+10-10	figur	figur	NC:siuc:--:----	_	
+10-11	frem	frem	D-:----:--:u---	_	
+10-12	i	i	T-:----:--:----	_	
+10-13	en	en	PI:s-uc:--:----	_	
+10-14	lårkort	lårkort	AC:siuc:--:p---	_	
+10-15	nederdel	nederdel	NC:siuc:--:----	_	
+10-16	og	og	CC:----:--:----	_	
+10-17	stram	stram	AC:siuc:--:p---	_	
+10-18	top	top|top-1a-1b|top-1|top-2a-2b|top-F-fra-top-til-tå|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-toppen-af-isbjerget|top-F-til-tops|top-F-på-toppen-af|top-F-der-er-koldt-på-toppen|top-4|top-3|top-2	NC:siuc:--:----	top-3	
+10-19	,	,	ZD	_	
+10-20	da	da	CS:----:--:----	_	
+10-21	hun	hun	PP:s-nc:--:-3n-	_	
+10-22	sprang	springe	VF:----:ta:----	_	
+10-23	ud	ud	D-:----:--:u---	_	
+10-24	i	i	T-:----:--:----	_	
+10-25	en	en	PI:s-uc:--:----	_	
+10-26	sexet	sexet	AC:siu§:--:p---	_	
+10-27	dans	dans	NC:siuc:--:----	_	
+10-28	i	i	T-:----:--:----	_	
+10-29	VIP	VIP	NP:siu#:--:----	_	
+10-30	-	-	ZH	_	
+10-31	området	område	NC:sdun:--:----	_	
+10-32	.	.	ZP	_	
+
+#id=11
+#text=Og så er sikkerheden i top.
+11-1	Og	og	CC:----:--:----	_	
+11-2	så	så	D-:----:--:u---	_	
+11-3	er	være	VF:----:sa:----	_	
+11-4	sikkerheden	sikkerhed	NC:sduc:--:----	_	
+11-5	i	i	T-:----:--:----	_	
+11-6	top	top|top-2|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-4|top-3|top-2a-2b|top-1a-1b|top-1|top-F-toppen-af-isbjerget|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-til-tops|top-F-på-toppen-af	NC:siuc:--:----	top-2a	
+11-7	.	.	ZP	_	
+
+#id=12
+#text=Jeg tuder over alting, en sørgelig film, en barsk film - og når Dannebrog går til tops.
+12-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+12-2	tuder	tude	VF:----:sa:----	_	
+12-3	over	over	T-:----:--:----	_	
+12-4	alting	alting	PI:s-un:--:----	_	
+12-5	,	,	ZD	_	
+12-6	en	en	PI:s-uc:--:----	_	
+12-7	sørgelig	sørgelig	AC:siuc:--:p---	_	
+12-8	film	film	NC:siuc:--:----	_	
+12-9	,	,	ZD	_	
+12-10	en	en	PI:s-uc:--:----	_	
+12-11	barsk	barsk	AC:siu§:--:p---	_	
+12-12	film	film	NW:----:--:----	_	
+12-13	-	-	ZH	_	
+12-14	og	og	CC:----:--:----	_	
+12-15	når	når	CS:----:--:----	_	
+12-16	Dannebrog	Dannebrog	u#:--:----	_	
+12-17	går	gå	VF:----:sa:----	_	
+12-18	til	til	T-:----:--:----	_	
+12-19	tops	top|top-4|top-F-til-tops|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-toppen-af-isbjerget|top-F-på-toppen-af|top-F-fra-top-til-tå|top-F-der-er-koldt-på-toppen|top-3|top-2a-2b|top-2|top-1a-1b|top-1	NC:sigc:--:----	top-F-til-tops	
+12-20	.	.	ZP	_	
+
+#id=13
+#text= Standarden er dog helt i top - om end nogle har svært ved at vænne sig til de kahytter, hvor der både er toilet, brus og håndvask i samme lokale.
+13-1	Standarden	standard	NC:sduc:--:----	_	
+13-2	er	være	VF:----:sa:----	_	
+13-3	dog	dog	D-:----:--:u---	_	
+13-4	helt	hel	AD:----:--:p---	_	
+13-5	i	i	T-:----:--:----	_	
+13-6	top	top|top-3|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-4|top-2a-2b|top-2|top-1a-1b|top-1|top-F-på-toppen-af|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-toppen-af-isbjerget|top-F-til-tops	NW:----:--:----	top-2a	
+13-7	-	-	ZH	_	
+13-8	om	om	CS:----:--:----	_	
+13-9	end	end	CS:----:--:----	_	
+13-10	nogle	nogen	PI:p-u#:--:----	_	
+13-11	har	have	VF:----:sa:----	_	
+13-12	svært	svær	AD:----:--:p---	_	
+13-13	ved	ved	T-:----:--:----	_	
+13-14	at	at	UI:----:--:----	_	
+13-15	vænne	vænne	VI:----:-a:----	_	
+13-16	sig	sig	PP:#-u#:--:-3y-	_	
+13-17	til	til	T-:----:--:----	_	
+13-18	de	den	PM:p-u#:--:----	_	
+13-19	kahytter	kahyt	NC:piu#:--:----	_	
+13-20	,	,	ZD	_	
+13-21	hvor	hvor	D-:----:--:u---	_	
+13-22	der	der	US:----:--:----	_	
+13-23	både	både	D-:----:--:u---	_	
+13-24	er	være	VF:----:sa:----	_	
+13-25	toilet	toilet	NC:siun:--:----	_	
+13-26	,	,	ZD	_	
+13-27	brus	brus	NC:piu#:--:----	_	
+13-28	og	og	CC:----:--:----	_	
+13-29	håndvask	håndvask	NC:siuc:--:----	_	
+13-30	i	i	T-:----:--:----	_	
+13-31	samme	samme	AC:§§u§:--:p---	_	
+13-32	lokale	lokale	NC:siun:--:----	_	
+13-33	.	.	ZP	_	
+
+#id=14
+#text=På toppen af Montmartre-højen finder man en hel lille landsby.
+14-1	På	på	T-:----:--:----	_	
+14-2	toppen	top|top-1|top-2a-2b|top-3|top-2|top-1a-1b|top-F-fra-top-til-tå|top-F-til-tops|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-toppen-af-isbjerget|top-F-på-toppen-af|top-F-der-er-koldt-på-toppen|top-4	NC:sduc:--:----	top-1	
+14-3	af	af	T-:----:--:----	_	
+14-4	Montmartre	Montmartre	NW:----:--:----	_	
+14-5	-	-	ZH	_	
+14-6	højen	høj	NC:sduc:--:----	_	
+14-7	finder	finde	VF:----:sa:----	_	
+14-8	man	man	PI:#-uc:--:----	_	
+14-9	en	en	PI:s-uc:--:----	_	
+14-10	hel	hel	NC:siuc:--:----	_	
+14-11	lille	lille	XY:----:--:----	_	
+14-12	landsby	landsby	NC:siuc:--:----	_	
+14-13	.	.	ZP	_	
+
+#id=15
+#text=Sammen med Peter Sommer i duoen De Eneste To har han netop modtaget en guldplade for deres nye album, der strøg til tops på hitlisten efter udgivelsen og har solgt over 20.000 eksemplarer.
+15-1	Sammen	sammen	D-:----:--:u---	_	
+15-2	med	med	T-:----:--:----	_	
+15-3	Peter	Peter	NP:siu#:--:----	_	
+15-4	Sommer	Sommer	NP:siu#:--:----	_	
+15-5	i	i	T-:----:--:----	_	
+15-6	duoen	duo	NC:sduc:--:----	_	
+15-7	De	den	PM:p-u#:--:----	_	
+15-8	Eneste	eneste	AC:§§u§:--:p---	_	
+15-9	To	to	LC:--u-:--:----	_	
+15-10	har	have	VF:----:sa:----	_	
+15-11	han	han	PP:s-nc:--:-3n-	_	
+15-12	netop	netop	D-:----:--:u---	_	
+15-13	modtaget	modtage	VT:siu#:t-:----	_	
+15-14	en	en	PI:s-uc:--:----	_	
+15-15	guldplade	guldplade	NC:siuc:--:----	_	
+15-16	for	for	T-:----:--:----	_	
+15-17	deres	deres	PO:#--#:--:-3np	_	
+15-18	nye	ny	AC:sdu#:--:p---	_	
+15-19	album	album	NC:siun:--:----	_	
+15-20	,	,	ZD	_	
+15-21	der	der	US:----:--:----	_	
+15-22	strøg	stryge	a:----	_	
+15-23	til	til	T-:----:--:----	_	
+15-24	tops	top|top-1|top-2|top-3|top-F-der-er-koldt-på-toppen|top-F-til-tops|top-F-på-toppen-af|top-F-fra-top-til-tå|top-4|top-2a-2b|top-1a-1b|top-F-toppen-af-isbjerget|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen	NC:sigc:--:----	top-F-til-tops	
+15-25	på	på	T-:----:--:----	_	
+15-26	hitlisten	hitliste	NC:sduc:--:----	_	
+15-27	efter	efter	T-:----:--:----	_	
+15-28	udgivelsen	udgivelse	NC:sduc:--:----	_	
+15-29	og	og	CC:----:--:----	_	
+15-30	har	have	VF:----:sa:----	_	
+15-31	solgt	sælge	VT:siu#:t-:----	_	
+15-32	over	over	T-:----:--:----	_	
+15-33	20	20	LC:--u-:--:----	_	
+15-34	.	.	ZP	_	
+15-35	000	000	LC:--u-:--:----	_	
+15-36	eksemplarer	eksemplar	NC:piu#:--:----	_	
+15-37	.	.	ZP	_	
+
+#id=16
+#text=Der er en anden varme og glæde ved dommerne, forklarer Rønne og understreger, at dommertrioen denne gang er helt i top.
+16-1	Der	der	US:----:--:----	_	
+16-2	er	være	VF:----:sa:----	_	
+16-3	en	en	PI:s-uc:--:----	_	
+16-4	anden	anden	PI:s-uc:--:----	_	
+16-5	varme	varme	NC:siuc:--:----	_	
+16-6	og	og	CC:----:--:----	_	
+16-7	glæde	glæde	NC:siuc:--:----	_	
+16-8	ved	ved	T-:----:--:----	_	
+16-9	dommerne	dommer	NC:pdu#:--:----	_	
+16-10	,	,	ZD	_	
+16-11	forklarer	forklare	VF:----:sa:----	_	
+16-12	Rønne	Rønne	NP:siu#:--:----	_	
+16-13	og	og	CC:----:--:----	_	
+16-14	understreger	understrege	VF:----:sa:----	_	
+16-15	,	,	ZD	_	
+16-16	at	at	CS:----:--:----	_	
+16-17	dommertrioen	dommertrio	NC:sduc:--:----	_	
+16-18	denne	denne	PM:s-uc:--:----	_	
+16-19	gang	gang	NC:siuc:--:----	_	
+16-20	er	være	VF:----:sa:----	_	
+16-21	helt	hel	AD:----:--:p---	_	
+16-22	i	i	T-:----:--:----	_	
+16-23	top	top|top-4|top-F-til-tops|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-toppen-af-isbjerget|top-F-på-toppen-af|a-top-til-tå|top-F-der-er-koldt-på-toppen|top-3|top-2a-2b|top-2|top-1a-1b|top-1	NC:siuc:--:----	top-2a	
+16-24	.	.	ZP	_	
+
+#id=17
+#text=De virkeligrå kommer hu rtigt ned fra tårnet i det såkaldte Skyjump, hvor du ganske enkelt springer ud fra toppen - kun ifør telastikker.
+17-1	De	den	PM:p-u#:--:----	_	
+17-2	virkeligrå	virkeligrå	AC:p#u#:--:p---	_	
+17-3	kommer	komme	VF:----:sa:----	_	
+17-4	hu	hu	NC:siuc:--:----	_	
+17-5	rtigt	rtigt	T-:----:--:----	_	
+17-6	ned	ned	D-:----:--:u---	_	
+17-7	fra	fra	T-:----:--:----	_	
+17-8	tårnet	tårn	NC:sdun:--:----	_	
+17-9	i	i	T-:----:--:----	_	
+17-10	det	den	PM:s-un:--:----	_	
+17-11	såkaldte	såkaldt	AC:sdu#:--:p---	_	
+17-12	Skyjump	Skyjump	NP:siu#:--:----	_	
+17-13	,	,	ZD	_	
+17-14	hvor	hvor	XY:----:--:----	_	
+17-15	du	du	XF:----:--:----	_	
+17-16	ganske	ganske	D-:----:--:u---	_	
+17-17	enkelt	enkel	AD:----:--:p---	_	
+17-18	springer	springe	VF:----:sa:----	_	
+17-19	ud	ud	D-:----:--:u---	_	
+17-20	fra	fra	T-:----:--:----	_	
+17-21	toppen	top|top-3|top-F-der-er-koldt-på-toppen|top-4|top-2a-2b|top-1a-1b|top-1|top-2|top-F-på-toppen-af|top-F-toppen-af-isbjerget|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-til-tops|top-F-fra-top-til-tå	NW:----:--:----	top-1	
+17-22	-	-	ZH	_	
+17-23	kun	kun	D-:----:--:u---	_	
+17-24	ifør	iføre	VM:----:--:----	_	
+17-25	telastikker	telastik	NC:piu#:--:----	_	
+17-26	.	.	ZP	_	
+
+#id=18
+#text= Han er blevet godt grå i toppen, og vægten er accelereret, siden den populære TVserie fik trukket stikket ud i 2004.
+18-1	Han	han	PP:s-nc:--:-3n-	_	
+18-2	er	være	VF:----:sa:----	_	
+18-3	blevet	blive	VT:siu#:t-:----	_	
+18-4	godt	god	AD:----:--:p---	_	
+18-5	grå	grå	AC:siuc:--:p---	_	
+18-6	i	i	T-:----:--:----	_	
+18-7	toppen	top|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-toppen-af-isbjerget|top-F-til-tops|top-F-på-toppen-af|top-2|top-1a-1b|top-1|top-2a-2b|top-4|top-F-fra-top-til-tå|top-F-der-er-koldt-på-toppen|top-3	NC:sduc:--:----	top-F-tånd/grå-i-toppen	
+18-8	,	,	ZD	_	
+18-9	og	og	CC:----:--:----	_	
+18-10	vægten	vægt	NC:sduc:--:----	_	
+18-11	er	være	VF:----:sa:----	_	
+18-12	accelereret	accelerere	VT:siu#:t-:----	_	
+18-13	,	,	ZD	_	
+18-14	siden	siden	CS:----:--:----	_	
+18-15	den	den	PM:s-uc:--:----	_	
+18-16	populære	populær	AC:sdu#:--:p---	_	
+18-17	TVserie	TVserie	NP:siu#:--:----	_	
+18-18	fik	få	VF:----:ta:----	_	
+18-19	trukket	trække	VT:siu#:t-:----	_	
+18-20	stikket	stik	NC:sdun:--:----	_	
+18-21	ud	ud	D-:----:--:u---	_	
+18-22	i	i	T-:----:--:----	_	
+18-23	2004	2004	LC:--u-:--:----	_	
+18-24	.	.	ZP	_	
+
+#id=19
+#text= Netop derfor er der så mange aviser og ugeblade på toppen af Danmark lige nu.
+19-1	Netop	netop	D-:----:--:u---	_	
+19-2	derfor	derfor	D-:----:--:u---	_	
+19-3	er	være	VF:----:sa:----	_	
+19-4	der	der	US:----:--:----	_	
+19-5	så	så	D-:----:--:u---	_	
+19-6	mange	mangen	AC:p#u#:--:p---	_	
+19-7	aviser	avis	NC:piu#:--:----	_	
+19-8	og	og	CC:----:--:----	_	
+19-9	ugeblade	ugeblad	NC:piu#:--:----	_	
+19-10	på	på	T-:----:--:----	_	
+19-11	toppen	top|top-F-der-er-koldt-på-toppen|top-F-på-toppen-af|top-F-toppen-af-isbjerget|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-til-tops|top-F-fra-top-til-tå|top-4|top-1|top-2|top-3|top-2a-2b|top-1a-1b	NC:sduc:--:----	top-1	
+19-12	af	af	T-:----:--:----	_	
+19-13	Danmark	Danmark	NP:siu#:--:----	_	
+19-14	lige	lige	D-:----:--:u---	_	
+19-15	nu	nu	D-:----:--:u---	_	
+19-16	.	.	ZP	_	
+
+#id=20
+#text=På Karel van Mander var stemningen i top, og det vrimlede med tidligere " Paradise Hotel"-deltagere, deriblandt Carlos, som ud på natten endte med at blive smidt ud fra natklubben sammen med bøssen Gustav fra " Dagens mand".
+20-1	På	på	T-:----:--:----	_	
+20-2	Karel	Karel	NP:siu#:--:----	_	
+20-3	van	van	NP:siu#:--:----	_	
+20-4	Mander	Mander	XY:----:--:----	_	
+20-5	var	være	VF:----:ta:----	_	
+20-6	stemningen	stemning	NC:sduc:--:----	_	
+20-7	i	i	T-:----:--:----	_	
+20-8	top	top|top-1a-1b|top-2|1|top-2a-2b|top-4|top-F-fra-top-til-tå|top-F-til-tops|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-toppen-af-isbjerget|top-F-på-toppen-af|top-F-der-er-koldt-på-toppen|top-3	NC:siuc:--:----	top-2a	
+20-9	,	,	ZD	_	
+20-10	og	og	CC:----:--:----	_	
+20-11	det	det	PP:s-un:--:-3n-	_	
+20-12	vrimlede	vrimle	VF:----:ta:----	_	
+20-13	med	med	T-:----:--:----	_	
+20-14	tidligere	tidlig	AC:##u#:--:c---	_	
+20-15	"	"	ZI	_	
+20-16	Paradise	Paradise	NP:siu#:--:----	_	
+20-17	Hotel	Hotel	NP:siu#:--:----	_	
+20-18	"	"	ZI	_	
+20-19	-	-	ZH	_	
+20-20	deltagere	deltager	NC:piu#:--:----	_	
+20-21	,	,	ZD	_	
+20-22	deriblandt	deriblandt	D-:----:--:u---	_	
+20-23	Carlos	Carlo	NP:sig#:--:----	_	
+20-24	,	,	ZD	_	
+20-25	som	som	US:----:--:----	_	
+20-26	ud	ud	D-:----:--:u---	_	
+20-27	på	på	T-:----:--:----	_	
+20-28	natten	nat	NC:sduc:--:----	_	
+20-29	endte	ende	VF:----:ta:----	_	
+20-30	med	med	T-:----:--:----	_	
+20-31	at	at	UI:----:--:----	_	
+20-32	blive	blive	VI:----:-a:----	_	
+20-33	smidt	smide	VT:siu#:t-:----	_	
+20-34	ud	ud	D-:----:--:u---	_	
+20-35	fra	fra	T-:----:--:----	_	
+20-36	natklubben	natklub	NC:sduc:--:----	_	
+20-37	sammen	sammen	D-:----:--:u---	_	
+20-38	med	med	T-:----:--:----	_	
+20-39	bøssen	bøsse	NC:sduc:--:----	_	
+20-40	Gustav	Gustav	NP:siu#:--:----	_	
+20-41	fra	fra	T-:----:--:----	_	
+20-42	"	"	ZI	_	
+20-43	Dagens	dag	NC:sdgc:--:----	_	
+20-44	mand	mand	NC:siuc:--:----	_	
+20-45	"	"	ZI	_	
+20-46	.	.	ZP	_	
+
+#id=21
+#text=Og om aftenen var hun tilbage i rollen som hæmningsløs festtøs, når selskabet på ægte jetsetmaner spiste middag og morede sig på den eksklusive klub La Porta og bagefter drønede hjem til Oasis Club, som er forbeholdt toppen af poppen.
+21-1	Og	og	CC:----:--:----	_	
+21-2	om	om	T-:----:--:----	_	
+21-3	aftenen	aften	NC:sduc:--:----	_	
+21-4	var	være	VF:----:ta:----	_	
+21-5	hun	hun	PP:s-nc:--:-3n-	_	
+21-6	tilbage	tilbage	D-:----:--:u---	_	
+21-7	i	i	T-:----:--:----	_	
+21-8	rollen	rolle	NC:sduc:--:----	_	
+21-9	som	som	US:----:--:----	_	
+21-10	hæmningsløs	hæmningsløs	AC:siuc:--:p---	_	
+21-11	festtøs	festtøs	NC:siuc:--:----	_	
+21-12	,	,	ZD	_	
+21-13	når	når	CS:----:--:----	_	
+21-14	selskabet	selskab	NC:sdun:--:----	_	
+21-15	på	på	T-:----:--:----	_	
+21-16	ægte	ægte	AC:§§u§:--:p---	_	
+21-17	jetsetmaner	jetsetman	NC:piu#:--:----	_	
+21-18	spiste	spise	:ta:----	_	
+21-19	middag	middag	NC:siuc:--:----	_	
+21-20	og	og	CC:----:--:----	_	
+21-21	morede	more	VF:----:ta:----	_	
+21-22	sig	sig	PP:#-u#:--:-3y-	_	
+21-23	på	på	T-:----:--:----	_	
+21-24	den	den	PM:s-uc:--:----	_	
+21-25	eksklusive	eksklusiv	AC:sdu#:--:p---	_	
+21-26	klub	klub	NC:siuc:--:----	_	
+21-27	La	La	NP:siu#:--:----	_	
+21-28	Porta	Porta	NP:siu#:--:----	_	
+21-29	og	og	CC:----:--:----	_	
+21-30	bagefter	bagefter	D-:----:--:u---	_	
+21-31	drønede	drøne	VF:----:ta:----	_	
+21-32	hjem	hjem	D-:----:--:u---	_	
+21-33	til	til	T-:----:--:----	_	
+21-34	Oasis	oasis	NC:siuc:--:----	_	
+21-35	Club	Club	NP:siu#:--:----	_	
+21-36	,	,	ZD	_	
+21-37	som	som	US:----:--:----	_	
+21-38	er	være	VF:----:sa:----	_	
+21-39	forbeholdt	forbeholde	VT:siu#:t-:----	_	
+21-40	toppen	top|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-4|top-1a-1b|top-1|top-3|top-2a-2b|top-2|top-F-på-toppen-af|get|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-til-tops	NC:sduc:--:----	top-2	
+21-41	af	af	T-:----:--:----	_	
+21-42	poppen	pop	NC:sduc:--:----	_	
+21-43	.	.	ZP	_	
+
+#id=22
+#text= Med Sean Connery i rollen som kong Richard og Alan Rickman som "over the top"- ond blev filmen da også en kæmpesucces.
+22-1	Med	med	T-:----:--:----	_	
+22-2	Sean	Sean	NP:siu#:--:----	_	
+22-3	Connery	Connery	NP:siu#:--:----	_	
+22-4	i	i	T-:----:--:----	_	
+22-5	rollen	rolle	NC:sduc:--:----	_	
+22-6	som	som	XY:----:--:----	_	
+22-7	kong	kong	NC:§§u§:--:----	_	
+22-8	Richard	Richard	NP:siu#:--:----	_	
+22-9	og	og	CC:----:--:----	_	
+22-10	Alan	Alan	NP:siu#:--:----	_	
+22-11	Rickman	Rickman	NP:siu#:--:----	_	
+22-12	som	som	US:----:--:----	_	
+22-13	"	"	ZI	_	
+22-14	over	over	T-:----:--:----	_	
+22-15	the	the	NC:siuc:--:----	_	
+22-16	top	top|top-4|top-F-der-er-koldt-på-toppen|top-3|top-1|top-1a-1b|top-2a-2b|top-2|top-F-fra-top-til-tå|top-F-til-tops|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-toppen-af-isbjerget|top-F-på-toppen-af	NC:siuc:--:----	_	
+22-17	"	"	ZI	_	
+22-18	-	-	ZH	_	
+22-19	ond	ond	AC:siuc:--:p---	_	
+22-20	blev	blive	VF:----:ta:----	_	
+22-21	filmen	film	NC:sduc:--:----	_	
+22-22	da	da	D-:----:--:u---	_	
+22-23	også	også	D-:----:--:u---	_	
+22-24	en	en	PI:s-uc:--:----	_	
+22-25	kæmpesucces	kæmpesucces	NC:siuc:--:----	_	
+22-26	.	.	ZP	_	
+
+#id=23
+#text=Et godt netværk er alfa og omega for at komme til tops i Hollywood.
+23-1	Et	en	PI:s-un:--:----	_	
+23-2	godt	god	AC:siun:--:p---	_	
+23-3	netværk	netværk	NC:siun:--:----	_	
+23-4	er	være	VF:----:sa:----	_	
+23-5	alfa	alfa	NC:siun:--:----	_	
+23-6	og	og	CC:----:--:----	_	
+23-7	omega	omega	NC:siun:--:----	_	
+23-8	for	for	T-:----:--:----	_	
+23-9	at	at	UI:----:--:----	_	
+23-10	komme	komme	VI:----:-a:----	_	
+23-11	til	til	T-:----:--:----	_	
+23-12	tops	top|top-1|top-2|top-3|top-4|top-F-der-er-koldt-på-toppen|top-F-på-toppen-af|top-F-toppen-af-isbjerget|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-til-tops|top-F-fra-top-til-tå|top-2a-2b|top-1a-1b	NC:sigc:--:----	top-F-til-tops	
+23-13	i	i	T-:----:--:----	_	
+23-14	Hollywood	Hollywood	NP:siu#:--:----	_	
+23-15	.	.	ZP	_	
+
+#id=24
+#text=Hun svedte tran i en lille top og benvarmere, og det er selvfølgelig også koncep -tet i et fitnesscenter, meeen...
+24-1	Hun	hun	PP:s-nc:--:-3n-	_	
+24-2	svedte	svede	VF:----:ta:----	_	
+24-3	tran	tran	NC:siun:--:----	_	
+24-4	i	i	T-:----:--:----	_	
+24-5	en	en	PI:s-uc:--:----	_	
+24-6	lille	lille	u§:--:p---	_	
+24-7	top	top|top-4|top-F-fra-top-til-tå|top-F-til-tops|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-toppen-af-isbjerget|top-F-på-toppen-af|top-F-der-er-koldt-på-toppen|top-3|top-1|top-1a-1b|top-2a-2b|top-2	NC:siuc:--:----	top-3	
+24-8	og	og	CC:----:--:----	_	
+24-9	benvarmere	benvarmer	NC:piu#:--:----	_	
+24-10	,	,	ZD	_	
+24-11	og	og	CC:----:--:----	_	
+24-12	det	det	PP:s-un:--:-3n-	_	
+24-13	er	være	VF:----:sa:----	_	
+24-14	selvfølgelig	selvfølgelig	D-:----:--:u---	_	
+24-15	også	også	D-:----:--:u---	_	
+24-16	koncep	koncep	NC:siuc:--:----	_	
+24-17	-	-	NC:piu#:--:----	_	
+24-18	tet	ten	PI:s-un:--:----	_	
+24-19	i	i	T-:----:--:----	_	
+24-20	et	en	PI:s-un:--:----	_	
+24-21	fitnesscenter	fitnesscenter	NC:siun:--:----	_	
+24-22	,	,	ZD	_	
+24-23	meeen	meen	PI:s-uc:--:----	_	
+24-24	.	.	ZP	_	
+24-25	.	.	ZP	_	
+24-26	.	.	ZP	_	
+
+#id=25
+#text= Internetsøgesidens projekt med at gennemfotografere København fra cykelperspektiv ad ruter, hvor biler ikke kan komme, ledte denne pedalatlet og projektmedarbejder Fritz Hansen på rundtur hele vejen op til toppen i Rundetårn.
+25-1	Internetsøgesidens	Internetsøgesidens	NP:sig#:--:----	_	
+25-2	projekt	projekt	NC:siun:--:----	_	
+25-3	med	med	T-:----:--:----	_	
+25-4	at	at	--	_	
+25-5	gennemfotografere	gennemfotografere	VI:----:-a:----	_	
+25-6	København	København	NP:siu#:--:----	_	
+25-7	fra	fra	T-:----:--:----	_	
+25-8	cykelperspektiv	cykelperspektiv	NC:siun:--:----	_	
+25-9	ad	ad	T-:----:--:----	_	
+25-10	ruter	rute	NC:piu#:--:----	_	
+25-11	,	,	ZD	_	
+25-12	hvor	hvor	D-:----:--:u---	_	
+25-13	biler	bile	VF:----:sa:----	_	
+25-14	ikke	ikke	D-:----:--:u---	_	
+25-15	kan	kunne	VF:----:sa:----	_	
+25-16	komme	komme	VI:----:-a:----	_	
+25-17	,	,	ZD	_	
+25-18	ledte	lede	VF:----:ta:----	_	
+25-19	denne	denne	PM:s-uc:--:----	_	
+25-20	pedalatlet	pedalatlet	NC:siuc:--:----	_	
+25-21	og	og	CC:----:--:----	_	
+25-22	projektmedarbejder	projektmedarbejder	NC:siuc:--:----	_	
+25-23	Fritz	Fritz	NC:siuc:--:----	_	
+25-24	Hansen	Hansen	NP:siu#:--:----	_	
+25-25	på	på	T-:----:--:----	_	
+25-26	rundtur	rundtur	NC:siuc:--:----	_	
+25-27	hele	hele	VI:----:-a:----	_	
+25-28	vejen	vej	NC:sduc:--:----	_	
+25-29	op	op	D-:----:--:u---	_	
+25-30	til	til	T-:----:--:----	_	
+25-31	toppen	top|top-F-tånd/grå-i-toppen|top-2|top-3|top-F-der-er-koldt-på-toppen|top-F-på-toppen-af|top-F-toppen-af-isbjerget|top-F-toppen-af/på-kransekagen|top-F-til-tops|top-F-fra-top-til-tå|top-4|top-2a-2b|top-1a-1b|top-1	NC:sduc:--:----	top-1	
+25-32	i	i	T-:----:--:----	_	
+25-33	Rundetårn	rundetårn	NC:siun:--:----	_	
+25-34	.	.	ZP	_	
+
+#id=26
+#text= Iført designertøj fra top til tå og med velfriseret hår gadedrengehopper Alexander og Josephine ivrigt ind mod de store skydedøre sammen med deres barnepige.
+26-1	Iført	iføre	VT:siu#:t-:----	_	
+26-2	designertøj	designertøj	NC:siun:--:----	_	
+26-3	fra	fra	T-:----:--:----	_	
+26-4	top	top|top-F-tånd/grå-i-toppen|top-1a-1b|top-2a-2b|top-4|top-F-fra-top-til-tå|top-F-til-tops|top-F-toppen-af/på-kransekagen|top-F-toppen-af-isbjerget|top-F-på-toppen-af|top-F-der-er-koldt-på-toppen|top-3|top-2|top-1	NC:siuc:--:----	top-F-fra-top-til-tå	
+26-5	til	til	T-:----:--:----	_	
+26-6	tå	tå	NC:siuc:--:----	_	
+26-7	og	og	CC:----:--:----	_	
+26-8	med	med	T-:----:--:----	_	
+26-9	velfriseret	velfriseret	AC:siun:--:p---	_	
+26-10	hår	hår	NC:siun:--:----	_	
+26-11	gadedrengehopper	gadedrengehoppe	VF:----:sa:----	_	
+26-12	Alexander	Alexander	NP:siu#:--:----	_	
+26-13	og	og	CC:----:--:----	_	
+26-14	Josephine	Josephine	NP:siu#:--:----	_	
+26-15	ivrigt	ivrig	AD:----:--:p---	_	
+26-16	ind	ind	D-:----:--:u---	_	
+26-17	mod	mod	T-:----:--:----	_	
+26-18	de	den	PM:p-u#:--:----	_	
+26-19	store	stor	AC:p#u#:--:p---	_	
+26-20	skydedøre	skydedør	NC:piu#:--:----	_	
+26-21	sammen	sammen	D-:----:--:u---	_	
+26-22	med	med	T-:----:--:----	_	
+26-23	deres	deres	PO:#--#:--:-3np	_	
+26-24	barnepige	barnepige	NC:siuc:--:----	_	
+26-25	.	.	ZP	_	
+
+#id=27
+#text= Og Etnas sneklædte top i horisonten.
+27-1	Og	og	CC:----:--:----	_	
+27-2	Etnas	Etnas	NP:sig#:--:----	_	
+27-3	sneklædte	sneklædt	AC:sdu#:--:p---	_	
+27-4	top	top|top-2a-2b|top-1a-1b|top-2|top-1|top-3|top-F-der-er-koldt-på-toppen|top-F-på-toppen-af|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-fra-top-til-tå|top-4	NC:siuc:--:----	top-1	
+27-5	i	i	T-:----:--:----	_	
+27-6	horisonten	horisont	NC:sduc:--:----	_	
+27-7	.	.	ZP	_	
+
+#id=28
+#text=Her serveres lækker mad, og servicen er helt i top.
+28-1	Her	her	D-:----:--:u---	_	
+28-2	serveres	servere	VF:----:sp:----	_	
+28-3	lækker	lækker	AC:siuc:--:p---	_	
+28-4	mad	mad	NC:siuc:--:----	_	
+28-5	,	,	ZD	_	
+28-6	og	og	CC:----:--:----	_	
+28-7	servicen	service	NC:sduc:--:----	_	
+28-8	er	være	VF:----:sa:----	_	
+28-9	helt	hel	AD:----:--:p---	_	
+28-10	i	i	T-:----:--:----	_	
+28-11	top	top|top-F-fra-top-til-tå|top-F-til-tops|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-toppen-af-isbjerget|top-F-på-toppen-af|top-F-der-er-koldt-på-toppen|top-2|top-1a-1b|top-1|top-2a-2b|top-3|top-4	NC:siuc:--:----	top-2a	
+28-12	.	.	ZP	_	
+
+#id=29
+#text= Også om sommeren kan man få lysten styret, for på toppen af Kitzsteinhorn smelter sneen aldrig
+29-1	Også	også	D-:----:--:u---	_	
+29-2	om	om	T-:----:--:----	_	
+29-3	sommeren	sommer	NC:sduc:--:----	_	
+29-4	kan	kunne	VF:----:sa:----	_	
+29-5	man	man	PI:#-uc:--:----	_	
+29-6	få	få	VI:----:-a:----	_	
+29-7	lysten	lyst	NC:sduc:--:----	_	
+29-8	styret	styre	VT:siu#:t-:----	_	
+29-9	,	,	ZD	_	
+29-10	for	for	D-:----:--:u---	_	
+29-11	på	på	T-:----:--:----	_	
+29-12	toppen	top|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-F-på-toppen-af|top-F-til-tops|top-4|top-1|top-2|top-3|top-2a-2b|top-1a-1b|top-F-toppen-af-isbjerget|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen	NC:sduc:--:----	top-1	
+29-13	af	af	T-:----:--:----	_	
+29-14	Kitzsteinhorn	Kitzsteinhorn	NP:siu#:--:----	_	
+29-15	smelter	smelte	VF:----:sa:----	_	
+29-16	sneen	sne	NC:sduc:--:----	_	
+29-17	aldrig	aldrig	D-:----:--:u---	_	
+
+#id=30
+#text= Den er på top ti-listen over hans bedste film
+30-1	Den	den	PP:s-uc:--:-3n-	_	
+30-2	er	være	VF:----:sa:----	_	
+30-3	på	på	T-:----:--:----	_	
+30-4	top	top|top-4|top-F-fra-top-til-tå|top-F-på-toppen-af|top-F-der-er-koldt-på-toppen|top-3|top-1a-1b|top-2|top-2a-2b|top-1|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen	NC:siuc:--:----	_	
+30-5	ti	ti	---	_	
+30-6	-	-	ZH	_	
+30-7	listen	list	NC:sduc:--:----	_	
+30-8	over	over	T-:----:--:----	_	
+30-9	hans	hans	PO:#--#:--:-3ns	_	
+30-10	bedste	god	AC:§du§:--:s---	_	
+30-11	film	film	NC:siuc:--:----	_	
+
+#id=31
+#text=Skønne Medina er atter på toppen og frisk til Muskelsvindfondens koncertturné i Danmark, efter at muslimer kastede æg mod hende under en optræden for nylig
+31-1	Skønne	skøn	AC:sdu#:--:p---	_	
+31-2	Medina	Medina	NP:siu#:--:----	_	
+31-3	er	være	VF:----:sa:----	_	
+31-4	atter	atter	D-:----:--:u---	_	
+31-5	på	på	T-:----:--:----	_	
+31-6	toppen	top|top-2|top-3|top-4|top-F-der-er-koldt-på-toppen|top-F-på-toppen-af|top-F-toppen-af-isbjerget|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-til-tops|top-F-fra-top-til-tå|top-2a-2b|top-1a-1b|top-1	NC:sduc:--:----	top-2a	
+31-7	og	og	CC:----:--:----	_	
+31-8	frisk	frisk	AC:siu§:--:p---	_	
+31-9	til	til	T-:----:--:----	_	
+31-10	Muskelsvindfondens	Muskelsvindfondens	NP:sig#:--:----	_	
+31-11	koncertturné	koncertturné	NC:siuc:--:----	_	
+31-12	i	i	T-:----:--:----	_	
+31-13	Danmark	Danmark	NP:siu#:--:----	_	
+31-14	,	,	ZD	_	
+31-15	efter	efter	CS:----:--:----	_	
+31-16	at	at	CS:----:--:----	_	
+31-17	muslimer	muslim	NC:piu#:--:----	_	
+31-18	kastede	kaste	VF:----:ta:----	_	
+31-19	æg	æg	NC:siun:--:----	_	
+31-20	mod	mod	T-:----:--:----	_	
+31-21	hende	hun	PP:s-uc:--:-3n-	_	
+31-22	under	under	T-:----:--:----	_	
+31-23	en	en	PI:s-uc:--:----	_	
+31-24	optræden	optræde	VG:siuc:--:----	_	
+31-25	for	for	T-:----:--:----	_	
+31-26	nylig	nylig	AD:----:--:p---	_	
+
+#id=32
+#text=Kræftsyge Annette Klingenberg fik comeback ved det første træf for toppen af poppen i Løsning og blev modtaget med åbne arme af kolleger og publikum
+32-1	Kræftsyge	kræftsyg	AC:sdu#:--:p---	_	
+32-2	Annette	Annette	NP:siu#:--:----	_	
+32-3	Klingenberg	Klingenberg	NP:siu#:--:----	_	
+32-4	fik	få	VF:----:ta:----	_	
+32-5	comeback	comeback	NC:siun:--:----	_	
+32-6	ved	ved	T-:----:--:----	_	
+32-7	det	den	PM:s-un:--:----	_	
+32-8	første	første	AC:§§u§:--:p---	_	
+32-9	træf	træf	NC:siun:--:----	_	
+32-10	for	for	T-:----:--:----	_	
+32-11	toppen	top|top-4|top-F-fra-top-til-tå|top-F-på-toppen-af|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-der-er-koldt-på-toppen|top-3|top-1|top-1a-1b|top-2a-2b|top-2|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen	NC:sduc:--:----	top-2a	
+32-12	af	af	T-:----:--:----	_	
+32-13	poppen	pop	NC:sduc:--:----	_	
+32-14	i	i	T-:----:--:----	_	
+32-15	Løsning	løsning	NC:siuc:--:----	_	
+32-16	og	og	--:----	_	
+32-17	blev	blive	VF:----:ta:----	_	
+32-18	modtaget	modtage	VT:siu#:t-:----	_	
+32-19	med	med	T-:----:--:----	_	
+32-20	åbne	åben	AC:p#u#:--:p---	_	
+32-21	arme	arm	NC:piu#:--:----	_	
+32-22	af	af	T-:----:--:----	_	
+32-23	kolleger	kollega	NC:piu#:--:----	_	
+32-24	og	og	CC:----:--:----	_	
+32-25	publikum	publikum	NC:siun:--:----	_	
+
+#id=33
+#text=Humøret var i top, og Demi Moore flashede glædeligt sin tonede krop, mens hun slog sig løs med hoppen og dansen uden for en villa i Malibu.
+33-1	Humøret	humør	NC:sdun:--:----	_	
+33-2	var	være	VF:----:ta:----	_	
+33-3	i	i	T-:----:--:----	_	
+33-4	top	top|top-F-på-toppen-af|top-F-toppen-af-isbjerget|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-til-tops|top-F-fra-top-til-tå|top-2a-2b|top-3|top-4|top-1|top-2|top-1a-1b|top-F-der-er-koldt-på-toppen	NC:siuc:--:----	top-2a	
+33-5	,	,	ZD	_	
+33-6	og	og	CC:----:--:----	_	
+33-7	Demi	Demi	NP:siu#:--:----	_	
+33-8	Moore	Moore	NP:siu#:--:----	_	
+33-9	flashede	flashede	VI:----:-a:----	_	
+33-10	glædeligt	glædelig	AD:----:--:p---	_	
+33-11	sin	sin	PO:s--c:--:-3ys	_	
+33-12	tonede	tonet	AC:sdu#:--:p---	_	
+33-13	krop	krop	NC:siuc:--:----	_	
+33-14	,	,	ZD	_	
+33-15	mens	mens	CS:----:--:----	_	
+33-16	hun	hun	PP:s-nc:--:-3n-	_	
+33-17	slog	slå	VF:----:ta:----	_	
+33-18	sig	sig	PP:#-u#:--:-3y-	_	
+33-19	løs	løs	AD:----:--:p---	_	
+33-20	med	med	T-:----:--:----	_	
+33-21	hoppen	hoppe	NC:sduc:--:----	_	
+33-22	og	og	CC:----:--:----	_	
+33-23	dansen	dans	NC:sduc:--:----	_	
+33-24	uden	uden	D-:----:--:u---	_	
+33-25	for	for	T-:----:--:----	_	
+33-26	en	en	PI:s-uc:--:----	_	
+33-27	villa	villa	NC:siuc:--:----	_	
+33-28	i	i	T-:----:--:----	_	
+33-29	Malibu	Malibu	NP:siu#:--:----	_	
+33-30	.	.	ZP	_	
+
+#id=34
+#text= I klædt tin og ga mmelt jern f ra top ti l tå cruiser han ru ndt i Cambr idgeshire i England, hvor ha n leder efter en dåseåbner, der kan befr i ham for lug ten a f tun på dåse.
+34-1	I	i	T-:----:--:----	_	
+34-2	klædt	klædt	AC:siu§:--:p---	_	
+34-3	tin	tin	NC:siun:--:----	_	
+34-4	og	og	CC:----:--:----	_	
+34-5	ga	ga	XF:----:--:----	_	
+34-6	mmelt	mmeltempore	XF:----:--:----	_	
+34-7	jern	jern	NC:siun:--:----	_	
+34-8	f	for	T-:----:--:----	_	
+34-9	ra	randen	PI:s-un:--:----	_	
+34-10	top	top|top-4|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-F-til-tops|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-toppen-af-isbjerget|top-F-på-toppen-af|top-3|top-1a-1b|top-2|top-2a-2b|top-1	NC:siuc:--:----	top-F-fra-top-til-tå	
+34-11	ti	ti	LC:--u-:--:----	_	
+34-12	l	liter	NC:siuc:--:----	_	
+34-13	tå	tå	NC:siuc:--:----	_	
+34-14	cruiser	cruise	VF:----:sa:----	_	
+34-15	han	han	PP:s-nc:--:-3n-	_	
+34-16	ru	ru	AC:§§u§:--:p---	_	
+34-17	ndt	ndt	NC:siuc:--:----	_	
+34-18	i	i	T-:----:--:----	_	
+34-19	Cambr	Cambr	NP:siu#:--:----	_	
+34-20	idgeshire	idgeshire	NC:siun:--:----	_	
+34-21	i	i	T-:----:--:----	_	
+34-22	England	England	NP:siu#:--:----	_	
+34-23	,	,	ZD	_	
+34-24	hvor	hvor	D-:----:--:u---	_	
+34-25	ha	have	VI:----:-a:----	_	
+34-26	n	N	NP:siu#:--:----	_	
+34-27	leder	leder	NC:siuc:--:----	_	
+34-28	efter	efter	T-:----:--:----	_	
+34-29	en	en	PI:s-uc:--:----	_	
+34-30	dåseåbner	dåseåbner	NC:siuc:--:----	_	
+34-31	,	,	ZD	_	
+34-32	der	der	US:----:--:----	_	
+34-33	kan	kan	NC:siuc:--:----	_	
+34-34	befr	befr	XS:----:--:----	_	
+34-35	i	i	T-:----:--:----	_	
+34-36	ham	han	PP:s-uc:--:-3n-	_	
+34-37	for	for	CC:----:--:----	_	
+34-38	lug	luge	VM:----:--:----	_	
+34-39	ten	ten	NC:siuc:--:----	_	
+34-40	a	anden	PI:s-un:--:----	_	
+34-41	f	for	T-:----:--:----	_	
+34-42	tun	tun	NC:siun:--:----	_	
+34-43	på	på	T-:----:--:----	_	
+34-44	dåse	dåse	NC:siuc:--:----	_	
+34-45	.	.	ZP	_	
+
+#id=35
+#text= Hygiejnen skal være i top.
+35-1	Hygiejnen	hygiejne	NC:sduc:--:----	_	
+35-2	skal	skulle	VF:----:sa:----	_	
+35-3	være	være	VI:----:-a:----	_	
+35-4	i	i	T-:----:--:----	_	
+35-5	top	top|top-F-på-toppen-af|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-tånd/grå-i-toppen|-kransekagen|top-F-fra-top-til-tå|top-2a-2b|top-1a-1b|top-2|top-1|top-3|top-4|top-F-der-er-koldt-på-toppen	NC:siuc:--:----	top-2a	
+35-6	.	.	ZP	_	
+
+#id=36
+#text=Dobbelt-cd'en " Nu med kavalergang" ligger i top på salgslisterne, 90 job er i kalenderen, og 11 nye TV-shows skal optages.
+36-1	Dobbelt	dobbelt	AC:siu§:--:p---	_	
+36-2	-	-	ZH	_	
+36-3	cd	cd	NC:siuc:--:----	_	
+36-4	'	'	ZA	_	
+36-5	en	@en	MN:sduc:--:----	_	
+36-6	"	"	ZI	_	
+36-7	Nu	nu	D-:----:--:u---	_	
+36-8	med	med	T-:----:--:----	_	
+36-9	kavalergang	kavalergang	NC:siuc:--:----	_	
+36-10	"	"	ZI	_	
+36-11	ligger	ligge	VF:----:sa:----	_	
+36-12	i	i	T-:----:--:----	_	
+36-13	top	top|top-3|top-4|top-F-fra-top-til-tå|top-F-på-toppen-af|top-F-til-tops|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-toppen-af-isbjerget|top-F-der-er-koldt-på-toppen|top-1|top-1a-1b|top-2a-2b|top-2	NC:siuc:--:----	top-2	
+36-14	på	på	T-:----:--:----	_	
+36-15	salgslisterne	salgsliste	NC:pdu#:--:----	_	
+36-16	,	,	ZD	_	
+36-17	90	90	LC:--u-:--:----	_	
+36-18	job	job	NC:piu#:--:----	_	
+36-19	er	være	VF:----:sa:----	_	
+36-20	i	i	T-:----:--:----	_	
+36-21	kalenderen	kalender	NC:sduc:--:----	_	
+36-22	,	,	ZD	_	
+36-23	og	og	CC:----:--:----	_	
+36-24	11	11	LC:--u-:--:----	_	
+36-25	nye	ny	AC:p#u#:--:p---	_	
+36-26	TV	TV	NW:----:--:----	_	
+36-27	-	-	ZH	_	
+36-28	shows	show	NC:piu#:--:----	_	
+36-29	skal	skulle	VF:----:sa:----	_	
+36-30	optages	optage	VI:----:-p:----	_	
+36-31	.	.	ZP	_	
+
+#id=37
+#text=Gabr ielle er heller ikke på toppen.
+37-1	Gabr	Gabr	NP:siu#:--:----	_	
+37-2	ielle	iel	NC:piu#:--:----	_	
+37-3	er	være	VF:----:sa:----	_	
+37-4	heller	heller	D-:----:--:u---	_	
+37-5	ikke	ikke	D-:----:--:u---	_	
+37-6	på	på	T-:----:--:----	_	
+37-7	toppen	top|top-3|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|af|top-F-toppen-af-isbjerget|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-til-tops|top-4|top-1|top-2|top-2a-2b|top-1a-1b	NC:sduc:--:----	top-2a	
+37-8	.	.	ZP	_	
+
+#id=38
+#text=Stemningen under de kulørte lamper var i top, da den smukke danser festede i det kørende diskotek.
+38-1	Stemningen	stemning	NC:sduc:--:----	_	
+38-2	under	under	T-:----:--:----	_	
+38-3	de	den	PM:p-u#:--:----	_	
+38-4	kulørte	kulørt	AC:p#u#:--:p---	_	
+38-5	lamper	lampe	NC:piu#:--:----	_	
+38-6	var	være	VF:----:ta:----	_	
+38-7	i	i	T-:----:--:----	_	
+38-8	top	top|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-2|top-2a-2b|top-4|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-på-toppen-af|top-3|top-1|top-1a-1b	NC:siuc:--:----	top-2a	
+38-9	,	,	ZD	_	
+38-10	da	da	CS:----:--:----	_	
+38-11	den	den	PM:s-uc:--:----	_	
+38-12	smukke	smuk	AC:sdu#:--:p---	_	
+38-13	danser	danser	NC:siuc:--:----	_	
+38-14	festede	feste	VF:----:ta:----	_	
+38-15	i	i	T-:----:--:----	_	
+38-16	det	den	PM:s-un:--:----	_	
+38-17	kørende	køre	VP:##u#:s-:----	_	
+38-18	diskotek	diskotek	NC:siun:--:----	_	
+38-19	.	.	ZP	_	
+
+#id=39
+#text=Hvis I vil nå op til toppen af et af de mange vandfald, skal I være forberedte på, at det kan blive en sej kamp.
+39-1	Hvis	hvis	CS:----:--:----	_	
+39-2	I	I	PP:p-nc:--:-2n-	_	
+39-3	vil	ville	VF:----:sa:----	_	
+39-4	nå	nå	VI:----:-a:----	_	
+39-5	op	op	D-:----:--:u---	_	
+39-6	til	til	T-:----:--:----	_	
+39-7	toppen	top|top-1a-1b|top-2|top-3|top-4|top-F-der-er-koldt-på-toppen|top-F-på-toppen-af|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-fra-top-til-tå|top-2a-2b|top-1	NC:sduc:--:----	top-1	
+39-8	af	af	T-:----:--:----	_	
+39-9	et	en	PI:s-un:--:----	_	
+39-10	af	af	T-:----:--:----	_	
+39-11	de	den	PM:p-u#:--:----	_	
+39-12	mange	mangen	AC:p#u#:--:p---	_	
+39-13	vandfald	vandfald	NC:piu#:--:----	_	
+39-14	,	,	ZD	_	
+39-15	skal	skulle	VF:----:sa:----	_	
+39-16	I	I	PP:p-nc:--:-2n-	_	
+39-17	være	være	VI:----:-a:----	_	
+39-18	forberedte	forberede	VP:p#u#:t-:----	_	
+39-19	på	på	T-:----:--:----	_	
+39-20	,	,	ZD	_	
+39-21	at	at	:----:--:----	_	
+39-22	det	det	PP:s-un:--:-3n-	_	
+39-23	kan	kunne	VF:----:sa:----	_	
+39-24	blive	blive	VI:----:-a:----	_	
+39-25	en	en	PI:s-uc:--:----	_	
+39-26	sej	sej	AC:siuc:--:p---	_	
+39-27	kamp	kamp	NC:siuc:--:----	_	
+39-28	.	.	ZP	_	
+
+#id=40
+#text= Der var højt til himlen og lavt til skyerne, da Kasha Rigby deltog i en ekspedition mod toppen af Himalaya-bjergene.
+40-1	Der	der	US:----:--:----	_	
+40-2	var	være	VF:----:ta:----	_	
+40-3	højt	høj	AD:----:--:p---	_	
+40-4	til	til	T-:----:--:----	_	
+40-5	himlen	himmel	NC:sduc:--:----	_	
+40-6	og	og	CC:----:--:----	_	
+40-7	lavt	lav	AD:----:--:p---	_	
+40-8	til	til	T-:----:--:----	_	
+40-9	skyerne	sky	NC:pdu#:--:----	_	
+40-10	,	,	ZD	_	
+40-11	da	da	CS:----:--:----	_	
+40-12	Kasha	Kasha	NP:siu#:--:----	_	
+40-13	Rigby	Rigby	NP:siu#:--:----	_	
+40-14	deltog	deltage	VF:----:ta:----	_	
+40-15	i	i	T-:----:--:----	_	
+40-16	en	en	PI:s-uc:--:----	_	
+40-17	ekspedition	ekspedition	iuc:--:----	_	
+40-18	mod	mod	T-:----:--:----	_	
+40-19	toppen	top|top-1a-1b|top-2a-2b|top-3|top-4|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-F-på-toppen-af|top-F-til-tops|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-toppen-af-isbjerget|top-2|top-1	NC:sduc:--:----	top-1	
+40-20	af	af	T-:----:--:----	_	
+40-21	Himalaya	Himalaya	NW:----:--:----	_	
+40-22	-	-	ZH	_	
+40-23	bjergene	bjerg	NC:pdu#:--:----	_	
+40-24	.	.	ZP	_	
+
+#id=41
+#text=I " Zulu Kvægræs" varetog Christiane værtinderollen i bonderøvs-outfit fra top til tå og skildrede således sin stilmæssige mangfoldighed fra diva til bondeknold.
+41-1	I	i	T-:----:--:----	_	
+41-2	"	"	ZI	_	
+41-3	Zulu	zulu	NC:siuc:--:----	_	
+41-4	Kvægræs	Kvægræs	NP:siu#:--:----	_	
+41-5	"	"	ZI	_	
+41-6	varetog	varetog	VF:----:ta:----	_	
+41-7	Christiane	Christiane	NP:siu#:--:----	_	
+41-8	værtinderollen	værtinderolle	NC:sduc:--:----	_	
+41-9	i	i	T-:----:--:----	_	
+41-10	bonderøvs	bonderøv	NW:----:--:----	_	
+41-11	-	-	ZH	_	
+41-12	outfit	outfit	NC:siun:--:----	_	
+41-13	fra	fra	T-:----:--:----	_	
+41-14	top	top|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-2|top-2a-2b|top-3|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-F-på-toppen-af|top-F-toppen-af-isbjerget|top-F-til-tops|top-4|top-1a-1b|top-1	NC:siuc:--:----	top-F-fra-top-til-tå	
+41-15	til	til	T-:----:--:----	_	
+41-16	tå	tå	NC:siuc:--:----	_	
+41-17	og	og	CC:----:--:----	_	
+41-18	skildrede	skildre	VF:----:ta:----	_	
+41-19	således	således	D-:----:--:u---	_	
+41-20	sin	sin	XY:----:--:----	_	
+41-21	stilmæssige	stilmæssige	VI:----:-a:----	_	
+41-22	mangfoldighed	mangfoldighed	NC:siuc:--:----	_	
+41-23	fra	fra	T-:----:--:----	_	
+41-24	diva	diva	NC:siuc:--:----	_	
+41-25	til	til	T-:----:--:----	_	
+41-26	bondeknold	bondeknold	NC:siuc:--:----	_	
+41-27	.	.	ZP	_	
+
+#id=42
+#text= Intet, som berettigede til den højtprofilerede sag mod kvinden fra toppen af det danske samfund.
+42-1	Intet	ingen	PI:s-un:--:----	_	
+42-2	,	,	ZD	_	
+42-3	som	som	US:----:--:----	_	
+42-4	berettigede	berettige	VF:----:ta:----	_	
+42-5	til	til	T-:----:--:----	_	
+42-6	den	den	PM:s-uc:--:----	_	
+42-7	højtprofilerede	højtprofilere	VP:sdu#:t-:----	_	
+42-8	sag	sag	NC:siuc:--:----	_	
+42-9	mod	mod	T-:----:--:----	_	
+42-10	kvinden	kvinde	NC:sduc:--:----	_	
+42-11	fra	fra	T-:----:--:----	_	
+42-12	toppen	top|top-F-til-tops|top-F-toppen-af-isbjerget|kransekagen|top-F-tånd/grå-i-toppen|top-F-på-toppen-af|top-1|top-1a-1b|top-2|top-2a-2b|top-4|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-3	NC:sduc:--:----	top-2b	
+42-13	af	af	T-:----:--:----	_	
+42-14	det	den	PM:s-un:--:----	_	
+42-15	danske	dansk	AC:sdu#:--:p---	_	
+42-16	samfund	samfund	NC:siun:--:----	_	
+42-17	.	.	ZP	_	
+
+#id=43
+#text=Han har formået at holde sig på toppen i over 50 år.
+43-1	Han	han	PP:s-nc:--:-3n-	_	
+43-2	har	have	VF:----:sa:----	_	
+43-3	formået	formå	VT:siu#:t-:----	_	
+43-4	at	at	UI:----:--:----	_	
+43-5	holde	holde	VI:----:-a:----	_	
+43-6	sig	sig	PP:#-u#:--:-3y-	_	
+43-7	på	på	T-:----:--:----	_	
+43-8	toppen	top|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-1|top-1a-1b|top-2|top-3|top-4|top-F-der-er-koldt-på-toppen|top-F-på-toppen-af|top-F-fra-top-til-tå|top-2a-2b	NC:sduc:--:----	top-2a	
+43-9	i	i	T-:----:--:----	_	
+43-10	over	over	T-:----:--:----	_	
+43-11	50	50	LC:--u-:--:----	_	
+43-12	år	år	NC:piu#:--:----	_	
+43-13	.	.	ZP	_	
+
+#id=44
+#text=- Caroline er en " label queen" fra top til tå.
+44-1	-	-	NC:piu#:--:----	_	
+44-2	Caroline	Caroline	NP:siu#:--:----	_	
+44-3	er	være	VF:----:sa:----	_	
+44-4	en	en	PI:s-uc:--:----	_	
+44-5	"	"	ZI	_	
+44-6	label	label	XY:----:--:----	_	
+44-7	queen	Queen	XF:----:--:----	_	
+44-8	"	"	ZI	_	
+44-9	fra	fra	T-:----:--:----	_	
+44-10	top	top|top-F-tånd/grå-i-toppen|top-3|top-4|top-F-fra-top-til-tå|top-F-på-toppen-af|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-toppen-af/på-kransekagen|top-F-der-er-koldt-på-toppen|top-1|top-1a-1b|top-2|top-2a-2b	NC:siuc:--:----	top-F-fra-top-til-tå	
+44-11	til	til	T-:----:--:----	_	
+44-12	tå	tå	NC:siuc:--:----	_	
+44-13	.	.	ZP	_	
+
+#id=45
+#text=Da Joachim var på toppen som kuglestøder, var hans kampvægt ca. 140 kilo.
+45-1	Da	da	CS:----:--:----	_	
+45-2	Joachim	Joachim	NP:siu#:--:----	_	
+45-3	var	være	VF:----:ta:----	_	
+45-4	på	på	T-:----:--:----	_	
+45-5	toppen	top|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-F-på-toppen-af|top-F-toppen-af-isbjerget|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-til-tops|top-2a-2b|top-3|top-4|top-1|top-2|top-1a-1b	NC:sduc:--:----	top-2a	
+45-6	som	som	US:----:--:----	_	
+45-7	kuglestøder	kuglestøder	NC:siuc:--:----	_	
+45-8	,	,	ZD	_	
+45-9	var	være	VF:----:ta:----	_	
+45-10	hans	hans	PO:#--#:--:-3ns	_	
+45-11	kampvægt	kampvægt	NC:siuc:--:----	_	
+45-12	ca	cirka	D-:----:--:u---	_	
+45-13	.	.	ZP	_	
+45-14	140	140	LC:--u-:--:----	_	
+45-15	kilo	kilo	NC:piu#:--:----	_	
+45-16	.	.	ZP	_	
+
+#id=46
+#text= Jeg lå ikke engang på top 20, da B.
+46-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+46-2	lå	ligge	VF:----:ta:----	_	
+46-3	ikke	ikke	D-:----:--:u---	_	
+46-4	engang	engang	D-:----:--:u---	_	
+46-5	på	på	T-:----:--:----	_	
+46-6	top	top|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-2a-2b|top-4|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-F-på-toppen-af|top-F-til-tops|top-F-toppen-af-isbjerget|top-3|top-1a-1b|top-2|top-1	NC:siuc:--:----	_	
+46-7	20	20	LC:--u-:--:----	_	
+46-8	,	,	ZD	_	
+46-9	da	da	CS:----:--:----	_	
+46-10	B	B	NP:siu#:--:----	_	
+46-11	.	.	ZP	_	
+
+#id=47
+#text=Ikke nok med, at han har holdt sig på toppen.
+47-1	Ikke	ikke	D-:----:--:u---	_	
+47-2	nok	nok	D-:----:--:u---	_	
+47-3	med	med	T-:----:--:----	_	
+47-4	,	,	ZD	_	
+47-5	at	at	CS:----:--:----	_	
+47-6	han	han	PP:s-nc:--:-3n-	_	
+47-7	har	have	VF:----:sa:----	_	
+47-8	holdt	holde	VT:siu#:t-:----	_	
+47-9	sig	sig	PP:#-u#:--:-3y-	_	
+47-10	på	på	T-:----:--:----	_	
+47-11	toppen	top|top-F-der-er-koldt-på-toppen|top-F-på-toppen-af|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-fra-top-til-tå|top-2|top-2a-2b|top-3|top-4|top-1|top-1a-1b	NC:sduc:--:----	top-2a	
+47-12	.	.	ZP	_	
+
+#id=48
+#text=Siden har 23-årige Claudia Rex fundet vej til toppen af ranglisterne, og med sine 53 kg og 168 cm er hun et godt bud på Danmarks dejligste.
+48-1	Siden	siden	D-:----:--:u---	_	
+48-2	har	have	VF:----:sa:----	_	
+48-3	23	23	LC:--u-:--:----	_	
+48-4	-	-	ZH	_	
+48-5	årige	årig	AC:sdu#:--:p---	_	
+48-6	Claudia	Claudia	NP:siu#:--:----	_	
+48-7	Rex	Rex	NP:siu#:--:----	_	
+48-8	fundet	finde	VT:siu#:t-:----	_	
+48-9	vej	vej	NC:siuc:--:----	_	
+48-10	til	til	T-:----:--:----	_	
+48-11	toppen	top|top-4|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-F-på-toppen-af|top-F-til-tops|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-toppen-af-isbjerget|top-1|top-1a-1b|top-2a-2b|top-3|top-2	NC:sduc:--:----	top-2	
+48-12	af	af	T-:----:--:----	_	
+48-13	ranglisterne	rangliste	NC:pdu#:--:----	_	
+48-14	,	,	ZD	_	
+48-15	og	og	CC:----:--:----	_	
+48-16	med	med	T-:----:--:----	_	
+48-17	sine	sin	PO:p--#:--:-3ys	_	
+48-18	53	53	LC:--u-:--:----	_	
+48-19	kg	kilogram	NC:piu#:--:----	_	
+48-20	og	og	CC:----:--:----	_	
+48-21	168	168	LC:--u-:--:----	_	
+48-22	cm	centimeter	NC:piu#:--:----	_	
+48-23	er	være	VF:----:sa:----	_	
+48-24	hun	hun	PP:s-nc:--:-3n-	_	
+48-25	et	en	PI:s-un:--:----	_	
+48-26	godt	god	AC:siun:--:p---	_	
+48-27	bud	bud	NC:siun:--:----	_	
+48-28	på	på	T-:----:--:----	_	
+48-29	Danmarks	Danmark	NP:sig#:--:----	_	
+48-30	dejligste	dejlig	AC:§du§:--:s---	_	
+48-31	.	.	ZP	_	
+
+#id=49
+#text=Den 30-årige blonde familiefar og midtbaneslider skal føre Danmark til tops ved VM i Sydafrika.
+49-1	Den	den	PM:s-uc:--:----	_	
+49-2	30	30	LW:----:--:----	_	
+49-3	-	-	ZH	_	
+49-4	årige	årig	AC:sdu#:--:p---	_	
+49-5	blonde	blond	AC:sdu#:--:p---	_	
+49-6	familiefar	familiefar	NC:siuc:--:----	_	
+49-7	og	og	CC:----:--:----	_	
+49-8	midtbaneslider	midtbaneslider	NC:siuc:--:----	_	
+49-9	skal	skulle	VF:----:sa:----	_	
+49-10	føre	føre	VI:----:-a:----	_	
+49-11	Danmark	Danmark	NP:siu#:--:----	_	
+49-12	til	til	T-:----:--:----	_	
+49-13	tops	top|top-1|top-1a-1b|top-2|top-2a-2b|top-3|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-F-på-toppen-af|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-4	NC:sigc:--:----	top-F-til-tops	
+49-14	ved	ved	T-:----:--:----	_	
+49-15	VM	VM	NP:siu#:--:----	_	
+49-16	i	i	T-:----:--:----	_	
+49-17	Sydafrika	Sydafrika	NP:siu#:--:----	_	
+49-18	.	.	ZP	_	
+
+#id=50
+#text= I november valsede han og vejrværten Cecilie Hother sig nemlig til tops foran Laura Drasbæk og Silas Holst i " Vild med dans", hvilket Mads beskriver som en af sine personligt største succeser til dato.
+50-1	I	i	T-:----:--:----	_	
+50-2	november	november	NC:siuc:--:----	_	
+50-3	valsede	valse	VF:----:ta:----	_	
+50-4	han	han	:--:-3n-	_	
+50-5	og	og	CC:----:--:----	_	
+50-6	vejrværten	vejrvært	NC:sduc:--:----	_	
+50-7	Cecilie	Cecilie	NP:siu#:--:----	_	
+50-8	Hother	Hother	NP:siu#:--:----	_	
+50-9	sig	sig	PP:#-u#:--:-3y-	_	
+50-10	nemlig	nemlig	D-:----:--:u---	_	
+50-11	til	til	T-:----:--:----	_	
+50-12	tops	top|top-3|top-4|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-på-toppen-af|top-1|top-1a-1b|top-2|top-2a-2b	NC:sigc:--:----	top-F-til-tops	
+50-13	foran	foran	T-:----:--:----	_	
+50-14	Laura	Laura	NP:siu#:--:----	_	
+50-15	Drasbæk	Drasbæk	NP:siu#:--:----	_	
+50-16	og	og	CC:----:--:----	_	
+50-17	Silas	Silas	NP:siu#:--:----	_	
+50-18	Holst	Holst	NP:siu#:--:----	_	
+50-19	i	i	T-:----:--:----	_	
+50-20	"	"	ZI	_	
+50-21	Vild	vild	AC:siuc:--:p---	_	
+50-22	med	med	T-:----:--:----	_	
+50-23	dans	dans	NC:siuc:--:----	_	
+50-24	"	"	ZI	_	
+50-25	,	,	ZD	_	
+50-26	hvilket	hvilken	PR:s-un:--:----	_	
+50-27	Mads	Mads	NP:siu#:--:----	_	
+50-28	beskriver	beskrive	VF:----:sa:----	_	
+50-29	som	som	US:----:--:----	_	
+50-30	en	en	PI:s-uc:--:----	_	
+50-31	af	af	T-:----:--:----	_	
+50-32	sine	sin	PO:p--#:--:-3ys	_	
+50-33	personligt	personlig	AD:----:--:p---	_	
+50-34	største	stor	AC:§du§:--:s---	_	
+50-35	succeser	succes	NC:piu#:--:----	_	
+50-36	til	til	T-:----:--:----	_	
+50-37	dato	dato	NC:siuc:--:----	_	
+50-38	.	.	ZP	_	
+
+#id=51
+#text=Her brugte han og 18 andre syv dage på at nå toppen i Tanzania i forbindelse med en velgørenhedsindsamling.
+51-1	Her	her	D-:----:--:u---	_	
+51-2	brugte	bruge	VF:----:ta:----	_	
+51-3	han	han	PP:s-nc:--:-3n-	_	
+51-4	og	og	CC:----:--:----	_	
+51-5	18	18	LC:--u-:--:----	_	
+51-6	andre	anden	PI:p-u#:--:----	_	
+51-7	syv	syv	LC:--u-:--:----	_	
+51-8	dage	dag	NC:piu#:--:----	_	
+51-9	på	på	T-:----:--:----	_	
+51-10	at	at	UI:----:--:----	_	
+51-11	nå	nå	VI:----:-a:----	_	
+51-12	toppen	top|top-4|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-F-på-toppen-af|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-1|top-1a-1b|top-2|top-3|top-2a-2b	NC:sduc:--:----	top-1	
+51-13	i	i	T-:----:--:----	_	
+51-14	Tanzania	Tanzania	NP:siu#:--:----	_	
+51-15	i	i	T-:----:--:----	_	
+51-16	forbindelse	forbindelse	NC:siuc:--:----	_	
+51-17	med	med	T-:----:--:----	_	
+51-18	en	en	PI:s-uc:--:----	_	
+51-19	velgørenhedsindsamling	velgørenhedsindsamling	NC:siuc:--:----	_	
+51-20	.	.	ZP	_	
+
+#id=52
+#text=At Kyllingen ser godt ud i gult, ved vi alle, men at han med sin afpillede, ranglede krop og sit skaldede hoved i så udpræget grad kunne få et ellers top-elegant kjolesæt til at ligne et fugleskræmsel, får det  til at smerte i en tøjmands øjne.
+52-1	At	at	CS:----:--:----	_	
+52-2	Kyllingen	kylling	NC:sduc:--:----	_	
+52-3	ser	se	VF:----:sa:----	_	
+52-4	godt	god	AD:----:--:p---	_	
+52-5	ud	ud	D-:----:--:u---	_	
+52-6	i	i	T-:----:--:----	_	
+52-7	gult	gul	AC:siun:--:p---	_	
+52-8	,	,	ZD	_	
+52-9	ved	vide	VF:----:sa:----	_	
+52-10	vi	vi	PP:p-nc:--:-1n-	_	
+52-11	alle	al	PI:p-u#:--:----	_	
+52-12	,	,	ZD	_	
+52-13	men	men	CC:----:--:----	_	
+52-14	at	at	CS:----:--:----	_	
+52-15	han	han	PP:s-nc:--:-3n-	_	
+52-16	med	med	T-:----:--:----	_	
+52-17	sin	sin	PO:s--c:--:-3ys	_	
+52-18	afpillede	afpillet	AC:sdu#:--:p---	_	
+52-19	,	,	ZD	_	
+52-20	ranglede	ranglet	AC:sdu#:--:p---	_	
+52-21	krop	krop	NC:siuc:--:----	_	
+52-22	og	og	CC:----:--:----	_	
+52-23	sit	sin	PO:s--n:--:-3ys	_	
+52-24	skaldede	skaldet	AC:sdu#:--:p---	_	
+52-25	hoved	hoved	NC:siun:--:----	_	
+52-26	i	i	T-:----:--:----	_	
+52-27	så	så	D-:----:--:u---	_	
+52-28	udpræget	udpræget	AC:siu§:--:p---	_	
+52-29	grad	grad	NC:siuc:--:----	_	
+52-30	kunne	kunne	VF:----:ta:----	_	
+52-31	få	få	VI:----:-a:----	_	
+52-32	et	en	PI:s-un:--:----	_	
+52-33	ellers	ellers	D-:----:--:u---	_	
+52-34	top	top|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-1a-1b|top-2|top-2a-2b|top-3|top-4|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-F-på-toppen-af|top-1	NW:----:--:----	_	
+52-35	-	-	ZH	_	
+52-36	elegant	elegant	AC:siu§:--:p---	_	
+52-37	kjolesæt	kjolesæt	NC:siun:--:----	_	
+52-38	til	til	T-:----:--:----	_	
+52-39	at	at	UI:----:--:----	_	
+52-40	ligne	ligne	VI:----:-a:----	_	
+52-41	et	en	PI:s-un:--:----	_	
+52-42	fugleskræmsel	kræmsel	NC:siun:--:----	_	
+52-43	,	,	ZD	_	
+52-44	får	få	VF:----:sa:----	_	
+52-45	det	det	PP:s-un:--:-3n-	_	
+52-46	til	til	T-:----:--:----	_	
+52-47	at	at	UI:----:--:----	_	
+52-48	smerte	smerte	VI:----:-a:----	_	
+52-49	i	i	T-:----:--:----	_	
+52-50	en	en	PI:s-uc:--:----	_	
+52-51	tøjmands	tøjmand	NC:sigc:--:----	_	
+52-52	øjne	øje	NC:piu#:--:----	_	
+52-53	.	.	ZP	_	
+
+#id=53
+#text=Jeg er rigtig godt tilfreds med resultatet, smiler baben, som heller aldrig kunne finde på at smide toppen et offentligt sted.
+53-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+53-2	er	være	VF:----:sa:----	_	
+53-3	rigtig	rigtig	AD:----:--:p---	_	
+53-4	godt	god	AD:----:--:p---	_	
+53-5	tilfreds	tilfreds	AD:----:--:p---	_	
+53-6	med	med	T-:----:--:----	_	
+53-7	resultatet	resultat	NC:sdun:--:----	_	
+53-8	,	,	ZD	_	
+53-9	smiler	smile	VF:----:sa:----	_	
+53-10	baben	babe	NC:sduc:--:----	_	
+53-11	,	,	ZD	_	
+53-12	som	som	US:----:--:----	_	
+53-13	heller	heller	D-:----:--:u---	_	
+53-14	aldrig	aldrig	D-:----:--:u---	_	
+53-15	kunne	kunne	VF:----:ta:----	_	
+53-16	finde	finde	VI:----:-a:----	_	
+53-17	på	på	T-:----:--:----	_	
+53-18	at	at	UI:----:--:----	_	
+53-19	smide	smide	VI:----:-a:----	_	
+53-20	toppen	top|top-2|top-2a-2b|top-3|top-4|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-F-på-toppen-af|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-1a-1b|top-1	NC:sduc:--:----	top-3	
+53-21	et	en	PI:s-un:--:----	_	
+53-22	offentligt	offentlig	AC:siun:--:p---	_	
+53-23	sted	sted	NC:siun:--:----	_	
+53-24	.	.	ZP	_	
+
+#id=54
+#text= Så i stedet for at være i toppen af jetsettet tog jeg på " mission impossible", ler Simone.
+54-1	Så	så	D-:----:--:u---	_	
+54-2	i	i	T-:----:--:----	_	
+54-3	stedet	sted	NC:sdun:--:----	_	
+54-4	for	for	T-:----:--:----	_	
+54-5	at	at	UI:----:--:----	_	
+54-6	være	være	VI:----:-a:----	_	
+54-7	i	i	T-:----:--:----	_	
+54-8	toppen	top|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-F-på-toppen-af|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-2|top-2a-2b|top-3|top-4|top-1|top-1a-1b	NC:sduc:--:----	top-2b	
+54-9	af	af	T-:----:--:----	_	
+54-10	jetsettet	jetset	NC:sdun:--:----	_	
+54-11	tog	tage	VF:----:ta:----	_	
+54-12	jeg	jeg	PP:s-nc:--:-1n-	_	
+54-13	på	på	T-:----:--:----	_	
+54-14	"	"	ZI	_	
+54-15	mission	mission	NC:siuc:--:----	_	
+54-16	impossible	impossible	NC:siuc:--:----	_	
+54-17	"	"	ZI	_	
+54-18	,	,	ZD	_	
+54-19	ler	le	VF:----:sa:----	_	
+54-20	Simone	Simone	NP:siu#:--:----	_	
+54-21	.	.	ZP	_	
+
+#id=55
+#text=Trods sit ridestøvle-antræk lignede den chokoladebrune ekstjerne ikke just en erfaren skovhugger i sin kridhvide top og med håret i henkastet lækker frisure.
+55-1	Trods	trods	T-:----:--:----	_	
+55-2	sit	sin	PO:s--n:--:-3ys	_	
+55-3	ridestøvle	ridestøvle	NW:----:--:----	_	
+55-4	-	-	ZH	_	
+55-5	antræk	antræk	NC:siun:--:----	_	
+55-6	lignede	ligne	VF:----:ta:----	_	
+55-7	den	den	PM:s-uc:--:----	_	
+55-8	chokoladebrune	chokoladebrun	AC:sdu#:--:p---	_	
+55-9	ekstjerne	ekstjerne	NC:siuc:--:----	_	
+55-10	ikke	ikke	D-:----:--:u---	_	
+55-11	just	just	D-:----:--:u---	_	
+55-12	en	en	PI:s-uc:--:----	_	
+55-13	erfaren	erfaren	AC:siuc:--:p---	_	
+55-14	skovhugger	skovhugger	NC:siuc:--:----	_	
+55-15	i	i	T-:----:--:----	_	
+55-16	sin	sin	PO:s--c:--:-3ys	_	
+55-17	kridhvide	kridhvid	AC:sdu#:--:p---	_	
+55-18	top	top|top-4|top-F-der-er-koldt-på-toppen|top-F-på-toppen-af|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-fra-top-til-tå|top-1a-1b|top-2|top-2a-2b|top-3|top-1	NC:siuc:--:----	top-3	
+55-19	og	og	CC:----:--:----	_	
+55-20	med	med	T-:----:--:----	_	
+55-21	håret	hår	NC:sdun:--:----	_	
+55-22	i	i	T-:----:--:----	_	
+55-23	henkastet	henkaste	VT:siu#:t-:----	_	
+55-24	lækker	lækker	AC:siuc:--:p---	_	
+55-25	frisure	frisure	NC:siuc:--:----	_	
+55-26	.	.	ZP	_	
+
+#id=56
+#text=Energibundtet Birthe Kjær var helt på toppen i et elegant dress, hun havde købt i en forretning med navnet Diva.
+56-1	Energibundtet	energibundt	NC:sdun:--:----	_	
+56-2	Birthe	Birthe	NP:siu#:--:----	_	
+56-3	Kjær	Kjær	NP:siu#:--:----	_	
+56-4	var	være	VF:----:ta:----	_	
+56-5	helt	hel	AD:----:--:p---	_	
+56-6	på	på	T-:----:--:----	_	
+56-7	toppen	top|top-4|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-F-på-toppen-af|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-1a-1b|top-2|top-2a-2b|top-3|top-1	NC:sduc:--:----	top-2a	
+56-8	i	i	T-:----:--:----	_	
+56-9	et	en	PI:s-un:--:----	_	
+56-10	elegant	elegant	AC:siu§:--:p---	_	
+56-11	dress	dress	NC:siun:--:----	_	
+56-12	,	,	ZD	_	
+56-13	hun	hun	PP:s-nc:--:-3n-	_	
+56-14	havde	have	VF:----:ta:----	_	
+56-15	købt	købe	VT:siu#:t-:----	_	
+56-16	i	i	T-:----:--:----	_	
+56-17	en	en	PI:s-uc:--:----	_	
+56-18	forretning	forretning	NC:siuc:--:----	_	
+56-19	med	med	T-:----:--:----	_	
+56-20	navnet	navn	NC:sdun:--:----	_	
+56-21	Diva	diva	NC:siuc:--:----	_	
+56-22	.	.	ZP	_	
+
+#id=57
+#text=var helt på toppen forleden i en dyr restaurant på Manhattan, hvor den 66-årige rullesten hoppede rundt og rystede røv i og omkring baren, mens han gavmildt gav drinks til alle.
+57-1	var	være	VF:----:ta:----	_	
+57-2	helt	hel	AD:----:--:p---	_	
+57-3	på	på	T-:----:--:----	_	
+57-4	toppen	top|top-1|top-1a-1b|top-2|top-2a-2b|top-3|top-4|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-F-på-toppen-af|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen	NC:sduc:--:----	top-2a	
+57-5	forleden	forleden	AD:----:--:p---	_	
+57-6	i	i	T-:----:--:----	_	
+57-7	en	en	PI:s-uc:--:----	_	
+57-8	dyr	dyr	AC:siuc:--:p---	_	
+57-9	restaurant	restaurant	NC:siuc:--:----	_	
+57-10	på	på	XY:----:--:----	_	
+57-11	Manhattan	Manhattan	XF:----:--:----	_	
+57-12	,	,	ZD	_	
+57-13	hvor	hvor	D-:----:--:u---	_	
+57-14	den	den	PM:s-uc:--:----	_	
+57-15	66	66	LW:----:--:----	_	
+57-16	-	-	ZH	_	
+57-17	årige	årig	AC:sdu#:--:p---	_	
+57-18	rullesten	rullesten	NC:siuc:--:----	_	
+57-19	hoppede	hoppe	VF:----:ta:----	_	
+57-20	rundt	rundt	D-:----:--:u---	_	
+57-21	og	og	CC:----:--:----	_	
+57-22	rystede	ryste	VF:----:ta:----	_	
+57-23	røv	røv	NC:siuc:--:----	_	
+57-24	i	i	T-:----:--:----	_	
+57-25	og	og	CC:----:--:----	_	
+57-26	omkring	omkring	T-:----:--:----	_	
+57-27	baren	bar	NC:sduc:--:----	_	
+57-28	,	,	ZD	_	
+57-29	mens	mens	CS:----:--:----	_	
+57-30	han	han	PP:s-nc:--:-3n-	_	
+57-31	gavmildt	gavmild	AD:----:--:p---	_	
+57-32	gav	give	VF:----:ta:----	_	
+57-33	drinks	drink	NC:piu#:--:----	_	
+57-34	til	til	T-:----:--:----	_	
+57-35	alle	al	PI:p-u#:--:----	_	
+57-36	.	.	ZP	_	
+

@@ -1,0 +1,101 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Lexicalsample | tag
+#id=1
+#text=Hej og velkommen til :) altid godt at se et nyt ansigt!
+1-1	Hej	hej	NC:siun:--:----	_	
+1-2	og	og	CC:----:--:----	_	
+1-3	velkommen	velkommen	AC:siuc:--:p---	_	
+1-4	til	til	T-:----:--:----	_	
+1-5	:	:	ZP	_	
+1-6	)	)	ZD	_	
+1-7	altid	altid	D-:----:--:u---	_	
+1-8	godt	god	AC:siun:--:p---	_	
+1-9	at	at	UI:----:--:----	_	
+1-10	se	se	VI:----:-a:----	_	
+1-11	et	en	PI:s-un:--:----	_	
+1-12	nyt	ny	AC:siun:--:p---	_	
+1-13	ansigt	ansigt	NC:siun:--:----	ansigt_3	
+1-14	!	!	ZP	_	
+
+#id=2
+#text= På det tidspunkt ser man dog ikke hans ansigt, det gør man først senere.
+2-1	På	på	T-:----:--:----	_	
+2-2	det	den	PM:s-un:--:----	_	
+2-3	tidspunkt	tidspunkt	NC:siun:--:----	_	
+2-4	ser	se	VF:----:sa:----	_	
+2-5	man	man	PI:#-uc:--:----	_	
+2-6	dog	dog	D-:----:--:u---	_	
+2-7	ikke	ikke	D-:----:--:u---	_	
+2-8	hans	hans	PO:#--#:--:-3ns	_	
+2-9	ansigt	ansigt	NC:siun:--:----	ansigt_1	
+2-10	,	,	ZD	_	
+2-11	det	det	PP:s-un:--:-3n-	_	
+2-12	gør	gø	VF:----:sa:----	_	
+2-13	man	man	PI:#-uc:--:----	_	
+2-14	først	først	D-:----:--:u---	_	
+2-15	senere	sen	AD:----:--:c---	_	
+2-16	.	.	ZP	_	
+
+#id=3
+#text= Jeg regnede med at "omote" skulle bruges som ansigt i denne sætning.
+3-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+3-2	regnede	regne	VF:----:ta:----	_	
+3-3	med	med	T-:----:--:----	_	
+3-4	at	at	UI:----:--:----	_	
+3-5	"	"	ZI	_	
+3-6	omote	omote	NC:siuc:--:----	_	
+3-7	"	"	ZI	_	
+3-8	skulle	skulle	VF:----:ta:----	_	
+3-9	bruges	bruge	VI:----:-p:----	_	
+3-10	som	som	US:----:--:----	_	
+3-11	ansigt	ansigt	NC:siun:--:----	ansigt_3a	
+3-12	i	i	T-:----:--:----	_	
+3-13	denne	denne	PM:s-uc:--:----	_	
+3-14	sætning	sætning	NC:siuc:--:----	_	
+3-15	.	.	ZP	_	
+
+#id=4
+#text= I mellemtiden står politiet på bar bund overfor en morder der tilsyneladende kan dræbe en person bare ved at kender deres navn og ansigt, og den verdenskendte detektiv, som ingen nogensinde har set, og som kun kendes under navnet:
+4-1	I	i	T-:----:--:----	_	
+4-2	mellemtiden	mellemtid	NC:sduc:--:----	_	
+4-3	står	stå	VF:----:sa:----	_	
+4-4	politiet	politi	NC:sdun:--:----	_	
+4-5	på	på	T-:----:--:----	_	
+4-6	bar	bar	AC:siuc:--:p---	_	
+4-7	bund	bund	NC:siuc:--:----	_	
+4-8	overfor	overfor	T-:----:--:----	_	
+4-9	en	en	PI:s-uc:--:----	_	
+4-10	morder	morder	NC:siuc:--:----	_	
+4-11	der	der	US:----:--:----	_	
+4-12	tilsyneladende	tilsyneladende	AD:----:--:p---	_	
+4-13	kan	kunne	VF:----:sa:----	_	
+4-14	dræbe	dræbe	VI:----:-a:----	_	
+4-15	en	en	PI:s-uc:--:----	_	
+4-16	person	person	NC:siuc:--:----	_	
+4-17	bare	bare	D-:----:--:u---	_	
+4-18	ved	ved	T-:----:--:----	_	
+4-19	at	at	UI:----:--:----	_	
+4-20	kender	kende	VF:----:sa:----	_	
+4-21	deres	deres	PO:#--#:--:-3np	_	
+4-22	navn	navn	NC:siun:--:----	_	
+4-23	og	og	CC:----:--:----	_	
+4-24	ansigt	ansigt	NC:siun:--:----	ansigt_1	
+4-25	,	,	ZD	_	
+4-26	og	og	CC:----:--:----	_	
+4-27	den	den	PM:s-uc:--:----	_	
+4-28	verdenskendte	verdenskendt	AC:sdu#:--:p---	_	
+4-29	detektiv	detektiv	NC:siuc:--:----	_	
+4-30	,	,	ZD	_	
+4-31	som	som	US:----:--:----	_	
+4-32	ingen	ingen	PI:s-uc:--:----	_	
+4-33	nogensinde	nogensinde	D-:----:--:u---	_	
+4-34	har	have	VF:----:sa:----	_	
+4-35	set	se	VT:siu#:t-:----	_	
+4-36	,	,	ZD	_	
+4-37	og	og	CC:----:--:----	_	
+4-38	som	som	US:----:--:----	_	
+4-39	kun	kun	D-:----:--:u---	_	
+4-40	kendes	kende	VF:----:sp:----	_	
+4-41	under	under	T-:----:--:----	_	
+4-42	navnet	navn	NC:sdun:--:----	_	
+4-43	:	:	ZP	_	
+

@@ -1,0 +1,869 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Lexicalsample | Tag
+#id=1
+#text=Den nu 34-årige multikunstner debuterede ved DM i stand-up i 1993, hvor han fik en 2.-plads.
+1-1	Den	den	PP:s-uc:--:-3n-	_	
+1-2	nu	nu	D-:----:--:u---	_	
+1-3	34	34	LW:----:--:----	_	
+1-4	-	-	ZH	_	
+1-5	årige	årig	AC:sdu#:--:p---	_	
+1-6	multikunstner	multikunstner	NC:siuc:--:----	_	
+1-7	debuterede	debutere	VF:----:ta:----	_	
+1-8	ved	ved	T-:----:--:----	_	
+1-9	DM	DM	NP:siu#:--:----	_	
+1-10	i	i	T-:----:--:----	_	
+1-11	stand	stand	NW:----:--:----	_	
+1-12	-	-	ZH	_	
+1-13	up	up	XF:----:--:----	_	
+1-14	i	i	T-:----:--:----	_	
+1-15	1993	1993	LC:--u-:--:----	_	
+1-16	,	,	ZD	_	
+1-17	hvor	hvor	D-:----:--:u---	_	
+1-18	han	han	PP:s-nc:--:-3n-	_	
+1-19	fik	få	VF:----:ta:----	_	
+1-20	en	en	PI:s-uc:--:----	_	
+1-21	2	2	LO:--u#:--:----	_	
+1-22	.	.	ZP	_	
+1-23	-	-	ZH	_	
+1-24	plads	plads|plads-F-være-på-sin-plads|plads-F-vige-pladsen|plads-F-tage-plads|plads-F-sætte-tingene-på-plads|plads-F-på-pladserne|plads-F-på-plads|plads-F-(på)-plads|plads-F-løbe/rende-af-pladsen|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-en-plads-i-solen|plads-F-brikkerne-falder-på-plads|plads-F-banke/sætte-på-plads|plads-7|plads-6|plads-5|plads-4-4a|plads-3-3a|plads-2b-2c|plads-2-2a|plads-1a|plads-1	NC:siuc:--:----	plads-4a	
+1-25	.	.	ZP	_	
+
+#id=2
+#text=- Selvfølgelig skal det hænge sammen med baglandet, at jeg er væk i weekenderne, men min mand er bidt af en gal fisker, så vi giver plads til hver vores.
+2-1	-	-	NC:piu#:--:----	_	
+2-2	Selvfølgelig	selvfølgelig	D-:----:--:u---	_	
+2-3	skal	skulle	VF:----:sa:----	_	
+2-4	det	det	PP:s-un:--:-3n-	_	
+2-5	hænge	hænge	VI:----:-a:----	_	
+2-6	sammen	sammen	D-:----:--:u---	_	
+2-7	med	med	T-:----:--:----	_	
+2-8	baglandet	bagland	NC:sdun:--:----	_	
+2-9	,	,	ZD	_	
+2-10	at	at	---	_	
+2-11	jeg	jeg	PP:s-nc:--:-1n-	_	
+2-12	er	være	VF:----:sa:----	_	
+2-13	væk	væk	D-:----:--:u---	_	
+2-14	i	i	T-:----:--:----	_	
+2-15	weekenderne	weekend	NC:pdu#:--:----	_	
+2-16	,	,	ZD	_	
+2-17	men	men	CC:----:--:----	_	
+2-18	min	min	PO:s--c:--:-1ns	_	
+2-19	mand	mand	NC:siuc:--:----	_	
+2-20	er	være	VF:----:sa:----	_	
+2-21	bidt	bide	VT:siu#:t-:----	_	
+2-22	af	af	T-:----:--:----	_	
+2-23	en	en	PI:s-uc:--:----	_	
+2-24	gal	gal	AC:siuc:--:p---	_	
+2-25	fisker	fisker	NC:siuc:--:----	_	
+2-26	,	,	ZD	_	
+2-27	så	så	CS:----:--:----	_	
+2-28	vi	vi	PP:p-nc:--:-1n-	_	
+2-29	giver	give	VF:----:sa:----	_	
+2-30	plads	plads|plads-F-være-på-sin-plads|plads-F-vige-pladsen|plads-1|plads-2-2a|plads-3-3a|plads-2b-2c|plads-1a|plads-F-en-plads-i-solen|plads-F-brikkerne-falder-på-plads|plads-F-banke/sætte-på-plads|plads-7|plads-6|plads-5|plads-4-4a|plads-F-tage-plads|plads-F-sætte-tingene-på-plads|plads-F-på-pladserne|plads-F-på-plads|plads-F-(på)-plads|plads-F-løbe/rende-af-pladsen|..)-at-give-(væk)-af)	NC:siuc:--:----	plads-1a	
+2-31	til	til	T-:----:--:----	_	
+2-32	hver	hver	PI:s-uc:--:----	_	
+2-33	vores	vores	XY:----:--:----	_	
+2-34	.	.	ZP	_	
+
+#id=3
+#text= Alle voksenting var på plads, men en dag fik jeg virkelig lyst til, at der skulle ske noget nyt, erkender Maria.
+3-1	Alle	al	PI:p-u#:--:----	_	
+3-2	voksenting	voksenting	NC:piu#:--:----	_	
+3-3	var	være	VF:----:ta:----	_	
+3-4	på	på	T-:----:--:----	_	
+3-5	plads	plads|plads-1a|plads-1|plads-4-4a|plads-7|plads-6|plads-5|plads-3-3a|plads-2b-2c|plads-2-2a|plads-F-banke/sætte-på-plads|plads-F-løbe/rende-af-pladsen|plads-F-være-på-sin-plads|plads-F-vige-pladsen|plads-F-tage-plads|plads-F-sætte-tingene-på-plads|plads-F-på-pladserne|plads-F-på-plads|plads-F-(på)-plads|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-en-plads-i-solen|plads-F-brikkerne-falder-på-plads	NC:siuc:--:----	plads-F-på-plads	
+3-6	,	,	ZD	_	
+3-7	men	men	CC:----:--:----	_	
+3-8	en	en	PI:s-uc:--:----	_	
+3-9	dag	dag	NC:siuc:--:----	_	
+3-10	fik	få	VF:----:ta:----	_	
+3-11	jeg	jeg	PP:s-nc:--:-1n-	_	
+3-12	virkelig	virkelig	D-:----:--:u---	_	
+3-13	lyst	lyst	NC:siuc:--:----	_	
+3-14	til	til	T-:----:--:----	_	
+3-15	,	,	ZD	_	
+3-16	at	at	CS:----:--:----	_	
+3-17	der	der	US:----:--:----	_	
+3-18	skulle	skulle	VF:----:ta:----	_	
+3-19	ske	ske	VI:----:-a:----	_	
+3-20	noget	nogen	PI:s-un:--:----	_	
+3-21	nyt	ny	AC:siun:--:p---	_	
+3-22	,	,	ZD	_	
+3-23	erkender	erkende	VF:----:sa:----	_	
+3-24	Maria	Maria	-:----	_	
+3-25	.	.	ZP	_	
+
+#id=4
+#text=Allerede torsdag tog Rigmor  så hul på det, der skal bane hendes vej tilbage til en plads i solen med lejlighed tæt på de danske jetsettere.
+4-1	Allerede	allerede	D-:----:--:u---	_	
+4-2	torsdag	torsdag	NC:siuc:--:----	_	
+4-3	tog	tage	VF:----:ta:----	_	
+4-4	Rigmor	Rigmor	NP:siu#:--:----	_	
+4-5	så	så	D-:----:--:u---	_	
+4-6	hul	hul	AC:siuc:--:p---	_	
+4-7	på	på	T-:----:--:----	_	
+4-8	det	det	PP:s-un:--:-3n-	_	
+4-9	,	,	ZD	_	
+4-10	der	der	US:----:--:----	_	
+4-11	skal	skulle	VF:----:sa:----	_	
+4-12	bane	bane	VI:----:-a:----	_	
+4-13	hendes	hendes	PO:#--#:--:-3ns	_	
+4-14	vej	vej	NC:siuc:--:----	_	
+4-15	tilbage	tilbage	D-:----:--:u---	_	
+4-16	til	til	T-:----:--:----	_	
+4-17	en	en	PI:s-uc:--:----	_	
+4-18	plads	plads|plads-1|plads-3-3a|plads-4-4a|plads-2b-2c|plads-2-2a|plads-1a|plads-7|plads-F-på-pladserne|plads-F-være-på-sin-plads|plads-F-vige-pladsen|plads-F-tage-plads|plads-F-sætte-tingene-på-plads|plads-F-på-plads|plads-F-(på)-plads|plads-F-løbe/rende-af-pladsen|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-en-plads-i-solen|plads-F-brikkerne-falder-på-plads|plads-F-banke/sætte-på-plads|plads-6|plads-5	NC:siuc:--:----	plads-F-en-plads-i-solen	
+4-19	i	i	T-:----:--:----	_	
+4-20	solen	sol	NC:sduc:--:----	_	
+4-21	med	med	T-:----:--:----	_	
+4-22	lejlighed	lejlighed	NC:siuc:--:----	_	
+4-23	tæt	tæt	AD:----:--:p---	_	
+4-24	på	på	T-:----:--:----	_	
+4-25	de	den	PM:p-u#:--:----	_	
+4-26	danske	dansk	AC:p#u#:--:p---	_	
+4-27	jetsettere	jetsetter	NC:piu#:--:----	_	
+4-28	.	.	ZP	_	
+
+#id=5
+#text= For så er der plads til Jim Lyngvilds mange ting, som han har samlet igennem årene.
+5-1	For	for	CC:----:--:----	_	
+5-2	så	så	D-:----:--:u---	_	
+5-3	er	være	VF:----:sa:----	_	
+5-4	der	der	US:----:--:----	_	
+5-5	plads	plads|plads-2b-2c|plads-6|plads-F-en-plads-i-solen|plads-F-på-plads|plads-F-sætte-tingene-på-plads|plads-F-på-pladserne|plads-F-(på)-plads|plads-F-løbe/rende-af-pladsen|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-brikkerne-falder-på-plads|plads-F-banke/sætte-på-plads|plads-7|plads-5|plads-4-4a|plads-3-3a|plads-2-2a|plads-1a|plads-1|plads-F-vige-pladsen|plads-F-være-på-sin-plads|plads-F-tage-plads	NC:siuc:--:----	plads-1	
+5-6	til	til	T-:----:--:----	_	
+5-7	Jim	Jim	NP:siu#:--:----	_	
+5-8	Lyngvilds	Lyngvilds	NP:sig#:--:----	_	
+5-9	mange	mangen	AC:sdu#:--:p---	_	
+5-10	ting	ting	NC:siun:--:----	_	
+5-11	,	,	ZD	_	
+5-12	som	som	US:----:--:----	_	
+5-13	han	han	PP:s-nc:--:-3n-	_	
+5-14	har	have	VF:----:sa:----	_	
+5-15	samlet	samle	VT:siu#:t-:----	_	
+5-16	igennem	igennem	T-:----:--:----	_	
+5-17	årene	år	NC:pdu#:--:----	_	
+5-18	.	.	ZP	_	
+
+#id=6
+#text=For at gøre plads til hele flokken har forældrene flyttet deres soveværelse ud i en campingvogn.
+6-1	For	for	T-:----:--:----	_	
+6-2	at	at	UI:----:--:----	_	
+6-3	gøre	gøre	VI:----:-a:----	_	
+6-4	plads	plads|plads-1|plads-2-2a|plads-5|plads-F-banke/sætte-på-plads|plads-7|plads-6|plads-4-4a|plads-3-3a|plads-2b-2c|plads-1a|plads-F-brikkerne-falder-på-plads|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-(på)-plads|plads-F-tage-plads|plads-F-være-på-sin-plads|plads-F-vige-pladsen|plads-F-sætte-tingene-på-plads|plads-F-på-pladserne|plads-F-på-plads|plads-F-løbe/rende-af-pladsen|plads-F-en-plads-i-solen	NC:siuc:--:----	plads-1	
+6-5	til	til	T-:----:--:----	_	
+6-6	hele	hel	AC:sdu#:--:p---	_	
+6-7	flokken	flok	NC:sduc:--:----	_	
+6-8	har	have	VF:----:sa:----	_	
+6-9	forældrene	forælder	NC:pdu#:--:----	_	
+6-10	flyttet	flytte	VT:siu#:t-:----	_	
+6-11	deres	deres	PO:#--#:--:-3np	_	
+6-12	soveværelse	soveværelse	NC:siun:--:----	_	
+6-13	ud	ud	D-:----:--:u---	_	
+6-14	i	i	T-:----:--:----	_	
+6-15	en	en	PI:s-uc:--:----	_	
+6-16	campingvogn	campingvogn	NC:siuc:--:----	_	
+6-17	.	.	ZP	_	
+
+#id=7
+#text=De har sammen med hustruen Rebecca Rigg en helt speciel plads i Simon Bakers hjerte.
+7-1	De	de	PP:p-n#:--:-3n-	_	
+7-2	har	have	VF:----:sa:----	_	
+7-3	sammen	sammen	D-:----:--:u---	_	
+7-4	med	med	T-:----:--:----	_	
+7-5	hustruen	hustru	NC:sduc:--:----	_	
+7-6	Rebecca	Rebecca	NP:siu#:--:----	_	
+7-7	Rigg	Rigg	NP:siu#:--:----	_	
+7-8	en	en	PI:s-uc:--:----	_	
+7-9	helt	hel	AD:----:--:p---	_	
+7-10	speciel	speciel	AC:siuc:--:p---	_	
+7-11	plads	plads|plads-F-banke/sætte-på-plads|plads-F-løbe/rende-af-pladsen|ne-på-plads|plads-F-være-på-sin-plads|plads-F-vige-pladsen|plads-F-tage-plads|plads-F-på-pladserne|plads-F-på-plads|plads-F-(på)-plads|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-en-plads-i-solen|plads-F-brikkerne-falder-på-plads|plads-7|plads-1a|plads-3-3a|plads-2b-2c|plads-2-2a|plads-1|plads-4-4a|plads-6|plads-5	NC:siuc:--:----	plads-2c	
+7-12	i	i	T-:----:--:----	_	
+7-13	Simon	Simon	NP:siu#:--:----	_	
+7-14	Bakers	Amalie	NP:sig#:--:----	_	
+7-15	hjerte	hjerte	NC:siun:--:----	_	
+7-16	.	.	ZP	_	
+
+#id=8
+#text=Da de tager plads i sofaen i Michellas lejlighed i Odense, lægger han armen om hende og trækker hende ind til sig.
+8-1	Da	da	CS:----:--:----	_	
+8-2	de	de	PP:p-n#:--:-3n-	_	
+8-3	tager	tage	VF:----:sa:----	_	
+8-4	plads	plads|plads-2b-2c|plads-1|plads-2-2a|plads-1a|plads-3-3a|plads-7|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-på-pladserne|plads-F-tage-plads|plads-F-være-på-sin-plads|plads-F-vige-pladsen|plads-F-sætte-tingene-på-plads|plads-F-på-plads|plads-F-(på)-plads|plads-F-løbe/rende-af-pladsen|plads-F-en-plads-i-solen|plads-F-brikkerne-falder-på-plads|plads-F-banke/sætte-på-plads|plads-6|plads-5|plads-4-4a	NC:siuc:--:----	plads-F-tage-plads	
+8-5	i	i	T-:----:--:----	_	
+8-6	sofaen	sofa	NC:sduc:--:----	_	
+8-7	i	i	T-:----:--:----	_	
+8-8	Michellas	Michellas	NP:sig#:--:----	_	
+8-9	lejlighed	lejlighed	NC:siuc:--:----	_	
+8-10	i	i	T-:----:--:----	_	
+8-11	Odense	Odense	NP:siu#:--:----	_	
+8-12	,	,	ZD	_	
+8-13	lægger	lægge	VF:----:sa:----	_	
+8-14	han	han	PP:s-nc:--:-3n-	_	
+8-15	armen	arm	NC:sduc:--:----	_	
+8-16	om	om	T-:----:--:----	_	
+8-17	hende	hun	PP:s-uc:--:-3n-	_	
+8-18	og	og	CC:----:--:----	_	
+8-19	trækker	trække	VF:----:sa:----	_	
+8-20	hende	hun	PP:s-uc:--:-3n-	_	
+8-21	ind	ind	D-:----:--:u---	_	
+8-22	til	til	T-:----:--:----	_	
+8-23	sig	sig	PP:#-u#:--:-3y-	_	
+8-24	.	.	ZP	_	
+
+#id=9
+#text=Skulle ens øvrige sanser også trænge til stimulation, er det ingen sag at lade sig adsprede af et show i skibets teater eller tage plads ved manegekanten i det lille " cirkus", hvor artister svinger sig i trapezerne, mens man indtager sin menu.
+9-1	Skulle	skulle	VF:----:ta:----	_	
+9-2	ens	ens	AD:----:--:p---	_	
+9-3	øvrige	øvrig	AC:p#u#:--:p---	_	
+9-4	sanser	sans	NC:piu#:--:----	_	
+9-5	også	også	D-:----:--:u---	_	
+9-6	trænge	trænge	VI:----:-a:----	_	
+9-7	til	til	T-:----:--:----	_	
+9-8	stimulation	stimulation	NC:siuc:--:----	_	
+9-9	,	,	ZD	_	
+9-10	er	være	VF:----:sa:----	_	
+9-11	det	det	PP:s-un:--:-3n-	_	
+9-12	ingen	ingen	PI:s-uc:--:----	_	
+9-13	sag	sag	NC:siuc:--:----	_	
+9-14	at	at	UI:----:--:----	_	
+9-15	lade	lade	VI:----:-a:----	_	
+9-16	sig	sig	PP:#-u#:--:-3y-	_	
+9-17	adsprede	adsprede	VI:----:-a:----	_	
+9-18	af	af	T-:----:--:----	_	
+9-19	et	en	PI:s-un:--:----	_	
+9-20	show	show	NC:siun:--:----	_	
+9-21	i	i	T-:----:--:----	_	
+9-22	skibets	skib	NC:sdgn:--:----	_	
+9-23	teater	teater	NC:siun:--:----	_	
+9-24	eller	eller	CC:----:--:----	_	
+9-25	tage	tage	VI:----:-a:----	_	
+9-26	plads	plads|plads-1a|plads-1|plads-2b-2c|plads-4-4a|plads-6|plads-F-banke/sætte-på-plads|plads-F-en-plads-i-solen|plads-F-løbe/rende-af-pladsen|plads-F-på-plads|plads-F-vige-pladsen|plads-F-være-på-sin-plads|plads-F-tage-plads|plads-F-sætte-tingene-på-plads|plads-F-på-pladserne|plads-F-(på)-plads|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-brikkerne-falder-på-plads|plads-7|plads-5|plads-3-3a|plads-2-2a	NC:siuc:--:----	plads-F-tage-plads	
+9-27	ved	ved	T-:----:--:----	_	
+9-28	manegekanten	manegekant	NC:sduc:--:----	_	
+9-29	i	i	T-:----:--:----	_	
+9-30	det	den	PM:s-un:--:----	_	
+9-31	lille	lille	AC:s§u§:--:p---	_	
+9-32	"	"	ZI	_	
+9-33	cirkus	cirkus	NC:siuc:--:----	_	
+9-34	"	"	ZI	_	
+9-35	,	,	ZD	_	
+9-36	hvor	hvor	D-:----:--:u---	_	
+9-37	artister	artist	NC:piu#:--:----	_	
+9-38	svinger	svinge	VF:----:sa:----	_	
+9-39	sig	sig	PP:#-u#:--:-3y-	_	
+9-40	i	i	T-:----:--:----	_	
+9-41	trapezerne	trapez	---	_	
+9-42	,	,	ZD	_	
+9-43	mens	mens	CS:----:--:----	_	
+9-44	man	man	PI:#-uc:--:----	_	
+9-45	indtager	indtage	VF:----:sa:----	_	
+9-46	sin	sin	PO:s--c:--:-3ys	_	
+9-47	menu	menu	NC:siuc:--:----	_	
+9-48	.	.	ZP	_	
+
+#id=10
+#text=Så er der også plads nok med 378 kvadratmeter bolig og over 200 kvadratmeter kælder.
+10-1	Så	så	D-:----:--:u---	_	
+10-2	er	være	VF:----:sa:----	_	
+10-3	der	der	US:----:--:----	_	
+10-4	også	også	D-:----:--:u---	_	
+10-5	plads	plads|plads-F-tage-plads|plads-F-være-på-sin-plads|plads-F-vige-pladsen|plads-F-sætte-tingene-på-plads|plads-2-2a|plads-3-3a|plads-5|plads-7|plads-F-brikkerne-falder-på-plads|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-en-plads-i-solen|plads-F-banke/sætte-på-plads|plads-6|plads-4-4a|plads-2b-2c|plads-1a|plads-1|plads-F-(på)-plads|plads-F-på-pladserne|plads-F-på-plads|plads-F-løbe/rende-af-pladsen	NC:siuc:--:----	plads-1	
+10-6	nok	nok	D-:----:--:u---	_	
+10-7	med	med	T-:----:--:----	_	
+10-8	378	378	LC:--u-:--:----	_	
+10-9	kvadratmeter	kvadratmeter	NC:piu#:--:----	_	
+10-10	bolig	bolig	NC:siuc:--:----	_	
+10-11	og	og	CC:----:--:----	_	
+10-12	over	over	T-:----:--:----	_	
+10-13	200	200	LC:--u-:--:----	_	
+10-14	kvadratmeter	kvadratmeter	NC:piu#:--:----	_	
+10-15	kælder	kælder	NC:siuc:--:----	_	
+10-16	.	.	ZP	_	
+
+#id=11
+#text=Ved den lejlighed samler folk sig på byens åbne pladser for at markere dagen sammen med krigsveteranerne.
+11-1	Ved	ved	T-:----:--:----	_	
+11-2	den	den	PM:s-uc:--:----	_	
+11-3	lejlighed	lejlighed	NC:siuc:--:----	_	
+11-4	samler	samle	VF:----:sa:----	_	
+11-5	folk	folk	NC:siun:--:----	_	
+11-6	sig	sig	PP:#-u#:--:-3y-	_	
+11-7	på	på	T-:----:--:----	_	
+11-8	byens	by	NC:sdgc:--:----	_	
+11-9	åbne	åben	AC:p#u#:--:p---	_	
+11-10	pladser	plads|plads-F-være-på-sin-plads|plads-4-4a|plads-6|plads-F-banke/sætte-på-plads|plads-F-brikkerne-falder-på-plads|plads-7|plads-5|plads-3-3a|plads-1a|plads-2-2a|plads-1|plads-2b-2c|plads-F-en-plads-i-solen|plads-F-løbe/rende-af-pladsen|plads-F-på-plads|plads-F-sætte-tingene-på-plads|plads-F-vige-pladsen|plads-F-tage-plads|plads-F-på-pladserne|plads-F-(på)-plads|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)	NC:piu#:--:----	plads-3a	
+11-11	for	for	T-:----:--:----	_	
+11-12	at	at	UI:----:--:----	_	
+11-13	markere	markere	VI:----:-a:----	_	
+11-14	dagen	dag	NC:sduc:--:----	_	
+11-15	sammen	sammen	D-:----:--:u---	_	
+11-16	med	med	T-:----:--:----	_	
+11-17	krigsveteranerne	krigsveteran	NC:pdu#:--:----	_	
+11-18	.	.	ZP	_	
+
+#id=12
+#text= Det kunne man da godt interessere sig lidt for Den lille, lilla prins gik hurtigt på scenen til stor overraskelse for filmparret Charlotte Fich og Per Fly, som måtte skynde sig ind at  finde en plads En funky fætter kræver et funky publikum, og selv i islænder og gummisko var Pernille Højmark og Jesper Rytkov mere funky end de fleste Lillebror Jimmy Bøjgaard - flankeret af søstrene Liff og Bettina, var ude for at fejre storesøster Bettinas fødselsdag.
+12-1	Det	det	PP:s-un:--:-3n-	_	
+12-2	kunne	kunne	VF:----:ta:----	_	
+12-3	man	man	PI:#-uc:--:----	_	
+12-4	da	da	D-:----:--:u---	_	
+12-5	godt	god	AD:----:--:p---	_	
+12-6	interessere	interessere	VI:----:-a:----	_	
+12-7	sig	sig	PP:#-u#:--:-3y-	_	
+12-8	lidt	lidt	AD:----:--:p---	_	
+12-9	for	for	T-:----:--:----	_	
+12-10	Den	den	PM:s-uc:--:----	_	
+12-11	lille	lille	AC:s§u§:--:p---	_	
+12-12	,	,	ZD	_	
+12-13	lilla	lilla	AC:§§u§:--:p---	_	
+12-14	prins	prins	NC:siuc:--:----	_	
+12-15	gik	gå	VF:----:ta:----	_	
+12-16	hurtigt	hurtig	AD:----:--:p---	_	
+12-17	på	på	T-:----:--:----	_	
+12-18	scenen	scene	NC:sduc:--:----	_	
+12-19	til	til	T-:----:--:----	_	
+12-20	stor	stor	AC:siuc:--:p---	_	
+12-21	overraskelse	overraskelse	NC:siuc:--:----	_	
+12-22	for	for	T-:----:--:----	_	
+12-23	filmparret	filmpar	NC:sdun:--:----	_	
+12-24	Charlotte	Charlotte	NP:siu#:--:----	_	
+12-25	Fich	Fich	NP:siu#:--:----	_	
+12-26	og	og	CC:----:--:----	_	
+12-27	Per	Per	NP:siu#:--:----	_	
+12-28	Fly	Fly	NP:siu#:--:----	_	
+12-29	,	,	ZD	_	
+12-30	som	som	US:----:--:----	_	
+12-31	måtte	måtte	VF:----:ta:----	_	
+12-32	skynde	skynde	VI:----:-a:----	_	
+12-33	sig	sig	PP:#-u#:--:-3y-	_	
+12-34	ind	ind	D-:----:--:u---	_	
+12-35	at	at	UI:----:--:----	_	
+12-36	finde	finde	VI:----:-a:----	_	
+12-37	en	en	PI:s-uc:--:----	_	
+12-38	plads	plads|plads-7|plads-F-brikkerne-falder-på-plads|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-(på)-plads|plads-F-på-plads|plads-F-på-pladserne|plads-F-tage-plads|plads-F-være-på-sin-plads|plads-F-vige-pladsen|plads-F-sætte-tingene-på-plads|plads-F-løbe/rende-af-pladsen|plads-F-en-plads-i-solen|plads-F-banke/sætte-på-plads|plads-6|plads-1|plads-2-2a|plads-3-3a|plads-5|plads-4-4a|plads-2b-2c|plads-1a	NC:siuc:--:----	plads-2a	
+12-39	En	en	PI:s-uc:--:----	_	
+12-40	funky	funky	AD:----:--:p---	_	
+12-41	fætter	fætter	NC:siuc:--:----	_	
+12-42	kræver	kræve	VF:----:sa:----	_	
+12-43	et	en	PI:s-un:--:----	_	
+12-44	funky	funky	AD:----:--:p---	_	
+12-45	publikum	publikum	NC:siun:--:----	_	
+12-46	,	,	ZD	_	
+12-47	og	og	CC:----:--:----	_	
+12-48	selv	selv	D-:----:--:u---	_	
+12-49	i	i	T-:----:--:----	_	
+12-50	islænder	islænder	NC:siuc:--:----	_	
+12-51	og	og	CC:----:--:----	_	
+12-52	gummisko	gummisko	NC:piu#:--:----	_	
+12-53	var	være	VF:----:ta:----	_	
+12-54	Pernille	Pernille	NP:siu#:--:----	_	
+12-55	Højmark	Højmark	NP:siu#:--:----	_	
+12-56	og	og	CC:----:--:----	_	
+12-57	Jesper	Jesper	NP:siu#:--:----	_	
+12-58	Rytkov	Rytkov	NP:siu#:--:----	_	
+12-59	mere	megen	AD:----:--:c---	_	
+12-60	funky	funky	AD:----:--:p---	_	
+12-61	end	end	CS:----:--:----	_	
+12-62	de	de	NP:siu#:--:----	_	
+12-63	fleste	fleste	XY:----:--:----	_	
+12-64	Lillebror	lillebror	NC:siuc:--:----	_	
+12-65	Jimmy	Jimmy	NP:siu#:--:----	_	
+12-66	Bøjgaard	Bøjgaard	NP:siu#:--:----	_	
+12-67	-	-	ZH	_	
+12-68	flankeret	flankere	VT:siu#:t-:----	_	
+12-69	af	af	T-:----:--:----	_	
+12-70	søstrene	søster	NC:pdu#:--:----	_	
+12-71	Liff	Liff	NP:siu#:--:----	_	
+12-72	og	og	CC:----:--:----	_	
+12-73	Bettina	Bettina	NP:siu#:--:----	_	
+12-74	,	,	ZD	_	
+12-75	var	være	VF:----:ta:----	_	
+12-76	ude	ude	D-:----:--:u---	_	
+12-77	for	for	T-:----:--:----	_	
+12-78	at	at	UI:----:--:----	_	
+12-79	fejre	fejre	VI:----:-a:----	_	
+12-80	storesøster	storesøster	NC:siuc:--:----	_	
+12-81	Bettinas	Bettina	NP:sig#:--:----	_	
+12-82	fødselsdag	fødselsdag	NC:siuc:--:----	_	
+12-83	.	.	ZP	_	
+
+#id=13
+#text=- Vi har det herligt sammen, fordi vi giver hinanden plads og frihed, afslørede Anne.
+13-1	-	-	NC:piu#:--:----	_	
+13-2	Vi	VI	LC:--u-:--:----	_	
+13-3	har	have	VF:----:sa:----	_	
+13-4	det	det	PP:s-un:--:-3n-	_	
+13-5	herligt	herlig	AD:----:--:p---	_	
+13-6	sammen	sammen	D-:----:--:u---	_	
+13-7	,	,	ZD	_	
+13-8	fordi	fordi	CS:----:--:----	_	
+13-9	vi	vi	PP:p-nc:--:-1n-	_	
+13-10	giver	give	VF:----:sa:----	_	
+13-11	hinanden	hinanden	XY:----:--:----	_	
+13-12	plads	plads|plads-F-en-plads-i-solen|plads-F-løbe/rende-af-pladsen|plads-F-på-plads|plads-F-sætte-tingene-på-plads|plads-F-tage-plads|plads-F-vige-pladsen|plads-F-være-på-sin-plads|plads-F-på-pladserne|plads-F-(på)-plads|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-1a|2-2a|plads-1|plads-2b-2c|plads-4-4a|plads-6|plads-F-banke/sætte-på-plads|plads-F-brikkerne-falder-på-plads|plads-7|plads-5|plads-3-3a	NC:siuc:--:----	plads-1a	
+13-13	og	og	CC:----:--:----	_	
+13-14	frihed	frihed	NC:siuc:--:----	_	
+13-15	,	,	ZD	_	
+13-16	afslørede	afsløre	VF:----:ta:----	_	
+13-17	Anne	Anne	NP:siu#:--:----	_	
+13-18	.	.	ZP	_	
+
+#id=14
+#text=Det ville også hjælpe, hvis du lagde de her Blågårds Plads-og Vollsmose-attituder væk.
+14-1	Det	det	PP:s-un:--:-3n-	_	
+14-2	ville	ville	VF:----:ta:----	_	
+14-3	også	også	D-:----:--:u---	_	
+14-4	hjælpe	hjælpe	VI:----:-a:----	_	
+14-5	,	,	ZD	_	
+14-6	hvis	hvis	CS:----:--:----	_	
+14-7	du	du	PP:s-nc:--:-2n-	_	
+14-8	lagde	lægge	VF:----:ta:----	_	
+14-9	de	de	PP:p-n#:--:-3n-	_	
+14-10	her	her	D-:----:--:u---	_	
+14-11	Blågårds	Blågårds	NP:sig#:--:----	_	
+14-12	Plads	plads|plads-1|plads-2-2a|plads-3-3a|plads-4-4a|plads-5|plads-7|plads-F-brikkerne-falder-på-plads|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-løbe/rende-af-pladsen|plads-F-(på)-plads|plads-F-på-pladserne|plads-F-tage-plads|plads-F-være-på-sin-plads|plads-F-vige-pladsen|plads-F-sætte-tingene-på-plads|plads-F-på-plads|plads-F-en-plads-i-solen|plads-F-banke/sætte-på-plads|plads-6|plads-2b-2c|plads-1a	NW:----:--:----	plads-3a	
+14-13	-	-	ZH	_	
+14-14	og	og	CC:----:--:----	_	
+14-15	Vollsmose	Vollsmose	NP:siu#:--:----	_	
+14-16	-	-	ZH	_	
+14-17	attituder	attitude	NC:piu#:--:----	_	
+14-18	væk	væk	D-:----:--:u---	_	
+14-19	.	.	ZP	_	
+
+#id=15
+#text=- gravid TVAvært, får masser af plads til sin og kæresten Michael Christiansens baby til august, idet parret har købt en 280 kvadratmeter stor lejlighed på Østerbro til 6,5 millioner kr.
+15-1	-	-	NC:piu#:--:----	_	
+15-2	gravid	gravid	AC:siuc:--:p---	_	
+15-3	TVAvært	TVAvært	NP:siu#:--:----	_	
+15-4	,	,	ZD	_	
+15-5	får	få	VF:----:sa:----	_	
+15-6	masser	masse	NC:piu#:--:----	_	
+15-7	af	af	T-:----:--:----	_	
+15-8	plads	plads|plads-F-en-plads-i-solen|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-løbe/rende-af-pladsen|plads-F-på-plads|plads-F-på-pladserne|plads-F-sætte-tingene-på-plads|plads-F-vige-pladsen|plads-F-være-på-sin-plads|plads-F-tage-plads|plads-F-(på)-plads|plads-F-brikkerne-falder-på-plads|plads-1a|plads-2-2a|plads-1|plads-2b-2c|plads-4-4a|plads-6|plads-7|plads-F-banke/sætte-på-plads|plads-5|plads-3-3a	NC:siuc:--:----	plads-1	
+15-9	til	til	T-:----:--:----	_	
+15-10	sin	sin	PO:s--c:--:-3ys	_	
+15-11	og	og	D-:----:--:u---	_	
+15-12	kæresten	kæreste	NC:sduc:--:----	_	
+15-13	Michael	Michael	NP:siu#:--:----	_	
+15-14	Christiansens	Christiansen	NP:sig#:--:----	_	
+15-15	baby	baby	NC:siuc:--:----	_	
+15-16	til	til	T-:----:--:----	_	
+15-17	august	august	NC:siuc:--:----	_	
+15-18	,	,	ZD	_	
+15-19	idet	idet	CS:----:--:----	_	
+15-20	parret	par	NC:sdun:--:----	_	
+15-21	har	have	VF:----:sa:----	_	
+15-22	købt	købe	VT:siu#:t-:----	_	
+15-23	en	en	PI:s-uc:--:----	_	
+15-24	280	280	LC:--u-:--:----	_	
+15-25	kvadratmeter	kvadratmeter	NC:piu#:--:----	_	
+15-26	stor	stor	AC:siuc:--:p---	_	
+15-27	lejlighed	lejlighed	NC:siuc:--:----	_	
+15-28	på	på	T-:----:--:----	_	
+15-29	Østerbro	Østerbro	NP:siu#:--:----	_	
+15-30	til	til	T-:----:--:----	_	
+15-31	6	6	LC:--u-:--:----	_	
+15-32	,	,	ZD	_	
+15-33	5	5	LC:--u-:--:----	_	
+15-34	millioner	million	NC:piu#:--:----	_	
+15-35	kr	krone	NC:piu#:--:----	_	
+15-36	.	.	ZP	_	
+
+#id=16
+#text= Et godt råd, hvis man vil være sikker på at få plads:
+16-1	Et	en	PI:s-un:--:----	_	
+16-2	godt	god	AC:siun:--:p---	_	
+16-3	råd	råd	NC:siun:--:----	_	
+16-4	,	,	ZD	_	
+16-5	hvis	hvis	CS:----:--:----	_	
+16-6	man	man	PI:#-uc:--:----	_	
+16-7	vil	ville	VF:----:sa:----	_	
+16-8	være	være	VI:----:-a:----	_	
+16-9	sikker	sikker	AC:siuc:--:p---	_	
+16-10	på	på	T-:----:--:----	_	
+16-11	at	at	UI:----:--:----	_	
+16-12	få	få	VI:----:-a:----	_	
+16-13	plads	plads|plads-5|plads-6|plads-7|plads-F-brikkerne-falder-på-plads|plads-F-en-plads-i-solen|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-(på)-plads|plads-F-på-pladserne|plads-F-tage-plads|plads-F-vige-pladsen|plads-F-være-på-sin-plads|plads-F-sætte-tingene-på-plads|plads-F-på-plads|plads-F-løbe/rende-af-pladsen|plads-F-banke/sætte-på-plads|plads-4-4a|plads-1|plads-2-2a|plads-2b-2c|plads-3-3a|plads-1a	NC:siuc:--:----	plads-2a	
+16-14	:	:	ZP	_	
+
+#id=17
+#text= I Sidneys tilfælde falder alle brikkerne således på plads:
+17-1	I	i	T-:----:--:----	_	
+17-2	Sidneys	Sidneys	NP:sig#:--:----	_	
+17-3	tilfælde	tilfælde	NC:siun:--:----	_	
+17-4	falder	falde	VF:----:sa:----	_	
+17-5	alle	al	PI:p-u#:--:----	_	
+17-6	brikkerne	brik	NC:pdu#:--:----	_	
+17-7	således	således	D-:----:--:u---	_	
+17-8	på	på	T-:----:--:----	_	
+17-9	plads	plads|plads-4-4a|plads-5|plads-6|plads-F-banke/sætte-på-plads|plads-F-en-plads-i-solen|plads-F-løbe/rende-af-pladsen|plads-F-(på)-plads|plads-F-på-plads|plads-F-sætte-tingene-på-plads|plads-F-tage-plads|plads-F-vige-pladsen|plads-F-være-på-sin-plads|plads-F-på-pladserne|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-brikkerne-falder-på-plads|plads-7|plads-3-3a|plads-1|plads-1a|plads-2-2a|plads-2b-2c	NC:siuc:--:----	plads-F-brikkerne-falder-på-plads	
+17-10	:	:	ZP	_	
+
+#id=18
+#text=- Hvorfor skal vi give plads til personer kendt for svindel og humbug til at blive berømte på licensfinansieret TV?
+18-1	-	-	NC:piu#:--:----	_	
+18-2	Hvorfor	hvorfor	D-:----:--:u---	_	
+18-3	skal	skulle	VF:----:sa:----	_	
+18-4	vi	vi	PP:p-nc:--:-1n-	_	
+18-5	give	give	VI:----:-a:----	_	
+18-6	plads	plads|plads-2-2a|plads-2b-2c|plads-1a|plads-1|plads-3-3a|plads-4-4a|plads-5|plads-7|plads-F-banke/sætte-på-plads|plads-F-brikkerne-falder-på-plads|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-løbe/rende-af-pladsen|plads-F-(på)-plads|plads-F-på-pladserne|plads-F-sætte-tingene-på-plads|plads-F-tage-plads|plads-F-være-på-sin-plads|plads-F-vige-pladsen|plads-F-på-plads|plads-F-en-plads-i-solen|plads-6	NC:siuc:--:----	plads-1a	
+18-7	til	til	T-:----:--:----	_	
+18-8	personer	person	NC:piu#:--:----	_	
+18-9	kendt	kende	VT:siu#:t-:----	_	
+18-10	for	for	T-:----:--:----	_	
+18-11	svindel	svindel	NC:siuc:--:----	_	
+18-12	og	og	CC:----:--:----	_	
+18-13	humbug	humbug	NC:siu#:--:----	_	
+18-14	til	til	T-:----:--:----	_	
+18-15	at	at	UI:----:--:----	_	
+18-16	blive	blive	VI:----:-a:----	_	
+18-17	berømte	berømt	AC:p#u#:--:p---	_	
+18-18	på	på	T-:----:--:----	_	
+18-19	licensfinansieret	licensfinansiere	VT:siu#:t-:----	_	
+18-20	TV	tv	NC:siun:--:----	_	
+18-21	?	?	ZQ	_	
+
+#id=19
+#text= Midt på Ramblaen og de mondæne pladser er det selvfølgelig dyrest.
+19-1	Midt	midt	D-:----:--:u---	_	
+19-2	på	på	T-:----:--:----	_	
+19-3	Ramblaen	rambla	NC:sduc:--:----	_	
+19-4	og	og	CC:----:--:----	_	
+19-5	de	den	PM:p-u#:--:----	_	
+19-6	mondæne	mondæn	AC:p#u#:--:p---	_	
+19-7	pladser	plads|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-løbe/rende-af-pladsen|plads-F-på-plads|plads-F-på-pladserne|plads-F-sætte-tingene-på-plads|plads-F-vige-pladsen|plads-F-være-på-sin-plads|plads-F-tage-plads|plads-F-(på)-plads|plads-1|plads-1a|plads-2b-2c|plads-3-3a|plads-4-4a|plads-6|plads-7|plads-F-banke/sætte-på-plads|plads-F-en-plads-i-solen|plads-F-brikkerne-falder-på-plads|plads-5|plads-2-2a	NC:piu#:--:----	plads-3a	
+19-8	er	være	VF:----:sa:----	_	
+19-9	det	det	PP:s-un:--:-3n-	_	
+19-10	selvfølgelig	selvfølgelig	D-:----:--:u---	_	
+19-11	dyrest	dyr	AD:----:--:s---	_	
+19-12	.	.	ZP	_	
+
+#id=20
+#text=Men selv om Jim har masser af plads, og selv om han elsker at lege, har han ingen planer om at få børn.
+20-1	Men	men	CC:----:--:----	_	
+20-2	selv	selv	D-:----:--:u---	_	
+20-3	om	om	T-:----:--:----	_	
+20-4	Jim	Jim	NP:siu#:--:----	_	
+20-5	har	have	VF:----:sa:----	_	
+20-6	masser	masse	NC:piu#:--:----	_	
+20-7	af	af	T-:----:--:----	_	
+20-8	plads	plads|plads-F-en-plads-i-solen|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-(på)-plads|plads-F-på-plads|plads-F-på-pladserne|plads-F-tage-plads|plads-F-vige-pladsen|plads-F-være-på-sin-plads|plads-F-sætte-tingene-på-plads|plads-F-løbe/rende-af-pladsen|plads-1a|plads-1|plads-2-2a|plads-2b-2c|plads-3-3a|plads-5|plads-6|plads-7|plads-F-brikkerne-falder-på-plads|plads-F-banke/sætte-på-plads|plads-4-4a	NC:siuc:--:----	plads-1	
+20-9	,	,	ZD	_	
+20-10	og	og	CC:----:--:----	_	
+20-11	selv	selv	D-:----:--:u---	_	
+20-12	om	om	CS:----:--:----	_	
+20-13	han	han	PP:s-nc:--:-3n-	_	
+20-14	elsker	elske	VF:----:sa:----	_	
+20-15	at	at	UI:----:--:----	_	
+20-16	lege	lege	VI:----:-a:----	_	
+20-17	,	,	ZD	_	
+20-18	har	have	VF:----:sa:----	_	
+20-19	han	han	PP:s-nc:--:-3n-	_	
+20-20	ingen	ingen	PI:s-uc:--:----	_	
+20-21	planer	plan	NC:piu#:--:----	_	
+20-22	om	om	T-:----:--:----	_	
+20-23	at	at	UI:----:--:----	_	
+20-24	få	få	VI:----:-a:----	_	
+20-25	børn	barn	NC:piu#:--:----	_	
+20-26	.	.	ZP	_	
+
+#id=21
+#text=Her blev det dog kun til en plads som nummer 16 ud af 20 lande.
+21-1	Her	her	D-:----:--:u---	_	
+21-2	blev	blive	VF:----:ta:----	_	
+21-3	det	det	PP:s-un:--:-3n-	_	
+21-4	dog	dog	D-:----:--:u---	_	
+21-5	kun	kun	D-:----:--:u---	_	
+21-6	til	til	T-:----:--:----	_	
+21-7	en	en	PI:s-uc:--:----	_	
+21-8	plads	plads|plads-2b-2c|plads-4-4a|plads-5|plads-6|plads-F-banke/sætte-på-plads|plads-F-brikkerne-falder-på-plads|plads-F-en-plads-i-solen|plads-F-løbe/rende-af-pladsen|plads-F-(på)-plads|plads-F-på-plads|plads-F-på-pladserne|plads-F-sætte-tingene-på-plads|plads-F-tage-plads|plads-F-vige-pladsen|plads-F-være-på-sin-plads|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-7|plads-3-3a|plads-1a|plads-2-2a|plads-1	NC:siuc:--:----	plads-4a	
+21-9	som	som	US:----:--:----	_	
+21-10	nummer	nummer	NC:siun:--:----	_	
+21-11	16	16	LC:--u-:--:----	_	
+21-12	ud	ud	D-:----:--:u---	_	
+21-13	af	af	T-:----:--:----	_	
+21-14	20	20	LC:--u-:--:----	_	
+21-15	lande	land	NC:piu#:--:----	_	
+21-16	.	.	ZP	_	
+
+#id=22
+#text=Stig Rossen, hans kone og to børn har masser af plads i ejendommen, der er opført i 1924.
+22-1	Stig	Stig	NP:siu#:--:----	_	
+22-2	Rossen	Rossen	NP:siu#:--:----	_	
+22-3	,	,	ZD	_	
+22-4	hans	hans	PO:#--#:--:-3ns	_	
+22-5	kone	kone	NC:siuc:--:----	_	
+22-6	og	og	CC:----:--:----	_	
+22-7	to	to	LC:--u-:--:----	_	
+22-8	børn	barn	NC:piu#:--:----	_	
+22-9	har	have	VF:----:sa:----	_	
+22-10	masser	masse	NC:piu#:--:----	_	
+22-11	af	af	T-:----:--:----	_	
+22-12	plads	plads|plads-F-brikkerne-falder-på-plads|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-løbe/rende-af-pladsen|plads-F-(på)-plads|plads-F-på-pladserne|plads-F-sætte-tingene-på-plads|plads-F-tage-plads|plads-F-være-på-sin-plads|plads-F-vige-pladsen|plads-F-på-plads|en-plads-i-solen|plads-2-2a|plads-2b-2c|plads-1a|plads-1|plads-3-3a|plads-4-4a|plads-5|plads-7|plads-F-banke/sætte-på-plads|plads-6	NC:siuc:--:----	plads-1	
+22-13	i	i	T-:----:--:----	_	
+22-14	ejendommen	ejendom	NC:sduc:--:----	_	
+22-15	,	,	ZD	_	
+22-16	der	der	US:----:--:----	_	
+22-17	er	være	VF:----:sa:----	_	
+22-18	opført	opføre	VT:siu#:t-:----	_	
+22-19	i	i	T-:----:--:----	_	
+22-20	1924	1924	LC:--u-:--:----	_	
+22-21	.	.	ZP	_	
+
+#id=23
+#text=Da Amalie gik ind for at slå sig løs til musikkens dunkende beats, overtog Camilla straks pladsen foran superligaspilleren.
+23-1	Da	da	CS:----:--:----	_	
+23-2	Amalie	Amalie	NP:siu#:--:----	_	
+23-3	gik	gå	VF:----:ta:----	_	
+23-4	ind	ind	D-:----:--:u---	_	
+23-5	for	for	T-:----:--:----	_	
+23-6	at	at	UI:----:--:----	_	
+23-7	slå	slå	VI:----:-a:----	_	
+23-8	sig	sig	PP:#-u#:--:-3y-	_	
+23-9	løs	løs	AD:----:--:p---	_	
+23-10	til	til	T-:----:--:----	_	
+23-11	musikkens	musik	NC:sdgc:--:----	_	
+23-12	dunkende	dunke	VP:##u#:s-:----	_	
+23-13	beats	beat	NP:siu#:--:----	_	
+23-14	,	,	ZD	_	
+23-15	overtog	overtog	VF:----:ta:----	_	
+23-16	Camilla	Camilla	NP:siu#:--:----	_	
+23-17	straks	straks	D-:----:--:u---	_	
+23-18	pladsen	plads|plads-1a|plads-2b-2c|plads-3-3a|plads-4-4a|plads-5|plads-6|plads-7|plads-F-banke/sætte-på-plads|plads-F-en-plads-i-solen|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-løbe/rende-af-pladsen|plads-F-på-plads|plads-F-på-pladserne|plads-F-sætte-tingene-på-plads|plads-F-vige-pladsen|plads-F-være-på-sin-plads|plads-F-tage-plads|plads-F-(på)-plads|plads-F-brikkerne-falder-på-plads|plads-2-2a|plads-1	NC:sduc:--:----	plads-2	
+23-19	foran	foran	T-:----:--:----	_	
+23-20	superligaspilleren	superligaspiller	NC:sduc:--:----	_	
+23-21	.	.	ZP	_	
+
+#id=24
+#text=Beskrivelsen får de fleste til at tænke på et hotel i luksusklassen, men i stedet er det beskrivelsen af Norges andetstørste fængsel med plads til 248 indsatte.
+24-1	Beskrivelsen	beskrivelse	NC:sduc:--:----	_	
+24-2	får	få	VF:----:sa:----	_	
+24-3	de	den	PM:p-u#:--:----	_	
+24-4	fleste	mange	AC:p#u#:--:s---	_	
+24-5	til	til	T-:----:--:----	_	
+24-6	at	at	UI:----:--:----	_	
+24-7	tænke	tænke	VI:----:-a:----	_	
+24-8	på	på	T-:----:--:----	_	
+24-9	et	en	PI:s-un:--:----	_	
+24-10	hotel	hotel	NC:siun:--:----	_	
+24-11	i	i	T-:----:--:----	_	
+24-12	luksusklassen	luksusklasse	NC:sduc:--:----	_	
+24-13	,	,	ZD	_	
+24-14	men	men	CC:----:--:----	_	
+24-15	i	i	T-:----:--:----	_	
+24-16	stedet	sted	NC:sdun:--:----	_	
+24-17	er	være	VF:----:sa:----	_	
+24-18	det	det	PP:s-un:--:-3n-	_	
+24-19	beskrivelsen	beskrivelse	NC:sduc:--:----	_	
+24-20	af	af	T-:----:--:----	_	
+24-21	Norges	Norge	NP:sig#:--:----	_	
+24-22	andetstørste	andetstor	AC:§du§:--:s---	_	
+24-23	fængsel	fængsel	NC:siun:--:----	_	
+24-24	med	med	T-:----:--:----	_	
+24-25	plads	plads|plads-F-på-plads|plads-F-på-pladserne|plads-F-sætte-tingene-på-plads|plads-F-tage-plads|plads-F-vige-pladsen|plads-F-være-på-sin-plads|plads-2b-2c|plads-3-3a|plads-5|plads-6|plads-7|plads-F-banke/sætte-på-plads|plads-F-brikkerne-falder-på-plads|plads-F-en-plads-i-solen|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-(på)-plads|plads-F-løbe/rende-af-pladsen|plads-4-4a|plads-1a|plads-2-2a|plads-1	NC:siuc:--:----	plads-1	
+24-26	til	til	T-:----:--:----	_	
+24-27	248	248	LC:--u-:--:----	_	
+24-28	indsatte	indsat	AC:p#u#:--:p---	_	
+24-29	.	.	ZP	_	
+
+#id=25
+#text=Huset er på 118 kvadratmeter, og i den sydvestvendte have på 753 kvadratmeter er  der plads til både trampolin, sandkasse, fodboldmål og gyngestativ - samt en liggestol til Morten.
+25-1	Huset	hus	NC:sdun:--:----	_	
+25-2	er	være	VF:----:sa:----	_	
+25-3	på	på	T-:----:--:----	_	
+25-4	118	118	LC:--u-:--:----	_	
+25-5	kvadratmeter	kvadratmeter	NC:piu#:--:----	_	
+25-6	,	,	ZD	_	
+25-7	og	og	CC:----:--:----	_	
+25-8	i	i	T-:----:--:----	_	
+25-9	den	den	PM:s-uc:--:----	_	
+25-10	sydvestvendte	sydvestvendt	AC:sdu#:--:p---	_	
+25-11	have	have	NC:siuc:--:----	_	
+25-12	på	på	T-:----:--:----	_	
+25-13	753	753	LC:--u-:--:----	_	
+25-14	kvadratmeter	kvadratmeter	NC:piu#:--:----	_	
+25-15	er	være	VF:----:sa:----	_	
+25-16	der	der	US:----:--:----	_	
+25-17	plads	plads|plads-F-være-på-sin-plads|plads-F-banke/sætte-på-plads|plads-F-brikkerne-falder-på-plads|plads-F-en-plads-i-solen|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|af-pladsen|plads-F-(på)-plads|plads-F-på-plads|plads-F-sætte-tingene-på-plads|plads-F-tage-plads|plads-F-vige-pladsen|plads-F-på-pladserne|plads-7|plads-2-2a|plads-2b-2c|plads-4-4a|plads-5|plads-6|plads-3-3a|plads-1|plads-1a	NC:siuc:--:----	plads-1	
+25-18	til	til	T-:----:--:----	_	
+25-19	både	både	D-:----:--:u---	_	
+25-20	trampolin	trampolin	NC:siuc:--:----	_	
+25-21	,	,	ZD	_	
+25-22	sandkasse	sandkasse	NC:siuc:--:----	_	
+25-23	,	,	ZD	_	
+25-24	fodboldmål	fodboldmål	NC:siun:--:----	_	
+25-25	og	og	CC:----:--:----	_	
+25-26	gyngestativ	gyngestativ	NW:----:--:----	_	
+25-27	-	-	ZH	_	
+25-28	samt	samt	CC:----:--:----	_	
+25-29	en	en	PI:s-uc:--:----	_	
+25-30	liggestol	liggestol	NC:siuc:--:----	_	
+25-31	til	til	T-:----:--:----	_	
+25-32	Morten	Morten	NP:siu#:--:----	_	
+25-33	.	.	ZP	_	
+
+#id=26
+#text= Én, der kan sætte mig på plads Favorittøj:
+26-1	Én	en	PI:s-uc:--:----	_	
+26-2	,	,	ZD	_	
+26-3	der	der	US:----:--:----	_	
+26-4	kan	kunne	VF:----:sa:----	_	
+26-5	sætte	sætte	VI:----:-a:----	_	
+26-6	mig	jeg	PP:s-uc:--:-1#-	_	
+26-7	på	på	T-:----:--:----	_	
+26-8	plads	plads|plads-3-3a|plads-4-4a|plads-5|plads-6|plads-7|plads-F-banke/sætte-på-plads|plads-F-brikkerne-falder-på-plads|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-løbe/rende-af-pladsen|s-F-(på)-plads|plads-F-på-plads|plads-F-på-pladserne|plads-F-sætte-tingene-på-plads|plads-F-tage-plads|plads-F-være-på-sin-plads|plads-F-vige-pladsen|plads-F-en-plads-i-solen|plads-2b-2c|plads-1a|plads-2-2a|plads-1	NC:siuc:--:----	plads-F-banke/sætte-på-plads	
+26-9	Favorittøj	Favorittøj	NP:siu#:--:----	_	
+26-10	:	:	ZP	_	
+
+#id=27
+#text=Selv om der kun er seks år mellem Brian Laudrup og hans kone Mette, fortjener hun en plads på listen alligevel.
+27-1	Selv	selv	D-:----:--:u---	_	
+27-2	om	om	CS:----:--:----	_	
+27-3	der	der	US:----:--:----	_	
+27-4	kun	kun	D-:----:--:u---	_	
+27-5	er	være	VF:----:sa:----	_	
+27-6	seks	seks	LC:--u-:--:----	_	
+27-7	år	år	NC:piu#:--:----	_	
+27-8	mellem	mellem	T-:----:--:----	_	
+27-9	Brian	Brian	NP:siu#:--:----	_	
+27-10	Laudrup	Laudrup	NP:siu#:--:----	_	
+27-11	og	og	CC:----:--:----	_	
+27-12	hans	hans	PO:#--#:--:-3ns	_	
+27-13	kone	kone	NC:siuc:--:----	_	
+27-14	Mette	Mette	NP:siu#:--:----	_	
+27-15	,	,	ZD	_	
+27-16	fortjener	fortjene	VF:----:sa:----	_	
+27-17	hun	hun	PP:s-nc:--:-3n-	_	
+27-18	en	en	PI:s-uc:--:----	_	
+27-19	plads	plads|plads-6|plads-7|plads-F-banke/sætte-på-plads|plads-F-brikkerne-falder-på-plads|plads-F-en-plads-i-solen|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-løbe/rende-af-pladsen|plads-F-(på)-plads|plads-F-på-plads|plads-F-på-pladserne|plads-F-sætte-tingene-på-plads|plads-F-tage-plads|plads-F-vige-pladsen|plads-F-være-på-sin-plads|plads-5|plads-1a|plads-2-2a|plads-2b-2c|plads-3-3a|plads-4-4a|plads-1	NC:siuc:--:----	plads-4a	
+27-20	på	på	T-:----:--:----	_	
+27-21	listen	list	NC:sduc:--:----	_	
+27-22	alligevel	alligevel	D-:----:--:u---	_	
+27-23	.	.	ZP	_	
+
+#id=28
+#text=- blonderet brystbombe, fik ikke en særlig god start på ugen efter en ellers dejlig weekend i Jylland: - Har glemt mit Visa i Jylland, min taske på Sydsjælland, nogen har taget min p-plads, og bilen blinker på olie og benzin.
+28-1	-	-	NC:piu#:--:----	_	
+28-2	blonderet	blondere	VT:siu#:t-:----	_	
+28-3	brystbombe	brystbombe	NC:siuc:--:----	_	
+28-4	,	,	ZD	_	
+28-5	fik	få	VF:----:ta:----	_	
+28-6	ikke	ikke	D-:----:--:u---	_	
+28-7	en	en	PI:s-uc:--:----	_	
+28-8	særlig	særlig	AC:siuc:--:p---	_	
+28-9	god	god	AC:siuc:--:p---	_	
+28-10	start	start	NC:siuc:--:----	_	
+28-11	på	på	T-:----:--:----	_	
+28-12	ugen	uge	NC:sduc:--:----	_	
+28-13	efter	efter	T-:----:--:----	_	
+28-14	en	en	PI:s-uc:--:----	_	
+28-15	ellers	ellers	D-:----:--:u---	_	
+28-16	dejlig	dejlig	AC:siuc:--:p---	_	
+28-17	weekend	weekend	NC:siuc:--:----	_	
+28-18	i	i	T-:----:--:----	_	
+28-19	Jylland	Jylland	NP:siu#:--:----	_	
+28-20	:	:	ZP	_	
+28-21	-	-	ZH	_	
+28-22	Har	have	VF:----:sa:----	_	
+28-23	glemt	glemt	VT:siu#:t-:----	_	
+28-24	mit	mit	XF:----:--:----	_	
+28-25	Visa	visum	NC:piu#:--:----	_	
+28-26	i	i	T-:----:--:----	_	
+28-27	Jylland	Jylland	NP:siu#:--:----	_	
+28-28	,	,	ZD	_	
+28-29	min	min	XY:----:--:----	_	
+28-30	taske	taske	NC:siuc:--:----	_	
+28-31	på	på	T-:----:--:----	_	
+28-32	Sydsjælland	Sydsjælland	NP:siu#:--:----	_	
+28-33	,	,	ZD	_	
+28-34	nogen	nogen	PI:s-uc:--:----	_	
+28-35	har	have	VF:----:sa:----	_	
+28-36	taget	tage	VT:siu#:t-:----	_	
+28-37	min	min	PO:s--c:--:-1ns	_	
+28-38	p	p	NW:----:--:----	_	
+28-39	-	-	ZH	_	
+28-40	plads	plads|plads-F-brikkerne-falder-på-plads|plads-F-en-plads-i-solen|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-løbe/rende-af-pladsen|plads-F-(på)-plads|plads-F-på-plads|plads-F-på-pladserne|plads-F-tage-plads|plads-F-vige-pladsen|plads-F-være-på-sin-plads|plads-F-sætte-tingene-på-plads|plads-1a|plads-1|plads-2-2a|plads-2b-2c|plads-3-3a|plads-4-4a|plads-5|plads-6|plads-7|plads-F-banke/sætte-på-plads	NC:siuc:--:----	plads-2	
+28-41	,	,	ZD	_	
+28-42	og	og	CC:----:--:----	_	
+28-43	bilen	bil	NC:sduc:--:----	_	
+28-44	blinker	blinke	VF:----:sa:----	_	
+28-45	på	på	T-:----:--:----	_	
+28-46	olie	olie	NC:siuc:--:----	_	
+28-47	og	og	CC:----:--:----	_	
+28-48	benzin	benzin	NC:siuc:--:----	_	
+28-49	.	.	ZP	_	
+
+#id=29
+#text=Hvad vil du egentlig med al den plads?
+29-1	Hvad	hvad	PR:s-u#:--:----	_	
+29-2	vil	ville	VF:----:sa:----	_	
+29-3	du	du	PP:s-nc:--:-2n-	_	
+29-4	egentlig	egentlig	D-:----:--:u---	_	
+29-5	med	med	T-:----:--:----	_	
+29-6	al	al	PI:s-uc:--:----	_	
+29-7	den	den	PM:s-uc:--:----	_	
+29-8	plads	plads|plads-6|plads-7|plads-F-banke/sætte-på-plads|plads-F-brikkerne-falder-på-plads|plads-F-en-plads-i-solen|plads-F-løbe/rende-af-pladsen|plads-F-(på)-plads|plads-F-på-plads|plads-F-på-pladserne|plads-F-sætte-tingene-på-plads|plads-F-tage-plads|plads-F-vige-pladsen|plads-F-være-på-sin-plads|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-2-2a|plads-2b-2c|plads-3-3a|plads-4-4a|plads-5|plads-1a|plads-1	NC:siuc:--:----	plads-1	
+29-9	?	?	ZQ	_	
+
+#id=30
+#text= I det store område er der sjældent kø ved lifterne, og der er rigelig plads for både familier og øvede til at boltre sig i røde, blå og udfordrende sorte løjper.
+30-1	I	i	T-:----:--:----	_	
+30-2	det	den	PM:s-un:--:----	_	
+30-3	store	stor	AC:sdu#:--:p---	_	
+30-4	område	område	NC:siun:--:----	_	
+30-5	er	være	VF:----:sa:----	_	
+30-6	der	der	US:----:--:----	_	
+30-7	sjældent	sjælden	AD:----:--:p---	_	
+30-8	kø	kø	NC:siuc:--:----	_	
+30-9	ved	ved	T-:----:--:----	_	
+30-10	lifterne	lift	NC:pdu#:--:----	_	
+30-11	,	,	ZD	_	
+30-12	og	og	CC:----:--:----	_	
+30-13	der	der	US:----:--:----	_	
+30-14	er	være	VF:----:sa:----	_	
+30-15	rigelig	rigelig	AC:siuc:--:p---	_	
+30-16	plads	plads|plads-2b-2c|plads-3-3a|plads-4-4a|plads-5|plads-6|plads-7|plads-F-banke/sætte-på-plads|plads-F-brikkerne-falder-på-plads|plads-F-en-plads-i-solen|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-løbe/rende-af-pladsen|plads-F-(på)-plads|plads-F-på-plads|plads-F-på-pladserne|plads-F-sætte-tingene-på-plads|plads-F-tage-plads|plads-F-vige-pladsen|plads-F-være-på-sin-plads|plads-1a|plads-2-2a|plads-1	NC:siuc:--:----	plads-1	
+30-17	for	for	T-:----:--:----	_	
+30-18	både	både	D-:----:--:u---	_	
+30-19	familier	familie	NC:piu#:--:----	_	
+30-20	og	og	CC:----:--:----	_	
+30-21	øvede	øve	VF:----:ta:----	_	
+30-22	til	til	T-:----:--:----	_	
+30-23	at	at	UI:----:--:----	_	
+30-24	boltre	boltre	VI:----:-a:----	_	
+30-25	sig	sig	PP:#-u#:--:-3y-	_	
+30-26	i	i	T-:----:--:----	_	
+30-27	røde	rød	AC:p#u#:--:p---	_	
+30-28	,	,	ZD	_	
+30-29	blå	blå	AC:siuc:--:p---	_	
+30-30	og	og	CC:----:--:----	_	
+30-31	udfordrende	udfordre	VP:##u#:s-:----	_	
+30-32	sorte	sort	AC:p#u#:--:p---	_	
+30-33	løjper	løjpe	NC:piu#:--:----	_	
+30-34	.	.	ZP	_	
+
+#id=31
+#text=Skal shoppinggenet luftes, foregår det i finansbyen Luxembourg, hvor der er smarte modebutikker og store pladser med forskellige restauranter.
+31-1	Skal	skulle	VF:----:sa:----	_	
+31-2	shoppinggenet	shoppinggen	NC:sdun:--:----	_	
+31-3	luftes	lufte	VF:----:sp:----	_	
+31-4	,	,	ZD	_	
+31-5	foregår	foregå	VF:----:sa:----	_	
+31-6	det	det	PP:s-un:--:-3n-	_	
+31-7	i	i	T-:----:--:----	_	
+31-8	finansbyen	finansby	NC:sduc:--:----	_	
+31-9	Luxembourg	Luxembourg	NP:siu#:--:----	_	
+31-10	,	,	ZD	_	
+31-11	hvor	hvor	D-:----:--:u---	_	
+31-12	der	der	US:----:--:----	_	
+31-13	er	være	VF:----:sa:----	_	
+31-14	smarte	smart	AC:p#u#:--:p---	_	
+31-15	modebutikker	modebutik	NC:piu#:--:----	_	
+31-16	og	og	CC:----:--:----	_	
+31-17	store	stor	AC:p#u#:--:p---	_	
+31-18	pladser	plads|plads-F-tage-plads|plads-F-vige-pladsen|plads-F-være-på-sin-plads|plads-6|plads-7|plads-F-banke/sætte-på-plads|plads-F-brikkerne-falder-på-plads|plads-F-en-plads-i-solen|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-løbe/rende-af-pladsen|plads-F-(på)-plads|plads-F-på-plads|plads-F-på-pladserne|plads-F-sætte-tingene-på-plads|plads-1a|plads-2-2a|plads-2b-2c|plads-3-3a|plads-4-4a|plads-5|plads-1	NC:piu#:--:----	plads-3a	
+31-19	med	med	T-:----:--:----	_	
+31-20	forskellige	forskellig	AC:p#u#:--:p---	_	
+31-21	restauranter	restaurant	NC:piu#:--:----	_	
+31-22	.	.	ZP	_	
+

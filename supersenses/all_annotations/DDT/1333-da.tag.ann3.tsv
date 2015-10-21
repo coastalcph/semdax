@@ -1,0 +1,210 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Fundetaf en halv snes nåle i kroppen på en to-årig pige har fået personalet på Roskilde Amtssygehus til at slå alarm til politiet .
+1-1	Fundet	B-noun.event	
+1-2	af	O	
+1-3	en	O	
+1-4	halv	O	
+1-5	snes	B-noun.quantity	
+1-6	nåle	B-noun.artifact	
+1-7	i	O	
+1-8	kroppen	B-noun.body	
+1-9	på	O	
+1-10	en	O	
+1-11	to-årig	B-adj.time	
+1-12	pige	B-noun.person	
+1-13	har	O	
+1-14	fået	B-verb.phenomenon	
+1-15	personalet	B-noun.person	
+1-16	på	O	
+1-17	Roskilde	B-noun.institution	
+1-18	Amtssygehus	I-noun.institution	
+1-19	til	O	
+1-20	at	O	
+1-21	slå	B-verb.act	
+1-22	alarm	B-verb.COLL	
+1-23	til	O	
+1-24	politiet	B-noun.institution	
+1-25	.	O	
+
+#id=2
+#text=Røntgenfotografieraf den lille piges krop afslørede , at hun var blevet brugt som levende nålepude og blandt_andet havde nåle i lungerne .
+2-1	Røntgenfotografier	B-noun.artifact	
+2-2	af	O	
+2-3	den	O	
+2-4	lille	B-adj.phys	
+2-5	piges	B-noun.person	
+2-6	krop	B-noun.body	
+2-7	afslørede	B-verb.act	
+2-8	,	O	
+2-9	at	O	
+2-10	hun	O	
+2-11	var	O	
+2-12	blevet	O	
+2-13	brugt	B-verb.act	
+2-14	som	O	
+2-15	levende	B-adj.phys	
+2-16	nålepude	B-noun.artifact	
+2-17	og	O	
+2-18	blandt_andet	O	
+2-19	havde	B-verb.phenomenon	
+2-20	nåle	B-noun.artifact	
+2-21	i	O	
+2-22	lungerne	B-noun.body	
+2-23	.	O	
+
+#id=3
+#text="Det er en mystisk sag , hvor de små nåle er stukket ind i pigens hals , håndled , på kroppen og i knæet , " oplyser kriminalinspektør Jørgen Juul , Roskilde  .
+3-1	"	O	
+3-2	Det	O	
+3-3	er	B-verb.stative	
+3-4	en	O	
+3-5	mystisk	B-adj.all	
+3-6	sag	B-noun.cognition	
+3-7	,	O	
+3-8	hvor	O	
+3-9	de	O	
+3-10	små	B-adj.phys	
+3-11	nåle	B-noun.artifact	
+3-12	er	O	
+3-13	stukket	B-verb.act	
+3-14	ind	B-verb.PARTICLE	
+3-15	i	O	
+3-16	pigens	B-noun.person	
+3-17	hals	B-noun.body	
+3-18	,	O	
+3-19	håndled	B-noun.body	
+3-20	,	O	
+3-21	på	O	
+3-22	kroppen	B-noun.body	
+3-23	og	O	
+3-24	i	O	
+3-25	knæet	B-noun.body	
+3-26	,	O	
+3-27	"	O	
+3-28	oplyser	B-verb.communication	
+3-29	kriminalinspektør	B-noun.person	
+3-30	Jørgen	B-noun.person	
+3-31	Juul	I-noun.person	
+3-32	,	O	
+3-33	Roskilde	B-noun.location	
+3-34	.	O	
+
+#id=4
+#text=WEEKEND-BESØG
+4-1	WEEKEND-BESØG	B-noun.act	
+
+#id=5
+#text=Kriminalpolitietefterforsker den uhyggelige affære som en sag om grov børnemishandling .
+5-1	Kriminalpolitiet	B-noun.person	
+5-2	efterforsker	B-verb.act	
+5-3	den	O	
+5-4	uhyggelige	B-adj.all	
+5-5	affære	B-noun.act	
+5-6	som	O	
+5-7	en	O	
+5-8	sag	B-noun.cognition	
+5-9	om	O	
+5-10	grov	B-adj.phys	
+5-11	børnemishandling	B-noun.act	
+5-12	.	O	
+
+#id=6
+#text=Endnuved man ikke , hvem der har pint den lille pige .
+6-1	Endnu	O	
+6-2	ved	B-verb.cognition	
+6-3	man	O	
+6-4	ikke	O	
+6-5	,	O	
+6-6	hvem	O	
+6-7	der	O	
+6-8	har	O	
+6-9	pint	B-verb.act	
+6-10	den	O	
+6-11	lille	B-adj.phys	
+6-12	pige	B-noun.person	
+6-13	.	O	
+
+#id=7
+#text=vedat stikke nåle i hende .
+7-1	ved	O	
+7-2	at	O	
+7-3	stikke	B-verb.act	
+7-4	nåle	B-noun.artifact	
+7-5	i	O	
+7-6	hende	O	
+7-7	.	O	
+
+#id=8
+#text="Men det er næppe  den to-årige , der selv har stukket nålene ind i sin krop .
+8-1	"	O	
+8-2	Men	O	
+8-3	det	O	
+8-4	er	B-verb.stative	
+8-5	næppe	O	
+8-6	den	O	
+8-7	to-årige	B-noun.person	
+8-8	,	O	
+8-9	der	O	
+8-10	selv	O	
+8-11	har	O	
+8-12	stukket	B-verb.act	
+8-13	nålene	B-noun.artifact	
+8-14	ind	O	
+8-15	i	O	
+8-16	sin	O	
+8-17	krop	B-noun.body	
+8-18	.	O	
+
+#id=9
+#text=Dettror vi i_hvert_fald ikke på , " forsikrer kriminalinspektøren .
+9-1	Det	O	
+9-2	tror	B-verb.cognition	
+9-3	vi	O	
+9-4	i_hvert_fald	O	
+9-5	ikke	O	
+9-6	på	O	
+9-7	,	O	
+9-8	"	O	
+9-9	forsikrer	B-verb.communication	
+9-10	kriminalinspektøren	B-noun.person	
+9-11	.	O	
+
+#id=10
+#text="Vi afhører den begrænsede personkreds omkring pigen og ved , at pigen har været på weekend-besøg hos sin biologiske far .
+10-1	"	O	
+10-2	Vi	O	
+10-3	afhører	B-verb.act	
+10-4	den	O	
+10-5	begrænsede	B-adj.all	
+10-6	personkreds	B-noun.person	
+10-7	omkring	O	
+10-8	pigen	B-noun.person	
+10-9	og	O	
+10-10	ved	B-verb.cognition	
+10-11	,	O	
+10-12	at	O	
+10-13	pigen	B-noun.person	
+10-14	har	O	
+10-15	været	B-verb.stative	
+10-16	på	O	
+10-17	weekend-besøg	B-noun.event	
+10-18	hos	O	
+10-19	sin	O	
+10-20	biologiske	B-adj.phys	
+10-21	far	B-noun.person	
+10-22	.	O	
+
+#id=11
+#text=Ellersbor hun hos moderen .
+11-1	Ellers	O	
+11-2	bor	B-verb.stative	
+11-3	hun	O	
+11-4	hos	O	
+11-5	moderen	B-noun.person	
+11-6	.	O	
+
+#id=12
+#text=AFHØRT
+12-1	AFHØRT	B-adj.all	
+

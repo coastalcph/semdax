@@ -1,0 +1,193 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text="hold op og hold ud .. ! " prøvekøres i første omgang på Bornholm , hvor de skønsvis 3.000 storrygerne fra på mandag kan ringe til gratisnummeret 80 30 31 30 og få hjælp af et hold frivillige eksrygere .
+1-1	"	O	
+1-2	hold	B-noun.communication	
+1-3	op	I-noun.communication	
+1-4	og	I-noun.communication	
+1-5	hold	I-noun.communication	
+1-6	ud	I-noun.communication	
+1-7	..	I-noun.communication	
+1-8	!	I-noun.communication	
+1-9	"	O	
+1-10	prøvekøres	B-verb.act	
+1-11	i	O	
+1-12	første	B-adj.time	
+1-13	omgang	B-noun.abstract	
+1-14	på	O	
+1-15	Bornholm	B-noun.location	
+1-16	,	O	
+1-17	hvor	O	
+1-18	de	O	
+1-19	skønsvis	O	
+1-20	3.000	O	
+1-21	storrygerne	B-noun.person	
+1-22	fra	O	
+1-23	på	O	
+1-24	mandag	B-noun.time	
+1-25	kan	O	
+1-26	ringe	B-verb.communication	
+1-27	til	O	
+1-28	gratisnummeret	B-noun.attribute	
+1-29	80	O	
+1-30	30	O	
+1-31	31	O	
+1-32	30	O	
+1-33	og	O	
+1-34	få	B-verb.phenomenon	
+1-35	hjælp	B-noun.act	
+1-36	af	O	
+1-37	et	O	
+1-38	hold	B-noun.person	
+1-39	frivillige	B-adj.social	
+1-40	eksrygere	B-noun.person	
+1-41	.	O	
+
+#id=2
+#text=Omcirka et år skal systemet så ud til resten af landet .
+2-1	Om	O	
+2-2	cirka	O	
+2-3	et	O	
+2-4	år	B-noun.time	
+2-5	skal	O	
+2-6	systemet	B-noun.abstract	
+2-7	så	O	
+2-8	ud	O	
+2-9	til	O	
+2-10	resten	B-noun.relation	
+2-11	af	O	
+2-12	landet	B-noun.location	
+2-13	.	O	
+
+#id=3
+#text=Tidligeretobakskampagner har haft en tendens til at  betragte rygere som én stor , røgfarvet masse .
+3-1	Tidligere	B-adj.time	
+3-2	tobakskampagner	B-noun.communication	
+3-3	har	O	
+3-4	haft	B-verb.stative	
+3-5	en	O	
+3-6	tendens	B-noun.phenomenon	
+3-7	til	O	
+3-8	at	O	
+3-9	betragte	B-verb.cognition	
+3-10	rygere	B-noun.person	
+3-11	som	O	
+3-12	én	O	
+3-13	stor	B-adj.phys	
+3-14	,	O	
+3-15	røgfarvet	B-adj.phys	
+3-16	masse	B-noun.substance	
+3-17	.	O	
+
+#id=4
+#text=Menvil man have fat i storrygerne , må man forstå , at deres afhængighed af tobak og vanskeligheder med at sige farvel til den varierer fra person til person , siger formanden for Tobaksskaderådet , overlæge Poul Ebbe Nielsen :
+4-1	Men	O	
+4-2	vil	O	
+4-3	man	O	
+4-4	have	B-verb.communication	
+4-5	fat	B-verb.COLL	
+4-6	i	O	
+4-7	storrygerne	B-noun.person	
+4-8	,	O	
+4-9	må	O	
+4-10	man	O	
+4-11	forstå	B-verb.cognition	
+4-12	,	O	
+4-13	at	O	
+4-14	deres	O	
+4-15	afhængighed	B-noun.attribute	
+4-16	af	O	
+4-17	tobak	B-noun.substance	
+4-18	og	O	
+4-19	vanskeligheder	B-noun.abstract	
+4-20	med	O	
+4-21	at	O	
+4-22	sige	B-verb.act	
+4-23	farvel	B-verb.COLL	
+4-24	til	O	
+4-25	den	O	
+4-26	varierer	B-verb.phenomenon	
+4-27	fra	O	
+4-28	person	B-noun.person	
+4-29	til	O	
+4-30	person	B-noun.person	
+4-31	,	O	
+4-32	siger	B-verb.communication	
+4-33	formanden	B-noun.person	
+4-34	for	O	
+4-35	Tobaksskaderådet	B-noun.person	
+4-36	,	O	
+4-37	overlæge	B-noun.person	
+4-38	Poul	B-noun.person	
+4-39	Ebbe	I-noun.person	
+4-40	Nielsen	I-noun.person	
+4-41	:	O	
+
+#id=5
+#text="Og derfor er chancen for at gennemføre beslutningen om at holde op større , når man får vejledning i at vælge en metode man selv går ind for - og samtidig får hjælp til at holde ud . "
+5-1	"	O	
+5-2	Og	O	
+5-3	derfor	O	
+5-4	er	O	
+5-5	chancen	B-noun.abstract	
+5-6	for	O	
+5-7	at	O	
+5-8	gennemføre	B-verb.act	
+5-9	beslutningen	B-noun.cognition	
+5-10	om	O	
+5-11	at	O	
+5-12	holde	B-verb.aspectual	
+5-13	op	B-verb.PARTICLE	
+5-14	større	B-adj.all	
+5-15	,	O	
+5-16	når	O	
+5-17	man	O	
+5-18	får	B-verb.phenomenon	
+5-19	vejledning	B-noun.communication	
+5-20	i	O	
+5-21	at	O	
+5-22	vælge	B-verb.cognition	
+5-23	en	O	
+5-24	metode	B-noun.abstract	
+5-25	man	O	
+5-26	selv	O	
+5-27	går	B-verb.cognition	
+5-28	ind	B-verb.COLL	
+5-29	for	B-verb.COLL	
+5-30	-	O	
+5-31	og	O	
+5-32	samtidig	O	
+5-33	får	B-verb.phenomenon	
+5-34	hjælp	B-noun.act	
+5-35	til	O	
+5-36	at	O	
+5-37	holde	B-verb.cognition	
+5-38	ud	B-verb.PARTICLE	
+5-39	.	O	
+5-40	"	O	
+
+#id=6
+#text=Atmange rygere er lede og kede af tobakken , det er der ingen tvivl om , siger Poul Ebbe Nielsen :
+6-1	At	O	
+6-2	mange	B-adj.all	
+6-3	rygere	B-noun.person	
+6-4	er	B-verb.stative	
+6-5	lede	B-adj.mental	
+6-6	og	O	
+6-7	kede	B-adj.mental	
+6-8	af	O	
+6-9	tobakken	B-noun.substance	
+6-10	,	O	
+6-11	det	O	
+6-12	er	B-verb.stative	
+6-13	der	O	
+6-14	ingen	O	
+6-15	tvivl	B-noun.cognition	
+6-16	om	O	
+6-17	,	O	
+6-18	siger	B-verb.communication	
+6-19	Poul	B-noun.person	
+6-20	Ebbe	I-noun.person	
+6-21	Nielsen	I-noun.person	
+6-22	:	O	
+

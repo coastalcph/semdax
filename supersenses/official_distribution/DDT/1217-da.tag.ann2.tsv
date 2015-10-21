@@ -1,0 +1,218 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Vihar alt for travlt .
+1-1	Vi	O	
+1-2	har	B-verb.cognition	
+1-3	alt	O	
+1-4	for	O	
+1-5	travlt	B-verb.COLL	
+1-6	.	O	
+
+#id=2
+#text=Forde fleste går dagen uden pauser .
+2-1	For	O	
+2-2	de	O	
+2-3	fleste	O	
+2-4	går	B-verb.phenomenon	
+2-5	dagen	B-noun.time	
+2-6	uden	O	
+2-7	pauser	B-noun.time	
+2-8	.	O	
+
+#id=3
+#text=Af_stedtil skole , arbejde , sport eller leg .
+3-1	Af_sted	O	
+3-2	til	O	
+3-3	skole	B-noun.building	
+3-4	,	O	
+3-5	arbejde	B-noun.act	
+3-6	,	O	
+3-7	sport	B-noun.act	
+3-8	eller	O	
+3-9	leg	B-noun.act	
+3-10	.	O	
+
+#id=4
+#text=Udat købe ind .
+4-1	Ud	O	
+4-2	at	O	
+4-3	købe	B-verb.possession	
+4-4	ind	B-verb.PARTICLE	
+4-5	.	O	
+
+#id=5
+#text=Kunved middagsbordet har man en chance for at være sammen .
+5-1	Kun	O	
+5-2	ved	O	
+5-3	middagsbordet	B-noun.artifact	
+5-4	har	B-verb.stative	
+5-5	man	O	
+5-6	en	O	
+5-7	chance	B-noun.abstract	
+5-8	for	O	
+5-9	at	O	
+5-10	være	B-verb.stative	
+5-11	sammen	O	
+5-12	.	O	
+
+#id=6
+#text=Derforer det nok værd at gøre noget ud af husets spiseplads , så man her får en hyggelig stund .
+6-1	Derfor	O	
+6-2	er	B-verb.stative	
+6-3	det	O	
+6-4	nok	O	
+6-5	værd	B-adj.all	
+6-6	at	O	
+6-7	gøre	B-verb.act	
+6-8	noget	O	
+6-9	ud	B-verb.COLL	
+6-10	af	B-verb.COLL	
+6-11	husets	B-noun.building	
+6-12	spiseplads	B-noun.location	
+6-13	,	O	
+6-14	så	O	
+6-15	man	O	
+6-16	her	O	
+6-17	får	B-verb.phenomenon	
+6-18	en	O	
+6-19	hyggelig	B-adj.social	
+6-20	stund	B-noun.time	
+6-21	.	O	
+
+#id=7
+#text=Der er en tendens til ikke længere at nøjes med den lille krog i køkkenet .
+7-1	Der	O	
+7-2	er	B-verb.stative	
+7-3	en	O	
+7-4	tendens	B-noun.abstract	
+7-5	til	O	
+7-6	ikke	O	
+7-7	længere	O	
+7-8	at	O	
+7-9	nøjes	B-verb.stative	
+7-10	med	O	
+7-11	den	O	
+7-12	lille	B-adj.phys	
+7-13	krog	B-noun.relation	
+7-14	i	O	
+7-15	køkkenet	B-noun.building	
+7-16	.	O	
+
+#id=8
+#text=Manhar spisestue eller i_hvert_fald en rar plads i en rolig del af stuen .
+8-1	Man	O	
+8-2	har	B-verb.stative	
+8-3	spisestue	B-noun.building	
+8-4	eller	O	
+8-5	i_hvert_fald	O	
+8-6	en	O	
+8-7	rar	B-adj.all	
+8-8	plads	B-noun.location	
+8-9	i	O	
+8-10	en	O	
+8-11	rolig	B-adj.all	
+8-12	del	B-noun.relation	
+8-13	af	O	
+8-14	stuen	B-noun.building	
+8-15	.	O	
+
+#id=9
+#text=Kendervi ikke alle nogle steder , hvor man med glæde sidder længe til_bords og ikke bare ønsker at komme ind til de gode lænestole ?
+9-1	Kender	B-verb.cognition	
+9-2	vi	O	
+9-3	ikke	O	
+9-4	alle	O	
+9-5	nogle	O	
+9-6	steder	B-noun.location	
+9-7	,	O	
+9-8	hvor	O	
+9-9	man	O	
+9-10	med	O	
+9-11	glæde	B-noun.feeling	
+9-12	sidder	B-verb.stative	
+9-13	længe	O	
+9-14	til_bords	O	
+9-15	og	O	
+9-16	ikke	O	
+9-17	bare	O	
+9-18	ønsker	B-verb.emotion	
+9-19	at	O	
+9-20	komme	B-verb.motion	
+9-21	ind	O	
+9-22	til	O	
+9-23	de	O	
+9-24	gode	B-adj.all	
+9-25	lænestole	B-noun.artifact	
+9-26	?	O	
+
+#id=10
+#text=Dethar både noget med stolene og bordet at gøre - og pladsen udenom .
+10-1	Det	O	
+10-2	har	B-verb.stative	
+10-3	både	O	
+10-4	noget	O	
+10-5	med	O	
+10-6	stolene	B-noun.artifact	
+10-7	og	O	
+10-8	bordet	B-noun.artifact	
+10-9	at	B-verb.COLL	
+10-10	gøre	B-verb.COLL	
+10-11	-	O	
+10-12	og	O	
+10-13	pladsen	B-noun.location	
+10-14	udenom	O	
+10-15	.	O	
+
+#id=11
+#text=Passesammen
+11-1	Passe	B-verb.stative	
+11-2	sammen	O	
+
+#id=12
+#text=Deter vigtigt , at bord og stole passer sammen , ikke bare i udseende , men også i mål .
+12-1	Det	O	
+12-2	er	B-verb.stative	
+12-3	vigtigt	B-adj.all	
+12-4	,	O	
+12-5	at	O	
+12-6	bord	B-noun.artifact	
+12-7	og	O	
+12-8	stole	B-noun.artifact	
+12-9	passer	B-verb.stative	
+12-10	sammen	O	
+12-11	,	O	
+12-12	ikke	O	
+12-13	bare	O	
+12-14	i	O	
+12-15	udseende	B-noun.attribute	
+12-16	,	O	
+12-17	men	O	
+12-18	også	O	
+12-19	i	O	
+12-20	mål	B-noun.quantity	
+12-21	.	O	
+
+#id=13
+#text=Deter ikke sundt at sidde med løftede skuldre for at nå maden eller krumbøjet ved et for lavt bord .
+13-1	Det	O	
+13-2	er	B-verb.stative	
+13-3	ikke	O	
+13-4	sundt	B-adj.all	
+13-5	at	O	
+13-6	sidde	B-verb.stative	
+13-7	med	O	
+13-8	løftede	B-adj.phys	
+13-9	skuldre	B-noun.body	
+13-10	for	O	
+13-11	at	O	
+13-12	nå	B-verb.act	
+13-13	maden	B-noun.food	
+13-14	eller	O	
+13-15	krumbøjet	B-adj.phys	
+13-16	ved	O	
+13-17	et	O	
+13-18	for	O	
+13-19	lavt	B-adj.phys	
+13-20	bord	B-noun.artifact	
+13-21	.	O	
+

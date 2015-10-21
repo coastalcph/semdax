@@ -1,0 +1,211 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Sådanmener drabsafdelingen i København nu , at bombe-attentatet mod Internationale Socialister skete klokken 11.32 i_mandags .
+1-1	Sådan	O	
+1-2	mener	B-verb.cognition	
+1-3	drabsafdelingen	B-noun.person	
+1-4	i	O	
+1-5	København	B-noun.location	
+1-6	nu	O	
+1-7	,	O	
+1-8	at	O	
+1-9	bombe-attentatet	B-noun.act	
+1-10	mod	O	
+1-11	Internationale	B-adj.social	
+1-12	Socialister	B-noun.person	
+1-13	skete	B-verb.phenomenon	
+1-14	klokken	O	
+1-15	11.32	O	
+1-16	i_mandags	B-noun.time	
+1-17	.	O	
+
+#id=2
+#text=Tekniskeeksperter har nu slået fast , at eksplosionen skyldtes en meget kraftig bombe , og alt tyder på , at bomben blev afleveret af postbudet , der klokken 8.45 mandag lagde den tykke prøvekuvert i " Internationale Socialisters " postkasse .
+2-1	Tekniske	B-adj.all	
+2-2	eksperter	B-noun.person	
+2-3	har	O	
+2-4	nu	O	
+2-5	slået	B-verb.act	
+2-6	fast	B-verb.PARTICLE	
+2-7	,	O	
+2-8	at	O	
+2-9	eksplosionen	B-noun.phenomenon	
+2-10	skyldtes	B-verb.phenomenon	
+2-11	en	O	
+2-12	meget	O	
+2-13	kraftig	B-adj.all	
+2-14	bombe	B-noun.artifact	
+2-15	,	O	
+2-16	og	O	
+2-17	alt	O	
+2-18	tyder	B-verb.phenomenon	
+2-19	på	O	
+2-20	,	O	
+2-21	at	O	
+2-22	bomben	B-noun.artifact	
+2-23	blev	O	
+2-24	afleveret	B-verb.possession	
+2-25	af	O	
+2-26	postbudet	B-noun.person	
+2-27	,	O	
+2-28	der	O	
+2-29	klokken	O	
+2-30	8.45	O	
+2-31	mandag	B-noun.time	
+2-32	lagde	B-verb.act	
+2-33	den	O	
+2-34	tykke	B-adj.phys	
+2-35	prøvekuvert	B-noun.artifact	
+2-36	i	O	
+2-37	"	O	
+2-38	Internationale	B-noun.institution	
+2-39	Socialisters	I-noun.institution	
+2-40	"	O	
+2-41	postkasse	B-noun.container	
+2-42	.	O	
+
+#id=3
+#text=BOMBE-KRATER
+3-1	BOMBE-KRATER	B-noun.phenomenon	
+
+#id=4
+#text="Bordpladen på skrivebordet er pulveriseret , og bomben har lavet et dybt krater i gulvet nedunder .
+4-1	"	O	
+4-2	Bordpladen	B-noun.artifact	
+4-3	på	O	
+4-4	skrivebordet	B-noun.artifact	
+4-5	er	O	
+4-6	pulveriseret	B-verb.change	
+4-7	,	O	
+4-8	og	O	
+4-9	bomben	B-noun.artifact	
+4-10	har	O	
+4-11	lavet	B-verb.creation	
+4-12	et	O	
+4-13	dybt	B-adj.phys	
+4-14	krater	B-noun.phenomenon	
+4-15	i	O	
+4-16	gulvet	B-noun.artifact	
+4-17	nedunder	O	
+4-18	.	O	
+
+#id=5
+#text=Dettaler for , at bomben er eksploderet , da han har åbnet pakken , " siger kriminalinspektør Bent Hansen , drabsafdelingen  .
+5-1	Det	O	
+5-2	taler	B-verb.communication	
+5-3	for	O	
+5-4	,	O	
+5-5	at	O	
+5-6	bomben	B-noun.artifact	
+5-7	er	O	
+5-8	eksploderet	B-verb.change	
+5-9	,	O	
+5-10	da	O	
+5-11	han	O	
+5-12	har	O	
+5-13	åbnet	B-verb.act	
+5-14	pakken	B-noun.container	
+5-15	,	O	
+5-16	"	O	
+5-17	siger	B-verb.communication	
+5-18	kriminalinspektør	B-noun.person	
+5-19	Bent	B-noun.person	
+5-20	Hansen	I-noun.person	
+5-21	,	O	
+5-22	drabsafdelingen	B-noun.institution	
+5-23	.	O	
+
+#id=6
+#text=Politietsteknikere har ikke fundet rester af bomben endnu , men kilovis af materiale , der er samlet på stedet , skal nu fin-sorteres og undersøges .
+6-1	Politiets	B-noun.institution	
+6-2	teknikere	B-noun.person	
+6-3	har	O	
+6-4	ikke	O	
+6-5	fundet	B-verb.cognition	
+6-6	rester	B-noun.relation	
+6-7	af	O	
+6-8	bomben	B-noun.artifact	
+6-9	endnu	O	
+6-10	,	O	
+6-11	men	O	
+6-12	kilovis	B-noun.quantity	
+6-13	af	O	
+6-14	materiale	B-noun.substance	
+6-15	,	O	
+6-16	der	O	
+6-17	er	O	
+6-18	samlet	B-verb.act	
+6-19	på	O	
+6-20	stedet	B-noun.location	
+6-21	,	O	
+6-22	skal	O	
+6-23	nu	O	
+6-24	fin-sorteres	B-verb.act	
+6-25	og	O	
+6-26	undersøges	B-verb.cognition	
+6-27	.	O	
+
+#id=7
+#text=I_gårholdt politiets teknikere møde med sprængstof-eksperter fra Farum Kasernes ingeniør-tropper , men endnu kan politiet ikke sige , hvilket sprængstof der er brugt .
+7-1	I_går	B-noun.time	
+7-2	holdt	B-verb.act	
+7-3	politiets	B-noun.institution	
+7-4	teknikere	B-noun.person	
+7-5	møde	B-verb.COLL	
+7-6	med	O	
+7-7	sprængstof-eksperter	B-noun.person	
+7-8	fra	O	
+7-9	Farum	B-noun.institution	
+7-10	Kasernes	I-noun.institution	
+7-11	ingeniør-tropper	B-noun.person	
+7-12	,	O	
+7-13	men	O	
+7-14	endnu	O	
+7-15	kan	O	
+7-16	politiet	B-noun.institution	
+7-17	ikke	O	
+7-18	sige	B-verb.communication	
+7-19	,	O	
+7-20	hvilket	O	
+7-21	sprængstof	B-noun.artifact	
+7-22	der	O	
+7-23	er	O	
+7-24	brugt	B-verb.act	
+7-25	.	O	
+
+#id=8
+#text=Mender må være tale om sprængstof , der også giver en kraftig brandpåvirkning .
+8-1	Men	O	
+8-2	der	O	
+8-3	må	O	
+8-4	være	B-verb.stative	
+8-5	tale	B-noun.communication	
+8-6	om	O	
+8-7	sprængstof	B-noun.artifact	
+8-8	,	O	
+8-9	der	O	
+8-10	også	O	
+8-11	giver	B-verb.phenomenon	
+8-12	en	O	
+8-13	kraftig	B-adj.all	
+8-14	brandpåvirkning	B-noun.phenomenon	
+8-15	.	O	
+
+#id=9
+#text=I_dagholdes et nyt møde med andre sprængstofeksperter i forsøget på at fastslå sprængstof-typen .
+9-1	I_dag	O	
+9-2	holdes	B-verb.act	
+9-3	et	O	
+9-4	nyt	B-adj.time	
+9-5	møde	B-verb.COLL	
+9-6	med	O	
+9-7	andre	O	
+9-8	sprængstofeksperter	B-noun.person	
+9-9	i	O	
+9-10	forsøget	B-noun.act	
+9-11	på	O	
+9-12	at	O	
+9-13	fastslå	B-verb.cognition	
+9-14	sprængstof-typen	B-noun.domain	
+9-15	.	O	
+

@@ -1,0 +1,78 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Lexicalsample | tag
+#id=1
+#text=Mennesket har skabt problemet, og jeg ser intet galt i at de prøver at udbedre de dertilkomne skader.
+1-1	Mennesket	menneske	NC:sdun:--:----	_	
+1-2	har	have	VF:----:sa:----	_	
+1-3	skabt	skabe	VT:siu#:t-:----	_	
+1-4	problemet	problem	NC:sdun:--:----	_	
+1-5	,	,	ZD	_	
+1-6	og	og	CC:----:--:----	_	
+1-7	jeg	jeg	PP:s-nc:--:-1n-	_	
+1-8	ser	se	VF:----:sa:----	_	
+1-9	intet	ingen	PI:s-un:--:----	_	
+1-10	galt	gal	AC:siun:--:p---	_	
+1-11	i	i	T-:----:--:----	_	
+1-12	at	at	CS:----:--:----	_	
+1-13	de	de	PP:p-n#:--:-3n-	_	
+1-14	prøver	prøve	VF:----:sa:----	_	
+1-15	at	at	UI:----:--:----	_	
+1-16	udbedre	udbedre	VI:----:-a:----	_	
+1-17	de	den	PM:p-u#:--:----	_	
+1-18	dertilkomne	dertilkomme	VP:p#u#:t-:----	_	
+1-19	skader	skade	NC:piu#:--:----	skade_1_1	
+1-20	.	.	ZP	_	
+
+#id=2
+#text= Jeg har været på skiferie uden at komme til skade. :P ...Men for to måneder siden trådte jeg forkert lige her udenfor hvor jeg arbejder - og måtte gå med skinne i fem uger. :( Og hvad kan vi så lære af det?
+2-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+2-2	har	have	VF:----:sa:----	_	
+2-3	været	være	VT:siu#:t-:----	_	
+2-4	på	på	T-:----:--:----	_	
+2-5	skiferie	skiferie	NC:siuc:--:----	_	
+2-6	uden	uden	T-:----:--:----	_	
+2-7	at	at	UI:----:--:----	_	
+2-8	komme	komme	VI:----:-a:----	_	
+2-9	til	til	T-:----:--:----	_	
+2-10	skade	skade	NC:siuc:--:----	skade_F_komme til skade	
+2-11	.	.	ZP	_	
+2-12	:	:	ZP	_	
+2-13	P	P	NP:siu#:--:----	_	
+2-14	.	.	ZP	_	
+2-15	.	.	ZP	_	
+2-16	.	.	ZP	_	
+2-17	Men	men	CC:----:--:----	_	
+2-18	for	for	T-:----:--:----	_	
+2-19	to	to	LC:--u-:--:----	_	
+2-20	måneder	måned	NC:piu#:--:----	_	
+2-21	siden	siden	D-:----:--:u---	_	
+2-22	trådte	træde	VF:----:ta:----	_	
+2-23	jeg	jeg	PP:s-nc:--:-1n-	_	
+2-24	forkert	forkert	AD:----:--:p---	_	
+2-25	lige	lige	D-:----:--:u---	_	
+2-26	her	her	D-:----:--:u---	_	
+2-27	udenfor	udenfor	D-:----:--:u---	_	
+2-28	hvor	hvor	D-:----:--:u---	_	
+2-29	jeg	jeg	PP:s-nc:--:-1n-	_	
+2-30	arbejder	arbejde	NC:piu#:--:----	_	
+2-31	-	-	ZH	_	
+2-32	og	og	CC:----:--:----	_	
+2-33	måtte	måtte	VF:----:ta:----	_	
+2-34	gå	gå	VI:----:-a:----	_	
+2-35	med	med	T-:----:--:----	_	
+2-36	skinne	skinne	NC:siuc:--:----	_	
+2-37	i	i	T-:----:--:----	_	
+2-38	fem	fem	LC:--u-:--:----	_	
+2-39	uger	uge	NC:piu#:--:----	_	
+2-40	.	.	ZP	_	
+2-41	:	:	ZP	_	
+2-42	(	(	ZD	_	
+2-43	Og	og	CC:----:--:----	_	
+2-44	hvad	hvad	PR:s-u#:--:----	_	
+2-45	kan	kunne	VF:----:sa:----	_	
+2-46	vi	vi	PP:p-nc:--:-1n-	_	
+2-47	så	så	D-:----:--:u---	_	
+2-48	lære	lære	VI:----:-a:----	_	
+2-49	af	af	T-:----:--:----	_	
+2-50	det	det	PP:s-un:--:-3n-	_	
+2-51	?	?	ZQ	_	
+

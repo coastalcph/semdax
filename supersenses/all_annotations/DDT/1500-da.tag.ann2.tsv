@@ -1,0 +1,223 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=DETer tilsyneladende en KTAS-taktik , at man sender " andet geled " i front , når lokummet brænder .
+1-1	DET	O	
+1-2	er	B-verb.stative	
+1-3	tilsyneladende	O	
+1-4	en	O	
+1-5	KTAS-taktik	B-noun.abstract	
+1-6	,	O	
+1-7	at	O	
+1-8	man	O	
+1-9	sender	B-verb.act	
+1-10	"	O	
+1-11	andet	O	
+1-12	geled	B-noun.person	
+1-13	"	O	
+1-14	i	O	
+1-15	front	B-noun.location	
+1-16	,	O	
+1-17	når	O	
+1-18	lokummet	B-noun.artifact	
+1-19	brænder	B-verb.phenomenon	
+1-20	.	O	
+
+#id=2
+#text=KTAS-ledelsenburde forstå , at denne taktik - " fremad drenge , jeg kommer straks " - kun virker , når man ikke møder alvorlig opposition .
+2-1	KTAS-ledelsen	B-noun.person	
+2-2	burde	O	
+2-3	forstå	B-verb.cognition	
+2-4	,	O	
+2-5	at	O	
+2-6	denne	O	
+2-7	taktik	B-noun.cognition	
+2-8	-	O	
+2-9	"	O	
+2-10	fremad	O	
+2-11	drenge	B-noun.person	
+2-12	,	O	
+2-13	jeg	O	
+2-14	kommer	B-verb.motion	
+2-15	straks	O	
+2-16	"	O	
+2-17	-	O	
+2-18	kun	O	
+2-19	virker	B-verb.phenomenon	
+2-20	,	O	
+2-21	når	O	
+2-22	man	O	
+2-23	ikke	O	
+2-24	møder	B-verb.phenomenon	
+2-25	alvorlig	B-adj.all	
+2-26	opposition	B-noun.person	
+2-27	.	O	
+
+#id=3
+#text=KTAS'ledelse har tilsyneladende heller ikke lært den gamle regel om , " .. at man kan narre nogle få altid og de fleste i en kortere tid , men man kan ikke narre alle altid . "
+3-1	KTAS'	B-noun.institution	
+3-2	ledelse	B-noun.person	
+3-3	har	O	
+3-4	tilsyneladende	O	
+3-5	heller	O	
+3-6	ikke	O	
+3-7	lært	B-verb.cognition	
+3-8	den	O	
+3-9	gamle	B-adj.time	
+3-10	regel	B-noun.cognition	
+3-11	om	O	
+3-12	,	O	
+3-13	"	O	
+3-14	..	O	
+3-15	at	O	
+3-16	man	O	
+3-17	kan	O	
+3-18	narre	B-verb.communication	
+3-19	nogle	O	
+3-20	få	O	
+3-21	altid	O	
+3-22	og	O	
+3-23	de	O	
+3-24	fleste	O	
+3-25	i	O	
+3-26	en	O	
+3-27	kortere	B-adj.time	
+3-28	tid	B-noun.time	
+3-29	,	O	
+3-30	men	O	
+3-31	man	O	
+3-32	kan	O	
+3-33	ikke	O	
+3-34	narre	B-verb.communication	
+3-35	alle	O	
+3-36	altid	O	
+3-37	.	O	
+3-38	"	O	
+
+#id=4
+#text=HERMEDer vi så nået frem til dét , som sagen egentlig drejer sig om : En del abonnenter mener , at de bliver registreret for ydelser , de ikke har modtaget .
+4-1	HERMED	O	
+4-2	er	O	
+4-3	vi	O	
+4-4	så	O	
+4-5	nået	B-verb.phenomenon	
+4-6	frem	B-verb.COLL	
+4-7	til	O	
+4-8	dét	O	
+4-9	,	O	
+4-10	som	O	
+4-11	sagen	B-noun.abstract	
+4-12	egentlig	O	
+4-13	drejer	B-verb.stative	
+4-14	sig	B-verb.REFLPRON	
+4-15	om	B-verb.COLL	
+4-16	:	O	
+4-17	En	O	
+4-18	del	B-noun.quantity	
+4-19	abonnenter	B-noun.person	
+4-20	mener	O	
+4-21	,	O	
+4-22	at	O	
+4-23	de	O	
+4-24	bliver	O	
+4-25	registreret	B-verb.act	
+4-26	for	O	
+4-27	ydelser	B-noun.abstract	
+4-28	,	O	
+4-29	de	O	
+4-30	ikke	O	
+4-31	har	O	
+4-32	modtaget	B-verb.possession	
+4-33	.	O	
+
+#id=5
+#text=DISSEydelser drejer sig for den almindelige abonnent groft sagt om to kategorier : Almindelige samtaler og serviceydelser , herunder de utugtige såkaldte " stønne-ydelser " .
+5-1	DISSE	O	
+5-2	ydelser	B-noun.abstract	
+5-3	drejer	B-verb.stative	
+5-4	sig	B-verb.REFLPRON	
+5-5	for	O	
+5-6	den	O	
+5-7	almindelige	B-adj.all	
+5-8	abonnent	B-noun.person	
+5-9	groft	O	
+5-10	sagt	B-verb.communication	
+5-11	om	B-verb.COLL	
+5-12	to	O	
+5-13	kategorier	B-noun.relation	
+5-14	:	O	
+5-15	Almindelige	B-adj.all	
+5-16	samtaler	B-noun.communication	
+5-17	og	O	
+5-18	serviceydelser	B-noun.act	
+5-19	,	O	
+5-20	herunder	O	
+5-21	de	O	
+5-22	utugtige	B-adj.all	
+5-23	såkaldte	B-adj.all	
+5-24	"	O	
+5-25	stønne-ydelser	B-noun.act	
+5-26	"	O	
+5-27	.	O	
+
+#id=6
+#text=SE, nu har jeg ladet mig fortælle , at utugt kan være både underholdende og motionerende , så lad os ikke forarges over dette service-tilbud .
+6-1	SE	B-verb.cognition	
+6-2	,	O	
+6-3	nu	O	
+6-4	har	O	
+6-5	jeg	O	
+6-6	ladet	O	
+6-7	mig	O	
+6-8	fortælle	B-verb.communication	
+6-9	,	O	
+6-10	at	O	
+6-11	utugt	B-noun.act	
+6-12	kan	O	
+6-13	være	B-verb.stative	
+6-14	både	O	
+6-15	underholdende	B-adj.all	
+6-16	og	O	
+6-17	motionerende	B-adj.all	
+6-18	,	O	
+6-19	så	O	
+6-20	lad	B-verb.phenomenon	
+6-21	os	O	
+6-22	ikke	O	
+6-23	forarges	B-verb.change	
+6-24	over	O	
+6-25	dette	O	
+6-26	service-tilbud	B-noun.communication	
+6-27	.	O	
+
+#id=7
+#text=Det, der bekymrer mig , er , at det tilsyneladende ofte hænder , at både almindelige samtaler og stønne- og anden service bliver registreret til andre abonnenter .
+7-1	Det	O	
+7-2	,	O	
+7-3	der	O	
+7-4	bekymrer	B-verb.phenomenon	
+7-5	mig	O	
+7-6	,	O	
+7-7	er	B-verb.stative	
+7-8	,	O	
+7-9	at	O	
+7-10	det	O	
+7-11	tilsyneladende	O	
+7-12	ofte	O	
+7-13	hænder	B-verb.phenomenon	
+7-14	,	O	
+7-15	at	O	
+7-16	både	O	
+7-17	almindelige	B-adj.all	
+7-18	samtaler	B-noun.communication	
+7-19	og	O	
+7-20	stønne-	B-noun.act	
+7-21	og	O	
+7-22	anden	O	
+7-23	service	B-noun.act	
+7-24	bliver	O	
+7-25	registreret	B-verb.act	
+7-26	til	O	
+7-27	andre	O	
+7-28	abonnenter	B-noun.person	
+7-29	.	O	
+

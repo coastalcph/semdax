@@ -1,0 +1,249 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Menikke førend  i 1969 gjorde han noget ved pladeindustrien .
+1-1	Men	O	
+1-2	ikke	O	
+1-3	førend	O	
+1-4	i	O	
+1-5	1969	B-noun.time	
+1-6	gjorde	B-verb.act	
+1-7	han	O	
+1-8	noget	O	
+1-9	ved	O	
+1-10	pladeindustrien	B-noun.institution	
+1-11	.	O	
+
+#id=2
+#text=Detvar det år , hans første LP , " With A Little Help From My Friends " , udkom .
+2-1	Det	O	
+2-2	var	B-verb.stative	
+2-3	det	O	
+2-4	år	B-noun.time	
+2-5	,	O	
+2-6	hans	O	
+2-7	første	B-adj.time	
+2-8	LP	B-noun.communication	
+2-9	,	O	
+2-10	"	O	
+2-11	With	B-noun.communication	
+2-12	A	I-noun.communication	
+2-13	Little	I-noun.communication	
+2-14	Help	I-noun.communication	
+2-15	From	I-noun.communication	
+2-16	My	I-noun.communication	
+2-17	Friends	I-noun.communication	
+2-18	"	O	
+2-19	,	O	
+2-20	udkom	B-verb.phenomenon	
+2-21	.	O	
+
+#id=3
+#text=Hansudgave af Beatles-hittet blev en succes .
+3-1	Hans	O	
+3-2	udgave	B-noun.abstract	
+3-3	af	O	
+3-4	Beatles-hittet	B-noun.communication	
+3-5	blev	B-verb.stative	
+3-6	en	O	
+3-7	succes	B-noun.cognition	
+3-8	.	O	
+
+#id=4
+#text=Senerehar han taget idé en op igen og indspillet Lennon/McCartneys " She Came In Through The Bathroom Window " og " You've Got To Hide Your Love Away " , som er med på " Night Calls " , det 17. album han har udsendt på de snart 25 år i pladebranchen .
+4-1	Senere	O	
+4-2	har	O	
+4-3	han	O	
+4-4	taget	B-verb.cognition	
+4-5	idé	B-noun.cognition	
+4-6	en	O	
+4-7	op	B-verb.PARTICLE	
+4-8	igen	O	
+4-9	og	O	
+4-10	indspillet	B-verb.act	
+4-11	Lennon/McCartneys	B-noun.person	
+4-12	"	O	
+4-13	She	B-noun.communication	
+4-14	Came	I-noun.communication	
+4-15	In	I-noun.communication	
+4-16	Through	I-noun.communication	
+4-17	The	I-noun.communication	
+4-18	Bathroom	I-noun.communication	
+4-19	Window	I-noun.communication	
+4-20	"	O	
+4-21	og	O	
+4-22	"	O	
+4-23	You've	B-noun.communication	
+4-24	Got	I-noun.communication	
+4-25	To	I-noun.communication	
+4-26	Hide	I-noun.communication	
+4-27	Your	I-noun.communication	
+4-28	Love	I-noun.communication	
+4-29	Away	I-noun.communication	
+4-30	"	O	
+4-31	,	O	
+4-32	som	O	
+4-33	er	B-verb.stative	
+4-34	med	O	
+4-35	på	O	
+4-36	"	O	
+4-37	Night	B-noun.communication	
+4-38	Calls	I-noun.communication	
+4-39	"	O	
+4-40	,	O	
+4-41	det	O	
+4-42	17.	O	
+4-43	album	B-noun.communication	
+4-44	han	O	
+4-45	har	O	
+4-46	udsendt	B-verb.act	
+4-47	på	O	
+4-48	de	O	
+4-49	snart	O	
+4-50	25	O	
+4-51	år	B-noun.time	
+4-52	i	O	
+4-53	pladebranchen	B-noun.institution	
+4-54	.	O	
+
+#id=5
+#text=Dethelt store skub i karrieren fik Joe Cocker egentlig først i 1982 , hvor han modtog en Grammy for medvirken i " bedste duet " .
+5-1	Det	O	
+5-2	helt	O	
+5-3	store	B-adj.all	
+5-4	skub	B-noun.phenomenon	
+5-5	i	O	
+5-6	karrieren	B-noun.attribute	
+5-7	fik	B-verb.possession	
+5-8	Joe	B-noun.person	
+5-9	Cocker	I-noun.person	
+5-10	egentlig	O	
+5-11	først	O	
+5-12	i	O	
+5-13	1982	B-noun.time	
+5-14	,	O	
+5-15	hvor	O	
+5-16	han	O	
+5-17	modtog	B-verb.possession	
+5-18	en	O	
+5-19	Grammy	B-noun.communication	
+5-20	for	O	
+5-21	medvirken	B-noun.act	
+5-22	i	O	
+5-23	"	O	
+5-24	bedste	B-adj.all	
+5-25	duet	B-noun.communication	
+5-26	"	O	
+5-27	.	O	
+
+#id=6
+#text=Duettenvar kærlighedstemaet , " Up Where We Belong fra filmen " An Officer & A Gentleman " , og han sang den sammen med Jennifer Warnes .
+6-1	Duetten	B-noun.communication	
+6-2	var	B-verb.stative	
+6-3	kærlighedstemaet	B-noun.attribute	
+6-4	,	O	
+6-5	"	O	
+6-6	Up	B-noun.communication	
+6-7	Where	I-noun.communication	
+6-8	We	I-noun.communication	
+6-9	Belong	I-noun.communication	
+6-10	fra	O	
+6-11	filmen	B-noun.communication	
+6-12	"	O	
+6-13	An	B-noun.communication	
+6-14	Officer	I-noun.communication	
+6-15	&	I-noun.communication	
+6-16	A	I-noun.communication	
+6-17	Gentleman	I-noun.communication	
+6-18	"	O	
+6-19	,	O	
+6-20	og	O	
+6-21	han	O	
+6-22	sang	B-verb.communication	
+6-23	den	O	
+6-24	sammen	O	
+6-25	med	O	
+6-26	Jennifer	B-noun.person	
+6-27	Warnes	I-noun.person	
+6-28	.	O	
+
+#id=7
+#text=VINDBILLETTER
+7-1	VIND	B-verb.phenomenon	
+7-2	BILLETTER	B-noun.communication	
+
+#id=8
+#text=Detmedførte , at Joe Cocker fik flere tilbud om at levere sange til film .
+8-1	Det	O	
+8-2	medførte	B-verb.phenomenon	
+8-3	,	O	
+8-4	at	O	
+8-5	Joe	B-noun.person	
+8-6	Cocker	I-noun.person	
+8-7	fik	B-verb.possession	
+8-8	flere	O	
+8-9	tilbud	B-noun.communication	
+8-10	om	O	
+8-11	at	O	
+8-12	levere	B-verb.creation	
+8-13	sange	B-noun.communication	
+8-14	til	O	
+8-15	film	B-noun.communication	
+8-16	.	O	
+
+#id=9
+#text=Bl.a.den ret så dristige film " 9 1/2 uge " .
+9-1	Bl.a.	O	
+9-2	den	O	
+9-3	ret	O	
+9-4	så	O	
+9-5	dristige	B-adj.mental	
+9-6	film	B-noun.communication	
+9-7	"	O	
+9-8	9	B-noun.communication	
+9-9	1/2	I-noun.communication	
+9-10	uge	I-noun.communication	
+9-11	"	O	
+9-12	.	O	
+
+#id=10
+#text=Hansbidrag til denne berømte og berygtede film var næsten lige så dristigt som filmen , " You Can Leave Your Hat On " hed det .
+10-1	Hans	O	
+10-2	bidrag	B-noun.act	
+10-3	til	O	
+10-4	denne	O	
+10-5	berømte	B-adj.social	
+10-6	og	O	
+10-7	berygtede	B-adj.social	
+10-8	film	B-noun.communication	
+10-9	var	B-verb.stative	
+10-10	næsten	O	
+10-11	lige	O	
+10-12	så	O	
+10-13	dristigt	B-adj.mental	
+10-14	som	O	
+10-15	filmen	B-noun.communication	
+10-16	,	O	
+10-17	"	O	
+10-18	You	B-noun.communication	
+10-19	Can	I-noun.communication	
+10-20	Leave	I-noun.communication	
+10-21	Your	I-noun.communication	
+10-22	Hat	I-noun.communication	
+10-23	On	I-noun.communication	
+10-24	"	O	
+10-25	hed	B-verb.stative	
+10-26	det	O	
+10-27	.	O	
+
+#id=11
+#text=I_dagkan man finde ham på seks film-soundtracks .
+11-1	I_dag	B-noun.time	
+11-2	kan	O	
+11-3	man	O	
+11-4	finde	B-verb.cognition	
+11-5	ham	O	
+11-6	på	O	
+11-7	seks	O	
+11-8	film-soundtracks	B-noun.communication	
+11-9	.	O	
+

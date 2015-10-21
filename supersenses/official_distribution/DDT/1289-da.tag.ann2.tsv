@@ -1,0 +1,224 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=(3 stjerner ) " Karlsvognen " .
+1-1	(	O	
+1-2	3	O	
+1-3	stjerner	B-noun.object	
+1-4	)	O	
+1-5	"	O	
+1-6	Karlsvognen	B-noun.communication	
+1-7	"	O	
+1-8	.	O	
+
+#id=2
+#text=Dansk.
+2-1	Dansk	B-adj.social	
+2-2	.	O	
+
+#id=3
+#text=Premierei 10 biografer over hele landet .
+3-1	Premiere	B-noun.event	
+3-2	i	O	
+3-3	10	O	
+3-4	biografer	B-noun.building	
+3-5	over	O	
+3-6	hele	B-adj.phys	
+3-7	landet	B-noun.location	
+3-8	.	O	
+
+#id=4
+#text="ROLIG " betyder morsom  på svensk .
+4-1	"	O	
+4-2	ROLIG	B-adj.mental	
+4-3	"	O	
+4-4	betyder	B-verb.stative	
+4-5	morsom	B-adj.mental	
+4-6	på	O	
+4-7	svensk	B-noun.communication	
+4-8	.	O	
+
+#id=5
+#text=Deter et af de ord , vor danske hovedperson kommer galt afsted med i " Karlsvognen " , der imidlertid hverken rigtig er det ene eller det andet : rolig nok eller morsom nok .
+5-1	Det	O	
+5-2	er	B-verb.stative	
+5-3	et	O	
+5-4	af	O	
+5-5	de	O	
+5-6	ord	B-noun.communication	
+5-7	,	O	
+5-8	vor	O	
+5-9	danske	B-adj.social	
+5-10	hovedperson	B-noun.person	
+5-11	kommer	B-verb.phenomenon	
+5-12	galt	O	
+5-13	afsted	B-verb.COLL	
+5-14	med	O	
+5-15	i	O	
+5-16	"	O	
+5-17	Karlsvognen	B-noun.communication	
+5-18	"	O	
+5-19	,	O	
+5-20	der	O	
+5-21	imidlertid	O	
+5-22	hverken	O	
+5-23	rigtig	O	
+5-24	er	B-verb.stative	
+5-25	det	O	
+5-26	ene	O	
+5-27	eller	O	
+5-28	det	O	
+5-29	andet	O	
+5-30	:	O	
+5-31	rolig	B-adj.all	
+5-32	nok	O	
+5-33	eller	O	
+5-34	morsom	B-adj.mental	
+5-35	nok	O	
+5-36	.	O	
+
+#id=6
+#text=NOGLEgange er den så dvælende , at det er lige før den går i stå .
+6-1	NOGLE	O	
+6-2	gange	B-noun.abstract	
+6-3	er	B-verb.stative	
+6-4	den	O	
+6-5	så	O	
+6-6	dvælende	B-adj.all	
+6-7	,	O	
+6-8	at	O	
+6-9	det	O	
+6-10	er	B-verb.stative	
+6-11	lige	O	
+6-12	før	O	
+6-13	den	O	
+6-14	går	B-verb.phenomenon	
+6-15	i	B-verb.COLL	
+6-16	stå	B-verb.COLL	
+6-17	.	O	
+
+#id=7
+#text=Andregange har den så travlt med at fortælle , at man bliver vildt forvirret .
+7-1	Andre	O	
+7-2	gange	B-noun.abstract	
+7-3	har	B-verb.cognition	
+7-4	den	O	
+7-5	så	O	
+7-6	travlt	B-verb.COLL	
+7-7	med	O	
+7-8	at	O	
+7-9	fortælle	B-verb.communication	
+7-10	,	O	
+7-11	at	O	
+7-12	man	O	
+7-13	bliver	B-verb.stative	
+7-14	vildt	O	
+7-15	forvirret	B-adj.mental	
+7-16	.	O	
+
+#id=8
+#text=MAKKERSKABETmellem den danske filminstruktør , Birger Larsen , og den svenske forfatter , Ulf Stark , begyndte med " Lad isbjørnene Danse " - det gav en Bodil for bedste danske film i 1990 .
+8-1	MAKKERSKABET	B-noun.relation	
+8-2	mellem	O	
+8-3	den	O	
+8-4	danske	B-adj.social	
+8-5	filminstruktør	B-noun.person	
+8-6	,	O	
+8-7	Birger	B-noun.person	
+8-8	Larsen	I-noun.person	
+8-9	,	O	
+8-10	og	O	
+8-11	den	O	
+8-12	svenske	B-adj.social	
+8-13	forfatter	B-noun.person	
+8-14	,	O	
+8-15	Ulf	B-noun.person	
+8-16	Stark	I-noun.person	
+8-17	,	O	
+8-18	begyndte	B-verb.aspectual	
+8-19	med	O	
+8-20	"	O	
+8-21	Lad	B-noun.communication	
+8-22	isbjørnene	I-noun.communication	
+8-23	Danse	I-noun.communication	
+8-24	"	O	
+8-25	-	O	
+8-26	det	O	
+8-27	gav	B-verb.phenomenon	
+8-28	en	O	
+8-29	Bodil	B-noun.communication	
+8-30	for	O	
+8-31	bedste	B-adj.all	
+8-32	danske	B-adj.social	
+8-33	film	B-noun.communication	
+8-34	i	O	
+8-35	1990	B-noun.time	
+8-36	.	O	
+
+#id=9
+#text=Nufortsætter det med " Karlavagnen " som Ulf Starks børnebog hedder på svensk , hvor der er et ordspil i , at der ligger et pigenavn gemt i stjernebilledet .
+9-1	Nu	O	
+9-2	fortsætter	B-verb.aspectual	
+9-3	det	O	
+9-4	med	O	
+9-5	"	O	
+9-6	Karlavagnen	B-noun.communication	
+9-7	"	O	
+9-8	som	O	
+9-9	Ulf	B-noun.person	
+9-10	Starks	I-noun.person	
+9-11	børnebog	B-noun.communication	
+9-12	hedder	B-verb.stative	
+9-13	på	O	
+9-14	svensk	B-noun.communication	
+9-15	,	O	
+9-16	hvor	O	
+9-17	der	O	
+9-18	er	B-verb.stative	
+9-19	et	O	
+9-20	ordspil	B-noun.phenomenon	
+9-21	i	O	
+9-22	,	O	
+9-23	at	O	
+9-24	der	O	
+9-25	ligger	B-verb.stative	
+9-26	et	O	
+9-27	pigenavn	B-noun.communication	
+9-28	gemt	O	
+9-29	i	O	
+9-30	stjernebilledet	B-noun.object	
+9-31	.	O	
+
+#id=10
+#text=Vedoversættelsen til " Karlsvognen " tabes en del af magien .
+10-1	Ved	O	
+10-2	oversættelsen	B-noun.communication	
+10-3	til	O	
+10-4	"	O	
+10-5	Karlsvognen	B-noun.communication	
+10-6	"	O	
+10-7	tabes	B-verb.phenomenon	
+10-8	en	O	
+10-9	del	B-noun.quantity	
+10-10	af	O	
+10-11	magien	B-noun.phenomenon	
+10-12	.	O	
+
+#id=11
+#text=Ogsådan er det også med filmen : fortryllelsens stjernestøv er blæst bort i banan-røg !
+11-1	Og	O	
+11-2	sådan	O	
+11-3	er	B-verb.stative	
+11-4	det	O	
+11-5	også	O	
+11-6	med	O	
+11-7	filmen	B-noun.communication	
+11-8	:	O	
+11-9	fortryllelsens	B-noun.phenomenon	
+11-10	stjernestøv	B-noun.object	
+11-11	er	O	
+11-12	blæst	B-verb.phenomenon	
+11-13	bort	O	
+11-14	i	O	
+11-15	banan-røg	B-noun.phenomenon	
+11-16	!	O	
+

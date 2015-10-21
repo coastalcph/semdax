@@ -1,0 +1,229 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=ODENSE: Først i næste uge ventes det , at TV 2 offentliggør , hvem den nye overboss på Kvægtorvet skal være .
+1-1	ODENSE	B-noun.location	
+1-2	:	O	
+1-3	Først	O	
+1-4	i	O	
+1-5	næste	B-adj.time	
+1-6	uge	B-noun.time	
+1-7	ventes	B-verb.cognition	
+1-8	det	O	
+1-9	,	O	
+1-10	at	O	
+1-11	TV	B-noun.institution	
+1-12	2	I-noun.institution	
+1-13	offentliggør	B-verb.communication	
+1-14	,	O	
+1-15	hvem	O	
+1-16	den	O	
+1-17	nye	B-adj.time	
+1-18	overboss	B-noun.person	
+1-19	på	O	
+1-20	Kvægtorvet	B-noun.building	
+1-21	skal	O	
+1-22	være	B-verb.stative	
+1-23	.	O	
+
+#id=2
+#text=Ogden udnævnelse kan komme til at betyde , at den hidtidige direktør , Jørgen Schleimann , 63 , kommer til at gå før tiden .
+2-1	Og	O	
+2-2	den	O	
+2-3	udnævnelse	B-noun.communication	
+2-4	kan	O	
+2-5	komme	B-verb.phenomenon	
+2-6	til	B-verb.PARTICLE	
+2-7	at	O	
+2-8	betyde	B-verb.stative	
+2-9	,	O	
+2-10	at	O	
+2-11	den	O	
+2-12	hidtidige	B-adj.time	
+2-13	direktør	B-noun.person	
+2-14	,	O	
+2-15	Jørgen	B-noun.person	
+2-16	Schleimann	I-noun.person	
+2-17	,	O	
+2-18	63	O	
+2-19	,	O	
+2-20	kommer	B-verb.PARTICLE	
+2-21	til	B-verb.PARTICLE	
+2-22	at	O	
+2-23	gå	B-verb.act	
+2-24	før	O	
+2-25	tiden	B-noun.time	
+2-26	.	O	
+
+#id=3
+#text=Bestyrelsesformandenfor TV 2 , professor Jørn Henrik Petersen , afviser ikke , at den ny chef kan tiltræde , før Schleimanns kontrakt udløber til oktober .
+3-1	Bestyrelsesformanden	B-noun.person	
+3-2	for	O	
+3-3	TV	B-noun.institution	
+3-4	2	I-noun.institution	
+3-5	,	O	
+3-6	professor	B-noun.person	
+3-7	Jørn	B-noun.person	
+3-8	Henrik	I-noun.person	
+3-9	Petersen	I-noun.person	
+3-10	,	O	
+3-11	afviser	B-verb.communication	
+3-12	ikke	O	
+3-13	,	O	
+3-14	at	O	
+3-15	den	O	
+3-16	ny	B-adj.time	
+3-17	chef	B-noun.person	
+3-18	kan	O	
+3-19	tiltræde	B-verb.act	
+3-20	,	O	
+3-21	før	O	
+3-22	Schleimanns	B-noun.person	
+3-23	kontrakt	B-noun.communication	
+3-24	udløber	B-verb.phenomenon	
+3-25	til	O	
+3-26	oktober	B-noun.time	
+3-27	.	O	
+
+#id=4
+#text="Det afhænger af personen , om der så skal ske en overlapning i en periode eller hvad , " siger bestyrelsesformanden .
+4-1	"	O	
+4-2	Det	O	
+4-3	afhænger	B-verb.phenomenon	
+4-4	af	O	
+4-5	personen	B-noun.person	
+4-6	,	O	
+4-7	om	O	
+4-8	der	O	
+4-9	så	O	
+4-10	skal	O	
+4-11	ske	B-verb.phenomenon	
+4-12	en	O	
+4-13	overlapning	B-noun.abstract	
+4-14	i	O	
+4-15	en	O	
+4-16	periode	B-noun.time	
+4-17	eller	O	
+4-18	hvad	O	
+4-19	,	O	
+4-20	"	O	
+4-21	siger	B-verb.communication	
+4-22	bestyrelsesformanden	B-noun.person	
+4-23	.	O	
+
+#id=5
+#text=Detnormale i erhvervslivet i den slags situationer er , når en ny chef tiltræder , så ryger den gamle ud - uanset om hans kontrakt varer længere .
+5-1	Det	O	
+5-2	normale	B-adj.all	
+5-3	i	O	
+5-4	erhvervslivet	B-noun.institution	
+5-5	i	O	
+5-6	den	O	
+5-7	slags	B-noun.abstract	
+5-8	situationer	B-noun.state	
+5-9	er	B-verb.stative	
+5-10	,	O	
+5-11	når	O	
+5-12	en	O	
+5-13	ny	B-adj.time	
+5-14	chef	B-noun.person	
+5-15	tiltræder	B-verb.act	
+5-16	,	O	
+5-17	så	O	
+5-18	ryger	B-verb.phenomenon	
+5-19	den	O	
+5-20	gamle	B-adj.time	
+5-21	ud	B-verb.PARTICLE	
+5-22	-	O	
+5-23	uanset	O	
+5-24	om	O	
+5-25	hans	O	
+5-26	kontrakt	B-noun.communication	
+5-27	varer	B-verb.phenomenon	
+5-28	længere	O	
+5-29	.	O	
+
+#id=6
+#text=Detkan også ske i Schleimanns tilfælde , men ikke nødvendigvis .
+6-1	Det	O	
+6-2	kan	O	
+6-3	også	O	
+6-4	ske	B-verb.phenomenon	
+6-5	i	O	
+6-6	Schleimanns	B-noun.person	
+6-7	tilfælde	B-noun.state	
+6-8	,	O	
+6-9	men	O	
+6-10	ikke	O	
+6-11	nødvendigvis	O	
+6-12	.	O	
+
+#id=7
+#text=PIKANTPROBLEM
+7-1	PIKANT	B-adj.all	
+7-2	PROBLEM	B-noun.cognition	
+
+#id=8
+#text=Etlidt pikant problem i samme forbindelse er , hvordan Schleimanns sekretær , hans samleverske , Annie Gertz' stilling bliver .
+8-1	Et	O	
+8-2	lidt	O	
+8-3	pikant	B-adj.all	
+8-4	problem	B-noun.cognition	
+8-5	i	O	
+8-6	samme	B-adj.all	
+8-7	forbindelse	B-noun.relation	
+8-8	er	B-verb.stative	
+8-9	,	O	
+8-10	hvordan	O	
+8-11	Schleimanns	B-noun.person	
+8-12	sekretær	B-noun.person	
+8-13	,	O	
+8-14	hans	O	
+8-15	samleverske	B-noun.person	
+8-16	,	O	
+8-17	Annie	B-noun.person	
+8-18	Gertz'	I-noun.person	
+8-19	stilling	B-noun.attribute	
+8-20	bliver	B-verb.stative	
+8-21	.	O	
+
+#id=9
+#text=TV_2-bestyrelsenvar i_går samlet , og selv_om alle er meget hemmelighedsfulde , så menes det nu , at Jørn Henrik Petersen og det øvrige ansættelsesudvalg har fået bemyndigelse til at lave en kontrakt med en bestemt person .
+9-1	TV_2-bestyrelsen	B-noun.person	
+9-2	var	B-verb.stative	
+9-3	i_går	O	
+9-4	samlet	B-adj.all	
+9-5	,	O	
+9-6	og	O	
+9-7	selv_om	O	
+9-8	alle	O	
+9-9	er	B-verb.stative	
+9-10	meget	O	
+9-11	hemmelighedsfulde	B-adj.all	
+9-12	,	O	
+9-13	så	O	
+9-14	menes	B-verb.cognition	
+9-15	det	O	
+9-16	nu	O	
+9-17	,	O	
+9-18	at	O	
+9-19	Jørn	B-noun.person	
+9-20	Henrik	I-noun.person	
+9-21	Petersen	I-noun.person	
+9-22	og	O	
+9-23	det	O	
+9-24	øvrige	B-adj.all	
+9-25	ansættelsesudvalg	B-noun.person	
+9-26	har	O	
+9-27	fået	B-verb.possession	
+9-28	bemyndigelse	B-noun.communication	
+9-29	til	O	
+9-30	at	O	
+9-31	lave	B-verb.creation	
+9-32	en	O	
+9-33	kontrakt	B-noun.communication	
+9-34	med	O	
+9-35	en	O	
+9-36	bestemt	B-adj.all	
+9-37	person	B-noun.person	
+9-38	.	O	
+

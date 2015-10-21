@@ -1,0 +1,218 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Mender er andre i familien , der kan .
+1-1	Men	O	
+1-2	der	O	
+1-3	er	B-verb.stative	
+1-4	andre	O	
+1-5	i	O	
+1-6	familien	B-noun.person	
+1-7	,	O	
+1-8	der	O	
+1-9	kan	O	
+1-10	.	O	
+
+#id=2
+#text=Nuer det lillesøster , Jennifer Tilly , der spøger i kulisserne .
+2-1	Nu	O	
+2-2	er	B-verb.stative	
+2-3	det	O	
+2-4	lillesøster	B-noun.person	
+2-5	,	O	
+2-6	Jennifer	B-noun.person	
+2-7	Tilly	I-noun.person	
+2-8	,	O	
+2-9	der	O	
+2-10	spøger	B-verb.communication	
+2-11	i	O	
+2-12	kulisserne	B-noun.location	
+2-13	.	O	
+
+#id=3
+#text=Detbehøver ikke at være en ubetinget fordel , selv_om Meg Tilly fik skabt sig noget af et navn - specielt med filmen " Gensyn med vennerne " og senere " Valmont " .
+3-1	Det	O	
+3-2	behøver	B-verb.phenomenon	
+3-3	ikke	O	
+3-4	at	O	
+3-5	være	B-verb.stative	
+3-6	en	O	
+3-7	ubetinget	B-adj.all	
+3-8	fordel	B-noun.attribute	
+3-9	,	O	
+3-10	selv_om	O	
+3-11	Meg	B-noun.person	
+3-12	Tilly	I-noun.person	
+3-13	fik	O	
+3-14	skabt	B-verb.creation	
+3-15	sig	O	
+3-16	noget	O	
+3-17	af	O	
+3-18	et	O	
+3-19	navn	B-noun.attribute	
+3-20	-	O	
+3-21	specielt	O	
+3-22	med	O	
+3-23	filmen	B-noun.communication	
+3-24	"	O	
+3-25	Gensyn	B-noun.communication	
+3-26	med	I-noun.communication	
+3-27	vennerne	I-noun.communication	
+3-28	"	O	
+3-29	og	O	
+3-30	senere	O	
+3-31	"	O	
+3-32	Valmont	B-noun.communication	
+3-33	"	O	
+3-34	.	O	
+
+#id=4
+#text=Faktisk- efter at Jennifer Tilly , der er et år yngre end sin storesøster Meg , også er begyndt at gå efter de lidt tungere roller - har de nærmest stødt hovederne sammen , når der skulle besættes roller .
+4-1	Faktisk	O	
+4-2	-	O	
+4-3	efter	O	
+4-4	at	O	
+4-5	Jennifer	B-noun.person	
+4-6	Tilly	I-noun.person	
+4-7	,	O	
+4-8	der	O	
+4-9	er	B-verb.stative	
+4-10	et	O	
+4-11	år	B-noun.time	
+4-12	yngre	B-adj.phys	
+4-13	end	O	
+4-14	sin	O	
+4-15	storesøster	B-noun.person	
+4-16	Meg	B-noun.person	
+4-17	,	O	
+4-18	også	O	
+4-19	er	O	
+4-20	begyndt	B-verb.aspectual	
+4-21	at	O	
+4-22	gå	B-verb.act	
+4-23	efter	O	
+4-24	de	O	
+4-25	lidt	O	
+4-26	tungere	B-adj.all	
+4-27	roller	B-noun.person	
+4-28	-	O	
+4-29	har	O	
+4-30	de	O	
+4-31	nærmest	O	
+4-32	stødt	B-verb.motion	
+4-33	hovederne	B-noun.body	
+4-34	sammen	B-verb.PARTICLE	
+4-35	,	O	
+4-36	når	O	
+4-37	der	O	
+4-38	skulle	O	
+4-39	besættes	B-verb.act	
+4-40	roller	B-noun.person	
+4-41	.	O	
+
+#id=5
+#text="Det er sket , at vi begge er gået efter den samme rolle og så begge to er bakket ud igen , så det er endt med , at en helt tredje har fået rollen , " siger Jennifer Tilly , der mest er kendt for sine lidt mere vovede roller .
+5-1	"	O	
+5-2	Det	O	
+5-3	er	O	
+5-4	sket	B-verb.phenomenon	
+5-5	,	O	
+5-6	at	O	
+5-7	vi	O	
+5-8	begge	O	
+5-9	er	O	
+5-10	gået	B-verb.act	
+5-11	efter	O	
+5-12	den	O	
+5-13	samme	O	
+5-14	rolle	B-noun.person	
+5-15	og	O	
+5-16	så	O	
+5-17	begge	O	
+5-18	to	O	
+5-19	er	O	
+5-20	bakket	B-verb.act	
+5-21	ud	B-verb.PARTICLE	
+5-22	igen	O	
+5-23	,	O	
+5-24	så	O	
+5-25	det	O	
+5-26	er	O	
+5-27	endt	B-verb.phenomenon	
+5-28	med	O	
+5-29	,	O	
+5-30	at	O	
+5-31	en	O	
+5-32	helt	O	
+5-33	tredje	B-noun.person	
+5-34	har	O	
+5-35	fået	B-verb.possession	
+5-36	rollen	B-noun.person	
+5-37	,	O	
+5-38	"	O	
+5-39	siger	B-verb.communication	
+5-40	Jennifer	B-noun.person	
+5-41	Tilly	I-noun.person	
+5-42	,	O	
+5-43	der	O	
+5-44	mest	O	
+5-45	er	B-verb.stative	
+5-46	kendt	B-adj.social	
+5-47	for	O	
+5-48	sine	O	
+5-49	lidt	O	
+5-50	mere	O	
+5-51	vovede	B-adj.all	
+5-52	roller	B-noun.person	
+5-53	.	O	
+
+#id=6
+#text="Da jeg skulle prøve at få min første filmrolle ( Moving Violations ) , mødte jeg op i en meget stram kjole .
+6-1	"	O	
+6-2	Da	O	
+6-3	jeg	O	
+6-4	skulle	O	
+6-5	prøve	B-verb.act	
+6-6	at	O	
+6-7	få	B-verb.possession	
+6-8	min	O	
+6-9	første	B-adj.all	
+6-10	filmrolle	B-noun.person	
+6-11	(	O	
+6-12	Moving	B-noun.communication	
+6-13	Violations	I-noun.communication	
+6-14	)	O	
+6-15	,	O	
+6-16	mødte	B-verb.motion	
+6-17	jeg	O	
+6-18	op	B-verb.PARTICLE	
+6-19	i	O	
+6-20	en	O	
+6-21	meget	O	
+6-22	stram	B-adj.phys	
+6-23	kjole	B-noun.artifact	
+6-24	.	O	
+
+#id=7
+#text=Jegtænkte : Det er det her , Hollywood vil have , de skal synes , man er sexet . "
+7-1	Jeg	O	
+7-2	tænkte	B-verb.cognition	
+7-3	:	O	
+7-4	Det	O	
+7-5	er	B-verb.stative	
+7-6	det	O	
+7-7	her	O	
+7-8	,	O	
+7-9	Hollywood	B-noun.institution	
+7-10	vil	B-verb.cognition	
+7-11	have	B-verb.COLL	
+7-12	,	O	
+7-13	de	O	
+7-14	skal	O	
+7-15	synes	B-verb.cognition	
+7-16	,	O	
+7-17	man	O	
+7-18	er	B-verb.stative	
+7-19	sexet	B-adj.phys	
+7-20	.	O	
+7-21	"	O	
+

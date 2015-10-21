@@ -1,0 +1,199 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Femhundrede meter fra hjemmet blev Munni ramt bagfra af en personbil ført af en 30-årig kvindelig bilist .
+1-1	Fem	O	
+1-2	hundrede	O	
+1-3	meter	B-noun.quantity	
+1-4	fra	O	
+1-5	hjemmet	B-noun.building	
+1-6	blev	O	
+1-7	Munni	B-noun.person	
+1-8	ramt	B-verb.contact	
+1-9	bagfra	O	
+1-10	af	O	
+1-11	en	O	
+1-12	personbil	B-noun.vehicle	
+1-13	ført	B-verb.act	
+1-14	af	O	
+1-15	en	O	
+1-16	30-årig	B-adj.time	
+1-17	kvindelig	B-adj.phys	
+1-18	bilist	B-noun.person	
+1-19	.	O	
+
+#id=2
+#text=Den15-årige pige kørte fuldkommen korrekt langs den hvide stribe i vejbanens højre kant .
+2-1	Den	O	
+2-2	15-årige	B-adj.time	
+2-3	pige	B-noun.person	
+2-4	kørte	B-verb.motion	
+2-5	fuldkommen	O	
+2-6	korrekt	O	
+2-7	langs	O	
+2-8	den	O	
+2-9	hvide	B-adj.phys	
+2-10	stribe	B-noun.shape	
+2-11	i	O	
+2-12	vejbanens	B-noun.artifact	
+2-13	højre	B-adj.phys	
+2-14	kant	B-noun.artifact	
+2-15	.	O	
+
+#id=3
+#text=Alligevelkørte den 30-årige kvinde fra området sin Toyota Carina frontalt ind i cyklisten , der blev slynget op mod forruden og var dræbt på stedet .
+3-1	Alligevel	O	
+3-2	kørte	B-verb.motion	
+3-3	den	O	
+3-4	30-årige	B-adj.time	
+3-5	kvinde	B-noun.person	
+3-6	fra	O	
+3-7	området	B-noun.location	
+3-8	sin	O	
+3-9	Toyota	B-noun.vehicle	
+3-10	Carina	I-noun.vehicle	
+3-11	frontalt	O	
+3-12	ind	O	
+3-13	i	O	
+3-14	cyklisten	B-noun.person	
+3-15	,	O	
+3-16	der	O	
+3-17	blev	O	
+3-18	slynget	B-verb.motion	
+3-19	op	O	
+3-20	mod	O	
+3-21	forruden	B-noun.artifact	
+3-22	og	O	
+3-23	var	B-verb.social|B-verb.stative	
+3-24	dræbt	B-adj.phys	
+3-25	på	O	
+3-26	stedet	O	
+3-27	.	O	
+
+#id=4
+#text=UOPMÆRKSOM
+4-1	UOPMÆRKSOM	B-adj.mental	
+
+#id=5
+#text=Denkvindelige bilist kunne ikke umiddelbart give politiet nogen præcis forklaring på , hvordan hun kunne overse den cyklende pige på det helt lige stykke vej .
+5-1	Den	O	
+5-2	kvindelige	B-adj.phys	
+5-3	bilist	B-noun.person	
+5-4	kunne	O	
+5-5	ikke	O	
+5-6	umiddelbart	O	
+5-7	give	B-verb.communication	
+5-8	politiet	B-noun.person	
+5-9	nogen	O	
+5-10	præcis	B-adj.all	
+5-11	forklaring	B-noun.communication	
+5-12	på	O	
+5-13	,	O	
+5-14	hvordan	O	
+5-15	hun	O	
+5-16	kunne	O	
+5-17	overse	B-verb.phenomenon	
+5-18	den	O	
+5-19	cyklende	B-adj.phys	
+5-20	pige	B-noun.person	
+5-21	på	O	
+5-22	det	O	
+5-23	helt	O	
+5-24	lige	B-adj.phys	
+5-25	stykke	B-noun.quantity	
+5-26	vej	B-noun.artifact	
+5-27	.	O	
+
+#id=6
+#text=Menhun indrømmer , at hun i samme øjeblik som ulykken skete , havde sin opmærksomhed rettet mod en have på hendes venstre side .
+6-1	Men	O	
+6-2	hun	O	
+6-3	indrømmer	B-verb.communication	
+6-4	,	O	
+6-5	at	O	
+6-6	hun	O	
+6-7	i	O	
+6-8	samme	B-adj.all	
+6-9	øjeblik	B-noun.time	
+6-10	som	O	
+6-11	ulykken	B-noun.phenomenon	
+6-12	skete	B-verb.phenomenon	
+6-13	,	O	
+6-14	havde	O	
+6-15	sin	O	
+6-16	opmærksomhed	B-noun.cognition	
+6-17	rettet	B-verb.phenomenon	
+6-18	mod	O	
+6-19	en	O	
+6-20	have	B-noun.location	
+6-21	på	O	
+6-22	hendes	O	
+6-23	venstre	B-adj.phys	
+6-24	side	B-noun.location	
+6-25	.	O	
+
+#id=7
+#text=Havener godt kendt i området for sin meget flotte anlæggelse , og netop nu står påskeliljerne i fuld flor .
+7-1	Haven	B-noun.location	
+7-2	er	B-verb.stative	
+7-3	godt	O	
+7-4	kendt	B-adj.social	
+7-5	i	O	
+7-6	området	B-noun.location	
+7-7	for	O	
+7-8	sin	O	
+7-9	meget	O	
+7-10	flotte	B-adj.phys	
+7-11	anlæggelse	B-noun.act	
+7-12	,	O	
+7-13	og	O	
+7-14	netop	O	
+7-15	nu	O	
+7-16	står	B-verb.stative	
+7-17	påskeliljerne	B-noun.plant	
+7-18	i	O	
+7-19	fuld	B-adj.all	
+7-20	flor	B-noun.phenomenon	
+7-21	.	O	
+
+#id=8
+#text=Sekunderfør sammenstødet var Munni blevet overhalet af skoleinspektøren på Centralskolen , som i en henkastet bemærkning sagde , at nu måtte de vist sætte farten lidt op for at komme frem , inden klokken ringede i skolegården .
+8-1	Sekunder	B-noun.time	
+8-2	før	O	
+8-3	sammenstødet	B-noun.act	
+8-4	var	O	
+8-5	Munni	B-noun.person	
+8-6	blevet	O	
+8-7	overhalet	B-verb.stative	
+8-8	af	O	
+8-9	skoleinspektøren	B-noun.person	
+8-10	på	O	
+8-11	Centralskolen	B-noun.institution	
+8-12	,	O	
+8-13	som	O	
+8-14	i	O	
+8-15	en	O	
+8-16	henkastet	B-adj.all	
+8-17	bemærkning	B-noun.communication	
+8-18	sagde	B-verb.communication	
+8-19	,	O	
+8-20	at	O	
+8-21	nu	O	
+8-22	måtte	O	
+8-23	de	O	
+8-24	vist	O	
+8-25	sætte	B-verb.change	
+8-26	farten	B-noun.phenomenon	
+8-27	lidt	O	
+8-28	op	B-verb.PARTICLE	
+8-29	for	O	
+8-30	at	O	
+8-31	komme	B-verb.motion	
+8-32	frem	B-verb.COLL	
+8-33	,	O	
+8-34	inden	O	
+8-35	klokken	B-noun.artifact	
+8-36	ringede	B-verb.phenomenon	
+8-37	i	O	
+8-38	skolegården	B-noun.location	
+8-39	.	O	
+

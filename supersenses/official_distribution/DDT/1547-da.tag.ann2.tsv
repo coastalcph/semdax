@@ -1,0 +1,214 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Hanspiller fem roller i succesforestillingen " Hamlet " på Betty Nansen Teatret på Frederiksberg :
+1-1	Han	O	
+1-2	spiller	B-verb.act	
+1-3	fem	O	
+1-4	roller	B-noun.attribute	
+1-5	i	O	
+1-6	succesforestillingen	B-noun.communication	
+1-7	"	O	
+1-8	Hamlet	B-noun.communication	
+1-9	"	O	
+1-10	på	O	
+1-11	Betty	B-noun.building	
+1-12	Nansen	I-noun.building	
+1-13	Teatret	I-noun.building	
+1-14	på	O	
+1-15	Frederiksberg	B-noun.location	
+1-16	:	O	
+
+#id=2
+#text=Haner vagt , skuespiller , kaptajn , lig ( uden replikker ) og Fortinbras .
+2-1	Han	O	
+2-2	er	B-verb.stative	
+2-3	vagt	B-noun.person	
+2-4	,	O	
+2-5	skuespiller	B-noun.person	
+2-6	,	O	
+2-7	kaptajn	B-noun.person	
+2-8	,	O	
+2-9	lig	B-noun.person	
+2-10	(	O	
+2-11	uden	O	
+2-12	replikker	B-noun.communication	
+2-13	)	O	
+2-14	og	O	
+2-15	Fortinbras	B-noun.person	
+2-16	.	O	
+
+#id=3
+#text=31/2times forestilling seks gange om ugen , og pr.  gang er der omkring 100 kroner i lommen til ham selv .
+3-1	31/2	O	
+3-2	times	B-noun.time	
+3-3	forestilling	B-noun.communication	
+3-4	seks	O	
+3-5	gange	B-noun.time	
+3-6	om	O	
+3-7	ugen	B-noun.time	
+3-8	,	O	
+3-9	og	O	
+3-10	pr.	O	
+3-11	gang	B-noun.time	
+3-12	er	B-verb.stative	
+3-13	der	O	
+3-14	omkring	O	
+3-15	100	O	
+3-16	kroner	B-noun.quantity	
+3-17	i	O	
+3-18	lommen	B-noun.container	
+3-19	til	O	
+3-20	ham	O	
+3-21	selv	O	
+3-22	.	O	
+
+#id=4
+#text=HenrikFiig , 27 , går på fjerde og sidste år på teaterskolen i København , og hans engagement i " Hamlet " kan nærmest betragtes som  en slags praktikplads .
+4-1	Henrik	B-noun.person	
+4-2	Fiig	I-noun.person	
+4-3	,	O	
+4-4	27	O	
+4-5	,	O	
+4-6	går	B-verb.act	
+4-7	på	O	
+4-8	fjerde	O	
+4-9	og	O	
+4-10	sidste	B-adj.time	
+4-11	år	B-noun.time	
+4-12	på	O	
+4-13	teaterskolen	B-noun.institution	
+4-14	i	O	
+4-15	København	B-noun.location	
+4-16	,	O	
+4-17	og	O	
+4-18	hans	O	
+4-19	engagement	B-noun.act	
+4-20	i	O	
+4-21	"	O	
+4-22	Hamlet	B-noun.communication	
+4-23	"	O	
+4-24	kan	O	
+4-25	nærmest	O	
+4-26	betragtes	B-verb.cognition	
+4-27	som	O	
+4-28	en	O	
+4-29	slags	B-noun.abstract	
+4-30	praktikplads	B-noun.abstract	
+4-31	.	O	
+
+#id=5
+#text=Deter hans første rigtige teaterrolle .
+5-1	Det	O	
+5-2	er	B-verb.stative	
+5-3	hans	O	
+5-4	første	B-adj.time	
+5-5	rigtige	B-adj.all	
+5-6	teaterrolle	B-noun.attribute	
+5-7	.	O	
+
+#id=6
+#text=Henriker fuld af energi , men optagelsen på teaterskolen blev smertefuld for ham .
+6-1	Henrik	B-noun.person	
+6-2	er	B-verb.stative	
+6-3	fuld	B-adj.all	
+6-4	af	O	
+6-5	energi	B-noun.feeling	
+6-6	,	O	
+6-7	men	O	
+6-8	optagelsen	B-noun.act	
+6-9	på	O	
+6-10	teaterskolen	B-noun.institution	
+6-11	blev	B-verb.stative	
+6-12	smertefuld	B-adj.all	
+6-13	for	O	
+6-14	ham	O	
+6-15	.	O	
+
+#id=7
+#text="Jeg havde på det tidspunkt en kæreste , som jeg havde boet sammen med i to år , men det forhold gik i vasken , da jeg begyndte på skolen .
+7-1	"	O	
+7-2	Jeg	O	
+7-3	havde	B-verb.possession	
+7-4	på	O	
+7-5	det	O	
+7-6	tidspunkt	B-noun.time	
+7-7	en	O	
+7-8	kæreste	B-noun.person	
+7-9	,	O	
+7-10	som	O	
+7-11	jeg	O	
+7-12	havde	O	
+7-13	boet	B-verb.stative	
+7-14	sammen	O	
+7-15	med	O	
+7-16	i	O	
+7-17	to	O	
+7-18	år	B-noun.time	
+7-19	,	O	
+7-20	men	O	
+7-21	det	O	
+7-22	forhold	B-noun.relation	
+7-23	gik	B-verb.change	
+7-24	i	B-verb.COLL	
+7-25	vasken	B-verb.COLL	
+7-26	,	O	
+7-27	da	O	
+7-28	jeg	O	
+7-29	begyndte	B-verb.aspectual	
+7-30	på	O	
+7-31	skolen	B-noun.institution	
+7-32	.	O	
+
+#id=8
+#text=Jegblev forvirret , da alle mulighederne på skolen åbnede sig for mig .
+8-1	Jeg	O	
+8-2	blev	B-verb.stative	
+8-3	forvirret	B-adj.mental	
+8-4	,	O	
+8-5	da	O	
+8-6	alle	O	
+8-7	mulighederne	B-noun.abstract	
+8-8	på	O	
+8-9	skolen	B-noun.institution	
+8-10	åbnede	B-verb.phenomenon	
+8-11	sig	O	
+8-12	for	O	
+8-13	mig	O	
+8-14	.	O	
+
+#id=9
+#text=Derblev afprøvet en masse ting .
+9-1	Der	O	
+9-2	blev	O	
+9-3	afprøvet	B-verb.act	
+9-4	en	O	
+9-5	masse	B-noun.quantity	
+9-6	ting	B-noun.abstract	
+9-7	.	O	
+
+#id=10
+#text=Manskulle lære sig selv at kende , og det var så tidskrævende , at det ikke gik med et parforhold . "
+10-1	Man	O	
+10-2	skulle	O	
+10-3	lære	B-verb.cognition	
+10-4	sig	O	
+10-5	selv	O	
+10-6	at	O	
+10-7	kende	B-verb.cognition	
+10-8	,	O	
+10-9	og	O	
+10-10	det	O	
+10-11	var	B-verb.stative	
+10-12	så	O	
+10-13	tidskrævende	B-adj.all	
+10-14	,	O	
+10-15	at	O	
+10-16	det	O	
+10-17	ikke	O	
+10-18	gik	B-verb.phenomenon	
+10-19	med	O	
+10-20	et	O	
+10-21	parforhold	B-noun.relation	
+10-22	.	O	
+10-23	"	O	
+

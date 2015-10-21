@@ -1,0 +1,214 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text="Vi har  netop valgt Jette Dreyer Hughes' bureau , fordi hun er uddannet psykolog .
+1-1	"	O	
+1-2	Vi	O	
+1-3	har	O	
+1-4	netop	O	
+1-5	valgt	B-verb.cognition	
+1-6	Jette	B-noun.person	
+1-7	Dreyer	I-noun.person	
+1-8	Hughes'	I-noun.person	
+1-9	bureau	B-noun.institution	
+1-10	,	O	
+1-11	fordi	O	
+1-12	hun	O	
+1-13	er	B-verb.stative	
+1-14	uddannet	B-adj.all	
+1-15	psykolog	B-noun.person	
+1-16	.	O	
+
+#id=2
+#text=Vitroede dermed , at hun var specielt seriøs .
+2-1	Vi	O	
+2-2	troede	B-verb.cognition	
+2-3	dermed	O	
+2-4	,	O	
+2-5	at	O	
+2-6	hun	O	
+2-7	var	B-verb.stative	
+2-8	specielt	O	
+2-9	seriøs	B-adj.mental	
+2-10	.	O	
+
+#id=3
+#text=Meni virkeligheden misbruger hun efter min mening sin uddannelse som psykolog til bare at malke folk for penge .
+3-1	Men	O	
+3-2	i	O	
+3-3	virkeligheden	B-noun.abstract	
+3-4	misbruger	B-verb.social	
+3-5	hun	O	
+3-6	efter	O	
+3-7	min	O	
+3-8	mening	B-noun.cognition	
+3-9	sin	O	
+3-10	uddannelse	B-noun.act	
+3-11	som	O	
+3-12	psykolog	B-noun.person	
+3-13	til	O	
+3-14	bare	O	
+3-15	at	O	
+3-16	malke	B-verb.act	
+3-17	folk	B-noun.person	
+3-18	for	O	
+3-19	penge	B-noun.artifact	
+3-20	.	O	
+
+#id=4
+#text=Derer kun én af de kvinder , jeg kender , der fik kontakt til en ligestillet person .
+4-1	Der	O	
+4-2	er	B-verb.stative	
+4-3	kun	O	
+4-4	én	O	
+4-5	af	O	
+4-6	de	O	
+4-7	kvinder	B-noun.person	
+4-8	,	O	
+4-9	jeg	O	
+4-10	kender	B-verb.cognition	
+4-11	,	O	
+4-12	der	O	
+4-13	fik	B-verb.act	
+4-14	kontakt	B-noun.relation	
+4-15	til	O	
+4-16	en	O	
+4-17	ligestillet	B-adj.all	
+4-18	person	B-noun.person	
+4-19	.	O	
+
+#id=5
+#text=Depassede så bare ikke sammen , da det kom til stykket .
+5-1	De	O	
+5-2	passede	B-verb.stative	
+5-3	så	O	
+5-4	bare	O	
+5-5	ikke	O	
+5-6	sammen	B-verb.COLL	
+5-7	,	O	
+5-8	da	O	
+5-9	det	O	
+5-10	kom	B-verb.phenomenon	
+5-11	til	B-verb.COLL	
+5-12	stykket	B-verb.COLL	
+5-13	.	O	
+
+#id=6
+#text=Defire kvinder har slet ikke hørt noget fra hende i et år , mens de to andre har fået en kontaktadresse hver , som slet ikke stemte overens med deres ønsker til en mand .
+6-1	De	O	
+6-2	fire	O	
+6-3	kvinder	B-noun.person	
+6-4	har	O	
+6-5	slet	O	
+6-6	ikke	O	
+6-7	hørt	B-verb.communication	
+6-8	noget	O	
+6-9	fra	O	
+6-10	hende	O	
+6-11	i	O	
+6-12	et	O	
+6-13	år	B-noun.time	
+6-14	,	O	
+6-15	mens	O	
+6-16	de	O	
+6-17	to	O	
+6-18	andre	O	
+6-19	har	O	
+6-20	fået	B-verb.possession	
+6-21	en	O	
+6-22	kontaktadresse	B-noun.communication	
+6-23	hver	O	
+6-24	,	O	
+6-25	som	O	
+6-26	slet	O	
+6-27	ikke	O	
+6-28	stemte	B-verb.stative	
+6-29	overens	B-verb.COLL	
+6-30	med	O	
+6-31	deres	O	
+6-32	ønsker	B-noun.feeling	
+6-33	til	O	
+6-34	en	O	
+6-35	mand	B-noun.person	
+6-36	.	O	
+
+#id=7
+#text=Enaf mine veninder lagde ikke skjul på , at hun ville have en intelligent og velhavende mand , da hun var til samtale hos Jette Dreyer .
+7-1	En	O	
+7-2	af	O	
+7-3	mine	O	
+7-4	veninder	B-noun.person	
+7-5	lagde	B-verb.communication	
+7-6	ikke	O	
+7-7	skjul	B-verb.COLL	
+7-8	på	B-verb.COLL	
+7-9	,	O	
+7-10	at	O	
+7-11	hun	O	
+7-12	ville	O	
+7-13	have	B-verb.possession	
+7-14	en	O	
+7-15	intelligent	B-adj.mental	
+7-16	og	O	
+7-17	velhavende	B-adj.all	
+7-18	mand	B-noun.person	
+7-19	,	O	
+7-20	da	O	
+7-21	hun	O	
+7-22	var	B-verb.stative	
+7-23	til	O	
+7-24	samtale	B-noun.communication	
+7-25	hos	O	
+7-26	Jette	B-noun.person	
+7-27	Dreyer	I-noun.person	
+7-28	.	O	
+
+#id=8
+#text=Enuge efter blev hun ringet op med det glade budskab : " Jeg har den helt rigtige mand til dig : En bankdirektør i Rungsted .
+8-1	En	O	
+8-2	uge	B-noun.time	
+8-3	efter	O	
+8-4	blev	O	
+8-5	hun	O	
+8-6	ringet	B-verb.communication	
+8-7	op	B-verb.PARTICLE	
+8-8	med	O	
+8-9	det	O	
+8-10	glade	B-adj.all	
+8-11	budskab	B-noun.communication	
+8-12	:	O	
+8-13	"	O	
+8-14	Jeg	O	
+8-15	har	B-verb.stative	
+8-16	den	O	
+8-17	helt	O	
+8-18	rigtige	B-adj.all	
+8-19	mand	B-noun.person	
+8-20	til	O	
+8-21	dig	O	
+8-22	:	O	
+8-23	En	O	
+8-24	bankdirektør	B-noun.person	
+8-25	i	O	
+8-26	Rungsted	B-noun.location	
+8-27	.	O	
+
+#id=9
+#text=Derer kun én hindring .
+9-1	Der	O	
+9-2	er	B-verb.stative	
+9-3	kun	O	
+9-4	én	O	
+9-5	hindring	B-noun.abstract	
+9-6	.	O	
+
+#id=10
+#text=Hanelsker stadig sin tidligere kone " .
+10-1	Han	O	
+10-2	elsker	B-verb.emotion	
+10-3	stadig	O	
+10-4	sin	O	
+10-5	tidligere	B-adj.time	
+10-6	kone	B-noun.person	
+10-7	"	O	
+10-8	.	O	
+

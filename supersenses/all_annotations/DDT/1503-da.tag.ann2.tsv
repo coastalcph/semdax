@@ -1,0 +1,211 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Deklubber , der sælger ud af publikumsidolerne og ikke har nok at byde på i turneringskampene , får problemer .
+1-1	De	O	
+1-2	klubber	B-noun.institution	
+1-3	,	O	
+1-4	der	O	
+1-5	sælger	B-verb.possession	
+1-6	ud	B-verb.PARTICLE	
+1-7	af	O	
+1-8	publikumsidolerne	B-noun.person	
+1-9	og	O	
+1-10	ikke	O	
+1-11	har	B-verb.possession	
+1-12	nok	O	
+1-13	at	O	
+1-14	byde	B-verb.communication	
+1-15	på	B-verb.COLL	
+1-16	i	O	
+1-17	turneringskampene	B-noun.act	
+1-18	,	O	
+1-19	får	B-verb.phenomenon	
+1-20	problemer	B-noun.abstract	
+1-21	.	O	
+
+#id=2
+#text=Erdet sportslige tilbud ikke godt nok , ja så bliver sportens meget troløse tilskuere væk .
+2-1	Er	B-verb.stative	
+2-2	det	O	
+2-3	sportslige	B-adj.all	
+2-4	tilbud	B-noun.abstract	
+2-5	ikke	O	
+2-6	godt	B-adj.all	
+2-7	nok	O	
+2-8	,	O	
+2-9	ja	O	
+2-10	så	O	
+2-11	bliver	B-verb.stative	
+2-12	sportens	B-noun.domain	
+2-13	meget	O	
+2-14	troløse	B-adj.mental	
+2-15	tilskuere	B-noun.person	
+2-16	væk	B-verb.COLL	
+2-17	.	O	
+
+#id=3
+#text=Derforer det også relevant med tillægsspørgsmålet :
+3-1	Derfor	O	
+3-2	er	B-verb.stative	
+3-3	det	O	
+3-4	også	O	
+3-5	relevant	B-adj.all	
+3-6	med	O	
+3-7	tillægsspørgsmålet	B-noun.communication	
+3-8	:	O	
+
+#id=4
+#text=Etdet klogt at programsætte returkampen i Europa_Cup-turneringen for mestre til Parken med de 40.000 tilskuerpladser ?
+4-1	Et	O	
+4-2	det	O	
+4-3	klogt	B-adj.mental	
+4-4	at	O	
+4-5	programsætte	B-verb.act	
+4-6	returkampen	B-noun.act	
+4-7	i	O	
+4-8	Europa_Cup-turneringen	B-noun.event	
+4-9	for	O	
+4-10	mestre	B-noun.person	
+4-11	til	O	
+4-12	Parken	B-noun.building	
+4-13	med	O	
+4-14	de	O	
+4-15	40.000	O	
+4-16	tilskuerpladser	B-noun.artifact	
+4-17	?	O	
+
+#id=5
+#text=SKRAMMER
+5-1	SKRAMMER	B-noun.body	
+
+#id=6
+#text=Nøgterntvurderet vender Lyngbyspillerne næste uge hjem med nogle sportslige skrammer fra " sammenstødet " med Glasgow Rangers' skotter på Ibrox .
+6-1	Nøgternt	O	
+6-2	vurderet	B-verb.cognition	
+6-3	vender	B-verb.motion	
+6-4	Lyngbyspillerne	B-noun.person	
+6-5	næste	B-adj.time	
+6-6	uge	B-noun.time	
+6-7	hjem	B-verb.COLL	
+6-8	med	O	
+6-9	nogle	O	
+6-10	sportslige	B-adj.all	
+6-11	skrammer	B-noun.body	
+6-12	fra	O	
+6-13	"	O	
+6-14	sammenstødet	B-noun.act	
+6-15	"	O	
+6-16	med	O	
+6-17	Glasgow	B-noun.institution	
+6-18	Rangers'	I-noun.institution	
+6-19	skotter	B-noun.person	
+6-20	på	O	
+6-21	Ibrox	B-noun.building	
+6-22	.	O	
+
+#id=7
+#text=Hvormange kan så lokkes til returkamp i Parken til priser mellem 100 kroner og 500 kroner 14 dage senere ?
+7-1	Hvor	O	
+7-2	mange	O	
+7-3	kan	O	
+7-4	så	O	
+7-5	lokkes	B-verb.communication	
+7-6	til	O	
+7-7	returkamp	B-noun.act	
+7-8	i	O	
+7-9	Parken	B-noun.building	
+7-10	til	O	
+7-11	priser	B-noun.quantity	
+7-12	mellem	O	
+7-13	100	O	
+7-14	kroner	B-noun.quantity	
+7-15	og	O	
+7-16	500	O	
+7-17	kroner	B-noun.quantity	
+7-18	14	O	
+7-19	dage	B-noun.time	
+7-20	senere	B-adj.time	
+7-21	?	O	
+
+#id=8
+#text=Billetsalgetbegynder på mandag .
+8-1	Billetsalget	B-noun.possession	
+8-2	begynder	B-verb.aspectual	
+8-3	på	O	
+8-4	mandag	B-noun.time	
+8-5	.	O	
+
+#id=9
+#text="Der flyttes fra Lyngby Stadion for at give spillerne , pressen og tilskuerne optimale forhold " oplyser Claus Nielsen .
+9-1	"	O	
+9-2	Der	O	
+9-3	flyttes	B-verb.motion	
+9-4	fra	O	
+9-5	Lyngby	B-noun.building	
+9-6	Stadion	I-noun.building	
+9-7	for	O	
+9-8	at	O	
+9-9	give	B-verb.possession	
+9-10	spillerne	B-noun.person	
+9-11	,	O	
+9-12	pressen	B-noun.person	
+9-13	og	O	
+9-14	tilskuerne	B-noun.person	
+9-15	optimale	B-adj.all	
+9-16	forhold	B-noun.abstract	
+9-17	"	O	
+9-18	oplyser	B-verb.communication	
+9-19	Claus	B-noun.person	
+9-20	Nielsen	I-noun.person	
+9-21	.	O	
+
+#id=10
+#text=Ogdet er da et udmærket sigte .
+10-1	Og	O	
+10-2	det	O	
+10-3	er	B-verb.stative	
+10-4	da	O	
+10-5	et	O	
+10-6	udmærket	B-adj.all	
+10-7	sigte	B-noun.motive	
+10-8	.	O	
+
+#id=11
+#text=Menstedet er næppe nok til at få gang i omsætningen .
+11-1	Men	O	
+11-2	stedet	B-noun.location	
+11-3	er	B-verb.stative	
+11-4	næppe	O	
+11-5	nok	O	
+11-6	til	O	
+11-7	at	O	
+11-8	få	B-verb.act	
+11-9	gang	B-verb.COLL	
+11-10	i	B-verb.COLL	
+11-11	omsætningen	B-noun.quantity	
+11-12	.	O	
+
+#id=12
+#text=Købereønsker er vis garanti for , at underholdningsværdi og spændingsmoment er til at få øje på ved et fodboldarrangement .
+12-1	Købere	B-noun.person	
+12-2	ønsker	B-verb.cognition	
+12-3	er	B-verb.stative	
+12-4	vis	O	
+12-5	garanti	B-noun.communication	
+12-6	for	O	
+12-7	,	O	
+12-8	at	O	
+12-9	underholdningsværdi	B-noun.attribute	
+12-10	og	O	
+12-11	spændingsmoment	B-noun.attribute	
+12-12	er	B-verb.stative	
+12-13	til	O	
+12-14	at	O	
+12-15	få	B-verb.perception	
+12-16	øje	B-verb.COLL	
+12-17	på	B-verb.COLL	
+12-18	ved	O	
+12-19	et	O	
+12-20	fodboldarrangement	B-noun.event	
+12-21	.	O	
+

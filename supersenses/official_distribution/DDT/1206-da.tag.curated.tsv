@@ -1,0 +1,231 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value
+#id=1
+#text=EddieCarbone , italiensk-amerikansk havnearbejder i New York .
+1-1	Eddie	B-noun.person	noun.pers	
+1-2	Carbone	I-noun.person	noun.pers	
+1-3	,	O	_	
+1-4	italiensk-amerikansk	B-adj.social	_	
+1-5	havnearbejder	B-noun.person	_	
+1-6	i	O	_	
+1-7	New	B-noun.location	_	
+1-8	York	I-noun.location	_	
+1-9	.	O	_	
+
+#id=2
+#text=Etstort brød .
+2-1	Et	O	_	
+2-2	stort	B-adj.phys	_	
+2-3	brød	B-noun.person	_	
+2-4	.	O	_	
+
+#id=3
+#text=Naiv, primitiv , enkle følelser .
+3-1	Naiv	B-adj.mental	_	
+3-2	,	O	_	
+3-3	primitiv	B-adj.mental	_	
+3-4	,	O	_	
+3-5	enkle	B-adj.all	_	
+3-6	følelser	B-noun.feeling	_	
+3-7	.	O	_	
+
+#id=4
+#text=Følelser, som han ikke kan beherske , og som derfor driver ham ud i en situation , hvor han optræder som forræder , angiver , stikker .
+4-1	Følelser	B-noun.feeling	_	
+4-2	,	O	_	
+4-3	som	O	_	
+4-4	han	O	_	
+4-5	ikke	O	_	
+4-6	kan	O	_	
+4-7	beherske	B-verb.cognition	_	
+4-8	,	O	_	
+4-9	og	O	_	
+4-10	som	O	_	
+4-11	derfor	O	_	
+4-12	driver	B-verb.phenomenon	_	
+4-13	ham	O	_	
+4-14	ud	O	_	
+4-15	i	O	_	
+4-16	en	O	_	
+4-17	situation	B-noun.state	_	
+4-18	,	O	_	
+4-19	hvor	O	_	
+4-20	han	O	_	
+4-21	optræder	B-verb.phenomenon	_	
+4-22	som	O	_	
+4-23	forræder	B-noun.person	_	
+4-24	,	O	_	
+4-25	angiver	B-noun.person	_	
+4-26	,	O	_	
+4-27	stikker	B-noun.person	_	
+4-28	.	O	_	
+
+#id=5
+#text=Enforbrydelse - ikke i juridisk , men i moralsk forstand .
+5-1	En	O	_	
+5-2	forbrydelse	B-noun.act	_	
+5-3	-	O	_	
+5-4	ikke	O	_	
+5-5	i	O	_	
+5-6	juridisk	B-adj.social	_	
+5-7	,	O	_	
+5-8	men	O	_	
+5-9	i	O	_	
+5-10	moralsk	B-adj.mental	_	
+5-11	forstand	B-noun.abstract	_	
+5-12	.	O	_	
+
+#id=6
+#text=Oghan betaler for den med sit liv .
+6-1	Og	O	_	
+6-2	han	O	_	
+6-3	betaler	B-verb.possession	_	
+6-4	for	O	_	
+6-5	den	O	_	
+6-6	med	O	_	
+6-7	sit	O	_	
+6-8	liv	B-noun.abstract	_	
+6-9	.	O	_	
+
+#id=7
+#text=ArthurMillers skuespil " Udsigt fra broen " er et moderne passionsdrama .
+7-1	Arthur	B-noun.person	_	
+7-2	Millers	I-noun.person	_	
+7-3	skuespil	B-noun.communication	_	
+7-4	"	O	_	
+7-5	Udsigt	B-noun.communication	_	
+7-6	fra	I-noun.communication	_	
+7-7	broen	I-noun.communication	_	
+7-8	"	O	_	
+7-9	er	B-verb.stative	_	
+7-10	et	O	_	
+7-11	moderne	B-adj.time	_	
+7-12	passionsdrama	B-noun.communication	_	
+7-13	.	O	_	
+
+#id=8
+#text=Passioneni Eddie Carbones tilfælde gælder den niece , der er opvokset hos ham som en datter .
+8-1	Passionen	B-noun.feeling	_	
+8-2	i	O	_	
+8-3	Eddie	B-noun.person	_	
+8-4	Carbones	I-noun.person	_	
+8-5	tilfælde	B-noun.abstract	_	
+8-6	gælder	B-verb.stative	_	
+8-7	den	O	_	
+8-8	niece	B-noun.person	_	
+8-9	,	O	_	
+8-10	der	O	_	
+8-11	er	O	_	
+8-12	opvokset	B-verb.phenomenon	_	
+8-13	hos	O	_	
+8-14	ham	O	_	
+8-15	som	O	_	
+8-16	en	O	_	
+8-17	datter	B-noun.person	_	
+8-18	.	O	_	
+
+#id=9
+#text=Ogsom  så mange fædre kan han ikke tåle , at datteren " svigter " ham for at gifte sig med den mand , hun elsker .
+9-1	Og	O	_	
+9-2	som	O	_	
+9-3	så	O	_	
+9-4	mange	O	_	
+9-5	fædre	B-noun.person	_	
+9-6	kan	O	_	
+9-7	han	O	_	
+9-8	ikke	O	_	
+9-9	tåle	B-verb.emotion	_	
+9-10	,	O	_	
+9-11	at	O	_	
+9-12	datteren	B-noun.person	_	
+9-13	"	O	_	
+9-14	svigter	B-verb.phenomenon	_	
+9-15	"	O	_	
+9-16	ham	O	_	
+9-17	for	O	_	
+9-18	at	O	_	
+9-19	gifte	B-verb.act	_	
+9-20	sig	B-verb.REFLPRON	_	
+9-21	med	O	_	
+9-22	den	O	_	
+9-23	mand	B-noun.person	_	
+9-24	,	O	_	
+9-25	hun	O	_	
+9-26	elsker	B-verb.emotion	_	
+9-27	.	O	_	
+
+#id=10
+#text=Mandener fætter til hans kone , illegal italiensk immigrant .
+10-1	Manden	B-noun.person	_	
+10-2	er	B-verb.stative	_	
+10-3	fætter	B-noun.relation	_	
+10-4	til	O	_	
+10-5	hans	O	_	
+10-6	kone	B-noun.person	_	
+10-7	,	O	_	
+10-8	illegal	B-adj.social	_	
+10-9	italiensk	B-adj.social	_	
+10-10	immigrant	B-noun.person	_	
+10-11	.	O	_	
+
+#id=11
+#text=Sammenmed sin ældre bror har han søgt husly hos familien Carbone .
+11-1	Sammen	O	_	
+11-2	med	O	_	
+11-3	sin	O	_	
+11-4	ældre	B-adj.time	_	
+11-5	bror	B-noun.person	_	
+11-6	har	O	_	
+11-7	han	O	_	
+11-8	søgt	B-verb.act	_	
+11-9	husly	B-noun.abstract	_	
+11-10	hos	O	_	
+11-11	familien	B-noun.person	_	
+11-12	Carbone	I-noun.person	_	
+11-13	.	O	_	
+
+#id=12
+#text=Ogfor at forpurre datterens ægteskab angiver Eddie de to flygtninge til politiet .
+12-1	Og	O	_	
+12-2	for	O	_	
+12-3	at	O	_	
+12-4	forpurre	B-verb.change	_	
+12-5	datterens	B-noun.person	_	
+12-6	ægteskab	B-noun.relation	_	
+12-7	angiver	B-verb.communication	_	
+12-8	Eddie	B-noun.person	_	
+12-9	de	O	_	
+12-10	to	O	_	
+12-11	flygtninge	B-noun.person	_	
+12-12	til	O	_	
+12-13	politiet	B-noun.institution	_	
+12-14	.	O	_	
+
+#id=13
+#text=Deter denne handling , storebroderen mener , han må hævne .
+13-1	Det	O	_	
+13-2	er	B-verb.stative	_	
+13-3	denne	O	_	
+13-4	handling	B-noun.act	_	
+13-5	,	O	_	
+13-6	storebroderen	B-noun.person	_	
+13-7	mener	B-verb.emotion	_	
+13-8	,	O	_	
+13-9	han	O	_	
+13-10	må	O	_	
+13-11	hævne	B-verb.act	_	
+13-12	.	O	_	
+
+#id=14
+#text=Etdrama - en duel - der ender med døden .
+14-1	Et	O	_	
+14-2	drama	B-verb.act	_	
+14-3	-	O	_	
+14-4	en	O	_	
+14-5	duel	B-noun.act	_	
+14-6	-	O	_	
+14-7	der	O	_	
+14-8	ender	B-verb.aspectual	_	
+14-9	med	O	_	
+14-10	døden	B-noun.phenomenon	_	
+14-11	.	O	_	
+

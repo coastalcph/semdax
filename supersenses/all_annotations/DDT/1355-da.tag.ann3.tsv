@@ -1,0 +1,231 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Denonde talrække er nu brudt .
+1-1	Den	O	
+1-2	onde	B-adj.all	
+1-3	talrække	B-noun.phenomenon	
+1-4	er	O	
+1-5	nu	O	
+1-6	brudt	B-verb.aspectual	
+1-7	.	O	
+
+#id=2
+#text=Foraltid vil lykketallet være 13 .
+2-1	For	O	
+2-2	altid	O	
+2-3	vil	O	
+2-4	lykketallet	B-noun.abstract	
+2-5	være	B-verb.stative	
+2-6	13	O	
+2-7	.	O	
+
+#id=3
+#text=Datoenfor den dag i april , da han fik sin tro på det danske retssystem tilbage .
+3-1	Datoen	B-noun.time	
+3-2	for	O	
+3-3	den	O	
+3-4	dag	B-noun.time	
+3-5	i	O	
+3-6	april	B-noun.time	
+3-7	,	O	
+3-8	da	O	
+3-9	han	O	
+3-10	fik	B-verb.possession	
+3-11	sin	O	
+3-12	tro	B-noun.cognition	
+3-13	på	O	
+3-14	det	O	
+3-15	danske	B-adj.social	
+3-16	retssystem	B-noun.abstract	
+3-17	tilbage	O	
+3-18	.	O	
+
+#id=4
+#text=HELLEREFRIFINDE
+4-1	HELLERE	O	
+4-2	FRIFINDE	B-verb.cognition	
+
+#id=5
+#text=Isin meget redelige og objektive retsbelæring til nævningene havde retsformanden , landsdommer Ole Unmack Larsen , givet et fingerpeg om , hvor det bar hen :
+5-1	I	O	
+5-2	sin	O	
+5-3	meget	O	
+5-4	redelige	B-adj.mental	
+5-5	og	O	
+5-6	objektive	B-adj.mental	
+5-7	retsbelæring	B-noun.act	
+5-8	til	O	
+5-9	nævningene	B-noun.person	
+5-10	havde	O	
+5-11	retsformanden	B-noun.person	
+5-12	,	O	
+5-13	landsdommer	B-noun.person	
+5-14	Ole	B-noun.person	
+5-15	Unmack	I-noun.person	
+5-16	Larsen	I-noun.person	
+5-17	,	O	
+5-18	givet	B-verb.possession	
+5-19	et	O	
+5-20	fingerpeg	B-noun.cognition	
+5-21	om	O	
+5-22	,	O	
+5-23	hvor	O	
+5-24	det	O	
+5-25	bar	B-verb.phenomenon	
+5-26	hen	O	
+5-27	:	O	
+
+#id=6
+#text="Beviset skal være så stærkt , at det ikke efterlader nogen rimelig tvivl .
+6-1	"	O	
+6-2	Beviset	B-noun.abstract	
+6-3	skal	O	
+6-4	være	B-verb.stative	
+6-5	så	O	
+6-6	stærkt	B-adj.all	
+6-7	,	O	
+6-8	at	O	
+6-9	det	O	
+6-10	ikke	O	
+6-11	efterlader	B-verb.act	
+6-12	nogen	O	
+6-13	rimelig	B-adj.all	
+6-14	tvivl	B-noun.cognition	
+6-15	.	O	
+
+#id=7
+#text=Deter ikke nok at sige , at hvis det ikke er Ove Hansen , hvem er drabsmanden så ?
+7-1	Det	O	
+7-2	er	B-verb.stative	
+7-3	ikke	O	
+7-4	nok	O	
+7-5	at	O	
+7-6	sige	B-verb.communication	
+7-7	,	O	
+7-8	at	O	
+7-9	hvis	O	
+7-10	det	O	
+7-11	ikke	O	
+7-12	er	B-verb.stative	
+7-13	Ove	B-noun.person	
+7-14	Hansen	I-noun.person	
+7-15	,	O	
+7-16	hvem	O	
+7-17	er	B-verb.stative	
+7-18	drabsmanden	B-noun.person	
+7-19	så	O	
+7-20	?	O	
+
+#id=8
+#text=Sommagtmonopol kan det danske retssystem ikke tillade sig at lave den fejl at sætte en uskyldig i fængsel .
+8-1	Som	O	
+8-2	magtmonopol	B-noun.institution	
+8-3	kan	O	
+8-4	det	O	
+8-5	danske	B-adj.social	
+8-6	retssystem	B-noun.institution	
+8-7	ikke	O	
+8-8	tillade	B-verb.act	
+8-9	sig	B-verb.REFLPRON	
+8-10	at	O	
+8-11	lave	B-verb.act	
+8-12	den	O	
+8-13	fejl	B-noun.event	
+8-14	at	O	
+8-15	sætte	B-verb.act	
+8-16	en	O	
+8-17	uskyldig	B-noun.person	
+8-18	i	O	
+8-19	fængsel	B-noun.building	
+8-20	.	O	
+
+#id=9
+#text=Hellerefrifinde for mange end for få . "
+9-1	Hellere	O	
+9-2	frifinde	B-verb.cognition	
+9-3	for	O	
+9-4	mange	O	
+9-5	end	O	
+9-6	for	O	
+9-7	få	O	
+9-8	.	O	
+9-9	"	O	
+
+#id=10
+#text=Retsformandenfastslog , at det ikke var nævningenes opgave at opklare en mordgåde eller samle alle de løse ender , dages vidneafhøringer har efterladt .
+10-1	Retsformanden	B-noun.person	
+10-2	fastslog	B-verb.cognition	
+10-3	,	O	
+10-4	at	O	
+10-5	det	O	
+10-6	ikke	O	
+10-7	var	B-verb.stative	
+10-8	nævningenes	B-noun.person	
+10-9	opgave	B-noun.cognition	
+10-10	at	O	
+10-11	opklare	B-verb.cognition	
+10-12	en	O	
+10-13	mordgåde	B-noun.abstract	
+10-14	eller	O	
+10-15	samle	B-verb.act	
+10-16	alle	O	
+10-17	de	O	
+10-18	løse	B-adj.phys	
+10-19	ender	B-noun.abstract	
+10-20	,	O	
+10-21	dages	B-noun.time	
+10-22	vidneafhøringer	B-noun.act	
+10-23	har	O	
+10-24	efterladt	B-verb.act	
+10-25	.	O	
+
+#id=11
+#text=INDICIERNEFOR SVAGE
+11-1	INDICIERNE	B-noun.abstract	
+11-2	FOR	O	
+11-3	SVAGE	B-adj.all	
+
+#id=12
+#text=Dader fra anklageren ikke forelå direkte fældende , tekniske beviser mod Ove Hansen , var det alene nævningenes opgave at vurdere , om den samlede sum af indicier var stærk nok til at sige , at Pedal-Ove var drabsmand .
+12-1	Da	O	
+12-2	der	O	
+12-3	fra	O	
+12-4	anklageren	B-noun.person	
+12-5	ikke	O	
+12-6	forelå	B-verb.stative	
+12-7	direkte	O	
+12-8	fældende	B-adj.all	
+12-9	,	O	
+12-10	tekniske	B-adj.all	
+12-11	beviser	B-noun.abstract	
+12-12	mod	O	
+12-13	Ove	B-noun.person	
+12-14	Hansen	I-noun.person	
+12-15	,	O	
+12-16	var	B-verb.stative	
+12-17	det	O	
+12-18	alene	O	
+12-19	nævningenes	B-noun.person	
+12-20	opgave	B-noun.cognition	
+12-21	at	O	
+12-22	vurdere	B-verb.cognition	
+12-23	,	O	
+12-24	om	O	
+12-25	den	O	
+12-26	samlede	B-adj.all	
+12-27	sum	B-noun.quantity	
+12-28	af	O	
+12-29	indicier	B-noun.abstract	
+12-30	var	B-verb.stative	
+12-31	stærk	B-adj.all	
+12-32	nok	O	
+12-33	til	O	
+12-34	at	O	
+12-35	sige	B-verb.communication	
+12-36	,	O	
+12-37	at	O	
+12-38	Pedal-Ove	B-noun.person	
+12-39	var	B-verb.stative	
+12-40	drabsmand	B-noun.person	
+12-41	.	O	
+

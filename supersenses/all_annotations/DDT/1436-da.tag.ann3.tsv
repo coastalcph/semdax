@@ -1,0 +1,200 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Denoverlevende polske matros , Krzysztof Samsel , 30 , som med helikopter blev fløjet til den norske by Farsund , fortalte i en søforklaring i_går , at han kun havde reddet livet på_grund_af en luftboble , der havde presset ham væk fra det synkende skib .
+1-1	Den	O	
+1-2	overlevende	B-adj.all	
+1-3	polske	B-adj.social	
+1-4	matros	B-noun.person	
+1-5	,	O	
+1-6	Krzysztof	B-noun.person	
+1-7	Samsel	I-noun.person	
+1-8	,	O	
+1-9	30	O	
+1-10	,	O	
+1-11	som	O	
+1-12	med	O	
+1-13	helikopter	B-noun.vehicle	
+1-14	blev	O	
+1-15	fløjet	B-verb.motion	
+1-16	til	O	
+1-17	den	O	
+1-18	norske	B-adj.social	
+1-19	by	B-noun.location	
+1-20	Farsund	B-noun.location	
+1-21	,	O	
+1-22	fortalte	B-verb.communication	
+1-23	i	O	
+1-24	en	O	
+1-25	søforklaring	B-noun.communication	
+1-26	i_går	B-noun.time	
+1-27	,	O	
+1-28	at	O	
+1-29	han	O	
+1-30	kun	O	
+1-31	havde	O	
+1-32	reddet	B-verb.phenomenon	
+1-33	livet	B-noun.attribute	
+1-34	på_grund_af	O	
+1-35	en	O	
+1-36	luftboble	B-noun.object	
+1-37	,	O	
+1-38	der	O	
+1-39	havde	O	
+1-40	presset	B-verb.motion	
+1-41	ham	O	
+1-42	væk	O	
+1-43	fra	O	
+1-44	det	O	
+1-45	synkende	B-adj.all	
+1-46	skib	B-noun.vehicle	
+1-47	.	O	
+
+#id=2
+#text="Ellers var jeg blev suget med ned , " forklarede Samsel .
+2-1	"	O	
+2-2	Ellers	O	
+2-3	var	O	
+2-4	jeg	O	
+2-5	blev	O	
+2-6	suget	B-verb.phenomenon	
+2-7	med	O	
+2-8	ned	B-verb.PARTICLE	
+2-9	,	O	
+2-10	"	O	
+2-11	forklarede	B-verb.communication	
+2-12	Samsel	B-noun.person	
+2-13	.	O	
+
+#id=3
+#text=SEKSER VÆK
+3-1	SEKS	O	
+3-2	ER	B-verb.stative	
+3-3	VÆK	B-adj.all	
+
+#id=4
+#text=Detmenes , at de seks øvrige besætningsmedlemmer på Kamilla , der var på vej fra Rekefjord i Norge til Rendsburg i Tyskland med sin last af sten , er gået ned sammen med skibet .
+4-1	Det	O	
+4-2	menes	B-verb.cognition	
+4-3	,	O	
+4-4	at	O	
+4-5	de	O	
+4-6	seks	O	
+4-7	øvrige	O	
+4-8	besætningsmedlemmer	B-noun.person	
+4-9	på	O	
+4-10	Kamilla	B-noun.vehicle	
+4-11	,	O	
+4-12	der	O	
+4-13	var	B-verb.stative	
+4-14	på	O	
+4-15	vej	O	
+4-16	fra	O	
+4-17	Rekefjord	B-noun.location	
+4-18	i	O	
+4-19	Norge	B-noun.location	
+4-20	til	O	
+4-21	Rendsburg	B-noun.location	
+4-22	i	O	
+4-23	Tyskland	B-noun.location	
+4-24	med	O	
+4-25	sin	O	
+4-26	last	B-noun.artifact	
+4-27	af	O	
+4-28	sten	B-noun.object	
+4-29	,	O	
+4-30	er	O	
+4-31	gået	B-verb.phenomenon	
+4-32	ned	B-verb.PARTICLE	
+4-33	sammen	O	
+4-34	med	O	
+4-35	skibet	B-noun.vehicle	
+4-36	.	O	
+
+#id=5
+#text=Isafoldsatte efter sammenstøddet øjelikkelig en gummibåd med påhængsmotor i vandet .
+5-1	Isafold	B-noun.vehicle	
+5-2	satte	B-verb.act	
+5-3	efter	O	
+5-4	sammenstøddet	B-noun.event	
+5-5	øjelikkelig	O	
+5-6	en	O	
+5-7	gummibåd	B-noun.vehicle	
+5-8	med	O	
+5-9	påhængsmotor	B-noun.artifact	
+5-10	i	O	
+5-11	vandet	B-noun.substance	
+5-12	.	O	
+
+#id=6
+#text=Menmandskabet så kun den enlige polak .
+6-1	Men	O	
+6-2	mandskabet	B-noun.person	
+6-3	så	B-verb.perception	
+6-4	kun	O	
+6-5	den	O	
+6-6	enlige	B-adj.social	
+6-7	polak	B-noun.person	
+6-8	.	O	
+
+#id=7
+#text=KystvagtskibetLafjord har bjærget en del vraggods fra det forliste skib , bl.a. to tomme redningsflåder og en redningsbåd .
+7-1	Kystvagtskibet	B-noun.vehicle	
+7-2	Lafjord	B-noun.vehicle	
+7-3	har	O	
+7-4	bjærget	B-verb.motion	
+7-5	en	O	
+7-6	del	B-noun.quantity	
+7-7	vraggods	B-noun.artifact	
+7-8	fra	O	
+7-9	det	O	
+7-10	forliste	B-adj.all	
+7-11	skib	B-noun.vehicle	
+7-12	,	O	
+7-13	bl.a.	O	
+7-14	to	O	
+7-15	tomme	B-adj.all	
+7-16	redningsflåder	B-noun.vehicle	
+7-17	og	O	
+7-18	en	O	
+7-19	redningsbåd	B-noun.vehicle	
+7-20	.	O	
+
+#id=8
+#text=Mender er fortsat ingen spor af de seks besætningsmedlemmer , alle mænd i alderen 30-50 år .
+8-1	Men	O	
+8-2	der	O	
+8-3	er	B-verb.stative	
+8-4	fortsat	O	
+8-5	ingen	O	
+8-6	spor	B-noun.phenomenon	
+8-7	af	O	
+8-8	de	O	
+8-9	seks	O	
+8-10	besætningsmedlemmer	B-noun.person	
+8-11	,	O	
+8-12	alle	O	
+8-13	mænd	B-noun.person	
+8-14	i	O	
+8-15	alderen	B-noun.time	
+8-16	30-50	O	
+8-17	år	B-noun.time	
+8-18	.	O	
+
+#id=9
+#text=Skipperog styrmænd på Isafold mødtes i_går i Hirtshals med rederiets advokat og forsikringsrepræsentanter .
+9-1	Skipper	B-noun.person	
+9-2	og	O	
+9-3	styrmænd	B-noun.person	
+9-4	på	O	
+9-5	Isafold	B-noun.vehicle	
+9-6	mødtes	B-verb.social	
+9-7	i_går	B-noun.time	
+9-8	i	O	
+9-9	Hirtshals	B-noun.location	
+9-10	med	O	
+9-11	rederiets	B-noun.institution	
+9-12	advokat	B-noun.person	
+9-13	og	O	
+9-14	forsikringsrepræsentanter	B-noun.person	
+9-15	.	O	
+

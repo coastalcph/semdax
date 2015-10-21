@@ -1,0 +1,208 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Knæeter også årsag til , at Dronningen endnu ikke ved , om hun kan gennemføre sin årlige skitur i Norge .
+1-1	Knæet	B-noun.body	
+1-2	er	B-verb.stative	
+1-3	også	O	
+1-4	årsag	B-noun.abstract	
+1-5	til	O	
+1-6	,	O	
+1-7	at	O	
+1-8	Dronningen	B-noun.person	
+1-9	endnu	O	
+1-10	ikke	O	
+1-11	ved	B-verb.cognition	
+1-12	,	O	
+1-13	om	O	
+1-14	hun	O	
+1-15	kan	O	
+1-16	gennemføre	B-verb.act	
+1-17	sin	O	
+1-18	årlige	B-adj.time	
+1-19	skitur	B-noun.event	
+1-20	i	O	
+1-21	Norge	B-noun.location	
+1-22	.	O	
+
+#id=2
+#text=Foreløbiger den planlagt til medio marts .
+2-1	Foreløbig	O	
+2-2	er	B-verb.stative	
+2-3	den	O	
+2-4	planlagt	B-verb.cognition	
+2-5	til	O	
+2-6	medio	O	
+2-7	marts	B-noun.time	
+2-8	.	O	
+
+#id=3
+#text=100.000HÅNDTRYK
+3-1	100.000	O	
+3-2	HÅNDTRYK	B-noun.act	
+
+#id=4
+#text=Iårene som regent har Margrethe ikke ligget på den lade side .
+4-1	I	O	
+4-2	årene	B-noun.time	
+4-3	som	O	
+4-4	regent	B-noun.person	
+4-5	har	O	
+4-6	Margrethe	B-noun.person	
+4-7	ikke	O	
+4-8	ligget	B-verb.stative	
+4-9	på	O	
+4-10	den	O	
+4-11	lade	B-adj.all	
+4-12	side	B-noun.relation	
+4-13	.	O	
+
+#id=5
+#text=Hunhar bl.a. modtaget titusinder i audiens og har på 20 år trykket op imod 100.000 i hænderne , har rejst jorden rundt utallige gange med besøg i hver en verdensdel .
+5-1	Hun	O	
+5-2	har	O	
+5-3	bl.a.	O	
+5-4	modtaget	B-verb.possession	
+5-5	titusinder	O	
+5-6	i	O	
+5-7	audiens	B-noun.act	
+5-8	og	O	
+5-9	har	O	
+5-10	på	O	
+5-11	20	O	
+5-12	år	B-noun.time	
+5-13	trykket	B-verb.contact	
+5-14	op	O	
+5-15	imod	O	
+5-16	100.000	O	
+5-17	i	O	
+5-18	hænderne	B-noun.body	
+5-19	,	O	
+5-20	har	O	
+5-21	rejst	B-verb.motion	
+5-22	jorden	B-noun.location	
+5-23	rundt	O	
+5-24	utallige	B-adj.all	
+5-25	gange	B-noun.abstract	
+5-26	med	O	
+5-27	besøg	B-noun.act	
+5-28	i	O	
+5-29	hver	O	
+5-30	en	O	
+5-31	verdensdel	B-noun.location	
+5-32	.	O	
+
+#id=6
+#text=Indiener et af de få , store lande , hun endnu har tilgode .
+6-1	Indien	B-noun.location	
+6-2	er	B-verb.stative	
+6-3	et	O	
+6-4	af	O	
+6-5	de	O	
+6-6	få	B-adj.all	
+6-7	,	O	
+6-8	store	B-adj.phys	
+6-9	lande	B-noun.location	
+6-10	,	O	
+6-11	hun	O	
+6-12	endnu	O	
+6-13	har	B-verb.cognition	
+6-14	tilgode	B-verb.COLL	
+6-15	.	O	
+
+#id=7
+#text=Regentendeltager i et hav af af arrangementer .
+7-1	Regenten	B-noun.person	
+7-2	deltager	B-verb.social	
+7-3	i	O	
+7-4	et	O	
+7-5	hav	B-noun.quantity	
+7-6	af	O	
+7-7	af	O	
+7-8	arrangementer	B-noun.event	
+7-9	.	O	
+
+#id=8
+#text=Derhar ikke været under 5.000 af slagsen , hvor Margrethe ikke har været æresgæsten .
+8-1	Der	O	
+8-2	har	O	
+8-3	ikke	O	
+8-4	været	B-verb.stative	
+8-5	under	O	
+8-6	5.000	O	
+8-7	af	O	
+8-8	slagsen	B-noun.abstract	
+8-9	,	O	
+8-10	hvor	O	
+8-11	Margrethe	B-noun.person	
+8-12	ikke	O	
+8-13	har	O	
+8-14	været	B-verb.stative	
+8-15	æresgæsten	B-noun.person	
+8-16	.	O	
+
+#id=9
+#text=Dronningener meget interesseret i , hvad der foregår ude i verden .
+9-1	Dronningen	B-noun.person	
+9-2	er	B-verb.stative	
+9-3	meget	O	
+9-4	interesseret	B-adj.mental	
+9-5	i	O	
+9-6	,	O	
+9-7	hvad	O	
+9-8	der	O	
+9-9	foregår	B-verb.phenomenon	
+9-10	ude	O	
+9-11	i	O	
+9-12	verden	B-noun.location	
+9-13	.	O	
+
+#id=10
+#text=Deninteresse deler hun fuld og helt med sin mand prins Henrik .
+10-1	Den	O	
+10-2	interesse	B-noun.feeling	
+10-3	deler	B-verb.phenomenon	
+10-4	hun	O	
+10-5	fuld	O	
+10-6	og	O	
+10-7	helt	O	
+10-8	med	O	
+10-9	sin	O	
+10-10	mand	B-noun.person	
+10-11	prins	B-noun.person	
+10-12	Henrik	I-noun.person	
+10-13	.	O	
+
+#id=11
+#text=I20_års-perioden , hvor Margrethe og Henrik har været regentpar , har de været på 27 statsbesøg .
+11-1	I	O	
+11-2	20_års-perioden	B-noun.time	
+11-3	,	O	
+11-4	hvor	O	
+11-5	Margrethe	B-noun.person	
+11-6	og	O	
+11-7	Henrik	B-noun.person	
+11-8	har	O	
+11-9	været	B-verb.stative	
+11-10	regentpar	B-noun.person	
+11-11	,	O	
+11-12	har	O	
+11-13	de	O	
+11-14	været	B-verb.stative	
+11-15	på	O	
+11-16	27	O	
+11-17	statsbesøg	B-noun.act	
+11-18	.	O	
+
+#id=12
+#text=Dertilkommer en lang række forskellige mere_eller_mindre officielle rejser .
+12-1	Dertil	O	
+12-2	kommer	B-verb.phenomenon	
+12-3	en	O	
+12-4	lang	B-adj.all	
+12-5	række	B-noun.quantity	
+12-6	forskellige	B-adj.all	
+12-7	mere_eller_mindre	O	
+12-8	officielle	B-adj.social	
+12-9	rejser	B-noun.act	
+12-10	.	O	
+

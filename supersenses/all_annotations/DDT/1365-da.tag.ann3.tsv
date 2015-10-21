@@ -1,0 +1,248 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Dethar altid overrasket folk syd for grænsen , at man i Danmark kunne gennemføre en meget kort valgkamp .
+1-1	Det	O	
+1-2	har	O	
+1-3	altid	O	
+1-4	overrasket	B-verb.cognition	
+1-5	folk	B-noun.person	
+1-6	syd	O	
+1-7	for	O	
+1-8	grænsen	B-noun.location	
+1-9	,	O	
+1-10	at	O	
+1-11	man	O	
+1-12	i	O	
+1-13	Danmark	B-noun.location	
+1-14	kunne	O	
+1-15	gennemføre	B-verb.act	
+1-16	en	O	
+1-17	meget	O	
+1-18	kort	B-adj.time	
+1-19	valgkamp	B-noun.act	
+1-20	.	O	
+
+#id=2
+#text=Treuger efter  , at statsministeren har udskrevet valget , kan det gennemføres .
+2-1	Tre	O	
+2-2	uger	B-noun.time	
+2-3	efter	O	
+2-4	,	O	
+2-5	at	O	
+2-6	statsministeren	B-noun.person	
+2-7	har	O	
+2-8	udskrevet	B-verb.aspectual	
+2-9	valget	B-noun.event	
+2-10	,	O	
+2-11	kan	O	
+2-12	det	O	
+2-13	gennemføres	B-verb.act	
+2-14	.	O	
+
+#id=3
+#text=ISlesvig-Holsten skal vi bruge 70-90 dage for blot at klare de formelle ting .
+3-1	I	O	
+3-2	Slesvig-Holsten	B-noun.location	
+3-3	skal	O	
+3-4	vi	O	
+3-5	bruge	B-verb.act	
+3-6	70-90	O	
+3-7	dage	B-noun.time	
+3-8	for	O	
+3-9	blot	O	
+3-10	at	O	
+3-11	klare	B-verb.act	
+3-12	de	O	
+3-13	formelle	B-adj.all	
+3-14	ting	B-noun.abstract	
+3-15	.	O	
+
+#id=4
+#text=Envalgkamp føres derfor over en lang tid .
+4-1	En	O	
+4-2	valgkamp	B-noun.act	
+4-3	føres	B-verb.act	
+4-4	derfor	O	
+4-5	over	O	
+4-6	en	O	
+4-7	lang	B-adj.phys	
+4-8	tid	B-noun.time	
+4-9	.	O	
+
+#id=5
+#text=Dennuværende sluttede allerede i august 1991 .
+5-1	Den	O	
+5-2	nuværende	B-adj.time	
+5-3	sluttede	B-verb.aspectual	
+5-4	allerede	O	
+5-5	i	O	
+5-6	august	B-noun.time	
+5-7	1991	B-noun.time	
+5-8	.	O	
+
+#id=6
+#text=Enanden overraskelse er ligeledes radioens og TVs valgudsendelser .
+6-1	En	O	
+6-2	anden	O	
+6-3	overraskelse	B-noun.feeling	
+6-4	er	B-verb.stative	
+6-5	ligeledes	O	
+6-6	radioens	B-noun.institution	
+6-7	og	O	
+6-8	TVs	B-noun.institution	
+6-9	valgudsendelser	B-noun.communication	
+6-10	.	O	
+
+#id=7
+#text=Dette, at hvert parti får samme sendetid i TV og radio , forstår flertallet af vore tyske medborgere slet ikke .
+7-1	Dette	O	
+7-2	,	O	
+7-3	at	O	
+7-4	hvert	O	
+7-5	parti	B-noun.institution	
+7-6	får	B-verb.possession	
+7-7	samme	O	
+7-8	sendetid	B-noun.time	
+7-9	i	O	
+7-10	TV	B-noun.artifact	
+7-11	og	O	
+7-12	radio	B-noun.artifact	
+7-13	,	O	
+7-14	forstår	B-verb.cognition	
+7-15	flertallet	B-noun.person	
+7-16	af	O	
+7-17	vore	O	
+7-18	tyske	B-adj.social	
+7-19	medborgere	B-noun.person	
+7-20	slet	O	
+7-21	ikke	O	
+7-22	.	O	
+
+#id=8
+#text=Minut-eller sekunddemokrati bliver dette hånligt kaldt .
+8-1	Minut-	B-noun.abstract	
+8-2	eller	I-noun.abstract	
+8-3	sekunddemokrati	I-noun.abstract	
+8-4	bliver	B-verb.stative	
+8-5	dette	O	
+8-6	hånligt	O	
+8-7	kaldt	B-verb.communication	
+8-8	.	O	
+
+#id=9
+#text=Udtrykjeg i_øvrigt også har hørt nord for grænsen .
+9-1	Udtryk	B-noun.communication	
+9-2	jeg	O	
+9-3	i_øvrigt	O	
+9-4	også	O	
+9-5	har	O	
+9-6	hørt	B-verb.perception	
+9-7	nord	B-noun.location	
+9-8	for	O	
+9-9	grænsen	B-noun.location	
+9-10	.	O	
+
+#id=10
+#text=Jegholder imidlertid af dette princip .
+10-1	Jeg	O	
+10-2	holder	B-verb.emotion	
+10-3	imidlertid	O	
+10-4	af	B-verb.PARTICLE	
+10-5	dette	O	
+10-6	princip	B-noun.cognition	
+10-7	.	O	
+
+#id=11
+#text=Hvertparti , der opstiller , skal have samme chance , hvad enten det er et helt nyt  parti , der aldrig har været repræsenteret i parlamentet , eller det er landets største parti eller regeringspartiet .
+11-1	Hvert	O	
+11-2	parti	B-noun.person	
+11-3	,	O	
+11-4	der	O	
+11-5	opstiller	B-verb.act	
+11-6	,	O	
+11-7	skal	O	
+11-8	have	B-verb.possession	
+11-9	samme	O	
+11-10	chance	B-noun.abstract	
+11-11	,	O	
+11-12	hvad	O	
+11-13	enten	O	
+11-14	det	O	
+11-15	er	B-verb.stative	
+11-16	et	O	
+11-17	helt	O	
+11-18	nyt	B-adj.time	
+11-19	parti	B-noun.person	
+11-20	,	O	
+11-21	der	O	
+11-22	aldrig	O	
+11-23	har	O	
+11-24	været	O	
+11-25	repræsenteret	B-verb.stative	
+11-26	i	O	
+11-27	parlamentet	B-noun.building	
+11-28	,	O	
+11-29	eller	O	
+11-30	det	O	
+11-31	er	B-verb.stative	
+11-32	landets	B-noun.person	
+11-33	største	B-adj.phys	
+11-34	parti	B-noun.person	
+11-35	eller	O	
+11-36	regeringspartiet	B-noun.person	
+11-37	.	O	
+
+#id=12
+#text=Hermøder jeg hård modstand hos de store tyske partier , både hos CDU og SPD .
+12-1	Her	O	
+12-2	møder	B-verb.social	
+12-3	jeg	O	
+12-4	hård	B-adj.phys	
+12-5	modstand	B-noun.act	
+12-6	hos	O	
+12-7	de	O	
+12-8	store	B-adj.phys	
+12-9	tyske	B-adj.social	
+12-10	partier	B-noun.person	
+12-11	,	O	
+12-12	både	O	
+12-13	hos	O	
+12-14	CDU	B-noun.institution	
+12-15	og	O	
+12-16	SPD	B-noun.institution	
+12-17	.	O	
+
+#id=13
+#text=Styrkeforholdetmå være det afgørende , siger de begge .
+13-1	Styrkeforholdet	B-noun.relation	
+13-2	må	O	
+13-3	være	B-verb.stative	
+13-4	det	O	
+13-5	afgørende	B-adj.all	
+13-6	,	O	
+13-7	siger	B-verb.communication	
+13-8	de	O	
+13-9	begge	O	
+13-10	.	O	
+
+#id=14
+#text=Detstørste parti må have de fleste udsendelser før et valg , og det mindste de færreste .
+14-1	Det	O	
+14-2	største	B-adj.phys	
+14-3	parti	B-noun.person	
+14-4	må	O	
+14-5	have	B-verb.possession	
+14-6	de	O	
+14-7	fleste	O	
+14-8	udsendelser	B-noun.communication	
+14-9	før	O	
+14-10	et	O	
+14-11	valg	B-noun.event	
+14-12	,	O	
+14-13	og	O	
+14-14	det	O	
+14-15	mindste	B-noun.person	
+14-16	de	O	
+14-17	færreste	B-noun.communication	
+14-18	.	O	
+

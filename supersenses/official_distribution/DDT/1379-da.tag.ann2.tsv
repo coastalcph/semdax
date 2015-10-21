@@ -1,0 +1,203 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Dahun således var i Berlin i 1960 , blev hun foruden den officielle hyldest også mødt af folk , der hujede og piftede ad hende og kaldte hende landsforræder .
+1-1	Da	O	
+1-2	hun	O	
+1-3	således	O	
+1-4	var	B-verb.stative	
+1-5	i	O	
+1-6	Berlin	B-noun.location	
+1-7	i	O	
+1-8	1960	B-noun.time	
+1-9	,	O	
+1-10	blev	O	
+1-11	hun	O	
+1-12	foruden	O	
+1-13	den	O	
+1-14	officielle	B-adj.social	
+1-15	hyldest	B-noun.act	
+1-16	også	O	
+1-17	mødt	B-verb.social	
+1-18	af	O	
+1-19	folk	B-noun.person	
+1-20	,	O	
+1-21	der	O	
+1-22	hujede	B-verb.communication	
+1-23	og	O	
+1-24	piftede	B-verb.phenomenon	
+1-25	ad	O	
+1-26	hende	O	
+1-27	og	O	
+1-28	kaldte	B-verb.communication	
+1-29	hende	O	
+1-30	landsforræder	B-noun.person	
+1-31	.	O	
+
+#id=2
+#text=PræstenGottfried Wiarda kom ind på emnet , da han under begravelsestalen sagde , at Marlene Dietrich også havde haft store sorger i sit liv .
+2-1	Præsten	B-noun.person	
+2-2	Gottfried	B-noun.person	
+2-3	Wiarda	I-noun.person	
+2-4	kom	B-verb.communication	
+2-5	ind	O	
+2-6	på	O	
+2-7	emnet	B-noun.abstract	
+2-8	,	O	
+2-9	da	O	
+2-10	han	O	
+2-11	under	O	
+2-12	begravelsestalen	B-noun.act	
+2-13	sagde	B-verb.communication	
+2-14	,	O	
+2-15	at	O	
+2-16	Marlene	B-noun.person	
+2-17	Dietrich	I-noun.person	
+2-18	også	O	
+2-19	havde	O	
+2-20	haft	B-verb.cognition	
+2-21	store	B-adj.all	
+2-22	sorger	B-noun.feeling	
+2-23	i	O	
+2-24	sit	O	
+2-25	liv	B-noun.state	
+2-26	.	O	
+
+#id=3
+#text="Frem for alt den sorg , det er ikke altid at blive forstået i sit fødeland , " sagde præsten med adresse til , at Marlene Dietrich af mange tyskere fejlagtigt blev opfattet som en landsforræder .
+3-1	"	O	
+3-2	Frem	O	
+3-3	for	O	
+3-4	alt	O	
+3-5	den	O	
+3-6	sorg	B-noun.feeling	
+3-7	,	O	
+3-8	det	O	
+3-9	er	B-verb.stative	
+3-10	ikke	O	
+3-11	altid	O	
+3-12	at	O	
+3-13	blive	O	
+3-14	forstået	B-verb.cognition	
+3-15	i	O	
+3-16	sit	O	
+3-17	fødeland	B-noun.location	
+3-18	,	O	
+3-19	"	O	
+3-20	sagde	B-verb.communication	
+3-21	præsten	B-noun.person	
+3-22	med	O	
+3-23	adresse	B-noun.communication	
+3-24	til	O	
+3-25	,	O	
+3-26	at	O	
+3-27	Marlene	B-noun.person	
+3-28	Dietrich	I-noun.person	
+3-29	af	O	
+3-30	mange	B-adj.phys	
+3-31	tyskere	B-noun.person	
+3-32	fejlagtigt	O	
+3-33	blev	O	
+3-34	opfattet	B-verb.cognition	
+3-35	som	O	
+3-36	en	O	
+3-37	landsforræder	B-noun.person	
+3-38	.	O	
+
+#id=4
+#text=Præstenvar dog ikke den eneste , der holdt en tale over den legendariske filmskuespillerinde .
+4-1	Præsten	B-noun.person	
+4-2	var	B-verb.stative	
+4-3	dog	O	
+4-4	ikke	O	
+4-5	den	O	
+4-6	eneste	B-adj.all	
+4-7	,	O	
+4-8	der	O	
+4-9	holdt	B-verb.act	
+4-10	en	O	
+4-11	tale	B-noun.communication	
+4-12	over	O	
+4-13	den	O	
+4-14	legendariske	B-adj.social	
+4-15	filmskuespillerinde	B-noun.person	
+4-16	.	O	
+
+#id=5
+#text=Skuespillerenog regissøren Maximillian Schell , der spillede sammen med hende i filmen " Dommen i Nürnberg " , sagde , da kisten langsomt blev sænket i jorden , " Kære Marlene - velkommen hjem .
+5-1	Skuespilleren	B-noun.person	
+5-2	og	O	
+5-3	regissøren	B-noun.person	
+5-4	Maximillian	B-noun.person	
+5-5	Schell	I-noun.person	
+5-6	,	O	
+5-7	der	O	
+5-8	spillede	B-verb.act	
+5-9	sammen	O	
+5-10	med	O	
+5-11	hende	O	
+5-12	i	O	
+5-13	filmen	B-noun.communication	
+5-14	"	O	
+5-15	Dommen	B-noun.communication	
+5-16	i	I-noun.communication	
+5-17	Nürnberg	I-noun.communication	
+5-18	"	O	
+5-19	,	O	
+5-20	sagde	B-verb.communication	
+5-21	,	O	
+5-22	da	O	
+5-23	kisten	B-noun.container	
+5-24	langsomt	O	
+5-25	blev	O	
+5-26	sænket	B-verb.motion	
+5-27	i	O	
+5-28	jorden	B-noun.object	
+5-29	,	O	
+5-30	"	O	
+5-31	Kære	B-adj.mental	
+5-32	Marlene	B-noun.person	
+5-33	-	O	
+5-34	velkommen	O	
+5-35	hjem	O	
+5-36	.	O	
+
+#id=6
+#text=Jegtror , du ville have elsket de mange bifald " , med adresse til de godt tusinde mennesker , der uden for kirkegården havde klappet taktfast , da cadillac'en med hendes kiste ombord defilerede forbi .
+6-1	Jeg	O	
+6-2	tror	B-verb.cognition	
+6-3	,	O	
+6-4	du	O	
+6-5	ville	O	
+6-6	have	O	
+6-7	elsket	B-verb.emotion	
+6-8	de	O	
+6-9	mange	B-adj.all	
+6-10	bifald	B-noun.act	
+6-11	"	O	
+6-12	,	O	
+6-13	med	O	
+6-14	adresse	B-noun.communication	
+6-15	til	O	
+6-16	de	O	
+6-17	godt	O	
+6-18	tusinde	B-noun.quantity	
+6-19	mennesker	B-noun.person	
+6-20	,	O	
+6-21	der	O	
+6-22	uden	O	
+6-23	for	O	
+6-24	kirkegården	B-noun.location	
+6-25	havde	O	
+6-26	klappet	B-verb.act	
+6-27	taktfast	O	
+6-28	,	O	
+6-29	da	O	
+6-30	cadillac'en	B-noun.vehicle	
+6-31	med	O	
+6-32	hendes	O	
+6-33	kiste	B-noun.container	
+6-34	ombord	O	
+6-35	defilerede	B-verb.motion	
+6-36	forbi	O	
+6-37	.	O	
+

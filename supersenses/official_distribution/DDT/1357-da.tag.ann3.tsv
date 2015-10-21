@@ -1,0 +1,236 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text="Afghanerne er  en fantastisk folk .
+1-1	"	O	
+1-2	Afghanerne	B-noun.person	
+1-3	er	B-verb.stative	
+1-4	en	O	
+1-5	fantastisk	B-adj.all	
+1-6	folk	B-noun.group	
+1-7	.	O	
+
+#id=2
+#text=Smukke, stærke og ikke til at knække .
+2-1	Smukke	B-adj.phys	
+2-2	,	O	
+2-3	stærke	B-adj.phys	
+2-4	og	O	
+2-5	ikke	O	
+2-6	til	O	
+2-7	at	O	
+2-8	knække	B-verb.change	
+2-9	.	O	
+
+#id=3
+#text=Atde lemlæstede børn og voksne efter få dage formår at smile og pjatte .
+3-1	At	O	
+3-2	de	O	
+3-3	lemlæstede	B-adj.phys	
+3-4	børn	B-noun.person	
+3-5	og	O	
+3-6	voksne	B-noun.person	
+3-7	efter	O	
+3-8	få	O	
+3-9	dage	B-noun.time	
+3-10	formår	B-verb.stative	
+3-11	at	O	
+3-12	smile	B-verb.body	
+3-13	og	O	
+3-14	pjatte	B-verb.act	
+3-15	.	O	
+
+#id=4
+#text=Atfå livsviljen og optimismen tilbage .
+4-1	At	O	
+4-2	få	B-verb.possession	
+4-3	livsviljen	B-noun.attribute	
+4-4	og	O	
+4-5	optimismen	B-noun.attribute	
+4-6	tilbage	O	
+4-7	.	O	
+
+#id=5
+#text=Deter utroligt .
+5-1	Det	O	
+5-2	er	B-verb.stative	
+5-3	utroligt	B-adj.mental	
+5-4	.	O	
+
+#id=6
+#text=Derforelsker jeg at arbejde her - at gøre en indsats . "
+6-1	Derfor	O	
+6-2	elsker	B-verb.emotion	
+6-3	jeg	O	
+6-4	at	O	
+6-5	arbejde	B-verb.act	
+6-6	her	O	
+6-7	-	O	
+6-8	at	O	
+6-9	gøre	B-verb.act	
+6-10	en	O	
+6-11	indsats	B-noun.act	
+6-12	.	O	
+6-13	"	O	
+
+#id=7
+#text=Derer langt fra den støvede Kabul-forstad Karte Seh med de lave lerhuse og de høje bjerge til hjemmet ved Holbæk , hvor kæresten Holger venter .
+7-1	Der	O	
+7-2	er	B-verb.stative	
+7-3	langt	O	
+7-4	fra	O	
+7-5	den	O	
+7-6	støvede	B-adj.phys	
+7-7	Kabul-forstad	B-noun.location	
+7-8	Karte	B-noun.location	
+7-9	Seh	I-noun.location	
+7-10	med	O	
+7-11	de	O	
+7-12	lave	B-adj.phys	
+7-13	lerhuse	B-noun.building	
+7-14	og	O	
+7-15	de	O	
+7-16	høje	B-adj.phys	
+7-17	bjerge	B-noun.object	
+7-18	til	O	
+7-19	hjemmet	B-noun.building	
+7-20	ved	O	
+7-21	Holbæk	B-noun.location	
+7-22	,	O	
+7-23	hvor	O	
+7-24	kæresten	B-noun.person	
+7-25	Holger	B-noun.person	
+7-26	venter	B-verb.stative	
+7-27	.	O	
+
+#id=8
+#text="Kors , hvor jeg savner ham . "
+8-1	"	O	
+8-2	Kors	O	
+8-3	,	O	
+8-4	hvor	O	
+8-5	jeg	O	
+8-6	savner	B-verb.emotion	
+8-7	ham	O	
+8-8	.	O	
+8-9	"	O	
+
+#id=9
+#text=Etpar timer senere , kort før klokken seks morgen , står hendes danske kollega Anne-Mette Larsen op .
+9-1	Et	O	
+9-2	par	B-noun.quantity	
+9-3	timer	B-noun.time	
+9-4	senere	O	
+9-5	,	O	
+9-6	kort	O	
+9-7	før	O	
+9-8	klokken	O	
+9-9	seks	O	
+9-10	morgen	B-noun.time	
+9-11	,	O	
+9-12	står	B-verb.act	
+9-13	hendes	O	
+9-14	danske	B-adj.social	
+9-15	kollega	B-noun.person	
+9-16	Anne-Mette	B-noun.person	
+9-17	Larsen	I-noun.person	
+9-18	op	B-verb.PARTICLE	
+9-19	.	O	
+
+#id=10
+#text=Kikkerud ad vinduet mod de snedækkede Hindu Kush bjerge .
+10-1	Kikker	B-verb.perception	
+10-2	ud	O	
+10-3	ad	O	
+10-4	vinduet	B-noun.artifact	
+10-5	mod	O	
+10-6	de	O	
+10-7	snedækkede	B-adj.phys	
+10-8	Hindu	B-noun.object	
+10-9	Kush	I-noun.object	
+10-10	bjerge	I-noun.object	
+10-11	.	O	
+
+#id=11
+#text="Øv .
+11-1	"	O	
+11-2	Øv	O	
+11-3	.	O	
+
+#id=12
+#text=Solenskinner . "
+12-1	Solen	B-noun.object	
+12-2	skinner	B-verb.phenomenon	
+12-3	.	O	
+12-4	"	O	
+
+#id=13
+#text=Nårsolen skinner leger børnene i markerne og grøftekanterne .
+13-1	Når	O	
+13-2	solen	B-noun.object	
+13-3	skinner	B-verb.phenomenon	
+13-4	leger	B-verb.act	
+13-5	børnene	B-noun.person	
+13-6	i	O	
+13-7	markerne	B-noun.location	
+13-8	og	O	
+13-9	grøftekanterne	B-noun.location	
+13-10	.	O	
+
+#id=14
+#text=Kravlerrundt på bjergsiderne .
+14-1	Kravler	B-verb.motion	
+14-2	rundt	O	
+14-3	på	O	
+14-4	bjergsiderne	B-noun.location	
+14-5	.	O	
+
+#id=15
+#text=Nårforåret bryder frem går kvinderne i markerne .
+15-1	Når	O	
+15-2	foråret	B-noun.time	
+15-3	bryder	B-verb.aspectual	
+15-4	frem	B-verb.PARTICLE	
+15-5	går	B-verb.motion	
+15-6	kvinderne	B-noun.person	
+15-7	i	O	
+15-8	markerne	B-noun.location	
+15-9	.	O	
+
+#id=16
+#text=Alleandre steder på jordkloden en dejlig dag .
+16-1	Alle	O	
+16-2	andre	O	
+16-3	steder	B-noun.location	
+16-4	på	O	
+16-5	jordkloden	B-noun.object	
+16-6	en	O	
+16-7	dejlig	B-adj.all	
+16-8	dag	B-noun.time	
+16-9	.	O	
+
+#id=17
+#text=IAfghanistan en dag hvor børn og kvinder går spidsrod mellem mindst 20 millioner landminer , der er spredt over hele landet .
+17-1	I	O	
+17-2	Afghanistan	B-noun.location	
+17-3	en	O	
+17-4	dag	B-noun.time	
+17-5	hvor	O	
+17-6	børn	B-noun.person	
+17-7	og	O	
+17-8	kvinder	B-noun.person	
+17-9	går	B-verb.motion	
+17-10	spidsrod	O	
+17-11	mellem	O	
+17-12	mindst	O	
+17-13	20	O	
+17-14	millioner	B-noun.quantity	
+17-15	landminer	B-noun.artifact	
+17-16	,	O	
+17-17	der	O	
+17-18	er	O	
+17-19	spredt	B-verb.phenomenon	
+17-20	over	O	
+17-21	hele	B-adj.phys	
+17-22	landet	B-noun.location	
+17-23	.	O	
+

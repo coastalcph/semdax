@@ -1,0 +1,221 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=FORFÆRDELIGBANGE
+1-1	FORFÆRDELIG	O	
+1-2	BANGE	B-adj.mental	
+
+#id=2
+#text="Det er så uhyggeligt , at det ikke er til at forstå , " siger en mor til to , som bor i Tronneallé-kvarteret .
+2-1	"	O	
+2-2	Det	O	
+2-3	er	B-verb.stative	
+2-4	så	O	
+2-5	uhyggeligt	B-adj.all	
+2-6	,	O	
+2-7	at	O	
+2-8	det	O	
+2-9	ikke	O	
+2-10	er	B-verb.stative	
+2-11	til	O	
+2-12	at	O	
+2-13	forstå	B-verb.cognition	
+2-14	,	O	
+2-15	"	O	
+2-16	siger	B-verb.communication	
+2-17	en	O	
+2-18	mor	B-noun.person	
+2-19	til	O	
+2-20	to	O	
+2-21	,	O	
+2-22	som	O	
+2-23	bor	B-verb.stative	
+2-24	i	O	
+2-25	Tronneallé-kvarteret	B-noun.location	
+2-26	.	O	
+
+#id=3
+#text="Min egen søn på syv er forfærdelig bange for den pågældende dreng .
+3-1	"	O	
+3-2	Min	O	
+3-3	egen	B-adj.all	
+3-4	søn	B-noun.person	
+3-5	på	O	
+3-6	syv	O	
+3-7	er	B-verb.stative	
+3-8	forfærdelig	O	
+3-9	bange	B-adj.mental	
+3-10	for	O	
+3-11	den	O	
+3-12	pågældende	B-adj.all	
+3-13	dreng	B-noun.person	
+3-14	.	O	
+
+#id=4
+#text=Hantør ikke gå alene til bussen .
+4-1	Han	O	
+4-2	tør	B-verb.emotion	
+4-3	ikke	O	
+4-4	gå	B-verb.motion	
+4-5	alene	O	
+4-6	til	O	
+4-7	bussen	B-noun.vehicle	
+4-8	.	O	
+
+#id=5
+#text=Vier flere , som næsten ikke har turdet sende børnene ud at lege af samme grund .
+5-1	Vi	O	
+5-2	er	O	
+5-3	flere	O	
+5-4	,	O	
+5-5	som	O	
+5-6	næsten	O	
+5-7	ikke	O	
+5-8	har	O	
+5-9	turdet	O	
+5-10	sende	O	
+5-11	børnene	O	
+5-12	ud	O	
+5-13	at	O	
+5-14	lege	O	
+5-15	af	O	
+5-16	samme	O	
+5-17	grund	O	
+5-18	.	O	
+
+#id=6
+#text=Derer også nogle , som har truet med at flytte , ja én beboer er flyttet af samme grund . "
+6-1	Der	O	
+6-2	er	B-verb.stative	
+6-3	også	O	
+6-4	nogle	O	
+6-5	,	O	
+6-6	som	O	
+6-7	har	O	
+6-8	truet	B-verb.communication	
+6-9	med	O	
+6-10	at	O	
+6-11	flytte	B-verb.motion	
+6-12	,	O	
+6-13	ja	O	
+6-14	én	O	
+6-15	beboer	B-noun.person	
+6-16	er	O	
+6-17	flyttet	B-verb.motion	
+6-18	af	O	
+6-19	samme	B-adj.all	
+6-20	grund	B-noun.cognition	
+6-21	.	O	
+6-22	"	O	
+
+#id=7
+#text=Detformodes , at den 11-årige har leget i sandkassen med den lille Stewart lige før , det uhyggelige kvæleroverfald skete .
+7-1	Det	O	
+7-2	formodes	B-verb.cognition	
+7-3	,	O	
+7-4	at	O	
+7-5	den	O	
+7-6	11-årige	B-adj.time	
+7-7	har	O	
+7-8	leget	B-verb.act	
+7-9	i	O	
+7-10	sandkassen	B-noun.container	
+7-11	med	O	
+7-12	den	O	
+7-13	lille	B-adj.phys	
+7-14	Stewart	B-noun.person	
+7-15	lige	O	
+7-16	før	O	
+7-17	,	O	
+7-18	det	O	
+7-19	uhyggelige	B-adj.all	
+7-20	kvæleroverfald	B-noun.act	
+7-21	skete	B-verb.phenomenon	
+7-22	.	O	
+
+#id=8
+#text=Yderligereformodes han at have set sit snit til  at få den to-årige væk derfra - og et par hundrede meter hen til et græsareal med forholdsvis højt græs bag bebyggelsen .
+8-1	Yderligere	O	
+8-2	formodes	B-verb.cognition	
+8-3	han	O	
+8-4	at	O	
+8-5	have	O	
+8-6	set	B-verb.cognition	
+8-7	sit	B-verb.COLL	
+8-8	snit	B-verb.COLL	
+8-9	til	O	
+8-10	at	O	
+8-11	få	B-verb.phenomenon	
+8-12	den	O	
+8-13	to-årige	B-adj.time	
+8-14	væk	O	
+8-15	derfra	O	
+8-16	-	O	
+8-17	og	O	
+8-18	et	O	
+8-19	par	B-noun.quantity	
+8-20	hundrede	O	
+8-21	meter	B-noun.quantity	
+8-22	hen	O	
+8-23	til	O	
+8-24	et	O	
+8-25	græsareal	B-noun.location	
+8-26	med	O	
+8-27	forholdsvis	O	
+8-28	højt	B-adj.phys	
+8-29	græs	B-noun.plant	
+8-30	bag	O	
+8-31	bebyggelsen	B-noun.building	
+8-32	.	O	
+
+#id=9
+#text=Mendet benægter han .
+9-1	Men	O	
+9-2	det	O	
+9-3	benægter	B-verb.communication	
+9-4	han	O	
+9-5	.	O	
+
+#id=10
+#text=Tilsyneladendehar ingen set de to børn gå hen til stedet  , hvor Stewart blev forsøgt kvalt ; men kort efter blev den rolige middagsstilhed brudt af løbende skridt , chokerede udbrud og hvinende ambulancehorn , da Falck blev tilkaldt .
+10-1	Tilsyneladende	O	
+10-2	har	O	
+10-3	ingen	O	
+10-4	set	B-verb.perception	
+10-5	de	O	
+10-6	to	O	
+10-7	børn	B-noun.person	
+10-8	gå	B-verb.motion	
+10-9	hen	O	
+10-10	til	O	
+10-11	stedet	B-noun.location	
+10-12	,	O	
+10-13	hvor	O	
+10-14	Stewart	B-noun.person	
+10-15	blev	O	
+10-16	forsøgt	B-verb.act	
+10-17	kvalt	B-verb.act	
+10-18	;	O	
+10-19	men	O	
+10-20	kort	B-adj.time	
+10-21	efter	O	
+10-22	blev	O	
+10-23	den	O	
+10-24	rolige	B-adj.all	
+10-25	middagsstilhed	B-noun.phenomenon	
+10-26	brudt	B-verb.phenomenon	
+10-27	af	O	
+10-28	løbende	B-adj.phys	
+10-29	skridt	B-noun.act	
+10-30	,	O	
+10-31	chokerede	B-adj.all	
+10-32	udbrud	B-noun.communication	
+10-33	og	O	
+10-34	hvinende	B-adj.phys	
+10-35	ambulancehorn	B-noun.artifact	
+10-36	,	O	
+10-37	da	O	
+10-38	Falck	B-noun.person	
+10-39	blev	O	
+10-40	tilkaldt	B-verb.communication	
+10-41	.	O	
+

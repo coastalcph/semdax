@@ -1,0 +1,285 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Tilgengæld synes  jeg ikke , tyskerne og spanierne har talt godt nok sammen , da man designede instrumentpanelet .
+1-1	Til	O	
+1-2	gengæld	O	
+1-3	synes	B-verb.cognition	
+1-4	jeg	O	
+1-5	ikke	O	
+1-6	,	O	
+1-7	tyskerne	B-noun.person	
+1-8	og	O	
+1-9	spanierne	B-noun.person	
+1-10	har	O	
+1-11	talt	B-verb.communication	
+1-12	godt	O	
+1-13	nok	O	
+1-14	sammen	O	
+1-15	,	O	
+1-16	da	O	
+1-17	man	O	
+1-18	designede	B-verb.creation	
+1-19	instrumentpanelet	B-noun.artifact	
+1-20	.	O	
+
+#id=2
+#text=Ikkealle knapper sidder fornuftigt placeret .
+2-1	Ikke	O	
+2-2	alle	O	
+2-3	knapper	B-noun.artifact	
+2-4	sidder	B-verb.stative	
+2-5	fornuftigt	O	
+2-6	placeret	B-verb.motion	
+2-7	.	O	
+
+#id=3
+#text=Fleredækkes helt af rattet .
+3-1	Flere	O	
+3-2	dækkes	B-verb.act	
+3-3	helt	O	
+3-4	af	O	
+3-5	rattet	B-noun.artifact	
+3-6	.	O	
+
+#id=4
+#text=Udstyrsmæssigtplacerer Toledo sig fint i klassen .
+4-1	Udstyrsmæssigt	O	
+4-2	placerer	B-verb.motion	
+4-3	Toledo	B-noun.vehicle	
+4-4	sig	O	
+4-5	fint	O	
+4-6	i	O	
+4-7	klassen	B-noun.group	
+4-8	.	O	
+
+#id=5
+#text=Servostyring, ABS , elrudehejs , el-sidespejle og centrallås er standard .
+5-1	Servostyring	B-noun.artifact	
+5-2	,	O	
+5-3	ABS	B-noun.artifact	
+5-4	,	O	
+5-5	elrudehejs	B-noun.artifact	
+5-6	,	O	
+5-7	el-sidespejle	B-noun.artifact	
+5-8	og	O	
+5-9	centrallås	B-noun.artifact	
+5-10	er	B-verb.stative	
+5-11	standard	B-noun.abstract	
+5-12	.	O	
+
+#id=6
+#text=Ogprismæssigt ligger Seat Toledo også pænt i forhold til konkurrenterne .
+6-1	Og	O	
+6-2	prismæssigt	O	
+6-3	ligger	B-verb.stative	
+6-4	Seat	B-noun.vehicle	
+6-5	Toledo	I-noun.vehicle	
+6-6	også	O	
+6-7	pænt	O	
+6-8	i	O	
+6-9	forhold	B-noun.relation	
+6-10	til	O	
+6-11	konkurrenterne	B-noun.vehicle	
+6-12	.	O	
+
+#id=7
+#text=Selv_omder focuseres på det meget nære forhold til VW , er det en spansk bil , og den skal nu bevise , at den kan leve op til det , den lover .
+7-1	Selv_om	O	
+7-2	der	O	
+7-3	focuseres	B-verb.cognition	
+7-4	på	O	
+7-5	det	O	
+7-6	meget	O	
+7-7	nære	B-adj.all	
+7-8	forhold	B-noun.relation	
+7-9	til	O	
+7-10	VW	B-noun.institution	
+7-11	,	O	
+7-12	er	B-verb.stative	
+7-13	det	O	
+7-14	en	O	
+7-15	spansk	B-adj.social	
+7-16	bil	B-noun.vehicle	
+7-17	,	O	
+7-18	og	O	
+7-19	den	O	
+7-20	skal	O	
+7-21	nu	O	
+7-22	bevise	B-verb.communication	
+7-23	,	O	
+7-24	at	O	
+7-25	den	O	
+7-26	kan	O	
+7-27	leve	B-verb.act	
+7-28	op	B-verb.PARTICLE	
+7-29	til	O	
+7-30	det	O	
+7-31	,	O	
+7-32	den	O	
+7-33	lover	B-verb.communication	
+7-34	.	O	
+
+#id=8
+#text=Faktaom Seat Toledo 2,0 GLX OPBYGNING : 4/5-personers sedan .
+8-1	Fakta	B-noun.communication	
+8-2	om	O	
+8-3	Seat	B-noun.vehicle	
+8-4	Toledo	I-noun.vehicle	
+8-5	2,0	O	
+8-6	GLX	O	
+8-7	OPBYGNING	B-noun.attribute	
+8-8	:	O	
+8-9	4/5-personers	O	
+8-10	sedan	B-noun.vehicle	
+8-11	.	O	
+
+#id=9
+#text=Motorpå tværs foran og træk på forhjulene .
+9-1	Motor	B-noun.artifact	
+9-2	på	O	
+9-3	tværs	O	
+9-4	foran	O	
+9-5	og	O	
+9-6	træk	B-noun.phenomenon	
+9-7	på	O	
+9-8	forhjulene	B-noun.artifact	
+9-9	.	O	
+
+#id=10
+#text=MOTOR: 4-cylindre , 1984 ccm , 115 hk ved 5400 o/m. .
+10-1	MOTOR	B-noun.artifact	
+10-2	:	O	
+10-3	4-cylindre	B-noun.artifact	
+10-4	,	O	
+10-5	1984	O	
+10-6	ccm	O	
+10-7	,	O	
+10-8	115	O	
+10-9	hk	O	
+10-10	ved	O	
+10-11	5400	O	
+10-12	o/m.	O	
+10-13	.	O	
+
+#id=11
+#text=Maks.drejningsmoment : 166 Nm ved 3200 o/m. .
+11-1	Maks.	O	
+11-2	drejningsmoment	B-noun.attribute	
+11-3	:	O	
+11-4	166	O	
+11-5	Nm	O	
+11-6	ved	O	
+11-7	3200	O	
+11-8	o/m.	O	
+11-9	.	O	
+
+#id=12
+#text=Elektroniskindsprøjtning .
+12-1	Elektronisk	B-adj.phys	
+12-2	indsprøjtning	B-noun.act	
+12-3	.	O	
+
+#id=13
+#text=STYRETØJ: Tandstang med servo .
+13-1	STYRETØJ	B-noun.artifact	
+13-2	:	O	
+13-3	Tandstang	B-noun.artifact	
+13-4	med	O	
+13-5	servo	B-noun.artifact	
+13-6	.	O	
+
+#id=14
+#text=BREMSER: Ventillerede skiver for og skiver bag .
+14-1	BREMSER	B-noun.artifact	
+14-2	:	O	
+14-3	Ventillerede	B-adj.all	
+14-4	skiver	B-noun.artifact	
+14-5	for	O	
+14-6	og	O	
+14-7	skiver	B-noun.artifact	
+14-8	bag	O	
+14-9	.	O	
+
+#id=15
+#text=MÅLOG VÆGT : Længde/bredde/højde : 432/166/142 cm. .
+15-1	MÅL	B-noun.attribute	
+15-2	OG	O	
+15-3	VÆGT	B-noun.attribute	
+15-4	:	O	
+15-5	Længde/bredde/højde	B-noun.attribute	
+15-6	:	O	
+15-7	432/166/142	O	
+15-8	cm.	O	
+15-9	.	O	
+
+#id=16
+#text=Egenvægt: 1030 kg. .
+16-1	Egenvægt	B-noun.attribute	
+16-2	:	O	
+16-3	1030	O	
+16-4	kg.	O	
+16-5	.	O	
+
+#id=17
+#text=Tilladttotalvægt : 1495 kg. .
+17-1	Tilladt	B-adj.all	
+17-2	totalvægt	B-noun.attribute	
+17-3	:	O	
+17-4	1495	O	
+17-5	kg.	O	
+17-6	.	O	
+
+#id=18
+#text=HJULOG FÆLGE : Stålfælge 6Jx14 .
+18-1	HJUL	B-noun.artifact	
+18-2	OG	O	
+18-3	FÆLGE	B-noun.artifact	
+18-4	:	O	
+18-5	Stålfælge	B-noun.artifact	
+18-6	6Jx14	O	
+18-7	.	O	
+
+#id=19
+#text=Dæk: 185/60 R14 .
+19-1	Dæk	B-noun.artifact	
+19-2	:	O	
+19-3	185/60	O	
+19-4	R14	O	
+19-5	.	O	
+
+#id=20
+#text=PRÆSTATIONER: Topfart : 196 km/t. .
+20-1	PRÆSTATIONER	B-noun.act	
+20-2	:	O	
+20-3	Topfart	B-noun.attribute	
+20-4	:	O	
+20-5	196	O	
+20-6	km/t.	O	
+20-7	.	O	
+
+#id=21
+#text=0-100: 10,5 sek. .
+21-1	0-100	O	
+21-2	:	O	
+21-3	10,5	O	
+21-4	sek.	O	
+21-5	.	O	
+
+#id=22
+#text=GARANTI: Seks år på rustgennemtæring .
+22-1	GARANTI	B-noun.abstract	
+22-2	:	O	
+22-3	Seks	O	
+22-4	år	B-noun.time	
+22-5	på	O	
+22-6	rustgennemtæring	B-noun.phenomenon	
+22-7	.	O	
+
+#id=23
+#text=PRIS: 219.996 kr. .
+23-1	PRIS	B-noun.possession	
+23-2	:	O	
+23-3	219.996	O	
+23-4	kr.	O	
+23-5	.	O	
+

@@ -1,0 +1,203 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=-Sidste afsnit i artiklen ( " Som et kuriosum kan nævnes ... " ) er regulært citatfusk :
+1-1	-	O	
+1-2	Sidste	B-adj.time	
+1-3	afsnit	B-noun.relation	
+1-4	i	O	
+1-5	artiklen	B-noun.communication	
+1-6	(	O	
+1-7	"	O	
+1-8	Som	B-noun.communication	
+1-9	et	I-noun.communication	
+1-10	kuriosum	I-noun.communication	
+1-11	kan	I-noun.communication	
+1-12	nævnes	I-noun.communication	
+1-13	...	I-noun.communication	
+1-14	"	O	
+1-15	)	O	
+1-16	er	B-verb.stative	
+1-17	regulært	B-adj.all	
+1-18	citatfusk	B-noun.act	
+1-19	:	O	
+
+#id=2
+#text=Iårsberetningen for Danbyg Totalenterprise A/S anføres " De vanskelige indenlandske og internationale konjunkturer , som har præget 1991 , forventes ligeledes at påvirke selskabets indtjening i 1992 i såvel Danmark som England . "
+2-1	I	O	
+2-2	årsberetningen	B-noun.communication	
+2-3	for	O	
+2-4	Danbyg	B-noun.institution	
+2-5	Totalenterprise	I-noun.institution	
+2-6	A/S	I-noun.institution	
+2-7	anføres	B-verb.communication	
+2-8	"	O	
+2-9	De	O	
+2-10	vanskelige	B-adj.all	
+2-11	indenlandske	B-adj.social	
+2-12	og	O	
+2-13	internationale	B-adj.social	
+2-14	konjunkturer	B-noun.state	
+2-15	,	O	
+2-16	som	O	
+2-17	har	O	
+2-18	præget	B-verb.change	
+2-19	1991	B-noun.time	
+2-20	,	O	
+2-21	forventes	B-verb.cognition	
+2-22	ligeledes	O	
+2-23	at	O	
+2-24	påvirke	B-verb.change	
+2-25	selskabets	B-noun.institution	
+2-26	indtjening	B-noun.possession	
+2-27	i	O	
+2-28	1992	B-noun.time	
+2-29	i	O	
+2-30	såvel	O	
+2-31	Danmark	B-noun.location	
+2-32	som	O	
+2-33	England	B-noun.location	
+2-34	.	O	
+2-35	"	O	
+
+#id=3
+#text=Intetsteds, hverken i regnskabet eller i presseinformationen , udtrykkes forventninger om " en generel stigning i ejendomsmarkedet for indeværende år " .
+3-1	Intetsteds	O	
+3-2	,	O	
+3-3	hverken	O	
+3-4	i	O	
+3-5	regnskabet	B-noun.cognition	
+3-6	eller	O	
+3-7	i	O	
+3-8	presseinformationen	B-noun.communication	
+3-9	,	O	
+3-10	udtrykkes	B-verb.communication	
+3-11	forventninger	B-noun.cognition	
+3-12	om	O	
+3-13	"	O	
+3-14	en	O	
+3-15	generel	B-adj.all	
+3-16	stigning	B-noun.phenomenon	
+3-17	i	O	
+3-18	ejendomsmarkedet	B-noun.domain	
+3-19	for	O	
+3-20	indeværende	B-adj.time	
+3-21	år	B-noun.time	
+3-22	"	O	
+3-23	.	O	
+
+#id=4
+#text=Samtligedisse forhold blev oplyst på det afholdte pressemøde mandag den 17. ds. , og i fald B.T. havde deltaget i dette møde eller havde gennemgået den øvrige dagspresses omtale i_går af mødet , kunne de helt misvisende konklusioner i Deres nævnte artikel have været undgået .
+4-1	Samtlige	O	
+4-2	disse	O	
+4-3	forhold	B-noun.relation	
+4-4	blev	O	
+4-5	oplyst	B-verb.communication	
+4-6	på	O	
+4-7	det	O	
+4-8	afholdte	B-adj.all	
+4-9	pressemøde	B-noun.event	
+4-10	mandag	B-noun.time	
+4-11	den	O	
+4-12	17.	O	
+4-13	ds.	O	
+4-14	,	O	
+4-15	og	O	
+4-16	i	O	
+4-17	fald	O	
+4-18	B.T.	B-noun.institution	
+4-19	havde	O	
+4-20	deltaget	B-verb.social	
+4-21	i	O	
+4-22	dette	O	
+4-23	møde	B-noun.event	
+4-24	eller	O	
+4-25	havde	O	
+4-26	gennemgået	B-verb.act	
+4-27	den	O	
+4-28	øvrige	O	
+4-29	dagspresses	B-noun.communication	
+4-30	omtale	B-noun.communication	
+4-31	i_går	B-noun.time	
+4-32	af	O	
+4-33	mødet	B-noun.event	
+4-34	,	O	
+4-35	kunne	O	
+4-36	de	O	
+4-37	helt	O	
+4-38	misvisende	B-adj.all	
+4-39	konklusioner	B-noun.cognition	
+4-40	i	O	
+4-41	Deres	O	
+4-42	nævnte	B-adj.all	
+4-43	artikel	B-noun.communication	
+4-44	have	O	
+4-45	været	O	
+4-46	undgået	B-verb.act	
+4-47	.	O	
+
+#id=5
+#text=Artiklenshele form og indhold er af en sådan karakter , at vi skal udtrykke vor beklagelse over , at bladet offentliggør en så tendentiøs omtale på basis af faktuelle fejl , som kunne have været undgået enten ved deltagelse på nævnte pressemøde eller gennem en kontakt til selskabet eller selskabets revisor .
+5-1	Artiklens	B-noun.communication	
+5-2	hele	B-adj.phys	
+5-3	form	B-noun.shape	
+5-4	og	O	
+5-5	indhold	B-noun.abstract	
+5-6	er	B-verb.stative	
+5-7	af	O	
+5-8	en	O	
+5-9	sådan	O	
+5-10	karakter	B-noun.attribute	
+5-11	,	O	
+5-12	at	O	
+5-13	vi	O	
+5-14	skal	O	
+5-15	udtrykke	B-verb.communication	
+5-16	vor	O	
+5-17	beklagelse	B-noun.feeling	
+5-18	over	O	
+5-19	,	O	
+5-20	at	O	
+5-21	bladet	B-noun.communication	
+5-22	offentliggør	B-verb.communication	
+5-23	en	O	
+5-24	så	O	
+5-25	tendentiøs	B-adj.all	
+5-26	omtale	B-noun.communication	
+5-27	på	O	
+5-28	basis	B-noun.motive	
+5-29	af	O	
+5-30	faktuelle	B-adj.all	
+5-31	fejl	B-noun.cognition	
+5-32	,	O	
+5-33	som	O	
+5-34	kunne	O	
+5-35	have	O	
+5-36	været	O	
+5-37	undgået	B-verb.act	
+5-38	enten	O	
+5-39	ved	O	
+5-40	deltagelse	B-verb.social	
+5-41	på	O	
+5-42	nævnte	B-adj.all	
+5-43	pressemøde	B-noun.event	
+5-44	eller	O	
+5-45	gennem	O	
+5-46	en	O	
+5-47	kontakt	B-noun.communication	
+5-48	til	O	
+5-49	selskabet	B-noun.institution	
+5-50	eller	O	
+5-51	selskabets	B-noun.institution	
+5-52	revisor	B-noun.person	
+5-53	.	O	
+
+#id=6
+#text=UlrikSørensen økonomidirektør Danbyg Totalentreprise A/S .
+6-1	Ulrik	B-noun.person	
+6-2	Sørensen	I-noun.person	
+6-3	økonomidirektør	B-noun.person	
+6-4	Danbyg	B-noun.institution	
+6-5	Totalentreprise	I-noun.institution	
+6-6	A/S	I-noun.institution	
+6-7	.	O	
+

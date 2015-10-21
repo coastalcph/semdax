@@ -1,0 +1,35 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Lexica | Tag
+#id=1
+#text=Halvlangt eller bare almindeligt kort :)~
+1-1	Halvlangt	halvlang	AD:----:--:p---	_	
+1-2	eller	eller	CC:----:--:----	_	
+1-3	bare	bare	D-:----:--:u---	_	
+1-4	almindeligt	almindelig	AC:siun:--:p---	_	
+1-5	kort	kort	NC:siun:--:----	_	
+1-6	:	:	ZP	_	
+1-7	)	)	ZD	_	
+1-8	~	~	ZD	_	
+
+#id=2
+#text=Vil nogen købe mine Spice Girls kort?
+2-1	Vil	ville	VF:----:sa:----	_	
+2-2	nogen	nogen	PI:s-uc:--:----	_	
+2-3	købe	købe	VI:----:-a:----	_	
+2-4	mine	mine	NC:siuc:--:----	_	
+2-5	Spice	Spice	NP:siu#:--:----	_	
+2-6	Girls	Girls	NP:sig#:--:----	_	
+2-7	kort	kort	NC:siun:--:----	kort_3	
+2-8	?	?	ZQ	_	
+
+#id=3
+#text=Næh Helene, for jeg har ALLE kortene!
+3-1	Næh	næh	I-:----:--:----	_	
+3-2	Helene	Helene	NP:siu#:--:----	_	
+3-3	,	,	ZD	_	
+3-4	for	for	CC:----:--:----	_	
+3-5	jeg	jeg	PP:s-nc:--:-1n-	_	
+3-6	har	have	VF:----:sa:----	_	
+3-7	ALLE	al	PI:p-u#:--:----	_	
+3-8	kortene	kort	NC:pdu#:--:----	kort_3	
+3-9	!	!	ZP	_	
+

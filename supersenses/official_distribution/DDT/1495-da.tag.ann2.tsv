@@ -1,0 +1,205 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Denkriseramte storklub slipper ganske vist for flere Interbank , men Brøndby må alligevel lægge ryg til endnu mere bank ... !
+1-1	Den	O	
+1-2	kriseramte	B-adj.all	
+1-3	storklub	B-noun.person	
+1-4	slipper	B-verb.phenomenon	
+1-5	ganske	O	
+1-6	vist	O	
+1-7	for	B-verb.COLL	
+1-8	flere	O	
+1-9	Interbank	B-noun.act	
+1-10	,	O	
+1-11	men	O	
+1-12	Brøndby	B-noun.person	
+1-13	må	O	
+1-14	alligevel	O	
+1-15	lægge	B-verb.act	
+1-16	ryg	B-noun.body	
+1-17	til	O	
+1-18	endnu	O	
+1-19	mere	O	
+1-20	bank	B-noun.act	
+1-21	...	O	
+1-22	!	O	
+
+#id=2
+#text=B.T.kan i_dag lette på sløret for en af de andre store " Lego-klodser " i kriseplanen , der trods løfter om det modsatte forbliver mørklagt weekenden over .
+2-1	B.T.	B-noun.institution	
+2-2	kan	O	
+2-3	i_dag	B-noun.time	
+2-4	lette	B-verb.motion	
+2-5	på	O	
+2-6	sløret	B-noun.artifact	
+2-7	for	O	
+2-8	en	O	
+2-9	af	O	
+2-10	de	O	
+2-11	andre	O	
+2-12	store	B-adj.phys	
+2-13	"	O	
+2-14	Lego-klodser	B-noun.artifact	
+2-15	"	O	
+2-16	i	O	
+2-17	kriseplanen	B-noun.cognition	
+2-18	,	O	
+2-19	der	O	
+2-20	trods	O	
+2-21	løfter	B-noun.communication	
+2-22	om	O	
+2-23	det	O	
+2-24	modsatte	B-adj.all	
+2-25	forbliver	B-verb.stative	
+2-26	mørklagt	B-adj.all	
+2-27	weekenden	B-noun.time	
+2-28	over	O	
+2-29	.	O	
+
+#id=3
+#text=Situationener , at Brøndbyernes IF i denne krise-sommer har oparbejdet en mildest talt betragtelig milliongæld til sine bankforbindelser , Unibank og Den Danske Bank .
+3-1	Situationen	B-noun.state	
+3-2	er	B-verb.stative	
+3-3	,	O	
+3-4	at	O	
+3-5	Brøndbyernes	B-noun.person	
+3-6	IF	B-noun.institution	
+3-7	i	O	
+3-8	denne	O	
+3-9	krise-sommer	B-noun.time	
+3-10	har	O	
+3-11	oparbejdet	B-verb.act	
+3-12	en	O	
+3-13	mildest	O	
+3-14	talt	O	
+3-15	betragtelig	B-adj.all	
+3-16	milliongæld	B-noun.quantity	
+3-17	til	O	
+3-18	sine	O	
+3-19	bankforbindelser	B-noun.person	
+3-20	,	O	
+3-21	Unibank	B-noun.institution	
+3-22	og	O	
+3-23	Den	B-noun.institution	
+3-24	Danske	I-noun.institution	
+3-25	Bank	I-noun.institution	
+3-26	.	O	
+
+#id=4
+#text=Ifølgefortrolige oplysninger til B.T. skal Brøndbys aktuelle gæld til den ene af bankerne tangere hele 20 mill. kr. , mens den anden skal have et lavere , men alligevel væsentligt millionbeløb til_gode hos den blågule eks-mesterklub .
+4-1	Ifølge	O	
+4-2	fortrolige	B-adj.social	
+4-3	oplysninger	B-noun.communication	
+4-4	til	O	
+4-5	B.T.	B-noun.institution	
+4-6	skal	O	
+4-7	Brøndbys	B-noun.institution	
+4-8	aktuelle	B-adj.time	
+4-9	gæld	B-noun.quantity	
+4-10	til	O	
+4-11	den	O	
+4-12	ene	O	
+4-13	af	O	
+4-14	bankerne	B-noun.institution	
+4-15	tangere	B-verb.stative	
+4-16	hele	O	
+4-17	20	O	
+4-18	mill.	B-noun.quantity	
+4-19	kr.	B-noun.quantity	
+4-20	,	O	
+4-21	mens	O	
+4-22	den	O	
+4-23	anden	O	
+4-24	skal	O	
+4-25	have	B-verb.possession	
+4-26	et	O	
+4-27	lavere	B-adj.all	
+4-28	,	O	
+4-29	men	O	
+4-30	alligevel	O	
+4-31	væsentligt	B-adj.all	
+4-32	millionbeløb	B-noun.quantity	
+4-33	til_gode	O	
+4-34	hos	O	
+4-35	den	O	
+4-36	blågule	B-adj.phys	
+4-37	eks-mesterklub	B-noun.institution	
+4-38	.	O	
+
+#id=5
+#text=NYEAKTIER
+5-1	NYE	B-adj.time	
+5-2	AKTIER	B-noun.artifact	
+
+#id=6
+#text=Deto storbanker tilhører i parantes bemærket Brøndbys øverste sponsorluftlag : Unibank som eurosponsor og Den Danske Bank som medlem i den såkaldte " Exclusive Club " .
+6-1	De	O	
+6-2	to	O	
+6-3	storbanker	B-noun.institution	
+6-4	tilhører	B-verb.stative	
+6-5	i	O	
+6-6	parantes	B-noun.communication	
+6-7	bemærket	B-verb.communication	
+6-8	Brøndbys	B-noun.institution	
+6-9	øverste	B-adj.all	
+6-10	sponsorluftlag	B-noun.abstract	
+6-11	:	O	
+6-12	Unibank	B-noun.institution	
+6-13	som	O	
+6-14	eurosponsor	B-noun.person	
+6-15	og	O	
+6-16	Den	B-noun.institution	
+6-17	Danske	I-noun.institution	
+6-18	Bank	I-noun.institution	
+6-19	som	O	
+6-20	medlem	B-noun.relation	
+6-21	i	O	
+6-22	den	O	
+6-23	såkaldte	B-adj.all	
+6-24	"	O	
+6-25	Exclusive	B-noun.institution	
+6-26	Club	I-noun.institution	
+6-27	"	O	
+6-28	.	O	
+
+#id=7
+#text=Beggede to bankers økonomiske " engagement " i Brøndby er for nærværende så eksklusivt , at de - qua konkursbegæringer - begge den dag i_går i praksis kunne have sparket Brøndby  langt ud af dansk topfodbold .
+7-1	Begge	O	
+7-2	de	O	
+7-3	to	O	
+7-4	bankers	B-noun.institution	
+7-5	økonomiske	B-adj.all	
+7-6	"	O	
+7-7	engagement	B-noun.relation	
+7-8	"	O	
+7-9	i	O	
+7-10	Brøndby	B-noun.institution	
+7-11	er	O	
+7-12	for	O	
+7-13	nærværende	O	
+7-14	så	O	
+7-15	eksklusivt	B-adj.social	
+7-16	,	O	
+7-17	at	O	
+7-18	de	O	
+7-19	-	O	
+7-20	qua	O	
+7-21	konkursbegæringer	B-noun.communication	
+7-22	-	O	
+7-23	begge	O	
+7-24	den	O	
+7-25	dag	B-noun.time	
+7-26	i_går	B-noun.time	
+7-27	i	O	
+7-28	praksis	O	
+7-29	kunne	O	
+7-30	have	O	
+7-31	sparket	B-verb.motion	
+7-32	Brøndby	B-noun.institution	
+7-33	langt	O	
+7-34	ud	O	
+7-35	af	O	
+7-36	dansk	B-adj.social	
+7-37	topfodbold	B-noun.institution	
+7-38	.	O	
+

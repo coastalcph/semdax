@@ -1,0 +1,250 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue
+#id=1
+#text=Og så havde vi kursister den luksus også at have fire fantastiske modeller at arbejde med.
+1-1	Og	og	CC:----:--:----	
+1-2	så	så	D-:----:--:u---	
+1-3	havde	have	VF:----:ta:----	
+1-4	vi	vi	PP:p-nc:--:-1n-	
+1-5	kursister	kursist	NC:piu#:--:----	
+1-6	den	den	PM:s-uc:--:----	
+1-7	luksus	luksus	NC:siuc:--:----	
+1-8	også	også	D-:----:--:u---	
+1-9	at	at	UI:----:--:----	
+1-10	have	have	VI:----:-a:----	
+1-11	fire	fire	LC:--u-:--:----	
+1-12	fantastiske	fantastisk	AC:p#u#:--:p---	
+1-13	modeller	model|model-3|model-F-stå-model-til|model-6-6a|model-5|model-4|model-2|model-1a|model-1	NC:piu#:--:----	
+1-14	at	at	UI:----:--:----	
+1-15	arbejde	arbejde	VI:----:-a:----	
+1-16	med	med	T-:----:--:----	
+1-17	.	.	ZP	
+
+#id=2
+#text=Efter at have talt og talt og talt om det i over et år (og lidt til) skiftede jeg nemlig model i dag.
+2-1	Efter	efter	T-:----:--:----	
+2-2	at	at	UI:----:--:----	
+2-3	have	have	VI:----:-a:----	
+2-4	talt	tale	VT:siu#:t-:----	
+2-5	og	og	CC:----:--:----	
+2-6	talt	tale	VT:siu#:t-:----	
+2-7	og	og	CC:----:--:----	
+2-8	talt	tale	VT:siu#:t-:----	
+2-9	om	om	T-:----:--:----	
+2-10	det	det	PP:s-un:--:-3n-	
+2-11	i	i	T-:----:--:----	
+2-12	over	over	T-:----:--:----	
+2-13	et	en	PI:s-un:--:----	
+2-14	år	år	NC:siun:--:----	
+2-15	(	(	ZD	
+2-16	og	og	CC:----:--:----	
+2-17	lidt	lidt	AD:----:--:p---	
+2-18	til	til	T-:----:--:----	
+2-19	)	)	ZD	
+2-20	skiftede	skifte	VF:----:ta:----	
+2-21	jeg	jeg	PP:s-nc:--:-1n-	
+2-22	nemlig	nemlig	D-:----:--:u---	
+2-23	model	model|model-1|model-3|model-F-stå-model-til|model-6-6a|model-5|model-4|model-2|model-1a	NC:siuc:--:----	
+2-24	i	i	T-:----:--:----	
+2-25	dag	dag	NC:siuc:--:----	
+2-26	.	.	ZP	
+
+#id=3
+#text= Jeg skal bare lige vænne mig til, at den nye model har rullebremser og ikke nav- og fodbremse.
+3-1	Jeg	jeg	PP:s-nc:--:-1n-	
+3-2	skal	skulle	VF:----:sa:----	
+3-3	bare	bare	D-:----:--:u---	
+3-4	lige	lige	D-:----:--:u---	
+3-5	vænne	vænne	VI:----:-a:----	
+3-6	mig	jeg	PP:s-uc:--:-1#-	
+3-7	til	til	T-:----:--:----	
+3-8	,	,	ZD	
+3-9	at	at	CS:----:--:----	
+3-10	den	den	PM:s-uc:--:----	
+3-11	nye	ny	AC:sdu#:--:p---	
+3-12	model	model|model-1a|model-2|model-1|model-3|model-F-stå-model-til|model-6-6a|model-5|model-4	NC:siuc:--:----	
+3-13	har	have	VF:----:sa:----	
+3-14	rullebremser	rullebremse	NC:piu#:--:----	
+3-15	og	og	CC:----:--:----	
+3-16	ikke	ikke	D-:----:--:u---	
+3-17	nav	nav	NW:----:--:----	
+3-18	-	-	ZH	
+3-19	og	og	CC:----:--:----	
+3-20	fodbremse	fodbremse	NC:siuc:--:----	
+3-21	.	.	ZP	
+
+#id=4
+#text= Der er altså ikke noget som at skifte model .
+4-1	Der	der	US:----:--:----	
+4-2	er	være	:----:sa:----	
+4-3	altså	altså	D-:----:--:u---	
+4-4	ikke	ikke	D-:----:--:u---	
+4-5	noget	nogen	PI:s-un:--:----	
+4-6	som	som	US:----:--:----	
+4-7	at	at	UI:----:--:----	
+4-8	skifte	skifte	VI:----:-a:----	
+4-9	model	model|model-1|model-1a|model-3|model-5|model-F-stå-model-til|model-6-6a|model-4|model-2	NC:siuc:--:----	
+4-10	.	.	ZP	
+
+#id=5
+#text=Det er paradoksalt, at Danmark bevæger sig i dén retning (mod et privatiseret sundhedssystem, red.), samtidig at præsident Obama kæmper indædt for at ændre den amerikanske model i vores retning, fordi markedsstyringen på sundhedsområdet i USA har givet økonomisk perverse og socialt helt uacceptable resultater!
+5-1	Det	det	PP:s-un:--:-3n-	
+5-2	er	være	VF:----:sa:----	
+5-3	paradoksalt	paradoksal	AC:siun:--:p---	
+5-4	,	,	ZD	
+5-5	at	at	CS:----:--:----	
+5-6	Danmark	Danmark	NP:siu#:--:----	
+5-7	bevæger	bevæge	VF:----:sa:----	
+5-8	sig	sig	PP:#-u#:--:-3y-	
+5-9	i	i	T-:----:--:----	
+5-10	dén	den	PM:s-uc:--:----	
+5-11	retning	retning	NC:siuc:--:----	
+5-12	(	(	NP:siu#:--:----	
+5-13	mod	mod	T-:----:--:----	
+5-14	et	en	PI:s-un:--:----	
+5-15	privatiseret	privatisere	VT:siu#:t-:----	
+5-16	sundhedssystem	sundhedssystem	NC:siun:--:----	
+5-17	,	,	ZD	
+5-18	red	ride	VF:----:ta:----	
+5-19	.	.	ZP	
+5-20	)	)	NP:siu#:--:----	
+5-21	,	,	ZD	
+5-22	samtidig	samtidig	D-:----:--:u---	
+5-23	at	at	CS:----:--:----	
+5-24	præsident	præsident	NC:siuc:--:----	
+5-25	Obama	Obama	NP:siu#:--:----	
+5-26	kæmper	kæmpe	VF:----:sa:----	
+5-27	indædt	indædt	AC:siu§:--:p---	
+5-28	for	for	T-:----:--:----	
+5-29	at	at	UI:----:--:----	
+5-30	ændre	ændre	VI:----:-a:----	
+5-31	den	den	PM:s-uc:--:----	
+5-32	amerikanske	amerikansk	AC:sdu#:--:p---	
+5-33	model	model|model-3|model-4|model-1a|model-2|model-1|model-5|model-F-stå-model-til|model-6-6a	NC:siuc:--:----	
+5-34	i	i	T-:----:--:----	
+5-35	vores	vores	PO:#--#:--:-1np	
+5-36	retning	retning	NC:siuc:--:----	
+5-37	,	,	ZD	
+5-38	fordi	fordi	CS:----:--:----	
+5-39	markedsstyringen	markedsstyring	NC:sduc:--:----	
+5-40	på	på	T-:----:--:----	
+5-41	sundhedsområdet	sundhedsområde	NC:sdun:--:----	
+5-42	i	i	T-:----:--:----	
+5-43	USA	USA	NP:siu#:--:----	
+5-44	har	have	VF:----:sa:----	
+5-45	givet	give	VT:siu#:t-:----	
+5-46	økonomisk	økonomisk	AD:----:--:p---	
+5-47	perverse	pervers	AC:p#u#:--:p---	
+5-48	og	og	CC:----:--:----	
+5-49	socialt	social	AD:----:--:p---	
+5-50	helt	hel	AD:----:--:p---	
+5-51	uacceptable	uacceptabel	AC:p#u#:--:p---	
+5-52	resultater	resultat	NC:piu#:--:----	
+5-53	!	!	ZP	
+
+#id=6
+#text= Når man sad model dér, var ens indflydelse på frisuren begrænset (og nogle resultater var bedre end andre!).
+6-1	Når	når	CS:----:--:----	
+6-2	man	man	PI:#-uc:--:----	
+6-3	sad	sidde	VF:----:ta:----	
+6-4	model	model|model-2|model-3|model-5|model-F-stå-model-til|model-6-6a|model-4|model-1|model-1a	NC:siuc:--:----	
+6-5	dér	der	D-:----:--:u---	
+6-6	,	,	ZD	
+6-7	var	være	VF:----:ta:----	
+6-8	ens	ens	AC:§§u§:--:p---	
+6-9	indflydelse	indflydelse	NC:siuc:--:----	
+6-10	på	på	:--:----	
+6-11	frisuren	frisure	NC:sduc:--:----	
+6-12	begrænset	begrænse	VT:siu#:t-:----	
+6-13	(	(	ZD	
+6-14	og	og	CC:----:--:----	
+6-15	nogle	nogen	PI:p-u#:--:----	
+6-16	resultater	resultat	NC:piu#:--:----	
+6-17	var	være	VF:----:ta:----	
+6-18	bedre	god	AC:##u#:--:c---	
+6-19	end	end	CS:----:--:----	
+6-20	andre	anden	PI:p-u#:--:----	
+6-21	!	!	ZP	
+6-22	)	)	ZD	
+6-23	.	.	ZP	
+
+#id=7
+#text=Laban stillede helt ufrivilligt op som model, da han snuppede sin aftenlur på terrassen.
+7-1	Laban	laban	NC:siuc:--:----	
+7-2	stillede	stille	VF:----:ta:----	
+7-3	helt	hel	AD:----:--:p---	
+7-4	ufrivilligt	ufrivillig	AD:----:--:p---	
+7-5	op	op	D-:----:--:u---	
+7-6	som	som	US:----:--:----	
+7-7	model	model|model-6-6a|model-F-stå-model-til|model-1a|model-2|model-3|model-5|model-4|model-1	NC:siuc:--:----	
+7-8	,	,	ZD	
+7-9	da	da	CS:----:--:----	
+7-10	han	han	PP:s-nc:--:-3n-	
+7-11	snuppede	snuppe	VF:----:ta:----	
+7-12	sin	sin	PO:s--c:--:-3ys	
+7-13	aftenlur	aftenlur	NC:siuc:--:----	
+7-14	på	på	T-:----:--:----	
+7-15	terrassen	terrasse	NC:sduc:--:----	
+7-16	.	.	ZP	
+
+#id=8
+#text= Kig på de her otte-ti modeller eller pil af igen, grønært.
+8-1	Kig	kig	NC:siun:--:----	
+8-2	på	på	T-:----:--:----	
+8-3	de	den	PM:p-u#:--:----	
+8-4	her	her	D-:----:--:u---	
+8-5	otte	otte	LW:----:--:----	
+8-6	-	-	ZH	
+8-7	ti	ti	LC:--u-:--:----	
+8-8	modeller	model|model-3|model-5|model-6-6a|model-F-stå-model-til|model-4|model-1a|model-2|model-1	NC:piu#:--:----	
+8-9	eller	eller	CC:----:--:----	
+8-10	pil	pil	NC:siuc:--:----	
+8-11	af	af	T-:----:--:----	
+8-12	igen	igen	D-:----:--:u---	
+8-13	,	,	ZD	
+8-14	grønært	grønært	NC:siuc:--:----	
+8-15	.	.	ZP	
+
+#id=9
+#text= Det er besværligt at finde velsiddende tøj eller badedragter, som ikke er i frue-model.
+9-1	Det	det	PP:s-un:--:-3n-	
+9-2	er	være	VF:----:sa:----	
+9-3	besværligt	besværlig	AC:siun:--:p---	
+9-4	at	at	UI:----:--:----	
+9-5	finde	finde	VI:----:-a:----	
+9-6	velsiddende	velsiddende	AD:----:--:p---	
+9-7	tøj	tøj	NC:siun:--:----	
+9-8	eller	eller	CC:----:--:----	
+9-9	badedragter	badedragt	NC:piu#:--:----	
+9-10	,	,	ZD	
+9-11	som	som	US:----:--:----	
+9-12	ikke	ikke	D-:----:--:u---	
+9-13	er	være	VF:----:sa:----	
+9-14	i	i	T-:----:--:----	
+9-15	frue	frue	NW:----:--:----	
+9-16	-	-	ZH	
+9-17	model	model|model-6-6a|model-F-stå-model-til|model-1a|model-2|model-3|model-5|model-4|model-1	NC:siuc:--:----	
+9-18	.	.	ZP	
+
+#id=10
+#text=Hvorfor er det lige, at jeg tænker, at mine katte kunne have stået model til denne udsmykning?
+10-1	Hvorfor	hvorfor	D-:----:--:u---	
+10-2	er	være	VF:----:sa:----	
+10-3	det	det	PP:s-un:--:-3n-	
+10-4	lige	lige	D-:----:--:u---	
+10-5	,	,	ZD	
+10-6	at	at	CS:----:--:----	
+10-7	jeg	jeg	PP:s-nc:--:-1n-	
+10-8	tænker	tænke	VF:----:sa:----	
+10-9	,	,	ZD	
+10-10	at	at	CS:----:--:----	
+10-11	mine	mine	NC:siuc:--:----	
+10-12	katte	kat	NC:piu#:--:----	
+10-13	kunne	kunne	VF:----:ta:----	
+10-14	have	have	VI:----:-a:----	
+10-15	stået	stå	VT:siu#:t-:----	
+10-16	model	model|model-5|model-6-6a|model-F-stå-model-til|model-1|model-1a|model-2|model-3|model-4	NC:siuc:--:----	
+10-17	til	til	T-:----:--:----	
+10-18	denne	denne	PM:s-uc:--:----	
+10-19	udsmykning	udsmykning	NC:siuc:--:----	
+10-20	?	?	ZQ	
+

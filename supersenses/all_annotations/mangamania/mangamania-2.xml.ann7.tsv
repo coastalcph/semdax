@@ -1,0 +1,2294 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Forlag:
+1-1	Forlag	B-noun.institution	
+1-2	:	O	
+
+#id=2
+#text=Ah, ok...
+2-1	Ah	O	
+2-2	,	O	
+2-3	ok	O	
+2-4	.	O	
+2-5	.	O	
+2-6	.	O	
+
+#id=3
+#text=Jeg synes egentlig ikke der er noget galt med det. på en website stod der : ...Digimon was created way before Pokemon, and people thought that it was copying Pokemon only because that came out in America before Digimon... men om det er sandt aner jeg ikke
+3-1	Jeg	O	
+3-2	synes	B-verb.cognition	
+3-3	egentlig	O	
+3-4	ikke	O	
+3-5	der	O	
+3-6	er	B-verb.stative	
+3-7	noget	O	
+3-8	galt	B-adj.all	
+3-9	med	O	
+3-10	det	O	
+3-11	.	O	
+3-12	på	O	
+3-13	en	O	
+3-14	website	B-noun.communication	
+3-15	stod	B-noun.communication	
+3-16	der	O	
+3-17	:	O	
+3-18	.	O	
+3-19	.	O	
+3-20	.	O	
+3-21	Digimon	B-noun.person	
+3-22	was	O	
+3-23	created	B-verb.creation	
+3-24	way	O	
+3-25	before	O	
+3-26	Pokemon	B-noun.person	
+3-27	,	O	
+3-28	and	O	
+3-29	people	B-noun.person	
+3-30	thought	B-verb.cognition	
+3-31	that	O	
+3-32	it	O	
+3-33	was	B-verb.stative	
+3-34	copying	B-verb.social	
+3-35	Pokemon	B-noun.person	
+3-36	only	O	
+3-37	because	O	
+3-38	that	O	
+3-39	came	B-verb.creation	
+3-40	out	B-verb.PARTICLE	
+3-41	in	O	
+3-42	America	B-noun.location	
+3-43	before	O	
+3-44	Digimon	B-noun.person	
+3-45	.	O	
+3-46	.	O	
+3-47	.	O	
+3-48	men	O	
+3-49	om	O	
+3-50	det	O	
+3-51	er	B-verb.stative	
+3-52	sandt	B-adj.social	
+3-53	aner	B-verb.cognition	
+3-54	jeg	O	
+3-55	ikke	O	
+
+#id=4
+#text=Sorryfucker lidt...i må godt slette den ene af dem jeg har lavet kan man gøre det selv?
+4-1	Sorry	O	
+4-2	fucker	B-verb.act	
+4-3	lidt	O	
+4-4	.	O	
+4-5	.	O	
+4-6	.	O	
+4-7	i	O	
+4-8	må	B-verb.emotion	
+4-9	godt	O	
+4-10	slette	B-verb.change	
+4-11	den	O	
+4-12	ene	O	
+4-13	af	O	
+4-14	dem	O	
+4-15	jeg	O	
+4-16	har	O	
+4-17	lavet	B-verb.creation	
+4-18	kan	B-verb.emotion	
+4-19	man	O	
+4-20	gøre	B-verb.act	
+4-21	det	O	
+4-22	selv	O	
+4-23	?	O	
+
+#id=5
+#text=Hvis du er vild med X OVA'en så burde du se hele serien... :wink:
+5-1	Hvis	O	
+5-2	du	O	
+5-3	er	B-verb.stative	
+5-4	vild	B-adj.mental	
+5-5	med	O	
+5-6	X	B-noun.TOP	
+5-7	OVA	I-noun.TOP	
+5-8	'	O	
+5-9	en	O	
+5-10	så	O	
+5-11	burde	B-verb.emotion	
+5-12	du	O	
+5-13	se	B-verb.perception	
+5-14	hele	B-adj.all	
+5-15	serien	B-noun.communication	
+5-16	.	O	
+5-17	.	O	
+5-18	.	O	
+5-19	:	O	
+5-20	wink	O	
+5-21	:	O	
+
+#id=6
+#text=Lablue Girl (Hentai/The Real Thing :shock:
+6-1	Lablue	B-noun.person	
+6-2	Girl	I-noun.person	
+6-3	(	O	
+6-4	Hentai	B-noun.domain	
+6-5	/	O	
+6-6	The	O	
+6-7	Real	O	
+6-8	Thing	O	
+6-9	:	O	
+6-10	shock	O	
+6-11	:	O	
+
+#id=7
+#text=Lige en ting.
+7-1	Lige	O	
+7-2	en	O	
+7-3	ting	B-noun.abstract	
+7-4	.	O	
+
+#id=8
+#text=Keep it up!
+8-1	Keep	B-verb.stative	
+8-2	it	O	
+8-3	up	B-verb.PARTICLE	
+8-4	!	O	
+
+#id=9
+#text=Tsubasa -RESERVoir CHRoNiCLE-:
+9-1	Tsubasa	O	
+9-2	-	O	
+9-3	RESERVoir	O	
+9-4	CHRoNiCLE	O	
+9-5	-	O	
+9-6	:	O	
+
+#id=10
+#text=takguys, men problemet er.... jeg er lidt flad for tiden :( har ikke rigtigt kunne tjene nogle på her for tiden... :( Det var bare hvis i kunne sige noget fra de ordbøger :roll: (Lage lidt mærke til at du blev træt ved de sidste ord :?) (Baka, hehe blev også måske sur :roll:
+10-1	tak	O	
+10-2	guys	B-noun.person	
+10-3	,	O	
+10-4	men	O	
+10-5	problemet	B-noun.cognition	
+10-6	er	B-verb.stative	
+10-7	.	O	
+10-8	.	O	
+10-9	.	O	
+10-10	.	O	
+10-11	jeg	O	
+10-12	er	B-verb.stative	
+10-13	lidt	O	
+10-14	flad	B-adj.social	
+10-15	for	O	
+10-16	tiden	B-noun.time	
+10-17	:	O	
+10-18	(	O	
+10-19	har	O	
+10-20	ikke	O	
+10-21	rigtigt	O	
+10-22	kunne	B-verb.emotion	
+10-23	tjene	B-verb.possession	
+10-24	nogle	O	
+10-25	på	O	
+10-26	her	O	
+10-27	for	O	
+10-28	tiden	B-noun.time	
+10-29	.	O	
+10-30	.	O	
+10-31	.	O	
+10-32	:	O	
+10-33	(	O	
+10-34	Det	O	
+10-35	var	B-verb.stative	
+10-36	bare	O	
+10-37	hvis	O	
+10-38	i	O	
+10-39	kunne	B-verb.emotion	
+10-40	sige	B-verb.communication	
+10-41	noget	O	
+10-42	fra	O	
+10-43	de	O	
+10-44	ordbøger	B-noun.communication	
+10-45	:	O	
+10-46	roll	O	
+10-47	:	O	
+10-48	(	O	
+10-49	Lage	B-verb.cognition	
+10-50	lidt	O	
+10-51	mærke	B-verb.COLL	
+10-52	til	I-verb.COLL	
+10-53	at	O	
+10-54	du	O	
+10-55	blev	B-verb.stative	
+10-56	træt	B-adj.phys	
+10-57	ved	O	
+10-58	de	O	
+10-59	sidste	B-adj.time	
+10-60	ord	B-noun.communication	
+10-61	:	O	
+10-62	?	O	
+10-63	)	O	
+10-64	(	O	
+10-65	Baka	O	
+10-66	,	O	
+10-67	hehe	O	
+10-68	blev	B-verb.stative	
+10-69	også	O	
+10-70	måske	O	
+10-71	sur	B-adj.mental	
+10-72	:	O	
+10-73	roll	O	
+10-74	:	O	
+
+#id=11
+#text=Dener jeg også med på!
+11-1	Den	O	
+11-2	er	B-verb.stative	
+11-3	jeg	O	
+11-4	også	O	
+11-5	med	B-verb.COLL	
+11-6	på	I-verb.COLL	
+11-7	!	O	
+
+#id=12
+#text=Jeg har den politik, at jeg sletter alt efter at  have set det.
+12-1	Jeg	O	
+12-2	har	B-verb.possession	
+12-3	den	O	
+12-4	politik	B-noun.cognition	
+12-5	,	O	
+12-6	at	O	
+12-7	jeg	O	
+12-8	sletter	B-verb.change	
+12-9	alt	O	
+12-10	efter	O	
+12-11	at	O	
+12-12	have	O	
+12-13	set	B-verb.perception	
+12-14	det	O	
+12-15	.	O	
+
+#id=13
+#text=Det var faktisk her jeg først stiftede bekendtskab med mange kendte animes, blandt andet Conan, Dragon Ball, Sailor Moon og Ranma 1/2...
+13-1	Det	O	
+13-2	var	B-verb.stative	
+13-3	faktisk	O	
+13-4	her	O	
+13-5	jeg	O	
+13-6	først	O	
+13-7	stiftede	B-verb.social	
+13-8	bekendtskab	B-noun.relation	
+13-9	med	O	
+13-10	mange	B-adj.all	
+13-11	kendte	B-adj.social	
+13-12	animes	B-noun.person	
+13-13	,	O	
+13-14	blandt	O	
+13-15	andet	O	
+13-16	Conan	B-noun.person	
+13-17	,	O	
+13-18	Dragon	B-noun.person	
+13-19	Ball	I-noun.person	
+13-20	,	O	
+13-21	Sailor	B-noun.person	
+13-22	Moon	I-noun.person	
+13-23	og	O	
+13-24	Ranma	B-noun.person	
+13-25	1	I-noun.person	
+13-26	/	I-noun.person	
+13-27	2	I-noun.person	
+13-28	.	O	
+13-29	.	O	
+13-30	.	O	
+
+#id=14
+#text=Hvis at bygge videre på handlingen fra serien ikke er at "hænge sammen" med den, hvad er så?
+14-1	Hvis	O	
+14-2	at	O	
+14-3	bygge	B-verb.creation	
+14-4	videre	O	
+14-5	på	O	
+14-6	handlingen	B-noun.event	
+14-7	fra	O	
+14-8	serien	B-noun.communication	
+14-9	ikke	O	
+14-10	er	B-verb.stative	
+14-11	at	O	
+14-12	"	O	
+14-13	hænge	B-verb.stative	
+14-14	sammen	O	
+14-15	"	O	
+14-16	med	O	
+14-17	den	O	
+14-18	,	O	
+14-19	hvad	O	
+14-20	er	B-verb.stative	
+14-21	så	O	
+14-22	?	O	
+
+#id=15
+#text=En anden ting... du (Flying Tokyo) skriver, at du vil give den 6 stjerner, hvorfor har du så stemt på 5?
+15-1	En	O	
+15-2	anden	O	
+15-3	ting	B-noun.abstract	
+15-4	.	O	
+15-5	.	O	
+15-6	.	O	
+15-7	du	O	
+15-8	(	O	
+15-9	Flying	B-noun.person	
+15-10	Tokyo	I-noun.person	
+15-11	)	O	
+15-12	skriver	B-verb.communication	
+15-13	,	O	
+15-14	at	O	
+15-15	du	O	
+15-16	vil	O	
+15-17	give	B-verb.possession	
+15-18	den	O	
+15-19	6	O	
+15-20	stjerner	B-noun.artifact	
+15-21	,	O	
+15-22	hvorfor	O	
+15-23	har	O	
+15-24	du	O	
+15-25	så	O	
+15-26	stemt	B-verb.possession	
+15-27	på	O	
+15-28	5	O	
+15-29	?	O	
+
+#id=16
+#text=Hvorskaffer vi en ordbog??
+16-1	Hvor	O	
+16-2	skaffer	B-verb.possession	
+16-3	vi	O	
+16-4	en	O	
+16-5	ordbog	B-noun.communication	
+16-6	?	O	
+16-7	?	O	
+
+#id=17
+#text=HÅBER FOR JER MANGA OG ANIME FANS AT I HAR DE KANALER HVOR MAN KAN SE DE ANIME!!!
+17-1	HÅBER	B-verb.emotion	
+17-2	FOR	O	
+17-3	JER	O	
+17-4	MANGA	B-noun.domain	
+17-5	OG	O	
+17-6	ANIME	B-noun.domain	
+17-7	FANS	B-noun.person	
+17-8	AT	O	
+17-9	I	O	
+17-10	HAR	B-noun.possession	
+17-11	DE	O	
+17-12	KANALER	B-noun.communication	
+17-13	HVOR	O	
+17-14	MAN	O	
+17-15	KAN	B-verb.emotion	
+17-16	SE	B-verb.perception	
+17-17	DE	O	
+17-18	ANIME	B-noun.domain	
+17-19	!	O	
+17-20	!	O	
+17-21	!	O	
+
+#id=18
+#text=Omkring 65 kort tror jeg.
+18-1	Omkring	O	
+18-2	65	O	
+18-3	kort	B-noun.artifact	
+18-4	tror	B-verb.cognition	
+18-5	jeg	O	
+18-6	.	O	
+
+#id=19
+#text=Jeg købte et helt booster display (24 booster pakker)
+19-1	Jeg	O	
+19-2	købte	B-verb.possession	
+19-3	et	O	
+19-4	helt	O	
+19-5	booster	B-noun.artifact	
+19-6	display	I-noun.artifact	
+19-7	(	O	
+19-8	24	O	
+19-9	booster	B-noun.artifact	
+19-10	pakker	I-noun.artifact	
+19-11	)	O	
+
+#id=20
+#text=Jeg synes det er meget rammende, hvad du siger der.
+20-1	Jeg	O	
+20-2	synes	B-verb.cognition	
+20-3	det	O	
+20-4	er	B-verb.stative	
+20-5	meget	O	
+20-6	rammende	B-adj.all	
+20-7	,	O	
+20-8	hvad	O	
+20-9	du	O	
+20-10	siger	B-verb.communication	
+20-11	der	O	
+20-12	.	O	
+
+#id=21
+#text=Og andre er fra japansk forum.
+21-1	Og	O	
+21-2	andre	O	
+21-3	er	B-verb.stative	
+21-4	fra	O	
+21-5	japansk	B-adj.social	
+21-6	forum	B-noun.location	
+21-7	.	O	
+
+#id=22
+#text=Er selv rimelig irriteret over ikke at kunne komme derind, men hvis I bare lægger nogle billeder ind går det nok alligevel.
+22-1	Er	B-verb.stative	
+22-2	selv	O	
+22-3	rimelig	O	
+22-4	irriteret	B-verb.emotion	
+22-5	over	O	
+22-6	ikke	O	
+22-7	at	O	
+22-8	kunne	B-verb.emotion	
+22-9	komme	B-verb.motion	
+22-10	derind	O	
+22-11	,	O	
+22-12	men	O	
+22-13	hvis	O	
+22-14	I	O	
+22-15	bare	O	
+22-16	lægger	B-verb.act	
+22-17	nogle	O	
+22-18	billeder	B-noun.artifact	
+22-19	ind	B-verb.PARTICLE	
+22-20	går	B-verb.stative	
+22-21	det	O	
+22-22	nok	O	
+22-23	alligevel	O	
+22-24	.	O	
+
+#id=23
+#text=Hvis man gerne ville have flere Samurai Deeper Kyo bøger udover de to første, skal man så selv bestille dem eller vil der blive arrangeret noget igen?
+23-1	Hvis	O	
+23-2	man	O	
+23-3	gerne	O	
+23-4	ville	B-verb.emotion	
+23-5	have	B-verb.possession	
+23-6	flere	O	
+23-7	Samurai	B-noun.communication	
+23-8	Deeper	I-noun.communication	
+23-9	Kyo	I-noun.communication	
+23-10	bøger	B-noun.communication	
+23-11	udover	O	
+23-12	de	O	
+23-13	to	O	
+23-14	første	B-adj.time	
+23-15	,	O	
+23-16	skal	B-verb.emotion	
+23-17	man	O	
+23-18	så	O	
+23-19	selv	O	
+23-20	bestille	B-verb.possession	
+23-21	dem	O	
+23-22	eller	O	
+23-23	vil	O	
+23-24	der	O	
+23-25	blive	O	
+23-26	arrangeret	B-verb.act	
+23-27	noget	O	
+23-28	igen	O	
+23-29	?	O	
+
+#id=24
+#text=Det var da godt... :D
+24-1	Det	O	
+24-2	var	B-verb.stative	
+24-3	da	O	
+24-4	godt	B-adj.all	
+24-5	.	O	
+24-6	.	O	
+24-7	.	O	
+24-8	:	O	
+24-9	D	O	
+
+#id=25
+#text=Men så vidt som jeg ved har Berserk Religions kode 1 (Eller hvad nu det hedder :cry:) og så ville jeg lige høre jer om jeg kan køre det på min PS2 eller om jeg kan på mit DVD-Drev i PC'en ? ( Vores TV væltede ned over vores DVD sååå..
+25-1	Men	O	
+25-2	så	O	
+25-3	vidt	O	
+25-4	som	O	
+25-5	jeg	O	
+25-6	ved	B-verb.cognition	
+25-7	har	O	
+25-8	Berserk	B-noun.communication	
+25-9	Religions	B-noun.domain	
+25-10	kode	B-noun.artifact	
+25-11	1	O	
+25-12	(	O	
+25-13	Eller	O	
+25-14	hvad	O	
+25-15	nu	O	
+25-16	det	O	
+25-17	hedder	B-verb.stative	
+25-18	:	O	
+25-19	cry	O	
+25-20	:	O	
+25-21	)	O	
+25-22	og	O	
+25-23	så	O	
+25-24	ville	B-verb.emotion	
+25-25	jeg	O	
+25-26	lige	O	
+25-27	høre	B-verb.communication	
+25-28	jer	O	
+25-29	om	O	
+25-30	jeg	O	
+25-31	kan	B-verb.emotion	
+25-32	køre	B-noun.act	
+25-33	det	O	
+25-34	på	O	
+25-35	min	O	
+25-36	PS2	B-noun.artifact	
+25-37	eller	O	
+25-38	om	O	
+25-39	jeg	O	
+25-40	kan	B-verb.emotion	
+25-41	på	O	
+25-42	mit	O	
+25-43	DVD	B-noun.artifact	
+25-44	-	I-noun.artifact	
+25-45	Drev	I-noun.artifact	
+25-46	i	O	
+25-47	PC	B-noun.artifact	
+25-48	'	I-noun.artifact	
+25-49	en	O	
+25-50	?	O	
+25-51	(	O	
+25-52	Vores	O	
+25-53	TV	B-noun.artifact	
+25-54	væltede	B-verb.motion	
+25-55	ned	B-verb.PARTICLE	
+25-56	over	O	
+25-57	vores	O	
+25-58	DVD	B-noun.artifact	
+25-59	sååå	O	
+25-60	.	O	
+25-61	.	O	
+
+#id=26
+#text=Detvar faktisk den første Anime jeg nogen sinde så, og også stadig en af mine ynglings.. den er genial.. elsker den :) hvis nogen ved hvor man kan købe den gider i så ikke smide et link ? på forhånd tak :)
+26-1	Det	O	
+26-2	var	B-verb.stative	
+26-3	faktisk	O	
+26-4	den	O	
+26-5	første	B-adj.time	
+26-6	Anime	B-noun.communication	
+26-7	jeg	O	
+26-8	nogen	O	
+26-9	sinde	O	
+26-10	så	B-verb.perception	
+26-11	,	O	
+26-12	og	O	
+26-13	også	O	
+26-14	stadig	O	
+26-15	en	O	
+26-16	af	O	
+26-17	mine	O	
+26-18	ynglings	B-adj.all	
+26-19	.	O	
+26-20	.	O	
+26-21	den	O	
+26-22	er	B-verb.stative	
+26-23	genial	B-adj.all	
+26-24	.	O	
+26-25	.	O	
+26-26	elsker	B-verb.social	
+26-27	den	O	
+26-28	:	O	
+26-29	)	O	
+26-30	hvis	O	
+26-31	nogen	O	
+26-32	ved	B-verb.cognition	
+26-33	hvor	O	
+26-34	man	O	
+26-35	kan	O	
+26-36	købe	B-verb.possession	
+26-37	den	O	
+26-38	gider	B-verb.emotion	
+26-39	i	O	
+26-40	så	O	
+26-41	ikke	O	
+26-42	smide	B-verb.communication	
+26-43	et	O	
+26-44	link	B-noun.communication	
+26-45	?	O	
+26-46	på	O	
+26-47	forhånd	B-noun.time	
+26-48	tak	O	
+26-49	:	O	
+26-50	)	O	
+
+#id=27
+#text=Detvirker heller ikke for mig...
+27-1	Det	O	
+27-2	virker	B-verb.stative	
+27-3	heller	O	
+27-4	ikke	O	
+27-5	for	O	
+27-6	mig	O	
+27-7	.	O	
+27-8	.	O	
+27-9	.	O	
+
+#id=28
+#text=Vednogen... hvilke kort Tea / Anzu har ?
+28-1	Ved	B-verb.cognition	
+28-2	nogen	O	
+28-3	.	O	
+28-4	.	O	
+28-5	.	O	
+28-6	hvilke	O	
+28-7	kort	B-noun.artifact	
+28-8	Tea	B-noun.person	
+28-9	/	O	
+28-10	Anzu	B-noun.person	
+28-11	har	B-verb.stative	
+28-12	?	O	
+
+#id=29
+#text=Mangaer godt - meget manga er meget godt!
+29-1	Manga	B-noun.domain	
+29-2	er	O	
+29-3	godt	B-adj.all	
+29-4	-	O	
+29-5	meget	O	
+29-6	manga	B-noun.domain	
+29-7	er	O	
+29-8	meget	O	
+29-9	godt	B-adj.all	
+29-10	!	O	
+
+#id=30
+#text=OgOne Piece (Carlsen)
+30-1	Og	O	
+30-2	One	B-noun.communication	
+30-3	Piece	I-noun.communication	
+30-4	(	O	
+30-5	Carlsen	B-noun.institution	
+30-6	)	O	
+
+#id=31
+#text=For at finde udtalen, skal du bare se en masse anime :P
+31-1	For	O	
+31-2	at	O	
+31-3	finde	B-verb.cognition	
+31-4	udtalen	B-noun.attribute	
+31-5	,	O	
+31-6	skal	O	
+31-7	du	O	
+31-8	bare	O	
+31-9	se	B-verb.perception	
+31-10	en	O	
+31-11	masse	O	
+31-12	anime	B-noun.communication	
+31-13	:	O	
+31-14	P	O	
+
+#id=32
+#text=Jegtror  det er den host du linker til, som ikke accepterer "deep-links", så du kan ikke bruge den som image-server.
+32-1	Jeg	O	
+32-2	tror	B-verb.cognition	
+32-3	det	O	
+32-4	er	B-verb.stative	
+32-5	den	O	
+32-6	host	B-noun.person	
+32-7	du	O	
+32-8	linker	B-verb.act	
+32-9	til	O	
+32-10	,	O	
+32-11	som	O	
+32-12	ikke	O	
+32-13	accepterer	B-verb.cognition	
+32-14	"	O	
+32-15	deep	B-noun.communication	
+32-16	-	I-noun.communication	
+32-17	links	I-noun.communication	
+32-18	"	O	
+32-19	,	O	
+32-20	så	O	
+32-21	du	O	
+32-22	kan	O	
+32-23	ikke	O	
+32-24	bruge	B-verb.act	
+32-25	den	O	
+32-26	som	O	
+32-27	image	B-noun.artifact	
+32-28	-	I-noun.artifact	
+32-29	server	I-noun.artifact	
+32-30	.	O	
+
+#id=33
+#text=Har du ikke fået det kort med et spil....
+33-1	Har	O	
+33-2	du	O	
+33-3	ikke	O	
+33-4	fået	B-verb.possession	
+33-5	det	O	
+33-6	kort	B-noun.artifact	
+33-7	med	O	
+33-8	et	O	
+33-9	spil	B-noun.artifact	
+33-10	.	O	
+33-11	.	O	
+33-12	.	O	
+33-13	.	O	
+
+#id=34
+#text=Su..hun er sku da for nice! specielt når hun forvandler sig >:D~~
+34-1	Su	O	
+34-2	.	O	
+34-3	.	O	
+34-4	hun	O	
+34-5	er	B-verb.stative	
+34-6	sku	O	
+34-7	da	O	
+34-8	for	O	
+34-9	nice	B-adj.all	
+34-10	!	O	
+34-11	specielt	O	
+34-12	når	O	
+34-13	hun	O	
+34-14	forvandler	B-verb.change	
+34-15	sig	O	
+34-16	>	O	
+34-17	:	O	
+34-18	D	O	
+34-19	~	O	
+34-20	~	O	
+
+#id=35
+#text=Det der er fuldstændigt uacceptablet.
+35-1	Det	O	
+35-2	der	O	
+35-3	er	B-verb.stative	
+35-4	fuldstændigt	O	
+35-5	uacceptablet	B-adj.social	
+35-6	.	O	
+
+#id=36
+#text=Okay... takker...
+36-1	Okay	O	
+36-2	.	O	
+36-3	.	O	
+36-4	.	O	
+36-5	takker	O	
+36-6	.	O	
+36-7	.	O	
+36-8	.	O	
+
+#id=37
+#text=Yu-Gi-Oh!
+37-1	Yu	B-noun.communication	
+37-2	-	I-noun.communication	
+37-3	Gi	I-noun.communication	
+37-4	-	I-noun.communication	
+37-5	Oh	I-noun.communication	
+37-6	!	O	
+
+#id=38
+#text=Detminder mig om at jeg også har smagt riskage.. det var jeg ikke  så imponeret over :/ (man tager en masse ris varmer dem og banker dem med en hammer til de bliver en slags dej) man spiser dem med forskellige ting til.. det smagte lidt som tyggegummi uden smag :[~@007C]
+38-1	Det	O	
+38-2	minder	B-verb.cognition	
+38-3	mig	O	
+38-4	om	O	
+38-5	at	O	
+38-6	jeg	O	
+38-7	også	O	
+38-8	har	O	
+38-9	smagt	B-verb.consumption	
+38-10	riskage	B-noun.food	
+38-11	.	O	
+38-12	.	O	
+38-13	det	O	
+38-14	var	B-verb.stative	
+38-15	jeg	O	
+38-16	ikke	O	
+38-17	så	O	
+38-18	imponeret	B-verb.emotion	
+38-19	over	O	
+38-20	:	O	
+38-21	/	O	
+38-22	(	O	
+38-23	man	O	
+38-24	tager	B-verb.motion	
+38-25	en	O	
+38-26	masse	B-noun.quantity	
+38-27	ris	B-noun.food	
+38-28	varmer	B-verb.change	
+38-29	dem	O	
+38-30	og	O	
+38-31	banker	B-verb.contact	
+38-32	dem	O	
+38-33	med	O	
+38-34	en	O	
+38-35	hammer	B-noun.artifact	
+38-36	til	O	
+38-37	de	O	
+38-38	bliver	B-verb.stative	
+38-39	en	O	
+38-40	slags	B-noun.attribute	
+38-41	dej	B-noun.food	
+38-42	)	O	
+38-43	man	O	
+38-44	spiser	B-verb.consumption	
+38-45	dem	O	
+38-46	med	O	
+38-47	forskellige	B-adj.all	
+38-48	ting	B-noun.abstract	
+38-49	til	O	
+38-50	.	O	
+38-51	.	O	
+38-52	det	O	
+38-53	smagte	B-verb.perception	
+38-54	lidt	O	
+38-55	som	O	
+38-56	tyggegummi	B-noun.food	
+38-57	uden	O	
+38-58	smag	B-noun.attribute	
+38-59	:	O	
+38-60	[~@007C]	O	
+
+#id=39
+#text=Nu har jeg så fået oversat et par af siderne, og sat teksten ind i taleboblerne o.l.
+39-1	Nu	O	
+39-2	har	O	
+39-3	jeg	O	
+39-4	så	O	
+39-5	fået	O	
+39-6	oversat	B-verb.communication	
+39-7	et	O	
+39-8	par	B-noun.quantity	
+39-9	af	O	
+39-10	siderne	B-noun.communication	
+39-11	,	O	
+39-12	og	O	
+39-13	sat	B-verb.act	
+39-14	teksten	B-noun.communication	
+39-15	ind	O	
+39-16	i	O	
+39-17	taleboblerne	B-noun.communication	
+39-18	o	O	
+39-19	.	O	
+39-20	l	O	
+39-21	.	O	
+
+#id=40
+#text=Hejalle sammen jeg har undersøgt priser på manga dvder i dk som selvfølig er alt for dyre nogle koster helt op til 350kr som jo ikke er til at betale Så ville høre om der ikke er en DC++ hub ftp server eller noget helt 3['@0060]man kunne downloade nogle manga film fra og andre kunne selvfølig oploade...
+40-1	Hej	O	
+40-2	alle	O	
+40-3	sammen	O	
+40-4	jeg	O	
+40-5	har	O	
+40-6	undersøgt	B-verb.cognition	
+40-7	priser	B-noun.attribute	
+40-8	på	O	
+40-9	manga	B-noun.communication	
+40-10	dvder	B-noun.artifact	
+40-11	i	O	
+40-12	dk	O	
+40-13	som	O	
+40-14	selvfølig	O	
+40-15	er	B-verb.stative	
+40-16	alt	O	
+40-17	for	O	
+40-18	dyre	B-adj.all	
+40-19	nogle	O	
+40-20	koster	B-verb.stative	
+40-21	helt	O	
+40-22	op	O	
+40-23	til	O	
+40-24	350kr	B-noun.quantity	
+40-25	som	O	
+40-26	jo	O	
+40-27	ikke	O	
+40-28	er	B-verb.stative	
+40-29	til	O	
+40-30	at	O	
+40-31	betale	B-verb.act	
+40-32	Så	O	
+40-33	ville	O	
+40-34	høre	B-verb.communication	
+40-35	om	O	
+40-36	der	O	
+40-37	ikke	O	
+40-38	er	B-verb.stative	
+40-39	en	O	
+40-40	DC++	B-noun.artifact	
+40-41	hub	I-noun.artifact	
+40-42	ftp	I-noun.artifact	
+40-43	server	I-noun.artifact	
+40-44	eller	O	
+40-45	noget	O	
+40-46	helt	O	
+40-47	3	O	
+40-48	['@0060]	O	
+40-49	man	O	
+40-50	kunne	O	
+40-51	downloade	B-noun.possession	
+40-52	nogle	O	
+40-53	manga	B-noun.communication	
+40-54	film	I-noun.communication	
+40-55	fra	O	
+40-56	og	O	
+40-57	andre	O	
+40-58	kunne	O	
+40-59	selvfølig	O	
+40-60	oploade	B-noun.possession	
+40-61	.	O	
+40-62	.	O	
+40-63	.	O	
+
+#id=41
+#text=Hvordan har du fået Master af Oz i en starter pakke eller nogle af de små pakker eller over nettet eller noget helt andet :?: :?:
+41-1	Hvordan	O	
+41-2	har	O	
+41-3	du	O	
+41-4	fået	B-verb.possession	
+41-5	Master	B-noun.person	
+41-6	af	I-noun.person	
+41-7	Oz	I-noun.person	
+41-8	i	O	
+41-9	en	O	
+41-10	starter	B-noun.artifact	
+41-11	pakke	I-noun.artifact	
+41-12	eller	O	
+41-13	nogle	O	
+41-14	af	O	
+41-15	de	O	
+41-16	små	B-adj.phys	
+41-17	pakker	B-noun.artifact	
+41-18	eller	O	
+41-19	over	O	
+41-20	nettet	B-noun.communication	
+41-21	eller	O	
+41-22	noget	O	
+41-23	helt	O	
+41-24	andet	O	
+41-25	:	O	
+41-26	?	O	
+41-27	:	O	
+41-28	:	O	
+41-29	?	O	
+41-30	:	O	
+
+#id=42
+#text=Ellers prøv denne link: http://www.online-dictionary.biz/japanese/english/ Skriv det japanske ord (med vores alfabet) i feltet "Romaji", så skulle der komme en engelsk oversættelse.
+42-1	Ellers	O	
+42-2	prøv	B-verb.act	
+42-3	denne	O	
+42-4	link	B-noun.communication	
+42-5	:	O	
+42-6	http	O	
+42-7	:	O	
+42-8	/	O	
+42-9	/	O	
+42-10	www	O	
+42-11	.	O	
+42-12	online	O	
+42-13	-	O	
+42-14	dictionary	O	
+42-15	.	O	
+42-16	biz	O	
+42-17	/	O	
+42-18	japanese	O	
+42-19	/	O	
+42-20	english	O	
+42-21	/	O	
+42-22	Skriv	B-noun.communication	
+42-23	det	O	
+42-24	japanske	B-adj.social	
+42-25	ord	B-noun.communication	
+42-26	(	O	
+42-27	med	O	
+42-28	vores	O	
+42-29	alfabet	B-noun.communication	
+42-30	)	O	
+42-31	i	O	
+42-32	feltet	B-noun.shape	
+42-33	"	O	
+42-34	Romaji	O	
+42-35	"	O	
+42-36	,	O	
+42-37	så	O	
+42-38	skulle	O	
+42-39	der	O	
+42-40	komme	B-verb.phenomenon	
+42-41	en	O	
+42-42	engelsk	B-adj.social	
+42-43	oversættelse	B-noun.communication	
+42-44	.	O	
+
+#id=43
+#text=Aktivebrugere...?? hmm..... der ser da ikke ud til at være så stor aktivitet herinde for tiden... men hvad.... jeg er jo også ny.... håber da, at der kommer mere gang i det herinde... :)
+43-1	Aktive	B-adj.all	
+43-2	brugere	B-noun.person	
+43-3	.	O	
+43-4	.	O	
+43-5	.	O	
+43-6	?	O	
+43-7	?	O	
+43-8	hmm	O	
+43-9	.	O	
+43-10	.	O	
+43-11	.	O	
+43-12	.	O	
+43-13	.	O	
+43-14	der	O	
+43-15	ser	B-verb.stative	
+43-16	da	O	
+43-17	ikke	O	
+43-18	ud	B-verb.PARTICLE	
+43-19	til	B-verb.COLL	
+43-20	at	O	
+43-21	være	B-verb.stative	
+43-22	så	O	
+43-23	stor	B-adj.all	
+43-24	aktivitet	B-noun.phenomenon	
+43-25	herinde	O	
+43-26	for	O	
+43-27	tiden	B-noun.time	
+43-28	.	O	
+43-29	.	O	
+43-30	.	O	
+43-31	men	O	
+43-32	hvad	O	
+43-33	.	O	
+43-34	.	O	
+43-35	.	O	
+43-36	.	O	
+43-37	jeg	O	
+43-38	er	B-verb.stative	
+43-39	jo	O	
+43-40	også	O	
+43-41	ny	B-adj.time	
+43-42	.	O	
+43-43	.	O	
+43-44	.	O	
+43-45	.	O	
+43-46	håber	B-verb.emotion	
+43-47	da	O	
+43-48	,	O	
+43-49	at	O	
+43-50	der	O	
+43-51	kommer	B-verb.phenomenon	
+43-52	mere	O	
+43-53	gang	B-verb.COLL	
+43-54	i	I-verb.COLL	
+43-55	det	O	
+43-56	herinde	O	
+43-57	.	O	
+43-58	.	O	
+43-59	.	O	
+43-60	:	O	
+43-61	)	O	
+
+#id=44
+#text=Fintnok så.
+44-1	Fint	O	
+44-2	nok	O	
+44-3	så	O	
+44-4	.	O	
+
+#id=45
+#text=Det er bare ret neder at skulle dl  dem, da jeg godt vil ha bøgerne :(
+45-1	Det	O	
+45-2	er	B-verb.stative	
+45-3	bare	O	
+45-4	ret	O	
+45-5	neder	B-adj.mental	
+45-6	at	O	
+45-7	skulle	O	
+45-8	dl	B-verb.possession	
+45-9	dem	O	
+45-10	,	O	
+45-11	da	O	
+45-12	jeg	O	
+45-13	godt	O	
+45-14	vil	O	
+45-15	ha	B-verb.possession	
+45-16	bøgerne	B-noun.communication	
+45-17	:	O	
+45-18	(	O	
+
+#id=46
+#text=XD
+46-1	XD	O	
+
+#id=47
+#text=Jegkan heller ikke lide Kenshin animen, men mangaen er god.
+47-1	Jeg	O	
+47-2	kan	O	
+47-3	heller	O	
+47-4	ikke	O	
+47-5	lide	B-verb.emotion	
+47-6	Kenshin	B-noun.communication	
+47-7	animen	B-noun.communication	
+47-8	,	O	
+47-9	men	O	
+47-10	mangaen	B-noun.communication	
+47-11	er	B-verb.stative	
+47-12	god	B-adj.all	
+47-13	.	O	
+
+#id=48
+#text=Endnu en gang tak for alle dine indlæg!
+48-1	Endnu	O	
+48-2	en	O	
+48-3	gang	B-noun.time	
+48-4	tak	O	
+48-5	for	O	
+48-6	alle	O	
+48-7	dine	O	
+48-8	indlæg	B-noun.communication	
+48-9	!	O	
+
+#id=49
+#text=Derer en mand fra Polen, Der har brugt Mugen Enginen til at lave sit eget kampspil, hvor han har filmet nogle af sine venner og derefter sat dem som figurer ind i spillet.
+49-1	Der	O	
+49-2	er	B-verb.stative	
+49-3	en	O	
+49-4	mand	B-noun.person	
+49-5	fra	O	
+49-6	Polen	B-noun.location	
+49-7	,	O	
+49-8	Der	O	
+49-9	har	O	
+49-10	brugt	B-verb.act	
+49-11	Mugen	B-noun.artifact	
+49-12	Enginen	I-noun.artifact	
+49-13	til	O	
+49-14	at	O	
+49-15	lave	B-verb.creation	
+49-16	sit	O	
+49-17	eget	O	
+49-18	kampspil	B-noun.artifact	
+49-19	,	O	
+49-20	hvor	O	
+49-21	han	O	
+49-22	har	O	
+49-23	filmet	B-verb.social	
+49-24	nogle	O	
+49-25	af	O	
+49-26	sine	O	
+49-27	venner	B-noun.person	
+49-28	og	O	
+49-29	derefter	O	
+49-30	sat	B-verb.change	
+49-31	dem	O	
+49-32	som	O	
+49-33	figurer	B-noun.person	
+49-34	ind	B-verb.PARTICLE	
+49-35	i	O	
+49-36	spillet	B-noun.artifact	
+49-37	.	O	
+
+#id=50
+#text=Ville ønske de dog ville prøve at passe stemmerne bedre -.-
+50-1	Ville	O	
+50-2	ønske	B-verb.emotion	
+50-3	de	O	
+50-4	dog	O	
+50-5	ville	O	
+50-6	prøve	B-verb.act	
+50-7	at	O	
+50-8	passe	B-verb.stative	
+50-9	stemmerne	B-noun.attribute	
+50-10	bedre	O	
+50-11	-	O	
+50-12	.	O	
+50-13	-	O	
+
+#id=51
+#text=jegskal da helt klart til j-popcorn.
+51-1	jeg	O	
+51-2	skal	B-verb.motion	
+51-3	da	O	
+51-4	helt	O	
+51-5	klart	O	
+51-6	til	B-verb.COLL	
+51-7	j	B-noun.institution	
+51-8	-	I-noun.institution	
+51-9	popcorn	I-noun.institution	
+51-10	.	O	
+
+#id=52
+#text=jeger en nård som ingen gider hårer på fordi jeg kun taler om manga punktum
+52-1	jeg	O	
+52-2	er	B-verb.stative	
+52-3	en	O	
+52-4	nård	B-noun.person	
+52-5	som	O	
+52-6	ingen	O	
+52-7	gider	O	
+52-8	hårer	B-verb.perception	
+52-9	på	O	
+52-10	fordi	O	
+52-11	jeg	O	
+52-12	kun	O	
+52-13	taler	B-verb.communication	
+52-14	om	O	
+52-15	manga	B-noun.communication	
+52-16	punktum	B-noun.communication	
+
+#id=53
+#text=Er der noget jeg er gået glip af??
+53-1	Er	B-verb.stative	
+53-2	der	O	
+53-3	noget	O	
+53-4	jeg	O	
+53-5	er	O	
+53-6	gået	B-verb.act	
+53-7	glip	B-verb.COLL	
+53-8	af	B-verb.COLL	
+53-9	?	O	
+53-10	?	O	
+
+#id=54
+#text=Beyblade kommer altså os på dr1.... jeg har  kun set det engang der... jeg ved ik om det kommer der meget... men det var hvertfald en lørdag kan ik huske tiden... :roll:
+54-1	Beyblade	B-noun.communication	
+54-2	kommer	B-verb.communication	
+54-3	altså	O	
+54-4	os	O	
+54-5	på	O	
+54-6	dr1	B-noun.communication	
+54-7	.	O	
+54-8	.	O	
+54-9	.	O	
+54-10	.	O	
+54-11	jeg	O	
+54-12	har	O	
+54-13	kun	O	
+54-14	set	B-verb.perception	
+54-15	det	O	
+54-16	engang	O	
+54-17	der	O	
+54-18	.	O	
+54-19	.	O	
+54-20	.	O	
+54-21	jeg	O	
+54-22	ved	B-verb.cognition	
+54-23	ik	O	
+54-24	om	O	
+54-25	det	O	
+54-26	kommer	B-verb.communication	
+54-27	der	O	
+54-28	meget	O	
+54-29	.	O	
+54-30	.	O	
+54-31	.	O	
+54-32	men	O	
+54-33	det	O	
+54-34	var	B-verb.stative	
+54-35	hvertfald	O	
+54-36	en	O	
+54-37	lørdag	B-noun.time	
+54-38	kan	O	
+54-39	ik	O	
+54-40	huske	B-verb.cognition	
+54-41	tiden	B-noun.time	
+54-42	.	O	
+54-43	.	O	
+54-44	.	O	
+54-45	:	O	
+54-46	roll	O	
+54-47	:	O	
+
+#id=55
+#text=Men hvis du kan lide "The Legend of Zelda"-serien.
+55-1	Men	O	
+55-2	hvis	O	
+55-3	du	O	
+55-4	kan	O	
+55-5	lide	B-verb.emotion	
+55-6	"	O	
+55-7	The	B-noun.communication	
+55-8	Legend	I-noun.communication	
+55-9	of	I-noun.communication	
+55-10	Zelda	I-noun.communication	
+55-11	"	O	
+55-12	-	O	
+55-13	serien	B-noun.communication	
+55-14	.	O	
+
+#id=56
+#text=Men har ikke set den endnu.
+56-1	Men	O	
+56-2	har	O	
+56-3	ikke	O	
+56-4	set	B-verb.perception	
+56-5	den	O	
+56-6	endnu	O	
+56-7	.	O	
+
+#id=57
+#text=Onepiece Grand battle kan godt fås i danske butikker jeg har selv købt det i EB games
+57-1	One	B-noun.artifact	
+57-2	piece	I-noun.artifact	
+57-3	Grand	I-noun.artifact	
+57-4	battle	I-noun.artifact	
+57-5	kan	O	
+57-6	godt	O	
+57-7	fås	B-verb.possession	
+57-8	i	O	
+57-9	danske	B-adj.social	
+57-10	butikker	B-noun.building	
+57-11	jeg	O	
+57-12	har	O	
+57-13	selv	O	
+57-14	købt	B-verb.possession	
+57-15	det	O	
+57-16	i	O	
+57-17	EB	B-noun.institution	
+57-18	games	I-noun.institution	
+
+#id=58
+#text=Hun synes nemlig den var super cool, sagde noget med at den var fantasifuldt lavet :).
+58-1	Hun	O	
+58-2	synes	B-verb.cognition	
+58-3	nemlig	O	
+58-4	den	O	
+58-5	var	B-verb.stative	
+58-6	super	O	
+58-7	cool	B-adj.all	
+58-8	,	O	
+58-9	sagde	B-verb.communication	
+58-10	noget	O	
+58-11	med	O	
+58-12	at	O	
+58-13	den	O	
+58-14	var	B-verb.stative	
+58-15	fantasifuldt	O	
+58-16	lavet	B-verb.creation	
+58-17	:	O	
+58-18	)	O	
+58-19	.	O	
+
+#id=59
+#text=Jeg kan ikke anbefale dig at købe dem, med mindre du skal leve af at være oversætter.
+59-1	Jeg	O	
+59-2	kan	O	
+59-3	ikke	O	
+59-4	anbefale	B-verb.communication	
+59-5	dig	O	
+59-6	at	O	
+59-7	købe	B-verb.possession	
+59-8	dem	O	
+59-9	,	O	
+59-10	med	O	
+59-11	mindre	O	
+59-12	du	O	
+59-13	skal	O	
+59-14	leve	B-verb.stative	
+59-15	af	O	
+59-16	at	O	
+59-17	være	B-verb.stative	
+59-18	oversætter	B-noun.person	
+59-19	.	O	
+
+#id=60
+#text=OMGhvorfor læste jeg det her topic :/....jeg ser kun Anime'en, så jeg troede selvfølgelig det var den i snakkede om ...oh well, life goes on.
+60-1	OMG	O	
+60-2	hvorfor	O	
+60-3	læste	B-verb.cognition	
+60-4	jeg	O	
+60-5	det	O	
+60-6	her	O	
+60-7	topic	B-noun.communication	
+60-8	:	O	
+60-9	/	O	
+60-10	.	O	
+60-11	.	O	
+60-12	.	O	
+60-13	.	O	
+60-14	jeg	O	
+60-15	ser	B-verb.perception	
+60-16	kun	O	
+60-17	Anime	B-noun.communication	
+60-18	'	I-noun.communication	
+60-19	en	I-noun.communication	
+60-20	,	O	
+60-21	så	O	
+60-22	jeg	O	
+60-23	troede	B-verb.cognition	
+60-24	selvfølgelig	O	
+60-25	det	O	
+60-26	var	B-verb.stative	
+60-27	den	O	
+60-28	i	O	
+60-29	snakkede	B-verb.communication	
+60-30	om	O	
+60-31	.	O	
+60-32	.	O	
+60-33	.	O	
+60-34	oh	O	
+60-35	well	O	
+60-36	,	O	
+60-37	life	O	
+60-38	goes	O	
+60-39	on	O	
+60-40	.	O	
+
+#id=61
+#text=Det er da for digimon frotier ikke
+61-1	Det	O	
+61-2	er	B-verb.stative	
+61-3	da	O	
+61-4	for	O	
+61-5	digimon	B-noun.communication	
+61-6	frotier	I-noun.communication	
+61-7	ikke	O	
+
+#id=62
+#text=Hmm...
+62-1	Hmm	O	
+62-2	.	O	
+62-3	.	O	
+62-4	.	O	
+
+#id=63
+#text=Stemtepå manga... ser kun det anime derkommer i det danske tv.
+63-1	Stemte	B-verb.social	
+63-2	på	O	
+63-3	manga	B-noun.communication	
+63-4	.	O	
+63-5	.	O	
+63-6	.	O	
+63-7	ser	B-verb.perception	
+63-8	kun	O	
+63-9	det	O	
+63-10	anime	B-noun.communication	
+63-11	derkommer	B-verb.communication	
+63-12	i	O	
+63-13	det	O	
+63-14	danske	B-adj.social	
+63-15	tv	B-noun.communication	
+63-16	.	O	
+
+#id=64
+#text=Animéen skulle være udkommet på engelsk i sidste måned.
+64-1	Animéen	B-noun.communication	
+64-2	skulle	O	
+64-3	være	B-verb.stative	
+64-4	udkommet	B-verb.act	
+64-5	på	O	
+64-6	engelsk	B-adj.social	
+64-7	i	O	
+64-8	sidste	B-adj.time	
+64-9	måned	B-noun.time	
+64-10	.	O	
+
+#id=65
+#text=Fordet første vil jeg bare lige sige at Grave Of The Fireflyes ikke er en af Miyazaki's film, men derimod en af Isao Takahata film.
+65-1	For	O	
+65-2	det	O	
+65-3	første	O	
+65-4	vil	O	
+65-5	jeg	O	
+65-6	bare	O	
+65-7	lige	O	
+65-8	sige	B-verb.communication	
+65-9	at	O	
+65-10	Grave	B-noun.communication	
+65-11	Of	I-noun.communication	
+65-12	The	I-noun.communication	
+65-13	Fireflyes	I-noun.communication	
+65-14	ikke	O	
+65-15	er	B-verb.stative	
+65-16	en	O	
+65-17	af	O	
+65-18	Miyazaki	B-noun.person	
+65-19	'	I-noun.person	
+65-20	s	I-noun.person	
+65-21	film	B-noun.communication	
+65-22	,	O	
+65-23	men	O	
+65-24	derimod	O	
+65-25	en	O	
+65-26	af	O	
+65-27	Isao	B-noun.person	
+65-28	Takahata	I-noun.person	
+65-29	film	B-noun.communication	
+65-30	.	O	
+
+#id=66
+#text=Lyderda totalt fedt!
+66-1	Lyder	B-verb.phenomenon	
+66-2	da	O	
+66-3	totalt	O	
+66-4	fedt	O	
+66-5	!	O	
+
+#id=67
+#text=Jeg elsker den!
+67-1	Jeg	O	
+67-2	elsker	B-verb.emotion	
+67-3	den	O	
+67-4	!	O	
+
+#id=68
+#text=Dragon Ball var den første der kom, og ja den kender vi jo alle sammen, men hvad med One Piece?
+68-1	Dragon	B-noun.communication	
+68-2	Ball	I-noun.communication	
+68-3	var	O	
+68-4	den	O	
+68-5	første	B-adj.time	
+68-6	der	O	
+68-7	kom	B-verb.creation	
+68-8	,	O	
+68-9	og	O	
+68-10	ja	O	
+68-11	den	O	
+68-12	kender	B-verb.cognition	
+68-13	vi	O	
+68-14	jo	O	
+68-15	alle	O	
+68-16	sammen	O	
+68-17	,	O	
+68-18	men	O	
+68-19	hvad	O	
+68-20	med	O	
+68-21	One	B-noun.communication	
+68-22	Piece	I-noun.communication	
+68-23	?	O	
+
+#id=69
+#text=Bahhh!!endnu en Manga på Dansk...Kan godt sige, at min Tegnebog ikke just skriger af grin...
+69-1	Bahhh	O	
+69-2	!	O	
+69-3	!	O	
+69-4	endnu	O	
+69-5	en	O	
+69-6	Manga	B-noun.communication	
+69-7	på	O	
+69-8	Dansk	B-adj.social	
+69-9	.	O	
+69-10	.	O	
+69-11	.	O	
+69-12	Kan	O	
+69-13	godt	O	
+69-14	sige	B-verb.communication	
+69-15	,	O	
+69-16	at	O	
+69-17	min	O	
+69-18	Tegnebog	B-noun.artifact	
+69-19	ikke	O	
+69-20	just	O	
+69-21	skriger	B-verb.phenomenon	
+69-22	af	O	
+69-23	grin	O	
+69-24	.	O	
+69-25	.	O	
+69-26	.	O	
+
+#id=70
+#text=Den eneste måde jeg kender hvor man ikke skal bruge polymerization kortet er hvis man bruger Cyber-Stein's effect.
+70-1	Den	O	
+70-2	eneste	B-adj.all	
+70-3	måde	B-noun.abstract	
+70-4	jeg	O	
+70-5	kender	B-verb.cognition	
+70-6	hvor	O	
+70-7	man	O	
+70-8	ikke	O	
+70-9	skal	O	
+70-10	bruge	B-verb.act	
+70-11	polymerization	B-noun.artifact	
+70-12	kortet	I-noun.artifact	
+70-13	er	B-verb.stative	
+70-14	hvis	O	
+70-15	man	O	
+70-16	bruger	B-verb.act	
+70-17	Cyber	B-noun.artifact	
+70-18	-	I-noun.artifact	
+70-19	Stein	I-noun.artifact	
+70-20	'	O	
+70-21	s	O	
+70-22	effect	B-noun.phenomenon	
+70-23	.	O	
+
+#id=71
+#text=Såfor faen.. så er der snart åbent hus på Tokai boarding school..
+71-1	Så	O	
+71-2	for	O	
+71-3	faen	B-noun.person	
+71-4	.	O	
+71-5	.	O	
+71-6	så	O	
+71-7	er	B-verb.stative	
+71-8	der	O	
+71-9	snart	O	
+71-10	åbent	B-adj.all	
+71-11	hus	B-noun.building	
+71-12	på	O	
+71-13	Tokai	B-noun.institution	
+71-14	boarding	I-noun.institution	
+71-15	school	I-noun.institution	
+71-16	.	O	
+71-17	.	O	
+
+#id=72
+#text=Andersoner da ikke psykopat.
+72-1	Anderson	B-noun.person	
+72-2	er	B-verb.stative	
+72-3	da	O	
+72-4	ikke	O	
+72-5	psykopat	B-noun.person	
+72-6	.	O	
+
+#id=73
+#text=Dukan downloade WinMugen Her www.mugenfury.com Hvis den ikke kommer op igen må du få den over msn...
+73-1	Du	O	
+73-2	kan	O	
+73-3	downloade	B-noun.possession	
+73-4	WinMugen	B-noun.artifact	
+73-5	Her	O	
+73-6	www	O	
+73-7	.	O	
+73-8	mugenfury	O	
+73-9	.	O	
+73-10	com	O	
+73-11	Hvis	O	
+73-12	den	O	
+73-13	ikke	O	
+73-14	kommer	B-verb.phenomenon	
+73-15	op	B-verb.PARTICLE	
+73-16	igen	O	
+73-17	må	O	
+73-18	du	O	
+73-19	få	B-verb.communication	
+73-20	den	O	
+73-21	over	O	
+73-22	msn	B-noun.communication	
+73-23	.	O	
+73-24	.	O	
+73-25	.	O	
+
+#id=74
+#text=Ja, ifølge loven omfatter hovedstadsområdet Tokyo og nærliggende byer, men hvem siger hovedstaden behøver ligge der? :P
+74-1	Ja	O	
+74-2	,	O	
+74-3	ifølge	O	
+74-4	loven	B-noun.communication	
+74-5	omfatter	B-verb.stative	
+74-6	hovedstadsområdet	B-noun.location	
+74-7	Tokyo	B-noun.location	
+74-8	og	O	
+74-9	nærliggende	B-adj.phys	
+74-10	byer	B-noun.location	
+74-11	,	O	
+74-12	men	O	
+74-13	hvem	O	
+74-14	siger	B-verb.communication	
+74-15	hovedstaden	B-noun.location	
+74-16	behøver	O	
+74-17	ligge	B-verb.stative	
+74-18	der	O	
+74-19	?	O	
+74-20	:	O	
+74-21	P	O	
+
+#id=75
+#text=*FalderNed Af Stolen Og Brækker Mig Af Grin :lol:
+75-1	*Falder	B-verb.motion	
+75-2	Ned	B-verb.PARTICLE	
+75-3	Af	O	
+75-4	Stolen	B-noun.artifact	
+75-5	Og	O	
+75-6	Brækker	B-verb.act	
+75-7	Mig	B-verb.REFLPRON	
+75-8	Af	O	
+75-9	Grin	B-noun.act	
+75-10	:	O	
+75-11	lol	O	
+75-12	:	O	
+
+#id=76
+#text=AHistory of Japanese Civilization af Conrad Schirokauer er en aldeles udmærket bog, som man ikke kan lægge fra sig når først man har den i hånden.
+76-1	A	B-noun.communication	
+76-2	History	I-noun.communication	
+76-3	of	I-noun.communication	
+76-4	Japanese	I-noun.communication	
+76-5	Civilization	I-noun.communication	
+76-6	af	O	
+76-7	Conrad	B-noun.person	
+76-8	Schirokauer	I-noun.person	
+76-9	er	B-verb.stative	
+76-10	en	O	
+76-11	aldeles	O	
+76-12	udmærket	B-adj.all	
+76-13	bog	B-noun.communication	
+76-14	,	O	
+76-15	som	O	
+76-16	man	O	
+76-17	ikke	O	
+76-18	kan	O	
+76-19	lægge	B-verb.motion	
+76-20	fra	B-verb.PARTICLE	
+76-21	sig	B-verb.REFLPRON	
+76-22	når	O	
+76-23	først	O	
+76-24	man	O	
+76-25	har	B-verb.stative	
+76-26	den	O	
+76-27	i	O	
+76-28	hånden	B-noun.body	
+76-29	.	O	
+
+#id=77
+#text=undskyld der må være sket en fejl det var angående akira :oops:
+77-1	undskyld	O	
+77-2	der	O	
+77-3	må	O	
+77-4	være	B-verb.stative	
+77-5	sket	B-verb.phenomenon	
+77-6	en	O	
+77-7	fejl	B-noun.act	
+77-8	det	O	
+77-9	var	B-verb.stative	
+77-10	angående	B-adj.all	
+77-11	akira	B-noun.communication	
+77-12	:	O	
+77-13	oops	O	
+77-14	:	O	
+
+#id=78
+#text=Der er selvfølgelig plads til alle! - men tag lige og tjek for stavefejl inden du poster, det ville gøre meget!
+78-1	Der	O	
+78-2	er	B-verb.stative	
+78-3	selvfølgelig	O	
+78-4	plads	B-noun.location	
+78-5	til	O	
+78-6	alle	O	
+78-7	!	O	
+78-8	-	O	
+78-9	men	O	
+78-10	tag	O	
+78-11	lige	O	
+78-12	og	O	
+78-13	tjek	B-verb.cognition	
+78-14	for	O	
+78-15	stavefejl	B-noun.act	
+78-16	inden	O	
+78-17	du	O	
+78-18	poster	B-verb.communication	
+78-19	,	O	
+78-20	det	O	
+78-21	ville	O	
+78-22	gøre	B-verb.act	
+78-23	meget	O	
+78-24	!	O	
+
+#id=79
+#text=Jeps,det er Melos! - helt præcist er det Mikkel, som oversætter den, som I også kan se i kolofonen. (den side foran i bogen, hvor alt det tekniske står!)
+79-1	Jeps	O	
+79-2	,	O	
+79-3	det	O	
+79-4	er	B-verb.stative	
+79-5	Melos	B-noun.person	
+79-6	!	O	
+79-7	-	O	
+79-8	helt	O	
+79-9	præcist	O	
+79-10	er	B-verb.stative	
+79-11	det	O	
+79-12	Mikkel	B-noun.person	
+79-13	,	O	
+79-14	som	O	
+79-15	oversætter	B-verb.communication	
+79-16	den	O	
+79-17	,	O	
+79-18	som	O	
+79-19	I	O	
+79-20	også	O	
+79-21	kan	O	
+79-22	se	B-verb.perception	
+79-23	i	O	
+79-24	kolofonen	B-noun.communication	
+79-25	.	O	
+79-26	(	O	
+79-27	den	O	
+79-28	side	B-noun.communication	
+79-29	foran	O	
+79-30	i	O	
+79-31	bogen	B-noun.communication	
+79-32	,	O	
+79-33	hvor	O	
+79-34	alt	O	
+79-35	det	O	
+79-36	tekniske	B-adj.all	
+79-37	står	B-verb.communication	
+79-38	!	O	
+79-39	)	O	
+
+#id=80
+#text=Jo, ellers kan jeg ikke rigtig se formålet med at oprette en Poll, Men det må du selvfølgelig selv om :D
+80-1	Jo	O	
+80-2	,	O	
+80-3	ellers	O	
+80-4	kan	O	
+80-5	jeg	O	
+80-6	ikke	O	
+80-7	rigtig	O	
+80-8	se	B-verb.cognition	
+80-9	formålet	B-noun.motive	
+80-10	med	O	
+80-11	at	O	
+80-12	oprette	B-verb.creation	
+80-13	en	O	
+80-14	Poll	B-noun.artifact	
+80-15	,	O	
+80-16	Men	O	
+80-17	det	O	
+80-18	må	B-verb.cognition	
+80-19	du	O	
+80-20	selvfølgelig	O	
+80-21	selv	O	
+80-22	om	B-verb.PARTICLE	
+80-23	:	O	
+80-24	D	O	
+
+#id=81
+#text=Men jeg synes også at det er en fin idé, hvis I mødes på MSN, og hjælper hinanden igang!
+81-1	Men	O	
+81-2	jeg	O	
+81-3	synes	B-verb.cognition	
+81-4	også	O	
+81-5	at	O	
+81-6	det	O	
+81-7	er	B-verb.stative	
+81-8	en	O	
+81-9	fin	B-adj.all	
+81-10	idé	B-noun.abstract	
+81-11	,	O	
+81-12	hvis	O	
+81-13	I	O	
+81-14	mødes	B-verb.social	
+81-15	på	O	
+81-16	MSN	B-noun.communication	
+81-17	,	O	
+81-18	og	O	
+81-19	hjælper	B-verb.social	
+81-20	hinanden	O	
+81-21	igang	O	
+81-22	!	O	
+
+#id=82
+#text=Jeger ganske vist ny her, men jeg vil gerne gøre et forsøg med side 9, med mindre andre vil oversætte selvfølgelig.
+82-1	Jeg	O	
+82-2	er	B-verb.stative	
+82-3	ganske	O	
+82-4	vist	O	
+82-5	ny	B-adj.time	
+82-6	her	O	
+82-7	,	O	
+82-8	men	O	
+82-9	jeg	O	
+82-10	vil	O	
+82-11	gerne	O	
+82-12	gøre	B-verb.act	
+82-13	et	O	
+82-14	forsøg	B-noun.act	
+82-15	med	O	
+82-16	side	B-noun.communication	
+82-17	9	O	
+82-18	,	O	
+82-19	med	O	
+82-20	mindre	O	
+82-21	andre	O	
+82-22	vil	O	
+82-23	oversætte	B-verb.communication	
+82-24	selvfølgelig	O	
+82-25	.	O	
+
+#id=83
+#text=Jeg er god til tysk, fordi jeg siden 3. kl. har set anime med tysk dub... :wink:
+83-1	Jeg	O	
+83-2	er	B-verb.stative	
+83-3	god	B-adj.all	
+83-4	til	O	
+83-5	tysk	B-noun.domain	
+83-6	,	O	
+83-7	fordi	O	
+83-8	jeg	O	
+83-9	siden	O	
+83-10	3	O	
+83-11	.	O	
+83-12	kl	B-noun.relation	
+83-13	.	O	
+83-14	har	O	
+83-15	set	B-verb.perception	
+83-16	anime	B-noun.communication	
+83-17	med	O	
+83-18	tysk	B-adj.social	
+83-19	dub	B-noun.act	
+83-20	.	O	
+83-21	.	O	
+83-22	.	O	
+83-23	:	O	
+83-24	wink	O	
+83-25	:	O	
+
+#id=84
+#text=Okay nu er der så to her inde der har nævnt det.
+84-1	Okay	O	
+84-2	nu	O	
+84-3	er	B-verb.stative	
+84-4	der	O	
+84-5	så	O	
+84-6	to	O	
+84-7	her	O	
+84-8	inde	O	
+84-9	der	O	
+84-10	har	O	
+84-11	nævnt	B-verb.communication	
+84-12	det	O	
+84-13	.	O	
+
+#id=85
+#text=Ihar fat i noget af det rigtige!
+85-1	I	O	
+85-2	har	B-verb.cognition	
+85-3	fat	B-verb.COLL	
+85-4	i	B-verb.COLL	
+85-5	noget	O	
+85-6	af	O	
+85-7	det	O	
+85-8	rigtige	B-adj.all	
+85-9	!	O	
+
+#id=86
+#text=Har bare lært at være ret skeptisk, især når der er andre, som er det....
+86-1	Har	O	
+86-2	bare	O	
+86-3	lært	B-verb.cognition	
+86-4	at	O	
+86-5	være	B-verb.stative	
+86-6	ret	O	
+86-7	skeptisk	B-adj.mental	
+86-8	,	O	
+86-9	især	O	
+86-10	når	O	
+86-11	der	O	
+86-12	er	B-verb.stative	
+86-13	andre	O	
+86-14	,	O	
+86-15	som	O	
+86-16	er	B-verb.stative	
+86-17	det	O	
+86-18	.	O	
+86-19	.	O	
+86-20	.	O	
+86-21	.	O	
+
+#id=87
+#text=hørerdet meste... men likker i hevy hjørnet lige for tiden... men er ikke bleg for at høre film soundtrages... sår som fra gladiator og ligende. men hører som sagt næsten alt... afhængi sf stemning og humør ..
+87-1	hører	B-verb.perception	
+87-2	det	O	
+87-3	meste	O	
+87-4	.	O	
+87-5	.	O	
+87-6	.	O	
+87-7	men	O	
+87-8	likker	B-verb.stative	
+87-9	i	O	
+87-10	hevy	B-noun.domain	
+87-11	hjørnet	I-noun.domain	
+87-12	lige	O	
+87-13	for	O	
+87-14	tiden	B-noun.time	
+87-15	.	O	
+87-16	.	O	
+87-17	.	O	
+87-18	men	O	
+87-19	er	B-verb.stative	
+87-20	ikke	O	
+87-21	bleg	B-verb.COLL	
+87-22	for	B-verb.COLL	
+87-23	at	O	
+87-24	høre	B-verb.perception	
+87-25	film	B-noun.communication	
+87-26	soundtrages	I-noun.communication	
+87-27	.	O	
+87-28	.	O	
+87-29	.	O	
+87-30	sår	O	
+87-31	som	O	
+87-32	fra	O	
+87-33	gladiator	B-noun.communication	
+87-34	og	O	
+87-35	ligende	O	
+87-36	.	O	
+87-37	men	O	
+87-38	hører	B-verb.perception	
+87-39	som	O	
+87-40	sagt	O	
+87-41	næsten	O	
+87-42	alt	O	
+87-43	.	O	
+87-44	.	O	
+87-45	.	O	
+87-46	afhængi	O	
+87-47	sf	O	
+87-48	stemning	B-noun.state	
+87-49	og	O	
+87-50	humør	B-noun.feeling	
+87-51	.	O	
+87-52	.	O	
+
+#id=88
+#text=YePDet gør jeg....Tager bare sygelig langt tid...Men det er Det Værd :D
+88-1	YeP	O	
+88-2	Det	O	
+88-3	gør	B-verb.act	
+88-4	jeg	O	
+88-5	.	O	
+88-6	.	O	
+88-7	.	O	
+88-8	.	O	
+88-9	Tager	B-verb.aspectual	
+88-10	bare	O	
+88-11	sygelig	O	
+88-12	langt	B-adj.time	
+88-13	tid	B-verb.COLL	
+88-14	.	O	
+88-15	.	O	
+88-16	.	O	
+88-17	Men	O	
+88-18	det	O	
+88-19	er	B-verb.stative	
+88-20	Det	O	
+88-21	Værd	O	
+88-22	:	O	
+88-23	D	O	
+
+#id=89
+#text=Kigger nok lige derind i morgen.
+89-1	Kigger	B-verb.perception	
+89-2	nok	O	
+89-3	lige	O	
+89-4	derind	O	
+89-5	i	O	
+89-6	morgen	B-noun.time	
+89-7	.	O	
+
+#id=90
+#text=You will need to increase ;the screen resolution to at least 640x480 for  these modes. ;0 - off ;1 - diagonal edge detection ;2 - bilinear filtering ;3 - horizontal scanlines DoubleRes = 0 og ændre "DoubleRes = 0" til "DoubleRes = 1" du kan også bare prøve dig frem til det ser godt ud, men det er sådan at jeg har sat min.
+90-1	You	O	
+90-2	will	O	
+90-3	need	O	
+90-4	to	O	
+90-5	increase	O	
+90-6	;	O	
+90-7	the	O	
+90-8	screen	O	
+90-9	resolution	O	
+90-10	to	O	
+90-11	at	O	
+90-12	least	O	
+90-13	640x480	O	
+90-14	for	O	
+90-15	these	O	
+90-16	modes	O	
+90-17	.	O	
+90-18	;	O	
+90-19	0	O	
+90-20	-	O	
+90-21	off	O	
+90-22	;	O	
+90-23	1	O	
+90-24	-	O	
+90-25	diagonal	O	
+90-26	edge	O	
+90-27	detection	O	
+90-28	;	O	
+90-29	2	O	
+90-30	-	O	
+90-31	bilinear	O	
+90-32	filtering	O	
+90-33	;	O	
+90-34	3	O	
+90-35	-	O	
+90-36	horizontal	O	
+90-37	scanlines	O	
+90-38	DoubleRes	O	
+90-39	=	O	
+90-40	0	O	
+90-41	og	O	
+90-42	ændre	O	
+90-43	"	O	
+90-44	DoubleRes	O	
+90-45	=	O	
+90-46	0	O	
+90-47	"	O	
+90-48	til	O	
+90-49	"	O	
+90-50	DoubleRes	O	
+90-51	=	O	
+90-52	1	O	
+90-53	"	O	
+90-54	du	O	
+90-55	kan	O	
+90-56	også	O	
+90-57	bare	O	
+90-58	prøve	B-verb.act	
+90-59	dig	B-verb.REFLPRON	
+90-60	frem	B-verb.PARTICLE	
+90-61	til	O	
+90-62	det	O	
+90-63	ser	B-verb.perception	
+90-64	godt	O	
+90-65	ud	O	
+90-66	,	O	
+90-67	men	O	
+90-68	det	O	
+90-69	er	B-verb.stative	
+90-70	sådan	O	
+90-71	at	O	
+90-72	jeg	O	
+90-73	har	O	
+90-74	sat	B-verb.act	
+90-75	min	O	
+90-76	.	O	
+
+#id=91
+#text=Så sætter jeg ikke mere i dag.
+91-1	Så	O	
+91-2	sætter	B-verb.act	
+91-3	jeg	O	
+91-4	ikke	O	
+91-5	mere	O	
+91-6	i	O	
+91-7	dag	B-noun.time	
+91-8	.	O	
+
+#id=92
+#text=Da det gik op for mig at O'et manglede faldt jeg ned igen.
+92-1	Da	O	
+92-2	det	O	
+92-3	gik	B-verb.cognition	
+92-4	op	B-verb.PARTICLE	
+92-5	for	B-verb.COLL	
+92-6	mig	O	
+92-7	at	O	
+92-8	O	O	
+92-9	'	O	
+92-10	et	O	
+92-11	manglede	B-verb.act	
+92-12	faldt	B-verb.emotion	
+92-13	jeg	O	
+92-14	ned	B-verb.PARTICLE	
+92-15	igen	O	
+92-16	.	O	
+
+#id=93
+#text=Blandt andet:
+93-1	Blandt	O	
+93-2	andet	O	
+93-3	:	O	
+
+#id=94
+#text=Overklasseduks???
+94-1	Overklasseduks	B-noun.person	
+94-2	?	O	
+94-3	?	O	
+94-4	?	O	
+
+#id=95
+#text=:D
+95-1	:	O	
+95-2	D	O	
+
+#id=96
+#text=Men så er det jo godt at du kan tysk!!!
+96-1	Men	O	
+96-2	så	O	
+96-3	er	B-verb.stative	
+96-4	det	O	
+96-5	jo	O	
+96-6	godt	B-adj.all	
+96-7	at	O	
+96-8	du	O	
+96-9	kan	B-verb.communication	
+96-10	tysk	B-noun.domain	
+96-11	!	O	
+96-12	!	O	
+96-13	!	O	
+
+#id=97
+#text=Jeg har ikke selv fået læst den endnu, men har kigget en vens igennem.
+97-1	Jeg	O	
+97-2	har	O	
+97-3	ikke	O	
+97-4	selv	O	
+97-5	fået	O	
+97-6	læst	B-verb.cognition	
+97-7	den	O	
+97-8	endnu	O	
+97-9	,	O	
+97-10	men	O	
+97-11	har	O	
+97-12	kigget	B-verb.perception	
+97-13	en	O	
+97-14	vens	B-noun.person	
+97-15	igennem	B-verb.PARTICLE	
+97-16	.	O	
+
+#id=98
+#text=Som sagt er Berserk meget voldelig, og den befinder sig lige på grænsen til hentai.
+98-1	Som	O	
+98-2	sagt	O	
+98-3	er	B-verb.stative	
+98-4	Berserk	B-noun.communication	
+98-5	meget	O	
+98-6	voldelig	B-adj.all	
+98-7	,	O	
+98-8	og	O	
+98-9	den	O	
+98-10	befinder	B-verb.stative	
+98-11	sig	B-verb.REFLPRON	
+98-12	lige	O	
+98-13	på	O	
+98-14	grænsen	B-noun.relation	
+98-15	til	O	
+98-16	hentai	B-noun.communication	
+98-17	.	O	
+
+#id=99
+#text=Så jeg er frik nok :)
+99-1	Så	O	
+99-2	jeg	O	
+99-3	er	B-verb.stative	
+99-4	frik	B-adj.mental	
+99-5	nok	O	
+99-6	:	O	
+99-7	)	O	
+
+#id=100
+#text=jo jeg er nok lidt tidligt på den. og desuden har jeg ikke sagt af man skulle stemme endnu.
+100-1	jo	O	
+100-2	jeg	O	
+100-3	er	B-verb.stative	
+100-4	nok	O	
+100-5	lidt	O	
+100-6	tidligt	B-adj.time	
+100-7	på	O	
+100-8	den	O	
+100-9	.	O	
+100-10	og	O	
+100-11	desuden	O	
+100-12	har	O	
+100-13	jeg	O	
+100-14	ikke	O	
+100-15	sagt	B-verb.communication	
+100-16	af	O	
+100-17	man	O	
+100-18	skulle	O	
+100-19	stemme	B-verb.social	
+100-20	endnu	O	
+100-21	.	O	
+

@@ -1,0 +1,242 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=JACOBASBÆK er ugens glade mand .
+1-1	JACOB	B-noun.person	
+1-2	ASBÆK	I-noun.person	
+1-3	er	B-verb.stative	
+1-4	ugens	B-noun.time	
+1-5	glade	B-adj.mental	
+1-6	mand	B-noun.person	
+1-7	.	O	
+
+#id=2
+#text=Hermed sine med sine sønner , PILOU , 10 år , MARTIN , 17 år , og THOMAS , 19 år .
+2-1	Her	O	
+2-2	med	O	
+2-3	sine	O	
+2-4	med	O	
+2-5	sine	O	
+2-6	sønner	B-noun.person	
+2-7	,	O	
+2-8	PILOU	B-noun.person	
+2-9	,	O	
+2-10	10	O	
+2-11	år	B-noun.time	
+2-12	,	O	
+2-13	MARTIN	B-noun.person	
+2-14	,	O	
+2-15	17	O	
+2-16	år	B-noun.time	
+2-17	,	O	
+2-18	og	O	
+2-19	THOMAS	B-noun.person	
+2-20	,	O	
+2-21	19	O	
+2-22	år	B-noun.time	
+2-23	.	O	
+
+#id=3
+#text=Asbækhar netop af de spanske myndigheder fået tilladelse til at bygge et 7.000 etagekvm. stort kulturcenter på Mallorca .
+3-1	Asbæk	B-noun.person	
+3-2	har	O	
+3-3	netop	O	
+3-4	af	O	
+3-5	de	O	
+3-6	spanske	B-adj.social	
+3-7	myndigheder	B-noun.institution	
+3-8	fået	B-verb.possession	
+3-9	tilladelse	B-noun.abstract	
+3-10	til	O	
+3-11	at	O	
+3-12	bygge	B-verb.creation	
+3-13	et	O	
+3-14	7.000	O	
+3-15	etagekvm.	O	
+3-16	stort	B-adj.phys	
+3-17	kulturcenter	B-noun.building	
+3-18	på	O	
+3-19	Mallorca	B-noun.location	
+3-20	.	O	
+
+#id=4
+#text=Byggerieter budgetteret til 100 millioner kroner .
+4-1	Byggeriet	B-noun.act	
+4-2	er	O	
+4-3	budgetteret	B-verb.cognition	
+4-4	til	O	
+4-5	100	O	
+4-6	millioner	B-noun.quantity	
+4-7	kroner	B-noun.artifact	
+4-8	.	O	
+
+#id=5
+#text=LILLEPALLE , t.h. , som har succes på Bakkens friluftsscene , kom med kindkys og en rød rose til kollegaen , bakkesangerinde TOVE PEDERSEN , da hun blev hædret med Bakkens Oscar , et stort og fornemt Bjørn_Wiinblad-fad .
+5-1	LILLE	B-noun.person	
+5-2	PALLE	I-noun.person	
+5-3	,	O	
+5-4	t.h.	O	
+5-5	,	O	
+5-6	som	O	
+5-7	har	B-verb.possession	
+5-8	succes	B-noun.abstract	
+5-9	på	O	
+5-10	Bakkens	B-noun.institution	
+5-11	friluftsscene	B-noun.building	
+5-12	,	O	
+5-13	kom	B-verb.motion	
+5-14	med	O	
+5-15	kindkys	B-noun.act	
+5-16	og	O	
+5-17	en	O	
+5-18	rød	B-adj.phys	
+5-19	rose	B-noun.plant	
+5-20	til	O	
+5-21	kollegaen	B-noun.person	
+5-22	,	O	
+5-23	bakkesangerinde	B-noun.person	
+5-24	TOVE	B-noun.person	
+5-25	PEDERSEN	I-noun.person	
+5-26	,	O	
+5-27	da	O	
+5-28	hun	O	
+5-29	blev	O	
+5-30	hædret	B-verb.act	
+5-31	med	O	
+5-32	Bakkens	B-noun.institution	
+5-33	Oscar	B-noun.artifact	
+5-34	,	O	
+5-35	et	O	
+5-36	stort	B-adj.phys	
+5-37	og	O	
+5-38	fornemt	B-adj.all	
+5-39	Bjørn_Wiinblad-fad	B-noun.artifact	
+5-40	.	O	
+
+#id=6
+#text=Hunfik også et kys af sin mand , CHRISTIAN , som gerne opkaldte en rose , " Flittig Tove " , efter sin viv .
+6-1	Hun	O	
+6-2	fik	B-verb.possession	
+6-3	også	O	
+6-4	et	O	
+6-5	kys	B-noun.act	
+6-6	af	O	
+6-7	sin	O	
+6-8	mand	B-noun.person	
+6-9	,	O	
+6-10	CHRISTIAN	B-noun.person	
+6-11	,	O	
+6-12	som	O	
+6-13	gerne	O	
+6-14	opkaldte	B-verb.communication	
+6-15	en	O	
+6-16	rose	B-noun.plant	
+6-17	,	O	
+6-18	"	O	
+6-19	Flittig	B-noun.plant	
+6-20	Tove	I-noun.plant	
+6-21	"	O	
+6-22	,	O	
+6-23	efter	O	
+6-24	sin	O	
+6-25	viv	B-noun.person	
+6-26	.	O	
+
+#id=7
+#text=AtTove er flittig , er en kendt sag .
+7-1	At	O	
+7-2	Tove	B-noun.person	
+7-3	er	B-verb.stative	
+7-4	flittig	B-adj.mental	
+7-5	,	O	
+7-6	er	B-verb.stative	
+7-7	en	O	
+7-8	kendt	B-adj.all	
+7-9	sag	B-noun.abstract	
+7-10	.	O	
+
+#id=8
+#text=Ikkealene synger hun i Bakkens Hvile .
+8-1	Ikke	O	
+8-2	alene	O	
+8-3	synger	B-verb.act	
+8-4	hun	O	
+8-5	i	O	
+8-6	Bakkens	B-noun.institution	
+8-7	Hvile	B-noun.building	
+8-8	.	O	
+
+#id=9
+#text=Hunserverer også hos bakkerestauratør BENT AXEL HASEBART , og de seneste år har hun skrevet tre bøger .
+9-1	Hun	O	
+9-2	serverer	B-verb.act	
+9-3	også	O	
+9-4	hos	O	
+9-5	bakkerestauratør	B-noun.person	
+9-6	BENT	B-noun.person	
+9-7	AXEL	I-noun.person	
+9-8	HASEBART	I-noun.person	
+9-9	,	O	
+9-10	og	O	
+9-11	de	O	
+9-12	seneste	B-adj.time	
+9-13	år	B-noun.time	
+9-14	har	O	
+9-15	hun	O	
+9-16	skrevet	B-verb.creation	
+9-17	tre	O	
+9-18	bøger	B-noun.communication	
+9-19	.	O	
+
+#id=10
+#text=Allesom én er en hyldest til Bakken .
+10-1	Alle	O	
+10-2	som	O	
+10-3	én	O	
+10-4	er	B-verb.stative	
+10-5	en	O	
+10-6	hyldest	B-noun.act	
+10-7	til	O	
+10-8	Bakken	B-noun.institution	
+10-9	.	O	
+
+#id=11
+#text=Hendesmand Christian Pedersen , tapperileder på Bryggerierne , røber , at Tove er så flittig , at hun kan finde på at stå op midt om natten , arbejde en times tid og så sove videre .
+11-1	Hendes	O	
+11-2	mand	B-noun.person	
+11-3	Christian	B-noun.person	
+11-4	Pedersen	I-noun.person	
+11-5	,	O	
+11-6	tapperileder	B-noun.person	
+11-7	på	O	
+11-8	Bryggerierne	B-noun.institution	
+11-9	,	O	
+11-10	røber	B-verb.communication	
+11-11	,	O	
+11-12	at	O	
+11-13	Tove	B-noun.person	
+11-14	er	B-verb.stative	
+11-15	så	O	
+11-16	flittig	B-adj.mental	
+11-17	,	O	
+11-18	at	O	
+11-19	hun	O	
+11-20	kan	O	
+11-21	finde	B-verb.cognition	
+11-22	på	B-verb.PARTICLE	
+11-23	at	O	
+11-24	stå	B-verb.motion	
+11-25	op	B-verb.PARTICLE	
+11-26	midt	O	
+11-27	om	O	
+11-28	natten	B-noun.time	
+11-29	,	O	
+11-30	arbejde	B-verb.act	
+11-31	en	O	
+11-32	times	B-noun.time	
+11-33	tid	B-noun.time	
+11-34	og	O	
+11-35	så	O	
+11-36	sove	B-verb.phenomenon	
+11-37	videre	O	
+11-38	.	O	
+

@@ -1,0 +1,236 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Kriminalpolitieti Løgstør har endnu ikke kunne konstatere , at manden har søgt lægehjælp , og man beder derfor offentligheden om hjælp til at identificere gerningsmanden .
+1-1	Kriminalpolitiet	B-noun.institution	
+1-2	i	O	
+1-3	Løgstør	B-noun.location	
+1-4	har	O	
+1-5	endnu	O	
+1-6	ikke	O	
+1-7	kunne	O	
+1-8	konstatere	B-verb.cognition	
+1-9	,	O	
+1-10	at	O	
+1-11	manden	B-noun.person	
+1-12	har	O	
+1-13	søgt	B-verb.act	
+1-14	lægehjælp	B-noun.act	
+1-15	,	O	
+1-16	og	O	
+1-17	man	O	
+1-18	beder	B-verb.communication	
+1-19	derfor	O	
+1-20	offentligheden	B-noun.person	
+1-21	om	O	
+1-22	hjælp	B-noun.act	
+1-23	til	O	
+1-24	at	O	
+1-25	identificere	B-verb.cognition	
+1-26	gerningsmanden	B-noun.person	
+1-27	.	O	
+
+#id=2
+#text=Hanbeskrives som 25-30 år , ca. 175 cm. , almindelig af bygning , sort  kort hår , sorte øjne , stor krum næse og måske med overskæg .
+2-1	Han	O	
+2-2	beskrives	B-verb.communication	
+2-3	som	O	
+2-4	25-30	O	
+2-5	år	B-noun.time	
+2-6	,	O	
+2-7	ca.	O	
+2-8	175	O	
+2-9	cm.	O	
+2-10	,	O	
+2-11	almindelig	B-adj.all	
+2-12	af	O	
+2-13	bygning	B-noun.body	
+2-14	,	O	
+2-15	sort	B-adj.phys	
+2-16	kort	B-adj.phys	
+2-17	hår	B-noun.body	
+2-18	,	O	
+2-19	sorte	B-adj.phys	
+2-20	øjne	B-noun.body	
+2-21	,	O	
+2-22	stor	B-adj.phys	
+2-23	krum	B-adj.phys	
+2-24	næse	B-noun.body	
+2-25	og	O	
+2-26	måske	O	
+2-27	med	O	
+2-28	overskæg	B-noun.body	
+2-29	.	O	
+
+#id=3
+#text=Hanvar iført en muligvis rød t-shirt , en sort lædervest og grå bukser .
+3-1	Han	O	
+3-2	var	O	
+3-3	iført	B-verb.body	
+3-4	en	O	
+3-5	muligvis	O	
+3-6	rød	B-adj.phys	
+3-7	t-shirt	B-noun.artifact	
+3-8	,	O	
+3-9	en	O	
+3-10	sort	B-adj.phys	
+3-11	lædervest	B-noun.artifact	
+3-12	og	O	
+3-13	grå	B-adj.phys	
+3-14	bukser	B-noun.artifact	
+3-15	.	O	
+
+#id=4
+#text=Undersamtalen på restaurant Rio Bravo fortalte han kvinden , at han var iraner .
+4-1	Under	O	
+4-2	samtalen	B-noun.communication	
+4-3	på	O	
+4-4	restaurant	B-noun.building	
+4-5	Rio	I-noun.building	
+4-6	Bravo	I-noun.building	
+4-7	fortalte	B-verb.communication	
+4-8	han	O	
+4-9	kvinden	B-noun.person	
+4-10	,	O	
+4-11	at	O	
+4-12	han	O	
+4-13	var	B-verb.stative	
+4-14	iraner	B-noun.person	
+4-15	.	O	
+
+#id=5
+#text=IKKELIVSTRUENDE
+5-1	IKKE	O	
+5-2	LIVSTRUENDE	B-adj.all	
+
+#id=6
+#text=EmbedslægeIb Steen Andersen , Nordjyllands Amt , kan ikke umiddelbart sige , hvor farligt bidsåret er , men selv_om der er mange blodårer i lemmet , anser embedslægen ikke situationen for livstruende .
+6-1	Embedslæge	B-noun.person	
+6-2	Ib	B-noun.person	
+6-3	Steen	I-noun.person	
+6-4	Andersen	I-noun.person	
+6-5	,	O	
+6-6	Nordjyllands	B-noun.location	
+6-7	Amt	I-noun.location	
+6-8	,	O	
+6-9	kan	O	
+6-10	ikke	O	
+6-11	umiddelbart	O	
+6-12	sige	B-verb.communication	
+6-13	,	O	
+6-14	hvor	O	
+6-15	farligt	B-adj.all	
+6-16	bidsåret	B-noun.disease	
+6-17	er	B-verb.stative	
+6-18	,	O	
+6-19	men	O	
+6-20	selv_om	O	
+6-21	der	O	
+6-22	er	B-verb.stative	
+6-23	mange	O	
+6-24	blodårer	B-noun.body	
+6-25	i	O	
+6-26	lemmet	B-noun.body	
+6-27	,	O	
+6-28	anser	B-verb.cognition	
+6-29	embedslægen	B-noun.person	
+6-30	ikke	O	
+6-31	situationen	B-noun.state	
+6-32	for	O	
+6-33	livstruende	B-adj.all	
+6-34	.	O	
+
+#id=7
+#text="Det er jo slet ikke noget ukendt fænomen , at mænd er blevet bidt i nævnte legemsdel .
+7-1	"	O	
+7-2	Det	O	
+7-3	er	B-verb.stative	
+7-4	jo	O	
+7-5	slet	O	
+7-6	ikke	O	
+7-7	noget	O	
+7-8	ukendt	B-adj.all	
+7-9	fænomen	B-noun.phenomenon	
+7-10	,	O	
+7-11	at	O	
+7-12	mænd	B-noun.person	
+7-13	er	O	
+7-14	blevet	O	
+7-15	bidt	B-verb.act	
+7-16	i	O	
+7-17	nævnte	B-adj.all	
+7-18	legemsdel	B-noun.body	
+7-19	.	O	
+
+#id=8
+#text=Vihar endog eksempler på , at en del er blevet bidt af , uden at det har medført døden .
+8-1	Vi	O	
+8-2	har	B-verb.phenomenon	
+8-3	endog	O	
+8-4	eksempler	B-noun.abstract	
+8-5	på	O	
+8-6	,	O	
+8-7	at	O	
+8-8	en	O	
+8-9	del	B-noun.relation	
+8-10	er	O	
+8-11	blevet	O	
+8-12	bidt	B-verb.act	
+8-13	af	B-verb.COLL	
+8-14	,	O	
+8-15	uden	O	
+8-16	at	O	
+8-17	det	O	
+8-18	har	O	
+8-19	medført	B-verb.phenomenon	
+8-20	døden	B-noun.phenomenon	
+8-21	.	O	
+
+#id=9
+#text=Menmed mindre manden søger lægebehandling , så er der nok en risiko for , at han får en infektion i såret , for rent faktisk er der flere bakterier i et menneskebid end i for eksempel et hundebid , " siger Ib Steen Andersen .
+9-1	Men	O	
+9-2	med	O	
+9-3	mindre	O	
+9-4	manden	B-noun.person	
+9-5	søger	B-verb.act	
+9-6	lægebehandling	B-noun.act	
+9-7	,	O	
+9-8	så	O	
+9-9	er	B-verb.stative	
+9-10	der	O	
+9-11	nok	O	
+9-12	en	O	
+9-13	risiko	B-noun.abstract	
+9-14	for	O	
+9-15	,	O	
+9-16	at	O	
+9-17	han	O	
+9-18	får	B-verb.possession	
+9-19	en	O	
+9-20	infektion	B-noun.disease	
+9-21	i	O	
+9-22	såret	B-noun.phenomenon	
+9-23	,	O	
+9-24	for	O	
+9-25	rent	O	
+9-26	faktisk	O	
+9-27	er	B-verb.stative	
+9-28	der	O	
+9-29	flere	O	
+9-30	bakterier	B-noun.object	
+9-31	i	O	
+9-32	et	O	
+9-33	menneskebid	B-noun.act	
+9-34	end	O	
+9-35	i	O	
+9-36	for	O	
+9-37	eksempel	B-noun.abstract	
+9-38	et	O	
+9-39	hundebid	B-noun.act	
+9-40	,	O	
+9-41	"	O	
+9-42	siger	B-verb.communication	
+9-43	Ib	B-noun.person	
+9-44	Steen	I-noun.person	
+9-45	Andersen	I-noun.person	
+9-46	.	O	
+

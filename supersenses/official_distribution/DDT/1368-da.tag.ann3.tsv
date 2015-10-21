@@ -1,0 +1,215 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text="Jeg tror ikke , at en nordisk blokdannelse er en god idé .
+1-1	"	O	
+1-2	Jeg	O	
+1-3	tror	B-verb.cognition	
+1-4	ikke	O	
+1-5	,	O	
+1-6	at	O	
+1-7	en	O	
+1-8	nordisk	B-adj.social	
+1-9	blokdannelse	B-noun.act	
+1-10	er	B-verb.stative	
+1-11	en	O	
+1-12	god	B-adj.all	
+1-13	idé	B-noun.cognition	
+1-14	.	O	
+
+#id=2
+#text=Jegtror heller ikke , det vil kunne lade sig gøre , fordi vi på ganske mange områder , især inden for det økonomiske , ikke er særlig enige , " siger Uffe Ellemann-Jensen .
+2-1	Jeg	O	
+2-2	tror	B-verb.cognition	
+2-3	heller	O	
+2-4	ikke	O	
+2-5	,	O	
+2-6	det	O	
+2-7	vil	O	
+2-8	kunne	O	
+2-9	lade	B-verb.phenomenon	
+2-10	sig	B-verb.REFLPRON	
+2-11	gøre	B-verb.COLL	
+2-12	,	O	
+2-13	fordi	O	
+2-14	vi	O	
+2-15	på	O	
+2-16	ganske	O	
+2-17	mange	O	
+2-18	områder	B-noun.location	
+2-19	,	O	
+2-20	især	O	
+2-21	inden	O	
+2-22	for	O	
+2-23	det	O	
+2-24	økonomiske	B-noun.domain	
+2-25	,	O	
+2-26	ikke	O	
+2-27	er	B-verb.stative	
+2-28	særlig	O	
+2-29	enige	B-adj.mental	
+2-30	,	O	
+2-31	"	O	
+2-32	siger	B-verb.communication	
+2-33	Uffe	B-noun.person	
+2-34	Ellemann-Jensen	I-noun.person	
+2-35	.	O	
+
+#id=3
+#text=Mener støtten til Lars P. Gammelgaards nordiske tanker beskeden hos udenrigsministeren , er den det ikke hos Socialdemokratiet .
+3-1	Men	O	
+3-2	er	B-verb.stative	
+3-3	støtten	B-noun.act	
+3-4	til	O	
+3-5	Lars	B-noun.person	
+3-6	P.	I-noun.person	
+3-7	Gammelgaards	I-noun.person	
+3-8	nordiske	B-adj.social	
+3-9	tanker	B-noun.cognition	
+3-10	beskeden	B-adj.phys	
+3-11	hos	O	
+3-12	udenrigsministeren	B-noun.person	
+3-13	,	O	
+3-14	er	B-verb.stative	
+3-15	den	O	
+3-16	det	O	
+3-17	ikke	O	
+3-18	hos	O	
+3-19	Socialdemokratiet	B-noun.institution	
+3-20	.	O	
+
+#id=4
+#text="Jeg tror ikke , der vil være den store risiko for , at samarbejdet vil ende i en blokdannelse .
+4-1	"	O	
+4-2	Jeg	O	
+4-3	tror	B-verb.cognition	
+4-4	ikke	O	
+4-5	,	O	
+4-6	der	O	
+4-7	vil	O	
+4-8	være	B-verb.stative	
+4-9	den	O	
+4-10	store	B-adj.phys	
+4-11	risiko	B-noun.abstract	
+4-12	for	O	
+4-13	,	O	
+4-14	at	O	
+4-15	samarbejdet	B-noun.act	
+4-16	vil	O	
+4-17	ende	B-verb.change	
+4-18	i	O	
+4-19	en	O	
+4-20	blokdannelse	B-noun.act	
+4-21	.	O	
+
+#id=5
+#text=Dervil være områder , hvor de nordiske lande kan samarbejde og områder , hvor vi ikke kan .
+5-1	Der	O	
+5-2	vil	O	
+5-3	være	B-verb.stative	
+5-4	områder	B-noun.domain	
+5-5	,	O	
+5-6	hvor	O	
+5-7	de	O	
+5-8	nordiske	B-adj.social	
+5-9	lande	B-noun.person	
+5-10	kan	O	
+5-11	samarbejde	B-verb.act	
+5-12	og	O	
+5-13	områder	B-noun.domain	
+5-14	,	O	
+5-15	hvor	O	
+5-16	vi	O	
+5-17	ikke	O	
+5-18	kan	B-verb.social	
+5-19	.	O	
+
+#id=6
+#text=Såen samlet blok vil vi aldrig blive .
+6-1	Så	O	
+6-2	en	O	
+6-3	samlet	B-adj.all	
+6-4	blok	B-noun.person	
+6-5	vil	O	
+6-6	vi	O	
+6-7	aldrig	O	
+6-8	blive	B-verb.stative	
+6-9	.	O	
+
+#id=7
+#text=Menjeg tror , at de fleste danskeres hjerte banker for et nordisk samarbejde , mens deres hjerne støtter EF-samarbejdet .
+7-1	Men	O	
+7-2	jeg	O	
+7-3	tror	B-verb.cognition	
+7-4	,	O	
+7-5	at	O	
+7-6	de	O	
+7-7	fleste	O	
+7-8	danskeres	B-noun.person	
+7-9	hjerte	B-noun.feeling	
+7-10	banker	B-verb.emotion	
+7-11	for	B-verb.COLL	
+7-12	et	O	
+7-13	nordisk	B-adj.social	
+7-14	samarbejde	B-noun.act	
+7-15	,	O	
+7-16	mens	O	
+7-17	deres	O	
+7-18	hjerne	B-noun.cognition	
+7-19	støtter	B-verb.cognition	
+7-20	EF-samarbejdet	B-noun.act	
+7-21	.	O	
+
+#id=8
+#text=IEF har vi muligheden for at forene hjertet og hjernen , " siger den socialdemokratiske formand for Markedudvalget , Ivar  Nørgaard .
+8-1	I	O	
+8-2	EF	B-noun.institution	
+8-3	har	O	
+8-4	vi	O	
+8-5	muligheden	B-noun.abstract	
+8-6	for	O	
+8-7	at	O	
+8-8	forene	B-verb.change	
+8-9	hjertet	B-noun.feeling	
+8-10	og	O	
+8-11	hjernen	B-noun.cognition	
+8-12	,	O	
+8-13	"	O	
+8-14	siger	B-verb.communication	
+8-15	den	O	
+8-16	socialdemokratiske	B-adj.mental	
+8-17	formand	B-noun.person	
+8-18	for	O	
+8-19	Markedudvalget	B-noun.institution	
+8-20	,	O	
+8-21	Ivar	B-noun.person	
+8-22	Nørgaard	I-noun.person	
+8-23	.	O	
+
+#id=9
+#text=Statsministrenei de nordiske lande vil på en ekstraindkaldt session i Nordisk Råd til november fastlægge en linje for det nordiske samarbejde i EF .
+9-1	Statsministrene	B-noun.person	
+9-2	i	O	
+9-3	de	O	
+9-4	nordiske	B-adj.social	
+9-5	lande	B-noun.location	
+9-6	vil	O	
+9-7	på	O	
+9-8	en	O	
+9-9	ekstraindkaldt	B-adj.all	
+9-10	session	B-noun.event	
+9-11	i	O	
+9-12	Nordisk	B-noun.institution	
+9-13	Råd	I-noun.institution	
+9-14	til	O	
+9-15	november	B-noun.time	
+9-16	fastlægge	B-verb.cognition	
+9-17	en	O	
+9-18	linje	B-noun.motive	
+9-19	for	O	
+9-20	det	O	
+9-21	nordiske	B-adj.social	
+9-22	samarbejde	B-noun.act	
+9-23	i	O	
+9-24	EF	B-noun.institution	
+9-25	.	O	
+

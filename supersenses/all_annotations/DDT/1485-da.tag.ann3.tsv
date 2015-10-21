@@ -1,0 +1,237 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=DEhavde udviklet  en ny teori i Propagandaministeriet , der gik ud på , at det bedste tidspunkt for store meddelelser var ved slutningen af arbejdsdagen .
+1-1	DE	O	
+1-2	havde	O	
+1-3	udviklet	B-verb.change	
+1-4	en	O	
+1-5	ny	B-adj.time	
+1-6	teori	B-noun.cognition	
+1-7	i	O	
+1-8	Propagandaministeriet	B-noun.institution	
+1-9	,	O	
+1-10	der	O	
+1-11	gik	B-verb.stative	
+1-12	ud	B-verb.COLL	
+1-13	på	B-verb.COLL	
+1-14	,	O	
+1-15	at	O	
+1-16	det	O	
+1-17	bedste	B-adj.all	
+1-18	tidspunkt	B-noun.time	
+1-19	for	O	
+1-20	store	B-adj.phys	
+1-21	meddelelser	B-noun.communication	
+1-22	var	B-verb.stative	
+1-23	ved	O	
+1-24	slutningen	B-noun.time	
+1-25	af	O	
+1-26	arbejdsdagen	B-noun.time	
+1-27	.	O	
+
+#id=2
+#text=Påden måde blev nyheder modtaget i fællesskab i en kammeratlig ånd : der var ingen lejlighed til personlig skepsis eller defaitisme .
+2-1	På	O	
+2-2	den	O	
+2-3	måde	B-noun.abstract	
+2-4	blev	O	
+2-5	nyheder	B-noun.communication	
+2-6	modtaget	B-verb.possession	
+2-7	i	O	
+2-8	fællesskab	B-noun.state	
+2-9	i	O	
+2-10	en	O	
+2-11	kammeratlig	B-adj.social	
+2-12	ånd	B-noun.cognition	
+2-13	:	O	
+2-14	der	O	
+2-15	var	B-verb.stative	
+2-16	ingen	O	
+2-17	lejlighed	B-noun.time	
+2-18	til	O	
+2-19	personlig	B-adj.all	
+2-20	skepsis	B-noun.cognition	
+2-21	eller	O	
+2-22	defaitisme	B-noun.cognition	
+2-23	.	O	
+
+#id=3
+#text=Meddelelsernevar altid timet på en sådan måde , at arbejderne kunne gå hjem en smule tidligere - klokken ti minutter i fem i stedet for fem - hvilket fremkaldte en fornemmelse af tilfredshed , der underbevidst forbandt regimet med gode følelser .
+3-1	Meddelelserne	B-noun.communication	
+3-2	var	O	
+3-3	altid	O	
+3-4	timet	B-verb.cognition	
+3-5	på	O	
+3-6	en	O	
+3-7	sådan	B-adj.all	
+3-8	måde	B-noun.abstract	
+3-9	,	O	
+3-10	at	O	
+3-11	arbejderne	B-noun.person	
+3-12	kunne	O	
+3-13	gå	B-verb.motion	
+3-14	hjem	B-verb.PARTICLE	
+3-15	en	O	
+3-16	smule	O	
+3-17	tidligere	O	
+3-18	-	O	
+3-19	klokken	B-noun.artifact	
+3-20	ti	O	
+3-21	minutter	B-noun.time	
+3-22	i	O	
+3-23	fem	O	
+3-24	i	O	
+3-25	stedet	O	
+3-26	for	O	
+3-27	fem	O	
+3-28	-	O	
+3-29	hvilket	O	
+3-30	fremkaldte	B-verb.aspectual	
+3-31	en	O	
+3-32	fornemmelse	B-noun.feeling	
+3-33	af	O	
+3-34	tilfredshed	B-noun.feeling	
+3-35	,	O	
+3-36	der	O	
+3-37	underbevidst	O	
+3-38	forbandt	B-verb.phenomenon	
+3-39	regimet	B-noun.institution	
+3-40	med	O	
+3-41	gode	B-adj.all	
+3-42	følelser	B-noun.feeling	
+3-43	.	O	
+
+#id=4
+#text=Sådanvar det nu_til_dags .
+4-1	Sådan	O	
+4-2	var	B-verb.stative	
+4-3	det	O	
+4-4	nu_til_dags	B-noun.time	
+4-5	.	O	
+
+#id=5
+#text=Detsnehvide propagandapalads i Wilhelmstrasse beskæftigede flere psykologer end journalister .
+5-1	Det	O	
+5-2	snehvide	B-adj.phys	
+5-3	propagandapalads	B-noun.building	
+5-4	i	O	
+5-5	Wilhelmstrasse	B-noun.location	
+5-6	beskæftigede	B-verb.act	
+5-7	flere	O	
+5-8	psykologer	B-noun.person	
+5-9	end	O	
+5-10	journalister	B-noun.person	
+5-11	.	O	
+
+#id=6
+#text=PERSONALETi Werderscher Markt myldrede ind i kantinen , officerer og kontorister og skrivemaskinedamer og chauffører , skulder ved skulder i en legemliggørelse af det nationalsocialistiske ideal .
+6-1	PERSONALET	B-noun.person	
+6-2	i	O	
+6-3	Werderscher	B-noun.institution	
+6-4	Markt	I-noun.institution	
+6-5	myldrede	B-verb.motion	
+6-6	ind	O	
+6-7	i	O	
+6-8	kantinen	B-noun.building	
+6-9	,	O	
+6-10	officerer	B-noun.person	
+6-11	og	O	
+6-12	kontorister	B-noun.person	
+6-13	og	O	
+6-14	skrivemaskinedamer	B-noun.person	
+6-15	og	O	
+6-16	chauffører	B-noun.person	
+6-17	,	O	
+6-18	skulder	B-noun.body	
+6-19	ved	O	
+6-20	skulder	B-noun.body	
+6-21	i	O	
+6-22	en	O	
+6-23	legemliggørelse	B-noun.phenomenon	
+6-24	af	O	
+6-25	det	O	
+6-26	nationalsocialistiske	B-adj.social	
+6-27	ideal	B-noun.abstract	
+6-28	.	O	
+
+#id=7
+#text=Defire tv-skærme , én i hvert hjørne , viste et kort over Riget med et påklistret hagekors , til akkompagnement af  udvalg af Beethoven .
+7-1	De	O	
+7-2	fire	O	
+7-3	tv-skærme	B-noun.artifact	
+7-4	,	O	
+7-5	én	O	
+7-6	i	O	
+7-7	hvert	O	
+7-8	hjørne	B-noun.location	
+7-9	,	O	
+7-10	viste	B-verb.communication	
+7-11	et	O	
+7-12	kort	B-noun.artifact	
+7-13	over	O	
+7-14	Riget	B-noun.building	
+7-15	med	O	
+7-16	et	O	
+7-17	påklistret	B-adj.all	
+7-18	hagekors	B-noun.artifact	
+7-19	,	O	
+7-20	til	O	
+7-21	akkompagnement	B-noun.communication	
+7-22	af	O	
+7-23	udvalg	B-noun.group	
+7-24	af	O	
+7-25	Beethoven	B-noun.communication	
+7-26	.	O	
+
+#id=8
+#text=Nuog da brød en mandlig speaker ind , helt eksalteret : " Det tyske folk !
+8-1	Nu	O	
+8-2	og	O	
+8-3	da	O	
+8-4	brød	B-verb.act	
+8-5	en	O	
+8-6	mandlig	B-adj.phys	
+8-7	speaker	B-noun.person	
+8-8	ind	B-verb.PARTICLE	
+8-9	,	O	
+8-10	helt	O	
+8-11	eksalteret	B-adj.all	
+8-12	:	O	
+8-13	"	O	
+8-14	Det	O	
+8-15	tyske	B-adj.social	
+8-16	folk	B-noun.person	
+8-17	!	O	
+
+#id=9
+#text=Forberedjer på en vigtig meddelelse !
+9-1	Forbered	B-verb.change	
+9-2	jer	O	
+9-3	på	O	
+9-4	en	O	
+9-5	vigtig	B-adj.all	
+9-6	meddelelse	B-noun.communication	
+9-7	!	O	
+
+#id=10
+#text="I gamle dage , over radioen , fik man kun musikken .
+10-1	"	O	
+10-2	I	O	
+10-3	gamle	B-adj.time	
+10-4	dage	B-noun.time	
+10-5	,	O	
+10-6	over	O	
+10-7	radioen	B-noun.artifact	
+10-8	,	O	
+10-9	fik	B-verb.possession	
+10-10	man	O	
+10-11	kun	O	
+10-12	musikken	B-noun.communication	
+10-13	.	O	
+
+#id=11
+#text=Fremskridtigen .
+11-1	Fremskridt	B-noun.event	
+11-2	igen	O	
+11-3	.	O	
+

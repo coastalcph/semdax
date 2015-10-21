@@ -1,0 +1,3040 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Lexicalsample | Tag
+#id=1
+#text=Alt imens danske, amerikanske og mange andre vestlige landes soldater udkæmper blodige slag lige på den anden side af den pakistansk-afghanske grænse for at holde selvsamme Taleban nede.
+1-1	Alt	alt	D-:----:--:u---	_	
+1-2	imens	imens	D-:----:--:u---	_	
+1-3	danske	dansk	AC:p#u#:--:p---	_	
+1-4	,	,	ZD	_	
+1-5	amerikanske	amerikansk	AC:p#u#:--:p---	_	
+1-6	og	og	CC:----:--:----	_	
+1-7	mange	mangen	AC:p#u#:--:p---	_	
+1-8	andre	anden	PI:p-u#:--:----	_	
+1-9	vestlige	vestlig	AC:p#u#:--:p---	_	
+1-10	landes	land	NC:pig#:--:----	_	
+1-11	soldater	soldat	NC:piu#:--:----	_	
+1-12	udkæmper	udkæmpe	VF:----:sa:----	_	
+1-13	blodige	blodig	AC:p#u#:--:p---	_	
+1-14	slag	slag	NC:piu#:--:----	slag_2_2b_2c	
+1-15	lige	lige	D-:----:--:u---	_	
+1-16	på	på	T-:----:--:----	_	
+1-17	den	den	PM:s-uc:--:----	_	
+1-18	anden	to	LO:--uc:--:----	_	
+1-19	side	side	NC:siuc:--:----	_	
+1-20	af	af	T-:----:--:----	_	
+1-21	den	den	PM:s-uc:--:----	_	
+1-22	pakistansk	pakistansk	AW:----:--:----	_	
+1-23	-	-	ZH	_	
+1-24	afghanske	afghansk	AC:sdu#:--:p---	_	
+1-25	grænse	grænse	NC:siuc:--:----	_	
+1-26	for	for	T-:----:--:----	_	
+1-27	at	at	UI:----:--:----	_	
+1-28	holde	holde	VI:----:-a:----	_	
+1-29	selvsamme	selvsamme	AC:§§u§:--:p---	_	
+1-30	Taleban	Taleban	NP:siu#:--:----	_	
+1-31	nede	nede	D-:----:--:u---	_	
+1-32	.	.	ZP	_	
+
+#id=2
+#text=Slag:
+2-1	Slag	slag	NC:siun:--:----	slag_1_1c	
+2-2	:	:	ZP	_	
+
+#id=3
+#text= Og her formår Fupz med stor økonomi og præcision, og tilmed med en dosis karsk humor, at fremlægge dels aksen fortid-fremtid, dels de slag og brud, der skal slå hul på glasvæggen, gennem sine tolv kapitler.
+3-1	Og	og	CC:----:--:----	_	
+3-2	her	her	D-:----:--:u---	_	
+3-3	formår	formå	VF:----:sa:----	_	
+3-4	Fupz	Fupz	NP:siu#:--:----	_	
+3-5	med	med	T-:----:--:----	_	
+3-6	stor	stor	AC:siuc:--:p---	_	
+3-7	økonomi	økonomi	NC:siuc:--:----	_	
+3-8	og	og	CC:----:--:----	_	
+3-9	præcision	præcision	NC:siuc:--:----	_	
+3-10	,	,	ZD	_	
+3-11	og	og	CC:----:--:----	_	
+3-12	tilmed	tilmed	D-:----:--:u---	_	
+3-13	med	med	T-:----:--:----	_	
+3-14	en	en	PI:s-uc:--:----	_	
+3-15	dosis	dosis	NC:siuc:--:----	_	
+3-16	karsk	karsk	AC:siuc:--:p---	_	
+3-17	humor	humor	-:----	_	
+3-18	,	,	ZD	_	
+3-19	at	at	UI:----:--:----	_	
+3-20	fremlægge	fremlægge	VI:----:-a:----	_	
+3-21	dels	dels	D-:----:--:u---	_	
+3-22	aksen	akse	NC:sduc:--:----	_	
+3-23	fortid	fortid	NW:----:--:----	_	
+3-24	-	-	ZH	_	
+3-25	fremtid	fremtid	NC:siuc:--:----	_	
+3-26	,	,	ZD	_	
+3-27	dels	dels	D-:----:--:u---	_	
+3-28	de	den	PM:p-u#:--:----	_	
+3-29	slag	slag	NC:piu#:--:----	slag_1a	
+3-30	og	og	CC:----:--:----	_	
+3-31	brud	brud	NC:piu#:--:----	_	
+3-32	,	,	ZD	_	
+3-33	der	der	US:----:--:----	_	
+3-34	skal	skulle	VF:----:sa:----	_	
+3-35	slå	slå	VI:----:-a:----	_	
+3-36	hul	hul	AC:siuc:--:p---	_	
+3-37	på	på	T-:----:--:----	_	
+3-38	glasvæggen	glasvæg	NC:sduc:--:----	_	
+3-39	,	,	ZD	_	
+3-40	gennem	gennem	T-:----:--:----	_	
+3-41	sine	sin	:-3ys	_	
+3-42	tolv	tolv	LC:--u-:--:----	_	
+3-43	kapitler	kapitel	NC:piu#:--:----	_	
+3-44	.	.	ZP	_	
+
+#id=4
+#text=Udfordringen er, at det er netop er det, at fødderne rammer underlaget for hvert skridt og giver et slag til knoglerne, som dermed stimulerer dem til at gøre sig stærkere.
+4-1	Udfordringen	udfordring	NC:sduc:--:----	_	
+4-2	er	være	VF:----:sa:----	_	
+4-3	,	,	ZD	_	
+4-4	at	at	CS:----:--:----	_	
+4-5	det	det	PP:s-un:--:-3n-	_	
+4-6	er	være	VF:----:sa:----	_	
+4-7	netop	netop	D-:----:--:u---	_	
+4-8	er	være	VF:----:sa:----	_	
+4-9	det	det	PP:s-un:--:-3n-	_	
+4-10	,	,	ZD	_	
+4-11	at	at	CS:----:--:----	_	
+4-12	fødderne	fod	NC:pdu#:--:----	_	
+4-13	rammer	ramme	VF:----:sa:----	_	
+4-14	underlaget	underlag	NC:sdun:--:----	_	
+4-15	for	for	T-:----:--:----	_	
+4-16	hvert	hver	PI:s-un:--:----	_	
+4-17	skridt	skridt	NC:siun:--:----	_	
+4-18	og	og	CC:----:--:----	_	
+4-19	giver	give	VF:----:sa:----	_	
+4-20	et	en	PI:s-un:--:----	_	
+4-21	slag	slag	NC:siun:--:----	slag_1a	
+4-22	til	til	T-:----:--:----	_	
+4-23	knoglerne	knogle	NC:pdu#:--:----	_	
+4-24	,	,	ZD	_	
+4-25	som	som	US:----:--:----	_	
+4-26	dermed	dermed	D-:----:--:u---	_	
+4-27	stimulerer	stimulere	VF:----:sa:----	_	
+4-28	dem	de	PP:p-u#:--:-3n-	_	
+4-29	til	til	T-:----:--:----	_	
+4-30	at	at	UI:----:--:----	_	
+4-31	gøre	gøre	VI:----:-a:----	_	
+4-32	sig	sig	PP:#-u#:--:-3y-	_	
+4-33	stærkere	stærk	AD:----:--:c---	_	
+4-34	.	.	ZP	_	
+
+#id=5
+#text=Alligevel synes jeg nu godt, at de kunne slå et slag for sig selv.
+5-1	Alligevel	alligevel	D-:----:--:u---	_	
+5-2	synes	syne	VF:----:sp:----	_	
+5-3	jeg	jeg	PP:s-nc:--:-1n-	_	
+5-4	nu	nu	D-:----:--:u---	_	
+5-5	godt	god	AD:----:--:p---	_	
+5-6	,	,	ZD	_	
+5-7	at	at	CS:----:--:----	_	
+5-8	de	de	PP:p-n#:--:-3n-	_	
+5-9	kunne	kunne	VF:----:ta:----	_	
+5-10	slå	slå	VI:----:-a:----	_	
+5-11	et	en	PI:s-un:--:----	_	
+5-12	slag	slag	NC:siun:--:----	slag_F_slå et slag	
+5-13	for	for	T-:----:--:----	_	
+5-14	sig	sig	PP:#-u#:--:-3y-	_	
+5-15	selv	selv	PM:#-u#:--:----	_	
+5-16	.	.	ZP	_	
+
+#id=6
+#text= I hvert fald i den varme, skarpe og særdeles underholdende film, der blev resultatet, da Dirty Harry gik på pension og som den vrantne Walt valgte at slå et - hårdt - slag for multikulturalisme og familieværdier.
+6-1	I	i	T-:----:--:----	_	
+6-2	hvert	hver	PI:s-un:--:----	_	
+6-3	fald	fald	NC:siun:--:----	_	
+6-4	i	i	T-:----:--:----	_	
+6-5	den	den	PM:s-uc:--:----	_	
+6-6	varme	varme	NC:siuc:--:----	_	
+6-7	,	,	ZD	_	
+6-8	skarpe	skarp	AC:p#u#:--:p---	_	
+6-9	og	og	CC:----:--:----	_	
+6-10	særdeles	særdeles	D-:----:--:u---	_	
+6-11	underholdende	underholde	VP:##u#:s-:----	_	
+6-12	film	film	NC:piu#:--:----	_	
+6-13	,	,	ZD	_	
+6-14	der	der	US:----:--:----	_	
+6-15	blev	blive	VF:----:ta:----	_	
+6-16	resultatet	resultat	NC:sdun:--:----	_	
+6-17	,	,	ZD	_	
+6-18	da	da	CS:----:--:----	_	
+6-19	Dirty	Dirty	NP:siu#:--:----	_	
+6-20	Harry	Harry	NP:siu#:--:----	_	
+6-21	gik	gå	VF:----:ta:----	_	
+6-22	på	på	T-:----:--:----	_	
+6-23	pension	pension	NC:siuc:--:----	_	
+6-24	og	og	CC:----:--:----	_	
+6-25	som	som	US:----:--:----	_	
+6-26	den	den	PM:s-uc:--:----	_	
+6-27	vrantne	vranten	AC:sdu#:--:p---	_	
+6-28	Walt	Walt	NP:siu#:--:----	_	
+6-29	valgte	vælge	VF:----:ta:----	_	
+6-30	at	at	CS:----:--:----	_	
+6-31	slå	slå	VM:----:--:----	_	
+6-32	et	et	LW:----:--:----	_	
+6-33	-	-	ZH	_	
+6-34	hårdt	hård	AW:----:--:----	_	
+6-35	-	-	ZH	_	
+6-36	slag	slag	NC:siun:--:----	slag_F_slå et slag	
+6-37	for	for	T-:----:--:----	_	
+6-38	multikulturalisme	multikulturalisme	NC:siuc:--:----	_	
+6-39	og	og	CC:----:--:----	_	
+6-40	familieværdier	familieværdi	NC:piu#:--:----	_	
+6-41	.	.	ZP	_	
+
+#id=7
+#text=Det er flere år siden, at republikken har oplevet større militære slag, men så sent som i sidste uge meldte russiske styrker, at de havde forhindret et større terrorangreb ved at afsløre et våbenlager med 60 kilo sprængstof.
+7-1	Det	det	PP:s-un:--:-3n-	_	
+7-2	er	være	VF:----:sa:----	_	
+7-3	flere	mange	AC:##u#:--:c---	_	
+7-4	år	år	NC:piu#:--:----	_	
+7-5	siden	siden	D-:----:--:u---	_	
+7-6	,	,	ZD	_	
+7-7	at	at	CS:----:--:----	_	
+7-8	republikken	republik	NC:sduc:--:----	_	
+7-9	har	have	VF:----:sa:----	_	
+7-10	oplevet	opleve	VT:siu#:t-:----	_	
+7-11	større	stor	AD:----:--:c---	_	
+7-12	militære	militær	AC:p#u#:--:p---	_	
+7-13	slag	slag	NC:piu#:--:----	slag_2_2b_2c	
+7-14	,	,	ZD	_	
+7-15	men	men	CC:----:--:----	_	
+7-16	så	så	D-:----:--:u---	_	
+7-17	sent	sen	AD:----:--:p---	_	
+7-18	som	som	US:----:--:----	_	
+7-19	i	i	T-:----:--:----	_	
+7-20	sidste	sidste	AC:§§u§:--:p---	_	
+7-21	uge	uge	NC:siuc:--:----	_	
+7-22	meldte	melde	VF:----:ta:----	_	
+7-23	russiske	russisk	AC:p#u#:--:p---	_	
+7-24	styrker	styrke	NC:piu#:--:----	_	
+7-25	,	,	ZD	_	
+7-26	at	at	CS:----:--:----	_	
+7-27	de	de	PP:p-n#:--:-3n-	_	
+7-28	havde	have	VF:----:ta:----	_	
+7-29	forhindret	forhindre	VT:siu#:t-:----	_	
+7-30	et	en	PI:s-un:--:----	_	
+7-31	større	stor	AC:##u#:--:c---	_	
+7-32	terrorangreb	terrorangreb	NC:siun:--:----	_	
+7-33	ved	ved	T-:----:--:----	_	
+7-34	at	at	UI:----:--:----	_	
+7-35	afsløre	afsløre	VI:----:-a:----	_	
+7-36	et	en	PI:s-un:--:----	_	
+7-37	våbenlager	våbenlager	NC:siun:--:----	_	
+7-38	med	med	T-:----:--:----	_	
+7-39	60	60	LC:--u-:--:----	_	
+7-40	kilo	kilo	NC:piu#:--:----	_	
+7-41	sprængstof	sprængstof	NC:siun:--:----	_	
+7-42	.	.	ZP	_	
+
+#id=8
+#text=Derfor slår jeg  nu et slag for, at denne debat tages op, før vi lukker nye store lande ind, og det kan skabe konflikter frem for enighed på lang sigt.
+8-1	Derfor	derfor	D-:----:--:u---	_	
+8-2	slår	slå	VF:----:sa:----	_	
+8-3	jeg	jeg	PP:s-nc:--:-1n-	_	
+8-4	nu	nu	D-:----:--:u---	_	
+8-5	et	en	PI:s-un:--:----	_	
+8-6	slag	slag	NC:siun:--:----	slag_F_slå et slag	
+8-7	for	for	T-:----:--:----	_	
+8-8	,	,	ZD	_	
+8-9	at	at	CS:----:--:----	_	
+8-10	denne	denne	PM:s-uc:--:----	_	
+8-11	debat	debat	NC:siuc:--:----	_	
+8-12	tages	tage	VF:----:sp:----	_	
+8-13	op	op	D-:----:--:u---	_	
+8-14	,	,	ZD	_	
+8-15	før	før	CS:----:--:----	_	
+8-16	vi	vi	PP:p-nc:--:-1n-	_	
+8-17	lukker	lukke	VF:----:sa:----	_	
+8-18	nye	ny	AC:p#u#:--:p---	_	
+8-19	store	stor	AC:p#u#:--:p---	_	
+8-20	lande	land	NC:piu#:--:----	_	
+8-21	ind	ind	D-:----:--:u---	_	
+8-22	,	,	ZD	_	
+8-23	og	og	CC:----:--:----	_	
+8-24	det	det	PP:s-un:--:-3n-	_	
+8-25	kan	kunne	VF:----:sa:----	_	
+8-26	skabe	skabe	VI:----:-a:----	_	
+8-27	konflikter	konflikt	NC:piu#:--:----	_	
+8-28	frem	frem	D-:----:--:u---	_	
+8-29	for	for	T-:----:--:----	_	
+8-30	enighed	enighed	NC:siuc:--:----	_	
+8-31	på	på	T-:----:--:----	_	
+8-32	lang	lang	AC:siuc:--:p---	_	
+8-33	sigt	sigt	NC:siuc:--:----	_	
+8-34	.	.	ZP	_	
+
+#id=9
+#text=Begge begyndte dagen i fi-re under par med syv slag frem til de førende, og da de samtidig fik fornøjelsen af at gå de 18 huller i hinandens selskab, hvorfor så ikke lave endnu en mellemregning i deres årelange rivalisering.
+9-1	Begge	begge	PM:p-u#:--:----	_	
+9-2	begyndte	begynde	VF:----:ta:----	_	
+9-3	dagen	dag	NC:sduc:--:----	_	
+9-4	i	i	T-:----:--:----	_	
+9-5	fi	fi	NW:----:--:----	_	
+9-6	-	-	ZH	_	
+9-7	re	re	NC:siun:--:----	_	
+9-8	under	under	T-:----:--:----	_	
+9-9	par	par	NC:siun:--:----	_	
+9-10	med	med	T-:----:--:----	_	
+9-11	syv	syv	LC:--u-:--:----	_	
+9-12	slag	slag	NC:piu#:--:----	slag_1_1c	
+9-13	frem	frem	D-:----:--:u---	_	
+9-14	til	til	T-:----:--:----	_	
+9-15	de	den	PM:p-u#:--:----	_	
+9-16	førende	førende	AC:§§u§:--:p---	_	
+9-17	,	,	ZD	_	
+9-18	og	og	CC:----:--:----	_	
+9-19	da	da	CS:----:--:----	_	
+9-20	de	de	PP:p-n#:--:-3n-	_	
+9-21	samtidig	samtidig	D-:----:--:u---	_	
+9-22	fik	få	VF:----:ta:----	_	
+9-23	fornøjelsen	fornøjelse	NC:sduc:--:----	_	
+9-24	af	af	T-:----:--:----	_	
+9-25	at	at	UI:----:--:----	_	
+9-26	gå	gå	VI:----:-a:----	_	
+9-27	de	den	PM:p-u#:--:----	_	
+9-28	18	18	LC:--u-:--:----	_	
+9-29	huller	hul	NC:piu#:--:----	_	
+9-30	i	i	T-:----:--:----	_	
+9-31	hinandens	hinandens	XY:----:--:----	_	
+9-32	selskab	selskab	NC:siun:--:----	_	
+9-33	,	,	ZD	_	
+9-34	hvorfor	hvorfor	D-:----:--:u---	_	
+9-35	så	så	D-:----:--:u---	_	
+9-36	ikke	ikke	D-:----:--:u---	_	
+9-37	lave	lave	VI:----:-a:----	_	
+9-38	endnu	endnu	D-:----:--:u---	_	
+9-39	en	en	PI:s-uc:--:----	_	
+9-40	mellemregning	mellemregning	NC:siuc:--:----	_	
+9-41	i	i	T-:----:--:----	_	
+9-42	deres	deres	PO:#--#:--:-3np	_	
+9-43	årelange	årelang	AC:sdu#:--:p---	_	
+9-44	rivalisering	rivalisering	NC:siuc:--:----	_	
+9-45	.	.	ZP	_	
+
+#id=10
+#text= Efter otte huller var den 38-årige californier seks under for dagen og 10 under i alt - bare et slag efter de førende.
+10-1	Efter	efter	T-:----:--:----	_	
+10-2	otte	otte	LC:--u-:--:----	_	
+10-3	huller	hul	NC:piu#:--:----	_	
+10-4	var	være	VF:----:ta:----	_	
+10-5	den	den	PM:s-uc:--:----	_	
+10-6	38	38	LW:----:--:----	_	
+10-7	-	-	ZH	_	
+10-8	årige	årig	AC:sdu#:--:p---	_	
+10-9	californier	californier	NC:siuc:--:----	_	
+10-10	seks	seks	LC:--u-:--:----	_	
+10-11	under	under	T-:----:--:----	_	
+10-12	for	for	T-:----:--:----	_	
+10-13	dagen	dag	NC:sduc:--:----	_	
+10-14	og	og	CC:----:--:----	_	
+10-15	10	10	LC:--u-:--:----	_	
+10-16	under	under	T-:----:--:----	_	
+10-17	i	i	T-:----:--:----	_	
+10-18	alt	al	PI:s-un:--:----	_	
+10-19	-	-	NC:piu#:--:----	_	
+10-20	bare	bare	D-:----:--:u---	_	
+10-21	et	en	PI:s-un:--:----	_	
+10-22	slag	slag	NC:siun:--:----	slag_1_1c	
+10-23	efter	efter	T-:----:--:----	_	
+10-24	de	den	PM:p-u#:--:----	_	
+10-25	førende	førende	AC:§§u§:--:p---	_	
+10-26	.	.	ZP	_	
+
+#id=11
+#text= Han sluttede som nummer fem i ni slag under par og tre efter førstepladsen, mens Tiger Woods blev en delt nummer seks, et slag dårligere end Mickelson.
+11-1	Han	han	PP:s-nc:--:-3n-	_	
+11-2	sluttede	slutte	VF:----:ta:----	_	
+11-3	som	som	US:----:--:----	_	
+11-4	nummer	nummer	NC:siun:--:----	_	
+11-5	fem	fem	LC:--u-:--:----	_	
+11-6	i	i	T-:----:--:----	_	
+11-7	ni	ni	LC:--u-:--:----	_	
+11-8	slag	slag	NC:piu#:--:----	slag_1_1c	
+11-9	under	under	T-:----:--:----	_	
+11-10	par	par	NC:piu#:--:----	_	
+11-11	og	og	CC:----:--:----	_	
+11-12	tre	tre	LC:--u-:--:----	_	
+11-13	efter	efter	T-:----:--:----	_	
+11-14	førstepladsen	førsteplads	NC:sduc:--:----	_	
+11-15	,	,	ZD	_	
+11-16	mens	mens	CS:----:--:----	_	
+11-17	Tiger	tiger	NC:siuc:--:----	_	
+11-18	Woods	Wood	NP:sig#:--:----	_	
+11-19	blev	blive	VF:----:ta:----	_	
+11-20	en	en	PI:s-uc:--:----	_	
+11-21	delt	dele	VT:siu#:t-:----	_	
+11-22	nummer	nummer	NC:siun:--:----	_	
+11-23	seks	seks	LC:--u-:--:----	_	
+11-24	,	,	ZD	_	
+11-25	et	en	PI:s-un:--:----	_	
+11-26	slag	slag	NC:siun:--:----	_	
+11-27	dårligere	dårlig	AD:----:--:c---	_	
+11-28	end	end	CS:----:--:----	_	
+11-29	Mickelson	Mickelson	NP:siu#:--:----	_	
+11-30	.	.	ZP	_	
+
+#id=12
+#text=Men det er helt uforståeligt, at hverken undervisningsministeren eller kulturministeren har slået et slag for, at børn og unge også får mulighed for at få kvalificeret indsigt i arkitekturens verden.
+12-1	Men	men	CC:----:--:----	_	
+12-2	det	det	PP:s-un:--:-3n-	_	
+12-3	er	være	VF:----:sa:----	_	
+12-4	helt	hel	AD:----:--:p---	_	
+12-5	uforståeligt	uforståelig	AC:siun:--:p---	_	
+12-6	,	,	ZD	_	
+12-7	at	at	CS:----:--:----	_	
+12-8	hverken	hverken	D-:----:--:u---	_	
+12-9	undervisningsministeren	undervisningsminister	NC:sduc:--:----	_	
+12-10	eller	eller	CC:----:--:----	_	
+12-11	kulturministeren	kulturminister	NC:sduc:--:----	_	
+12-12	har	have	VF:----:sa:----	_	
+12-13	slået	slå	VT:siu#:t-:----	_	
+12-14	et	en	PI:s-un:--:----	_	
+12-15	slag	slag	NC:siun:--:----	slag_F_slå et slag	
+12-16	for	for	T-:----:--:----	_	
+12-17	,	,	ZD	_	
+12-18	at	at	CS:----:--:----	_	
+12-19	børn	barn	NC:piu#:--:----	_	
+12-20	og	og	CC:----:--:----	_	
+12-21	unge	unge	NC:siuc:--:----	_	
+12-22	også	også	D-:----:--:u---	_	
+12-23	får	få	VF:----:sa:----	_	
+12-24	mulighed	mulighed	NC:siuc:--:----	_	
+12-25	for	for	T-:----:--:----	_	
+12-26	at	at	UI:----:--:----	_	
+12-27	få	få	VI:----:-a:----	_	
+12-28	kvalificeret	kvalificere	VT:siu#:t-:----	_	
+12-29	indsigt	indsigt	NC:siuc:--:----	_	
+12-30	i	i	T-:----:--:----	_	
+12-31	arkitekturens	arkitektur	NC:sdgc:--:----	_	
+12-32	verden	verden	NC:siuc:--:----	_	
+12-33	.	.	ZP	_	
+
+#id=13
+#text= Jan Lindhardt slog et slag for pinsen, som færre ved, hvad går ud på, ved at sige, at vi skulle spise pinsefisk for at blive mindet om Helligånden".
+13-1	Jan	Jan	NP:siu#:--:----	_	
+13-2	Lindhardt	Lindhardt	NP:siu#:--:----	_	
+13-3	slog	slå	VF:----:ta:----	_	
+13-4	et	en	PI:s-un:--:----	_	
+13-5	slag	slag	NC:siun:--:----	slag_F_slå et slag	
+13-6	for	for	T-:----:--:----	_	
+13-7	pinsen	pinse	NC:sduc:--:----	_	
+13-8	,	,	ZD	_	
+13-9	som	som	US:----:--:----	_	
+13-10	færre	få	AD:----:--:c---	_	
+13-11	ved	ved	T-:----:--:----	_	
+13-12	,	,	ZD	_	
+13-13	hvad	hvad	PR:s-u#:--:----	_	
+13-14	går	gå	VF:----:sa:----	_	
+13-15	ud	ud	D-:----:--:u---	_	
+13-16	på	på	T-:----:--:----	_	
+13-17	,	,	ZD	_	
+13-18	ved	ved	T-:----:--:----	_	
+13-19	at	at	UI:----:--:----	_	
+13-20	sige	sige	VI:----:-a:----	_	
+13-21	,	,	ZD	_	
+13-22	at	at	CS:----:--:----	_	
+13-23	vi	vi	PP:p-nc:--:-1n-	_	
+13-24	skulle	skulle	VF:----:ta:----	_	
+13-25	spise	spise	VI:----:-a:----	_	
+13-26	pinsefisk	pinsefisk	NC:siuc:--:----	_	
+13-27	for	for	T-:----:--:----	_	
+13-28	at	at	UI:----:--:----	_	
+13-29	blive	blive	VI:----:-a:----	_	
+13-30	mindet	minde	NC:sdun:--:----	_	
+13-31	om	om	T-:----:--:----	_	
+13-32	Helligånden	helligånd	NC:sduc:--:----	_	
+13-33	"	"	ZI	_	
+13-34	.	.	ZP	_	
+
+#id=14
+#text= Allan og islamisterne tabte slaget og flygtede til grænsen til Kenya, hvor de forsøgte at gemme sig for de etiopiske styrker.
+14-1	Allan	Allan	NP:siu#:--:----	_	
+14-2	og	og	CC:----:--:----	_	
+14-3	islamisterne	islamist	NC:pdu#:--:----	_	
+14-4	tabte	tabe	VF:----:ta:----	_	
+14-5	slaget	slag	NC:sdun:--:----	slag_2_2b_2c	
+14-6	og	og	CC:----:--:----	_	
+14-7	flygtede	flygte	VF:----:ta:----	_	
+14-8	til	til	T-:----:--:----	_	
+14-9	grænsen	grænse	NC:sduc:--:----	_	
+14-10	til	til	T-:----:--:----	_	
+14-11	Kenya	Kenya	NP:siu#:--:----	_	
+14-12	,	,	ZD	_	
+14-13	hvor	hvor	D-:----:--:u---	_	
+14-14	de	de	PP:p-n#:--:-3n-	_	
+14-15	forsøgte	forsøge	VF:----:ta:----	_	
+14-16	at	at	UI:----:--:----	_	
+14-17	gemme	gemme	VI:----:-a:----	_	
+14-18	sig	sig	PP:#-u#:--:-3y-	_	
+14-19	for	for	T-:----:--:----	_	
+14-20	de	den	PM:p-u#:--:----	_	
+14-21	etiopiske	etiopisk	u#:--:p---	_	
+14-22	styrker	styrke	NC:piu#:--:----	_	
+14-23	.	.	ZP	_	
+
+#id=15
+#text= Bredfeldt, holdt en kort Tale, hvori han opfordrede til Flid og Udholdenhed, og derefter hejstes Standerne paa Slaget 2.
+15-1	Bredfeldt	Bredfeldt	NP:siu#:--:----	_	
+15-2	,	,	ZD	_	
+15-3	holdt	holde	VF:----:ta:----	_	
+15-4	en	en	PI:s-uc:--:----	_	
+15-5	kort	kort	AC:siu§:--:p---	_	
+15-6	Tale	tale	NC:siuc:--:----	_	
+15-7	,	,	ZD	_	
+15-8	hvori	hvori	D-:----:--:u---	_	
+15-9	han	han	PP:s-nc:--:-3n-	_	
+15-10	opfordrede	opfordre	VF:----:ta:----	_	
+15-11	til	til	T-:----:--:----	_	
+15-12	Flid	flid	NC:siuc:--:----	_	
+15-13	og	og	CC:----:--:----	_	
+15-14	Udholdenhed	udholdenhed	NC:siuc:--:----	_	
+15-15	,	,	ZD	_	
+15-16	og	og	CC:----:--:----	_	
+15-17	derefter	derefter	D-:----:--:u---	_	
+15-18	hejstes	hejse	VF:----:tp:----	_	
+15-19	Standerne	der	NC:pdu#:--:----	_	
+15-20	paa	på	T-:----:--:----	_	
+15-21	Slaget	slag	NC:sdun:--:----	slag_F_på slaget	
+15-22	2	2	LC:--u-:--:----	_	
+15-23	.	.	ZP	_	
+
+#id=16
+#text= "Et slag på tasken er en halv milliard", siger Anne Vang.
+16-1	"	"	ZI	_	
+16-2	Et	en	PI:s-un:--:----	_	
+16-3	slag	slag	NC:siun:--:----	slag_F_slag på tasken	
+16-4	på	på	T-:----:--:----	_	
+16-5	tasken	taske	NC:sduc:--:----	_	
+16-6	er	være	VF:----:sa:----	_	
+16-7	en	en	PI:s-uc:--:----	_	
+16-8	halv	halv	AC:siuc:--:p---	_	
+16-9	milliard	milliard	NC:siuc:--:----	_	
+16-10	"	"	ZI	_	
+16-11	,	,	ZD	_	
+16-12	siger	sige	VF:----:sa:----	_	
+16-13	Anne	Anne	NP:siu#:--:----	_	
+16-14	Vang	vang	NC:siuc:--:----	_	
+16-15	.	.	ZP	_	
+
+#id=17
+#text=En mand var blevet angrebet med slag og spark og kastet ind i en kassevogn, hvor han blev kørt ud i en  nærliggende skov.
+17-1	En	en	PI:s-uc:--:----	_	
+17-2	mand	mand	NC:siuc:--:----	_	
+17-3	var	være	VF:----:ta:----	_	
+17-4	blevet	blive	VT:siu#:t-:----	_	
+17-5	angrebet	angribe	VT:siu#:t-:----	_	
+17-6	med	med	T-:----:--:----	_	
+17-7	slag	slag	NC:siun:--:----	slag_1_1c	
+17-8	og	og	CC:----:--:----	_	
+17-9	spark	spark	--:----	_	
+17-10	og	og	CC:----:--:----	_	
+17-11	kastet	kast	NC:sdun:--:----	_	
+17-12	ind	ind	D-:----:--:u---	_	
+17-13	i	i	T-:----:--:----	_	
+17-14	en	en	PI:s-uc:--:----	_	
+17-15	kassevogn	kassevogn	NC:siuc:--:----	_	
+17-16	,	,	ZD	_	
+17-17	hvor	hvor	D-:----:--:u---	_	
+17-18	han	han	PP:s-nc:--:-3n-	_	
+17-19	blev	blive	VF:----:ta:----	_	
+17-20	kørt	køre	VT:siu#:t-:----	_	
+17-21	ud	ud	D-:----:--:u---	_	
+17-22	i	i	T-:----:--:----	_	
+17-23	en	en	PI:s-uc:--:----	_	
+17-24	nærliggende	nærliggende	AC:§§u§:--:p---	_	
+17-25	skov	skov	NC:siuc:--:----	_	
+17-26	.	.	ZP	_	
+
+#id=18
+#text=Æg har fået nogle ordentlige slag på skallen - og mange er blevet angste for at spise og røre ved den lille proteinbombe.
+18-1	Æg	æg	NC:piu#:--:----	_	
+18-2	har	have	VF:----:sa:----	_	
+18-3	fået	få	VT:siu#:t-:----	_	
+18-4	nogle	nogen	PI:p-u#:--:----	_	
+18-5	ordentlige	ordentlig	AC:p#u#:--:p---	_	
+18-6	slag	slag	NC:piu#:--:----	slag_1a	
+18-7	på	på	----	_	
+18-8	skallen	skal	NW:----:--:----	_	
+18-9	-	-	ZH	_	
+18-10	og	og	CC:----:--:----	_	
+18-11	mange	mangen	AC:p#u#:--:p---	_	
+18-12	er	være	VF:----:sa:----	_	
+18-13	blevet	blive	VT:siu#:t-:----	_	
+18-14	angste	angst	AC:p#u#:--:p---	_	
+18-15	for	for	T-:----:--:----	_	
+18-16	at	at	UI:----:--:----	_	
+18-17	spise	spise	VI:----:-a:----	_	
+18-18	og	og	CC:----:--:----	_	
+18-19	røre	røre	VI:----:-a:----	_	
+18-20	ved	ved	T-:----:--:----	_	
+18-21	den	den	PM:s-uc:--:----	_	
+18-22	lille	lille	AC:s§u§:--:p---	_	
+18-23	proteinbombe	proteinbombe	NC:siuc:--:----	_	
+18-24	.	.	ZP	_	
+
+#id=19
+#text= Efter et slag må en spiller trække sig fra træningen.
+19-1	Efter	efter	T-:----:--:----	_	
+19-2	et	en	PI:s-un:--:----	_	
+19-3	slag	slag	NC:siun:--:----	slag_1_1c	
+19-4	må	måtte	VF:----:sa:----	_	
+19-5	en	en	PI:s-uc:--:----	_	
+19-6	spiller	spille	VF:----:sa:----	_	
+19-7	trække	trække	VI:----:-a:----	_	
+19-8	sig	sig	PP:#-u#:--:-3y-	_	
+19-9	fra	fra	T-:----:--:----	_	
+19-10	træningen	træning	NC:sduc:--:----	_	
+19-11	.	.	ZP	_	
+
+#id=20
+#text=I sin første optræden på den legendariske Augusta National forbedrede Søren Kjeldsen sig ellers med fem slag fra første til anden runde, men runderne i 76 og 71 slag var to slag for mange og rakta til en 58.-plads.
+20-1	I	i	T-:----:--:----	_	
+20-2	sin	sin	PO:s--c:--:-3ys	_	
+20-3	første	første	AC:§§u§:--:p---	_	
+20-4	optræden	optræde	VG:siuc:--:----	_	
+20-5	på	på	T-:----:--:----	_	
+20-6	den	den	PM:s-uc:--:----	_	
+20-7	legendariske	legendariske	AC:sdu#:--:p---	_	
+20-8	Augusta	Augusta	XY:----:--:----	_	
+20-9	National	National	NP:siu#:--:----	_	
+20-10	forbedrede	forbedre	VF:----:ta:----	_	
+20-11	Søren	Søren	NP:siu#:--:----	_	
+20-12	Kjeldsen	Kjeldsen	NP:siu#:--:----	_	
+20-13	sig	sig	PP:#-u#:--:-3y-	_	
+20-14	ellers	ellers	D-:----:--:u---	_	
+20-15	med	med	T-:----:--:----	_	
+20-16	fem	fem	LC:--u-:--:----	_	
+20-17	slag	slag	NC:piu#:--:----	slag_1_1c	
+20-18	fra	fra	T-:----:--:----	_	
+20-19	første	første	AC:§§u§:--:p---	_	
+20-20	til	til	T-:----:--:----	_	
+20-21	anden	anden	PI:s-uc:--:----	_	
+20-22	runde	runde	NC:siuc:--:----	_	
+20-23	,	,	ZD	_	
+20-24	men	men	CC:----:--:----	_	
+20-25	runderne	runde	NC:pdu#:--:----	_	
+20-26	i	i	T-:----:--:----	_	
+20-27	76	76	LC:--u-:--:----	_	
+20-28	og	og	CC:----:--:----	_	
+20-29	71	71	LC:--u-:--:----	_	
+20-30	slag	slag	NC:piu#:--:----	slag_1_1c	
+20-31	var	være	VF:----:ta:----	_	
+20-32	to	to	LC:--u-:--:----	_	
+20-33	slag	slag	NC:piu#:--:----	slag_1_1c	
+20-34	for	for	T-:----:--:----	_	
+20-35	mange	mangen	AC:p#u#:--:p---	_	
+20-36	og	og	CC:----:--:----	_	
+20-37	rakta	raktage	VI:----:-a:----	_	
+20-38	til	til	T-:----:--:----	_	
+20-39	en	en	PI:s-uc:--:----	_	
+20-40	58	58	LO:--u#:--:----	_	
+20-41	.	.	ZP	_	
+20-42	-	-	ZH	_	
+20-43	plads	plads	NC:siuc:--:----	_	
+20-44	.	.	ZP	_	
+
+#id=21
+#text= Søren Hansen lavede bogey på fire huller i træk på anden runde, og med 76 slag brugte han i alt ét slag flere end Kjeldsen.
+21-1	Søren	Søren	NP:siu#:--:----	_	
+21-2	Hansen	Hansen	NP:siu#:--:----	_	
+21-3	lavede	lave	VF:----:ta:----	_	
+21-4	bogey	bogey	NC:siuc:--:----	_	
+21-5	på	på	T-:----:--:----	_	
+21-6	fire	fire	LC:--u-:--:----	_	
+21-7	huller	hul	NC:piu#:--:----	_	
+21-8	i	i	T-:----:--:----	_	
+21-9	træk	træk	NC:siuc:--:----	_	
+21-10	på	på	T-:----:--:----	_	
+21-11	anden	anden	PI:s-uc:--:----	_	
+21-12	runde	runde	NC:siuc:--:----	_	
+21-13	,	,	ZD	_	
+21-14	og	og	CC:----:--:----	_	
+21-15	med	med	T-:----:--:----	_	
+21-16	76	76	LC:--u-:--:----	_	
+21-17	slag	slag	NC:piu#:--:----	slag_1_1c	
+21-18	brugte	bruge	VF:----:ta:----	_	
+21-19	han	han	PP:s-nc:--:-3n-	_	
+21-20	i	i	T-:----:--:----	_	
+21-21	alt	al	PI:s-un:--:----	_	
+21-22	ét	en	PI:s-un:--:----	_	
+21-23	slag	slag	NC:siun:--:----	_	
+21-24	flere	mange	AC:##u#:--:c---	_	
+21-25	end	end	CS:----:--:----	_	
+21-26	Kjeldsen	Kjeldsen	NP:siu#:--:----	_	
+21-27	.	.	ZP	_	
+
+#id=22
+#text=18 af de 96 spillere i feltet deltager i turneringen for første gang, og kun seks af dem spiller videre i weekendens to runder med 23-årige Anthony Kim som den bedst placerede på 7.- pladsenefter umage runder i  75 og 65 slag.
+22-1	18	18	LC:--u-:--:----	_	
+22-2	af	af	T-:----:--:----	_	
+22-3	de	den	PM:p-u#:--:----	_	
+22-4	96	96	LC:--u-:--:----	_	
+22-5	spillere	spiller	NC:piu#:--:----	_	
+22-6	i	i	T-:----:--:----	_	
+22-7	feltet	felt	NC:sdun:--:----	_	
+22-8	deltager	deltage	VF:----:sa:----	_	
+22-9	i	i	T-:----:--:----	_	
+22-10	turneringen	turnering	NC:sduc:--:----	_	
+22-11	for	for	T-:----:--:----	_	
+22-12	første	første	AC:§§u§:--:p---	_	
+22-13	gang	gang	NC:siuc:--:----	_	
+22-14	,	,	ZD	_	
+22-15	og	og	CC:----:--:----	_	
+22-16	kun	kun	D-:----:--:u---	_	
+22-17	seks	seks	LC:--u-:--:----	_	
+22-18	af	af	T-:----:--:----	_	
+22-19	dem	de	PP:p-u#:--:-3n-	_	
+22-20	spiller	spille	VF:----:sa:----	_	
+22-21	videre	videre	D-:----:--:u---	_	
+22-22	i	i	T-:----:--:----	_	
+22-23	weekendens	weekend	NC:sdgc:--:----	_	
+22-24	to	to	LC:--u-:--:----	_	
+22-25	runder	runde	NC:piu#:--:----	_	
+22-26	med	med	T-:----:--:----	_	
+22-27	23	23	LC:--u-:--:----	_	
+22-28	-	-	ZH	_	
+22-29	årige	årig	AC:sdu#:--:p---	_	
+22-30	Anthony	Anthony	NP:siu#:--:----	_	
+22-31	Kim	Kim	NP:siu#:--:----	_	
+22-32	som	som	US:----:--:----	_	
+22-33	den	den	PM:s-uc:--:----	_	
+22-34	bedst	god	AD:----:--:s---	_	
+22-35	placerede	placere	VP:p#u#:t-:----	_	
+22-36	på	på	T-:----:--:----	_	
+22-37	7	7	LC:--u-:--:----	_	
+22-38	.	.	ZP	_	
+22-39	-	-	ZH	_	
+22-40	pladsenefter	pladsenefter	CS:----:--:----	_	
+22-41	umage	umage	AC:§§u§:--:p---	_	
+22-42	runder	runde	NC:piu#:--:----	_	
+22-43	i	i	T-:----:--:----	_	
+22-44	75	75	LC:--u-:--:----	_	
+22-45	og	og	CC:----:--:----	_	
+22-46	65	65	LC:--u-:--:----	_	
+22-47	slag	slag	NC:piu#:--:----	slag_1_1c	
+22-48	.	.	ZP	_	
+
+#id=23
+#text= Amerikaneren lå før tredje runde syv slag efter de førende.
+23-1	Amerikaneren	amerikaner	NC:sduc:--:----	_	
+23-2	lå	ligge	VF:----:ta:----	_	
+23-3	før	før	T-:----:--:----	_	
+23-4	tredje	tre	LO:--u#:--:----	_	
+23-5	runde	runde	NC:siuc:--:----	_	
+23-6	syv	syv	LC:--u-:--:----	_	
+23-7	slag	slag	NC:piu#:--:----	slag_1_1c	
+23-8	efter	efter	T-:----:--:----	_	
+23-9	de	den	PM:p-u#:--:----	_	
+23-10	førende	førende	AC:§§u§:--:p---	_	
+23-11	.	.	ZP	_	
+
+#id=24
+#text=Da demokraterne endelig kårer Barack Obama som deres præsidentkandidat i løbet af sommeren 2008, slår hjertet et ekstra slag i brystet på Lisa Jack.
+24-1	Da	da	CS:----:--:----	_	
+24-2	demokraterne	demokrat	NC:pdu#:--:----	_	
+24-3	endelig	endelig	D-:----:--:u---	_	
+24-4	kårer	kåre	VF:----:sa:----	_	
+24-5	Barack	Barack	NP:siu#:--:----	_	
+24-6	Obama	Obama	NP:siu#:--:----	_	
+24-7	som	som	US:----:--:----	_	
+24-8	deres	deres	PO:#--#:--:-3np	_	
+24-9	præsidentkandidat	præsidentkandidat	NC:siuc:--:----	_	
+24-10	i	i	T-:----:--:----	_	
+24-11	løbet	løb	NC:sdun:--:----	_	
+24-12	af	af	T-:----:--:----	_	
+24-13	sommeren	sommer	NC:sduc:--:----	_	
+24-14	2008	2008	LC:--u-:--:----	_	
+24-15	,	,	ZD	_	
+24-16	slår	slå	VF:----:sa:----	_	
+24-17	hjertet	hjerte	NC:sdun:--:----	_	
+24-18	et	en	PI:s-un:--:----	_	
+24-19	ekstra	ekstra	AC:§§u§:--:p---	_	
+24-20	slag	slag	NC:siun:--:----	slag_F_hjerte_springer_slag_over	
+24-21	i	i	T-:----:--:----	_	
+24-22	brystet	bryst	NC:sdun:--:----	_	
+24-23	på	på	T-:----:--:----	_	
+24-24	Lisa	Lisa	NP:siu#:--:----	_	
+24-25	Jack	Jack	NP:siu#:--:----	_	
+24-26	.	.	ZP	_	
+
+#id=25
+#text= Betjentene løb tilbage, og i den forbindelse blev den ene ramt af et slag på hagen.
+25-1	Betjentene	betjent	NC:pdu#:--:----	_	
+25-2	løb	løbe	VF:----:ta:----	_	
+25-3	tilbage	tilbage	D-:----:--:u---	_	
+25-4	,	,	ZD	_	
+25-5	og	og	CC:----:--:----	_	
+25-6	i	i	T-:----:--:----	_	
+25-7	den	den	PM:s-uc:--:----	_	
+25-8	forbindelse	forbindelse	NC:siuc:--:----	_	
+25-9	blev	blive	VF:----:ta:----	_	
+25-10	den	den	PM:s-uc:--:----	_	
+25-11	ene	ene	AC:§§u§:--:p---	_	
+25-12	ramt	ramme	VT:siu#:t-:----	_	
+25-13	af	af	T-:----:--:----	_	
+25-14	et	en	PI:s-un:--:----	_	
+25-15	slag	slag	NC:siun:--:----	slag_1_1c	
+25-16	på	på	T-:----:--:----	_	
+25-17	hagen	hage	NC:sduc:--:----	_	
+25-18	.	.	ZP	_	
+
+#id=26
+#text=Han kunne selv vælge sine slag.
+26-1	Han	han	PP:s-nc:--:-3n-	_	
+26-2	kunne	kunne	VF:----:ta:----	_	
+26-3	selv	selv	D-:----:--:u---	_	
+26-4	vælge	vælge	VI:----:-a:----	_	
+26-5	sine	sin	PO:p--#:--:-3ys	_	
+26-6	slag	slag	NC:piu#:--:----	slag_2a	
+26-7	.	.	ZP	_	
+
+#id=27
+#text=Æg har fået nogle ordentlige slag på skallen - og mange er blevet angste for at spise og røre ved den lille proteinbombe.
+27-1	Æg	æg	NC:piu#:--:----	_	
+27-2	har	have	VF:----:sa:----	_	
+27-3	fået	få	VT:siu#:t-:----	_	
+27-4	nogle	nogen	PI:p-u#:--:----	_	
+27-5	ordentlige	ordentlig	AC:p#u#:--:p---	_	
+27-6	slag	slag	NC:piu#:--:----	slag_1a	
+27-7	på	på	T-:----:--:----	_	
+27-8	skallen	skal	NW:----:--:----	_	
+27-9	-	-	ZH	_	
+27-10	og	og	CC:----:--:----	_	
+27-11	mange	mangen	AC:p#u#:--:p---	_	
+27-12	er	være	VF:----:sa:----	_	
+27-13	blevet	blive	VT:siu#:t-:----	_	
+27-14	angste	angst	AC:p#u#:--:p---	_	
+27-15	for	for	T-:----:--:----	_	
+27-16	at	at	UI:----:--:----	_	
+27-17	spise	spise	VI:----:-a:----	_	
+27-18	og	og	CC:----:--:----	_	
+27-19	røre	røre	VI:----:-a:----	_	
+27-20	ved	ved	T-:----:--:----	_	
+27-21	den	den	PM:s-uc:--:----	_	
+27-22	lille	lille	AC:s§u§:--:p---	_	
+27-23	proteinbombe	proteinbombe	NC:siuc:--:----	_	
+27-24	.	.	ZP	_	
+
+#id=28
+#text=Men at udvandre, før slaget er slut, er som at sige, at man ikke tror på de gode argumenters magt.
+28-1	Men	men	CC:----:--:----	_	
+28-2	at	at	UI:----:--:----	_	
+28-3	udvandre	udvandre	VI:----:-a:----	_	
+28-4	,	,	ZD	_	
+28-5	før	før	CS:----:--:----	_	
+28-6	slaget	slag	NC:sdun:--:----	slag_2a	
+28-7	er	være	VF:----:sa:----	_	
+28-8	slut	slut	NC:§§u§:--:----	_	
+28-9	,	,	ZD	_	
+28-10	er	være	VF:----:sa:----	_	
+28-11	som	som	US:----:--:----	_	
+28-12	at	at	UI:----:--:----	_	
+28-13	sige	sige	VI:----:-a:----	_	
+28-14	,	,	ZD	_	
+28-15	at	at	CS:----:--:----	_	
+28-16	man	man	PI:#-uc:--:----	_	
+28-17	ikke	ikke	D-:----:--:u---	_	
+28-18	tror	tro	VF:----:sa:----	_	
+28-19	på	på	T-:----:--:----	_	
+28-20	de	den	PM:p-u#:--:----	_	
+28-21	gode	god	AC:p#u#:--:p---	_	
+28-22	argumenters	argument	NC:pig#:--:----	_	
+28-23	magt	magt	NC:siuc:--:----	_	
+28-24	.	.	ZP	_	
+
+#id=29
+#text= Slaget om den endelige tekst må udenrigsministrene tage i Genève.
+29-1	Slaget	slag	NC:sdun:--:----	slag_2a	
+29-2	om	om	T-:----:--:----	_	
+29-3	den	den	PM:s-uc:--:----	_	
+29-4	endelige	endelig	AC:sdu#:--:p---	_	
+29-5	tekst	tekst	NC:siuc:--:----	_	
+29-6	må	måtte	:----:sa:----	_	
+29-7	udenrigsministrene	udenrigsminister	NC:pdu#:--:----	_	
+29-8	tage	tage	VI:----:-a:----	_	
+29-9	i	i	T-:----:--:----	_	
+29-10	Genève	Genève	NP:siu#:--:----	_	
+29-11	.	.	ZP	_	
+
+#id=30
+#text= En periode, hvor hun blev lynhurtig til at "løfte armene" for at parere slag.
+30-1	En	en	PI:s-uc:--:----	_	
+30-2	periode	periode	NC:siuc:--:----	_	
+30-3	,	,	ZD	_	
+30-4	hvor	hvor	D-:----:--:u---	_	
+30-5	hun	hun	PP:s-nc:--:-3n-	_	
+30-6	blev	blive	VF:----:ta:----	_	
+30-7	lynhurtig	lynhurtig	AC:siuc:--:p---	_	
+30-8	til	til	T-:----:--:----	_	
+30-9	at	at	UI:----:--:----	_	
+30-10	"	"	ZI	_	
+30-11	løfte	løfte	VI:----:-a:----	_	
+30-12	armene	arm	NC:pdu#:--:----	_	
+30-13	"	"	ZI	_	
+30-14	for	for	T-:----:--:----	_	
+30-15	at	at	UI:----:--:----	_	
+30-16	parere	parere	VI:----:-a:----	_	
+30-17	slag	slag	NC:siun:--:----	slag_1_1c	
+30-18	.	.	ZP	_	
+
+#id=31
+#text=Ved temperaturer over 21 grader vil hjertet typisk skulle slå to slag mere for hver grad, temperaturen stiger.
+31-1	Ved	ved	T-:----:--:----	_	
+31-2	temperaturer	temperatur	NC:piu#:--:----	_	
+31-3	over	over	T-:----:--:----	_	
+31-4	21	21	LC:--u-:--:----	_	
+31-5	grader	grad	NC:piu#:--:----	_	
+31-6	vil	ville	VF:----:sa:----	_	
+31-7	hjertet	hjerte	NC:sdun:--:----	_	
+31-8	typisk	typisk	AD:----:--:p---	_	
+31-9	skulle	skulle	VF:----:ta:----	_	
+31-10	slå	slå	VI:----:-a:----	_	
+31-11	to	to	LC:--u-:--:----	_	
+31-12	slag	slag	NC:piu#:--:----	slag_3_3a	
+31-13	mere	megen	AD:----:--:c---	_	
+31-14	for	for	T-:----:--:----	_	
+31-15	hver	hver	PI:s-uc:--:----	_	
+31-16	grad	grad	NC:siuc:--:----	_	
+31-17	,	,	ZD	_	
+31-18	temperaturen	temperatur	NC:sduc:--:----	_	
+31-19	stiger	stige	VF:----:sa:----	_	
+31-20	.	.	ZP	_	
+
+#id=32
+#text=Det vil sige, at træningsintensitet, der kræver 155 slag pr.
+32-1	Det	det	PP:s-un:--:-3n-	_	
+32-2	vil	ville	VF:----:sa:----	_	
+32-3	sige	sige	VI:----:-a:----	_	
+32-4	,	,	ZD	_	
+32-5	at	at	---	_	
+32-6	træningsintensitet	træningsintensitet	NC:siuc:--:----	_	
+32-7	,	,	ZD	_	
+32-8	der	der	US:----:--:----	_	
+32-9	kræver	kræve	VF:----:sa:----	_	
+32-10	155	155	LC:--u-:--:----	_	
+32-11	slag	slag	NC:piu#:--:----	slag_3_3a	
+32-12	pr	per	T-:----:--:----	_	
+32-13	.	.	ZP	_	
+
+#id=33
+#text= minut ved 21 grader, vil give en puls på 175 slag pr. minut ved 31 grader.
+33-1	minut	minut	NC:siun:--:----	_	
+33-2	ved	ved	T-:----:--:----	_	
+33-3	21	21	LC:--u-:--:----	_	
+33-4	grader	grad	NC:piu#:--:----	_	
+33-5	,	,	ZD	_	
+33-6	vil	ville	VF:----:sa:----	_	
+33-7	give	give	VI:----:-a:----	_	
+33-8	en	en	PI:s-uc:--:----	_	
+33-9	puls	puls	NC:siuc:--:----	_	
+33-10	på	på	T-:----:--:----	_	
+33-11	175	175	LC:--u-:--:----	_	
+33-12	slag	slag	NC:piu#:--:----	slag_3_3a	
+33-13	pr	per	T-:----:--:----	_	
+33-14	.	.	ZP	_	
+33-15	minut	minut	NC:siun:--:----	_	
+33-16	ved	ved	T-:----:--:----	_	
+33-17	31	31	LC:--u-:--:----	_	
+33-18	grader	grad	NC:piu#:--:----	_	
+33-19	.	.	ZP	_	
+
+#id=34
+#text="Jeg hilser Dem med et spark, et spyt og et slag i Deres løgnagtige, rådne, ulækre og mutte ansigt", stod der i det sidste, som den amerikanske avis The Washington Post har optrykt i sit minutiøse portræt af Abdallah al-Ajmis liv og død.
+34-1	"	"	ZI	_	
+34-2	Jeg	jeg	PP:s-nc:--:-1n-	_	
+34-3	hilser	hilse	VF:----:sa:----	_	
+34-4	Dem	de	PP:p-u#:--:-3n-	_	
+34-5	med	med	T-:----:--:----	_	
+34-6	et	en	PI:s-un:--:----	_	
+34-7	spark	spark	NC:siun:--:----	_	
+34-8	,	,	ZD	_	
+34-9	et	en	PI:s-un:--:----	_	
+34-10	spyt	spyt	NC:siun:--:----	_	
+34-11	og	og	CC:----:--:----	_	
+34-12	et	en	PI:s-un:--:----	_	
+34-13	slag	slag	NC:siun:--:----	slag_1_1c	
+34-14	i	i	T-:----:--:----	_	
+34-15	Deres	deres	PO:#--#:--:-3np	_	
+34-16	løgnagtige	løgnagtig	AC:p#u#:--:p---	_	
+34-17	,	,	ZD	_	
+34-18	rådne	rådden	AC:p#u#:--:p---	_	
+34-19	,	,	ZD	_	
+34-20	ulækre	ulækker	AC:p#u#:--:p---	_	
+34-21	og	og	CC:----:--:----	_	
+34-22	mutte	mut	AC:sdu#:--:p---	_	
+34-23	ansigt	ansigt	NC:siun:--:----	_	
+34-24	"	"	ZI	_	
+34-25	,	,	ZD	_	
+34-26	stod	stå	VF:----:ta:----	_	
+34-27	der	der	US:----:--:----	_	
+34-28	i	i	T-:----:--:----	_	
+34-29	det	den	PM:s-un:--:----	_	
+34-30	sidste	sidste	AC:§§u§:--:p---	_	
+34-31	,	,	ZD	_	
+34-32	som	som	US:----:--:----	_	
+34-33	den	den	PM:s-uc:--:----	_	
+34-34	amerikanske	amerikansk	AC:sdu#:--:p---	_	
+34-35	avis	avis	NC:siuc:--:----	_	
+34-36	The	The	NC:siuc:--:----	_	
+34-37	Washington	Washington	NP:siu#:--:----	_	
+34-38	Post	Post	NP:siu#:--:----	_	
+34-39	har	have	VF:----:sa:----	_	
+34-40	optrykt	optrykke	VT:siu#:t-:----	_	
+34-41	i	i	T-:----:--:----	_	
+34-42	sit	sin	PO:s--n:--:-3ys	_	
+34-43	minutiøse	minutiøs	AC:sdu#:--:p---	_	
+34-44	portræt	portræt	NC:siun:--:----	_	
+34-45	af	af	T-:----:--:----	_	
+34-46	Abdallah	Abdallah	NP:siu#:--:----	_	
+34-47	al	al	NW:----:--:----	_	
+34-48	-	-	ZH	_	
+34-49	Ajmis	Ajmis	NP:sig#:--:----	_	
+34-50	liv	liv	NC:siun:--:----	_	
+34-51	og	og	CC:----:--:----	_	
+34-52	død	død	NC:siuc:--:----	_	
+34-53	.	.	ZP	_	
+
+#id=35
+#text= Og derefter gik det slag i slag.
+35-1	Og	og	CC:----:--:----	_	
+35-2	derefter	derefter	D-:----:--:u---	_	
+35-3	gik	gå	VF:----:ta:----	_	
+35-4	det	den	PM:s-un:--:----	_	
+35-5	slag	slag	NC:siun:--:----	slag_F_slag i slag	
+35-6	i	i	T-:----:--:----	_	
+35-7	slag	slag	NC:siun:--:----	slag_F_slag i slag	
+35-8	.	.	ZP	_	
+
+#id=36
+#text=Det vil være en katastrofe for formidlingen af denne type kultur, og vil være et slag for det varierede udbud af radio i Danmark.
+36-1	Det	det	PP:s-un:--:-3n-	_	
+36-2	vil	ville	VF:----:sa:----	_	
+36-3	være	være	VI:----:-a:----	_	
+36-4	en	en	PI:s-uc:--:----	_	
+36-5	katastrofe	katastrofe	NC:siuc:--:----	_	
+36-6	for	for	T-:----:--:----	_	
+36-7	formidlingen	formidling	NC:sduc:--:----	_	
+36-8	af	af	T-:----:--:----	_	
+36-9	denne	denne	PM:s-uc:--:----	_	
+36-10	type	type	NC:siuc:--:----	_	
+36-11	kultur	kultur	NC:siuc:--:----	_	
+36-12	,	,	ZD	_	
+36-13	og	og	CC:----:--:----	_	
+36-14	vil	ville	VF:----:sa:----	_	
+36-15	være	være	VI:----:-a:----	_	
+36-16	et	en	PI:s-un:--:----	_	
+36-17	slag	slag	NC:siun:--:----	slag_1b	
+36-18	for	for	T-:----:--:----	_	
+36-19	det	den	PM:s-un:--:----	_	
+36-20	varierede	variere	VP:sdu#:t-:----	_	
+36-21	udbud	udbud	NC:siun:--:----	_	
+36-22	af	af	T-:----:--:----	_	
+36-23	radio	radio	NC:siuc:--:----	_	
+36-24	i	i	T-:----:--:----	_	
+36-25	Danmark	Danmark	NP:siu#:--:----	_	
+36-26	.	.	ZP	_	
+
+#id=37
+#text= En lesbisk kvinde virker som et slag i ansigtet på denne form for maskulinitet".
+37-1	En	en	PI:s-uc:--:----	_	
+37-2	lesbisk	lesbisk	AC:siuc:--:p---	_	
+37-3	kvinde	kvinde	NC:siuc:--:----	_	
+37-4	virker	virke	VF:----:sa:----	_	
+37-5	som	som	US:----:--:----	_	
+37-6	et	en	PI:s-un:--:----	_	
+37-7	slag	slag	NC:siun:--:----	slag_F_slag i ansigtet	
+37-8	i	i	T-:----:--:----	_	
+37-9	ansigtet	ansigt	NC:sdun:--:----	_	
+37-10	på	på	T-:----:--:----	_	
+37-11	denne	denne	PM:s-uc:--:----	_	
+37-12	form	form	NC:siuc:--:----	_	
+37-13	for	for	T-:----:--:----	_	
+37-14	maskulinitet	maskulinitet	NC:siuc:--:----	_	
+37-15	"	"	ZI	_	
+37-16	.	.	ZP	_	
+
+#id=38
+#text= En lesbisk kvinde virker som et slag i ansigtet på denne form for maskulinitet Carrei Shelver, kvinderettighedsgruppen Powa.
+38-1	En	en	PI:s-uc:--:----	_	
+38-2	lesbisk	lesbisk	AC:siuc:--:p---	_	
+38-3	kvinde	kvinde	NC:siuc:--:----	_	
+38-4	virker	virke	VF:----:sa:----	_	
+38-5	som	som	US:----:--:----	_	
+38-6	et	en	PI:s-un:--:----	_	
+38-7	slag	slag	NC:siun:--:----	slag_F_slag i ansigtet	
+38-8	i	i	T-:----:--:----	_	
+38-9	ansigtet	ansigt	NC:sdun:--:----	_	
+38-10	på	på	T-:----:--:----	_	
+38-11	denne	denne	PM:s-uc:--:----	_	
+38-12	form	form	NC:siuc:--:----	_	
+38-13	for	for	T-:----:--:----	_	
+38-14	maskulinitet	maskulinitet	NC:siuc:--:----	_	
+38-15	Carrei	Carrei	NP:siu#:--:----	_	
+38-16	Shelver	Shelver	NP:siu#:--:----	_	
+38-17	,	,	ZD	_	
+38-18	kvinderettighedsgruppen	kvinderettighedsgruppe	NC:sduc:--:----	_	
+38-19	Powa	Powa	NP:siu#:--:----	_	
+38-20	.	.	ZP	_	
+
+#id=39
+#text=Det er her, slaget vil blive udkæmpet.
+39-1	Det	det	PP:s-un:--:-3n-	_	
+39-2	er	være	VF:----:sa:----	_	
+39-3	her	her	D-:----:--:u---	_	
+39-4	,	,	ZD	_	
+39-5	slaget	slag	NC:sdun:--:----	slag_2_2b_2c	
+39-6	vil	ville	VF:----:sa:----	_	
+39-7	blive	blive	VI:----:-a:----	_	
+39-8	udkæmpet	udkæmpe	VT:siu#:t-:----	_	
+39-9	.	.	ZP	_	
+
+#id=40
+#text= Dette antal vil selvfølgelig falde med tiden, men et slag på tasken siger, at 280.000 danskere vil lade livet i perioden 2010 til 2050, hvis vi således lader stå til og lader antallet af rygere dale ganske langsomt.
+40-1	Dette	denne	PM:s-un:--:----	_	
+40-2	antal	antal	NC:siun:--:----	_	
+40-3	vil	ville	VF:----:sa:----	_	
+40-4	selvfølgelig	selvfølgelig	D-:----:--:u---	_	
+40-5	falde	falde	VI:----:-a:----	_	
+40-6	med	med	T-:----:--:----	_	
+40-7	tiden	tid	NC:sduc:--:----	_	
+40-8	,	,	ZD	_	
+40-9	men	men	CC:----:--:----	_	
+40-10	et	en	--:----	_	
+40-11	slag	slag	NC:siun:--:----	slag_F_slag på tasken	
+40-12	på	på	T-:----:--:----	_	
+40-13	tasken	taske	NC:sduc:--:----	_	
+40-14	siger	sige	VF:----:sa:----	_	
+40-15	,	,	ZD	_	
+40-16	at	at	CS:----:--:----	_	
+40-17	280	280	LC:--u-:--:----	_	
+40-18	.	.	ZP	_	
+40-19	000	000	LC:--u-:--:----	_	
+40-20	danskere	dansker	NC:piu#:--:----	_	
+40-21	vil	ville	VF:----:sa:----	_	
+40-22	lade	lade	VI:----:-a:----	_	
+40-23	livet	liv	NC:sdun:--:----	_	
+40-24	i	i	T-:----:--:----	_	
+40-25	perioden	periode	NC:sduc:--:----	_	
+40-26	2010	2010	LC:--u-:--:----	_	
+40-27	til	til	T-:----:--:----	_	
+40-28	2050	2050	LC:--u-:--:----	_	
+40-29	,	,	ZD	_	
+40-30	hvis	hvis	CS:----:--:----	_	
+40-31	vi	vi	PP:p-nc:--:-1n-	_	
+40-32	således	således	D-:----:--:u---	_	
+40-33	lader	lade	VF:----:sa:----	_	
+40-34	stå	stå	VI:----:-a:----	_	
+40-35	til	til	T-:----:--:----	_	
+40-36	og	og	CC:----:--:----	_	
+40-37	lader	lade	VF:----:sa:----	_	
+40-38	antallet	antal	NC:sdun:--:----	_	
+40-39	af	af	T-:----:--:----	_	
+40-40	rygere	ryger	NC:piu#:--:----	_	
+40-41	dale	dal	NC:piu#:--:----	_	
+40-42	ganske	ganske	D-:----:--:u---	_	
+40-43	langsomt	langsom	AC:siun:--:p---	_	
+40-44	.	.	ZP	_	
+
+#id=41
+#text=COPENHAGEN PUPPET FESTIVAL slår i forlængelse af succesen i 2007 et nyt slag for, at dukketeater også kan være for voksne.
+41-1	COPENHAGEN	Copenhagen	NP:siu#:--:----	_	
+41-2	PUPPET	PUPPET	NP:siu#:--:----	_	
+41-3	FESTIVAL	Festival	NP:siu#:--:----	_	
+41-4	slår	slå	VF:----:sa:----	_	
+41-5	i	i	T-:----:--:----	_	
+41-6	forlængelse	forlængelse	NC:siuc:--:----	_	
+41-7	af	af	T-:----:--:----	_	
+41-8	succesen	succes	NC:sduc:--:----	_	
+41-9	i	i	T-:----:--:----	_	
+41-10	2007	2007	LC:--u-:--:----	_	
+41-11	et	en	PI:s-un:--:----	_	
+41-12	nyt	ny	AC:siun:--:p---	_	
+41-13	slag	slag	NC:siun:--:----	slag_F_slå et slag	
+41-14	for	for	T-:----:--:----	_	
+41-15	,	,	ZD	_	
+41-16	at	at	CS:----:--:----	_	
+41-17	dukketeater	dukketeater	NC:siun:--:----	_	
+41-18	også	også	D-:----:--:u---	_	
+41-19	kan	kunne	VF:----:sa:----	_	
+41-20	være	være	VI:----:-a:----	_	
+41-21	for	for	T-:----:--:----	_	
+41-22	voksne	voksen	AC:p#u#:--:p---	_	
+41-23	.	.	ZP	_	
+
+#id=42
+#text= Han vinder sine slag hinsides Alperne - foruden en velhavende enke fra Martinique (Antillerne)
+42-1	Han	han	PP:s-nc:--:-3n-	_	
+42-2	vinder	vinde	VF:----:sa:----	_	
+42-3	sine	sine	XY:----:--:----	_	
+42-4	slag	slag	NC:siun:--:----	slag_2_2b_2c	
+42-5	hinsides	hinsides	NP:siu#:--:----	_	
+42-6	Alperne	Alperne	NP:siu#:--:----	_	
+42-7	-	-	ZH	_	
+42-8	foruden	foruden	CS:----:--:----	_	
+42-9	en	en	PI:s-uc:--:----	_	
+42-10	velhavende	velhavende	AC:§§u§:--:p---	_	
+42-11	enke	enke	NC:siuc:--:----	_	
+42-12	fra	fra	T-:----:--:----	_	
+42-13	Martinique	Martinique	NP:siu#:--:----	_	
+42-14	(	(	ZD	_	
+42-15	Antillerne	Antillerne	NP:siu#:--:----	_	
+42-16	)	)	ZD	_	
+
+#id=43
+#text=For 67 år siden udkæmpede de allierede styrker et afgørende slag under ledelse af general Bernard Law Montgomery mod Nazitysklands feltmarskal Erwin Rommel og  hans Afrikakorps ved El Alamein i det nordlige Egypten.
+43-1	For	for	T-:----:--:----	_	
+43-2	67	67	LC:--u-:--:----	_	
+43-3	år	år	NC:piu#:--:----	_	
+43-4	siden	siden	D-:----:--:u---	_	
+43-5	udkæmpede	udkæmpe	VF:----:ta:----	_	
+43-6	de	den	PM:p-u#:--:----	_	
+43-7	allierede	alliere	VP:p#u#:t-:----	_	
+43-8	styrker	styrke	NC:piu#:--:----	_	
+43-9	et	en	PI:s-un:--:----	_	
+43-10	afgørende	afgørende	AC:§§u§:--:p---	_	
+43-11	slag	slag	NC:siun:--:----	slag_2_2b_2c	
+43-12	under	under	T-:----:--:----	_	
+43-13	ledelse	ledelse	NC:siuc:--:----	_	
+43-14	af	af	T-:----:--:----	_	
+43-15	general	general	NC:siuc:--:----	_	
+43-16	Bernard	Bernard	NP:siu#:--:----	_	
+43-17	Law	Law	NP:siu#:--:----	_	
+43-18	Montgomery	Montgomery	NP:siu#:--:----	_	
+43-19	mod	mod	XY:----:--:----	_	
+43-20	Nazitysklands	Nazityskland	NC:sign:--:----	_	
+43-21	feltmarskal	feltmarskal	NC:siuc:--:----	_	
+43-22	Erwin	Erwin	NP:siu#:--:----	_	
+43-23	Rommel	Rommel	NP:siu#:--:----	_	
+43-24	og	og	CC:----:--:----	_	
+43-25	hans	hans	PO:#--#:--:-3ns	_	
+43-26	Afrikakorps	Afrikakorps	NP:siu#:--:----	_	
+43-27	ved	ved	T-:----:--:----	_	
+43-28	El	El	NP:siu#:--:----	_	
+43-29	Alamein	Alamein	NP:siu#:--:----	_	
+43-30	i	i	T-:----:--:----	_	
+43-31	det	den	PM:s-un:--:----	_	
+43-32	nordlige	nordlig	AC:sdu#:--:p---	_	
+43-33	Egypten	Egypten	NP:siu#:--:----	_	
+43-34	.	.	ZP	_	
+
+#id=44
+#text= I dag foregår slagene med golfkøller på nyanlagte golfbaner, mens udsigten til Middelhavet på Egyptens nordkyst næsten er forsvundet bag hoteller og feriecentre.
+44-1	I	i	T-:----:--:----	_	
+44-2	dag	dag	NC:siuc:--:----	_	
+44-3	foregår	foregå	VF:----:sa:----	_	
+44-4	slagene	slag	NC:pdu#:--:----	slag_1_1c	
+44-5	med	med	T-:----:--:----	_	
+44-6	golfkøller	golfkølle	NC:piu#:--:----	_	
+44-7	på	på	T-:----:--:----	_	
+44-8	nyanlagte	nyanlagt	AC:p#u#:--:p---	_	
+44-9	golfbaner	golfbane	NC:piu#:--:----	_	
+44-10	,	,	ZD	_	
+44-11	mens	mens	CS:----:--:----	_	
+44-12	udsigten	udsigt	:--:----	_	
+44-13	til	til	T-:----:--:----	_	
+44-14	Middelhavet	middelhav	NC:sdun:--:----	_	
+44-15	på	på	T-:----:--:----	_	
+44-16	Egyptens	Egypten	NP:sig#:--:----	_	
+44-17	nordkyst	nordkyst	NC:siuc:--:----	_	
+44-18	næsten	næsten	D-:----:--:u---	_	
+44-19	er	være	VF:----:sa:----	_	
+44-20	forsvundet	forsvinde	VT:siu#:t-:----	_	
+44-21	bag	bag	T-:----:--:----	_	
+44-22	hoteller	hotel	NC:piu#:--:----	_	
+44-23	og	og	CC:----:--:----	_	
+44-24	feriecentre	feriecenter	NC:piu#:--:----	_	
+44-25	.	.	ZP	_	
+
+#id=45
+#text= Museet beskriver i detaljer slaget eller slagene mellem Monty og ørkenræven Rommels styrker med plancher, modeller og tableauer.
+45-1	Museet	museum	NC:sdun:--:----	_	
+45-2	beskriver	beskrive	VF:----:sa:----	_	
+45-3	i	i	T-:----:--:----	_	
+45-4	detaljer	detaljer	XY:----:--:----	_	
+45-5	slaget	slag	NC:sdun:--:----	slag_2_2b_2c	
+45-6	eller	eller	CC:----:--:----	_	
+45-7	slagene	slag	NC:pdu#:--:----	slag_2_2b_2c	
+45-8	mellem	mellem	T-:----:--:----	_	
+45-9	Monty	Monty	NP:siu#:--:----	_	
+45-10	og	og	CC:----:--:----	_	
+45-11	ørkenræven	ørkenræv	NC:sduc:--:----	_	
+45-12	Rommels	Rommels	NP:sig#:--:----	_	
+45-13	styrker	styrke	NC:piu#:--:----	_	
+45-14	med	med	T-:----:--:----	_	
+45-15	plancher	planche	NC:piu#:--:----	_	
+45-16	,	,	ZD	_	
+45-17	modeller	model	NC:piu#:--:----	_	
+45-18	og	og	CC:----:--:----	_	
+45-19	tableauer	tableau	NC:piu#:--:----	_	
+45-20	.	.	ZP	_	
+
+#id=46
+#text= De allieredes invasion i Europa i juni 1944 var et afgørende slag i verdenshistorien".
+46-1	De	den	PM:p-u#:--:----	_	
+46-2	allieredes	alliere	VP:p#g#:t-:----	_	
+46-3	invasion	invasion	NC:siuc:--:----	_	
+46-4	i	i	T-:----:--:----	_	
+46-5	Europa	Europa	NP:siu#:--:----	_	
+46-6	i	i	T-:----:--:----	_	
+46-7	juni	juni	NC:siuc:--:----	_	
+46-8	1944	1944	LC:--u-:--:----	_	
+46-9	var	være	VF:----:ta:----	_	
+46-10	et	en	PI:s-un:--:----	_	
+46-11	afgørende	afgørende	AC:§§u§:--:p---	_	
+46-12	slag	slag	NC:siun:--:----	slag_2_2b_2c	
+46-13	i	i	T-:----:--:----	_	
+46-14	verdenshistorien	verdenshistorie	NC:sduc:--:----	_	
+46-15	"	"	ZI	_	
+46-16	.	.	ZP	_	
+
+#id=47
+#text= "Et fuldstændigt afgørende slag i Anden Verdenskrig.
+47-1	"	"	ZI	_	
+47-2	Et	en	PI:s-un:--:----	_	
+47-3	fuldstændigt	fuldstændig	AC:siun:--:p---	_	
+47-4	afgørende	afgørende	AC:§§u§:--:p---	_	
+47-5	slag	slag	NC:siun:--:----	slag_2_2b_2c	
+47-6	i	i	T-:----:--:----	_	
+47-7	Anden	anden	PI:s-uc:--:----	_	
+47-8	Verdenskrig	verdenskrig	NC:siuc:--:----	_	
+47-9	.	.	ZP	_	
+
+#id=48
+#text= Penge, som amerikanerne havde givet Egyptens præsident Gamal Abdel Nasser til at købe våben for i USA naturligvis, men som præsidenten altså brugte til tårnet som et slag i ansigtet på amerikanerne.
+48-1	Penge	penge	NC:piu#:--:----	_	
+48-2	,	,	ZD	_	
+48-3	som	som	US:----:--:----	_	
+48-4	amerikanerne	amerikaner	NC:pdu#:--:----	_	
+48-5	havde	have	VF:----:ta:----	_	
+48-6	givet	give	VT:siu#:t-:----	_	
+48-7	Egyptens	Egypten	NP:sig#:--:----	_	
+48-8	præsident	præsident	NC:siuc:--:----	_	
+48-9	Gamal	Gamal	NP:siu#:--:----	_	
+48-10	Abdel	Abdel	NP:siu#:--:----	_	
+48-11	Nasser	nasse	VF:----:sa:----	_	
+48-12	til	til	T-:----:--:----	_	
+48-13	at	at	UI:----:--:----	_	
+48-14	købe	købe	VI:----:-a:----	_	
+48-15	våben	våben	NC:siun:--:----	_	
+48-16	for	for	T-:----:--:----	_	
+48-17	i	i	T-:----:--:----	_	
+48-18	USA	USA	NP:siu#:--:----	_	
+48-19	naturligvis	naturligvis	D-:----:--:u---	_	
+48-20	,	,	ZD	_	
+48-21	men	men	CC:----:--:----	_	
+48-22	som	som	US:----:--:----	_	
+48-23	præsidenten	præsident	NC:sduc:--:----	_	
+48-24	altså	altså	D-:----:--:u---	_	
+48-25	brugte	bruge	VF:----:ta:----	_	
+48-26	til	til	T-:----:--:----	_	
+48-27	tårnet	tårn	NC:sdun:--:----	_	
+48-28	som	som	US:----:--:----	_	
+48-29	et	en	PI:s-un:--:----	_	
+48-30	slag	slag	NC:siun:--:----	slag_F_slag i ansigtet	
+48-31	i	i	T-:----:--:----	_	
+48-32	ansigtet	ansigt	NC:sdun:--:----	_	
+48-33	på	på	T-:----:--:----	_	
+48-34	amerikanerne	amerikaner	NC:pdu#:--:----	_	
+48-35	.	.	ZP	_	
+
+#id=49
+#text= Begge er store i slaget.
+49-1	Begge	begge	PM:p-u#:--:----	_	
+49-2	er	være	VF:----:sa:----	_	
+49-3	store	stor	AC:p#u#:--:p---	_	
+49-4	i	i	T-:----:--:----	_	
+49-5	slaget	slag	NC:sdun:--:----	slag_F_stor i slaget	
+49-6	.	.	ZP	_	
+
+#id=50
+#text=De slog dermed et skelsættende slag for en vigtig kamp:
+50-1	De	de	PP:p-n#:--:-3n-	_	
+50-2	slog	slå	VF:----:ta:----	_	
+50-3	dermed	dermed	D-:----:--:u---	_	
+50-4	et	en	PI:s-un:--:----	_	
+50-5	skelsættende	skelsættende	AD:----:--:p---	_	
+50-6	slag	slag	NC:siun:--:----	slag_F_slå et slag	
+50-7	for	for	T-:----:--:----	_	
+50-8	en	en	PI:s-uc:--:----	_	
+50-9	vigtig	vigtig	AC:siuc:--:p---	_	
+50-10	kamp	kamp	NC:siuc:--:----	_	
+50-11	:	:	ZP	_	
+
+#id=51
+#text=Fremtiden koster ingenting, og mens medierne snakker og fantaserer om fremtiden, er der frit slag  til hvad som helst for dem, der kan holde hovedet koldt og beskæftige sig med nutiden i stedet for med fuglene på taget.
+51-1	Fremtiden	fremtid	NC:sduc:--:----	_	
+51-2	koster	koste	VF:----:sa:----	_	
+51-3	ingenting	ingenting	PI:s-un:--:----	_	
+51-4	,	,	ZD	_	
+51-5	og	og	CC:----:--:----	_	
+51-6	mens	mens	CS:----:--:----	_	
+51-7	medierne	medie	NC:pdu#:--:----	_	
+51-8	snakker	snakke	VF:----:sa:----	_	
+51-9	og	og	CC:----:--:----	_	
+51-10	fantaserer	fantasere	VF:----:sa:----	_	
+51-11	om	om	T-:----:--:----	_	
+51-12	fremtiden	fremtid	NC:sduc:--:----	_	
+51-13	,	,	ZD	_	
+51-14	er	være	VF:----:sa:----	_	
+51-15	der	der	US:----:--:----	_	
+51-16	frit	fri	AC:siun:--:p---	_	
+51-17	slag	slag	NC:siun:--:----	slag_F_frit slag	
+51-18	til	til	CS:----:--:----	_	
+51-19	hvad	hvad	PR:s-u#:--:----	_	
+51-20	som	som	US:----:--:----	_	
+51-21	helst	helst	D-:----:--:u---	_	
+51-22	for	for	T-:----:--:----	_	
+51-23	dem	de	PP:p-u#:--:-3n-	_	
+51-24	,	,	ZD	_	
+51-25	der	der	US:----:--:----	_	
+51-26	kan	kunne	VF:----:sa:----	_	
+51-27	holde	holde	VI:----:-a:----	_	
+51-28	hovedet	hoved	NC:sdun:--:----	_	
+51-29	koldt	kold	AD:----:--:p---	_	
+51-30	og	og	CC:----:--:----	_	
+51-31	beskæftige	beskæftige	VI:----:-a:----	_	
+51-32	sig	sig	PP:#-u#:--:-3y-	_	
+51-33	med	med	T-:----:--:----	_	
+51-34	nutiden	nutid	NC:sduc:--:----	_	
+51-35	i	i	T-:----:--:----	_	
+51-36	stedet	sted	NC:sdun:--:----	_	
+51-37	for	for	T-:----:--:----	_	
+51-38	med	med	T-:----:--:----	_	
+51-39	fuglene	fugl	NC:pdu#:--:----	_	
+51-40	på	på	T-:----:--:----	_	
+51-41	taget	tag	NC:sdun:--:----	_	
+51-42	.	.	ZP	_	
+
+#id=52
+#text= Som Socialdemokraternes fjende havde han oven i købet selv angivet, hvor det var, slaget skulle slås, nemlig på værdipolitikken.
+52-1	Som	som	US:----:--:----	_	
+52-2	Socialdemokraternes	socialdemokrat	NC:pdg#:--:----	_	
+52-3	fjende	fjende	NC:siuc:--:----	_	
+52-4	havde	have	VF:----:ta:----	_	
+52-5	han	han	PP:s-nc:--:-3n-	_	
+52-6	oven	oven	D-:----:--:u---	_	
+52-7	i	i	T-:----:--:----	_	
+52-8	købet	køb	NC:sdun:--:----	_	
+52-9	selv	selv	D-:----:--:u---	_	
+52-10	angivet	angive	VT:siu#:t-:----	_	
+52-11	,	,	ZD	_	
+52-12	hvor	hvor	D-:----:--:u---	_	
+52-13	det	det	PP:s-un:--:-3n-	_	
+52-14	var	være	VF:----:ta:----	_	
+52-15	,	,	ZD	_	
+52-16	slaget	slag	:--:----	slag_2a	
+52-17	skulle	skulle	VF:----:ta:----	_	
+52-18	slås	slå	VI:----:-p:----	_	
+52-19	,	,	ZD	_	
+52-20	nemlig	nemlig	D-:----:--:u---	_	
+52-21	på	på	T-:----:--:----	_	
+52-22	værdipolitikken	værdipolitik	NC:sduc:--:----	_	
+52-23	.	.	ZP	_	
+
+#id=53
+#text=Henrik Stenson er godt klar over, at billederne vil gå verden rundt, og at han vil  høre for det i resten af sit liv, men en golfspiller vil strække sig langt for at spare et slag.
+53-1	Henrik	Henrik	NP:siu#:--:----	_	
+53-2	Stenson	Stenson	NP:siu#:--:----	_	
+53-3	er	være	VF:----:sa:----	_	
+53-4	godt	god	AD:----:--:p---	_	
+53-5	klar	klar	AC:siuc:--:p---	_	
+53-6	over	over	T-:----:--:----	_	
+53-7	,	,	ZD	_	
+53-8	at	at	CS:----:--:----	_	
+53-9	billederne	billede	NC:pdu#:--:----	_	
+53-10	vil	ville	VF:----:sa:----	_	
+53-11	gå	gå	VI:----:-a:----	_	
+53-12	verden	verden	NC:siuc:--:----	_	
+53-13	rundt	rundt	D-:----:--:u---	_	
+53-14	,	,	ZD	_	
+53-15	og	og	CC:----:--:----	_	
+53-16	at	at	CS:----:--:----	_	
+53-17	han	han	PP:s-nc:--:-3n-	_	
+53-18	vil	ville	VF:----:sa:----	_	
+53-19	høre	høre	VI:----:-a:----	_	
+53-20	for	for	T-:----:--:----	_	
+53-21	det	det	PP:s-un:--:-3n-	_	
+53-22	i	i	T-:----:--:----	_	
+53-23	resten	rest	NC:sduc:--:----	_	
+53-24	af	af	T-:----:--:----	_	
+53-25	sit	sin	PO:s--n:--:-3ys	_	
+53-26	liv	liv	NC:siun:--:----	_	
+53-27	,	,	ZD	_	
+53-28	men	men	CC:----:--:----	_	
+53-29	en	en	PI:s-uc:--:----	_	
+53-30	golfspiller	golfspiller	NC:siuc:--:----	_	
+53-31	vil	ville	VF:----:sa:----	_	
+53-32	strække	strække	VI:----:-a:----	_	
+53-33	sig	sig	PP:#-u#:--:-3y-	_	
+53-34	langt	lang	AD:----:--:p---	_	
+53-35	for	for	T-:----:--:----	_	
+53-36	at	at	UI:----:--:----	_	
+53-37	spare	spare	VI:----:-a:----	_	
+53-38	et	en	PI:s-un:--:----	_	
+53-39	slag	slag	NC:siun:--:----	slag_1_1c	
+53-40	.	.	ZP	_	
+
+#id=54
+#text= Han slap fra hullet med en hæderlig bogey for fem slag og ligger nummer 17 efter turneringens første runde.
+54-1	Han	han	PP:s-nc:--:-3n-	_	
+54-2	slap	slippe	VF:----:ta:----	_	
+54-3	fra	fra	T-:----:--:----	_	
+54-4	hullet	hul	NC:sdun:--:----	_	
+54-5	med	med	T-:----:--:----	_	
+54-6	en	en	PI:s-uc:--:----	_	
+54-7	hæderlig	hæderlig	AC:siuc:--:p---	_	
+54-8	bogey	bogey	NC:siuc:--:----	_	
+54-9	for	for	T-:----:--:----	_	
+54-10	fem	fem	LC:--u-:--:----	_	
+54-11	slag	slag	NC:piu#:--:----	slag_1_1c	
+54-12	og	og	CC:----:--:----	_	
+54-13	ligger	ligge	VF:----:sa:----	_	
+54-14	nummer	nummer	NC:siun:--:----	_	
+54-15	17	17	LC:--u-:--:----	_	
+54-16	efter	efter	T-:----:--:----	_	
+54-17	turneringens	turnering	NC:sdgc:--:----	_	
+54-18	første	første	AC:§§u§:--:p---	_	
+54-19	runde	runde	NC:siuc:--:----	_	
+54-20	.	.	ZP	_	
+
+#id=55
+#text="Jeg følte, jeg kunne spare et slag, og det er værd at smide trøje og bukser for.
+55-1	"	"	ZI	_	
+55-2	Jeg	jeg	PP:s-nc:--:-1n-	_	
+55-3	følte	føle	VF:----:ta:----	_	
+55-4	,	,	ZD	_	
+55-5	jeg	jeg	PP:s-nc:--:-1n-	_	
+55-6	kunne	kunne	---:ta:----	_	
+55-7	spare	spare	VI:----:-a:----	_	
+55-8	et	en	PI:s-un:--:----	_	
+55-9	slag	slag	NC:siun:--:----	slag_1_1c	
+55-10	,	,	ZD	_	
+55-11	og	og	CC:----:--:----	_	
+55-12	det	det	PP:s-un:--:-3n-	_	
+55-13	er	være	VF:----:sa:----	_	
+55-14	værd	værd	AC:§§u§:--:p---	_	
+55-15	at	at	UI:----:--:----	_	
+55-16	smide	smide	VI:----:-a:----	_	
+55-17	trøje	trøje	NC:siuc:--:----	_	
+55-18	og	og	CC:----:--:----	_	
+55-19	bukser	buks	NC:piu#:--:----	_	
+55-20	for	for	T-:----:--:----	_	
+55-21	.	.	ZP	_	
+
+#id=56
+#text=Slaget om, hvemder skal lede Nato, står ikke på den formelle dagsorden, når EU's udenrigsministre samles.
+56-1	Slaget	slag	NC:sdun:--:----	slag_2a	
+56-2	om	om	T-:----:--:----	_	
+56-3	,	,	ZD	_	
+56-4	hvemder	hvemde	NC:piu#:--:----	_	
+56-5	skal	skulle	VF:----:sa:----	_	
+56-6	lede	lede	VI:----:-a:----	_	
+56-7	Nato	Nato	NP:siu#:--:----	_	
+56-8	,	,	ZD	_	
+56-9	står	stå	VF:----:sa:----	_	
+56-10	ikke	ikke	D-:----:--:u---	_	
+56-11	på	på	T-:----:--:----	_	
+56-12	den	den	PM:s-uc:--:----	_	
+56-13	formelle	formel	AC:sdu#:--:p---	_	
+56-14	dagsorden	dagsorden	NC:siuc:--:----	_	
+56-15	,	,	ZD	_	
+56-16	når	når	CS:----:--:----	_	
+56-17	EU	EU	NP:siu#:--:----	_	
+56-18	'	'	ZA	_	
+56-19	s	@s	MN:sig#:--:----	_	
+56-20	udenrigsministre	udenrigsminister	NC:piu#:--:----	_	
+56-21	samles	samle	VF:----:sp:----	_	
+56-22	.	.	ZP	_	
+
+#id=57
+#text=Efter det forsøg kastede han håndklædet og blev eksperimentalforsker, og derfra gik det slag i slag.
+57-1	Efter	efter	T-:----:--:----	_	
+57-2	det	den	PM:s-un:--:----	_	
+57-3	forsøg	forsøg	NC:siun:--:----	_	
+57-4	kastede	kaste	VF:----:ta:----	_	
+57-5	han	han	PP:s-nc:--:-3n-	_	
+57-6	håndklædet	håndklæde	NC:sdun:--:----	_	
+57-7	og	og	CC:----:--:----	_	
+57-8	blev	blive	VF:----:ta:----	_	
+57-9	eksperimentalforsker	eksperimentalforsker	NC:siuc:--:----	_	
+57-10	,	,	ZD	_	
+57-11	og	og	CC:----:--:----	_	
+57-12	derfra	derfra	D-:----:--:u---	_	
+57-13	gik	gå	VF:----:ta:----	_	
+57-14	det	den	PM:s-un:--:----	_	
+57-15	slag	slag	NC:siun:--:----	slag_F_slag i slag	
+57-16	i	i	T-:----:--:----	_	
+57-17	slag	slag	NC:siun:--:----	slag_F_slag i slag	
+57-18	.	.	ZP	_	
+
+#id=58
+#text="Det bliver det afgørende slag", vurderer analytiker og tidligere general Talat Masood og retter skytset mod præsident Zardari.
+58-1	"	"	ZI	_	
+58-2	Det	det	PP:s-un:--:-3n-	_	
+58-3	bliver	blive	VF:----:sa:----	_	
+58-4	det	den	PM:s-un:--:----	_	
+58-5	afgørende	afgørende	AC:§§u§:--:p---	_	
+58-6	slag	slag	NC:siun:--:----	slag_2_2b_2c	
+58-7	"	"	ZI	_	
+58-8	,	,	ZD	_	
+58-9	vurderer	vurdere	VF:----:sa:----	_	
+58-10	analytiker	analytiker	NC:siuc:--:----	_	
+58-11	og	og	CC:----:--:----	_	
+58-12	tidligere	tidlig	AC:##u#:--:c---	_	
+58-13	general	general	NC:siuc:--:----	_	
+58-14	Talat	Talat	NP:siu#:--:----	_	
+58-15	Masood	Masood	NP:siu#:--:----	_	
+58-16	og	og	CC:----:--:----	_	
+58-17	retter	rette	VF:----:sa:----	_	
+58-18	skytset	skyts	NC:sdun:--:----	_	
+58-19	mod	mod	T-:----:--:----	_	
+58-20	præsident	præsident	NC:siuc:--:----	_	
+58-21	Zardari	Zardari	NP:siu#:--:----	_	
+58-22	.	.	ZP	_	
+
+#id=59
+#text=De kom fra Venedig, hvor maskeballet har levet sit eget liv siden 1162, da Venedigs borgere fejrede et sejrrigt slag med et maskeret optog, der senere blev en tradition og gav en fyr som Casanova ideelle erobringsmuligheder blandt borgerskabets kælne fruer.
+59-1	De	de	PP:p-n#:--:-3n-	_	
+59-2	kom	komme	VF:----:ta:----	_	
+59-3	fra	fra	T-:----:--:----	_	
+59-4	Venedig	Venedig	NP:siu#:--:----	_	
+59-5	,	,	ZD	_	
+59-6	hvor	hvor	D-:----:--:u---	_	
+59-7	maskeballet	maskebal	NC:sdun:--:----	_	
+59-8	har	have	VF:----:sa:----	_	
+59-9	levet	leve	VT:siu#:t-:----	_	
+59-10	sit	sin	PO:s--n:--:-3ys	_	
+59-11	eget	egen	AC:s§un:--:p---	_	
+59-12	liv	liv	NC:siun:--:----	_	
+59-13	siden	siden	T-:----:--:----	_	
+59-14	1162	1162	LC:--u-:--:----	_	
+59-15	,	,	ZD	_	
+59-16	da	da	CS:----:--:----	_	
+59-17	Venedigs	Venedig	NP:sig#:--:----	_	
+59-18	borgere	borger	NC:piu#:--:----	_	
+59-19	fejrede	fejre	VF:----:ta:----	_	
+59-20	et	en	PI:s-un:--:----	_	
+59-21	sejrrigt	sejrrig	AC:siun:--:p---	_	
+59-22	slag	slag	NC:siun:--:----	slag_2_2b_2c	
+59-23	med	med	T-:----:--:----	_	
+59-24	et	en	PI:s-un:--:----	_	
+59-25	maskeret	maskere	VT:siu#:t-:----	_	
+59-26	optog	optog	NC:siun:--:----	_	
+59-27	,	,	ZD	_	
+59-28	der	der	US:----:--:----	_	
+59-29	senere	sen	AD:----:--:c---	_	
+59-30	blev	blive	VF:----:ta:----	_	
+59-31	en	en	PI:s-uc:--:----	_	
+59-32	tradition	tradition	NC:siuc:--:----	_	
+59-33	og	og	CC:----:--:----	_	
+59-34	gav	give	VF:----:ta:----	_	
+59-35	en	en	PI:s-uc:--:----	_	
+59-36	fyr	fyr	NC:siuc:--:----	_	
+59-37	som	som	US:----:--:----	_	
+59-38	Casanova	casanova	NC:siuc:--:----	_	
+59-39	ideelle	ideel	AC:p#u#:--:p---	_	
+59-40	erobringsmuligheder	erobringsmulighed	NC:piu#:--:----	_	
+59-41	blandt	blandt	T-:----:--:----	_	
+59-42	borgerskabets	borgerskab	NC:sdgn:--:----	_	
+59-43	kælne	kælen	AC:p#u#:--:p---	_	
+59-44	fruer	frue	NC:piu#:--:----	_	
+59-45	.	.	ZP	_	
+
+#id=60
+#text=Trods sin optimisme erkendte han, at han muligvis ville få søvnløse nætter op til slaget i Manchester.
+60-1	Trods	trods	T-:----:--:----	_	
+60-2	sin	sin	PO:s--c:--:-3ys	_	
+60-3	optimisme	optimisme	NC:siuc:--:----	_	
+60-4	erkendte	erkende	VF:----:ta:----	_	
+60-5	han	han	PP:s-nc:--:-3n-	_	
+60-6	,	,	ZD	_	
+60-7	at	at	CS:----:--:----	_	
+60-8	han	han	PP:s-nc:--:-3n-	_	
+60-9	muligvis	muligvis	D-:----:--:u---	_	
+60-10	ville	ville	VF:----:ta:----	_	
+60-11	få	få	VI:----:-a:----	_	
+60-12	søvnløse	søvnløs	AC:p#u#:--:p---	_	
+60-13	nætter	nat	NC:piu#:--:----	_	
+60-14	op	op	D-:----:--:u---	_	
+60-15	til	til	T-:----:--:----	_	
+60-16	slaget	slag	NC:sdun:--:----	slag_2a	
+60-17	i	i	T-:----:--:----	_	
+60-18	Manchester	Manchester	NP:siu#:--:----	_	
+60-19	.	.	ZP	_	
+
+#id=61
+#text= Vi skal hygge os med et taktisk slag fra 3.
+61-1	Vi	vi	PP:p-nc:--:-1n-	_	
+61-2	skal	skulle	VF:----:sa:----	_	
+61-3	hygge	hygge	VI:----:-a:----	_	
+61-4	os	vi	PP:p-uc:--:-1#-	_	
+61-5	med	med	T-:----:--:----	_	
+61-6	et	en	PI:s-un:--:----	_	
+61-7	taktisk	taktisk	AC:siun:--:p---	_	
+61-8	slag	slag	NC:siun:--:----	slag_6_6a	
+61-9	fra	fra	T-:----:--:----	_	
+61-10	3	3	LC:--u-:--:----	_	
+61-11	.	.	ZP	_	
+
+#id=62
+#text=En række slag og træfninger, der først knækkede de stolte zuluer og senere skulle føre frem til Boerkrigen, hvor det engelske imperium på en måde led sit symbolske Waterloo.
+62-1	En	en	PI:s-uc:--:----	_	
+62-2	række	række	NC:siuc:--:----	_	
+62-3	slag	slag	NC:siun:--:----	slag_2_2b_2c	
+62-4	og	og	CC:----:--:----	_	
+62-5	træfninger	træfning	NC:piu#:--:----	_	
+62-6	,	,	ZD	_	
+62-7	der	der	US:----:--:----	_	
+62-8	først	først	D-:----:--:u---	_	
+62-9	knækkede	knække	VF:----:ta:----	_	
+62-10	de	den	PM:p-u#:--:----	_	
+62-11	stolte	stolt	AC:p#u#:--:p---	_	
+62-12	zuluer	zulu	NC:piu#:--:----	_	
+62-13	og	og	CC:----:--:----	_	
+62-14	senere	sen	AD:----:--:c---	_	
+62-15	skulle	skulle	VF:----:ta:----	_	
+62-16	føre	føre	VI:----:-a:----	_	
+62-17	frem	frem	D-:----:--:u---	_	
+62-18	til	til	T-:----:--:----	_	
+62-19	Boerkrigen	Boerkrigen	NP:siu#:--:----	_	
+62-20	,	,	ZD	_	
+62-21	hvor	hvor	D-:----:--:u---	_	
+62-22	det	den	PM:s-un:--:----	_	
+62-23	engelske	engelsk	AC:sdu#:--:p---	_	
+62-24	imperium	imperium	NC:siun:--:----	_	
+62-25	på	på	T-:----:--:----	_	
+62-26	en	en	PI:s-uc:--:----	_	
+62-27	måde	måde	NC:siuc:--:----	_	
+62-28	led	lide	VF:----:ta:----	_	
+62-29	sit	sin	PO:s--n:--:-3ys	_	
+62-30	symbolske	symbolsk	AC:sdu#:--:p---	_	
+62-31	Waterloo	Waterloo	NP:siu#:--:----	_	
+62-32	.	.	ZP	_	
+
+#id=63
+#text=Liverpool har under manager Rafael Benitez vundet mange store slag med effektivt og klogt forsvarsspil, på at være utrolig godt organiseret på midtbanen og så lave afgørende mål på direkte spil.
+63-1	Liverpool	Liverpool	NP:siu#:--:----	_	
+63-2	har	have	VF:----:sa:----	_	
+63-3	under	under	T-:----:--:----	_	
+63-4	manager	manager	NC:siuc:--:----	_	
+63-5	Rafael	Rafael	NP:siu#:--:----	_	
+63-6	Benitez	Benitez	NP:siu#:--:----	_	
+63-7	vundet	vinde	VT:siu#:t-:----	_	
+63-8	mange	mangen	AC:p#u#:--:p---	_	
+63-9	store	stor	AC:p#u#:--:p---	_	
+63-10	slag	slag	NC:piu#:--:----	slag_2a	
+63-11	med	med	T-:----:--:----	_	
+63-12	effektivt	effektiv	AC:siun:--:p---	_	
+63-13	og	og	CC:----:--:----	_	
+63-14	klogt	klog	AC:siun:--:p---	_	
+63-15	forsvarsspil	forsvarsspil	NC:siun:--:----	_	
+63-16	,	,	ZD	_	
+63-17	på	på	T-:----:--:----	_	
+63-18	at	at	UI:----:--:----	_	
+63-19	være	være	VI:----:-a:----	_	
+63-20	utrolig	utrolig	AD:----:--:p---	_	
+63-21	godt	god	AD:----:--:p---	_	
+63-22	organiseret	organisere	VT:siu#:t-:----	_	
+63-23	på	på	T-:----:--:----	_	
+63-24	midtbanen	midtbane	NC:sduc:--:----	_	
+63-25	og	og	CC:----:--:----	_	
+63-26	så	så	D-:----:--:u---	_	
+63-27	lave	lave	VI:----:-a:----	_	
+63-28	afgørende	afgørende	AC:§§u§:--:p---	_	
+63-29	mål	mål	NC:siun:--:----	_	
+63-30	på	på	T-:----:--:----	_	
+63-31	direkte	direkte	AC:§§u§:--:p---	_	
+63-32	spil	spil	NC:siun:--:----	_	
+63-33	.	.	ZP	_	
+
+#id=64
+#text="Det er ikke usædvanligt at tage af sted, udkæmpe et slag, tage tilbage igen og samtidig køre 800 kilometer på et døgn", siger den 55-årige general Abu Bakr, en af JEM's ledende officerer, som har kæmpet de sidste seks år i Darfurs ørkener.
+64-1	"	"	ZI	_	
+64-2	Det	det	PP:s-un:--:-3n-	_	
+64-3	er	være	VF:----:sa:----	_	
+64-4	ikke	ikke	D-:----:--:u---	_	
+64-5	usædvanligt	usædvanlig	AC:siun:--:p---	_	
+64-6	at	at	UI:----:--:----	_	
+64-7	tage	tage	VI:----:-a:----	_	
+64-8	af	af	T-:----:--:----	_	
+64-9	sted	sted	NC:siun:--:----	_	
+64-10	,	,	ZD	_	
+64-11	udkæmpe	udkæmpe	VI:----:-a:----	_	
+64-12	et	en	PI:s-un:--:----	_	
+64-13	slag	slag	NC:siun:--:----	slag_2_2b_2c	
+64-14	,	,	ZD	_	
+64-15	tage	tag	NC:piu#:--:----	_	
+64-16	tilbage	tilbage	D-:----:--:u---	_	
+64-17	igen	igen	D-:----:--:u---	_	
+64-18	og	og	CC:----:--:----	_	
+64-19	samtidig	samtidig	D-:----:--:u---	_	
+64-20	køre	køre	VI:----:-a:----	_	
+64-21	800	800	LC:--u-:--:----	_	
+64-22	kilometer	kilometer	NC:piu#:--:----	_	
+64-23	på	på	T-:----:--:----	_	
+64-24	et	en	PI:s-un:--:----	_	
+64-25	døgn	døgn	NC:siun:--:----	_	
+64-26	"	"	ZI	_	
+64-27	,	,	ZD	_	
+64-28	siger	sige	VF:----:sa:----	_	
+64-29	den	den	PM:s-uc:--:----	_	
+64-30	55	55	LW:----:--:----	_	
+64-31	-	-	ZH	_	
+64-32	årige	årig	AC:sdu#:--:p---	_	
+64-33	general	general	NC:siuc:--:----	_	
+64-34	Abu	Abu	NP:siu#:--:----	_	
+64-35	Bakr	Bakr	NP:siu#:--:----	_	
+64-36	,	,	ZD	_	
+64-37	en	en	PI:s-uc:--:----	_	
+64-38	af	af	T-:----:--:----	_	
+64-39	JEM	JEM	NP:siu#:--:----	_	
+64-40	'	'	ZA	_	
+64-41	s	@s	MN:sig#:--:----	_	
+64-42	ledende	lede	VP:##u#:s-:----	_	
+64-43	officerer	officer	NC:piu#:--:----	_	
+64-44	,	,	ZD	_	
+64-45	som	som	US:----:--:----	_	
+64-46	har	have	VF:----:sa:----	_	
+64-47	kæmpet	kæmpe	VT:siu#:t-:----	_	
+64-48	de	den	PM:p-u#:--:----	_	
+64-49	sidste	sidste	AC:§§u§:--:p---	_	
+64-50	seks	seks	LC:--u-:--:----	_	
+64-51	år	år	NC:piu#:--:----	_	
+64-52	i	i	T-:----:--:----	_	
+64-53	Darfurs	Darfurs	NP:sig#:--:----	_	
+64-54	ørkener	ørken	NC:piu#:--:----	_	
+64-55	.	.	ZP	_	
+
+#id=65
+#text=Afstanden til udspørgeren og kommissionen understreges ved, at man med et slag er Des med personer, som man i en halv menneskealder har været dus med, og ved, at man tiltales med anvendelse af sit fulde navn.
+65-1	Afstanden	afstand	NC:sduc:--:----	_	
+65-2	til	til	T-:----:--:----	_	
+65-3	udspørgeren	udspørger	NC:sduc:--:----	_	
+65-4	og	og	CC:----:--:----	_	
+65-5	kommissionen	kommission	NC:sduc:--:----	_	
+65-6	understreges	understrege	VF:----:sp:----	_	
+65-7	ved	ved	T-:----:--:----	_	
+65-8	,	,	ZD	_	
+65-9	at	at	CS:----:--:----	_	
+65-10	man	man	PI:#-uc:--:----	_	
+65-11	med	med	T-:----:--:----	_	
+65-12	et	en	PI:s-un:--:----	_	
+65-13	slag	slag	NC:siun:--:----	slag_F_med ét slag	
+65-14	er	være	VF:----:sa:----	_	
+65-15	Des	Des	NP:siu#:--:----	_	
+65-16	med	med	T-:----:--:----	_	
+65-17	personer	person	NC:piu#:--:----	_	
+65-18	,	,	ZD	_	
+65-19	som	som	US:----:--:----	_	
+65-20	man	man	PI:#-uc:--:----	_	
+65-21	i	i	T-:----:--:----	_	
+65-22	en	en	PI:s-uc:--:----	_	
+65-23	halv	halv	AC:siuc:--:p---	_	
+65-24	menneskealder	menneskealder	NC:siuc:--:----	_	
+65-25	har	have	VF:----:sa:----	_	
+65-26	været	være	VT:siu#:t-:----	_	
+65-27	dus	dus	D-:----:--:u---	_	
+65-28	med	med	T-:----:--:----	_	
+65-29	,	,	ZD	_	
+65-30	og	og	CC:----:--:----	_	
+65-31	ved	ved	T-:----:--:----	_	
+65-32	,	,	ZD	_	
+65-33	at	at	CS:----:--:----	_	
+65-34	man	man	PI:#-uc:--:----	_	
+65-35	tiltales	tiltale	VF:----:sp:----	_	
+65-36	med	med	T-:----:--:----	_	
+65-37	anvendelse	anvendelse	NC:siuc:--:----	_	
+65-38	af	af	T-:----:--:----	_	
+65-39	sit	sin	PO:s--n:--:-3ys	_	
+65-40	fulde	fuld	sdu#:--:p---	_	
+65-41	navn	navn	NC:siun:--:----	_	
+65-42	.	.	ZP	_	
+
+#id=66
+#text=Afstanden til udspørgeren og kommissionen understreges ved, at man med et slag er Des med personer, som man i en halv menneskealder har været dus med, og ved, at man tiltales med anvendelse af sit fulde navn.
+66-1	Afstanden	afstand	NC:sduc:--:----	_	
+66-2	til	til	T-:----:--:----	_	
+66-3	udspørgeren	udspørger	NC:sduc:--:----	_	
+66-4	og	og	CC:----:--:----	_	
+66-5	kommissionen	kommission	NC:sduc:--:----	_	
+66-6	understreges	understrege	VF:----:sp:----	_	
+66-7	ved	ved	T-:----:--:----	_	
+66-8	,	,	ZD	_	
+66-9	at	at	CS:----:--:----	_	
+66-10	man	man	PI:#-uc:--:----	_	
+66-11	med	med	T-:----:--:----	_	
+66-12	et	en	PI:s-un:--:----	_	
+66-13	slag	slag	NC:siun:--:----	slag_F_med ét slag	
+66-14	er	være	VF:----:sa:----	_	
+66-15	Des	Des	NP:siu#:--:----	_	
+66-16	med	med	T-:----:--:----	_	
+66-17	personer	person	NC:piu#:--:----	_	
+66-18	,	,	ZD	_	
+66-19	som	som	US:----:--:----	_	
+66-20	man	man	PI:#-uc:--:----	_	
+66-21	i	i	T-:----:--:----	_	
+66-22	en	en	PI:s-uc:--:----	_	
+66-23	halv	halv	AC:siuc:--:p---	_	
+66-24	menneskealder	menneskealder	NC:siuc:--:----	_	
+66-25	har	have	VF:----:sa:----	_	
+66-26	været	være	VT:siu#:t-:----	_	
+66-27	dus	dus	D-:----:--:u---	_	
+66-28	med	med	T-:----:--:----	_	
+66-29	,	,	ZD	_	
+66-30	og	og	CC:----:--:----	_	
+66-31	ved	ved	T-:----:--:----	_	
+66-32	,	,	ZD	_	
+66-33	at	at	CS:----:--:----	_	
+66-34	man	man	PI:#-uc:--:----	_	
+66-35	tiltales	tiltale	VF:----:sp:----	_	
+66-36	med	med	T-:----:--:----	_	
+66-37	anvendelse	anvendelse	NC:siuc:--:----	_	
+66-38	af	af	T-:----:--:----	_	
+66-39	sit	sin	PO:s--n:--:-3ys	_	
+66-40	fulde	fuld	AC:sdu#:--:p---	_	
+66-41	navn	navn	NC:siun:--:----	_	
+66-42	.	.	ZP	_	
+
+#id=67
+#text= Men den daværende britiske premierminister sagde det efter slaget ved El Alamein oktober-november 1942, og ikke, som vi skrev, efter ' slaget om England' - også et Churchill-udtryk - julioktober 1940, da Royal Air Force genvandt luftherredømmet.
+67-1	Men	men	CC:----:--:----	_	
+67-2	den	den	PM:s-uc:--:----	_	
+67-3	daværende	daværende	AC:§§u§:--:p---	_	
+67-4	britiske	britisk	AC:sdu#:--:p---	_	
+67-5	premierminister	premierminister	NC:siuc:--:----	_	
+67-6	sagde	sige	VF:----:ta:----	_	
+67-7	det	det	PP:s-un:--:-3n-	_	
+67-8	efter	efter	T-:----:--:----	_	
+67-9	slaget	slag	NC:sdun:--:----	slag_2_2b_2c	
+67-10	ved	ved	T-:----:--:----	_	
+67-11	El	El	NP:siu#:--:----	_	
+67-12	Alamein	Alamein	NP:siu#:--:----	_	
+67-13	oktober	oktober	NW:----:--:----	_	
+67-14	-	-	ZH	_	
+67-15	november	november	NC:siuc:--:----	_	
+67-16	1942	1942	LC:--u-:--:----	_	
+67-17	,	,	ZD	_	
+67-18	og	og	CC:----:--:----	_	
+67-19	ikke	ikke	D-:----:--:u---	_	
+67-20	,	,	ZD	_	
+67-21	som	som	US:----:--:----	_	
+67-22	vi	vi	PP:p-nc:--:-1n-	_	
+67-23	skrev	skrive	VF:----:ta:----	_	
+67-24	,	,	ZD	_	
+67-25	efter	efter	CS:----:--:----	_	
+67-26	'	'	XY:----:--:----	_	
+67-27	slaget	slag	NC:sdun:--:----	slag_2_2b_2c	
+67-28	om	om	T-:----:--:----	_	
+67-29	England	England	NP:siu#:--:----	_	
+67-30	'	'	ZA	_	
+67-31	-	-	NC:piu#:--:----	_	
+67-32	også	også	D-:----:--:u---	_	
+67-33	et	en	PI:s-un:--:----	_	
+67-34	Churchill	Churchill	NW:----:--:----	_	
+67-35	-	-	ZH	_	
+67-36	udtryk	udtryk	NW:----:--:----	_	
+67-37	-	-	ZH	_	
+67-38	julioktober	julioktober	NC:siuc:--:----	_	
+67-39	1940	1940	LC:--u-:--:----	_	
+67-40	,	,	ZD	_	
+67-41	da	da	CS:----:--:----	_	
+67-42	Royal	Royal	NP:siu#:--:----	_	
+67-43	Air	Air	XF:----:--:----	_	
+67-44	Force	force	NC:siuc:--:----	_	
+67-45	genvandt	genvinde	VF:----:ta:----	_	
+67-46	luftherredømmet	luftherredømme	NC:sdun:--:----	_	
+67-47	.	.	ZP	_	
+
+#id=68
+#text= Den gængse danske oversættelse af ' slaget om England' er for resten forkert.
+68-1	Den	den	PM:s-uc:--:----	_	
+68-2	gængse	gængs	AC:sdu#:--:p---	_	
+68-3	danske	dansk	AC:sdu#:--:p---	_	
+68-4	oversættelse	oversættelse	NC:siuc:--:----	_	
+68-5	af	af	:--:----	_	
+68-6	'	'	XY:----:--:----	_	
+68-7	slaget	slag	NC:sdun:--:----	slag_2_2b_2c	
+68-8	om	om	T-:----:--:----	_	
+68-9	England	England	NP:siu#:--:----	_	
+68-10	'	'	ZA	_	
+68-11	er	@er	MN:siu#:--:----	_	
+68-12	for	for	T-:----:--:----	_	
+68-13	resten	rest	NC:sduc:--:----	_	
+68-14	forkert	forkert	AC:siu§:--:p---	_	
+68-15	.	.	ZP	_	
+
+#id=69
+#text=EN AFGRÆNSET legalisering af hash ville med ét slag frigøre ressourcer, som politiet tydeligvis har brug for i kampen mod gadebander.
+69-1	EN	en	PI:s-uc:--:----	_	
+69-2	AFGRÆNSET	afgrænse	VT:siu#:t-:----	_	
+69-3	legalisering	legalisering	NC:siuc:--:----	_	
+69-4	af	af	T-:----:--:----	_	
+69-5	hash	hash	NC:siuc:--:----	_	
+69-6	ville	ville	VF:----:ta:----	_	
+69-7	med	med	T-:----:--:----	_	
+69-8	ét	en	PI:s-un:--:----	_	
+69-9	slag	slag	NC:siun:--:----	slag_F_med ét slag	
+69-10	frigøre	frigøre	VI:----:-a:----	_	
+69-11	ressourcer	ressource	NC:piu#:--:----	_	
+69-12	,	,	ZD	_	
+69-13	som	som	US:----:--:----	_	
+69-14	politiet	politi	NC:sdun:--:----	_	
+69-15	tydeligvis	tydeligvis	D-:----:--:u---	_	
+69-16	har	have	VF:----:sa:----	_	
+69-17	brug	brug	NC:siuc:--:----	_	
+69-18	for	for	T-:----:--:----	_	
+69-19	i	i	T-:----:--:----	_	
+69-20	kampen	kamp	NC:sduc:--:----	_	
+69-21	mod	mod	T-:----:--:----	_	
+69-22	gadebander	gadebande	NC:piu#:--:----	_	
+69-23	.	.	ZP	_	
+
+#id=70
+#text= Kulturhuse rundt omkring i byen har stadig gang i deres børnekulturfestival, og derfor er der stort set frit slag for deltagelse i 'Hip Hop for Dig' i Kulturhuset Indre By i dag kl. 13, natgyserløb fra Valby Medborgerhus i aften kl. 20 og babykoncert på Pilegården søndag kl. 11.
+70-1	Kulturhuse	kulturhus	NC:piu#:--:----	_	
+70-2	rundt	rundt	D-:----:--:u---	_	
+70-3	omkring	omkring	T-:----:--:----	_	
+70-4	i	i	T-:----:--:----	_	
+70-5	byen	by	NC:sduc:--:----	_	
+70-6	har	have	VF:----:sa:----	_	
+70-7	stadig	stadig	AC:siuc:--:p---	_	
+70-8	gang	gang	NC:siuc:--:----	_	
+70-9	i	i	T-:----:--:----	_	
+70-10	deres	deres	PO:#--#:--:-3np	_	
+70-11	børnekulturfestival	børnekulturfestival	NC:siuc:--:----	_	
+70-12	,	,	ZD	_	
+70-13	og	og	CC:----:--:----	_	
+70-14	derfor	derfor	D-:----:--:u---	_	
+70-15	er	være	VF:----:sa:----	_	
+70-16	der	der	US:----:--:----	_	
+70-17	stort	stor	AD:----:--:p---	_	
+70-18	set	se	VT:siu#:t-:----	_	
+70-19	frit	fri	AC:siun:--:p---	_	
+70-20	slag	slag	NC:siun:--:----	slag_F_frit slag	
+70-21	for	for	T-:----:--:----	_	
+70-22	deltagelse	deltagelse	NC:siuc:--:----	_	
+70-23	i	i	XS:----:--:----	_	
+70-24	'	'	ZA	_	
+70-25	Hip	hip	XF:----:--:----	_	
+70-26	Hop	hop	XF:----:--:----	_	
+70-27	for	for	T-:----:--:----	_	
+70-28	Dig	Dig	XY:----:--:----	_	
+70-29	'	'	ZA	_	
+70-30	i	i	T-:----:--:----	_	
+70-31	Kulturhuset	kulturhus	NC:sdun:--:----	_	
+70-32	Indre	indre	AC:§§u§:--:p---	_	
+70-33	By	by	NC:siuc:--:----	_	
+70-34	i	i	T-:----:--:----	_	
+70-35	dag	dag	NC:siuc:--:----	_	
+70-36	kl	kl	XS:----:--:----	_	
+70-37	.	.	ZP	_	
+70-38	13	13	LC:--u-:--:----	_	
+70-39	,	,	ZD	_	
+70-40	natgyserløb	natgyserløbe	VF:----:ta:----	_	
+70-41	fra	fra	T-:----:--:----	_	
+70-42	Valby	Valby	NP:siu#:--:----	_	
+70-43	Medborgerhus	medborgerhus	NC:siun:--:----	_	
+70-44	i	i	T-:----:--:----	_	
+70-45	aften	aften	NC:siuc:--:----	_	
+70-46	kl	kl	XS:----:--:----	_	
+70-47	.	.	ZP	_	
+70-48	20	20	LC:--u-:--:----	_	
+70-49	og	og	CC:----:--:----	_	
+70-50	babykoncert	babykoncert	NC:siuc:--:----	_	
+70-51	på	på	T-:----:--:----	_	
+70-52	Pilegården	Pilegården	NP:siu#:--:----	_	
+70-53	søndag	søndag	NC:siuc:--:----	_	
+70-54	kl	kl	XS:----:--:----	_	
+70-55	.	.	ZP	_	
+70-56	11	11	LC:--u-:--:----	_	
+70-57	.	.	ZP	_	
+
+#id=71
+#text=Med et rask slag på rejsetasken er han så ikke en af de få kunstnere herhjemme, der har formået so oder so at omkalfatre senromantikkens poetiske flanør til en filmisk kunstner med både stort f og k?
+71-1	Med	med	T-:----:--:----	_	
+71-2	et	en	PI:s-un:--:----	_	
+71-3	rask	rask	AC:siu§:--:p---	_	
+71-4	slag	slag	NC:siun:--:----	slag_F_slag på tasken	
+71-5	på	på	T-:----:--:----	_	
+71-6	rejsetasken	rejsetaske	NC:sduc:--:----	_	
+71-7	er	være	VF:----:sa:----	_	
+71-8	han	han	PP:s-nc:--:-3n-	_	
+71-9	så	så	D-:----:--:u---	_	
+71-10	ikke	ikke	D-:----:--:u---	_	
+71-11	en	en	PI:s-uc:--:----	_	
+71-12	af	af	T-:----:--:----	_	
+71-13	de	den	PM:p-u#:--:----	_	
+71-14	få	få	AC:p#u#:--:p---	_	
+71-15	kunstnere	kunstner	NC:piu#:--:----	_	
+71-16	herhjemme	herhjemme	D-:----:--:u---	_	
+71-17	,	,	ZD	_	
+71-18	der	der	US:----:--:----	_	
+71-19	har	have	VF:----:sa:----	_	
+71-20	formået	formå	VT:siu#:t-:----	_	
+71-21	so	so	NC:siuc:--:----	_	
+71-22	oder	ode	NC:piu#:--:----	_	
+71-23	so	so	NC:siuc:--:----	_	
+71-24	at	at	UI:----:--:----	_	
+71-25	omkalfatre	omkalfatre	VI:----:-a:----	_	
+71-26	senromantikkens	senromantik	NC:sdgc:--:----	_	
+71-27	poetiske	poetisk	AC:sdu#:--:p---	_	
+71-28	flanør	flanør	NC:siuc:--:----	_	
+71-29	til	til	T-:----:--:----	_	
+71-30	en	en	PI:s-uc:--:----	_	
+71-31	filmisk	filmisk	AC:siuc:--:p---	_	
+71-32	kunstner	kunstner	NC:siuc:--:----	_	
+71-33	med	med	T-:----:--:----	_	
+71-34	både	både	D-:----:--:u---	_	
+71-35	stort	stor	AD:----:--:p---	_	
+71-36	f	for	T-:----:--:----	_	
+71-37	og	og	CC:----:--:----	_	
+71-38	k	k	XY:----:--:----	_	
+71-39	?	?	ZQ	_	
+
+#id=72
+#text=og 45 slag for det guitarvirtuose koffeinchok kan ikke siges at være slemt - slet ikke kvaliteten taget i betragtning.
+72-1	og	og	CC:----:--:----	_	
+72-2	45	45	LC:--u-:--:----	_	
+72-3	slag	slag	NC:piu#:--:----	slag_1_1c	
+72-4	for	for	T-:----:--:----	_	
+72-5	det	den	PM:s-un:--:----	_	
+72-6	guitarvirtuose	guitarvirtuos	AC:sdu#:--:p---	_	
+72-7	koffeinchok	koffeinchok	NC:siun:--:----	_	
+72-8	kan	kunne	VF:----:sa:----	_	
+72-9	ikke	ikke	D-:----:--:u---	_	
+72-10	siges	sige	VF:----:sp:----	_	
+72-11	at	at	UI:----:--:----	_	
+72-12	være	være	VI:----:-a:----	_	
+72-13	slemt	slem	AD:----:--:p---	_	
+72-14	-	-	NC:piu#:--:----	_	
+72-15	slet	slet	D-:----:--:u---	_	
+72-16	ikke	ikke	D-:----:--:u---	_	
+72-17	kvaliteten	kvalitet	NC:sduc:--:----	_	
+72-18	taget	tage	VT:siu#:t-:----	_	
+72-19	i	i	T-:----:--:----	_	
+72-20	betragtning	betragtning	NC:siuc:--:----	_	
+72-21	.	.	ZP	_	
+
+#id=73
+#text=Når først statsministeren er nødt til at henvise til alt det, der står med småt i kontraktpolitikken, er slaget om folkestemningen ved at være tabt.
+73-1	Når	når	CS:----:--:----	_	
+73-2	først	først	D-:----:--:u---	_	
+73-3	statsministeren	statsminister	NC:sduc:--:----	_	
+73-4	er	være	VF:----:sa:----	_	
+73-5	nødt	nødt	AC:§§u§:--:p---	_	
+73-6	til	til	T-:----:--:----	_	
+73-7	at	at	UI:----:--:----	_	
+73-8	henvise	henvise	VI:----:-a:----	_	
+73-9	til	til	T-:----:--:----	_	
+73-10	alt	al	PI:s-un:--:----	_	
+73-11	det	det	PP:s-un:--:-3n-	_	
+73-12	,	,	ZD	_	
+73-13	der	der	US:----:--:----	_	
+73-14	står	stå	VF:----:sa:----	_	
+73-15	med	med	D-:----:--:u---	_	
+73-16	småt	små	AD:----:--:p---	_	
+73-17	i	i	T-:----:--:----	_	
+73-18	kontraktpolitikken	kontraktpolitik	NC:sduc:--:----	_	
+73-19	,	,	ZD	_	
+73-20	er	være	VF:----:sa:----	_	
+73-21	slaget	slag	NC:sdun:--:----	slag_2_2b_2c	
+73-22	om	om	T-:----:--:----	_	
+73-23	folkestemningen	folkestemning	NC:sduc:--:----	_	
+73-24	ved	ved	T-:----:--:----	_	
+73-25	at	at	UI:----:--:----	_	
+73-26	være	være	VI:----:-a:----	_	
+73-27	tabt	tabe	VT:siu#:t-:----	_	
+73-28	.	.	ZP	_	
+
+#id=74
+#text=Og ganske rigtigt rammes de to uniformerede budbringere, når de stive som allerede rejste monumenter over de faldne aflirer deres indlærte dødsremse, af spyt og enkelte slag fra de mennesker, hvis liv netop er brudt sammen, i nogle dybt rørende scener, præget af den ægthed, der fornemt fastholdes i 'The Messenger'.
+74-1	Og	og	CC:----:--:----	_	
+74-2	ganske	ganske	D-:----:--:u---	_	
+74-3	rigtigt	rigtig	AD:----:--:p---	_	
+74-4	rammes	ramme	VF:----:sp:----	_	
+74-5	de	den	PM:p-u#:--:----	_	
+74-6	to	to	LC:--u-:--:----	_	
+74-7	uniformerede	uniformere	VP:p#u#:t-:----	_	
+74-8	budbringere	budbringer	NC:piu#:--:----	_	
+74-9	,	,	ZD	_	
+74-10	når	når	CS:----:--:----	_	
+74-11	de	den	PM:p-u#:--:----	_	
+74-12	stive	stiv	AC:p#u#:--:p---	_	
+74-13	som	som	US:----:--:----	_	
+74-14	allerede	allerede	:--:u---	_	
+74-15	rejste	rejse	VP:p#u#:t-:----	_	
+74-16	monumenter	monument	NC:piu#:--:----	_	
+74-17	over	over	T-:----:--:----	_	
+74-18	de	de	NP:siu#:--:----	_	
+74-19	faldne	faldne	NP:siu#:--:----	_	
+74-20	aflirer	aflire	VF:----:sa:----	_	
+74-21	deres	deres	PO:#--#:--:-3np	_	
+74-22	indlærte	indlære	VP:sdu#:t-:----	_	
+74-23	dødsremse	dødsremse	NC:siuc:--:----	_	
+74-24	,	,	ZD	_	
+74-25	af	af	T-:----:--:----	_	
+74-26	spyt	spyt	NC:siun:--:----	_	
+74-27	og	og	CC:----:--:----	_	
+74-28	enkelte	enkelt	AC:p#u#:--:p---	_	
+74-29	slag	slag	NC:piu#:--:----	slag_1_1c	
+74-30	fra	fra	T-:----:--:----	_	
+74-31	de	den	PM:p-u#:--:----	_	
+74-32	mennesker	menneske	NC:piu#:--:----	_	
+74-33	,	,	ZD	_	
+74-34	hvis	hvem	PR:#-g#:--:----	_	
+74-35	liv	liv	NC:siun:--:----	_	
+74-36	netop	netop	D-:----:--:u---	_	
+74-37	er	være	VF:----:sa:----	_	
+74-38	brudt	bryde	VT:siu#:t-:----	_	
+74-39	sammen	sammen	D-:----:--:u---	_	
+74-40	,	,	ZD	_	
+74-41	i	i	T-:----:--:----	_	
+74-42	nogle	nogen	PI:p-u#:--:----	_	
+74-43	dybt	dyb	AD:----:--:p---	_	
+74-44	rørende	rørende	AC:§§u§:--:p---	_	
+74-45	scener	scene	NC:piu#:--:----	_	
+74-46	,	,	ZD	_	
+74-47	præget	præge	VT:siu#:t-:----	_	
+74-48	af	af	T-:----:--:----	_	
+74-49	den	den	PM:s-uc:--:----	_	
+74-50	ægthed	ægthed	NC:siuc:--:----	_	
+74-51	,	,	ZD	_	
+74-52	der	der	US:----:--:----	_	
+74-53	fornemt	fornem	AD:----:--:p---	_	
+74-54	fastholdes	fastholde	VI:----:-p:----	_	
+74-55	i	i	D-:----:--:u---	_	
+74-56	'	'	ZA	_	
+74-57	The	the	XF:----:--:----	_	
+74-58	Messenger	Messenger	NP:siu#:--:----	_	
+74-59	'	'	ZA	_	
+74-60	.	.	ZP	_	
+
+#id=75
+#text= urenes tikken og slag.
+75-1	urenes	urenes	NP:sig#:--:----	_	
+75-2	tikken	tikke	VG:siuc:--:----	_	
+75-3	og	og	CC:----:--:----	_	
+75-4	slag	slag	NC:siun:--:----	slag_4_4a	
+75-5	.	.	ZP	_	
+
+#id=76
+#text=Det er et slag, der udkæmpes fra gadehjørne til gadehjørne, fra sag til sag, for de nye generationer af vælgere er langt mere troløse, langt mindre fast forankrede og langt mindre optaget af ideologier end de ældre generationer.
+76-1	Det	det	PP:s-un:--:-3n-	_	
+76-2	er	være	VF:----:sa:----	_	
+76-3	et	en	PI:s-un:--:----	_	
+76-4	slag	slag	NC:siun:--:----	slag_2a	
+76-5	,	,	ZD	_	
+76-6	der	der	US:----:--:----	_	
+76-7	udkæmpes	udkæmpe	VF:----:sp:----	_	
+76-8	fra	fra	T-:----:--:----	_	
+76-9	gadehjørne	gadehjørne	NC:siun:--:----	_	
+76-10	til	til	T-:----:--:----	_	
+76-11	gadehjørne	gadehjørne	NC:siun:--:----	_	
+76-12	,	,	ZD	_	
+76-13	fra	fra	T-:----:--:----	_	
+76-14	sag	sag	NC:siuc:--:----	_	
+76-15	til	til	T-:----:--:----	_	
+76-16	sag	sag	NC:siuc:--:----	_	
+76-17	,	,	ZD	_	
+76-18	for	for	T-:----:--:----	_	
+76-19	de	den	PM:p-u#:--:----	_	
+76-20	nye	ny	AC:p#u#:--:p---	_	
+76-21	generationer	generation	NC:piu#:--:----	_	
+76-22	af	af	T-:----:--:----	_	
+76-23	vælgere	vælger	NC:piu#:--:----	_	
+76-24	er	være	VF:----:sa:----	_	
+76-25	langt	lang	AD:----:--:p---	_	
+76-26	mere	megen	AD:----:--:c---	_	
+76-27	troløse	troløs	AC:p#u#:--:p---	_	
+76-28	,	,	ZD	_	
+76-29	langt	lang	AD:----:--:p---	_	
+76-30	mindre	liden	AD:----:--:c---	_	
+76-31	fast	fast	AD:----:--:p---	_	
+76-32	forankrede	forankre	VP:p#u#:t-:----	_	
+76-33	og	og	CC:----:--:----	_	
+76-34	langt	lang	AD:----:--:p---	_	
+76-35	mindre	liden	AD:----:--:c---	_	
+76-36	optaget	optage	VT:siu#:t-:----	_	
+76-37	af	af	T-:----:--:----	_	
+76-38	ideologier	ideologi	NC:piu#:--:----	_	
+76-39	end	end	CS:----:--:----	_	
+76-40	de	den	PM:p-u#:--:----	_	
+76-41	ældre	gammel	AC:##u#:--:c---	_	
+76-42	generationer	generation	NC:piu#:--:----	_	
+76-43	.	.	ZP	_	
+
+#id=77
+#text= KF har butikker i hele landet og tre millioner medlemmer, og aftalen ville med ét slag ændre klubbernes målgruppe fra en kreds af vinnørder til et potentielt massefænomen.
+77-1	KF	KF	NP:siu#:--:----	_	
+77-2	har	have	VF:----:sa:----	_	
+77-3	butikker	butik	NC:piu#:--:----	_	
+77-4	i	i	T-:----:--:----	_	
+77-5	hele	hel	AC:sdu#:--:p---	_	
+77-6	landet	land	NC:sdun:--:----	_	
+77-7	og	og	CC:----:--:----	_	
+77-8	tre	tre	LC:--u-:--:----	_	
+77-9	millioner	million	NC:piu#:--:----	_	
+77-10	medlemmer	medlem	NC:piu#:--:----	_	
+77-11	,	,	ZD	_	
+77-12	og	og	CC:----:--:----	_	
+77-13	aftalen	aftale	NC:sduc:--:----	_	
+77-14	ville	ville	VF:----:ta:----	_	
+77-15	med	med	T-:----:--:----	_	
+77-16	ét	en	PI:s-un:--:----	_	
+77-17	slag	slag	NC:siun:--:----	slag_F_med ét slag	
+77-18	ændre	ændre	VI:----:-a:----	_	
+77-19	klubbernes	klub	NC:pdg#:--:----	_	
+77-20	målgruppe	målgruppe	NC:siuc:--:----	_	
+77-21	fra	fra	T-:----:--:----	_	
+77-22	en	en	PI:s-uc:--:----	_	
+77-23	kreds	kreds	NC:siuc:--:----	_	
+77-24	af	af	T-:----:--:----	_	
+77-25	vinnørder	vinnørd	--	_	
+77-26	til	til	T-:----:--:----	_	
+77-27	et	en	PI:s-un:--:----	_	
+77-28	potentielt	potentiel	AC:siun:--:p---	_	
+77-29	massefænomen	massefænomen	NC:siun:--:----	_	
+77-30	.	.	ZP	_	
+
+#id=78
+#text= Og det er i de slag, man mister, for som soldater er Taleban ikke særlig dygtige."
+78-1	Og	og	CC:----:--:----	_	
+78-2	det	det	PP:s-un:--:-3n-	_	
+78-3	er	være	VF:----:sa:----	_	
+78-4	i	i	T-:----:--:----	_	
+78-5	de	den	PM:p-u#:--:----	_	
+78-6	slag	slag	NC:piu#:--:----	slag_2_2b_2c	
+78-7	,	,	ZD	_	
+78-8	man	man	PI:#-uc:--:----	_	
+78-9	mister	miste	VF:----:sa:----	_	
+78-10	,	,	ZD	_	
+78-11	for	for	CC:----:--:----	_	
+78-12	som	som	US:----:--:----	_	
+78-13	soldater	soldat	NC:piu#:--:----	_	
+78-14	er	være	VF:----:sa:----	_	
+78-15	Taleban	Taleban	NP:siu#:--:----	_	
+78-16	ikke	ikke	D-:----:--:u---	_	
+78-17	særlig	særlig	AD:----:--:p---	_	
+78-18	dygtige	dygtig	AC:p#u#:--:p---	_	
+78-19	.	.	ZP	_	
+78-20	"	"	ZI	_	
+
+#id=79
+#text= Det fremgår, at seks mennesker dør i det slag som sendes på tv, og i det halve år, John Adamsen var i Afghanistan, havde han kommandoen i 19 slag.
+79-1	Det	det	PP:s-un:--:-3n-	_	
+79-2	fremgår	fremgå	VF:----:sa:----	_	
+79-3	,	,	ZD	_	
+79-4	at	at	CS:----:--:----	_	
+79-5	seks	seks	LC:--u-:--:----	_	
+79-6	mennesker	menneske	NC:piu#:--:----	_	
+79-7	dør	dø	VF:----:sa:----	_	
+79-8	i	i	T-:----:--:----	_	
+79-9	det	den	PM:s-un:--:----	_	
+79-10	slag	slag	NC:siun:--:----	slag_2_2b_2c	
+79-11	som	som	US:----:--:----	_	
+79-12	sendes	sende	VF:----:sp:----	_	
+79-13	på	på	T-:----:--:----	_	
+79-14	tv	tv	NC:siun:--:----	_	
+79-15	,	,	ZD	_	
+79-16	og	og	CC:----:--:----	_	
+79-17	i	i	T-:----:--:----	_	
+79-18	det	den	PM:s-un:--:----	_	
+79-19	halve	halv	AC:sdu#:--:p---	_	
+79-20	år	år	NC:siun:--:----	_	
+79-21	,	,	ZD	_	
+79-22	John	John	siu#:--:----	_	
+79-23	Adamsen	Adamsen	NP:siu#:--:----	_	
+79-24	var	være	VF:----:ta:----	_	
+79-25	i	i	T-:----:--:----	_	
+79-26	Afghanistan	Afghanistan	NP:siu#:--:----	_	
+79-27	,	,	ZD	_	
+79-28	havde	have	VF:----:ta:----	_	
+79-29	han	han	PP:s-nc:--:-3n-	_	
+79-30	kommandoen	kommando	NC:sduc:--:----	_	
+79-31	i	i	T-:----:--:----	_	
+79-32	19	19	LC:--u-:--:----	_	
+79-33	slag	slag	NC:piu#:--:----	slag_2_2b_2c	
+79-34	.	.	ZP	_	
+
+#id=80
+#text= Det handler om, hvad vi opnår med det, vi gør, og jeg kan ikke se, hvad det skulle tjene, at vi efter hvert slag offentliggjorde, hvor mange der døde."
+80-1	Det	det	PP:s-un:--:-3n-	_	
+80-2	handler	handle	VF:----:sa:----	_	
+80-3	om	om	T-:----:--:----	_	
+80-4	,	,	ZD	_	
+80-5	hvad	hvad	PR:s-u#:--:----	_	
+80-6	vi	vi	PP:p-nc:--:-1n-	_	
+80-7	opnår	opnå	VF:----:sa:----	_	
+80-8	med	med	T-:----:--:----	_	
+80-9	det	det	PP:s-un:--:-3n-	_	
+80-10	,	,	ZD	_	
+80-11	vi	vi	PP:p-nc:--:-1n-	_	
+80-12	gør	gøre	VF:----:sa:----	_	
+80-13	,	,	ZD	_	
+80-14	og	og	CC:----:--:----	_	
+80-15	jeg	jeg	PP:s-nc:--:-1n-	_	
+80-16	kan	kunne	VF:----:sa:----	_	
+80-17	ikke	ikke	D-:----:--:u---	_	
+80-18	se	se	VI:----:-a:----	_	
+80-19	,	,	ZD	_	
+80-20	hvad	hvad	PR:s-u#:--:----	_	
+80-21	det	det	PP:s-un:--:-3n-	_	
+80-22	skulle	skulle	VF:----:ta:----	_	
+80-23	tjene	tjene	VI:----:-a:----	_	
+80-24	,	,	ZD	_	
+80-25	at	at	CS:----:--:----	_	
+80-26	vi	vi	PP:p-nc:--:-1n-	_	
+80-27	efter	efter	T-:----:--:----	_	
+80-28	hvert	hver	PI:s-un:--:----	_	
+80-29	slag	slag	NC:siun:--:----	slag_2_2b_2c	
+80-30	offentliggjorde	offentliggjorde	VF:----:ta:----	_	
+80-31	,	,	ZD	_	
+80-32	hvor	hvor	D-:----:--:u---	_	
+80-33	mange	mangen	AC:p#u#:--:p---	_	
+80-34	der	der	US:----:--:----	_	
+80-35	døde	dø	:ta:----	_	
+80-36	.	.	ZP	_	
+80-37	"	"	ZI	_	
+
+#id=81
+#text= For et mindre lokalsamfund er en sådan virksomhedslukning et lammende slag".
+81-1	For	for	T-:----:--:----	_	
+81-2	et	en	PI:s-un:--:----	_	
+81-3	mindre	liden	AC:##u#:--:c---	_	
+81-4	lokalsamfund	lokalsamfund	NC:piu#:--:----	_	
+81-5	er	være	VF:----:sa:----	_	
+81-6	en	en	PI:s-uc:--:----	_	
+81-7	sådan	sådan	AC:siuc:--:p---	_	
+81-8	virksomhedslukning	virksomhedslukning	NC:siuc:--:----	_	
+81-9	et	en	PI:s-un:--:----	_	
+81-10	lammende	lamme	VP:##u#:s-:----	_	
+81-11	slag	slag	NC:siun:--:----	slag_1b	
+81-12	"	"	ZI	_	
+81-13	.	.	ZP	_	
+
+#id=82
+#text=Et pinligt pressemøde har med et slag gjort Japans finansminister verdensberygtet.
+82-1	Et	en	PI:s-un:--:----	_	
+82-2	pinligt	pinlig	AC:siun:--:p---	_	
+82-3	pressemøde	pressemøde	NC:siun:--:----	_	
+82-4	har	have	VF:----:sa:----	_	
+82-5	med	med	T-:----:--:----	_	
+82-6	et	en	PI:s-un:--:----	_	
+82-7	slag	slag	NC:siun:--:----	slag_F_med ét slag	
+82-8	gjort	gøre	VT:siu#:t-:----	_	
+82-9	Japans	Japan	NP:sig#:--:----	_	
+82-10	finansminister	finansminister	NC:siuc:--:----	_	
+82-11	verdensberygtet	verdensberygtet	AC:siu§:--:p---	_	
+82-12	.	.	ZP	_	
+
+#id=83
+#text="Hjertets slag er så utrolig intimt", siger Rafael Lozano-Hemmer og drejer sin store computer, så jeg bedre kan se den video af værket, han er ved at vise:
+83-1	"	"	ZI	_	
+83-2	Hjertets	hjerte	NC:sdgn:--:----	_	
+83-3	slag	slag	NC:siun:--:----	slag_3_3a	
+83-4	er	være	VF:----:sa:----	_	
+83-5	så	så	D-:----:--:u---	_	
+83-6	utrolig	utrolig	AD:----:--:p---	_	
+83-7	intimt	intim	AC:siun:--:p---	_	
+83-8	"	"	ZI	_	
+83-9	,	,	ZD	_	
+83-10	siger	sige	VF:----:sa:----	_	
+83-11	Rafael	Rafael	NP:siu#:--:----	_	
+83-12	Lozano	Lozano	NP:siu#:--:----	_	
+83-13	-	-	ZH	_	
+83-14	Hemmer	Hemmer	NP:siu#:--:----	_	
+83-15	og	og	CC:----:--:----	_	
+83-16	drejer	dreje	VF:----:sa:----	_	
+83-17	sin	sin	PO:s--c:--:-3ys	_	
+83-18	store	stor	AC:sdu#:--:p---	_	
+83-19	computer	computer	NC:siuc:--:----	_	
+83-20	,	,	ZD	_	
+83-21	så	så	CS:----:--:----	_	
+83-22	jeg	jeg	:siun:--:----	_	
+83-23	bedre	god	AD:----:--:c---	_	
+83-24	kan	kunne	VF:----:sa:----	_	
+83-25	se	se	VI:----:-a:----	_	
+83-26	den	den	PM:s-uc:--:----	_	
+83-27	video	video	NC:siuc:--:----	_	
+83-28	af	af	T-:----:--:----	_	
+83-29	værket	værk	NC:sdun:--:----	_	
+83-30	,	,	ZD	_	
+83-31	han	han	PP:s-nc:--:-3n-	_	
+83-32	er	være	VF:----:sa:----	_	
+83-33	ved	ved	T-:----:--:----	_	
+83-34	at	at	UI:----:--:----	_	
+83-35	vise	vise	VI:----:-a:----	_	
+83-36	:	:	ZP	_	
+
+#id=84
+#text="Maskinen måler både hjerteslagets hastighed og styrke", fortsætter han, "og pæren, der blinker i takt med hjertets slag, rykker en plads længere væk, hver gang et nyt pulsslag registreres.
+84-1	"	"	ZI	_	
+84-2	Maskinen	maskine	NC:sduc:--:----	_	
+84-3	måler	måle	VF:----:sa:----	_	
+84-4	både	både	VI:----:-a:----	_	
+84-5	hjerteslagets	hjerteslag	NC:sdgn:--:----	_	
+84-6	hastighed	hastighed	NC:siuc:--:----	_	
+84-7	og	og	CC:----:--:----	_	
+84-8	styrke	styrke	NC:siuc:--:----	_	
+84-9	"	"	ZI	_	
+84-10	,	,	ZD	_	
+84-11	fortsætter	fortsætte	VF:----:sa:----	_	
+84-12	han	han	PP:s-nc:--:-3n-	_	
+84-13	,	,	ZD	_	
+84-14	"	"	ZI	_	
+84-15	og	og	CC:----:--:----	_	
+84-16	pæren	pære	NC:sduc:--:----	_	
+84-17	,	,	ZD	_	
+84-18	der	der	US:----:--:----	_	
+84-19	blinker	blinke	VF:----:sa:----	_	
+84-20	i	i	T-:----:--:----	_	
+84-21	takt	takt	NC:siuc:--:----	_	
+84-22	med	med	T-:----:--:----	_	
+84-23	hjertets	hjerte	NC:sdgn:--:----	_	
+84-24	slag	slag	NC:siun:--:----	slag_3_3a	
+84-25	,	,	ZD	_	
+84-26	rykker	rykke	VF:----:sa:----	_	
+84-27	en	en	PI:s-uc:--:----	_	
+84-28	plads	plads	NC:siuc:--:----	_	
+84-29	længere	lang	AD:----:--:c---	_	
+84-30	væk	væk	D-:----:--:u---	_	
+84-31	,	,	ZD	_	
+84-32	hver	hver	PI:s-uc:--:----	_	
+84-33	gang	gang	NC:siuc:--:----	_	
+84-34	et	en	PI:s-un:--:----	_	
+84-35	nyt	ny	AC:siun:--:p---	_	
+84-36	pulsslag	pulsslag	NC:siun:--:----	_	
+84-37	registreres	registrere	VF:----:sp:----	_	
+84-38	.	.	ZP	_	
+
+#id=85
+#text=Anders Hansen sluttede på 270 slag efter de fire runder, og det var fire slag bedre end den sydafrikaneren Charl Schwartzel og Graham  De Laet fra Canada, der begge måtte tage til takke med en delt andenplads.
+85-1	Anders	Anders	NP:siu#:--:----	_	
+85-2	Hansen	Hansen	NP:siu#:--:----	_	
+85-3	sluttede	slutte	VF:----:ta:----	_	
+85-4	på	på	T-:----:--:----	_	
+85-5	270	270	LC:--u-:--:----	_	
+85-6	slag	slag	NC:piu#:--:----	slag_1_1c	
+85-7	efter	efter	T-:----:--:----	_	
+85-8	de	den	PM:p-u#:--:----	_	
+85-9	fire	fire	LC:--u-:--:----	_	
+85-10	runder	runde	NC:piu#:--:----	_	
+85-11	,	,	ZD	_	
+85-12	og	og	CC:----:--:----	_	
+85-13	det	det	PP:s-un:--:-3n-	_	
+85-14	var	være	VF:----:ta:----	_	
+85-15	fire	fire	LC:--u-:--:----	_	
+85-16	slag	slag	NC:piu#:--:----	slag_1_1c	
+85-17	bedre	god	AD:----:--:c---	_	
+85-18	end	end	CS:----:--:----	_	
+85-19	den	den	PP:s-uc:--:-3n-	_	
+85-20	sydafrikaneren	sydafrikaner	NC:sduc:--:----	_	
+85-21	Charl	Charl	NP:siu#:--:----	_	
+85-22	Schwartzel	Schwartzel	NP:siu#:--:----	_	
+85-23	og	og	CC:----:--:----	_	
+85-24	Graham	Graham	NP:siu#:--:----	_	
+85-25	De	de	NP:siu#:--:----	_	
+85-26	Laet	la	NC:sdun:--:----	_	
+85-27	fra	fra	T-:----:--:----	_	
+85-28	Canada	Canada	NP:siu#:--:----	_	
+85-29	,	,	ZD	_	
+85-30	der	der	US:----:--:----	_	
+85-31	begge	begge	PM:p-u#:--:----	_	
+85-32	måtte	måtte	VF:----:ta:----	_	
+85-33	tage	tage	VI:----:-a:----	_	
+85-34	til	til	D-:----:--:u---	_	
+85-35	takke	takke	VI:----:-a:----	_	
+85-36	med	med	T-:----:--:----	_	
+85-37	en	en	PI:s-uc:--:----	_	
+85-38	delt	dele	VT:siu#:t-:----	_	
+85-39	andenplads	andenplads	NC:siuc:--:----	_	
+85-40	.	.	ZP	_	
+
+#id=86
+#text=Alle disse ord udtrykker en idealistisk  dagsorden, som afgjort er værd at slå et slag for.
+86-1	Alle	al	PI:p-u#:--:----	_	
+86-2	disse	denne	PM:p-u#:--:----	_	
+86-3	ord	ord	NC:piu#:--:----	_	
+86-4	udtrykker	udtrykke	VF:----:sa:----	_	
+86-5	en	en	PI:s-uc:--:----	_	
+86-6	idealistisk	idealistisk	AC:siuc:--:p---	_	
+86-7	dagsorden	dagsorden	NC:siuc:--:----	_	
+86-8	,	,	ZD	_	
+86-9	som	som	US:----:--:----	_	
+86-10	afgjort	afgøre	VT:siu#:t-:----	_	
+86-11	er	være	VF:----:sa:----	_	
+86-12	værd	værd	AC:§§u§:--:p---	_	
+86-13	at	at	UI:----:--:----	_	
+86-14	slå	slå	VI:----:-a:----	_	
+86-15	et	en	PI:s-un:--:----	_	
+86-16	slag	slag	NC:siun:--:----	slag_F_slå et slag	
+86-17	for	for	T-:----:--:----	_	
+86-18	.	.	ZP	_	
+
+#id=87
+#text= En historie om den amerikanske borgerkrig, hvor skud kan tælles på én hånd, og ingen slag er i sigte ud over en scene, hvor en mand med flyveører og overskæg som en slank skovsnegl redder en forfjamsket kvinde med kyniske kvieøjne ud af en brændende by.
+87-1	En	en	PI:s-uc:--:----	_	
+87-2	historie	historie	NC:siuc:--:----	_	
+87-3	om	om	T-:----:--:----	_	
+87-4	den	den	PM:s-uc:--:----	_	
+87-5	amerikanske	amerikansk	AC:sdu#:--:p---	_	
+87-6	borgerkrig	borgerkrig	NC:siuc:--:----	_	
+87-7	,	,	ZD	_	
+87-8	hvor	hvor	D-:----:--:u---	_	
+87-9	skud	skud	NC:siun:--:----	_	
+87-10	kan	kunne	VF:----:sa:----	_	
+87-11	tælles	tælle	VI:----:-p:----	_	
+87-12	på	på	T-:----:--:----	_	
+87-13	én	en	PI:s-uc:--:----	_	
+87-14	hånd	hånd	NC:siuc:--:----	_	
+87-15	,	,	ZD	_	
+87-16	og	og	CC:----:--:----	_	
+87-17	ingen	ingen	PI:s-uc:--:----	_	
+87-18	slag	slag	NC:piu#:--:----	slag_2_2b_2c	
+87-19	er	være	VF:----:sa:----	_	
+87-20	i	i	T-:----:--:----	_	
+87-21	sigte	sigte	NC:siuc:--:----	_	
+87-22	ud	ud	D-:----:--:u---	_	
+87-23	over	over	T-:----:--:----	_	
+87-24	en	en	PI:s-uc:--:----	_	
+87-25	scene	scene	NC:siuc:--:----	_	
+87-26	,	,	ZD	_	
+87-27	hvor	hvor	D-:----:--:u---	_	
+87-28	en	en	PI:s-uc:--:----	_	
+87-29	mand	mand	NC:siuc:--:----	_	
+87-30	med	med	T-:----:--:----	_	
+87-31	flyveører	flyveøre	NC:piu#:--:----	_	
+87-32	og	og	CC:----:--:----	_	
+87-33	overskæg	overskæg	NC:siun:--:----	_	
+87-34	som	som	US:----:--:----	_	
+87-35	en	en	PI:s-uc:--:----	_	
+87-36	slank	slank	iuc:--:p---	_	
+87-37	skovsnegl	skovsnegl	NC:siuc:--:----	_	
+87-38	redder	redde	VF:----:sa:----	_	
+87-39	en	en	PI:s-uc:--:----	_	
+87-40	forfjamsket	forfjamsket	AC:siuc:--:p---	_	
+87-41	kvinde	kvinde	NC:siuc:--:----	_	
+87-42	med	med	T-:----:--:----	_	
+87-43	kyniske	kynisk	AC:p#u#:--:p---	_	
+87-44	kvieøjne	kvieøje	NC:piu#:--:----	_	
+87-45	ud	ud	D-:----:--:u---	_	
+87-46	af	af	T-:----:--:----	_	
+87-47	en	en	PI:s-uc:--:----	_	
+87-48	brændende	brænde	VP:##u#:s-:----	_	
+87-49	by	by	NC:siuc:--:----	_	
+87-50	.	.	ZP	_	
+
+#id=88
+#text=Alt sammen fordi  han i en frokostpause for nylig slog et slag forbi postkontoret på Købmagergade i København og henvendte sig til postassistenten i den røde trøje for at betale sit medlemskab af Venstre.
+88-1	Alt	alt	D-:----:--:u---	_	
+88-2	sammen	sammen	D-:----:--:u---	_	
+88-3	fordi	fordi	CS:----:--:----	_	
+88-4	han	han	PP:s-nc:--:-3n-	_	
+88-5	i	i	T-:----:--:----	_	
+88-6	en	en	PI:s-uc:--:----	_	
+88-7	frokostpause	frokostpause	NC:siuc:--:----	_	
+88-8	for	for	T-:----:--:----	_	
+88-9	nylig	nylig	AD:----:--:p---	_	
+88-10	slog	slå	VF:----:ta:----	_	
+88-11	et	en	PI:s-un:--:----	_	
+88-12	slag	slag	NC:siun:--:----	slag_4_4a	
+88-13	forbi	forbi	T-:----:--:----	_	
+88-14	postkontoret	postkontor	NC:sdun:--:----	_	
+88-15	på	på	T-:----:--:----	_	
+88-16	Købmagergade	Købmagergade	NP:siu#:--:----	_	
+88-17	i	i	T-:----:--:----	_	
+88-18	København	København	NP:siu#:--:----	_	
+88-19	og	og	CC:----:--:----	_	
+88-20	henvendte	henvende	VF:----:ta:----	_	
+88-21	sig	sig	PP:#-u#:--:-3y-	_	
+88-22	til	til	T-:----:--:----	_	
+88-23	postassistenten	postassistent	NC:sduc:--:----	_	
+88-24	i	i	T-:----:--:----	_	
+88-25	den	den	PM:s-uc:--:----	_	
+88-26	røde	rød	AC:sdu#:--:p---	_	
+88-27	trøje	trøje	NC:siuc:--:----	_	
+88-28	for	for	T-:----:--:----	_	
+88-29	at	at	UI:----:--:----	_	
+88-30	betale	betale	VI:----:-a:----	_	
+88-31	sit	sin	PO:s--n:--:-3ys	_	
+88-32	medlemskab	medlemskab	NC:siun:--:----	_	
+88-33	af	af	T-:----:--:----	_	
+88-34	Venstre	venstre	AC:§§u§:--:p---	_	
+88-35	.	.	ZP	_	
+
+#id=89
+#text=Herefter faldt han formentlig af hesten, hvorefter han med et smalt slagvåben fik et voldsomt nakkedrag og et slag bag venstre øreåbning.
+89-1	Herefter	herefter	D-:----:--:u---	_	
+89-2	faldt	falde	VF:----:ta:----	_	
+89-3	han	han	PP:s-nc:--:-3n-	_	
+89-4	formentlig	formentlig	AD:----:--:p---	_	
+89-5	af	af	T-:----:--:----	_	
+89-6	hesten	hest	NC:sduc:--:----	_	
+89-7	,	,	ZD	_	
+89-8	hvorefter	hvorefter	D-:----:--:u---	_	
+89-9	han	han	PP:s-nc:--:-3n-	_	
+89-10	med	med	T-:----:--:----	_	
+89-11	et	en	PI:s-un:--:----	_	
+89-12	smalt	smal	AC:siun:--:p---	_	
+89-13	slagvåben	slagvåben	NC:siun:--:----	_	
+89-14	fik	få	VF:----:ta:----	_	
+89-15	et	en	PI:s-un:--:----	_	
+89-16	voldsomt	voldsom	AC:siun:--:p---	_	
+89-17	nakkedrag	nakkedrag	NC:siun:--:----	_	
+89-18	og	og	CC:----:--:----	_	
+89-19	et	en	PI:s-un:--:----	_	
+89-20	slag	slag	NC:siun:--:----	slag_1_1c	
+89-21	bag	bag	T-:----:--:----	_	
+89-22	venstre	venstre	AC:§§u§:--:p---	_	
+89-23	øreåbning	øreåbning	NC:siuc:--:----	_	
+89-24	.	.	ZP	_	
+
+#id=90
+#text="Slaget bag øreåbningen er kommet oppefra, og nakkedraget var så voldsomt, at hans hovedskal flækkede som en kokosnød", fortæller Pia Bennike.
+90-1	"	"	ZI	_	
+90-2	Slaget	slag	NC:sdun:--:----	slag_1_1c	
+90-3	bag	bag	T-:----:--:----	_	
+90-4	øreåbningen	øreåbning	NC:sduc:--:----	_	
+90-5	er	være	VF:----:sa:----	_	
+90-6	kommet	komme	VT:siu#:t-:----	_	
+90-7	oppefra	oppefra	D-:----:--:u---	_	
+90-8	,	,	ZD	_	
+90-9	og	og	CC:----:--:----	_	
+90-10	nakkedraget	nakkedrag	NC:sdun:--:----	_	
+90-11	var	være	VF:----:ta:----	_	
+90-12	så	så	D-:----:--:u---	_	
+90-13	voldsomt	voldsom	AC:siun:--:p---	_	
+90-14	,	,	ZD	_	
+90-15	at	at	CS:----:--:----	_	
+90-16	hans	hans	PO:#--#:--:-3ns	_	
+90-17	hovedskal	hovedskal	NC:siuc:--:----	_	
+90-18	flækkede	flække	VF:----:ta:----	_	
+90-19	som	som	US:----:--:----	_	
+90-20	en	en	PI:s-uc:--:----	_	
+90-21	kokosnød	kokosnød	NC:siuc:--:----	_	
+90-22	"	"	ZI	_	
+90-23	,	,	ZD	_	
+90-24	fortæller	fortælle	VF:----:sa:----	_	
+90-25	Pia	Pia	NP:siu#:--:----	_	
+90-26	Bennike	Bennike	NP:siu#:--:----	_	
+90-27	.	.	ZP	_	
+
+#id=91
+#text=Sagen mod DTP ventes afsluttet i løbet af i år, og skulle den ende med lukning, vil det være endnu et slag mod kurdisk repræsentation i tyrkisk politik.
+91-1	Sagen	sag	NC:sduc:--:----	_	
+91-2	mod	mod	T-:----:--:----	_	
+91-3	DTP	dtp	NC:siuc:--:----	_	
+91-4	ventes	vente	VF:----:sp:----	_	
+91-5	afsluttet	afslutte	VT:siu#:t-:----	_	
+91-6	i	i	T-:----:--:----	_	
+91-7	løbet	løb	NC:sdun:--:----	_	
+91-8	af	af	T-:----:--:----	_	
+91-9	i	i	T-:----:--:----	_	
+91-10	år	år	NC:siun:--:----	_	
+91-11	,	,	ZD	_	
+91-12	og	og	CC:----:--:----	_	
+91-13	skulle	skulle	VF:----:ta:----	_	
+91-14	den	den	PM:s-uc:--:----	_	
+91-15	ende	ende	NC:siuc:--:----	_	
+91-16	med	med	T-:----:--:----	_	
+91-17	lukning	lukning	NC:siuc:--:----	_	
+91-18	,	,	ZD	_	
+91-19	vil	ville	VF:----:sa:----	_	
+91-20	det	det	PP:s-un:--:-3n-	_	
+91-21	være	være	VI:----:-a:----	_	
+91-22	endnu	endnu	D-:----:--:u---	_	
+91-23	et	en	PI:s-un:--:----	_	
+91-24	slag	slag	NC:siun:--:----	slag_1b	
+91-25	mod	mod	T-:----:--:----	_	
+91-26	kurdisk	kurdisk	AC:siuc:--:p---	_	
+91-27	repræsentation	repræsentation	NC:siuc:--:----	_	
+91-28	i	i	T-:----:--:----	_	
+91-29	tyrkisk	tyrkisk	AC:siu§:--:p---	_	
+91-30	politik	politik	NC:siuc:--:----	_	
+91-31	.	.	ZP	_	
+
+#id=92
+#text="Altså, hvis der så kunne blive plads til en golfbane med ni huller, så ville jeg hulens gerne slå det første slag", sagde han.
+92-1	"	"	ZI	_	
+92-2	Altså	altså	D-:----:--:u---	_	
+92-3	,	,	ZD	_	
+92-4	hvis	hvis	CS:----:--:----	_	
+92-5	der	der	US:----:--:----	_	
+92-6	så	så	D-:----:--:u---	_	
+92-7	kunne	kunne	VF:----:ta:----	_	
+92-8	blive	blive	VI:----:-a:----	_	
+92-9	plads	plads	NC:siuc:--:----	_	
+92-10	til	til	T-:----:--:----	_	
+92-11	en	en	PI:s-uc:--:----	_	
+92-12	golfbane	golfbane	NC:siuc:--:----	_	
+92-13	med	med	T-:----:--:----	_	
+92-14	ni	ni	LC:--u-:--:----	_	
+92-15	huller	hul	NC:piu#:--:----	_	
+92-16	,	,	ZD	_	
+92-17	så	så	D-:----:--:u---	_	
+92-18	ville	ville	VF:----:ta:----	_	
+92-19	jeg	jeg	PP:s-nc:--:-1n-	_	
+92-20	hulens	hulens	NP:siu#:--:----	_	
+92-21	gerne	gerne	D-:----:--:u---	_	
+92-22	slå	slå	VI:----:-a:----	_	
+92-23	det	den	PM:s-un:--:----	_	
+92-24	første	første	AC:§§u§:--:p---	_	
+92-25	slag	slag	NC:siun:--:----	slag_1_1c	
+92-26	"	"	ZI	_	
+92-27	,	,	ZD	_	
+92-28	sagde	sige	VF:----:ta:----	_	
+92-29	han	han	PP:s-nc:--:-3n-	_	
+92-30	.	.	ZP	_	
+
+#id=93
+#text= Nu falder klokken i slag for 40 års forskning, siger vi til hinanden på stolerækkerne, men nej - det er sikkerhedsannoncering om nødudgange, gule veste og samlingssteder i tilfælde af en evakuering.
+93-1	Nu	nu	D-:----:--:u---	_	
+93-2	falder	falde	VF:----:sa:----	_	
+93-3	klokken	klokke	NC:sduc:--:----	_	
+93-4	i	i	T-:----:--:----	_	
+93-5	slag	slag	NC:siun:--:----	slag_F_klokken falder i slag	
+93-6	for	for	:----:--:----	_	
+93-7	40	40	LC:--u-:--:----	_	
+93-8	års	år	NC:pig#:--:----	_	
+93-9	forskning	forskning	NC:siuc:--:----	_	
+93-10	,	,	ZD	_	
+93-11	siger	sige	VF:----:sa:----	_	
+93-12	vi	vi	PP:p-nc:--:-1n-	_	
+93-13	til	til	T-:----:--:----	_	
+93-14	hinanden	hinanden	PC:p-u-:--:----	_	
+93-15	på	på	T-:----:--:----	_	
+93-16	stolerækkerne	stolerække	NC:pdu#:--:----	_	
+93-17	,	,	ZD	_	
+93-18	men	men	CC:----:--:----	_	
+93-19	nej	nej	NW:----:--:----	_	
+93-20	-	-	ZH	_	
+93-21	det	det	XY:----:--:----	_	
+93-22	er	være	VF:----:sa:----	_	
+93-23	sikkerhedsannoncering	sikkerhedsannoncering	NC:siuc:--:----	_	
+93-24	om	om	T-:----:--:----	_	
+93-25	nødudgange	nødudgang	NC:piu#:--:----	_	
+93-26	,	,	ZD	_	
+93-27	gule	gul	AC:p#u#:--:p---	_	
+93-28	veste	vest	NC:piu#:--:----	_	
+93-29	og	og	CC:----:--:----	_	
+93-30	samlingssteder	samlingssted	NC:piu#:--:----	_	
+93-31	i	i	T-:----:--:----	_	
+93-32	tilfælde	tilfælde	NC:siun:--:----	_	
+93-33	af	af	T-:----:--:----	_	
+93-34	en	en	PI:s-uc:--:----	_	
+93-35	evakuering	evakuering	NC:siuc:--:----	_	
+93-36	.	.	ZP	_	
+
+#id=94
+#text= De hollandske reaktioner er mere forbeholdne over for det indgreb, som Wilders selv betegner som et slag i ansigtet på både ham og ytringsfriheden.
+94-1	De	den	PM:p-u#:--:----	_	
+94-2	hollandske	hollandsk	AC:p#u#:--:p---	_	
+94-3	reaktioner	reaktion	NC:piu#:--:----	_	
+94-4	er	være	VF:----:sa:----	_	
+94-5	mere	megen	AD:----:--:c---	_	
+94-6	forbeholdne	forbeholden	AC:p#u#:--:p---	_	
+94-7	over	over	D-:----:--:u---	_	
+94-8	for	for	T-:----:--:----	_	
+94-9	det	den	PM:s-un:--:----	_	
+94-10	indgreb	indgreb	NC:siun:--:----	_	
+94-11	,	,	ZD	_	
+94-12	som	som	US:----:--:----	_	
+94-13	Wilders	Wilders	NP:siu#:--:----	_	
+94-14	selv	selv	PM:#-u#:--:----	_	
+94-15	betegner	betegne	VF:----:sa:----	_	
+94-16	som	som	US:----:--:----	_	
+94-17	et	en	PI:s-un:--:----	_	
+94-18	slag	slag	NC:siun:--:----	slag_F_slag i ansigtet	
+94-19	i	i	T-:----:--:----	_	
+94-20	ansigtet	ansigt	NC:sdun:--:----	_	
+94-21	på	på	T-:----:--:----	_	
+94-22	både	både	D-:----:--:u---	_	
+94-23	ham	han	PP:s-uc:--:-3n-	_	
+94-24	og	og	CC:----:--:----	_	
+94-25	ytringsfriheden	ytringsfrihed	NC:sduc:--:----	_	
+94-26	.	.	ZP	_	
+
+#id=95
+#text=Trods slagene i Berlin håber Rie Rasmussen "engang at få lov at være til en film med bare lidt større budget".
+95-1	Trods	trods	T-:----:--:----	_	
+95-2	slagene	slag	NC:pdu#:--:----	slag_1b	
+95-3	i	i	T-:----:--:----	_	
+95-4	Berlin	Berlin	NP:siu#:--:----	_	
+95-5	håber	håbe	VF:----:sa:----	_	
+95-6	Rie	Rie	NP:siu#:--:----	_	
+95-7	Rasmussen	Rasmussen	NP:siu#:--:----	_	
+95-8	"	"	ZI	_	
+95-9	engang	engang	D-:----:--:u---	_	
+95-10	at	at	UI:----:--:----	_	
+95-11	få	få	VI:----:-a:----	_	
+95-12	lov	lov	NC:§§u§:--:----	_	
+95-13	at	at	UI:----:--:----	_	
+95-14	være	være	VI:----:-a:----	_	
+95-15	til	til	T-:----:--:----	_	
+95-16	en	en	PI:s-uc:--:----	_	
+95-17	film	film	NC:siuc:--:----	_	
+95-18	med	med	T-:----:--:----	_	
+95-19	bare	bare	D-:----:--:u---	_	
+95-20	lidt	lidt	AD:----:--:p---	_	
+95-21	større	stor	AC:##u#:--:c---	_	
+95-22	budget	budget	NC:siun:--:----	_	
+95-23	"	"	ZI	_	
+95-24	.	.	ZP	_	
+
+#id=96
+#text=Forældres slag mod børn behøver ikke altid at blive indberettet:
+96-1	Forældres	Forældres	XY:----:--:----	_	
+96-2	slag	slag	NC:siun:--:----	slag_1_1c	
+96-3	mod	mod	T-:----:--:----	_	
+96-4	børn	barn	NC:piu#:--:----	_	
+96-5	behøver	behøve	VF:----:sa:----	_	
+96-6	ikke	ikke	D-:----:--:u---	_	
+96-7	altid	altid	D-:----:--:u---	_	
+96-8	at	at	UI:----:--:----	_	
+96-9	blive	blive	VI:----:-a:----	_	
+96-10	indberettet	indberette	VT:siu#:t-:----	_	
+96-11	:	:	ZP	_	
+
+#id=97
+#text= Jeg så engang Hanne af sin mor blive trængt op i et hjørne og op ad et hegn ind mod vores hus, og slagene haglede ned over hende.
+97-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+97-2	så	så	D-:----:--:u---	_	
+97-3	engang	engang	D-:----:--:u---	_	
+97-4	Hanne	Hanne	NP:siu#:--:----	_	
+97-5	af	af	T-:----:--:----	_	
+97-6	sin	sin	PO:s--c:--:-3ys	_	
+97-7	mor	mor	NC:siuc:--:----	_	
+97-8	blive	blive	VI:----:-a:----	_	
+97-9	trængt	trænge	VT:siu#:t-:----	_	
+97-10	op	op	D-:----:--:u---	_	
+97-11	i	i	T-:----:--:----	_	
+97-12	et	en	PI:s-un:--:----	_	
+97-13	hjørne	hjørne	NC:siun:--:----	_	
+97-14	og	og	CC:----:--:----	_	
+97-15	op	op	D-:----:--:u---	_	
+97-16	ad	ad	T-:----:--:----	_	
+97-17	et	en	PI:s-un:--:----	_	
+97-18	hegn	hegn	NC:siun:--:----	_	
+97-19	ind	ind	D-:----:--:u---	_	
+97-20	mod	mod	T-:----:--:----	_	
+97-21	vores	vores	PO:#--#:--:-1np	_	
+97-22	hus	hus	NC:siun:--:----	_	
+97-23	,	,	ZD	_	
+97-24	og	og	CC:----:--:----	_	
+97-25	slagene	slag	NC:pdu#:--:----	slag_1_1c	
+97-26	haglede	hagle	VF:----:ta:----	_	
+97-27	ned	ned	D-:----:--:u---	_	
+97-28	over	over	T-:----:--:----	_	
+97-29	hende	hun	PP:s-uc:--:-3n-	_	
+97-30	.	.	ZP	_	
+
+#id=98
+#text=Det er nogle hårde slag, vi får for tiden:
+98-1	Det	det	PP:s-un:--:-3n-	_	
+98-2	er	være	VF:----:sa:----	_	
+98-3	nogle	nogen	PI:p-u#:--:----	_	
+98-4	hårde	hård	AC:p#u#:--:p---	_	
+98-5	slag	slag	NC:piu#:--:----	slag_1b	
+98-6	,	,	ZD	_	
+98-7	vi	vi	PP:p-nc:--:-1n-	_	
+98-8	får	få	VF:----:sa:----	_	
+98-9	for	for	T-:----:--:----	_	
+98-10	tiden	tid	NC:sduc:--:----	_	
+98-11	:	:	ZP	_	
+
+#id=99
+#text= Det homoseksuelle oplysnings- og ligestillingsarbejde er slet ikke fuldendt, konkluderede Politikens debatredaktør, Lars Hedebo Olsen, så sent som sidste lørdag, hvilket han utvivlsomt gjorde ret i, spørgsmålet er, om kampen, når det gælder kvinder og homoseksualitet, har flere eller snarere andre slag tilbage at kæmpe, dét om synligheden f.eks.?
+99-1	Det	den	PM:s-un:--:----	_	
+99-2	homoseksuelle	homoseksuel	AC:sdu#:--:p---	_	
+99-3	oplysnings	oplysning	NW:----:--:----	_	
+99-4	-	-	ZH	_	
+99-5	og	og	CC:----:--:----	_	
+99-6	ligestillingsarbejde	ligestillingsarbejde	NC:siun:--:----	_	
+99-7	er	være	VF:----:sa:----	_	
+99-8	slet	slet	D-:----:--:u---	_	
+99-9	ikke	ikke	D-:----:--:u---	_	
+99-10	fuldendt	fuldende	VT:siu#:t-:----	_	
+99-11	,	,	ZD	_	
+99-12	konkluderede	konkludere	VF:----:ta:----	_	
+99-13	Politikens	Politiken	NP:sig#:--:----	_	
+99-14	debatredaktør	debatredaktør	NC:siuc:--:----	_	
+99-15	,	,	ZD	_	
+99-16	Lars	Lars	NP:siu#:--:----	_	
+99-17	Hedebo	Hedebo	NP:siu#:--:----	_	
+99-18	Olsen	Olsen	NP:siu#:--:----	_	
+99-19	,	,	ZD	_	
+99-20	så	så	D-:----:--:u---	_	
+99-21	sent	sen	AD:----:--:p---	_	
+99-22	som	som	US:----:--:----	_	
+99-23	sidste	sidste	AC:§§u§:--:p---	_	
+99-24	lørdag	lørdag	NC:siuc:--:----	_	
+99-25	,	,	ZD	_	
+99-26	hvilket	hvilken	PR:s-un:--:----	_	
+99-27	han	han	XY:----:--:----	_	
+99-28	utvivlsomt	utvivlsom	AD:----:--:p---	_	
+99-29	gjorde	gøre	VF:----:ta:----	_	
+99-30	ret	ret	D-:----:--:u---	_	
+99-31	i	i	T-:----:--:----	_	
+99-32	,	,	ZD	_	
+99-33	spørgsmålet	spørgsmål	NC:sdun:--:----	_	
+99-34	er	være	VF:----:sa:----	_	
+99-35	,	,	ZD	_	
+99-36	om	om	:----	_	
+99-37	kampen	kamp	NC:sduc:--:----	_	
+99-38	,	,	ZD	_	
+99-39	når	når	CS:----:--:----	_	
+99-40	det	det	PP:s-un:--:-3n-	_	
+99-41	gælder	gælde	VF:----:sa:----	_	
+99-42	kvinder	kvinde	NC:piu#:--:----	_	
+99-43	og	og	CC:----:--:----	_	
+99-44	homoseksualitet	homoseksualitet	NC:siuc:--:----	_	
+99-45	,	,	ZD	_	
+99-46	har	have	VF:----:sa:----	_	
+99-47	flere	mange	AC:##u#:--:c---	_	
+99-48	eller	eller	CC:----:--:----	_	
+99-49	snarere	snarere	D-:----:--:u---	_	
+99-50	andre	anden	PI:p-u#:--:----	_	
+99-51	slag	slag	NC:piu#:--:----	slag_2_2b_2c	
+99-52	tilbage	tilbage	D-:----:--:u---	_	
+99-53	at	at	UI:----:--:----	_	
+99-54	kæmpe	kæmpe	VI:----:-a:----	_	
+99-55	,	,	ZD	_	
+99-56	dét	det	PP:s-un:--:-3n-	_	
+99-57	om	om	T-:----:--:----	_	
+99-58	synligheden	synlighed	NC:sduc:--:----	_	
+99-59	f	for	T-:----:--:----	_	
+99-60	.	.	ZP	_	
+99-61	eks	eksempel	NC:siun:--:----	_	
+99-62	.	.	ZP	_	
+99-63	?	?	ZQ	_	
+
+#id=100
+#text=Vi slår en gang imellem et slag for bordeaux her i testen, og i denne uge kommer der endnu et.
+100-1	Vi	vi	PP:p-nc:--:-1n-	_	
+100-2	slår	slå	VF:----:sa:----	_	
+100-3	en	en	PI:s-uc:--:----	_	
+100-4	gang	gang	NC:siuc:--:----	_	
+100-5	imellem	imellem	T-:----:--:----	_	
+100-6	et	en	PI:s-un:--:----	_	
+100-7	slag	slag	NC:siun:--:----	slag_F_slå et slag	
+100-8	for	for	T-:----:--:----	_	
+100-9	bordeaux	bordeaux	NC:siuc:--:----	_	
+100-10	her	her	D-:----:--:u---	_	
+100-11	i	i	T-:----:--:----	_	
+100-12	testen	test	NC:sduc:--:----	_	
+100-13	,	,	ZD	_	
+100-14	og	og	CC:----:--:----	_	
+100-15	i	i	T-:----:--:----	_	
+100-16	denne	denne	PM:s-uc:--:----	_	
+100-17	uge	uge	NC:siuc:--:----	_	
+100-18	kommer	komme	VF:----:sa:----	_	
+100-19	der	der	US:----:--:----	_	
+100-20	endnu	endnu	D-:----:--:u---	_	
+100-21	et	en	PI:s-un:--:----	_	
+100-22	.	.	ZP	_	
+

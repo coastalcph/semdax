@@ -1,0 +1,205 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Jegsynes , det er alt for enkelt og for dumsmart at skyde skylden på Richard Møller Nielsen .
+1-1	Jeg	O	
+1-2	synes	B-verb.cognition	
+1-3	,	O	
+1-4	det	O	
+1-5	er	B-verb.stative	
+1-6	alt	O	
+1-7	for	O	
+1-8	enkelt	B-adj.all	
+1-9	og	O	
+1-10	for	O	
+1-11	dumsmart	B-adj.mental	
+1-12	at	O	
+1-13	skyde	B-verb.act	
+1-14	skylden	B-noun.feeling	
+1-15	på	O	
+1-16	Richard	B-noun.person	
+1-17	Møller	I-noun.person	
+1-18	Nielsen	I-noun.person	
+1-19	.	O	
+
+#id=2
+#text=Deter altså ikke ham , der spiller kampene .
+2-1	Det	O	
+2-2	er	B-verb.stative	
+2-3	altså	O	
+2-4	ikke	O	
+2-5	ham	O	
+2-6	,	O	
+2-7	der	O	
+2-8	spiller	B-verb.act	
+2-9	kampene	B-noun.event	
+2-10	.	O	
+
+#id=3
+#text=Sandhedener - naturligvis - at vi ikke råder over samme spillerstab som i firserne .
+3-1	Sandheden	B-noun.abstract	
+3-2	er	B-verb.stative	
+3-3	-	O	
+3-4	naturligvis	O	
+3-5	-	O	
+3-6	at	O	
+3-7	vi	O	
+3-8	ikke	O	
+3-9	råder	B-verb.possession	
+3-10	over	B-verb.COLL	
+3-11	samme	O	
+3-12	spillerstab	B-noun.person	
+3-13	som	O	
+3-14	i	O	
+3-15	firserne	B-noun.time	
+3-16	.	O	
+
+#id=4
+#text=Oveni købet har Ricardo det problem , at han i forårets tre testkampe ikke disponerer over de olympiske spillere fra U-21 holdet .
+4-1	Oven	O	
+4-2	i	O	
+4-3	købet	B-noun.possession	
+4-4	har	B-verb.phenomenon	
+4-5	Ricardo	B-noun.person	
+4-6	det	O	
+4-7	problem	B-noun.state	
+4-8	,	O	
+4-9	at	O	
+4-10	han	O	
+4-11	i	O	
+4-12	forårets	B-noun.time	
+4-13	tre	O	
+4-14	testkampe	B-noun.event	
+4-15	ikke	O	
+4-16	disponerer	B-verb.act	
+4-17	over	O	
+4-18	de	O	
+4-19	olympiske	B-adj.all	
+4-20	spillere	B-noun.person	
+4-21	fra	O	
+4-22	U-21	B-noun.person	
+4-23	holdet	I-noun.person	
+4-24	.	O	
+
+#id=5
+#text=Fremtids-folkenessucces blokerer for en oplagt mulighed til at gå nye veje og prøve nye spillere før efterårets VM-kampe .
+5-1	Fremtids-folkenes	B-noun.person	
+5-2	succes	B-noun.attribute	
+5-3	blokerer	B-verb.act	
+5-4	for	O	
+5-5	en	O	
+5-6	oplagt	B-adj.mental	
+5-7	mulighed	B-noun.event	
+5-8	til	O	
+5-9	at	O	
+5-10	gå	B-verb.change	
+5-11	nye	B-verb.COLL	
+5-12	veje	B-verb.COLL	
+5-13	og	O	
+5-14	prøve	B-verb.act	
+5-15	nye	B-adj.time	
+5-16	spillere	B-noun.person	
+5-17	før	O	
+5-18	efterårets	B-noun.time	
+5-19	VM-kampe	B-noun.event	
+5-20	.	O	
+
+#id=6
+#text=INGENVM-BILLET
+6-1	INGEN	O	
+6-2	VM-BILLET	B-noun.artifact	
+
+#id=7
+#text=Det, vi så i Ankara , varsler ingen VM-billet til Danmark i USA om to år .
+7-1	Det	O	
+7-2	,	O	
+7-3	vi	O	
+7-4	så	B-verb.perception	
+7-5	i	O	
+7-6	Ankara	B-noun.location	
+7-7	,	O	
+7-8	varsler	B-verb.communication	
+7-9	ingen	O	
+7-10	VM-billet	B-noun.abstract	
+7-11	til	O	
+7-12	Danmark	B-noun.institution	
+7-13	i	O	
+7-14	USA	B-noun.location	
+7-15	om	O	
+7-16	to	O	
+7-17	år	B-noun.time	
+7-18	.	O	
+
+#id=8
+#text=Vitabte til et middelmådigt landshold , der har fået klø i_læssevis de sidste to år .
+8-1	Vi	O	
+8-2	tabte	B-verb.competition	
+8-3	til	O	
+8-4	et	O	
+8-5	middelmådigt	B-adj.all	
+8-6	landshold	B-noun.person	
+8-7	,	O	
+8-8	der	O	
+8-9	har	O	
+8-10	fået	B-verb.phenomenon	
+8-11	klø	B-noun.act	
+8-12	i_læssevis	B-noun.quantity	
+8-13	de	O	
+8-14	sidste	O	
+8-15	to	O	
+8-16	år	B-noun.time	
+8-17	.	O	
+
+#id=9
+#text=Kampenafslørede med røntgen-blik , hvor vigtige Peter Schmeichel , Flemming Povlsen , Kim Vilfort og Kim Christofte er for Danmark .
+9-1	Kampen	B-noun.event	
+9-2	afslørede	B-verb.act	
+9-3	med	O	
+9-4	røntgen-blik	B-noun.attribute	
+9-5	,	O	
+9-6	hvor	O	
+9-7	vigtige	B-adj.all	
+9-8	Peter	B-noun.person	
+9-9	Schmeichel	I-noun.person	
+9-10	,	O	
+9-11	Flemming	B-noun.person	
+9-12	Povlsen	I-noun.person	
+9-13	,	O	
+9-14	Kim	B-noun.person	
+9-15	Vilfort	I-noun.person	
+9-16	og	O	
+9-17	Kim	B-noun.person	
+9-18	Christofte	I-noun.person	
+9-19	er	B-verb.stative	
+9-20	for	O	
+9-21	Danmark	B-noun.institution	
+9-22	.	O	
+
+#id=10
+#text=KunHenrik Andersen trak sig tilbage med et uplettet visitkort .
+10-1	Kun	O	
+10-2	Henrik	B-noun.person	
+10-3	Andersen	I-noun.person	
+10-4	trak	B-verb.act	
+10-5	sig	B-verb.REFLPRON	
+10-6	tilbage	B-verb.PARTICLE	
+10-7	med	O	
+10-8	et	O	
+10-9	uplettet	B-adj.all	
+10-10	visitkort	B-noun.communication	
+10-11	.	O	
+
+#id=11
+#text=Hansørgede for friske fremstød , han turde og kunne noget .
+11-1	Han	O	
+11-2	sørgede	B-verb.act	
+11-3	for	O	
+11-4	friske	B-adj.mental	
+11-5	fremstød	B-noun.act	
+11-6	,	O	
+11-7	han	O	
+11-8	turde	B-verb.emotion	
+11-9	og	O	
+11-10	kunne	O	
+11-11	noget	O	
+11-12	.	O	
+

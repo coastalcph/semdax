@@ -1,0 +1,207 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=ANTHONYHOPKINS er ikke kun ond og grusom .
+1-1	ANTHONY	B-noun.person	
+1-2	HOPKINS	I-noun.person	
+1-3	er	B-verb.stative	
+1-4	ikke	O	
+1-5	kun	O	
+1-6	ond	B-adj.mental	
+1-7	og	O	
+1-8	grusom	B-adj.mental	
+1-9	.	O	
+
+#id=2
+#text=Hankan også spille the good guy .
+2-1	Han	O	
+2-2	kan	O	
+2-3	også	O	
+2-4	spille	B-verb.act	
+2-5	the	B-noun.person	
+2-6	good	I-noun.person	
+2-7	guy	I-noun.person	
+2-8	.	O	
+
+#id=3
+#text=Detbeviser han i FRANCIS FORD COPPOLAS nye film om Dracula , hvor HOPKINS spiller helten Van Helsing , der skal få bugt med udyret .
+3-1	Det	O	
+3-2	beviser	B-verb.communication	
+3-3	han	O	
+3-4	i	O	
+3-5	FRANCIS	B-noun.person	
+3-6	FORD	I-noun.person	
+3-7	COPPOLAS	I-noun.person	
+3-8	nye	B-adj.time	
+3-9	film	B-noun.artifact	
+3-10	om	O	
+3-11	Dracula	B-noun.person	
+3-12	,	O	
+3-13	hvor	O	
+3-14	HOPKINS	B-noun.person	
+3-15	spiller	B-verb.act	
+3-16	helten	B-noun.person	
+3-17	Van	B-noun.person	
+3-18	Helsing	I-noun.person	
+3-19	,	O	
+3-20	der	O	
+3-21	skal	O	
+3-22	få	B-verb.act	
+3-23	bugt	B-verb.COLL	
+3-24	med	O	
+3-25	udyret	B-noun.animal	
+3-26	.	O	
+
+#id=4
+#text=Aproposudyr , så har den engelske skuespiller jo også fået bugt med sit eget , alkoholen .
+4-1	Apropos	O	
+4-2	udyr	B-noun.animal	
+4-3	,	O	
+4-4	så	O	
+4-5	har	O	
+4-6	den	O	
+4-7	engelske	B-adj.social	
+4-8	skuespiller	B-noun.person	
+4-9	jo	O	
+4-10	også	O	
+4-11	fået	B-verb.act	
+4-12	bugt	B-verb.COLL	
+4-13	med	O	
+4-14	sit	O	
+4-15	eget	B-noun.abstract	
+4-16	,	O	
+4-17	alkoholen	B-noun.food	
+4-18	.	O	
+
+#id=5
+#text=Meninden det lykkedes , var han så langt ude , at han nogle morgener vågnede og intet ku' huske fra nattens  strabadser .
+5-1	Men	O	
+5-2	inden	O	
+5-3	det	O	
+5-4	lykkedes	B-verb.aspectual	
+5-5	,	O	
+5-6	var	B-verb.stative	
+5-7	han	O	
+5-8	så	O	
+5-9	langt	O	
+5-10	ude	O	
+5-11	,	O	
+5-12	at	O	
+5-13	han	O	
+5-14	nogle	O	
+5-15	morgener	B-noun.time	
+5-16	vågnede	B-verb.change	
+5-17	og	O	
+5-18	intet	O	
+5-19	ku'	O	
+5-20	huske	B-verb.cognition	
+5-21	fra	O	
+5-22	nattens	B-noun.time	
+5-23	strabadser	B-noun.act	
+5-24	.	O	
+
+#id=6
+#text="Jeg ku' blive i tvivl , om jeg havde myrdet nogen i nattens løb , og var nødt til at gå ud og checke bilen for at se , om der var blod , " fortæller HOPKINS .
+6-1	"	O	
+6-2	Jeg	O	
+6-3	ku'	O	
+6-4	blive	B-verb.change	
+6-5	i	O	
+6-6	tvivl	B-noun.cognition	
+6-7	,	O	
+6-8	om	O	
+6-9	jeg	O	
+6-10	havde	O	
+6-11	myrdet	B-verb.act	
+6-12	nogen	O	
+6-13	i	O	
+6-14	nattens	B-noun.time	
+6-15	løb	B-noun.event	
+6-16	,	O	
+6-17	og	O	
+6-18	var	B-verb.stative	
+6-19	nødt	O	
+6-20	til	O	
+6-21	at	O	
+6-22	gå	B-verb.motion	
+6-23	ud	B-verb.PARTICLE	
+6-24	og	O	
+6-25	checke	B-verb.perception	
+6-26	bilen	B-noun.vehicle	
+6-27	for	O	
+6-28	at	O	
+6-29	se	B-verb.perception	
+6-30	,	O	
+6-31	om	O	
+6-32	der	O	
+6-33	var	B-verb.stative	
+6-34	blod	B-noun.substance	
+6-35	,	O	
+6-36	"	O	
+6-37	fortæller	B-verb.communication	
+6-38	HOPKINS	B-noun.person	
+6-39	.	O	
+
+#id=7
+#text=STEVENSPIELBERG måtte iscenesætte sit eget private eventyr her for_nylig .
+7-1	STEVEN	B-noun.person	
+7-2	SPIELBERG	I-noun.person	
+7-3	måtte	O	
+7-4	iscenesætte	B-verb.act	
+7-5	sit	O	
+7-6	eget	O	
+7-7	private	B-adj.all	
+7-8	eventyr	B-noun.event	
+7-9	her	O	
+7-10	for_nylig	O	
+7-11	.	O	
+
+#id=8
+#text=Hans23-årige nevø Christopher var nemlig forsvundet under en vandretur i Los Angeles National Forest , og da det lokale politi måtte opgive efter to dage , satte SPIELBERG selv to helikoptere på i jagten .
+8-1	Hans	O	
+8-2	23-årige	B-adj.time	
+8-3	nevø	B-noun.person	
+8-4	Christopher	B-noun.person	
+8-5	var	O	
+8-6	nemlig	O	
+8-7	forsvundet	B-verb.phenomenon	
+8-8	under	O	
+8-9	en	O	
+8-10	vandretur	B-noun.event	
+8-11	i	O	
+8-12	Los	B-noun.location	
+8-13	Angeles	I-noun.location	
+8-14	National	I-noun.location	
+8-15	Forest	I-noun.location	
+8-16	,	O	
+8-17	og	O	
+8-18	da	O	
+8-19	det	O	
+8-20	lokale	B-adj.social	
+8-21	politi	B-noun.institution	
+8-22	måtte	O	
+8-23	opgive	B-verb.aspectual	
+8-24	efter	O	
+8-25	to	O	
+8-26	dage	B-noun.time	
+8-27	,	O	
+8-28	satte	B-verb.aspectual	
+8-29	SPIELBERG	B-noun.person	
+8-30	selv	O	
+8-31	to	O	
+8-32	helikoptere	B-noun.vehicle	
+8-33	på	B-verb.COLL	
+8-34	i	O	
+8-35	jagten	B-noun.act	
+8-36	.	O	
+
+#id=9
+#text=Nevøenblev fundet efter et par timer .
+9-1	Nevøen	B-noun.person	
+9-2	blev	O	
+9-3	fundet	B-verb.phenomenon	
+9-4	efter	O	
+9-5	et	O	
+9-6	par	B-noun.quantity	
+9-7	timer	B-noun.time	
+9-8	.	O	
+

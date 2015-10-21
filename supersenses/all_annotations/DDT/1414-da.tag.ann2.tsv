@@ -1,0 +1,238 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Sagenvakte stor opsigt , da mormoderen og børnene , første gang de var på flugt sammen , blev anholdt ved en større politiaktion på Djursland .
+1-1	Sagen	B-noun.abstract	
+1-2	vakte	B-verb.phenomenon	
+1-3	stor	B-adj.all	
+1-4	opsigt	B-noun.phenomenon	
+1-5	,	O	
+1-6	da	O	
+1-7	mormoderen	B-noun.person	
+1-8	og	O	
+1-9	børnene	B-noun.person	
+1-10	,	O	
+1-11	første	B-adj.time	
+1-12	gang	B-noun.abstract	
+1-13	de	O	
+1-14	var	B-verb.stative	
+1-15	på	O	
+1-16	flugt	B-noun.act	
+1-17	sammen	O	
+1-18	,	O	
+1-19	blev	O	
+1-20	anholdt	B-verb.act	
+1-21	ved	O	
+1-22	en	O	
+1-23	større	B-adj.all	
+1-24	politiaktion	B-noun.act	
+1-25	på	O	
+1-26	Djursland	B-noun.location	
+1-27	.	O	
+
+#id=2
+#text=Medved anholdelsen var medarbejdere fra Søllerød Kommune .
+2-1	Med	O	
+2-2	ved	O	
+2-3	anholdelsen	B-noun.act	
+2-4	var	B-verb.stative	
+2-5	medarbejdere	B-noun.person	
+2-6	fra	O	
+2-7	Søllerød	B-noun.institution	
+2-8	Kommune	I-noun.institution	
+2-9	.	O	
+
+#id=3
+#text=Enukendt havde fortalt de sociale myndigheder om , hvor de skjulte sig .
+3-1	En	O	
+3-2	ukendt	B-adj.all	
+3-3	havde	O	
+3-4	fortalt	B-verb.communication	
+3-5	de	O	
+3-6	sociale	B-adj.social	
+3-7	myndigheder	B-noun.institution	
+3-8	om	O	
+3-9	,	O	
+3-10	hvor	O	
+3-11	de	O	
+3-12	skjulte	B-verb.stative	
+3-13	sig	O	
+3-14	.	O	
+
+#id=4
+#text=Menugen efter fjernede mormoderen og hendes advokat igen børnene fra Bagsværd Observationshjem , og siden har de været godt skjult .
+4-1	Men	O	
+4-2	ugen	B-noun.time	
+4-3	efter	O	
+4-4	fjernede	B-verb.motion	
+4-5	mormoderen	B-noun.person	
+4-6	og	O	
+4-7	hendes	O	
+4-8	advokat	B-noun.person	
+4-9	igen	O	
+4-10	børnene	B-noun.person	
+4-11	fra	O	
+4-12	Bagsværd	B-noun.institution	
+4-13	Observationshjem	I-noun.institution	
+4-14	,	O	
+4-15	og	O	
+4-16	siden	O	
+4-17	har	O	
+4-18	de	O	
+4-19	været	B-verb.stative	
+4-20	godt	O	
+4-21	skjult	B-adj.all	
+4-22	.	O	
+
+#id=5
+#text=Mensmormoderen gemte sig , lykkedes det hende sammen med sin advokat , Holger Lindholt , København , at få overført forældreretten til sig ved en beslutning i Københavns Overpræsidium .
+5-1	Mens	O	
+5-2	mormoderen	B-noun.person	
+5-3	gemte	B-verb.stative	
+5-4	sig	O	
+5-5	,	O	
+5-6	lykkedes	B-verb.phenomenon	
+5-7	det	O	
+5-8	hende	O	
+5-9	sammen	O	
+5-10	med	O	
+5-11	sin	O	
+5-12	advokat	B-noun.person	
+5-13	,	O	
+5-14	Holger	B-noun.person	
+5-15	Lindholt	I-noun.person	
+5-16	,	O	
+5-17	København	B-noun.location	
+5-18	,	O	
+5-19	at	O	
+5-20	få	O	
+5-21	overført	B-verb.act	
+5-22	forældreretten	B-noun.cognition	
+5-23	til	O	
+5-24	sig	O	
+5-25	ved	O	
+5-26	en	O	
+5-27	beslutning	B-noun.communication	
+5-28	i	O	
+5-29	Københavns	B-noun.institution	
+5-30	Overpræsidium	I-noun.institution	
+5-31	.	O	
+
+#id=6
+#text=SEJRFOR ALLE MORMØDRE
+6-1	SEJR	B-noun.cognition	
+6-2	FOR	O	
+6-3	ALLE	O	
+6-4	MORMØDRE	B-noun.person	
+
+#id=7
+#text=IngeDaugaards advokat , Holger Lindholt : " Denne afgørelse er simpelthen en sejr for alle Danmarks mormødre .
+7-1	Inge	B-noun.person	
+7-2	Daugaards	I-noun.person	
+7-3	advokat	B-noun.person	
+7-4	,	O	
+7-5	Holger	B-noun.person	
+7-6	Lindholt	I-noun.person	
+7-7	:	O	
+7-8	"	O	
+7-9	Denne	O	
+7-10	afgørelse	B-noun.cognition	
+7-11	er	B-verb.stative	
+7-12	simpelthen	O	
+7-13	en	O	
+7-14	sejr	B-noun.cognition	
+7-15	for	O	
+7-16	alle	O	
+7-17	Danmarks	B-noun.institution	
+7-18	mormødre	B-noun.person	
+7-19	.	O	
+
+#id=8
+#text=Denviser , at man sagtens kan tage hånd om sine børnebørn , selv_om man er oppe i årene .
+8-1	Den	O	
+8-2	viser	B-verb.phenomenon	
+8-3	,	O	
+8-4	at	O	
+8-5	man	O	
+8-6	sagtens	O	
+8-7	kan	O	
+8-8	tage	B-verb.act	
+8-9	hånd	B-verb.COLL	
+8-10	om	O	
+8-11	sine	O	
+8-12	børnebørn	B-noun.person	
+8-13	,	O	
+8-14	selv_om	O	
+8-15	man	O	
+8-16	er	B-verb.stative	
+8-17	oppe	O	
+8-18	i	O	
+8-19	årene	B-noun.time	
+8-20	.	O	
+
+#id=9
+#text=Dethandler alene om kærlighed .
+9-1	Det	O	
+9-2	handler	B-verb.phenomenon	
+9-3	alene	O	
+9-4	om	O	
+9-5	kærlighed	B-noun.feeling	
+9-6	.	O	
+
+#id=10
+#text=Deto børn elsker deres mormor over alt i verden .
+10-1	De	O	
+10-2	to	O	
+10-3	børn	B-noun.person	
+10-4	elsker	B-verb.emotion	
+10-5	deres	O	
+10-6	mormor	B-noun.person	
+10-7	over	O	
+10-8	alt	O	
+10-9	i	O	
+10-10	verden	B-noun.location	
+10-11	.	O	
+
+#id=11
+#text=Ogjeg kan garantere for , at hun kan klare det .
+11-1	Og	O	
+11-2	jeg	O	
+11-3	kan	O	
+11-4	garantere	B-verb.communication	
+11-5	for	O	
+11-6	,	O	
+11-7	at	O	
+11-8	hun	O	
+11-9	kan	O	
+11-10	klare	B-verb.act	
+11-11	det	O	
+11-12	.	O	
+
+#id=12
+#text=Hunhar en sjælsstyrke og en varme , man kun sjældent møder .
+12-1	Hun	O	
+12-2	har	B-verb.phenomenon	
+12-3	en	O	
+12-4	sjælsstyrke	B-noun.attribute	
+12-5	og	O	
+12-6	en	O	
+12-7	varme	B-noun.attribute	
+12-8	,	O	
+12-9	man	O	
+12-10	kun	O	
+12-11	sjældent	O	
+12-12	møder	B-verb.perception	
+12-13	.	O	
+
+#id=13
+#text=Debørn vil få en god opvækst hos hende .
+13-1	De	O	
+13-2	børn	B-noun.person	
+13-3	vil	O	
+13-4	få	B-verb.phenomenon	
+13-5	en	O	
+13-6	god	B-adj.all	
+13-7	opvækst	B-noun.phenomenon	
+13-8	hos	O	
+13-9	hende	O	
+13-10	.	O	
+

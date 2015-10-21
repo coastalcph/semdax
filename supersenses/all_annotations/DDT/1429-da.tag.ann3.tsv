@@ -1,0 +1,223 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Nyei BTCC
+1-1	Nye	B-adj.time	
+1-2	i	O	
+1-3	BTCC	B-noun.institution	
+
+#id=2
+#text=Ford, Volkswagen og Renault ventes at engagere sig i britisk standardvogns racing i 1993 .
+2-1	Ford	B-noun.institution	
+2-2	,	O	
+2-3	Volkswagen	B-noun.institution	
+2-4	og	O	
+2-5	Renault	B-noun.institution	
+2-6	ventes	B-verb.cognition	
+2-7	at	O	
+2-8	engagere	B-verb.act	
+2-9	sig	B-verb.REFLPRON	
+2-10	i	O	
+2-11	britisk	B-adj.social	
+2-12	standardvogns	B-noun.act	
+2-13	racing	I-noun.act	
+2-14	i	O	
+2-15	1993	B-noun.time	
+2-16	.	O	
+
+#id=3
+#text=Iforvejen er BMW , Toyota , Vauxhall , Peugeot , Mazda og Nissan involveret i BTCC-serien , som Thorkild Thyrring nu har lagt bag sig efter fejltagelsen med Andy_Rouse-teamet .
+3-1	I	O	
+3-2	forvejen	O	
+3-3	er	O	
+3-4	BMW	B-noun.institution	
+3-5	,	O	
+3-6	Toyota	B-noun.institution	
+3-7	,	O	
+3-8	Vauxhall	B-noun.institution	
+3-9	,	O	
+3-10	Peugeot	B-noun.institution	
+3-11	,	O	
+3-12	Mazda	B-noun.institution	
+3-13	og	O	
+3-14	Nissan	B-noun.institution	
+3-15	involveret	B-verb.stative	
+3-16	i	O	
+3-17	BTCC-serien	B-noun.group	
+3-18	,	O	
+3-19	som	O	
+3-20	Thorkild	B-noun.person	
+3-21	Thyrring	I-noun.person	
+3-22	nu	O	
+3-23	har	O	
+3-24	lagt	B-verb.aspectual	
+3-25	bag	B-verb.COLL	
+3-26	sig	B-verb.REFLPRON	
+3-27	efter	O	
+3-28	fejltagelsen	B-noun.act	
+3-29	med	O	
+3-30	Andy_Rouse-teamet	B-noun.person	
+3-31	.	O	
+
+#id=4
+#text=Audi, som fornylig trak sig ud af den tyske Gruppe_A-serie efter kontroverser omkring en ny krumtapaksel i teamets V8'ere , har meddelt sine kørere - Stuck , Jelinski og Biela - at de skal " klappe hesten " , og det er af iagttagere tolket på den måde , at Audi vender tilbage i 1993 og derfor har bedt kørerne om ikke at engagere sig til anden side .
+4-1	Audi	B-noun.institution	
+4-2	,	O	
+4-3	som	O	
+4-4	fornylig	O	
+4-5	trak	B-verb.act	
+4-6	sig	B-verb.REFLPRON	
+4-7	ud	B-verb.PARTICLE	
+4-8	af	O	
+4-9	den	O	
+4-10	tyske	B-adj.social	
+4-11	Gruppe_A-serie	B-noun.group	
+4-12	efter	O	
+4-13	kontroverser	B-noun.event	
+4-14	omkring	O	
+4-15	en	O	
+4-16	ny	B-adj.time	
+4-17	krumtapaksel	B-noun.artifact	
+4-18	i	O	
+4-19	teamets	B-noun.person	
+4-20	V8'ere	B-noun.vehicle	
+4-21	,	O	
+4-22	har	O	
+4-23	meddelt	B-verb.communication	
+4-24	sine	O	
+4-25	kørere	B-noun.person	
+4-26	-	O	
+4-27	Stuck	B-noun.person	
+4-28	,	O	
+4-29	Jelinski	B-noun.person	
+4-30	og	O	
+4-31	Biela	B-noun.person	
+4-32	-	O	
+4-33	at	O	
+4-34	de	O	
+4-35	skal	O	
+4-36	"	O	
+4-37	klappe	B-verb.emotion	
+4-38	hesten	B-verb.COLL	
+4-39	"	O	
+4-40	,	O	
+4-41	og	O	
+4-42	det	O	
+4-43	er	B-verb.stative	
+4-44	af	O	
+4-45	iagttagere	B-noun.person	
+4-46	tolket	B-verb.cognition	
+4-47	på	O	
+4-48	den	O	
+4-49	måde	B-noun.abstract	
+4-50	,	O	
+4-51	at	O	
+4-52	Audi	B-noun.institution	
+4-53	vender	B-verb.act	
+4-54	tilbage	B-verb.COLL	
+4-55	i	O	
+4-56	1993	B-noun.time	
+4-57	og	O	
+4-58	derfor	O	
+4-59	har	O	
+4-60	bedt	B-verb.communication	
+4-61	kørerne	B-noun.person	
+4-62	om	O	
+4-63	ikke	O	
+4-64	at	O	
+4-65	engagere	B-verb.change	
+4-66	sig	B-verb.REFLPRON	
+4-67	til	O	
+4-68	anden	O	
+4-69	side	B-noun.person	
+4-70	.	O	
+
+#id=5
+#text=2.690km pr. l.
+5-1	2.690	O	
+5-2	km	O	
+5-3	pr.	O	
+5-4	l.	O	
+
+#id=6
+#text=Enbil bygget af franske studerende kunne ruinere benzinselskaberne , hvis den blev sat i masseproduktion .
+6-1	En	O	
+6-2	bil	B-noun.vehicle	
+6-3	bygget	B-verb.creation	
+6-4	af	O	
+6-5	franske	B-adj.social	
+6-6	studerende	B-noun.person	
+6-7	kunne	O	
+6-8	ruinere	B-verb.change	
+6-9	benzinselskaberne	B-noun.institution	
+6-10	,	O	
+6-11	hvis	O	
+6-12	den	O	
+6-13	blev	O	
+6-14	sat	B-verb.aspectual	
+6-15	i	O	
+6-16	masseproduktion	B-noun.act	
+6-17	.	O	
+
+#id=7
+#text=Bilenkan køre lige over 2.690 km på en liter benzin , hvilket er verdensrekord .
+7-1	Bilen	B-noun.vehicle	
+7-2	kan	O	
+7-3	køre	B-verb.motion	
+7-4	lige	O	
+7-5	over	O	
+7-6	2.690	O	
+7-7	km	O	
+7-8	på	O	
+7-9	en	O	
+7-10	liter	B-noun.quantity	
+7-11	benzin	B-noun.substance	
+7-12	,	O	
+7-13	hvilket	O	
+7-14	er	B-verb.stative	
+7-15	verdensrekord	B-noun.attribute	
+7-16	.	O	
+
+#id=8
+#text=Denenestående bil vandt i denne specielle disciplin i konkurrence med 73 andre specialbyggede biler på Silverstone-banen i Storbritannien .
+8-1	Den	O	
+8-2	enestående	B-adj.all	
+8-3	bil	B-noun.vehicle	
+8-4	vandt	B-verb.competition	
+8-5	i	O	
+8-6	denne	O	
+8-7	specielle	B-adj.all	
+8-8	disciplin	B-noun.domain	
+8-9	i	O	
+8-10	konkurrence	B-noun.event	
+8-11	med	O	
+8-12	73	O	
+8-13	andre	O	
+8-14	specialbyggede	B-adj.phys	
+8-15	biler	B-noun.vehicle	
+8-16	på	O	
+8-17	Silverstone-banen	B-noun.building	
+8-18	i	O	
+8-19	Storbritannien	B-noun.location	
+8-20	.	O	
+
+#id=9
+#text=Dentidligere rekord var fra 1988 , hvor en japansk-bygget bil kørte 2.270 km på en liter .
+9-1	Den	O	
+9-2	tidligere	B-adj.time	
+9-3	rekord	B-noun.attribute	
+9-4	var	B-verb.stative	
+9-5	fra	O	
+9-6	1988	B-noun.time	
+9-7	,	O	
+9-8	hvor	O	
+9-9	en	O	
+9-10	japansk-bygget	B-adj.phys	
+9-11	bil	B-noun.vehicle	
+9-12	kørte	B-verb.motion	
+9-13	2.270	O	
+9-14	km	O	
+9-15	på	O	
+9-16	en	O	
+9-17	liter	B-noun.quantity	
+9-18	.	O	
+

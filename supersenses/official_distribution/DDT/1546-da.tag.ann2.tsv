@@ -1,0 +1,219 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Hunfortæller også , at hun ikke sov den første nat efter ankomsten .
+1-1	Hun	O	
+1-2	fortæller	B-verb.communication	
+1-3	også	O	
+1-4	,	O	
+1-5	at	O	
+1-6	hun	O	
+1-7	ikke	O	
+1-8	sov	B-verb.phenomenon	
+1-9	den	O	
+1-10	første	B-adj.time	
+1-11	nat	B-noun.time	
+1-12	efter	O	
+1-13	ankomsten	B-noun.act	
+1-14	.	O	
+
+#id=2
+#text="Hver gang jeg lukkede øjnene , så jeg grædende børn , sultne børn , døende børn og døde børn .
+2-1	"	O	
+2-2	Hver	O	
+2-3	gang	B-noun.abstract	
+2-4	jeg	O	
+2-5	lukkede	B-verb.act	
+2-6	øjnene	B-noun.body	
+2-7	,	O	
+2-8	så	B-verb.perception	
+2-9	jeg	O	
+2-10	grædende	B-adj.phys	
+2-11	børn	B-noun.person	
+2-12	,	O	
+2-13	sultne	B-adj.phys	
+2-14	børn	B-noun.person	
+2-15	,	O	
+2-16	døende	B-adj.phys	
+2-17	børn	B-noun.person	
+2-18	og	O	
+2-19	døde	B-adj.phys	
+2-20	børn	B-noun.person	
+2-21	.	O	
+
+#id=3
+#text=Detteer noget , der aldrig forlader mig .
+3-1	Dette	O	
+3-2	er	B-verb.stative	
+3-3	noget	O	
+3-4	,	O	
+3-5	der	O	
+3-6	aldrig	O	
+3-7	forlader	B-verb.phenomenon	
+3-8	mig	O	
+3-9	.	O	
+
+#id=4
+#text=Oghele mit liv vil jeg spørge mig selv og andre : Jamen gjorde vi nok , " siger Sophia Loren .
+4-1	Og	O	
+4-2	hele	B-adj.time	
+4-3	mit	O	
+4-4	liv	B-noun.time	
+4-5	vil	O	
+4-6	jeg	O	
+4-7	spørge	B-verb.communication	
+4-8	mig	O	
+4-9	selv	O	
+4-10	og	O	
+4-11	andre	O	
+4-12	:	O	
+4-13	Jamen	O	
+4-14	gjorde	B-verb.act	
+4-15	vi	O	
+4-16	nok	O	
+4-17	,	O	
+4-18	"	O	
+4-19	siger	B-verb.communication	
+4-20	Sophia	B-noun.person	
+4-21	Loren	I-noun.person	
+4-22	.	O	
+
+#id=5
+#text=Hunvar på de seks døgn rundt i fem lejre , og hvert sted snakkede hun  med ledere og gik ind i arbejdet med at dele de sparsomme madrationer ud , made børnene og være med til at rydde op og få både de syge børn og voksne i lejrene vasket og givet medicin .
+5-1	Hun	O	
+5-2	var	B-verb.motion	
+5-3	på	O	
+5-4	de	O	
+5-5	seks	O	
+5-6	døgn	B-noun.time	
+5-7	rundt	B-verb.COLL	
+5-8	i	O	
+5-9	fem	O	
+5-10	lejre	B-noun.building	
+5-11	,	O	
+5-12	og	O	
+5-13	hvert	O	
+5-14	sted	B-noun.location	
+5-15	snakkede	B-verb.communication	
+5-16	hun	O	
+5-17	med	O	
+5-18	ledere	B-noun.person	
+5-19	og	O	
+5-20	gik	B-verb.act	
+5-21	ind	B-verb.COLL	
+5-22	i	B-verb.COLL	
+5-23	arbejdet	B-noun.act	
+5-24	med	O	
+5-25	at	O	
+5-26	dele	B-verb.possession	
+5-27	de	O	
+5-28	sparsomme	B-adj.all	
+5-29	madrationer	B-noun.food	
+5-30	ud	B-verb.PARTICLE	
+5-31	,	O	
+5-32	made	B-verb.act	
+5-33	børnene	B-noun.person	
+5-34	og	O	
+5-35	være	B-verb.stative	
+5-36	med	B-verb.COLL	
+5-37	til	B-verb.COLL	
+5-38	at	O	
+5-39	rydde	B-verb.act	
+5-40	op	B-verb.PARTICLE	
+5-41	og	O	
+5-42	få	O	
+5-43	både	O	
+5-44	de	O	
+5-45	syge	B-adj.all	
+5-46	børn	B-noun.person	
+5-47	og	O	
+5-48	voksne	B-noun.person	
+5-49	i	O	
+5-50	lejrene	B-noun.building	
+5-51	vasket	B-verb.act	
+5-52	og	O	
+5-53	givet	B-verb.possession	
+5-54	medicin	B-noun.substance	
+5-55	.	O	
+
+#id=6
+#text=DETNYTTER
+6-1	DET	O	
+6-2	NYTTER	B-verb.phenomenon	
+
+#id=7
+#text="Fortæl alle , der vil høre og læse det - hjælpen er ikke formålsløs .
+7-1	"	O	
+7-2	Fortæl	B-verb.communication	
+7-3	alle	O	
+7-4	,	O	
+7-5	der	O	
+7-6	vil	O	
+7-7	høre	B-verb.communication	
+7-8	og	O	
+7-9	læse	B-verb.cognition	
+7-10	det	O	
+7-11	-	O	
+7-12	hjælpen	B-noun.act	
+7-13	er	B-verb.stative	
+7-14	ikke	O	
+7-15	formålsløs	B-adj.all	
+7-16	.	O	
+
+#id=8
+#text=Dener måske langsom , men alt - selv en dansk krone - er bedre end ingenting , når de gives til hjælpearbejdet , " siger Sophia Loren .
+8-1	Den	O	
+8-2	er	B-verb.stative	
+8-3	måske	O	
+8-4	langsom	B-adj.all	
+8-5	,	O	
+8-6	men	O	
+8-7	alt	O	
+8-8	-	O	
+8-9	selv	O	
+8-10	en	O	
+8-11	dansk	B-adj.social	
+8-12	krone	B-noun.quantity	
+8-13	-	O	
+8-14	er	B-verb.stative	
+8-15	bedre	B-adj.all	
+8-16	end	O	
+8-17	ingenting	O	
+8-18	,	O	
+8-19	når	O	
+8-20	de	O	
+8-21	gives	B-verb.possession	
+8-22	til	O	
+8-23	hjælpearbejdet	B-noun.act	
+8-24	,	O	
+8-25	"	O	
+8-26	siger	B-verb.communication	
+8-27	Sophia	B-noun.person	
+8-28	Loren	I-noun.person	
+8-29	.	O	
+
+#id=9
+#text=Hunindrømmer , at hun var meget rystet over og totalt uforberedt på den kontrast , der findes i det hungerhærgede land .
+9-1	Hun	O	
+9-2	indrømmer	B-verb.communication	
+9-3	,	O	
+9-4	at	O	
+9-5	hun	O	
+9-6	var	B-verb.stative	
+9-7	meget	O	
+9-8	rystet	B-adj.mental	
+9-9	over	O	
+9-10	og	O	
+9-11	totalt	O	
+9-12	uforberedt	B-adj.mental	
+9-13	på	O	
+9-14	den	O	
+9-15	kontrast	B-noun.relation	
+9-16	,	O	
+9-17	der	O	
+9-18	findes	B-verb.stative	
+9-19	i	O	
+9-20	det	O	
+9-21	hungerhærgede	B-adj.all	
+9-22	land	B-noun.location	
+9-23	.	O	
+

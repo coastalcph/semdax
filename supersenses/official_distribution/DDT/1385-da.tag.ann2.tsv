@@ -1,0 +1,253 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=ODENSE: Det gik helt grassat for OB i det fynske lokalopgør .
+1-1	ODENSE	B-noun.location	
+1-2	:	O	
+1-3	Det	O	
+1-4	gik	B-verb.phenomenon	
+1-5	helt	O	
+1-6	grassat	B-verb.COLL	
+1-7	for	O	
+1-8	OB	B-noun.institution	
+1-9	i	O	
+1-10	det	O	
+1-11	fynske	B-adj.social	
+1-12	lokalopgør	B-noun.act	
+1-13	.	O	
+
+#id=2
+#text=Landsholdsspilleren, Lars Elstrup , og Jens Madsen blev udvist .
+2-1	Landsholdsspilleren	B-noun.person	
+2-2	,	O	
+2-3	Lars	B-noun.person	
+2-4	Elstrup	I-noun.person	
+2-5	,	O	
+2-6	og	O	
+2-7	Jens	B-noun.person	
+2-8	Madsen	I-noun.person	
+2-9	blev	O	
+2-10	udvist	B-verb.act	
+2-11	.	O	
+
+#id=3
+#text=Demest rabiate tilhængere kunne heller ikke styre sig .
+3-1	De	O	
+3-2	mest	O	
+3-3	rabiate	B-adj.all	
+3-4	tilhængere	B-noun.person	
+3-5	kunne	O	
+3-6	heller	O	
+3-7	ikke	O	
+3-8	styre	B-verb.cognition	
+3-9	sig	B-verb.REFLPRON	
+3-10	.	O	
+
+#id=4
+#text=Dommeren, Villy Nielsen , måtte have beskyttelse af kontrollører for at slippe fri af truende OB-fans ved pausen og efter kampen .
+4-1	Dommeren	B-noun.person	
+4-2	,	O	
+4-3	Villy	B-noun.person	
+4-4	Nielsen	I-noun.person	
+4-5	,	O	
+4-6	måtte	O	
+4-7	have	B-verb.stative	
+4-8	beskyttelse	B-noun.act	
+4-9	af	O	
+4-10	kontrollører	B-noun.person	
+4-11	for	O	
+4-12	at	O	
+4-13	slippe	B-verb.act	
+4-14	fri	B-verb.COLL	
+4-15	af	O	
+4-16	truende	B-adj.phys	
+4-17	OB-fans	B-noun.person	
+4-18	ved	O	
+4-19	pausen	B-noun.time	
+4-20	og	O	
+4-21	efter	O	
+4-22	kampen	B-noun.event	
+4-23	.	O	
+
+#id=5
+#text="Sorte svin , sorte svin , " skreg omkring 30 fanatikere , mens kontrollørerne dannede kæde , så ingen slap igennem .
+5-1	"	O	
+5-2	Sorte	B-adj.phys	
+5-3	svin	B-noun.animal	
+5-4	,	O	
+5-5	sorte	B-adj.phys	
+5-6	svin	B-noun.animal	
+5-7	,	O	
+5-8	"	O	
+5-9	skreg	B-verb.communication	
+5-10	omkring	O	
+5-11	30	O	
+5-12	fanatikere	B-noun.person	
+5-13	,	O	
+5-14	mens	O	
+5-15	kontrollørerne	B-noun.person	
+5-16	dannede	B-verb.act	
+5-17	kæde	B-noun.shape	
+5-18	,	O	
+5-19	så	O	
+5-20	ingen	O	
+5-21	slap	B-verb.motion	
+5-22	igennem	O	
+5-23	.	O	
+
+#id=6
+#text=OBhavde vundet rub og stub , syv sejre i træk , men i_går styrtede det hele sammen .
+6-1	OB	B-noun.person	
+6-2	havde	O	
+6-3	vundet	B-verb.competition	
+6-4	rub	B-noun.abstract	
+6-5	og	O	
+6-6	stub	B-noun.abstract	
+6-7	,	O	
+6-8	syv	O	
+6-9	sejre	B-noun.act	
+6-10	i	O	
+6-11	træk	B-noun.time	
+6-12	,	O	
+6-13	men	O	
+6-14	i_går	B-noun.time	
+6-15	styrtede	B-verb.phenomenon	
+6-16	det	O	
+6-17	hele	O	
+6-18	sammen	B-verb.COLL	
+6-19	.	O	
+
+#id=7
+#text="De striv'de " fik rø'e tæsk og rø'e kort .
+7-1	"	O	
+7-2	De	B-noun.person	
+7-3	striv'de	I-noun.person	
+7-4	"	O	
+7-5	fik	B-verb.phenomenon	
+7-6	rø'e	B-adj.phys	
+7-7	tæsk	B-noun.act	
+7-8	og	O	
+7-9	rø'e	B-adj.phys	
+7-10	kort	B-noun.communication	
+7-11	.	O	
+
+#id=8
+#text=Engrusom aften for OB .
+8-1	En	O	
+8-2	grusom	B-adj.all	
+8-3	aften	B-noun.time	
+8-4	for	O	
+8-5	OB	B-noun.institution	
+8-6	.	O	
+
+#id=9
+#text=JensMadsens udvisning i det 43. minut var diskutabel .
+9-1	Jens	B-noun.person	
+9-2	Madsens	I-noun.person	
+9-3	udvisning	B-noun.act	
+9-4	i	O	
+9-5	det	O	
+9-6	43.	O	
+9-7	minut	B-noun.time	
+9-8	var	B-verb.stative	
+9-9	diskutabel	B-adj.all	
+9-10	.	O	
+
+#id=10
+#text=Detlignede mere et hændeligt sammenstød end en bevidst handling , den såkaldte nødbremse , da OBeren stoppede Lars Larsen lige uden for feltet .
+10-1	Det	O	
+10-2	lignede	B-verb.stative	
+10-3	mere	O	
+10-4	et	O	
+10-5	hændeligt	B-adj.all	
+10-6	sammenstød	B-noun.act	
+10-7	end	O	
+10-8	en	O	
+10-9	bevidst	B-adj.mental	
+10-10	handling	B-noun.act	
+10-11	,	O	
+10-12	den	O	
+10-13	såkaldte	B-adj.all	
+10-14	nødbremse	B-noun.artifact	
+10-15	,	O	
+10-16	da	O	
+10-17	OBeren	B-noun.person	
+10-18	stoppede	B-verb.act	
+10-19	Lars	B-noun.person	
+10-20	Larsen	I-noun.person	
+10-21	lige	O	
+10-22	uden	O	
+10-23	for	O	
+10-24	feltet	B-noun.location	
+10-25	.	O	
+
+#id=11
+#text="Lars kantede sig ind foran mig .
+11-1	"	O	
+11-2	Lars	B-noun.person	
+11-3	kantede	B-verb.motion	
+11-4	sig	O	
+11-5	ind	O	
+11-6	foran	O	
+11-7	mig	O	
+11-8	.	O	
+
+#id=12
+#text=Jegkunne ikke undgå at ramme ham .
+12-1	Jeg	O	
+12-2	kunne	O	
+12-3	ikke	O	
+12-4	undgå	B-verb.act	
+12-5	at	O	
+12-6	ramme	B-verb.contact	
+12-7	ham	O	
+12-8	.	O	
+
+#id=13
+#text=Ingenaf os rørte i_øvrigt bolden , " forklarede Jens Madsen .
+13-1	Ingen	O	
+13-2	af	O	
+13-3	os	O	
+13-4	rørte	B-verb.contact	
+13-5	i_øvrigt	O	
+13-6	bolden	B-noun.artifact	
+13-7	,	O	
+13-8	"	O	
+13-9	forklarede	B-verb.communication	
+13-10	Jens	B-noun.person	
+13-11	Madsen	I-noun.person	
+13-12	.	O	
+
+#id=14
+#text=Tilgengæld var der ingen tvivl om , at Lars Elstrup forløb sig .
+14-1	Til	O	
+14-2	gengæld	O	
+14-3	var	B-verb.stative	
+14-4	der	O	
+14-5	ingen	O	
+14-6	tvivl	B-noun.cognition	
+14-7	om	O	
+14-8	,	O	
+14-9	at	O	
+14-10	Lars	B-noun.person	
+14-11	Elstrup	I-noun.person	
+14-12	forløb	B-verb.cognition	
+14-13	sig	B-verb.REFLPRON	
+14-14	.	O	
+
+#id=15
+#text=Hansparkede B1909s Ole Juel ned som en hævnakt 20 minutter før tid .
+15-1	Han	O	
+15-2	sparkede	B-verb.contact	
+15-3	B1909s	B-noun.institution	
+15-4	Ole	B-noun.person	
+15-5	Juel	I-noun.person	
+15-6	ned	B-verb.COLL	
+15-7	som	O	
+15-8	en	O	
+15-9	hævnakt	B-noun.act	
+15-10	20	O	
+15-11	minutter	B-noun.time	
+15-12	før	O	
+15-13	tid	B-noun.time	
+15-14	.	O	
+

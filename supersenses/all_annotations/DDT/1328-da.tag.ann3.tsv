@@ -1,0 +1,225 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Michael: " Ja , for jeg forstår stadig ikke , hvordan i himlens navn de kunne stemme os ned på en tredjesidste plads .
+1-1	Michael	B-noun.person	
+1-2	:	O	
+1-3	"	O	
+1-4	Ja	O	
+1-5	,	O	
+1-6	for	O	
+1-7	jeg	O	
+1-8	forstår	B-verb.cognition	
+1-9	stadig	O	
+1-10	ikke	O	
+1-11	,	O	
+1-12	hvordan	O	
+1-13	i	O	
+1-14	himlens	O	
+1-15	navn	O	
+1-16	de	O	
+1-17	kunne	O	
+1-18	stemme	B-verb.act	
+1-19	os	O	
+1-20	ned	B-verb.COLL	
+1-21	på	O	
+1-22	en	O	
+1-23	tredjesidste	B-adj.all	
+1-24	plads	B-noun.relation	
+1-25	.	O	
+
+#id=2
+#text=Varvi blevet nummer fem-seks stykker , så lad gå - osse selv_om vi jo næsten troede , vi skulle vinde .
+2-1	Var	O	
+2-2	vi	O	
+2-3	blevet	B-verb.stative	
+2-4	nummer	O	
+2-5	fem-seks	O	
+2-6	stykker	B-noun.quantity	
+2-7	,	O	
+2-8	så	O	
+2-9	lad	B-verb.phenomenon	
+2-10	gå	B-verb.COLL	
+2-11	-	O	
+2-12	osse	O	
+2-13	selv_om	O	
+2-14	vi	O	
+2-15	jo	O	
+2-16	næsten	O	
+2-17	troede	B-verb.cognition	
+2-18	,	O	
+2-19	vi	O	
+2-20	skulle	O	
+2-21	vinde	B-verb.competition	
+2-22	.	O	
+
+#id=3
+#text=Vilærte nogle ting dernede , som jeg håber DR også har taget ved lære af .
+3-1	Vi	O	
+3-2	lærte	B-verb.cognition	
+3-3	nogle	O	
+3-4	ting	B-noun.abstract	
+3-5	dernede	O	
+3-6	,	O	
+3-7	som	O	
+3-8	jeg	O	
+3-9	håber	B-verb.cognition	
+3-10	DR	B-noun.institution	
+3-11	også	O	
+3-12	har	O	
+3-13	taget	B-verb.cognition	
+3-14	ved	B-verb.COLL	
+3-15	lære	B-verb.COLL	
+3-16	af	O	
+3-17	.	O	
+
+#id=4
+#text=Blandt_andetskal man lave en fed video med super-lyd til præsentationsprogrammerne .
+4-1	Blandt_andet	O	
+4-2	skal	O	
+4-3	man	O	
+4-4	lave	B-verb.creation	
+4-5	en	O	
+4-6	fed	B-adj.phys	
+4-7	video	B-noun.communication	
+4-8	med	O	
+4-9	super-lyd	B-noun.attribute	
+4-10	til	O	
+4-11	præsentationsprogrammerne	B-noun.communication	
+4-12	.	O	
+
+#id=5
+#text=Visendte en kopi fra finalen  i Århus , og det lød så ækelt - ushh !
+5-1	Vi	O	
+5-2	sendte	B-verb.act	
+5-3	en	O	
+5-4	kopi	B-noun.artifact	
+5-5	fra	O	
+5-6	finalen	B-noun.event	
+5-7	i	O	
+5-8	Århus	B-noun.location	
+5-9	,	O	
+5-10	og	O	
+5-11	det	O	
+5-12	lød	B-verb.perception	
+5-13	så	O	
+5-14	ækelt	B-adj.phys	
+5-15	-	O	
+5-16	ushh	O	
+5-17	!	O	
+
+#id=6
+#text=Dettabte vi meget på . "
+6-1	Det	O	
+6-2	tabte	B-verb.competition	
+6-3	vi	O	
+6-4	meget	O	
+6-5	på	O	
+6-6	.	O	
+6-7	"	O	
+
+#id=7
+#text=Anders: " Og så må DR lære , at det ikke kan nytte noget bare at stille op med en god melodi , en god solist og et dygtigt kor .
+7-1	Anders	B-noun.person	
+7-2	:	O	
+7-3	"	O	
+7-4	Og	O	
+7-5	så	O	
+7-6	må	O	
+7-7	DR	B-noun.institution	
+7-8	lære	B-verb.cognition	
+7-9	,	O	
+7-10	at	O	
+7-11	det	O	
+7-12	ikke	O	
+7-13	kan	O	
+7-14	nytte	B-verb.phenomenon	
+7-15	noget	O	
+7-16	bare	O	
+7-17	at	O	
+7-18	stille	B-verb.motion	
+7-19	op	B-verb.PARTICLE	
+7-20	med	O	
+7-21	en	O	
+7-22	god	B-adj.all	
+7-23	melodi	B-noun.communication	
+7-24	,	O	
+7-25	en	O	
+7-26	god	B-adj.all	
+7-27	solist	B-noun.person	
+7-28	og	O	
+7-29	et	O	
+7-30	dygtigt	B-adj.all	
+7-31	kor	B-noun.person	
+7-32	.	O	
+
+#id=8
+#text=Varenskal sælges , koldt og kynisk .
+8-1	Varen	B-noun.artifact	
+8-2	skal	O	
+8-3	sælges	B-verb.possession	
+8-4	,	O	
+8-5	koldt	O	
+8-6	og	O	
+8-7	kynisk	O	
+8-8	.	O	
+
+#id=9
+#text=Svenskernevar helt utrolige .
+9-1	Svenskerne	B-noun.person	
+9-2	var	B-verb.stative	
+9-3	helt	O	
+9-4	utrolige	B-adj.mental	
+9-5	.	O	
+
+#id=10
+#text=Heleholdet i designede Carola-jakker , cocktail-parties , der væltede alt , og en producer , som havde hele kamera-gangen klar i mindste detalje til det italienske TV .
+10-1	Hele	O	
+10-2	holdet	B-noun.person	
+10-3	i	O	
+10-4	designede	B-verb.creation	
+10-5	Carola-jakker	B-noun.artifact	
+10-6	,	O	
+10-7	cocktail-parties	B-noun.event	
+10-8	,	O	
+10-9	der	O	
+10-10	væltede	B-verb.competition	
+10-11	alt	O	
+10-12	,	O	
+10-13	og	O	
+10-14	en	O	
+10-15	producer	B-noun.person	
+10-16	,	O	
+10-17	som	O	
+10-18	havde	B-verb.stative	
+10-19	hele	B-adj.phys	
+10-20	kamera-gangen	B-noun.artifact	
+10-21	klar	B-adj.all	
+10-22	i	O	
+10-23	mindste	B-adj.phys	
+10-24	detalje	B-noun.abstract	
+10-25	til	O	
+10-26	det	O	
+10-27	italienske	B-adj.social	
+10-28	TV	B-noun.communication	
+10-29	.	O	
+
+#id=11
+#text=Sådan.
+11-1	Sådan	O	
+11-2	.	O	
+
+#id=12
+#text=Ingenfejl .
+12-1	Ingen	O	
+12-2	fejl	B-noun.attribute	
+12-3	.	O	
+
+#id=13
+#text=Ogse  bare resultatet . "
+13-1	Og	O	
+13-2	se	B-verb.perception	
+13-3	bare	O	
+13-4	resultatet	B-noun.abstract	
+13-5	.	O	
+13-6	"	O	
+

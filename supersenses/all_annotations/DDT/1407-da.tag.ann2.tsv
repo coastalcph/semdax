@@ -1,0 +1,228 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=IfølgeEilif Larsen skal de skadede fodboldspillere hurtigt op af sengen for at begynde genoptræningen .
+1-1	Ifølge	O	
+1-2	Eilif	B-noun.person	
+1-3	Larsen	I-noun.person	
+1-4	skal	O	
+1-5	de	O	
+1-6	skadede	B-adj.phys	
+1-7	fodboldspillere	B-noun.person	
+1-8	hurtigt	O	
+1-9	op	O	
+1-10	af	O	
+1-11	sengen	B-noun.artifact	
+1-12	for	O	
+1-13	at	O	
+1-14	begynde	B-verb.aspectual	
+1-15	genoptræningen	B-noun.act	
+1-16	.	O	
+
+#id=2
+#text="Alt går forløbig efter planen , selv_om der endnu ikke har været tid til genoptræning .
+2-1	"	O	
+2-2	Alt	O	
+2-3	går	B-verb.phenomenon	
+2-4	forløbig	O	
+2-5	efter	O	
+2-6	planen	B-noun.cognition	
+2-7	,	O	
+2-8	selv_om	O	
+2-9	der	O	
+2-10	endnu	O	
+2-11	ikke	O	
+2-12	har	O	
+2-13	været	B-verb.stative	
+2-14	tid	B-noun.time	
+2-15	til	O	
+2-16	genoptræning	B-noun.act	
+2-17	.	O	
+
+#id=3
+#text=HenrikAndersen trænger fortsat til hvile , men han har det betydeligt bedre , " siger Eilif Larsen til B.T. .
+3-1	Henrik	B-noun.person	
+3-2	Andersen	I-noun.person	
+3-3	trænger	B-verb.emotion	
+3-4	fortsat	O	
+3-5	til	O	
+3-6	hvile	B-noun.act	
+3-7	,	O	
+3-8	men	O	
+3-9	han	O	
+3-10	har	B-verb.emotion	
+3-11	det	B-verb.COLL	
+3-12	betydeligt	O	
+3-13	bedre	B-adj.all	
+3-14	,	O	
+3-15	"	O	
+3-16	siger	B-verb.communication	
+3-17	Eilif	B-noun.person	
+3-18	Larsen	I-noun.person	
+3-19	til	O	
+3-20	B.T.	B-noun.communication	
+3-21	.	O	
+
+#id=4
+#text=Telefonernehar kimet på den lille sygestue i Brøndby .
+4-1	Telefonerne	B-noun.communication	
+4-2	har	O	
+4-3	kimet	B-verb.phenomenon	
+4-4	på	O	
+4-5	den	O	
+4-6	lille	B-adj.phys	
+4-7	sygestue	B-noun.building	
+4-8	i	O	
+4-9	Brøndby	B-noun.location	
+4-10	.	O	
+
+#id=5
+#text=Allevil høre , hvordan den skadede fodboldspiller har det .
+5-1	Alle	O	
+5-2	vil	O	
+5-3	høre	B-verb.communication	
+5-4	,	O	
+5-5	hvordan	O	
+5-6	den	O	
+5-7	skadede	B-adj.phys	
+5-8	fodboldspiller	B-noun.person	
+5-9	har	B-verb.emotion	
+5-10	det	B-verb.COLL	
+5-11	.	O	
+
+#id=6
+#text=HenrikAndersen , der de første dage havde problemer med at sove , er dødtræt .
+6-1	Henrik	B-noun.person	
+6-2	Andersen	I-noun.person	
+6-3	,	O	
+6-4	der	O	
+6-5	de	O	
+6-6	første	B-adj.time	
+6-7	dage	B-noun.time	
+6-8	havde	B-verb.cognition	
+6-9	problemer	B-noun.abstract	
+6-10	med	O	
+6-11	at	O	
+6-12	sove	B-verb.phenomenon	
+6-13	,	O	
+6-14	er	B-verb.stative	
+6-15	dødtræt	B-adj.phys	
+6-16	.	O	
+
+#id=7
+#text="Det er ikke overdrevet , hvis telefonen ringer 50 gange i timen .
+7-1	"	O	
+7-2	Det	O	
+7-3	er	B-verb.stative	
+7-4	ikke	O	
+7-5	overdrevet	B-adj.all	
+7-6	,	O	
+7-7	hvis	O	
+7-8	telefonen	B-noun.communication	
+7-9	ringer	B-verb.phenomenon	
+7-10	50	O	
+7-11	gange	B-noun.quantity	
+7-12	i	O	
+7-13	timen	B-noun.time	
+7-14	.	O	
+
+#id=8
+#text=Henriker frisket betydeligt op , og han har fået hvilet lidt , da han fik en pause fra telefonen , " siger Henrik Andersens lillebror Kristian .
+8-1	Henrik	B-noun.person	
+8-2	er	O	
+8-3	frisket	B-verb.change	
+8-4	betydeligt	O	
+8-5	op	B-verb.PARTICLE	
+8-6	,	O	
+8-7	og	O	
+8-8	han	O	
+8-9	har	O	
+8-10	fået	O	
+8-11	hvilet	B-verb.phenomenon	
+8-12	lidt	O	
+8-13	,	O	
+8-14	da	O	
+8-15	han	O	
+8-16	fik	B-verb.phenomenon	
+8-17	en	O	
+8-18	pause	B-noun.time	
+8-19	fra	O	
+8-20	telefonen	B-noun.communication	
+8-21	,	O	
+8-22	"	O	
+8-23	siger	B-verb.communication	
+8-24	Henrik	B-noun.person	
+8-25	Andersens	I-noun.person	
+8-26	lillebror	B-noun.person	
+8-27	Kristian	B-noun.person	
+8-28	.	O	
+
+#id=9
+#text=STORMEDFØLELSE
+9-1	STOR	B-adj.all	
+9-2	MEDFØLELSE	B-noun.feeling	
+
+#id=10
+#text=Torsdagaften tilbragte den 26-årige  fodboldspiller sammen med sin belgiske hustru Fabienne .
+10-1	Torsdag	B-noun.time	
+10-2	aften	B-noun.time	
+10-3	tilbragte	B-verb.stative	
+10-4	den	O	
+10-5	26-årige	B-adj.time	
+10-6	fodboldspiller	B-noun.person	
+10-7	sammen	O	
+10-8	med	O	
+10-9	sin	O	
+10-10	belgiske	B-adj.social	
+10-11	hustru	B-noun.person	
+10-12	Fabienne	B-noun.person	
+10-13	.	O	
+
+#id=11
+#text=Tidligerepå dagen havde han fået et lille fjernsyn og en video installeret på sygestuen , så han kunne se resten af semifinalekampen mod Holland .
+11-1	Tidligere	O	
+11-2	på	O	
+11-3	dagen	B-noun.time	
+11-4	havde	O	
+11-5	han	O	
+11-6	fået	O	
+11-7	et	O	
+11-8	lille	B-adj.phys	
+11-9	fjernsyn	B-noun.artifact	
+11-10	og	O	
+11-11	en	O	
+11-12	video	B-noun.artifact	
+11-13	installeret	B-verb.act	
+11-14	på	O	
+11-15	sygestuen	B-noun.building	
+11-16	,	O	
+11-17	så	O	
+11-18	han	O	
+11-19	kunne	O	
+11-20	se	B-verb.act	
+11-21	resten	B-noun.relation	
+11-22	af	O	
+11-23	semifinalekampen	B-noun.act	
+11-24	mod	O	
+11-25	Holland	B-noun.person	
+11-26	.	O	
+
+#id=12
+#text=Blandtfodboldspillerne i den fysisk krævende EM-turnering er der stor professionel medfølelse med den uheldige sportsmand .
+12-1	Blandt	O	
+12-2	fodboldspillerne	B-noun.person	
+12-3	i	O	
+12-4	den	O	
+12-5	fysisk	O	
+12-6	krævende	B-adj.phys	
+12-7	EM-turnering	B-noun.event	
+12-8	er	O	
+12-9	der	O	
+12-10	stor	B-adj.all	
+12-11	professionel	B-adj.all	
+12-12	medfølelse	B-noun.feeling	
+12-13	med	O	
+12-14	den	O	
+12-15	uheldige	B-adj.all	
+12-16	sportsmand	B-noun.person	
+12-17	.	O	
+

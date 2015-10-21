@@ -1,0 +1,207 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=SASAFVISER
+1-1	SAS	B-noun.person	
+1-2	AFVISER	B-verb.communication	
+
+#id=2
+#text=Svenskeog norske aviser mente i_går også at vide , at Stefan Rasmussens dage som helte-pilot var tæt på at være forbi .
+2-1	Svenske	B-adj.social	
+2-2	og	O	
+2-3	norske	B-adj.social	
+2-4	aviser	B-noun.person	
+2-5	mente	B-verb.cognition	
+2-6	i_går	O	
+2-7	også	O	
+2-8	at	O	
+2-9	vide	B-verb.cognition	
+2-10	,	O	
+2-11	at	O	
+2-12	Stefan	B-noun.person	
+2-13	Rasmussens	I-noun.person	
+2-14	dage	B-noun.time	
+2-15	som	O	
+2-16	helte-pilot	B-noun.person	
+2-17	var	O	
+2-18	tæt	B-adj.all	
+2-19	på	O	
+2-20	at	O	
+2-21	være	B-verb.stative	
+2-22	forbi	O	
+2-23	.	O	
+
+#id=3
+#text=Menogså det afvises af SAS , også selv_om en norsk avis havde SAS-bossen Jan Carlzon som kilde .
+3-1	Men	O	
+3-2	også	O	
+3-3	det	O	
+3-4	afvises	B-verb.communication	
+3-5	af	O	
+3-6	SAS	B-noun.person	
+3-7	,	O	
+3-8	også	O	
+3-9	selv_om	O	
+3-10	en	O	
+3-11	norsk	B-adj.social	
+3-12	avis	B-noun.person	
+3-13	havde	B-verb.stative	
+3-14	SAS-bossen	B-noun.person	
+3-15	Jan	B-noun.person	
+3-16	Carlzon	I-noun.person	
+3-17	som	O	
+3-18	kilde	B-noun.person	
+3-19	.	O	
+
+#id=4
+#text=Hanskulle efter en radio-udsendelse i svensk radio have sagt , at " den som er helt i_dag måske er noget andet i_morgen . "
+4-1	Han	O	
+4-2	skulle	O	
+4-3	efter	O	
+4-4	en	O	
+4-5	radio-udsendelse	B-noun.communication	
+4-6	i	O	
+4-7	svensk	B-adj.social	
+4-8	radio	B-noun.communication	
+4-9	have	O	
+4-10	sagt	B-verb.communication	
+4-11	,	O	
+4-12	at	O	
+4-13	"	O	
+4-14	den	O	
+4-15	som	O	
+4-16	er	B-verb.stative	
+4-17	helt	B-noun.person	
+4-18	i_dag	B-noun.time	
+4-19	måske	O	
+4-20	er	B-verb.stative	
+4-21	noget	O	
+4-22	andet	O	
+4-23	i_morgen	B-noun.time	
+4-24	.	O	
+4-25	"	O	
+
+#id=5
+#text="Den udtalelse er i følge Jan Carlzon selv fremsat under en diskussion om faren for , at medier drager for hastige konklusioner .
+5-1	"	O	
+5-2	Den	O	
+5-3	udtalelse	B-noun.communication	
+5-4	er	B-verb.stative	
+5-5	i	O	
+5-6	følge	O	
+5-7	Jan	B-noun.communication	
+5-8	Carlzon	I-noun.communication	
+5-9	selv	O	
+5-10	fremsat	B-verb.communication	
+5-11	under	O	
+5-12	en	O	
+5-13	diskussion	B-noun.communication	
+5-14	om	O	
+5-15	faren	B-noun.phenomenon	
+5-16	for	O	
+5-17	,	O	
+5-18	at	O	
+5-19	medier	B-noun.person	
+5-20	drager	B-verb.cognition	
+5-21	for	O	
+5-22	hastige	B-adj.time	
+5-23	konklusioner	B-noun.cognition	
+5-24	.	O	
+
+#id=6
+#text=Denhar ingen forbindelse med årsagen til flystyrtet .
+6-1	Den	O	
+6-2	har	B-verb.stative	
+6-3	ingen	O	
+6-4	forbindelse	B-noun.phenomenon	
+6-5	med	O	
+6-6	årsagen	B-noun.phenomenon	
+6-7	til	O	
+6-8	flystyrtet	B-noun.phenomenon	
+6-9	.	O	
+
+#id=7
+#text=I_øvrigtmå ingen i SAS udtale sig om en eventuel årsag , før havarikommissionen er færdig med dens undersøgelser .
+7-1	I_øvrigt	O	
+7-2	må	O	
+7-3	ingen	O	
+7-4	i	O	
+7-5	SAS	B-noun.institution	
+7-6	udtale	B-verb.communication	
+7-7	sig	B-verb.REFLPRON	
+7-8	om	O	
+7-9	en	O	
+7-10	eventuel	B-adj.all	
+7-11	årsag	B-noun.abstract	
+7-12	,	O	
+7-13	før	O	
+7-14	havarikommissionen	B-noun.person	
+7-15	er	O	
+7-16	færdig	B-adj.all	
+7-17	med	O	
+7-18	dens	O	
+7-19	undersøgelser	B-noun.act	
+7-20	.	O	
+
+#id=8
+#text=Meni det materiale , jeg selv har set fra kommissionen , er der ikke så meget som en antydning af , at Stefan Rasmussen skulle have gjort noget galt , " siger informationschef i SAS , Troels Rasmussen .
+8-1	Men	O	
+8-2	i	O	
+8-3	det	O	
+8-4	materiale	B-noun.artifact	
+8-5	,	O	
+8-6	jeg	O	
+8-7	selv	O	
+8-8	har	O	
+8-9	set	B-verb.cognition	
+8-10	fra	O	
+8-11	kommissionen	B-noun.person	
+8-12	,	O	
+8-13	er	B-verb.stative	
+8-14	der	O	
+8-15	ikke	O	
+8-16	så	O	
+8-17	meget	O	
+8-18	som	O	
+8-19	en	O	
+8-20	antydning	B-noun.communication	
+8-21	af	O	
+8-22	,	O	
+8-23	at	O	
+8-24	Stefan	B-noun.person	
+8-25	Rasmussen	I-noun.person	
+8-26	skulle	O	
+8-27	have	O	
+8-28	gjort	B-verb.act	
+8-29	noget	O	
+8-30	galt	O	
+8-31	,	O	
+8-32	"	O	
+8-33	siger	B-verb.communication	
+8-34	informationschef	B-noun.person	
+8-35	i	O	
+8-36	SAS	B-noun.institution	
+8-37	,	O	
+8-38	Troels	B-noun.person	
+8-39	Rasmussen	I-noun.person	
+8-40	.	O	
+
+#id=9
+#text=Detekniske chefer i både Danmark og Sverige forstår heller ikke , hvor rygtet kommer fra :
+9-1	De	O	
+9-2	tekniske	B-adj.all	
+9-3	chefer	B-noun.person	
+9-4	i	O	
+9-5	både	O	
+9-6	Danmark	B-noun.institution	
+9-7	og	O	
+9-8	Sverige	B-noun.institution	
+9-9	forstår	B-verb.cognition	
+9-10	heller	O	
+9-11	ikke	O	
+9-12	,	O	
+9-13	hvor	O	
+9-14	rygtet	B-noun.phenomenon	
+9-15	kommer	B-verb.phenomenon	
+9-16	fra	O	
+9-17	:	O	
+

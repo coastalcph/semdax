@@ -1,0 +1,208 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Kanman blive  forført i Kongens Have i 35 graders varme , mens man ligger under et skyggefuldt træ - iført alt sit tøj vel at mærke - drikker danskvand , ryger smøger og lægger øre til en pop-provokatørs bekendelser ?
+1-1	Kan	O	
+1-2	man	O	
+1-3	blive	O	
+1-4	forført	B-verb.act	
+1-5	i	O	
+1-6	Kongens	B-noun.location	
+1-7	Have	I-noun.location	
+1-8	i	O	
+1-9	35	O	
+1-10	graders	B-noun.quantity	
+1-11	varme	B-noun.phenomenon	
+1-12	,	O	
+1-13	mens	O	
+1-14	man	O	
+1-15	ligger	B-verb.stative	
+1-16	under	O	
+1-17	et	O	
+1-18	skyggefuldt	B-adj.phys	
+1-19	træ	B-noun.plant	
+1-20	-	O	
+1-21	iført	B-verb.body	
+1-22	alt	O	
+1-23	sit	O	
+1-24	tøj	B-noun.artifact	
+1-25	vel	O	
+1-26	at	O	
+1-27	mærke	O	
+1-28	-	O	
+1-29	drikker	B-verb.consumption	
+1-30	danskvand	B-noun.food	
+1-31	,	O	
+1-32	ryger	B-verb.consumption	
+1-33	smøger	B-noun.food	
+1-34	og	O	
+1-35	lægger	B-verb.perception	
+1-36	øre	B-verb.COLL	
+1-37	til	O	
+1-38	en	O	
+1-39	pop-provokatørs	B-noun.person	
+1-40	bekendelser	B-noun.communication	
+1-41	?	O	
+
+#id=2
+#text=Ja!
+2-1	Ja	O	
+2-2	!	O	
+
+#id=3
+#text=CarstenBo er - for god ordens skyld - 33 år gammel .
+3-1	Carsten	B-noun.person	
+3-2	Bo	I-noun.person	
+3-3	er	B-verb.stative	
+3-4	-	O	
+3-5	for	O	
+3-6	god	O	
+3-7	ordens	O	
+3-8	skyld	O	
+3-9	-	O	
+3-10	33	O	
+3-11	år	B-noun.time	
+3-12	gammel	B-adj.time	
+3-13	.	O	
+
+#id=4
+#text=Haner søn af tidligere industriminister Erling Jensen , poet , popsanger og forfatter .
+4-1	Han	O	
+4-2	er	B-verb.stative	
+4-3	søn	B-noun.person	
+4-4	af	O	
+4-5	tidligere	B-adj.time	
+4-6	industriminister	B-noun.person	
+4-7	Erling	B-noun.person	
+4-8	Jensen	I-noun.person	
+4-9	,	O	
+4-10	poet	B-noun.person	
+4-11	,	O	
+4-12	popsanger	B-noun.person	
+4-13	og	O	
+4-14	forfatter	B-noun.person	
+4-15	.	O	
+
+#id=5
+#text=Hovedmandeni grupper med kryptiske navne som 40 i feber , Mænd i blåt eller senest Sea Bee & The D'Generation .
+5-1	Hovedmanden	B-noun.person	
+5-2	i	O	
+5-3	grupper	B-noun.group	
+5-4	med	O	
+5-5	kryptiske	B-adj.all	
+5-6	navne	B-noun.attribute	
+5-7	som	O	
+5-8	40	B-noun.communication	
+5-9	i	I-noun.communication	
+5-10	feber	I-noun.communication	
+5-11	,	O	
+5-12	Mænd	B-noun.communication	
+5-13	i	I-noun.communication	
+5-14	blåt	I-noun.communication	
+5-15	eller	O	
+5-16	senest	O	
+5-17	Sea	B-noun.communication	
+5-18	Bee	I-noun.communication	
+5-19	&	I-noun.communication	
+5-20	The	I-noun.communication	
+5-21	D'Generation	I-noun.communication	
+5-22	.	O	
+
+#id=6
+#text=Haner - meget mod sin vilje - blevet kaldt 90ernes Steffen Brandt eller C.V. Jørgensen .
+6-1	Han	O	
+6-2	er	B-verb.stative	
+6-3	-	O	
+6-4	meget	O	
+6-5	mod	O	
+6-6	sin	O	
+6-7	vilje	B-noun.feeling	
+6-8	-	O	
+6-9	blevet	O	
+6-10	kaldt	B-verb.communication	
+6-11	90ernes	B-noun.time	
+6-12	Steffen	B-noun.person	
+6-13	Brandt	I-noun.person	
+6-14	eller	O	
+6-15	C.V.	B-noun.person	
+6-16	Jørgensen	I-noun.person	
+6-17	.	O	
+
+#id=7
+#text=Mendet gør ham sgu' sur .
+7-1	Men	O	
+7-2	det	O	
+7-3	gør	B-verb.change	
+7-4	ham	O	
+7-5	sgu'	O	
+7-6	sur	B-adj.mental	
+7-7	.	O	
+
+#id=8
+#text="Jeg er mig ! " insisterer han under det flere hundrede år gamle egetræ , liggende , som den popflab han er , på ryggen i sine orange jeans , t-shirt - som naturligvis stiller et solbrunt behåret bryst til skue - et par 68er " make love not war " solbriller han netop har købt i Paris , og en Kings i kæften .
+8-1	"	O	
+8-2	Jeg	O	
+8-3	er	B-verb.stative	
+8-4	mig	O	
+8-5	!	O	
+8-6	"	O	
+8-7	insisterer	B-verb.communication	
+8-8	han	O	
+8-9	under	O	
+8-10	det	O	
+8-11	flere	O	
+8-12	hundrede	B-noun.quantity	
+8-13	år	B-noun.time	
+8-14	gamle	B-adj.time	
+8-15	egetræ	B-noun.plant	
+8-16	,	O	
+8-17	liggende	B-verb.stative	
+8-18	,	O	
+8-19	som	O	
+8-20	den	O	
+8-21	popflab	B-noun.person	
+8-22	han	O	
+8-23	er	B-verb.stative	
+8-24	,	O	
+8-25	på	O	
+8-26	ryggen	B-noun.body	
+8-27	i	O	
+8-28	sine	O	
+8-29	orange	B-adj.phys	
+8-30	jeans	B-noun.artifact	
+8-31	,	O	
+8-32	t-shirt	B-noun.artifact	
+8-33	-	O	
+8-34	som	O	
+8-35	naturligvis	O	
+8-36	stiller	B-verb.act	
+8-37	et	O	
+8-38	solbrunt	B-adj.phys	
+8-39	behåret	B-adj.phys	
+8-40	bryst	B-noun.body	
+8-41	til	O	
+8-42	skue	B-noun.state	
+8-43	-	O	
+8-44	et	O	
+8-45	par	B-noun.quantity	
+8-46	68er	B-noun.artifact	
+8-47	"	I-noun.artifact	
+8-48	make	I-noun.artifact	
+8-49	love	I-noun.artifact	
+8-50	not	I-noun.artifact	
+8-51	war	I-noun.artifact	
+8-52	"	I-noun.artifact	
+8-53	solbriller	I-noun.artifact	
+8-54	han	O	
+8-55	netop	O	
+8-56	har	O	
+8-57	købt	B-verb.possession	
+8-58	i	O	
+8-59	Paris	B-noun.location	
+8-60	,	O	
+8-61	og	O	
+8-62	en	O	
+8-63	Kings	B-noun.artifact	
+8-64	i	O	
+8-65	kæften	B-noun.body	
+8-66	.	O	
+

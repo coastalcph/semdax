@@ -1,0 +1,2001 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Eller rettere manden nedlagde det.
+1-1	Eller	O	
+1-2	rettere	O	
+1-3	manden	B-noun.person	
+1-4	nedlagde	B-verb.motion	
+1-5	det	O	
+1-6	.	O	
+
+#id=2
+#text=Dadejen var rørt, og panden sat over, kiggede manden i mit liv på mit projekt og spurgte:
+2-1	Da	O	
+2-2	dejen	B-noun.food	
+2-3	var	O	
+2-4	rørt	B-verb.contact	
+2-5	,	O	
+2-6	og	O	
+2-7	panden	B-noun.artifact	
+2-8	sat	B-verb.motion	
+2-9	over	B-verb.PARTICLE	
+2-10	,	O	
+2-11	kiggede	B-verb.perception	
+2-12	manden	B-noun.person	
+2-13	i	O	
+2-14	mit	O	
+2-15	liv	B-noun.state	
+2-16	på	O	
+2-17	mit	O	
+2-18	projekt	B-noun.act	
+2-19	og	O	
+2-20	spurgte	B-verb.communication	
+2-21	:	O	
+
+#id=3
+#text=Du kan skrive en kommentar, eller sende et trackback fra dit eget  site.
+3-1	Du	O	
+3-2	kan	O	
+3-3	skrive	B-verb.communication	
+3-4	en	O	
+3-5	kommentar	B-noun.communication	
+3-6	,	O	
+3-7	eller	O	
+3-8	sende	B-verb.communication	
+3-9	et	O	
+3-10	trackback	B-noun.communication	
+3-11	fra	O	
+3-12	dit	O	
+3-13	eget	O	
+3-14	site	B-noun.communication	
+3-15	.	O	
+
+#id=4
+#text=Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+4-1	Du	O	
+4-2	kan	O	
+4-3	skrive	B-verb.communication	
+4-4	en	O	
+4-5	kommentar	B-noun.communication	
+4-6	,	O	
+4-7	eller	O	
+4-8	sende	B-verb.communication	
+4-9	et	O	
+4-10	trackback	B-noun.communication	
+4-11	fra	O	
+4-12	dit	O	
+4-13	eget	O	
+4-14	site	B-noun.communication	
+4-15	.	O	
+
+#id=5
+#text=Detteindlæg blev udgivet den tirsdag, 13. juli 2010 kl. 12:10 og er gemt i Katte.Du kan følge alle svar til dette indlæg via RSS 2.0-feedet.
+5-1	Dette	O	
+5-2	indlæg	B-noun.communication	
+5-3	blev	O	
+5-4	udgivet	B-verb.communication	
+5-5	den	O	
+5-6	tirsdag	B-noun.time	
+5-7	,	O	
+5-8	13	O	
+5-9	.	O	
+5-10	juli	B-noun.time	
+5-11	2010	B-noun.time	
+5-12	kl	O	
+5-13	.	O	
+5-14	12	O	
+5-15	:	O	
+5-16	10	O	
+5-17	og	O	
+5-18	er	O	
+5-19	gemt	B-verb.stative	
+5-20	i	O	
+5-21	Katte	B-noun.communication	
+5-22	.	O	
+5-23	Du	O	
+5-24	kan	O	
+5-25	følge	B-verb.cognition	
+5-26	alle	O	
+5-27	svar	B-noun.communication	
+5-28	til	O	
+5-29	dette	O	
+5-30	indlæg	B-noun.communication	
+5-31	via	O	
+5-32	RSS	O	
+5-33	2	O	
+5-34	.	O	
+5-35	0	O	
+5-36	-	O	
+5-37	feedet	O	
+5-38	.	O	
+
+#id=6
+#text=Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+6-1	Du	O	
+6-2	kan	O	
+6-3	skrive	B-verb.communication	
+6-4	en	O	
+6-5	kommentar	B-noun.communication	
+6-6	,	O	
+6-7	eller	O	
+6-8	sende	B-verb.communication	
+6-9	et	O	
+6-10	trackback	B-noun.communication	
+6-11	fra	O	
+6-12	dit	O	
+6-13	eget	O	
+6-14	site	B-noun.communication	
+6-15	.	O	
+
+#id=7
+#text=Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+7-1	Du	O	
+7-2	kan	O	
+7-3	skrive	B-verb.communication	
+7-4	en	O	
+7-5	kommentar	B-noun.communication	
+7-6	,	O	
+7-7	eller	O	
+7-8	sende	B-verb.communication	
+7-9	et	O	
+7-10	trackback	B-noun.communication	
+7-11	fra	O	
+7-12	dit	O	
+7-13	eget	O	
+7-14	site	B-noun.communication	
+7-15	.	O	
+
+#id=8
+#text=Tags:forår, foto, mariehøns
+8-1	Tags	O	
+8-2	:	O	
+8-3	forår	B-noun.time	
+8-4	,	O	
+8-5	foto	B-noun.artifact	
+8-6	,	O	
+8-7	mariehøns	B-noun.animal	
+
+#id=9
+#text=Vedkommende, der er selvstændig, kunne rigtig godt tænke sig at løse opgaver for vores virksomhed, kunne min kollega fortælle.
+9-1	Vedkommende	O	
+9-2	,	O	
+9-3	der	O	
+9-4	er	B-verb.stative	
+9-5	selvstændig	B-adj.social	
+9-6	,	O	
+9-7	kunne	B-verb.emotion	
+9-8	rigtig	O	
+9-9	godt	O	
+9-10	tænke	B-verb.COLL	
+9-11	sig	B-verb.REFLPRON	
+9-12	at	O	
+9-13	løse	B-verb.act	
+9-14	opgaver	B-noun.act	
+9-15	for	O	
+9-16	vores	O	
+9-17	virksomhed	B-noun.institution	
+9-18	,	O	
+9-19	kunne	O	
+9-20	min	O	
+9-21	kollega	B-noun.person	
+9-22	fortælle	B-verb.communication	
+9-23	.	O	
+
+#id=10
+#text=Men fredag var der dømt kick off-dag på mit nye arbejde med heldags- og aftenarrangement (vist også nat- for dem, der orkede), lørdag gik der praktiske gris i den herhjemme og så skulle vi også liiige forberede, at der ville dukke middagsgæster op.
+10-1	Men	O	
+10-2	fredag	B-noun.time	
+10-3	var	O	
+10-4	der	O	
+10-5	dømt	B-verb.cognition	
+10-6	kick	B-noun.event	
+10-7	off	I-noun.event	
+10-8	-	I-noun.event	
+10-9	dag	I-noun.event	
+10-10	på	O	
+10-11	mit	O	
+10-12	nye	O	
+10-13	arbejde	B-noun.institution	
+10-14	med	O	
+10-15	heldags	O	
+10-16	-	O	
+10-17	og	O	
+10-18	aftenarrangement	B-noun.event	
+10-19	(	O	
+10-20	vist	O	
+10-21	også	O	
+10-22	nat	O	
+10-23	-	O	
+10-24	for	O	
+10-25	dem	O	
+10-26	,	O	
+10-27	der	O	
+10-28	orkede	B-verb.emotion	
+10-29	)	O	
+10-30	,	O	
+10-31	lørdag	B-noun.time	
+10-32	gik	B-verb.change	
+10-33	der	O	
+10-34	praktiske	B-adj.all	
+10-35	gris	B-noun.person	
+10-36	i	B-verb.COLL	
+10-37	den	B-verb.COLL	
+10-38	herhjemme	O	
+10-39	og	O	
+10-40	så	O	
+10-41	skulle	O	
+10-42	vi	O	
+10-43	også	O	
+10-44	liiige	O	
+10-45	forberede	B-verb.act	
+10-46	,	O	
+10-47	at	O	
+10-48	der	O	
+10-49	ville	O	
+10-50	dukke	B-verb.motion	
+10-51	middagsgæster	B-noun.person	
+10-52	op	B-verb.PARTICLE	
+10-53	.	O	
+
+#id=11
+#text=Sådanne stille stunder er guld værd.
+11-1	Sådanne	O	
+11-2	stille	B-adj.all	
+11-3	stunder	B-noun.time	
+11-4	er	B-verb.social	
+11-5	guld	B-noun.object	
+11-6	værd	B-adj.all	
+11-7	.	O	
+
+#id=12
+#text=Og energien og humøret fra scenen indhyllede ubesværet hele salen.
+12-1	Og	O	
+12-2	energien	B-noun.feeling	
+12-3	og	O	
+12-4	humøret	B-noun.feeling	
+12-5	fra	O	
+12-6	scenen	B-noun.building	
+12-7	indhyllede	B-verb.social	
+12-8	ubesværet	O	
+12-9	hele	B-adj.phys	
+12-10	salen	B-noun.building	
+12-11	.	O	
+
+#id=13
+#text=Derer travlt i dag her hos mig, så bloggen kommer til at ligge brak.
+13-1	Der	O	
+13-2	er	O	
+13-3	travlt	B-adj.all	
+13-4	i	O	
+13-5	dag	B-noun.time	
+13-6	her	O	
+13-7	hos	O	
+13-8	mig	O	
+13-9	,	O	
+13-10	så	O	
+13-11	bloggen	B-noun.communication	
+13-12	kommer	O	
+13-13	til	O	
+13-14	at	O	
+13-15	ligge	B-verb.stative	
+13-16	brak	B-verb.PARTICLE	
+13-17	.	O	
+
+#id=14
+#text=Og så kolde tæer (fordi de rigtigt tykke støvler fik lov at holde fri).
+14-1	Og	O	
+14-2	så	O	
+14-3	kolde	B-adj.phys	
+14-4	tæer	B-noun.body	
+14-5	(	O	
+14-6	fordi	O	
+14-7	de	O	
+14-8	rigtigt	O	
+14-9	tykke	B-adj.phys	
+14-10	støvler	B-noun.artifact	
+14-11	fik	B-verb.communication	
+14-12	lov	B-noun.communication	
+14-13	at	O	
+14-14	holde	B-verb.social	
+14-15	fri	B-verb.PARTICLE	
+14-16	)	O	
+14-17	.	O	
+
+#id=15
+#text=Deter sommer, det er sol (tja bum bum), og det er søndag og det er dagen, hvor mit  hjem fyldes med bloggere.
+15-1	Det	O	
+15-2	er	B-verb.stative	
+15-3	sommer	B-noun.time	
+15-4	,	O	
+15-5	det	O	
+15-6	er	B-verb.stative	
+15-7	sol	B-noun.object	
+15-8	(	O	
+15-9	tja	O	
+15-10	bum	O	
+15-11	bum	O	
+15-12	)	O	
+15-13	,	O	
+15-14	og	O	
+15-15	det	O	
+15-16	er	B-verb.stative	
+15-17	søndag	B-noun.time	
+15-18	og	O	
+15-19	det	O	
+15-20	er	B-verb.stative	
+15-21	dagen	B-noun.time	
+15-22	,	O	
+15-23	hvor	O	
+15-24	mit	O	
+15-25	hjem	B-noun.building	
+15-26	fyldes	B-verb.change	
+15-27	med	O	
+15-28	bloggere	B-noun.person	
+15-29	.	O	
+
+#id=16
+#text=Tags:
+16-1	Tags	O	
+16-2	:	O	
+
+#id=17
+#text=Deter spøjst, så forskelligt forskellige mennesker tolker forårets vejr og påklædningsbehovet.
+17-1	Det	O	
+17-2	er	O	
+17-3	spøjst	B-adj.all	
+17-4	,	O	
+17-5	så	O	
+17-6	forskelligt	O	
+17-7	forskellige	B-adj.all	
+17-8	mennesker	B-noun.person	
+17-9	tolker	B-verb.cognition	
+17-10	forårets	B-noun.time	
+17-11	vejr	B-noun.phenomenon	
+17-12	og	O	
+17-13	påklædningsbehovet	B-noun.cognition	
+17-14	.	O	
+
+#id=18
+#text=ogdem, jeg slet ikke kunne se meningen med:
+18-1	og	O	
+18-2	dem	O	
+18-3	,	O	
+18-4	jeg	O	
+18-5	slet	O	
+18-6	ikke	O	
+18-7	kunne	O	
+18-8	se	B-verb.cognition	
+18-9	meningen	B-noun.cognition	
+18-10	med	O	
+18-11	:	O	
+
+#id=19
+#text=Og den vil jeg helst ikke være i plus på!
+19-1	Og	O	
+19-2	den	O	
+19-3	vil	O	
+19-4	jeg	O	
+19-5	helst	O	
+19-6	ikke	O	
+19-7	være	B-verb.stative	
+19-8	i	B-verb.COLL	
+19-9	plus	B-verb.COLL	
+19-10	på	O	
+19-11	!	O	
+
+#id=20
+#text=Vi  spiser dem som madbrød, men kvarte brød er også gode til sandwich.
+20-1	Vi	O	
+20-2	spiser	B-verb.consumption	
+20-3	dem	O	
+20-4	som	O	
+20-5	madbrød	B-noun.food	
+20-6	,	O	
+20-7	men	O	
+20-8	kvarte	B-adj.phys	
+20-9	brød	B-noun.food	
+20-10	er	B-verb.stative	
+20-11	også	O	
+20-12	gode	B-adj.all	
+20-13	til	O	
+20-14	sandwich	B-noun.food	
+20-15	.	O	
+
+#id=21
+#text=Jeg havde vist lige vænnet mig lidt rigeligt til at holde fri.
+21-1	Jeg	O	
+21-2	havde	O	
+21-3	vist	O	
+21-4	lige	O	
+21-5	vænnet	B-verb.cognition	
+21-6	mig	B-verb.REFLPRON	
+21-7	lidt	O	
+21-8	rigeligt	O	
+21-9	til	B-verb.COLL	
+21-10	at	O	
+21-11	holde	B-verb.social	
+21-12	fri	B-verb.PARTICLE	
+21-13	.	O	
+
+#id=22
+#text=Heldigt, at jeg skulle til det kundemøde, for så fik jeg da lige proppet til og fra-cykelturene ind i dagen.
+22-1	Heldigt	O	
+22-2	,	O	
+22-3	at	O	
+22-4	jeg	O	
+22-5	skulle	O	
+22-6	til	O	
+22-7	det	O	
+22-8	kundemøde	B-noun.communication	
+22-9	,	O	
+22-10	for	O	
+22-11	så	O	
+22-12	fik	O	
+22-13	jeg	O	
+22-14	da	O	
+22-15	lige	O	
+22-16	proppet	B-verb.cognition	
+22-17	til	B-noun.act	
+22-18	og	I-noun.act	
+22-19	fra	I-noun.act	
+22-20	-	I-noun.act	
+22-21	cykelturene	I-noun.act	
+22-22	ind	O	
+22-23	i	O	
+22-24	dagen	B-noun.time	
+22-25	.	O	
+
+#id=23
+#text=Deter surt, at det er koldt og mørkt på denne tid men smukt kan det nu også være!
+23-1	Det	O	
+23-2	er	B-verb.stative	
+23-3	surt	B-adj.all	
+23-4	,	O	
+23-5	at	O	
+23-6	det	O	
+23-7	er	B-verb.stative	
+23-8	koldt	B-adj.phys	
+23-9	og	O	
+23-10	mørkt	B-adj.phys	
+23-11	på	O	
+23-12	denne	O	
+23-13	tid	B-noun.time	
+23-14	men	O	
+23-15	smukt	B-adj.phys	
+23-16	kan	O	
+23-17	det	O	
+23-18	nu	O	
+23-19	også	O	
+23-20	være	B-verb.stative	
+23-21	!	O	
+
+#id=24
+#text=Alt inventaret kom på auktion, nøglen blev drejet om, og Selsø Slot indledte en tornerosesøvn, som varede i næsten 150 år.
+24-1	Alt	O	
+24-2	inventaret	B-noun.artifact	
+24-3	kom	B-verb.change	
+24-4	på	O	
+24-5	auktion	B-noun.possession	
+24-6	,	O	
+24-7	nøglen	B-noun.artifact	
+24-8	blev	O	
+24-9	drejet	B-verb.motion	
+24-10	om	B-verb.PARTICLE	
+24-11	,	O	
+24-12	og	O	
+24-13	Selsø	B-noun.building	
+24-14	Slot	I-noun.building	
+24-15	indledte	B-verb.aspectual	
+24-16	en	O	
+24-17	tornerosesøvn	B-noun.state	
+24-18	,	O	
+24-19	som	O	
+24-20	varede	B-verb.stative	
+24-21	i	O	
+24-22	næsten	O	
+24-23	150	O	
+24-24	år	B-noun.time	
+24-25	.	O	
+
+#id=25
+#text=Måske har jeg virkelig lært at sige pyt og nå og være ligeglad med det, jeg ikke får gjort.
+25-1	Måske	O	
+25-2	har	O	
+25-3	jeg	O	
+25-4	virkelig	O	
+25-5	lært	B-verb.cognition	
+25-6	at	O	
+25-7	sige	B-verb.cognition	
+25-8	pyt	O	
+25-9	og	O	
+25-10	nå	O	
+25-11	og	O	
+25-12	være	B-verb.cognition	
+25-13	ligeglad	B-adj.mental	
+25-14	med	O	
+25-15	det	O	
+25-16	,	O	
+25-17	jeg	O	
+25-18	ikke	O	
+25-19	får	O	
+25-20	gjort	B-verb.act	
+25-21	.	O	
+
+#id=26
+#text=Og jeg har ikke spor imod at indrømme det .
+26-1	Og	O	
+26-2	jeg	O	
+26-3	har	B-verb.emotion	
+26-4	ikke	O	
+26-5	spor	O	
+26-6	imod	B-verb.COLL	
+26-7	at	O	
+26-8	indrømme	B-verb.communication	
+26-9	det	O	
+26-10	.	O	
+
+#id=27
+#text=Nøøj,hvor har jeg ventet længe i år!
+27-1	Nøøj	O	
+27-2	,	O	
+27-3	hvor	O	
+27-4	har	O	
+27-5	jeg	O	
+27-6	ventet	B-verb.stative	
+27-7	længe	O	
+27-8	i	O	
+27-9	år	B-noun.time	
+27-10	!	O	
+
+#id=28
+#text=Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+28-1	Du	O	
+28-2	kan	O	
+28-3	skrive	B-verb.communication	
+28-4	en	O	
+28-5	kommentar	B-noun.communication	
+28-6	,	O	
+28-7	eller	O	
+28-8	sende	B-verb.communication	
+28-9	et	O	
+28-10	trackback	B-noun.communication	
+28-11	fra	O	
+28-12	dit	O	
+28-13	eget	O	
+28-14	site	B-noun.communication	
+28-15	.	O	
+
+#id=29
+#text=For517 år siden ankom Columbus til Amerika.
+29-1	For	O	
+29-2	517	O	
+29-3	år	B-noun.time	
+29-4	siden	O	
+29-5	ankom	B-verb.motion	
+29-6	Columbus	B-noun.person	
+29-7	til	O	
+29-8	Amerika	B-noun.location	
+29-9	.	O	
+
+#id=30
+#text=Af sted til Ølstykke for at feje blade sammen.
+30-1	Af	O	
+30-2	sted	O	
+30-3	til	O	
+30-4	Ølstykke	B-noun.location	
+30-5	for	O	
+30-6	at	O	
+30-7	feje	B-verb.motion	
+30-8	blade	B-noun.plant	
+30-9	sammen	O	
+30-10	.	O	
+
+#id=31
+#text=Spam er irriterende.
+31-1	Spam	B-noun.act	
+31-2	er	B-verb.stative	
+31-3	irriterende	B-verb.emotion	
+31-4	.	O	
+
+#id=32
+#text=Tags:hverdag, stress, sygemelding
+32-1	Tags	O	
+32-2	:	O	
+32-3	hverdag	B-noun.state	
+32-4	,	O	
+32-5	stress	B-noun.disease	
+32-6	,	O	
+32-7	sygemelding	B-noun.state	
+
+#id=33
+#text=Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+33-1	Du	O	
+33-2	kan	O	
+33-3	skrive	B-verb.communication	
+33-4	en	O	
+33-5	kommentar	B-noun.communication	
+33-6	,	O	
+33-7	eller	O	
+33-8	sende	B-verb.communication	
+33-9	et	O	
+33-10	trackback	B-noun.communication	
+33-11	fra	O	
+33-12	dit	O	
+33-13	eget	O	
+33-14	site	B-noun.communication	
+33-15	.	O	
+
+#id=34
+#text=Det bedste er filmens enorme mængde af nærbilleder.
+34-1	Det	O	
+34-2	bedste	B-adj.all	
+34-3	er	B-verb.stative	
+34-4	filmens	B-noun.communication	
+34-5	enorme	B-adj.all	
+34-6	mængde	B-noun.quantity	
+34-7	af	O	
+34-8	nærbilleder	B-noun.artifact	
+34-9	.	O	
+
+#id=35
+#text=Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+35-1	Du	O	
+35-2	kan	O	
+35-3	skrive	B-verb.communication	
+35-4	en	O	
+35-5	kommentar	B-noun.communication	
+35-6	,	O	
+35-7	eller	O	
+35-8	sende	B-verb.communication	
+35-9	et	O	
+35-10	trackback	B-noun.communication	
+35-11	fra	O	
+35-12	dit	O	
+35-13	eget	O	
+35-14	site	B-noun.communication	
+35-15	.	O	
+
+#id=36
+#text=Og gad vide, om det er sandheden . (Derefter fulgte tankerne om, hvad mit eget barn sagde, når hun var på besøg hos andre!).
+36-1	Og	O	
+36-2	gad	B-verb.emotion	
+36-3	vide	B-verb.cognition	
+36-4	,	O	
+36-5	om	O	
+36-6	det	O	
+36-7	er	O	
+36-8	sandheden	B-noun.cognition	
+36-9	.	O	
+36-10	(	O	
+36-11	Derefter	O	
+36-12	fulgte	B-noun.state	
+36-13	tankerne	B-noun.cognition	
+36-14	om	O	
+36-15	,	O	
+36-16	hvad	O	
+36-17	mit	O	
+36-18	eget	O	
+36-19	barn	B-noun.person	
+36-20	sagde	B-verb.communication	
+36-21	,	O	
+36-22	når	O	
+36-23	hun	O	
+36-24	var	B-verb.social	
+36-25	på	B-verb.COLL	
+36-26	besøg	B-verb.COLL	
+36-27	hos	O	
+36-28	andre	O	
+36-29	!	O	
+36-30	)	O	
+36-31	.	O	
+
+#id=37
+#text=Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+37-1	Du	O	
+37-2	kan	O	
+37-3	skrive	B-verb.communication	
+37-4	en	O	
+37-5	kommentar	B-noun.communication	
+37-6	,	O	
+37-7	eller	O	
+37-8	sende	B-verb.communication	
+37-9	et	O	
+37-10	trackback	B-noun.communication	
+37-11	fra	O	
+37-12	dit	O	
+37-13	eget	O	
+37-14	site	B-noun.communication	
+37-15	.	O	
+
+#id=38
+#text=Men jeg (faktisk vi) kom aldrig ud at gå.
+38-1	Men	O	
+38-2	jeg	O	
+38-3	(	O	
+38-4	faktisk	O	
+38-5	vi	O	
+38-6	)	O	
+38-7	kom	O	
+38-8	aldrig	O	
+38-9	ud	O	
+38-10	at	O	
+38-11	gå	B-verb.motion	
+38-12	.	O	
+
+#id=39
+#text= Så værsgo, her kommer mit første forsøg.
+39-1	Så	O	
+39-2	værsgo	O	
+39-3	,	O	
+39-4	her	O	
+39-5	kommer	B-verb.communication	
+39-6	mit	O	
+39-7	første	B-adj.all	
+39-8	forsøg	B-noun.act	
+39-9	.	O	
+
+#id=40
+#text=Tiden har altid (i hvert fald i mange år) været min  udfordrer.
+40-1	Tiden	B-noun.time	
+40-2	har	O	
+40-3	altid	O	
+40-4	(	O	
+40-5	i	O	
+40-6	hvert	O	
+40-7	fald	O	
+40-8	i	O	
+40-9	mange	O	
+40-10	år	B-noun.time	
+40-11	)	O	
+40-12	været	B-verb.stative	
+40-13	min	O	
+40-14	udfordrer	B-noun.cognition	
+40-15	.	O	
+
+#id=41
+#text=Detteindlæg blev udgivet den fredag, 25. juni 2010 kl. 22:12 og er gemt i Katte.Du kan følge alle svar til dette indlæg via RSS 2.0-feedet.
+41-1	Dette	O	
+41-2	indlæg	B-noun.communication	
+41-3	blev	O	
+41-4	udgivet	B-verb.communication	
+41-5	den	O	
+41-6	fredag	B-noun.time	
+41-7	,	O	
+41-8	25	O	
+41-9	.	O	
+41-10	juni	B-noun.time	
+41-11	2010	B-noun.time	
+41-12	kl	O	
+41-13	.	O	
+41-14	22	O	
+41-15	:	O	
+41-16	12	O	
+41-17	og	O	
+41-18	er	O	
+41-19	gemt	B-verb.stative	
+41-20	i	O	
+41-21	Katte	B-noun.communication	
+41-22	.	O	
+41-23	Du	O	
+41-24	kan	O	
+41-25	følge	B-verb.cognition	
+41-26	alle	O	
+41-27	svar	B-noun.communication	
+41-28	til	O	
+41-29	dette	O	
+41-30	indlæg	B-noun.communication	
+41-31	via	O	
+41-32	RSS	O	
+41-33	2	O	
+41-34	.	O	
+41-35	0	O	
+41-36	-	O	
+41-37	feedet	O	
+41-38	.	O	
+
+#id=42
+#text=Det er i hvert fald sådan, det føles.
+42-1	Det	O	
+42-2	er	B-verb.stative	
+42-3	i	O	
+42-4	hvert	O	
+42-5	fald	O	
+42-6	sådan	O	
+42-7	,	O	
+42-8	det	O	
+42-9	føles	B-verb.emotion	
+42-10	.	O	
+
+#id=43
+#text=Jegglæder mig allerede!
+43-1	Jeg	O	
+43-2	glæder	B-verb.emotion	
+43-3	mig	B-verb.REFLPRON	
+43-4	allerede	O	
+43-5	!	O	
+
+#id=44
+#text=Og det er moderen også.
+44-1	Og	O	
+44-2	det	O	
+44-3	er	B-verb.stative	
+44-4	moderen	B-noun.person	
+44-5	også	O	
+44-6	.	O	
+
+#id=45
+#text=Hallo hallo, glem ikke, at jeg findes.
+45-1	Hallo	O	
+45-2	hallo	O	
+45-3	,	O	
+45-4	glem	B-verb.cognition	
+45-5	ikke	O	
+45-6	,	O	
+45-7	at	O	
+45-8	jeg	O	
+45-9	findes	B-verb.stative	
+45-10	.	O	
+
+#id=46
+#text=Forfire år siden købte jeg, efter råd fra en fysioterapeut, der mente, at det ville være det sundeste for min nakke, en bedstemorcykel (turistcykel kalder de den vist også hos cykelhandleren).
+46-1	For	O	
+46-2	fire	O	
+46-3	år	B-noun.time	
+46-4	siden	O	
+46-5	købte	B-verb.possession	
+46-6	jeg	O	
+46-7	,	O	
+46-8	efter	O	
+46-9	råd	B-noun.communication	
+46-10	fra	O	
+46-11	en	O	
+46-12	fysioterapeut	B-noun.person	
+46-13	,	O	
+46-14	der	O	
+46-15	mente	B-verb.cognition	
+46-16	,	O	
+46-17	at	O	
+46-18	det	O	
+46-19	ville	O	
+46-20	være	B-verb.stative	
+46-21	det	O	
+46-22	sundeste	B-adj.all	
+46-23	for	O	
+46-24	min	O	
+46-25	nakke	B-noun.body	
+46-26	,	O	
+46-27	en	O	
+46-28	bedstemorcykel	B-noun.vehicle	
+46-29	(	O	
+46-30	turistcykel	B-noun.vehicle	
+46-31	kalder	B-verb.communication	
+46-32	de	O	
+46-33	den	O	
+46-34	vist	O	
+46-35	også	O	
+46-36	hos	O	
+46-37	cykelhandleren	B-noun.person	
+46-38	)	O	
+46-39	.	O	
+
+#id=47
+#text=Ogselvfølgelig skulle vi også en tur ind og kigge på Asger Jorns fantastiske farveeksplosioner i hans helt eget rum.
+47-1	Og	O	
+47-2	selvfølgelig	O	
+47-3	skulle	O	
+47-4	vi	O	
+47-5	også	O	
+47-6	en	O	
+47-7	tur	B-noun.act	
+47-8	ind	O	
+47-9	og	O	
+47-10	kigge	B-verb.perception	
+47-11	på	O	
+47-12	Asger	B-noun.person	
+47-13	Jorns	I-noun.person	
+47-14	fantastiske	B-adj.all	
+47-15	farveeksplosioner	B-noun.act	
+47-16	i	O	
+47-17	hans	O	
+47-18	helt	O	
+47-19	eget	O	
+47-20	rum	B-noun.building	
+47-21	.	O	
+
+#id=48
+#text=Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+48-1	Du	O	
+48-2	kan	O	
+48-3	skrive	B-verb.communication	
+48-4	en	O	
+48-5	kommentar	B-noun.communication	
+48-6	,	O	
+48-7	eller	O	
+48-8	sende	B-verb.communication	
+48-9	et	O	
+48-10	trackback	B-noun.communication	
+48-11	fra	O	
+48-12	dit	O	
+48-13	eget	O	
+48-14	site	B-noun.communication	
+48-15	.	O	
+
+#id=49
+#text=Stilfuldt indlæst af Chili Turell og downloaded ganske gratis på DR engang i efteråret.
+49-1	Stilfuldt	O	
+49-2	indlæst	B-verb.act	
+49-3	af	O	
+49-4	Chili	B-noun.person	
+49-5	Turell	I-noun.person	
+49-6	og	O	
+49-7	downloaded	B-verb.possession	
+49-8	ganske	O	
+49-9	gratis	O	
+49-10	på	O	
+49-11	DR	B-noun.institution	
+49-12	engang	O	
+49-13	i	O	
+49-14	efteråret	B-noun.time	
+49-15	.	O	
+
+#id=50
+#text=Selvnår man passer på sine rabarber, kan man heldigvis godt snuppe et par hundrede gram af stilkene nu og da, så der er nok til en kage.
+50-1	Selv	O	
+50-2	når	O	
+50-3	man	O	
+50-4	passer	B-verb.act	
+50-5	på	B-verb.PARTICLE	
+50-6	sine	O	
+50-7	rabarber	B-noun.plant	
+50-8	,	O	
+50-9	kan	O	
+50-10	man	O	
+50-11	heldigvis	O	
+50-12	godt	O	
+50-13	snuppe	B-verb.motion	
+50-14	et	O	
+50-15	par	B-noun.quantity	
+50-16	hundrede	O	
+50-17	gram	B-noun.quantity	
+50-18	af	O	
+50-19	stilkene	B-noun.plant	
+50-20	nu	O	
+50-21	og	O	
+50-22	da	O	
+50-23	,	O	
+50-24	så	O	
+50-25	der	O	
+50-26	er	B-verb.stative	
+50-27	nok	O	
+50-28	til	O	
+50-29	en	O	
+50-30	kage	B-noun.food	
+50-31	.	O	
+
+#id=51
+#text=Tags:
+51-1	Tags	O	
+51-2	:	O	
+
+#id=52
+#text=Da jeg også fik optaget det meste af mit vegetarindslag i går, havde jeg god tid.
+52-1	Da	O	
+52-2	jeg	O	
+52-3	også	O	
+52-4	fik	O	
+52-5	optaget	B-verb.creation	
+52-6	det	O	
+52-7	meste	B-adj.all	
+52-8	af	O	
+52-9	mit	O	
+52-10	vegetarindslag	B-noun.communication	
+52-11	i	O	
+52-12	går	B-noun.time	
+52-13	,	O	
+52-14	havde	B-verb.stative	
+52-15	jeg	O	
+52-16	god	B-adj.all	
+52-17	tid	B-noun.time	
+52-18	.	O	
+
+#id=53
+#text=Jegskriver ikke om min familie (altså dem uden for husstanden).
+53-1	Jeg	O	
+53-2	skriver	B-verb.communication	
+53-3	ikke	O	
+53-4	om	O	
+53-5	min	O	
+53-6	familie	B-noun.person	
+53-7	(	O	
+53-8	altså	O	
+53-9	dem	O	
+53-10	uden	O	
+53-11	for	O	
+53-12	husstanden	B-noun.person	
+53-13	)	O	
+53-14	.	O	
+
+#id=54
+#text=Den skal jeg da vist lige have kigget lidt nærmere på.
+54-1	Den	O	
+54-2	skal	O	
+54-3	jeg	O	
+54-4	da	O	
+54-5	vist	O	
+54-6	lige	O	
+54-7	have	O	
+54-8	kigget	B-verb.cognition	
+54-9	lidt	O	
+54-10	nærmere	B-adj.all	
+54-11	på	O	
+54-12	.	O	
+
+#id=55
+#text=Detteindlæg blev udgivet den lørdag, 31. oktober 2009 kl. 15:48 og er gemt i Ferie, Rejser, Teenageren.Du kan følge alle svar til dette indlæg via RSS 2.0-feedet.
+55-1	Dette	O	
+55-2	indlæg	B-noun.communication	
+55-3	blev	O	
+55-4	udgivet	B-verb.communication	
+55-5	den	O	
+55-6	lørdag	B-noun.time	
+55-7	,	O	
+55-8	31	O	
+55-9	.	O	
+55-10	oktober	B-noun.time	
+55-11	2009	B-noun.time	
+55-12	kl	O	
+55-13	.	O	
+55-14	15	O	
+55-15	:	O	
+55-16	48	O	
+55-17	og	O	
+55-18	er	O	
+55-19	gemt	B-verb.stative	
+55-20	i	O	
+55-21	Ferie	B-noun.communication	
+55-22	,	O	
+55-23	Rejser	B-noun.communication	
+55-24	,	O	
+55-25	Teenageren	B-noun.communication	
+55-26	.	O	
+55-27	Du	O	
+55-28	kan	O	
+55-29	følge	B-verb.cognition	
+55-30	alle	O	
+55-31	svar	B-noun.communication	
+55-32	til	O	
+55-33	dette	O	
+55-34	indlæg	B-noun.communication	
+55-35	via	O	
+55-36	RSS	O	
+55-37	2	O	
+55-38	.	O	
+55-39	0	O	
+55-40	-	O	
+55-41	feedet	O	
+55-42	.	O	
+
+#id=56
+#text=Tags:frokost, Mad, pizza
+56-1	Tags	O	
+56-2	:	O	
+56-3	frokost	B-noun.food	
+56-4	,	O	
+56-5	Mad	B-noun.food	
+56-6	,	O	
+56-7	pizza	B-noun.food	
+
+#id=57
+#text=Så selv om jeg ikke kan byde på adventskranse, kan jeg da byde på et enkelt stykke julepynt og ønske fortsat god søgning .
+57-1	Så	O	
+57-2	selv	O	
+57-3	om	O	
+57-4	jeg	O	
+57-5	ikke	O	
+57-6	kan	O	
+57-7	byde	B-verb.social	
+57-8	på	B-verb.COLL	
+57-9	adventskranse	B-noun.artifact	
+57-10	,	O	
+57-11	kan	O	
+57-12	jeg	O	
+57-13	da	O	
+57-14	byde	B-verb.social	
+57-15	på	B-verb.communication	
+57-16	et	O	
+57-17	enkelt	B-adj.all	
+57-18	stykke	B-noun.artifact	
+57-19	julepynt	B-noun.artifact	
+57-20	og	O	
+57-21	ønske	B-verb.communication	
+57-22	fortsat	O	
+57-23	god	B-adj.all	
+57-24	søgning	B-noun.act	
+57-25	.	O	
+
+#id=58
+#text=Ja, se, det bedste er jo at spørge folk selv!
+58-1	Ja	O	
+58-2	,	O	
+58-3	se	B-verb.cognition	
+58-4	,	O	
+58-5	det	O	
+58-6	bedste	B-adj.all	
+58-7	er	B-verb.stative	
+58-8	jo	O	
+58-9	at	O	
+58-10	spørge	B-verb.communication	
+58-11	folk	B-noun.person	
+58-12	selv	O	
+58-13	!	O	
+
+#id=59
+#text=Knæk,sagde det.
+59-1	Knæk	O	
+59-2	,	O	
+59-3	sagde	B-verb.phenomenon	
+59-4	det	O	
+59-5	.	O	
+
+#id=60
+#text=Lysten er suspenderet.
+60-1	Lysten	B-noun.feeling	
+60-2	er	O	
+60-3	suspenderet	B-verb.social	
+60-4	.	O	
+
+#id=61
+#text=Så meget, at jeg (forhåbentlig) kun husker, at jeg har en krop!
+61-1	Så	O	
+61-2	meget	O	
+61-3	,	O	
+61-4	at	O	
+61-5	jeg	O	
+61-6	(	O	
+61-7	forhåbentlig	O	
+61-8	)	O	
+61-9	kun	O	
+61-10	husker	B-verb.cognition	
+61-11	,	O	
+61-12	at	O	
+61-13	jeg	O	
+61-14	har	B-verb.stative	
+61-15	en	O	
+61-16	krop	B-noun.body	
+61-17	!	O	
+
+#id=62
+#text=Deter ret tåbeligt.
+62-1	Det	O	
+62-2	er	B-verb.stative	
+62-3	ret	O	
+62-4	tåbeligt	B-adj.mental	
+62-5	.	O	
+
+#id=63
+#text=At tusse rundt og lave alt og intet.
+63-1	At	O	
+63-2	tusse	B-verb.motion	
+63-3	rundt	O	
+63-4	og	O	
+63-5	lave	B-verb.act	
+63-6	alt	O	
+63-7	og	O	
+63-8	intet	O	
+63-9	.	O	
+
+#id=64
+#text=Ilørdags kunne jeg svælge i mine endnu skønne, frodige dahliaer og bl.a. tage billedet herover.
+64-1	I	O	
+64-2	lørdags	B-noun.time	
+64-3	kunne	O	
+64-4	jeg	O	
+64-5	svælge	B-verb.emotion	
+64-6	i	O	
+64-7	mine	O	
+64-8	endnu	O	
+64-9	skønne	B-adj.all	
+64-10	,	O	
+64-11	frodige	B-adj.all	
+64-12	dahliaer	B-noun.plant	
+64-13	og	O	
+64-14	bl	O	
+64-15	.	O	
+64-16	a	O	
+64-17	.	O	
+64-18	tage	B-verb.creation	
+64-19	billedet	B-noun.artifact	
+64-20	herover	O	
+64-21	.	O	
+
+#id=65
+#text=Selvom vores katte er ret overbærende, når kameraet kommer frem, fik Møffe alligevel nok af, at jeg forstyrrede hans varme hyggesovning.
+65-1	Selv	O	
+65-2	om	O	
+65-3	vores	O	
+65-4	katte	B-noun.animal	
+65-5	er	B-verb.stative	
+65-6	ret	O	
+65-7	overbærende	B-adj.mental	
+65-8	,	O	
+65-9	når	O	
+65-10	kameraet	B-noun.artifact	
+65-11	kommer	B-verb.motion	
+65-12	frem	B-verb.PARTICLE	
+65-13	,	O	
+65-14	fik	B-verb.emotion	
+65-15	Møffe	B-noun.animal	
+65-16	alligevel	O	
+65-17	nok	B-verb.PARTICLE	
+65-18	af	O	
+65-19	,	O	
+65-20	at	O	
+65-21	jeg	O	
+65-22	forstyrrede	B-verb.act	
+65-23	hans	O	
+65-24	varme	B-adj.phys	
+65-25	hyggesovning	B-noun.act	
+65-26	.	O	
+
+#id=66
+#text=Fire rododendroner i tre forskellige farver.
+66-1	Fire	O	
+66-2	rododendroner	B-noun.plant	
+66-3	i	O	
+66-4	tre	O	
+66-5	forskellige	B-adj.all	
+66-6	farver	B-noun.shape	
+66-7	.	O	
+
+#id=67
+#text=Detteindlæg blev udgivet den mandag, 28. december 2009 kl. 09:30 og er gemt i It, Sprog.Du kan følge alle svar til dette indlæg via RSS 2.0-feedet.
+67-1	Dette	O	
+67-2	indlæg	B-noun.communication	
+67-3	blev	O	
+67-4	udgivet	B-verb.communication	
+67-5	den	O	
+67-6	mandag	B-noun.time	
+67-7	,	O	
+67-8	28	O	
+67-9	.	O	
+67-10	december	B-noun.time	
+67-11	2009	B-noun.time	
+67-12	kl	O	
+67-13	.	O	
+67-14	09	O	
+67-15	:	O	
+67-16	30	O	
+67-17	og	O	
+67-18	er	O	
+67-19	gemt	B-verb.stative	
+67-20	i	O	
+67-21	It	B-noun.communication	
+67-22	,	O	
+67-23	Sprog	B-noun.communication	
+67-24	.	O	
+67-25	Du	O	
+67-26	kan	O	
+67-27	følge	B-verb.cognition	
+67-28	alle	O	
+67-29	svar	B-noun.communication	
+67-30	til	O	
+67-31	dette	O	
+67-32	indlæg	B-noun.communication	
+67-33	via	O	
+67-34	RSS	O	
+67-35	2	O	
+67-36	.	O	
+67-37	0	O	
+67-38	-	O	
+67-39	feedet	O	
+67-40	.	O	
+
+#id=68
+#text=Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+68-1	Du	O	
+68-2	kan	O	
+68-3	skrive	B-verb.communication	
+68-4	en	O	
+68-5	kommentar	B-noun.communication	
+68-6	,	O	
+68-7	eller	O	
+68-8	sende	B-verb.communication	
+68-9	et	O	
+68-10	trackback	B-noun.communication	
+68-11	fra	O	
+68-12	dit	O	
+68-13	eget	O	
+68-14	site	B-noun.communication	
+68-15	.	O	
+
+#id=69
+#text=Så en del af dagens indkøbsudflugt blev helliget jagten på overtræks-, termo- eller skibukser.
+69-1	Så	O	
+69-2	en	O	
+69-3	del	B-noun.quantity	
+69-4	af	O	
+69-5	dagens	B-noun.time	
+69-6	indkøbsudflugt	B-noun.act	
+69-7	blev	O	
+69-8	helliget	B-verb.cognition	
+69-9	jagten	B-noun.act	
+69-10	på	O	
+69-11	overtræks	O	
+69-12	-	O	
+69-13	,	O	
+69-14	termo	O	
+69-15	-	O	
+69-16	eller	O	
+69-17	skibukser	B-noun.artifact	
+69-18	.	O	
+
+#id=70
+#text=På den ene side er det bare en helt almindelig helligdag (omend det ofte er en af de sløve (i hvert fald her i huset )).
+70-1	På	O	
+70-2	den	O	
+70-3	ene	O	
+70-4	side	B-noun.cognition	
+70-5	er	B-verb.stative	
+70-6	det	O	
+70-7	bare	O	
+70-8	en	O	
+70-9	helt	O	
+70-10	almindelig	B-adj.all	
+70-11	helligdag	B-noun.time	
+70-12	(	O	
+70-13	omend	O	
+70-14	det	O	
+70-15	ofte	O	
+70-16	er	O	
+70-17	en	O	
+70-18	af	O	
+70-19	de	O	
+70-20	sløve	B-adj.all	
+70-21	(	O	
+70-22	i	O	
+70-23	hvert	O	
+70-24	fald	O	
+70-25	her	O	
+70-26	i	O	
+70-27	huset	B-noun.building	
+70-28	)	O	
+70-29	)	O	
+70-30	.	O	
+
+#id=71
+#text=Jeg må vist hellere smutte en tur rundt i blogland og se, om ikke I andre har en hel del mere på hjertet end jeg for her er indholdet ulideligt magert.
+71-1	Jeg	O	
+71-2	må	O	
+71-3	vist	O	
+71-4	hellere	O	
+71-5	smutte	B-verb.motion	
+71-6	en	O	
+71-7	tur	B-noun.act	
+71-8	rundt	O	
+71-9	i	O	
+71-10	blogland	B-noun.communication	
+71-11	og	O	
+71-12	se	B-verb.cognition	
+71-13	,	O	
+71-14	om	O	
+71-15	ikke	O	
+71-16	I	O	
+71-17	andre	O	
+71-18	har	B-verb.cognition	
+71-19	en	O	
+71-20	hel	O	
+71-21	del	B-noun.quantity	
+71-22	mere	O	
+71-23	på	B-verb.COLL	
+71-24	hjertet	B-verb.COLL	
+71-25	end	O	
+71-26	jeg	O	
+71-27	for	O	
+71-28	her	O	
+71-29	er	B-verb.stative	
+71-30	indholdet	B-noun.cognition	
+71-31	ulideligt	O	
+71-32	magert	B-adj.all	
+71-33	.	O	
+
+#id=72
+#text=Detteindlæg blev udgivet den tirsdag, 7. december 2010 kl. 17:58 og er gemt i At blogge, Rodekassen.Du kan følge alle svar til dette indlæg via RSS 2.0-feedet.
+72-1	Dette	O	
+72-2	indlæg	B-noun.communication	
+72-3	blev	O	
+72-4	udgivet	B-verb.communication	
+72-5	den	O	
+72-6	tirsdag	B-noun.time	
+72-7	,	O	
+72-8	7	O	
+72-9	.	O	
+72-10	december	B-noun.time	
+72-11	2010	B-noun.time	
+72-12	kl	O	
+72-13	.	O	
+72-14	17	O	
+72-15	:	O	
+72-16	58	O	
+72-17	og	O	
+72-18	er	O	
+72-19	gemt	B-verb.stative	
+72-20	i	O	
+72-21	At	B-noun.communication	
+72-22	blogge	I-noun.communication	
+72-23	,	O	
+72-24	Rodekassen	B-noun.communication	
+72-25	.	O	
+72-26	Du	O	
+72-27	kan	O	
+72-28	følge	B-verb.cognition	
+72-29	alle	O	
+72-30	svar	B-noun.communication	
+72-31	til	O	
+72-32	dette	O	
+72-33	indlæg	B-noun.communication	
+72-34	via	O	
+72-35	RSS	O	
+72-36	2	O	
+72-37	.	O	
+72-38	0	O	
+72-39	-	O	
+72-40	feedet	O	
+72-41	.	O	
+
+#id=73
+#text=Tags:fridag, indkøb, nærvær, store bededag, vasketøj
+73-1	Tags	O	
+73-2	:	O	
+73-3	fridag	B-noun.time	
+73-4	,	O	
+73-5	indkøb	B-noun.act	
+73-6	,	O	
+73-7	nærvær	B-noun.feeling	
+73-8	,	O	
+73-9	store	B-noun.time	
+73-10	bededag	I-noun.time	
+73-11	,	O	
+73-12	vasketøj	B-noun.artifact	
+
+#id=74
+#text=Jeg kan jo lige så godt vænne mig til det.
+74-1	Jeg	O	
+74-2	kan	O	
+74-3	jo	O	
+74-4	lige	O	
+74-5	så	O	
+74-6	godt	O	
+74-7	vænne	B-verb.cognition	
+74-8	mig	B-verb.REFLPRON	
+74-9	til	O	
+74-10	det	O	
+74-11	.	O	
+
+#id=75
+#text=Og gør noget.
+75-1	Og	O	
+75-2	gør	B-verb.act	
+75-3	noget	O	
+75-4	.	O	
+
+#id=76
+#text=Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+76-1	Du	O	
+76-2	kan	O	
+76-3	skrive	B-verb.communication	
+76-4	en	O	
+76-5	kommentar	B-noun.communication	
+76-6	,	O	
+76-7	eller	O	
+76-8	sende	B-verb.communication	
+76-9	et	O	
+76-10	trackback	B-noun.communication	
+76-11	fra	O	
+76-12	dit	O	
+76-13	eget	O	
+76-14	site	B-noun.communication	
+76-15	.	O	
+
+#id=77
+#text=Pånæste søndag er det fastelavn.
+77-1	På	O	
+77-2	næste	B-adj.time	
+77-3	søndag	B-noun.time	
+77-4	er	O	
+77-5	det	O	
+77-6	fastelavn	B-noun.time	
+77-7	.	O	
+
+#id=78
+#text=Manskal altså passe på.
+78-1	Man	O	
+78-2	skal	O	
+78-3	altså	O	
+78-4	passe	B-verb.cognition	
+78-5	på	B-verb.PARTICLE	
+78-6	.	O	
+
+#id=79
+#text=Ogpakkekortene har været ganske gratis de er fra Go-Cards, som Københavns Bymuseum og Københavns Biblioteker har fået lavet.
+79-1	Og	O	
+79-2	pakkekortene	B-noun.artifact	
+79-3	har	O	
+79-4	været	B-verb.stative	
+79-5	ganske	O	
+79-6	gratis	B-adj.all	
+79-7	de	O	
+79-8	er	B-verb.stative	
+79-9	fra	O	
+79-10	Go	B-noun.artifact	
+79-11	-	I-noun.artifact	
+79-12	Cards	I-noun.artifact	
+79-13	,	O	
+79-14	som	O	
+79-15	Københavns	B-noun.institution	
+79-16	Bymuseum	I-noun.institution	
+79-17	og	O	
+79-18	Københavns	B-noun.institution	
+79-19	Biblioteker	I-noun.institution	
+79-20	har	O	
+79-21	fået	O	
+79-22	lavet	B-verb.creation	
+79-23	.	O	
+
+#id=80
+#text=Dateenageren kom til for over 16 år siden, blev hun hurtigt hovedargumentet for at producere varm mad, selv  når jeg var den eneste voksne hjemme for børn skal da have noget ordentligt at spise.
+80-1	Da	O	
+80-2	teenageren	B-noun.person	
+80-3	kom	B-verb.motion	
+80-4	til	B-verb.PARTICLE	
+80-5	for	O	
+80-6	over	O	
+80-7	16	O	
+80-8	år	B-noun.time	
+80-9	siden	O	
+80-10	,	O	
+80-11	blev	O	
+80-12	hun	O	
+80-13	hurtigt	O	
+80-14	hovedargumentet	B-verb.cognition	
+80-15	for	O	
+80-16	at	O	
+80-17	producere	B-verb.creation	
+80-18	varm	B-adj.phys	
+80-19	mad	B-noun.food	
+80-20	,	O	
+80-21	selv	O	
+80-22	når	O	
+80-23	jeg	O	
+80-24	var	B-verb.stative	
+80-25	den	O	
+80-26	eneste	O	
+80-27	voksne	B-noun.person	
+80-28	hjemme	O	
+80-29	for	O	
+80-30	børn	B-noun.person	
+80-31	skal	O	
+80-32	da	O	
+80-33	have	B-verb.possession	
+80-34	noget	O	
+80-35	ordentligt	B-adj.all	
+80-36	at	O	
+80-37	spise	B-verb.consumption	
+80-38	.	O	
+
+#id=81
+#text=Det gør jeg kun i fagbøger mine egne, vel at mærke.
+81-1	Det	O	
+81-2	gør	B-verb.act	
+81-3	jeg	O	
+81-4	kun	O	
+81-5	i	O	
+81-6	fagbøger	B-noun.communication	
+81-7	mine	O	
+81-8	egne	O	
+81-9	,	O	
+81-10	vel	O	
+81-11	at	O	
+81-12	mærke	B-verb.cognition	
+81-13	.	O	
+
+#id=82
+#text=Vises igen i blogland, når jeg når til vejs ende og er sluppet helskindet ud af magien .
+82-1	Vi	O	
+82-2	ses	B-verb.social	
+82-3	igen	O	
+82-4	i	O	
+82-5	blogland	B-noun.communication	
+82-6	,	O	
+82-7	når	O	
+82-8	jeg	O	
+82-9	når	B-verb.act	
+82-10	til	O	
+82-11	vejs	B-noun.act	
+82-12	ende	B-noun.motive	
+82-13	og	O	
+82-14	er	O	
+82-15	sluppet	B-verb.act	
+82-16	helskindet	B-adj.all	
+82-17	ud	O	
+82-18	af	O	
+82-19	magien	B-noun.abstract	
+82-20	.	O	
+
+#id=83
+#text=Men pas på der er risiko for latter .
+83-1	Men	O	
+83-2	pas	B-verb.cognition	
+83-3	på	B-verb.PARTICLE	
+83-4	der	O	
+83-5	er	B-verb.stative	
+83-6	risiko	B-noun.state	
+83-7	for	O	
+83-8	latter	B-noun.act	
+83-9	.	O	
+
+#id=84
+#text=Tags:banaliteter, foto, Katte, Møffe, strømlinet hverdag
+84-1	Tags	O	
+84-2	:	O	
+84-3	banaliteter	B-noun.abstract	
+84-4	,	O	
+84-5	foto	B-noun.artifact	
+84-6	,	O	
+84-7	Katte	B-noun.animal	
+84-8	,	O	
+84-9	Møffe	B-noun.person	
+84-10	,	O	
+84-11	strømlinet	B-adj.all	
+84-12	hverdag	B-noun.state	
+
+#id=85
+#text=Hvadsynes du om graffiti?
+85-1	Hvad	O	
+85-2	synes	B-verb.cognition	
+85-3	du	O	
+85-4	om	O	
+85-5	graffiti	B-noun.domain	
+85-6	?	O	
+
+#id=86
+#text=Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+86-1	Du	O	
+86-2	kan	O	
+86-3	skrive	B-verb.communication	
+86-4	en	O	
+86-5	kommentar	B-noun.communication	
+86-6	,	O	
+86-7	eller	O	
+86-8	sende	B-verb.communication	
+86-9	et	O	
+86-10	trackback	B-noun.communication	
+86-11	fra	O	
+86-12	dit	O	
+86-13	eget	O	
+86-14	site	B-noun.communication	
+86-15	.	O	
+
+#id=87
+#text=Jeg meldte mig ind i et parti.
+87-1	Jeg	O	
+87-2	meldte	B-verb.social	
+87-3	mig	O	
+87-4	ind	B-verb.PARTICLE	
+87-5	i	O	
+87-6	et	O	
+87-7	parti	B-noun.institution	
+87-8	.	O	
+
+#id=88
+#text=Måske vil jeg bare saligt kunne nynne Min ven, nu glemmer vi, at det er vinter!, mens jeg kigger på mine hyacinter?
+88-1	Måske	O	
+88-2	vil	O	
+88-3	jeg	O	
+88-4	bare	O	
+88-5	saligt	O	
+88-6	kunne	O	
+88-7	nynne	B-verb.act	
+88-8	Min	O	
+88-9	ven	B-noun.person	
+88-10	,	O	
+88-11	nu	O	
+88-12	glemmer	B-verb.cognition	
+88-13	vi	O	
+88-14	,	O	
+88-15	at	O	
+88-16	det	O	
+88-17	er	B-verb.stative	
+88-18	vinter	B-noun.time	
+88-19	!	O	
+88-20	,	O	
+88-21	mens	O	
+88-22	jeg	O	
+88-23	kigger	B-verb.act	
+88-24	på	O	
+88-25	mine	O	
+88-26	hyacinter	B-noun.plant	
+88-27	?	O	
+
+#id=89
+#text=Detteindlæg blev udgivet den fredag, 19. juni 2009 kl. 20:51 og er gemt i Natur, Nydelse, Vejr.Du kan  følge alle svar til dette indlæg via RSS 2.0-feedet.
+89-1	Dette	O	
+89-2	indlæg	B-noun.communication	
+89-3	blev	O	
+89-4	udgivet	B-verb.communication	
+89-5	den	O	
+89-6	fredag	B-noun.time	
+89-7	,	O	
+89-8	19	O	
+89-9	.	O	
+89-10	juni	B-noun.time	
+89-11	2009	B-noun.time	
+89-12	kl	O	
+89-13	.	O	
+89-14	20	O	
+89-15	:	O	
+89-16	51	O	
+89-17	og	O	
+89-18	er	O	
+89-19	gemt	B-verb.stative	
+89-20	i	O	
+89-21	Natur	B-noun.communication	
+89-22	,	O	
+89-23	Nydelse	B-noun.communication	
+89-24	,	O	
+89-25	Vejr	B-noun.communication	
+89-26	.	O	
+89-27	Du	O	
+89-28	kan	O	
+89-29	følge	B-verb.cognition	
+89-30	alle	O	
+89-31	svar	B-noun.communication	
+89-32	til	O	
+89-33	dette	O	
+89-34	indlæg	B-noun.communication	
+89-35	via	O	
+89-36	RSS	O	
+89-37	2	O	
+89-38	.	O	
+89-39	0	O	
+89-40	-	O	
+89-41	feedet	O	
+89-42	.	O	
+
+#id=90
+#text=Jeg lå på min sofa og våndede mig, mens jeg krydsede fingre for, at jeg ikke ville få det så skidt, at jeg blev nødt til at tage tilbage til Rigshospitalet.
+90-1	Jeg	O	
+90-2	lå	B-verb.stative	
+90-3	på	O	
+90-4	min	O	
+90-5	sofa	B-noun.artifact	
+90-6	og	O	
+90-7	våndede	B-verb.emotion	
+90-8	mig	B-verb.REFLPRON	
+90-9	,	O	
+90-10	mens	O	
+90-11	jeg	O	
+90-12	krydsede	B-verb.act	
+90-13	fingre	B-noun.body	
+90-14	for	O	
+90-15	,	O	
+90-16	at	O	
+90-17	jeg	O	
+90-18	ikke	O	
+90-19	ville	O	
+90-20	få	B-verb.change	
+90-21	det	O	
+90-22	så	O	
+90-23	skidt	B-adj.all	
+90-24	,	O	
+90-25	at	O	
+90-26	jeg	O	
+90-27	blev	B-verb.stative	
+90-28	nødt	B-verb.COLL	
+90-29	til	B-verb.COLL	
+90-30	at	O	
+90-31	tage	B-verb.motion	
+90-32	tilbage	O	
+90-33	til	O	
+90-34	Rigshospitalet	B-noun.building	
+90-35	.	O	
+
+#id=91
+#text=Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+91-1	Du	O	
+91-2	kan	O	
+91-3	skrive	B-verb.communication	
+91-4	en	O	
+91-5	kommentar	B-noun.communication	
+91-6	,	O	
+91-7	eller	O	
+91-8	sende	B-verb.communication	
+91-9	et	O	
+91-10	trackback	B-noun.communication	
+91-11	fra	O	
+91-12	dit	O	
+91-13	eget	O	
+91-14	site	B-noun.communication	
+91-15	.	O	
+
+#id=92
+#text=Detteindlæg blev udgivet den søndag, 6. april 2008 kl. 11:56 og er gemt i Pudsigheder.Du kan følge alle svar til dette indlæg via RSS 2.0-feedet.
+92-1	Dette	O	
+92-2	indlæg	B-noun.communication	
+92-3	blev	O	
+92-4	udgivet	B-verb.communication	
+92-5	den	O	
+92-6	søndag	B-noun.time	
+92-7	,	O	
+92-8	6	O	
+92-9	.	O	
+92-10	april	B-noun.time	
+92-11	2008	B-noun.time	
+92-12	kl	O	
+92-13	.	O	
+92-14	11	O	
+92-15	:	O	
+92-16	56	O	
+92-17	og	O	
+92-18	er	O	
+92-19	gemt	B-verb.stative	
+92-20	i	O	
+92-21	Pudsigheder	B-noun.communication	
+92-22	.	O	
+92-23	Du	O	
+92-24	kan	O	
+92-25	følge	B-verb.cognition	
+92-26	alle	O	
+92-27	svar	B-noun.communication	
+92-28	til	O	
+92-29	dette	O	
+92-30	indlæg	B-noun.communication	
+92-31	via	O	
+92-32	RSS	O	
+92-33	2	O	
+92-34	.	O	
+92-35	0	O	
+92-36	-	O	
+92-37	feedet	O	
+92-38	.	O	
+
+#id=93
+#text=Håberdu får nogle dejlige, hyggelige og fredfyldte dage!
+93-1	Håber	B-verb.cognition	
+93-2	du	O	
+93-3	får	B-verb.cognition	
+93-4	nogle	O	
+93-5	dejlige	B-adj.all	
+93-6	,	O	
+93-7	hyggelige	B-adj.all	
+93-8	og	O	
+93-9	fredfyldte	B-adj.all	
+93-10	dage	B-noun.time	
+93-11	!	O	
+
+#id=94
+#text=Tags:hvidkålssalat, madlavning, stress, tulipaner
+94-1	Tags	O	
+94-2	:	O	
+94-3	hvidkålssalat	B-noun.food	
+94-4	,	O	
+94-5	madlavning	B-noun.domain	
+94-6	,	O	
+94-7	stress	B-noun.disease	
+94-8	,	O	
+94-9	tulipaner	B-noun.plant	
+
+#id=95
+#text=Ilige denne sammenhæng betyder anmeldernes dom egentlig ikke så meget for mig (men begejstring skærper skam mine forventninger), for der er ingen tvivl om, at jeg skal se filmen.
+95-1	I	O	
+95-2	lige	O	
+95-3	denne	O	
+95-4	sammenhæng	B-noun.state	
+95-5	betyder	B-verb.cognition	
+95-6	anmeldernes	B-noun.person	
+95-7	dom	B-noun.communication	
+95-8	egentlig	O	
+95-9	ikke	O	
+95-10	så	O	
+95-11	meget	O	
+95-12	for	O	
+95-13	mig	O	
+95-14	(	O	
+95-15	men	O	
+95-16	begejstring	B-noun.feeling	
+95-17	skærper	B-verb.change	
+95-18	skam	O	
+95-19	mine	O	
+95-20	forventninger	B-noun.cognition	
+95-21	)	O	
+95-22	,	O	
+95-23	for	O	
+95-24	der	O	
+95-25	er	B-verb.stative	
+95-26	ingen	O	
+95-27	tvivl	B-noun.cognition	
+95-28	om	O	
+95-29	,	O	
+95-30	at	O	
+95-31	jeg	O	
+95-32	skal	O	
+95-33	se	B-verb.act	
+95-34	filmen	B-noun.communication	
+95-35	.	O	
+
+#id=96
+#text=Jegvil jo gerne passe godt på min nye grønne ven.
+96-1	Jeg	O	
+96-2	vil	O	
+96-3	jo	O	
+96-4	gerne	O	
+96-5	passe	B-verb.act	
+96-6	godt	O	
+96-7	på	B-verb.COLL	
+96-8	min	O	
+96-9	nye	B-adj.time	
+96-10	grønne	B-adj.phys	
+96-11	ven	B-noun.person	
+96-12	.	O	
+
+#id=97
+#text=Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+97-1	Du	O	
+97-2	kan	O	
+97-3	skrive	B-verb.communication	
+97-4	en	O	
+97-5	kommentar	B-noun.communication	
+97-6	,	O	
+97-7	eller	O	
+97-8	sende	B-verb.communication	
+97-9	et	O	
+97-10	trackback	B-noun.communication	
+97-11	fra	O	
+97-12	dit	O	
+97-13	eget	O	
+97-14	site	B-noun.communication	
+97-15	.	O	
+
+#id=98
+#text=Men det afholdt mig ikke fra for nylig at anskaffe mig endnu en (havde heldigvis et blomstergavekort at gøre det for).
+98-1	Men	O	
+98-2	det	O	
+98-3	afholdt	B-verb.cognition	
+98-4	mig	O	
+98-5	ikke	O	
+98-6	fra	O	
+98-7	for	O	
+98-8	nylig	O	
+98-9	at	O	
+98-10	anskaffe	B-verb.possession	
+98-11	mig	O	
+98-12	endnu	O	
+98-13	en	O	
+98-14	(	O	
+98-15	havde	B-verb.possession	
+98-16	heldigvis	O	
+98-17	et	O	
+98-18	blomstergavekort	B-noun.artifact	
+98-19	at	O	
+98-20	gøre	B-verb.act	
+98-21	det	O	
+98-22	for	O	
+98-23	)	O	
+98-24	.	O	
+
+#id=99
+#text=Foto:
+99-1	Foto	O	
+99-2	:	O	
+
+#id=100
+#text=Tags:feber, foto, frost, istap
+100-1	Tags	O	
+100-2	:	O	
+100-3	feber	B-noun.disease	
+100-4	,	O	
+100-5	foto	B-noun.artifact	
+100-6	,	O	
+100-7	frost	B-noun.phenomenon	
+100-8	,	O	
+100-9	istap	B-noun.object	
+

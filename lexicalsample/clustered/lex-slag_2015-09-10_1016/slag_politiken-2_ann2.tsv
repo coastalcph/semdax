@@ -1,0 +1,791 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Lexicalsample | Tag
+#id=1
+#text=I øvrigt var hendes slag urent.
+1-1	I	i	T-:----:--:----	_	
+1-2	øvrigt	øvrig	AD:----:--:p---	_	
+1-3	var	være	VF:----:ta:----	_	
+1-4	hendes	hendes	PO:#--#:--:-3ns	_	
+1-5	slag	slag	NC:siun:--:----	slag_1_1c	
+1-6	urent	uren	AD:----:--:p---	_	
+1-7	.	.	ZP	_	
+
+#id=2
+#text= Men Ali dansede ikke som min far havde demonstreret på stuegulvet, han virkede tung og langsom og måtte tage imod mange slag fra den unge og fremstormende Frazier.
+2-1	Men	men	CC:----:--:----	_	
+2-2	Ali	Ali	NP:siu#:--:----	_	
+2-3	dansede	danse	VF:----:ta:----	_	
+2-4	ikke	ikke	D-:----:--:u---	_	
+2-5	som	som	US:----:--:----	_	
+2-6	min	min	XY:----:--:----	_	
+2-7	far	far	NC:siuc:--:----	_	
+2-8	havde	have	VF:----:ta:----	_	
+2-9	demonstreret	demonstrere	VT:siu#:t-:----	_	
+2-10	på	på	T-:----:--:----	_	
+2-11	stuegulvet	stuegulv	NC:sdun:--:----	_	
+2-12	,	,	ZD	_	
+2-13	han	han	PP:s-nc:--:-3n-	_	
+2-14	virkede	virke	VF:----:ta:----	_	
+2-15	tung	tung	AC:siuc:--:p---	_	
+2-16	og	og	CC:----:--:----	_	
+2-17	langsom	langsom	AC:siuc:--:p---	_	
+2-18	og	og	CC:----:--:----	_	
+2-19	måtte	måtte	VF:----:ta:----	_	
+2-20	tage	tage	VI:----:-a:----	_	
+2-21	imod	imod	T-:----:--:----	_	
+2-22	mange	mangen	AC:p#u#:--:p---	_	
+2-23	slag	slag	NC:piu#:--:----	slag_1_1c	
+2-24	fra	fra	T-:----:--:----	_	
+2-25	den	den	PM:s-uc:--:----	_	
+2-26	unge	ung	AC:sdu#:--:p---	_	
+2-27	og	og	CC:----:--:----	_	
+2-28	fremstormende	fremstorme	VP:##u#:s-:----	_	
+2-29	Frazier	Frazier	NP:siu#:--:----	_	
+2-30	.	.	ZP	_	
+
+#id=3
+#text=Og nu kom Ali faktisk ud af ringhjørnet og afleverede en serie slag som rystede Frazier.
+3-1	Og	og	CC:----:--:----	_	
+3-2	nu	nu	D-:----:--:u---	_	
+3-3	kom	komme	VF:----:ta:----	_	
+3-4	Ali	Ali	NP:siu#:--:----	_	
+3-5	faktisk	faktisk	AD:----:--:p---	_	
+3-6	ud	ud	D-:----:--:u---	_	
+3-7	af	af	T-:----:--:----	_	
+3-8	ringhjørnet	ringhjørne	NC:sdun:--:----	_	
+3-9	og	og	CC:----:--:----	_	
+3-10	afleverede	aflevere	VF:----:ta:----	_	
+3-11	en	en	PI:s-uc:--:----	_	
+3-12	serie	serie	NC:siuc:--:----	_	
+3-13	slag	slag	NC:siun:--:----	slag_1_1c	
+3-14	som	som	US:----:--:----	_	
+3-15	rystede	ryste	VF:----:ta:----	_	
+3-16	Frazier	Frazier	NP:siu#:--:----	_	
+3-17	.	.	ZP	_	
+
+#id=4
+#text=Begge dele synes at indikere, at Hamas er blevet tilføjet et lammende slag, og at det var den rigtige beslutning at indlede den største offensiv i Gaza i mere end 40 år.
+4-1	Begge	begge	PM:p-u#:--:----	_	
+4-2	dele	del	NC:piu#:--:----	_	
+4-3	synes	syne	VF:----:sp:----	_	
+4-4	at	at	UI:----:--:----	_	
+4-5	indikere	indikere	VI:----:-a:----	_	
+4-6	,	,	ZD	_	
+4-7	at	at	CS:----:--:----	_	
+4-8	Hamas	Hamas	NP:siu#:--:----	_	
+4-9	er	være	VF:----:sa:----	_	
+4-10	blevet	blive	VT:siu#:t-:----	_	
+4-11	tilføjet	tilføje	VT:siu#:t-:----	_	
+4-12	et	en	PI:s-un:--:----	_	
+4-13	lammende	lamme	VP:##u#:s-:----	_	
+4-14	slag	slag	NC:siun:--:----	slag_1b	
+4-15	,	,	ZD	_	
+4-16	og	og	CC:----:--:----	_	
+4-17	at	at	CS:----:--:----	_	
+4-18	det	det	PP:s-un:--:-3n-	_	
+4-19	var	være	VF:----:ta:----	_	
+4-20	den	den	PM:s-uc:--:----	_	
+4-21	rigtige	rigtig	AC:sdu#:--:p---	_	
+4-22	beslutning	beslutning	NC:siuc:--:----	_	
+4-23	at	at	UI:----:--:----	_	
+4-24	indlede	indlede	VI:----:-a:----	_	
+4-25	den	den	PM:s-uc:--:----	_	
+4-26	største	stor	AC:§du§:--:s---	_	
+4-27	offensiv	offensiv	NC:siuc:--:----	_	
+4-28	i	i	T-:----:--:----	_	
+4-29	Gaza	Gaza	NP:siu#:--:----	_	
+4-30	i	i	T-:----:--:----	_	
+4-31	mere	megen	AC:##u#:--:c---	_	
+4-32	end	end	CS:----:--:----	_	
+4-33	40	40	LC:--u-:--:----	_	
+4-34	år	år	NC:piu#:--:----	_	
+4-35	.	.	ZP	_	
+
+#id=5
+#text=I centrum af det hele slår Karen-Lise Mynster som den angiveligt dominerende, selvoptagne mor til gengæld et storartet, livskraftigt slag for sin figur.
+5-1	I	i	T-:----:--:----	_	
+5-2	centrum	centrum	NC:siun:--:----	_	
+5-3	af	af	T-:----:--:----	_	
+5-4	det	den	PM:s-un:--:----	_	
+5-5	hele	hel	AC:sdu#:--:p---	_	
+5-6	slår	slå	VF:----:sa:----	_	
+5-7	Karen	Karen	NW:----:--:----	_	
+5-8	-	-	ZH	_	
+5-9	Lise	Lise	NP:siu#:--:----	_	
+5-10	Mynster	Mynster	NP:siu#:--:----	_	
+5-11	som	som	US:----:--:----	_	
+5-12	den	den	PM:s-uc:--:----	_	
+5-13	angiveligt	angivelig	AD:----:--:p---	_	
+5-14	dominerende	dominere	VP:##u#:s-:----	_	
+5-15	,	,	ZD	_	
+5-16	selvoptagne	selvoptaget	AC:sdu#:--:p---	_	
+5-17	mor	mor	NC:siuc:--:----	_	
+5-18	til	til	T-:----:--:----	_	
+5-19	gengæld	gengæld	NC:siuc:--:----	_	
+5-20	et	en	PI:s-un:--:----	_	
+5-21	storartet	storartet	AC:siun:--:p---	_	
+5-22	,	,	ZD	_	
+5-23	livskraftigt	livskraftig	AC:siun:--:p---	_	
+5-24	slag	slag	NC:siun:--:----	slag_F_slå et slag	
+5-25	for	for	T-:----:--:----	_	
+5-26	sin	sin	PO:s--c:--:-3ys	_	
+5-27	figur	figur	NC:siuc:--:----	_	
+5-28	.	.	ZP	_	
+
+#id=6
+#text=Det er blevet særligt tydeligt her i januar, hvor det store slag om kunderne er i fuld gang.
+6-1	Det	det	PP:s-un:--:-3n-	_	
+6-2	er	være	VF:----:sa:----	_	
+6-3	blevet	blive	VT:siu#:t-:----	_	
+6-4	særligt	særlig	AD:----:--:p---	_	
+6-5	tydeligt	tydelig	AD:----:--:p---	_	
+6-6	her	her	D-:----:--:u---	_	
+6-7	i	i	T-:----:--:----	_	
+6-8	januar	januar	NC:siuc:--:----	_	
+6-9	,	,	ZD	_	
+6-10	hvor	hvor	D-:----:--:u---	_	
+6-11	det	den	PM:s-un:--:----	_	
+6-12	store	stor	AC:sdu#:--:p---	_	
+6-13	slag	slag	NC:siun:--:----	slag_2a	
+6-14	om	om	T-:----:--:----	_	
+6-15	kunderne	kunde	NC:pdu#:--:----	_	
+6-16	er	være	VF:----:sa:----	_	
+6-17	i	i	T-:----:--:----	_	
+6-18	fuld	fuld	AC:siuc:--:p---	_	
+6-19	gang	gang	NC:siuc:--:----	_	
+6-20	.	.	ZP	_	
+
+#id=7
+#text= Andre, når de går amok i et slag bordfodbold.
+7-1	Andre	anden	PI:p-u#:--:----	_	
+7-2	,	,	ZD	_	
+7-3	når	når	CS:----:--:----	_	
+7-4	de	de	PP:p-n#:--:-3n-	_	
+7-5	går	gå	VF:----:sa:----	_	
+7-6	amok	amok	AD:----:--:p---	_	
+7-7	i	i	T-:----:--:----	_	
+7-8	et	en	PI:s-un:--:----	_	
+7-9	slag	slag	NC:siun:--:----	slag_6_6a	
+7-10	bordfodbold	bordfodbold	NC:siuc:--:----	_	
+7-11	.	.	ZP	_	
+
+#id=8
+#text="Nej, men det er også klart nemmere at være stor i slaget, når man har en fornuftig løn.
+8-1	"	"	ZI	_	
+8-2	Nej	nej	I-:----:--:----	_	
+8-3	,	,	ZD	_	
+8-4	men	men	CC:----:--:----	_	
+8-5	det	det	PP:s-un:--:-3n-	_	
+8-6	er	være	VF:----:sa:----	_	
+8-7	også	også	D-:----:--:u---	_	
+8-8	klart	klar	AD:----:--:p---	_	
+8-9	nemmere	nem	AC:##u#:--:c---	_	
+8-10	at	at	UI:----:--:----	_	
+8-11	være	være	VI:----:-a:----	_	
+8-12	stor	stor	AC:siuc:--:p---	_	
+8-13	i	i	T-:----:--:----	_	
+8-14	slaget	slag	NC:sdun:--:----	slag_F_stor i slaget	
+8-15	,	,	ZD	_	
+8-16	når	når	CS:----:--:----	_	
+8-17	man	man	PI:#-uc:--:----	_	
+8-18	har	have	VF:----:sa:----	_	
+8-19	en	en	PI:s-uc:--:----	_	
+8-20	fornuftig	fornuftig	AC:siuc:--:p---	_	
+8-21	løn	løn	NC:siuc:--:----	_	
+8-22	.	.	ZP	_	
+
+#id=9
+#text= Får hun ikke indrømmelsen ved forhandlingsbordet, vil hun stå med et tomt slag i luften, hvilket dog kan være markeringen i sig selv værd.
+9-1	Får	få	VF:----:sa:----	_	
+9-2	hun	hun	PP:s-nc:--:-3n-	_	
+9-3	ikke	ikke	D-:----:--:u---	_	
+9-4	indrømmelsen	indrømmelse	NC:sduc:--:----	_	
+9-5	ved	ved	T-:----:--:----	_	
+9-6	forhandlingsbordet	forhandlingsbord	NC:sdun:--:----	_	
+9-7	,	,	ZD	_	
+9-8	vil	ville	VF:----:sa:----	_	
+9-9	hun	hun	PP:s-nc:--:-3n-	_	
+9-10	stå	stå	VI:----:-a:----	_	
+9-11	med	med	T-:----:--:----	_	
+9-12	et	en	PI:s-un:--:----	_	
+9-13	tomt	tom	AC:siun:--:p---	_	
+9-14	slag	slag	NC:siun:--:----	slag_F_slag i luften	
+9-15	i	i	T-:----:--:----	_	
+9-16	luften	luft	NC:sduc:--:----	_	
+9-17	,	,	ZD	_	
+9-18	hvilket	hvilken	PR:s-un:--:----	_	
+9-19	dog	dog	D-:----:--:u---	_	
+9-20	kan	kunne	VF:----:sa:----	_	
+9-21	være	være	VI:----:-a:----	_	
+9-22	markeringen	markering	NC:sduc:--:----	_	
+9-23	i	i	T-:----:--:----	_	
+9-24	sig	sig	PP:#-u#:--:-3y-	_	
+9-25	selv	selv	PM:#-u#:--:----	_	
+9-26	værd	værd	AC:§§u§:--:p---	_	
+9-27	.	.	ZP	_	
+
+#id=10
+#text= Med et løssalgsfremmende slag var hun ikke længere sangerinde, men bare endnu en i rækken af den dengang pige- og fartglade tronarvings erobringer.
+10-1	Med	med	T-:----:--:----	_	
+10-2	et	en	PI:s-un:--:----	_	
+10-3	løssalgsfremmende	løssalgsfremmende	AD:----:--:p---	_	
+10-4	slag	slag	NC:siun:--:----	slag_F_med ét slag	
+10-5	var	være	VF:----:ta:----	_	
+10-6	hun	hun	PP:s-nc:--:-3n-	_	
+10-7	ikke	ikke	D-:----:--:u---	_	
+10-8	længere	lang	AC:##u#:--:c---	_	
+10-9	sangerinde	sangerinde	NC:siuc:--:----	_	
+10-10	,	,	ZD	_	
+10-11	men	men	CC:----:--:----	_	
+10-12	bare	bare	D-:----:--:u---	_	
+10-13	endnu	endnu	D-:----:--:u---	_	
+10-14	en	en	PI:s-uc:--:----	_	
+10-15	i	i	T-:----:--:----	_	
+10-16	rækken	række	NC:sduc:--:----	_	
+10-17	af	af	T-:----:--:----	_	
+10-18	den	den	PP:s-uc:--:-3n-	_	
+10-19	dengang	dengang	D-:----:--:u---	_	
+10-20	pige	pige	NW:----:--:----	_	
+10-21	-	-	ZH	_	
+10-22	og	og	CC:----:--:----	_	
+10-23	fartglade	fartglad	AC:sdu#:--:p---	_	
+10-24	tronarvings	tronarving	NC:sigc:--:----	_	
+10-25	erobringer	erobring	NC:piu#:--:----	_	
+10-26	.	.	ZP	_	
+
+#id=11
+#text= Politiet oplyste i går, at manden blev slået ihjel med "adskillige slag med et stumpt instrument".
+11-1	Politiet	politi	NC:sdun:--:----	_	
+11-2	oplyste	oplyse	VF:----:ta:----	_	
+11-3	i	i	T-:----:--:----	_	
+11-4	går	går	NC:§§u§:--:----	_	
+11-5	,	,	ZD	_	
+11-6	at	at	CS:----:--:----	_	
+11-7	manden	mand	NC:sduc:--:----	_	
+11-8	blev	blive	VF:----:ta:----	_	
+11-9	slået	slå	VT:siu#:t-:----	_	
+11-10	ihjel	ihjel	D-:----:--:u---	_	
+11-11	med	med	T-:----:--:----	_	
+11-12	"	"	ZI	_	
+11-13	adskillige	adskillig	AC:p#u#:--:p---	_	
+11-14	slag	slag	NC:piu#:--:----	slag_1_1c	
+11-15	med	med	T-:----:--:----	_	
+11-16	et	en	PI:s-un:--:----	_	
+11-17	stumpt	stump	AC:siun:--:p---	_	
+11-18	instrument	instrument	un:--:----	_	
+11-19	"	"	ZI	_	
+11-20	.	.	ZP	_	
+
+#id=12
+#text= Jeg lavede en masse fejl på nemme slag.
+12-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+12-2	lavede	lave	VF:----:ta:----	_	
+12-3	en	en	PI:s-uc:--:----	_	
+12-4	masse	masse	NC:siuc:--:----	_	
+12-5	fejl	fejl	NC:piu#:--:----	_	
+12-6	på	på	T-:----:--:----	_	
+12-7	nemme	nem	AC:sdu#:--:p---	_	
+12-8	slag	slag	NC:siun:--:----	slag_1_1c	
+12-9	.	.	ZP	_	
+
+#id=13
+#text= Sej soldat i slaget om Ardennerne i filmen?
+13-1	Sej	sej	AC:siuc:--:p---	_	
+13-2	soldat	soldat	NC:siuc:--:----	_	
+13-3	i	i	T-:----:--:----	_	
+13-4	slaget	slag	NC:sdun:--:----	slag_2_2b_2c	
+13-5	om	om	T-:----:--:----	_	
+13-6	Ardennerne	Ardennerne	NP:siu#:--:----	_	
+13-7	i	i	T-:----:--:----	_	
+13-8	filmen	film	NC:sduc:--:----	_	
+13-9	?	?	ZQ	_	
+
+#id=14
+#text=Cuba, som pressen kaldte et nyt diplomatisk slag i
+14-1	Cuba	Cuba	NP:siu#:--:----	_	
+14-2	,	,	ZD	_	
+14-3	som	som	US:----:--:----	_	
+14-4	pressen	presse	NC:sduc:--:----	_	
+14-5	kaldte	kalde	VF:----:ta:----	_	
+14-6	et	en	PI:s-un:--:----	_	
+14-7	nyt	ny	AC:siun:--:p---	_	
+14-8	diplomatisk	diplomatisk	AC:siu§:--:p---	_	
+14-9	slag	slag	NC:siun:--:----	slag_2_2b_2c	
+14-10	i	i	T-:----:--:----	_	
+
+#id=15
+#text=Han er ikke nem at få et slag ind på, kan jeg godt mærke.
+15-1	Han	han	PP:s-nc:--:-3n-	_	
+15-2	er	være	VF:----:sa:----	_	
+15-3	ikke	ikke	D-:----:--:u---	_	
+15-4	nem	nem	AC:siuc:--:p---	_	
+15-5	at	at	UI:----:--:----	_	
+15-6	få	få	VI:----:-a:----	_	
+15-7	et	en	PI:s-un:--:----	_	
+15-8	slag	slag	NC:siun:--:----	slag_1_1c	
+15-9	ind	ind	D-:----:--:u---	_	
+15-10	på	på	T-:----:--:----	_	
+15-11	,	,	ZD	_	
+15-12	kan	kunne	VF:----:sa:----	_	
+15-13	jeg	jeg	PP:s-nc:--:-1n-	_	
+15-14	godt	god	AD:----:--:p---	_	
+15-15	mærke	mærke	VI:----:-a:----	_	
+15-16	.	.	ZP	_	
+
+#id=16
+#text=Han er heller ikke en sammenslutningskunstner, som gode venner har slået et slag for.
+16-1	Han	han	PP:s-nc:--:-3n-	_	
+16-2	er	være	VF:----:sa:----	_	
+16-3	heller	heller	D-:----:--:u---	_	
+16-4	ikke	ikke	D-:----:--:u---	_	
+16-5	en	en	PI:s-uc:--:----	_	
+16-6	sammenslutningskunstner	sammenslutningskunstner	NC:siuc:--:----	_	
+16-7	,	,	ZD	_	
+16-8	som	som	US:----:--:----	_	
+16-9	gode	god	AC:p#u#:--:p---	_	
+16-10	venner	ven	NC:piu#:--:----	_	
+16-11	har	have	VF:----:sa:----	_	
+16-12	slået	slå	VT:siu#:t-:----	_	
+16-13	et	en	PI:s-un:--:----	_	
+16-14	slag	slag	NC:siun:--:----	slag_F_slå et slag	
+16-15	for	for	T-:----:--:----	_	
+16-16	.	.	ZP	_	
+
+#id=17
+#text= Hun vrider sig under slagene.
+17-1	Hun	hun	PP:s-nc:--:-3n-	_	
+17-2	vrider	vride	VF:----:sa:----	_	
+17-3	sig	sig	PP:#-u#:--:-3y-	_	
+17-4	under	under	T-:----:--:----	_	
+17-5	slagene	slag	NC:pdu#:--:----	slag_1_1c	
+17-6	.	.	ZP	_	
+
+#id=18
+#text= Kultinstruktøren Takeshi Kitano har drejet en spøjs og sangvinsk postmoderne udgave med behørige buk til Kurosawa og hans spektakulære middelalderverden og med sig selv i hovedrollen som den blinde kriger, der kan høre sig til slagene.
+18-1	Kultinstruktøren	Kultinstruktøren	NP:siu#:--:----	_	
+18-2	Takeshi	Takeshi	NP:siu#:--:----	_	
+18-3	Kitano	Kitano	NP:siu#:--:----	_	
+18-4	har	have	VF:----:sa:----	_	
+18-5	drejet	dreje	VT:siu#:t-:----	_	
+18-6	en	en	PI:s-uc:--:----	_	
+18-7	spøjs	spøjs	AC:siuc:--:p---	_	
+18-8	og	og	CC:----:--:----	_	
+18-9	sangvinsk	sangvinsk	AD:----:--:p---	_	
+18-10	postmoderne	postmoderne	AD:----:--:p---	_	
+18-11	udgave	udgave	NC:siuc:--:----	_	
+18-12	med	med	T-:----:--:----	_	
+18-13	behørige	behørig	AC:p#u#:--:p---	_	
+18-14	buk	buk	NC:piu#:--:----	_	
+18-15	til	til	T-:----:--:----	_	
+18-16	Kurosawa	Kurosawa	NP:siu#:--:----	_	
+18-17	og	og	CC:----:--:----	_	
+18-18	hans	hans	PO:#--#:--:-3ns	_	
+18-19	spektakulære	spektakulær	AC:sdu#:--:p---	_	
+18-20	middelalderverden	middelalderverden	NC:siuc:--:----	_	
+18-21	og	og	CC:----:--:----	_	
+18-22	med	med	T-:----:--:----	_	
+18-23	sig	sig	PP:#-u#:--:-3y-	_	
+18-24	selv	selv	PM:#-u#:--:----	_	
+18-25	i	i	T-:----:--:----	_	
+18-26	hovedrollen	hovedrolle	NC:sduc:--:----	_	
+18-27	som	som	US:----:--:----	_	
+18-28	den	den	PM:s-uc:--:----	_	
+18-29	blinde	blind	AC:sdu#:--:p---	_	
+18-30	kriger	kriger	NC:siuc:--:----	_	
+18-31	,	,	ZD	_	
+18-32	der	der	US:----:--:----	_	
+18-33	kan	kunne	VF:----:sa:----	_	
+18-34	høre	høre	VI:----:-a:----	_	
+18-35	sig	sig	PP:#-u#:--:-3y-	_	
+18-36	til	til	T-:----:--:----	_	
+18-37	slagene	slag	NC:pdu#:--:----	slag_2_2b_2c	
+18-38	.	.	ZP	_	
+
+#id=19
+#text= Slaget står i det parti, man traditionelt kalder 'The Grand Old Party', men som efter valget i november mere ligner 'The Small Old Party' - med trykket på 'Small' og 'Old'.
+19-1	Slaget	slag	NC:sdun:--:----	slag_2a	
+19-2	står	stå	VF:----:sa:----	_	
+19-3	i	i	T-:----:--:----	_	
+19-4	det	den	PM:s-un:--:----	_	
+19-5	parti	parti	NC:siun:--:----	_	
+19-6	,	,	ZD	_	
+19-7	man	man	PI:#-uc:--:----	_	
+19-8	traditionelt	traditionel	AD:----:--:p---	_	
+19-9	kalder	kalde	VF:----:sa:----	_	
+19-10	'	'	ZA	_	
+19-11	The	the	XF:----:--:----	_	
+19-12	Grand	Grand	NP:siu#:--:----	_	
+19-13	Old	Old	NP:siu#:--:----	_	
+19-14	Party	party	NC:siun:--:----	_	
+19-15	'	'	ZA	_	
+19-16	,	,	ZD	_	
+19-17	men	men	CC:----:--:----	_	
+19-18	som	som	US:----:--:----	_	
+19-19	efter	efter	T-:----:--:----	_	
+19-20	valget	valg	NC:sdun:--:----	_	
+19-21	i	i	T-:----:--:----	_	
+19-22	november	november	NC:siuc:--:----	_	
+19-23	mere	megen	AD:----:--:c---	_	
+19-24	ligner	ligne	VF:----:sa:----	_	
+19-25	'	'	ZA	_	
+19-26	The	the	XF:----:--:----	_	
+19-27	Small	Small	NP:siu#:--:----	_	
+19-28	Old	Old	NP:siu#:--:----	_	
+19-29	Party	party	NC:siun:--:----	_	
+19-30	'	'	ZA	_	
+19-31	-	-	NC:piu#:--:----	_	
+19-32	med	med	T-:----:--:----	_	
+19-33	trykket	tryk	NC:sdun:--:----	_	
+19-34	på	på	D-:----:--:u---	_	
+19-35	'	'	ZA	_	
+19-36	Small	Small	NP:siu#:--:----	_	
+19-37	'	'	ZA	_	
+19-38	og	og	D-:----:--:u---	_	
+19-39	'	'	ZA	_	
+19-40	Old	old	XF:----:--:----	_	
+19-41	'	'	ZA	_	
+19-42	.	.	ZP	_	
+
+#id=20
+#text= Men  i Europa er der frit slag.
+20-1	Men	men	CC:----:--:----	_	
+20-2	i	i	T-:----:--:----	_	
+20-3	Europa	Europa	NP:siu#:--:----	_	
+20-4	er	være	VF:----:sa:----	_	
+20-5	der	der	US:----:--:----	_	
+20-6	frit	fri	AC:siun:--:p---	_	
+20-7	slag	slag	NC:siun:--:----	slag_F_frit slag	
+20-8	.	.	ZP	_	
+
+#id=21
+#text= Kapelmesteren er en fremragende trommeslager, som ikke gør meget væsen af sig, men alligevel har en let genkendelig og meget swingende stil, hvor der ikke slås et eneste slag for meget.
+21-1	Kapelmesteren	kapelmester	NC:sduc:--:----	_	
+21-2	er	være	VF:----:sa:----	_	
+21-3	en	en	PI:s-uc:--:----	_	
+21-4	fremragende	fremragende	AC:§§u§:--:p---	_	
+21-5	trommeslager	trommeslager	NC:siuc:--:----	_	
+21-6	,	,	ZD	_	
+21-7	som	som	US:----:--:----	_	
+21-8	ikke	ikke	D-:----:--:u---	_	
+21-9	gør	gøre	VF:----:sa:----	_	
+21-10	meget	megen	AC:siu§:--:p---	_	
+21-11	væsen	væsen	NC:siun:--:----	_	
+21-12	af	af	T-:----:--:----	_	
+21-13	sig	sig	PP:#-u#:--:-3y-	_	
+21-14	,	,	ZD	_	
+21-15	men	men	CC:----:--:----	_	
+21-16	alligevel	alligevel	D-:----:--:u---	_	
+21-17	har	have	VF:----:sa:----	_	
+21-18	en	en	PI:s-uc:--:----	_	
+21-19	let	let	AD:----:--:p---	_	
+21-20	genkendelig	genkendelig	AC:siuc:--:p---	_	
+21-21	og	og	CC:----:--:----	_	
+21-22	meget	megen	AD:----:--:p---	_	
+21-23	swingende	swingende	AC:§§u§:--:p---	_	
+21-24	stil	stil	NC:siuc:--:----	_	
+21-25	,	,	ZD	_	
+21-26	hvor	hvor	D-:----:--:u---	_	
+21-27	der	der	US:----:--:----	_	
+21-28	ikke	ikke	D-:----:--:u---	_	
+21-29	slås	slå	VF:----:sp:----	_	
+21-30	et	en	PI:s-un:--:----	_	
+21-31	eneste	eneste	AC:§§u§:--:p---	_	
+21-32	slag	slag	NC:siun:--:----	slag_1_1c	
+21-33	for	for	T-:----:--:----	_	
+21-34	meget	megen	AD:----:--:p---	_	
+21-35	.	.	ZP	_	
+
+#id=22
+#text="Hvis vi rykkede os, fik vi slag i nakken".
+22-1	"	"	ZI	_	
+22-2	Hvis	hvis	CS:----:--:----	_	
+22-3	vi	vi	PP:p-nc:--:-1n-	_	
+22-4	rykkede	rykke	VF:----:ta:----	_	
+22-5	os	vi	PP:p-uc:--:-1#-	_	
+22-6	,	,	ZD	_	
+22-7	fik	få	VF:----:ta:----	_	
+22-8	vi	vi	PP:p-nc:--:-1n-	_	
+22-9	slag	slag	NC:siun:--:----	slag_1_1c	
+22-10	i	i	T-:----:--:----	_	
+22-11	nakken	nakke	NC:sduc:--:----	_	
+22-12	"	"	ZI	_	
+22-13	.	.	ZP	_	
+
+#id=23
+#text="Resultatet er et alvorligt slag mod mit hold.
+23-1	"	"	ZI	_	
+23-2	Resultatet	resultat	NC:sdun:--:----	_	
+23-3	er	være	VF:----:sa:----	_	
+23-4	et	en	PI:s-un:--:----	_	
+23-5	alvorligt	alvorlig	AC:siun:--:p---	_	
+23-6	slag	slag	NC:siun:--:----	slag_1b	
+23-7	mod	mod	T-:----:--:----	_	
+23-8	mit	min	PO:s--n:--:-1ns	_	
+23-9	hold	hold	NC:siun:--:----	_	
+23-10	.	.	ZP	_	
+
+#id=24
+#text= Dermed blev det afgørende, at Anders Hansen et kvarters tid tidligere havde afsluttet sin runde med en birdie og bragt sig tilbage  i spidsen for turneringen med en samlet score på 15 slag under par.
+24-1	Dermed	dermed	D-:----:--:u---	_	
+24-2	blev	blive	VF:----:ta:----	_	
+24-3	det	den	PM:s-un:--:----	_	
+24-4	afgørende	afgørende	AC:§§u§:--:p---	_	
+24-5	,	,	ZD	_	
+24-6	at	at	CS:----:--:----	_	
+24-7	Anders	Anders	NP:siu#:--:----	_	
+24-8	Hansen	Hansen	NP:siu#:--:----	_	
+24-9	et	en	PI:s-un:--:----	_	
+24-10	kvarters	kvarter	NC:sign:--:----	_	
+24-11	tid	tid	NC:siuc:--:----	_	
+24-12	tidligere	tidlig	AD:----:--:c---	_	
+24-13	havde	have	VF:----:ta:----	_	
+24-14	afsluttet	afslutte	VT:siu#:t-:----	_	
+24-15	sin	sin	PO:s--c:--:-3ys	_	
+24-16	runde	runde	NC:siuc:--:----	_	
+24-17	med	med	T-:----:--:----	_	
+24-18	en	en	PI:s-uc:--:----	_	
+24-19	birdie	birdie	NC:siuc:--:----	_	
+24-20	og	og	CC:----:--:----	_	
+24-21	bragt	bringe	VT:siu#:t-:----	_	
+24-22	sig	sig	PP:#-u#:--:-3y-	_	
+24-23	tilbage	tilbage	D-:----:--:u---	_	
+24-24	i	i	T-:----:--:----	_	
+24-25	spidsen	spids	NC:sduc:--:----	_	
+24-26	for	for	T-:----:--:----	_	
+24-27	turneringen	turnering	NC:sduc:--:----	_	
+24-28	med	med	T-:----:--:----	_	
+24-29	en	en	PI:s-uc:--:----	_	
+24-30	samlet	samle	VT:siu#:t-:----	_	
+24-31	score	score	NC:siuc:--:----	_	
+24-32	på	på	T-:----:--:----	_	
+24-33	15	15	LC:--u-:--:----	_	
+24-34	slag	slag	NC:piu#:--:----	slag_1_1c	
+24-35	under	under	T-:----:--:----	_	
+24-36	par	par	NC:siun:--:----	_	
+24-37	.	.	ZP	_	
+
+#id=25
+#text= Anders Hansen indledte turneringen med en dobbeltbogey og en bogey på de første to huller, og efter 71 og 68 slag i de første to runder var han blot nummer 49 halvvejs i turneringen.
+25-1	Anders	Anders	NP:siu#:--:----	_	
+25-2	Hansen	Hansen	NP:siu#:--:----	_	
+25-3	indledte	indlede	VF:----:ta:----	_	
+25-4	turneringen	turnering	NC:sduc:--:----	_	
+25-5	med	med	T-:----:--:----	_	
+25-6	en	en	PI:s-uc:--:----	_	
+25-7	dobbeltbogey	dobbeltbogey	NC:siuc:--:----	_	
+25-8	og	og	CC:----:--:----	_	
+25-9	en	en	PI:s-uc:--:----	_	
+25-10	bogey	bogey	NC:siuc:--:----	_	
+25-11	på	på	T-:----:--:----	_	
+25-12	de	den	PM:p-u#:--:----	_	
+25-13	første	første	AC:§§u§:--:p---	_	
+25-14	to	to	LC:--u-:--:----	_	
+25-15	huller	hul	NC:piu#:--:----	_	
+25-16	,	,	ZD	_	
+25-17	og	og	CC:----:--:----	_	
+25-18	efter	efter	T-:----:--:----	_	
+25-19	71	71	LC:--u-:--:----	_	
+25-20	og	og	CC:----:--:----	_	
+25-21	68	68	LC:--u-:--:----	_	
+25-22	slag	slag	NC:piu#:--:----	slag_1_1c	
+25-23	i	i	T-:----:--:----	_	
+25-24	de	den	PM:p-u#:--:----	_	
+25-25	første	første	AC:§§u§:--:p---	_	
+25-26	to	to	LC:--u-:--:----	_	
+25-27	runder	runde	NC:piu#:--:----	_	
+25-28	var	være	VF:----:ta:----	_	
+25-29	han	han	PP:s-nc:--:-3n-	_	
+25-30	blot	blot	D-:----:--:u---	_	
+25-31	nummer	nummer	NC:siun:--:----	_	
+25-32	49	49	LC:--u-:--:----	_	
+25-33	halvvejs	halvvejs	D-:----:--:u---	_	
+25-34	i	i	T-:----:--:----	_	
+25-35	turneringen	turnering	NC:sduc:--:----	_	
+25-36	.	.	ZP	_	
+
+#id=26
+#text= En tredje runde i 64 slag sendte Anders Hansen op på fjerdepladsen, og afslutningen på 66 slag sikrede ham den tredje sejr på European Tour.
+26-1	En	en	PI:s-uc:--:----	_	
+26-2	tredje	tre	LO:--u#:--:----	_	
+26-3	runde	runde	NC:siuc:--:----	_	
+26-4	i	i	T-:----:--:----	_	
+26-5	64	64	LC:--u-:--:----	_	
+26-6	slag	slag	NC:piu#:--:----	_	
+26-7	sendte	sende	VF:----:ta:----	_	
+26-8	Anders	Anders	NP:siu#:--:----	_	
+26-9	Hansen	Hansen	NP:siu#:--:----	_	
+26-10	op	op	D-:----:--:u---	_	
+26-11	på	på	T-:----:--:----	_	
+26-12	fjerdepladsen	fjerdeplads	NC:sduc:--:----	_	
+26-13	,	,	ZD	_	
+26-14	og	og	CC:----:--:----	_	
+26-15	afslutningen	afslutning	NC:sduc:--:----	_	
+26-16	på	på	T-:----:--:----	_	
+26-17	66	66	LC:--u-:--:----	_	
+26-18	slag	slag	NC:piu#:--:----	slag_1_1c	
+26-19	sikrede	sikre	VF:----:ta:----	_	
+26-20	ham	han	PP:s-uc:--:-3n-	_	
+26-21	den	den	PM:s-uc:--:----	_	
+26-22	tredje	tre	LO:--u#:--:----	_	
+26-23	sejr	sejr	NC:siuc:--:----	_	
+26-24	på	på	T-:----:--:----	_	
+26-25	European	European	NP:siu#:--:----	_	
+26-26	Tour	Tour	NP:siu#:--:----	_	
+26-27	.	.	ZP	_	
+
+#id=27
+#text=Tallene blev afsløret på en konference arrangeret af ungdomsorganisationen for at slå et slag for de traditionelle familieværdier og omtalt i brede dele af de iranske medier.
+27-1	Tallene	tal	NC:pdu#:--:----	_	
+27-2	blev	blive	VF:----:ta:----	_	
+27-3	afsløret	afsløre	VT:siu#:t-:----	_	
+27-4	på	på	T-:----:--:----	_	
+27-5	en	en	PI:s-uc:--:----	_	
+27-6	konference	konference	NC:siuc:--:----	_	
+27-7	arrangeret	arrangere	VT:siu#:t-:----	_	
+27-8	af	af	T-:----:--:----	_	
+27-9	ungdomsorganisationen	ungdomsorganisation	NC:sduc:--:----	_	
+27-10	for	for	T-:----:--:----	_	
+27-11	at	at	UI:----:--:----	_	
+27-12	slå	slå	VI:----:-a:----	_	
+27-13	et	en	PI:s-un:--:----	_	
+27-14	slag	slag	NC:siun:--:----	slag_F_slå et slag	
+27-15	for	for	T-:----:--:----	_	
+27-16	de	den	PM:p-u#:--:----	_	
+27-17	traditionelle	traditionel	AC:p#u#:--:p---	_	
+27-18	familieværdier	familieværdi	NC:piu#:--:----	_	
+27-19	og	og	CC:----:--:----	_	
+27-20	omtalt	omtale	VT:siu#:t-:----	_	
+27-21	i	i	T-:----:--:----	_	
+27-22	brede	bred	AC:p#u#:--:p---	_	
+27-23	dele	del	NC:piu#:--:----	_	
+27-24	af	af	T-:----:--:----	_	
+27-25	de	den	PM:p-u#:--:----	_	
+27-26	iranske	iransk	AC:p#u#:--:p---	_	
+27-27	medier	medie	NC:piu#:--:----	_	
+27-28	.	.	ZP	_	
+
+#id=28
+#text=Rens muslingerne og kassér de eksemplarer, der ikke lukker sig efter et lille slag mod køkkenbordet.
+28-1	Rens	rense	VM:----:--:----	_	
+28-2	muslingerne	musling	NC:pdu#:--:----	_	
+28-3	og	og	CC:----:--:----	_	
+28-4	kassér	kasse	VF:----:sa:----	_	
+28-5	de	den	PM:p-u#:--:----	_	
+28-6	eksemplarer	eksemplar	NC:piu#:--:----	_	
+28-7	,	,	ZD	_	
+28-8	der	der	US:----:--:----	_	
+28-9	ikke	ikke	D-:----:--:u---	_	
+28-10	lukker	lukke	VF:----:sa:----	_	
+28-11	sig	sig	PP:#-u#:--:-3y-	_	
+28-12	efter	efter	T-:----:--:----	_	
+28-13	et	en	PI:s-un:--:----	_	
+28-14	lille	lille	AC:s§u§:--:p---	_	
+28-15	slag	slag	NC:siun:--:----	slag_1_1c	
+28-16	mod	mod	T-:----:--:----	_	
+28-17	køkkenbordet	køkkenbord	NC:sdun:--:----	_	
+28-18	.	.	ZP	_	
+
+#id=29
+#text=Det indebærer, at det store slag mellem Basso og Armstrong skal udkæmpes i Giro d'Italia fra 9.-31.
+29-1	Det	det	PP:s-un:--:-3n-	_	
+29-2	indebærer	indebære	VF:----:sa:----	_	
+29-3	,	,	ZD	_	
+29-4	at	at	CS:----:--:----	_	
+29-5	det	den	PM:s-un:--:----	_	
+29-6	store	stor	AC:sdu#:--:p---	_	
+29-7	slag	slag	NC:siun:--:----	slag_2a	
+29-8	mellem	mellem	T-:----:--:----	_	
+29-9	Basso	Basso	NP:siu#:--:----	_	
+29-10	og	og	CC:----:--:----	_	
+29-11	Armstrong	Armstrong	NP:siu#:--:----	_	
+29-12	skal	skulle	VF:----:sa:----	_	
+29-13	udkæmpes	udkæmpe	VI:----:-p:----	_	
+29-14	i	i	T-:----:--:----	_	
+29-15	Giro	Giro	NP:siu#:--:----	_	
+29-16	d	d	NP:siu#:--:----	_	
+29-17	'	'	ZA	_	
+29-18	Italia	Italia	NP:siu#:--:----	_	
+29-19	fra	fra	T-:----:--:----	_	
+29-20	9	9	LC:--u-:--:----	_	
+29-21	.	.	ZP	_	
+29-22	-	-	ZH	_	
+29-23	31	31	LC:--u-:--:----	_	
+29-24	.	.	ZP	_	
+
+#id=30
+#text=Tre drenge på dengang  15 og 18 standsede deres bil ud for avisbuddet, og den yngste dreng gav Deniz et slag i venstre tinding med en fastelavnskølle.
+30-1	Tre	tre	LC:--u-:--:----	_	
+30-2	drenge	dreng	NC:piu#:--:----	_	
+30-3	på	på	T-:----:--:----	_	
+30-4	dengang	dengang	D-:----:--:u---	_	
+30-5	15	15	LC:--u-:--:----	_	
+30-6	og	og	CC:----:--:----	_	
+30-7	18	18	LC:--u-:--:----	_	
+30-8	standsede	standse	VF:----:ta:----	_	
+30-9	deres	deres	PO:#--#:--:-3np	_	
+30-10	bil	bil	NC:siuc:--:----	_	
+30-11	ud	ud	D-:----:--:u---	_	
+30-12	for	for	T-:----:--:----	_	
+30-13	avisbuddet	avisbud	NC:sdun:--:----	_	
+30-14	,	,	ZD	_	
+30-15	og	og	CC:----:--:----	_	
+30-16	den	den	PM:s-uc:--:----	_	
+30-17	yngste	ung	AC:§du§:--:s---	_	
+30-18	dreng	dreng	NC:siuc:--:----	_	
+30-19	gav	give	VF:----:ta:----	_	
+30-20	Deniz	Deniz	NP:siu#:--:----	_	
+30-21	et	en	PI:s-un:--:----	_	
+30-22	slag	slag	NC:siun:--:----	slag_1_1c	
+30-23	i	i	T-:----:--:----	_	
+30-24	venstre	venstre	AC:§§u§:--:p---	_	
+30-25	tinding	tinding	NC:siuc:--:----	_	
+30-26	med	med	T-:----:--:----	_	
+30-27	en	en	PI:s-uc:--:----	_	
+30-28	fastelavnskølle	fastelavnskølle	NC:siuc:--:----	_	
+30-29	.	.	ZP	_	
+
+#id=31
+#text=fik problemer i november, da klubben med ét slag mistede omkring 2 mio.
+31-1	fik	få	VF:----:ta:----	_	
+31-2	problemer	problem	NC:piu#:--:----	_	
+31-3	i	i	T-:----:--:----	_	
+31-4	november	november	NC:siuc:--:----	_	
+31-5	,	,	ZD	_	
+31-6	da	da	CS:----:--:----	_	
+31-7	klubben	klub	NC:sduc:--:----	_	
+31-8	med	med	T-:----:--:----	_	
+31-9	ét	en	PI:s-un:--:----	_	
+31-10	slag	slag	NC:siun:--:----	slag_F_med ét slag	
+31-11	mistede	miste	VF:----:ta:----	_	
+31-12	omkring	omkring	T-:----:--:----	_	
+31-13	2	2	LC:--u-:--:----	_	
+31-14	mio	mio	XS:----:--:----	_	
+31-15	.	.	ZP	_	
+
+#id=32
+#text=Retten fandt, at det var forventeligt, at slaget ville få dødelig udgang, fastslog dommeren, da retten kendte de tre skyldige.
+32-1	Retten	ret	NC:sduc:--:----	_	
+32-2	fandt	finde	VF:----:ta:----	_	
+32-3	,	,	ZD	_	
+32-4	at	at	CS:----:--:----	_	
+32-5	det	det	PP:s-un:--:-3n-	_	
+32-6	var	være	VF:----:ta:----	_	
+32-7	forventeligt	forventelig	AC:siun:--:p---	_	
+32-8	,	,	ZD	_	
+32-9	at	at	CS:----:--:----	_	
+32-10	slaget	slag	NC:sdun:--:----	slag_1_1c	
+32-11	ville	ville	VF:----:ta:----	_	
+32-12	få	få	VI:----:-a:----	_	
+32-13	dødelig	dødelig	AC:siuc:--:p---	_	
+32-14	udgang	udgang	NC:siuc:--:----	_	
+32-15	,	,	ZD	_	
+32-16	fastslog	fastslå	VF:----:ta:----	_	
+32-17	dommeren	dommer	NC:sduc:--:----	_	
+32-18	,	,	ZD	_	
+32-19	da	da	CS:----:--:----	_	
+32-20	retten	ret	NC:sduc:--:----	_	
+32-21	kendte	kende	VF:----:ta:----	_	
+32-22	de	den	PM:p-u#:--:----	_	
+32-23	tre	tre	LC:--u-:--:----	_	
+32-24	skyldige	skyldig	AC:p#u#:--:p---	_	
+32-25	.	.	ZP	_	
+

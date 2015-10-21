@@ -1,0 +1,1875 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Mere end en halv snes journalister , aktivister og ledere af Sri Lankas Fri Media Movement , som arbejder for pressefrihed , har forladt østaten .
+1-1	Mere	O	
+1-2	end	O	
+1-3	en	O	
+1-4	halv	B-adj.phys	
+1-5	snes	B-noun.quantity	
+1-6	journalister	B-noun.person	
+1-7	,	O	
+1-8	aktivister	B-noun.person	
+1-9	og	O	
+1-10	ledere	B-noun.person	
+1-11	af	O	
+1-12	Sri	B-noun.location	
+1-13	Lankas	I-noun.location	
+1-14	Fri	B-noun.institution	
+1-15	Media	I-noun.institution	
+1-16	Movement	I-noun.institution	
+1-17	,	O	
+1-18	som	O	
+1-19	arbejder	B-verb.social	
+1-20	for	O	
+1-21	pressefrihed	B-noun.abstract	
+1-22	,	O	
+1-23	har	O	
+1-24	forladt	B-verb.motion	
+1-25	østaten	B-noun.location	
+1-26	.	O	
+
+#id=2
+#text=Jeg har ikke opfordret alle skoler til at bede morgenbøn .
+2-1	Jeg	O	
+2-2	har	O	
+2-3	ikke	O	
+2-4	opfordret	B-verb.communication	
+2-5	alle	O	
+2-6	skoler	B-noun.institution	
+2-7	til	O	
+2-8	at	O	
+2-9	bede	B-verb.communication	
+2-10	morgenbøn	B-noun.communication	
+2-11	.	O	
+
+#id=3
+#text=Det tilslutter anklageren sig .
+3-1	Det	O	
+3-2	tilslutter	B-noun.cognition	
+3-3	anklageren	B-noun.person	
+3-4	sig	B-verb.REFLPRON	
+3-5	.	O	
+
+#id=4
+#text=Det skriver avisen The Guardian .
+4-1	Det	O	
+4-2	skriver	B-verb.communication	
+4-3	avisen	B-noun.communication	
+4-4	The	B-noun.communication	
+4-5	Guardian	I-noun.communication	
+4-6	.	O	
+
+#id=5
+#text=blev Helga Jensen i stedet ordineret i 1956 af den mere liberale biskop Erik Jensen i Aalborg , som også førte tilsyn med Helga Jensens Skivemenighed , indtil biskop Baun blev pensioneret 12 år senere .
+5-1	blev	O	
+5-2	Helga	B-noun.person	
+5-3	Jensen	I-noun.person	
+5-4	i	O	
+5-5	stedet	O	
+5-6	ordineret	B-verb.communication	
+5-7	i	O	
+5-8	1956	B-noun.time	
+5-9	af	O	
+5-10	den	O	
+5-11	mere	O	
+5-12	liberale	B-adj.social	
+5-13	biskop	B-noun.person	
+5-14	Erik	B-noun.person	
+5-15	Jensen	I-noun.person	
+5-16	i	O	
+5-17	Aalborg	B-noun.location	
+5-18	,	O	
+5-19	som	O	
+5-20	også	O	
+5-21	førte	B-verb.act	
+5-22	tilsyn	B-noun.cognition	
+5-23	med	O	
+5-24	Helga	B-noun.person	
+5-25	Jensens	I-noun.person	
+5-26	Skivemenighed	B-noun.person	
+5-27	,	O	
+5-28	indtil	O	
+5-29	biskop	B-noun.person	
+5-30	Baun	B-noun.person	
+5-31	blev	O	
+5-32	pensioneret	B-verb.change	
+5-33	12	O	
+5-34	år	B-noun.time	
+5-35	senere	O	
+5-36	.	O	
+
+#id=6
+#text=Professor , overlæge
+6-1	Professor	B-noun.person	
+6-2	,	O	
+6-3	overlæge	B-noun.person	
+
+#id=7
+#text=Foto :
+7-1	Foto	B-noun.artifact	
+7-2	:	O	
+
+#id=8
+#text=Familieopgør går aldrig af mode på
+8-1	Familieopgør	B-noun.event	
+8-2	går	B-verb.change	
+8-3	aldrig	O	
+8-4	af	B-verb.COLL	
+8-5	mode	B-verb.COLL	
+8-6	på	O	
+
+#id=9
+#text=Det , der rykker .
+9-1	Det	O	
+9-2	,	O	
+9-3	der	O	
+9-4	rykker	B-verb.change	
+9-5	.	O	
+
+#id=10
+#text=" Det er meget skuffende , at vores indsats i det sidste år ikke er blevet påskønnet .
+10-1	"	O	
+10-2	Det	O	
+10-3	er	B-verb.stative	
+10-4	meget	O	
+10-5	skuffende	B-adj.all	
+10-6	,	O	
+10-7	at	O	
+10-8	vores	O	
+10-9	indsats	B-noun.act	
+10-10	i	O	
+10-11	det	O	
+10-12	sidste	B-adj.time	
+10-13	år	B-noun.time	
+10-14	ikke	O	
+10-15	er	O	
+10-16	blevet	O	
+10-17	påskønnet	B-verb.emotion	
+10-18	.	O	
+
+#id=11
+#text=Søren Høy )
+11-1	Søren	B-noun.person	
+11-2	Høy	I-noun.person	
+11-3	)	O	
+
+#id=12
+#text=Hvis man for alvor vil ud , så skal noderne på nettet kvit og frit .
+12-1	Hvis	O	
+12-2	man	O	
+12-3	for	O	
+12-4	alvor	O	
+12-5	vil	B-verb.emotion	
+12-6	ud	B-verb.PARTICLE	
+12-7	,	O	
+12-8	så	O	
+12-9	skal	B-verb.emotion	
+12-10	noderne	B-noun.communication	
+12-11	på	O	
+12-12	nettet	B-noun.communication	
+12-13	kvit	O	
+12-14	og	O	
+12-15	frit	O	
+12-16	.	O	
+
+#id=13
+#text=Han regnes for den
+13-1	Han	O	
+13-2	regnes	B-verb.cognition	
+13-3	for	O	
+13-4	den	O	
+
+#id=14
+#text=Jeg kunne ikke få returneringerne på plads , og jeg følte , at intet rigtig gik min vej .
+14-1	Jeg	O	
+14-2	kunne	O	
+14-3	ikke	O	
+14-4	få	O	
+14-5	returneringerne	B-noun.act	
+14-6	på	B-verb.COLL	
+14-7	plads	B-verb.COLL	
+14-8	,	O	
+14-9	og	O	
+14-10	jeg	O	
+14-11	følte	B-verb.emotion	
+14-12	,	O	
+14-13	at	O	
+14-14	intet	O	
+14-15	rigtig	O	
+14-16	gik	B-verb.phenomenon	
+14-17	min	B-verb.COLL	
+14-18	vej	B-verb.COLL	
+14-19	.	O	
+
+#id=15
+#text=Dagens ret kan være hvad som helst godt fra havet for 70 kr .
+15-1	Dagens	B-noun.time	
+15-2	ret	B-noun.food	
+15-3	kan	O	
+15-4	være	B-verb.stative	
+15-5	hvad	O	
+15-6	som	O	
+15-7	helst	O	
+15-8	godt	B-adj.all	
+15-9	fra	O	
+15-10	havet	B-noun.location	
+15-11	for	O	
+15-12	70	O	
+15-13	kr	B-noun.quantity	
+15-14	.	O	
+
+#id=16
+#text=Hvor er pakken , der gør op det forhold , at op mod hvert fjerde barn føler sig nervøs og tynget af bekymringer i hverdagen ?
+16-1	Hvor	O	
+16-2	er	B-verb.stative	
+16-3	pakken	B-noun.abstract	
+16-4	,	O	
+16-5	der	O	
+16-6	gør	B-verb.change	
+16-7	op	B-verb.PARTICLE	
+16-8	det	O	
+16-9	forhold	B-noun.relation	
+16-10	,	O	
+16-11	at	O	
+16-12	op	O	
+16-13	mod	O	
+16-14	hvert	O	
+16-15	fjerde	O	
+16-16	barn	B-noun.person	
+16-17	føler	B-verb.emotion	
+16-18	sig	B-verb.REFLPRON	
+16-19	nervøs	B-adj.mental	
+16-20	og	O	
+16-21	tynget	B-adj.mental	
+16-22	af	O	
+16-23	bekymringer	B-noun.feeling	
+16-24	i	O	
+16-25	hverdagen	B-noun.time	
+16-26	?	O	
+
+#id=17
+#text=I juli 2007 blev en 22 - årig tjetjener skudt under lignende omstændigheder som Israilovs .
+17-1	I	O	
+17-2	juli	B-noun.time	
+17-3	2007	B-noun.time	
+17-4	blev	O	
+17-5	en	O	
+17-6	22	B-adj.time	
+17-7	-	I-adj.time	
+17-8	årig	I-adj.time	
+17-9	tjetjener	B-noun.person	
+17-10	skudt	B-verb.act	
+17-11	under	O	
+17-12	lignende	O	
+17-13	omstændigheder	B-noun.state	
+17-14	som	O	
+17-15	Israilovs	B-noun.person	
+17-16	.	O	
+
+#id=18
+#text=Mashups , dub , electro m . m .
+18-1	Mashups	B-noun.domain	
+18-2	,	O	
+18-3	dub	B-noun.domain	
+18-4	,	O	
+18-5	electro	B-noun.domain	
+18-6	m	O	
+18-7	.	O	
+18-8	m	O	
+18-9	.	O	
+
+#id=19
+#text=Sagsbehandleren kan så underrette Ankestyrelsen om sin bekymring .
+19-1	Sagsbehandleren	B-noun.person	
+19-2	kan	O	
+19-3	så	O	
+19-4	underrette	B-verb.communication	
+19-5	Ankestyrelsen	B-noun.institution	
+19-6	om	O	
+19-7	sin	O	
+19-8	bekymring	B-noun.feeling	
+19-9	.	O	
+
+#id=20
+#text=Mater Dentata er en form for moderskabets Djengis Khan og trives bedst , når hun kan få lov at fortælle andre kvinder , at de ikke helt forstår livet , fordi de ikke selv har børn blog .
+20-1	Mater	B-noun.person	
+20-2	Dentata	I-noun.person	
+20-3	er	O	
+20-4	en	O	
+20-5	form	B-noun.abstract	
+20-6	for	O	
+20-7	moderskabets	B-noun.state	
+20-8	Djengis	B-noun.person	
+20-9	Khan	I-noun.person	
+20-10	og	O	
+20-11	trives	B-verb.emotion	
+20-12	bedst	O	
+20-13	,	O	
+20-14	når	O	
+20-15	hun	O	
+20-16	kan	O	
+20-17	få	B-verb.communication	
+20-18	lov	B-verb.COLL	
+20-19	at	O	
+20-20	fortælle	B-verb.communication	
+20-21	andre	O	
+20-22	kvinder	B-noun.person	
+20-23	,	O	
+20-24	at	O	
+20-25	de	O	
+20-26	ikke	O	
+20-27	helt	O	
+20-28	forstår	B-verb.cognition	
+20-29	livet	B-noun.abstract	
+20-30	,	O	
+20-31	fordi	O	
+20-32	de	O	
+20-33	ikke	O	
+20-34	selv	O	
+20-35	har	B-verb.possession	
+20-36	børn	B-noun.person	
+20-37	blog	B-noun.communication	
+20-38	.	O	
+
+#id=21
+#text=Fra oktober 2007 til samme måned året efter er der kommet 12 . 603 flere fuldtidsansatte i de fem regioner og 98 kommuner .
+21-1	Fra	O	
+21-2	oktober	B-noun.time	
+21-3	2007	B-noun.time	
+21-4	til	O	
+21-5	samme	O	
+21-6	måned	B-noun.time	
+21-7	året	B-noun.time	
+21-8	efter	O	
+21-9	er	O	
+21-10	der	O	
+21-11	kommet	B-verb.phenomenon	
+21-12	12	O	
+21-13	.	O	
+21-14	603	O	
+21-15	flere	O	
+21-16	fuldtidsansatte	B-noun.person	
+21-17	i	O	
+21-18	de	O	
+21-19	fem	O	
+21-20	regioner	B-noun.location	
+21-21	og	O	
+21-22	98	O	
+21-23	kommuner	B-noun.location	
+21-24	.	O	
+
+#id=22
+#text=De kaldes kunstgallerier .
+22-1	De	O	
+22-2	kaldes	B-verb.communication	
+22-3	kunstgallerier	B-noun.building	
+22-4	.	O	
+
+#id=23
+#text=Ifølge kommunerne står pengene ubrugt , fordi regeringen har lavet for stramme regler - ifølge regeringspartiet Venstre , fordi kommunerne er for ringe til at styre deres økonomi .
+23-1	Ifølge	O	
+23-2	kommunerne	B-noun.institution	
+23-3	står	B-verb.stative	
+23-4	pengene	B-noun.artifact	
+23-5	ubrugt	B-adj.all	
+23-6	,	O	
+23-7	fordi	O	
+23-8	regeringen	B-noun.institution	
+23-9	har	O	
+23-10	lavet	B-verb.creation	
+23-11	for	O	
+23-12	stramme	B-adj.all	
+23-13	regler	B-noun.cognition	
+23-14	-	O	
+23-15	ifølge	O	
+23-16	regeringspartiet	B-noun.institution	
+23-17	Venstre	B-noun.institution	
+23-18	,	O	
+23-19	fordi	O	
+23-20	kommunerne	B-noun.institution	
+23-21	er	B-verb.stative	
+23-22	for	O	
+23-23	ringe	B-adj.all	
+23-24	til	O	
+23-25	at	O	
+23-26	styre	B-verb.act	
+23-27	deres	O	
+23-28	økonomi	B-noun.possession	
+23-29	.	O	
+
+#id=24
+#text=" I den her jord genbruger man noget af den kompost , vi har så rigeligt af i Danmark .
+24-1	"	O	
+24-2	I	O	
+24-3	den	O	
+24-4	her	O	
+24-5	jord	B-noun.object	
+24-6	genbruger	B-verb.act	
+24-7	man	O	
+24-8	noget	O	
+24-9	af	O	
+24-10	den	O	
+24-11	kompost	B-noun.object	
+24-12	,	O	
+24-13	vi	O	
+24-14	har	B-verb.possession	
+24-15	så	O	
+24-16	rigeligt	B-adj.phys	
+24-17	af	O	
+24-18	i	O	
+24-19	Danmark	B-noun.location	
+24-20	.	O	
+
+#id=25
+#text=Torsdag 12 .
+25-1	Torsdag	B-noun.time	
+25-2	12	O	
+25-3	.	O	
+
+#id=26
+#text=Som leder af hospitalets neurobiologiske forskningsenhed og Spect Laboratoriet ved Neurologisk Klinik forsker hun bl . a .
+26-1	Som	O	
+26-2	leder	B-noun.person	
+26-3	af	O	
+26-4	hospitalets	B-noun.institution	
+26-5	neurobiologiske	B-adj.all	
+26-6	forskningsenhed	B-noun.institution	
+26-7	og	O	
+26-8	Spect	B-noun.institution	
+26-9	Laboratoriet	I-noun.institution	
+26-10	ved	O	
+26-11	Neurologisk	B-noun.institution	
+26-12	Klinik	I-noun.institution	
+26-13	forsker	B-verb.cognition	
+26-14	hun	O	
+26-15	bl	O	
+26-16	.	O	
+26-17	a	O	
+26-18	.	O	
+
+#id=27
+#text=Men skærtorsdag lokkede Adrian Lloyd Hughes og hans hold med , at " ' Smagsdommerne ' får smæk " .
+27-1	Men	O	
+27-2	skærtorsdag	B-noun.time	
+27-3	lokkede	B-verb.communication	
+27-4	Adrian	B-noun.person	
+27-5	Lloyd	I-noun.person	
+27-6	Hughes	I-noun.person	
+27-7	og	O	
+27-8	hans	O	
+27-9	hold	B-noun.person	
+27-10	med	O	
+27-11	,	O	
+27-12	at	O	
+27-13	"	O	
+27-14	'	O	
+27-15	Smagsdommerne	B-noun.communication	
+27-16	'	O	
+27-17	får	B-verb.communication	
+27-18	smæk	B-verb.COLL	
+27-19	"	O	
+27-20	.	O	
+
+#id=28
+#text=ats@pol . dk
+28-1	ats@pol	O	
+28-2	.	O	
+28-3	dk	O	
+
+#id=29
+#text=Som voksne udvikler cirka en tredjedel af børnene et alkohol - eller narkoproblem , og en tredjedel lider af angst , depression eller spiseforstyrrelser .
+29-1	Som	O	
+29-2	voksne	B-noun.state	
+29-3	udvikler	B-verb.creation	
+29-4	cirka	O	
+29-5	en	O	
+29-6	tredjedel	B-noun.quantity	
+29-7	af	O	
+29-8	børnene	B-noun.person	
+29-9	et	O	
+29-10	alkohol	B-noun.disease	
+29-11	-	O	
+29-12	eller	O	
+29-13	narkoproblem	B-noun.disease	
+29-14	,	O	
+29-15	og	O	
+29-16	en	O	
+29-17	tredjedel	B-noun.quantity	
+29-18	lider	B-verb.phenomenon	
+29-19	af	O	
+29-20	angst	B-noun.feeling	
+29-21	,	O	
+29-22	depression	B-noun.disease	
+29-23	eller	O	
+29-24	spiseforstyrrelser	B-noun.disease	
+29-25	.	O	
+
+#id=30
+#text=Ikke , fordi den lidt sky og private Schandorff er en kølig natur , men hun kan rumme en overraskende vildskab på scenen .
+30-1	Ikke	O	
+30-2	,	O	
+30-3	fordi	O	
+30-4	den	O	
+30-5	lidt	O	
+30-6	sky	B-adj.mental	
+30-7	og	O	
+30-8	private	B-adj.mental	
+30-9	Schandorff	B-noun.person	
+30-10	er	B-verb.stative	
+30-11	en	O	
+30-12	kølig	B-adj.mental	
+30-13	natur	B-noun.attribute	
+30-14	,	O	
+30-15	men	O	
+30-16	hun	O	
+30-17	kan	O	
+30-18	rumme	B-verb.stative	
+30-19	en	O	
+30-20	overraskende	B-adj.all	
+30-21	vildskab	B-noun.attribute	
+30-22	på	O	
+30-23	scenen	B-noun.location	
+30-24	.	O	
+
+#id=31
+#text=Det er dog meget langt fra sandheden , oplyser mønteksperter til Politiken .
+31-1	Det	O	
+31-2	er	B-verb.stative	
+31-3	dog	O	
+31-4	meget	O	
+31-5	langt	O	
+31-6	fra	O	
+31-7	sandheden	B-noun.abstract	
+31-8	,	O	
+31-9	oplyser	B-verb.communication	
+31-10	mønteksperter	B-noun.person	
+31-11	til	O	
+31-12	Politiken	B-noun.institution	
+31-13	.	O	
+
+#id=32
+#text=Det nye ' Go ' Morgen Danmark ' er en tynd kop te
+32-1	Det	O	
+32-2	nye	B-adj.time	
+32-3	'	O	
+32-4	Go	B-noun.communication	
+32-5	'	I-noun.communication	
+32-6	Morgen	I-noun.communication	
+32-7	Danmark	I-noun.communication	
+32-8	'	O	
+32-9	er	O	
+32-10	en	O	
+32-11	tynd	B-adj.phys	
+32-12	kop	B-noun.container	
+32-13	te	B-noun.food	
+
+#id=33
+#text=FODBOLD .
+33-1	FODBOLD	B-noun.domain	
+33-2	.	O	
+
+#id=34
+#text=Alle 49 ombordværende og en enkelt på landjorden omkom , da et passagerfly af typen Dash 8 Q400 sent i forgårs lokal tid styrtede ned nær Buffalo i den amerikanske delstat New York .
+34-1	Alle	O	
+34-2	49	O	
+34-3	ombordværende	B-noun.person	
+34-4	og	O	
+34-5	en	O	
+34-6	enkelt	B-adj.all	
+34-7	på	O	
+34-8	landjorden	B-noun.location	
+34-9	omkom	B-verb.phenomenon	
+34-10	,	O	
+34-11	da	O	
+34-12	et	O	
+34-13	passagerfly	B-noun.vehicle	
+34-14	af	O	
+34-15	typen	B-noun.abstract	
+34-16	Dash	B-noun.vehicle	
+34-17	8	I-noun.vehicle	
+34-18	Q400	I-noun.vehicle	
+34-19	sent	O	
+34-20	i	O	
+34-21	forgårs	O	
+34-22	lokal	B-adj.all	
+34-23	tid	B-noun.time	
+34-24	styrtede	B-verb.motion	
+34-25	ned	B-verb.PARTICLE	
+34-26	nær	O	
+34-27	Buffalo	B-noun.location	
+34-28	i	O	
+34-29	den	O	
+34-30	amerikanske	B-adj.social	
+34-31	delstat	B-noun.location	
+34-32	New	B-noun.location	
+34-33	York	I-noun.location	
+34-34	.	O	
+
+#id=35
+#text=Da han tiltrådte som ordførende direktør , var det som led i et generationsskifte i banken , og Gert Rinaldo Jonassen har stået i spidsen for en stadig mere udadvendt strategi for Arbejdernes Landsbank .
+35-1	Da	O	
+35-2	han	O	
+35-3	tiltrådte	B-verb.act	
+35-4	som	O	
+35-5	ordførende	B-adj.all	
+35-6	direktør	B-noun.person	
+35-7	,	O	
+35-8	var	B-verb.stative	
+35-9	det	O	
+35-10	som	O	
+35-11	led	B-noun.relation	
+35-12	i	O	
+35-13	et	O	
+35-14	generationsskifte	B-noun.event	
+35-15	i	O	
+35-16	banken	B-noun.institution	
+35-17	,	O	
+35-18	og	O	
+35-19	Gert	B-noun.person	
+35-20	Rinaldo	I-noun.person	
+35-21	Jonassen	I-noun.person	
+35-22	har	O	
+35-23	stået	B-verb.act	
+35-24	i	B-verb.COLL	
+35-25	spidsen	B-verb.COLL	
+35-26	for	B-verb.COLL	
+35-27	en	O	
+35-28	stadig	O	
+35-29	mere	O	
+35-30	udadvendt	B-adj.mental	
+35-31	strategi	B-noun.cognition	
+35-32	for	O	
+35-33	Arbejdernes	B-noun.institution	
+35-34	Landsbank	I-noun.institution	
+35-35	.	O	
+
+#id=36
+#text=ritzau / AFP
+36-1	ritzau	B-noun.institution	
+36-2	/	O	
+36-3	AFP	O	
+
+#id=37
+#text=Og der vil fortsat være nyheder , hvis New York Times forsvinder .
+37-1	Og	O	
+37-2	der	O	
+37-3	vil	O	
+37-4	fortsat	O	
+37-5	være	B-verb.stative	
+37-6	nyheder	B-noun.communication	
+37-7	,	O	
+37-8	hvis	O	
+37-9	New	B-noun.communication	
+37-10	York	I-noun.communication	
+37-11	Times	I-noun.communication	
+37-12	forsvinder	B-verb.aspectual	
+37-13	.	O	
+
+#id=38
+#text=60 millioner kroner og ufattelig mange arbejdstimer senere er møntmestergården fra Borgergade 25 i København genopstået i Den Gamle By i Århus .
+38-1	60	O	
+38-2	millioner	B-noun.quantity	
+38-3	kroner	B-noun.quantity	
+38-4	og	O	
+38-5	ufattelig	O	
+38-6	mange	B-adj.all	
+38-7	arbejdstimer	B-noun.time	
+38-8	senere	O	
+38-9	er	O	
+38-10	møntmestergården	B-noun.building	
+38-11	fra	O	
+38-12	Borgergade	B-noun.location	
+38-13	25	I-noun.location	
+38-14	i	O	
+38-15	København	B-noun.location	
+38-16	genopstået	B-verb.creation	
+38-17	i	O	
+38-18	Den	B-noun.location	
+38-19	Gamle	I-noun.location	
+38-20	By	I-noun.location	
+38-21	i	O	
+38-22	Århus	B-noun.location	
+38-23	.	O	
+
+#id=39
+#text=" Den natur , vi kan lide i Danmark , er afgræsset natur " , fastslår Ella Maria Bisschop - Larsen .
+39-1	"	O	
+39-2	Den	O	
+39-3	natur	B-noun.object	
+39-4	,	O	
+39-5	vi	O	
+39-6	kan	O	
+39-7	lide	B-verb.emotion	
+39-8	i	O	
+39-9	Danmark	B-noun.location	
+39-10	,	O	
+39-11	er	B-verb.stative	
+39-12	afgræsset	B-adj.all	
+39-13	natur	B-noun.object	
+39-14	"	O	
+39-15	,	O	
+39-16	fastslår	B-verb.communication	
+39-17	Ella	B-noun.person	
+39-18	Maria	I-noun.person	
+39-19	Bisschop	I-noun.person	
+39-20	-	I-noun.person	
+39-21	Larsen	I-noun.person	
+39-22	.	O	
+
+#id=40
+#text=Den hvide del af Havneholmen har derimod tætte gårdrum , som med fantastiske haveanlæg med pudegræsser og bjergfyr er en del af den offentlige træbelagte promenade , der løber rundt om hele holmen .
+40-1	Den	O	
+40-2	hvide	B-adj.phys	
+40-3	del	B-noun.relation	
+40-4	af	O	
+40-5	Havneholmen	B-noun.location	
+40-6	har	B-noun.possession	
+40-7	derimod	O	
+40-8	tætte	B-adj.phys	
+40-9	gårdrum	B-noun.building	
+40-10	,	O	
+40-11	som	O	
+40-12	med	O	
+40-13	fantastiske	B-adj.all	
+40-14	haveanlæg	B-noun.location	
+40-15	med	O	
+40-16	pudegræsser	B-noun.plant	
+40-17	og	O	
+40-18	bjergfyr	B-noun.plant	
+40-19	er	B-verb.stative	
+40-20	en	O	
+40-21	del	B-noun.relation	
+40-22	af	O	
+40-23	den	O	
+40-24	offentlige	B-adj.social	
+40-25	træbelagte	B-adj.all	
+40-26	promenade	B-noun.location	
+40-27	,	O	
+40-28	der	O	
+40-29	løber	B-verb.stative	
+40-30	rundt	O	
+40-31	om	O	
+40-32	hele	B-adj.all	
+40-33	holmen	B-noun.location	
+40-34	.	O	
+
+#id=41
+#text=I dag møder danskeren slovakken Magdalena Rybarikova .
+41-1	I	O	
+41-2	dag	B-noun.time	
+41-3	møder	B-verb.competition	
+41-4	danskeren	B-noun.person	
+41-5	slovakken	B-noun.person	
+41-6	Magdalena	B-noun.person	
+41-7	Rybarikova	I-noun.person	
+41-8	.	O	
+
+#id=42
+#text=Erklæringen er i store træk en hyldest til Hamasbevægelsen i Gaza , mens den tager afstand fra " det såkaldte arabiske frihedsinitiativ " og opfordrer alle muslimer til at " fortsætte med at føre jihad ( hellig krig , red . )
+42-1	Erklæringen	B-noun.communication	
+42-2	er	B-verb.stative	
+42-3	i	O	
+42-4	store	B-adj.phys	
+42-5	træk	B-noun.abstract	
+42-6	en	O	
+42-7	hyldest	B-noun.act	
+42-8	til	O	
+42-9	Hamasbevægelsen	B-noun.group	
+42-10	i	O	
+42-11	Gaza	B-noun.location	
+42-12	,	O	
+42-13	mens	O	
+42-14	den	O	
+42-15	tager	B-verb.cognition	
+42-16	afstand	B-verb.COLL	
+42-17	fra	B-verb.COLL	
+42-18	"	O	
+42-19	det	O	
+42-20	såkaldte	B-adj.all	
+42-21	arabiske	B-adj.social	
+42-22	frihedsinitiativ	B-noun.event	
+42-23	"	O	
+42-24	og	O	
+42-25	opfordrer	B-verb.communication	
+42-26	alle	O	
+42-27	muslimer	B-noun.person	
+42-28	til	O	
+42-29	at	O	
+42-30	"	O	
+42-31	fortsætte	B-verb.aspectual	
+42-32	med	O	
+42-33	at	O	
+42-34	føre	B-verb.act	
+42-35	jihad	B-noun.act	
+42-36	(	O	
+42-37	hellig	B-adj.social	
+42-38	krig	B-noun.act	
+42-39	,	O	
+42-40	red	O	
+42-41	.	O	
+42-42	)	O	
+
+#id=43
+#text=Det vil jo gerne være med i det næste forsvarsforlig .
+43-1	Det	O	
+43-2	vil	B-verb.emotion	
+43-3	jo	O	
+43-4	gerne	O	
+43-5	være	B-verb.stative	
+43-6	med	B-verb.PARTICLE	
+43-7	i	O	
+43-8	det	O	
+43-9	næste	B-adj.time	
+43-10	forsvarsforlig	B-noun.communication	
+43-11	.	O	
+
+#id=44
+#text=Og meteorologernes forudsigelser er værre .
+44-1	Og	O	
+44-2	meteorologernes	B-noun.person	
+44-3	forudsigelser	B-noun.communication	
+44-4	er	B-verb.stative	
+44-5	værre	B-adj.all	
+44-6	.	O	
+
+#id=45
+#text=Det betyder , at de ikke kan komme nogen vegne overhovedet .
+45-1	Det	O	
+45-2	betyder	B-verb.stative	
+45-3	,	O	
+45-4	at	O	
+45-5	de	O	
+45-6	ikke	O	
+45-7	kan	O	
+45-8	komme	B-verb.motion	
+45-9	nogen	O	
+45-10	vegne	O	
+45-11	overhovedet	O	
+45-12	.	O	
+
+#id=46
+#text=Chris Sørensen ) , Johnny Thomsen , Mads Jessen ( 63 .
+46-1	Chris	B-noun.person	
+46-2	Sørensen	I-noun.person	
+46-3	)	O	
+46-4	,	O	
+46-5	Johnny	B-noun.person	
+46-6	Thomsen	I-noun.person	
+46-7	,	O	
+46-8	Mads	B-noun.person	
+46-9	Jessen	I-noun.person	
+46-10	(	O	
+46-11	63	O	
+46-12	.	O	
+
+#id=47
+#text=LÆ - SER KLAR .
+47-1	LÆ	O	
+47-2	-	O	
+47-3	SER	O	
+47-4	KLAR	B-adj.all	
+47-5	.	O	
+
+#id=48
+#text=" Jeg håber , at skibene vil komme med humanitær hjælp .
+48-1	"	O	
+48-2	Jeg	O	
+48-3	håber	B-verb.emotion	
+48-4	,	O	
+48-5	at	O	
+48-6	skibene	B-noun.vehicle	
+48-7	vil	O	
+48-8	komme	B-verb.motion	
+48-9	med	O	
+48-10	humanitær	B-adj.social	
+48-11	hjælp	B-noun.act	
+48-12	.	O	
+
+#id=49
+#text=Men hvad nu , hvis de ikke kan leve op til deres egen - og andres - forventning ? " .
+49-1	Men	O	
+49-2	hvad	O	
+49-3	nu	O	
+49-4	,	O	
+49-5	hvis	O	
+49-6	de	O	
+49-7	ikke	O	
+49-8	kan	O	
+49-9	leve	B-verb.stative	
+49-10	op	B-verb.COLL	
+49-11	til	B-verb.COLL	
+49-12	deres	O	
+49-13	egen	B-adj.all	
+49-14	-	O	
+49-15	og	O	
+49-16	andres	O	
+49-17	-	O	
+49-18	forventning	B-noun.cognition	
+49-19	?	O	
+49-20	"	O	
+49-21	.	O	
+
+#id=50
+#text=ægteskabsproblemer .
+50-1	ægteskabsproblemer	B-noun.cognition	
+50-2	.	O	
+
+#id=51
+#text=Da jeg var barn , fortalte mine forældre mig , at træerne ikke vokser ind i himlen .
+51-1	Da	O	
+51-2	jeg	O	
+51-3	var	B-verb.stative	
+51-4	barn	O	
+51-5	,	O	
+51-6	fortalte	B-verb.communication	
+51-7	mine	O	
+51-8	forældre	B-noun.person	
+51-9	mig	O	
+51-10	,	O	
+51-11	at	O	
+51-12	træerne	B-noun.plant	
+51-13	ikke	O	
+51-14	vokser	B-verb.change	
+51-15	ind	O	
+51-16	i	O	
+51-17	himlen	B-noun.location	
+51-18	.	O	
+
+#id=52
+#text=Undersøgelser viser , at folk , der mister livet i skovbrande , primært dør på vejene .
+52-1	Undersøgelser	B-noun.act	
+52-2	viser	B-verb.communication	
+52-3	,	O	
+52-4	at	O	
+52-5	folk	B-noun.person	
+52-6	,	O	
+52-7	der	O	
+52-8	mister	B-verb.possession	
+52-9	livet	B-noun.abstract	
+52-10	i	O	
+52-11	skovbrande	B-noun.phenomenon	
+52-12	,	O	
+52-13	primært	O	
+52-14	dør	B-verb.phenomenon	
+52-15	på	O	
+52-16	vejene	B-noun.location	
+52-17	.	O	
+
+#id=53
+#text=Kristensen Advarsler :
+53-1	Kristensen	B-noun.person	
+53-2	Advarsler	B-noun.communication	
+53-3	:	O	
+
+#id=54
+#text=Amerikanske forældre er i krisetider blevet ekstra glade for at købe Lego til deres børn .
+54-1	Amerikanske	B-adj.social	
+54-2	forældre	B-noun.person	
+54-3	er	O	
+54-4	i	O	
+54-5	krisetider	B-noun.time	
+54-6	blevet	B-verb.change	
+54-7	ekstra	O	
+54-8	glade	B-adj.mental	
+54-9	for	O	
+54-10	at	O	
+54-11	købe	B-verb.possession	
+54-12	Lego	B-noun.artifact	
+54-13	til	O	
+54-14	deres	O	
+54-15	børn	B-noun.person	
+54-16	.	O	
+
+#id=55
+#text=" Uha nej , den slags tør vi ikke kaste os ud i længere ! " .
+55-1	"	O	
+55-2	Uha	O	
+55-3	nej	O	
+55-4	,	O	
+55-5	den	O	
+55-6	slags	B-noun.abstract	
+55-7	tør	B-verb.emotion	
+55-8	vi	O	
+55-9	ikke	O	
+55-10	kaste	B-verb.aspectual	
+55-11	os	B-verb.REFLPRON	
+55-12	ud	B-verb.COLL	
+55-13	i	B-verb.COLL	
+55-14	længere	O	
+55-15	!	O	
+55-16	"	O	
+55-17	.	O	
+
+#id=56
+#text=Især debatten om forskningsfriheden har været intens , og det har ikke skortet på indlæg , der med afsæt i universitetslovens paragraf 17 , stk .
+56-1	Især	O	
+56-2	debatten	B-noun.communication	
+56-3	om	O	
+56-4	forskningsfriheden	B-noun.abstract	
+56-5	har	O	
+56-6	været	B-verb.stative	
+56-7	intens	B-adj.all	
+56-8	,	O	
+56-9	og	O	
+56-10	det	O	
+56-11	har	O	
+56-12	ikke	O	
+56-13	skortet	B-verb.stative	
+56-14	på	B-verb.COLL	
+56-15	indlæg	B-noun.communication	
+56-16	,	O	
+56-17	der	O	
+56-18	med	O	
+56-19	afsæt	O	
+56-20	i	O	
+56-21	universitetslovens	B-noun.communication	
+56-22	paragraf	B-noun.communication	
+56-23	17	O	
+56-24	,	O	
+56-25	stk	O	
+56-26	.	O	
+
+#id=57
+#text=Siden Sovjetunionen opsendte verdens første satellit , Sputnik , i 1957 , er i alt omkring 6 . 000 satellitter blevet sendt i kredsløb omkring Jorden .
+57-1	Siden	O	
+57-2	Sovjetunionen	B-noun.institution	
+57-3	opsendte	B-verb.act	
+57-4	verdens	B-noun.object	
+57-5	første	B-adj.time	
+57-6	satellit	B-noun.artifact	
+57-7	,	O	
+57-8	Sputnik	B-noun.artifact	
+57-9	,	O	
+57-10	i	O	
+57-11	1957	B-noun.time	
+57-12	,	O	
+57-13	er	O	
+57-14	i	O	
+57-15	alt	O	
+57-16	omkring	O	
+57-17	6	O	
+57-18	.	O	
+57-19	000	O	
+57-20	satellitter	B-noun.artifact	
+57-21	blevet	O	
+57-22	sendt	B-verb.act	
+57-23	i	O	
+57-24	kredsløb	B-noun.state	
+57-25	omkring	O	
+57-26	Jorden	B-noun.object	
+57-27	.	O	
+
+#id=58
+#text=Den polske udenrigsminister betragtes som en stærk kandidat til jobbet som Nato ' s næste generalsekretær , men da politiken .
+58-1	Den	O	
+58-2	polske	B-adj.social	
+58-3	udenrigsminister	B-noun.person	
+58-4	betragtes	B-verb.cognition	
+58-5	som	O	
+58-6	en	O	
+58-7	stærk	B-adj.all	
+58-8	kandidat	B-noun.person	
+58-9	til	O	
+58-10	jobbet	B-noun.act	
+58-11	som	O	
+58-12	Nato	B-noun.institution	
+58-13	'	O	
+58-14	s	O	
+58-15	næste	B-adj.time	
+58-16	generalsekretær	B-noun.person	
+58-17	,	O	
+58-18	men	O	
+58-19	da	O	
+58-20	politiken	B-noun.institution	
+58-21	.	O	
+
+#id=59
+#text=Tilsammen danner billederne en visuel encyklopædi , der tager beskueren med på en rejse i Vinds univers .
+59-1	Tilsammen	O	
+59-2	danner	B-verb.creation	
+59-3	billederne	B-noun.artifact	
+59-4	en	O	
+59-5	visuel	B-adj.phys	
+59-6	encyklopædi	B-noun.communication	
+59-7	,	O	
+59-8	der	O	
+59-9	tager	B-verb.motion	
+59-10	beskueren	B-noun.person	
+59-11	med	B-verb.PARTICLE	
+59-12	på	O	
+59-13	en	O	
+59-14	rejse	B-noun.event	
+59-15	i	O	
+59-16	Vinds	B-noun.person	
+59-17	univers	B-noun.cognition	
+59-18	.	O	
+
+#id=60
+#text=149 kr .
+60-1	149	O	
+60-2	kr	B-noun.quantity	
+60-3	.	O	
+
+#id=61
+#text=Derfor har ingen andre end jøderne moralsk og juridisk ret til at eje den .
+61-1	Derfor	O	
+61-2	har	B-verb.possession	
+61-3	ingen	O	
+61-4	andre	O	
+61-5	end	O	
+61-6	jøderne	B-noun.person	
+61-7	moralsk	B-adj.social	
+61-8	og	O	
+61-9	juridisk	B-adj.social	
+61-10	ret	B-noun.cognition	
+61-11	til	O	
+61-12	at	O	
+61-13	eje	B-verb.possession	
+61-14	den	O	
+61-15	.	O	
+
+#id=62
+#text=Jeg får helt lyst til at læse den igen bare af at fortælle om den , fordi den giver sådan et kick " .
+62-1	Jeg	O	
+62-2	får	B-verb.possession	
+62-3	helt	O	
+62-4	lyst	B-noun.feeling	
+62-5	til	O	
+62-6	at	O	
+62-7	læse	B-verb.cognition	
+62-8	den	O	
+62-9	igen	O	
+62-10	bare	O	
+62-11	af	O	
+62-12	at	O	
+62-13	fortælle	B-verb.communication	
+62-14	om	O	
+62-15	den	O	
+62-16	,	O	
+62-17	fordi	O	
+62-18	den	O	
+62-19	giver	B-verb.possession	
+62-20	sådan	O	
+62-21	et	O	
+62-22	kick	B-noun.feeling	
+62-23	"	O	
+62-24	.	O	
+
+#id=63
+#text=" At føle sig ' fit for fight ' giver en følelse af ekstra selvtillid , et bedre selvværd , og ikke mindst giver det god samvittighed .
+63-1	"	O	
+63-2	At	O	
+63-3	føle	B-verb.emotion	
+63-4	sig	B-verb.REFLPRON	
+63-5	'	O	
+63-6	fit	B-adj.mental	
+63-7	for	I-adj.mental	
+63-8	fight	I-adj.mental	
+63-9	'	O	
+63-10	giver	B-verb.possession	
+63-11	en	O	
+63-12	følelse	B-noun.feeling	
+63-13	af	O	
+63-14	ekstra	B-adj.all	
+63-15	selvtillid	B-noun.feeling	
+63-16	,	O	
+63-17	et	O	
+63-18	bedre	B-adj.all	
+63-19	selvværd	B-noun.feeling	
+63-20	,	O	
+63-21	og	O	
+63-22	ikke	O	
+63-23	mindst	O	
+63-24	giver	B-verb.possession	
+63-25	det	O	
+63-26	god	B-adj.all	
+63-27	samvittighed	B-noun.feeling	
+63-28	.	O	
+
+#id=64
+#text=Efterhånden som krisen bliver dybere , risikerer adskillige lande for eksempel at gå bankerot .
+64-1	Efterhånden	O	
+64-2	som	O	
+64-3	krisen	B-noun.event	
+64-4	bliver	B-verb.change	
+64-5	dybere	B-adj.all	
+64-6	,	O	
+64-7	risikerer	B-verb.act	
+64-8	adskillige	B-adj.all	
+64-9	lande	B-noun.institution	
+64-10	for	O	
+64-11	eksempel	O	
+64-12	at	O	
+64-13	gå	B-verb.change	
+64-14	bankerot	B-noun.state	
+64-15	.	O	
+
+#id=65
+#text=Han får et fristed i f . eks .
+65-1	Han	O	
+65-2	får	B-verb.possession	
+65-3	et	O	
+65-4	fristed	B-noun.location	
+65-5	i	O	
+65-6	f	O	
+65-7	.	O	
+65-8	eks	O	
+65-9	.	O	
+
+#id=66
+#text=Ebbe Mørk portrætterer den populære skuespiller inde i
+66-1	Ebbe	B-noun.person	
+66-2	Mørk	I-noun.person	
+66-3	portrætterer	B-verb.creation	
+66-4	den	O	
+66-5	populære	B-adj.social	
+66-6	skuespiller	B-noun.person	
+66-7	inde	O	
+66-8	i	O	
+
+#id=67
+#text=ritzau .
+67-1	ritzau	B-noun.institution	
+67-2	.	O	
+
+#id=68
+#text=Rapporten ' The Austere Traveller ' er baseret på spørgeskemainterview med ledere i Skandinavien , Europa , USA og Asien .
+68-1	Rapporten	B-noun.communication	
+68-2	'	O	
+68-3	The	B-noun.communication	
+68-4	Austere	I-noun.communication	
+68-5	Traveller	I-noun.communication	
+68-6	'	O	
+68-7	er	O	
+68-8	baseret	B-verb.stative	
+68-9	på	O	
+68-10	spørgeskemainterview	B-noun.communication	
+68-11	med	O	
+68-12	ledere	B-noun.person	
+68-13	i	O	
+68-14	Skandinavien	B-noun.location	
+68-15	,	O	
+68-16	Europa	B-noun.location	
+68-17	,	O	
+68-18	USA	B-noun.location	
+68-19	og	O	
+68-20	Asien	B-noun.location	
+68-21	.	O	
+
+#id=69
+#text=" Radikalisering handler ikke bare om islam .
+69-1	"	O	
+69-2	Radikalisering	B-noun.event	
+69-3	handler	B-verb.stative	
+69-4	ikke	O	
+69-5	bare	O	
+69-6	om	O	
+69-7	islam	B-noun.domain	
+69-8	.	O	
+
+#id=70
+#text=I den ny film blev han aldrig gift med Jennifers ( nu afdøde )
+70-1	I	O	
+70-2	den	O	
+70-3	ny	B-adj.time	
+70-4	film	B-noun.communication	
+70-5	blev	O	
+70-6	han	O	
+70-7	aldrig	O	
+70-8	gift	B-adj.social	
+70-9	med	O	
+70-10	Jennifers	B-noun.person	
+70-11	(	O	
+70-12	nu	O	
+70-13	afdøde	B-adj.phys	
+70-14	)	O	
+
+#id=71
+#text=K .
+71-1	K	O	
+71-2	.	O	
+
+#id=72
+#text=En registreret testgruppe er helt afgørende for kontroller uden for konkurrencer .
+72-1	En	O	
+72-2	registreret	B-adj.all	
+72-3	testgruppe	B-noun.person	
+72-4	er	B-verb.stative	
+72-5	helt	O	
+72-6	afgørende	B-adj.all	
+72-7	for	O	
+72-8	kontroller	B-noun.act	
+72-9	uden	O	
+72-10	for	O	
+72-11	konkurrencer	B-noun.event	
+72-12	.	O	
+
+#id=73
+#text=Det sker kun i mindre end 5 procent af tilfældene , hvor en borger søger for eksempel daginstitutionsplads , boligstøtte eller flytning .
+73-1	Det	O	
+73-2	sker	B-verb.phenomenon	
+73-3	kun	O	
+73-4	i	O	
+73-5	mindre	O	
+73-6	end	O	
+73-7	5	O	
+73-8	procent	B-noun.quantity	
+73-9	af	O	
+73-10	tilfældene	B-noun.event	
+73-11	,	O	
+73-12	hvor	O	
+73-13	en	O	
+73-14	borger	B-noun.person	
+73-15	søger	B-verb.communication	
+73-16	for	O	
+73-17	eksempel	O	
+73-18	daginstitutionsplads	B-noun.abstract	
+73-19	,	O	
+73-20	boligstøtte	B-noun.possession	
+73-21	eller	O	
+73-22	flytning	B-noun.act	
+73-23	.	O	
+
+#id=74
+#text=Men stive bureaukratiske regler hindrer dem i at få arbejds - og opholdstilladelse i Danmark , skriver Berlingske Tidende .
+74-1	Men	O	
+74-2	stive	B-adj.all	
+74-3	bureaukratiske	B-adj.social	
+74-4	regler	B-noun.abstract	
+74-5	hindrer	B-verb.stative	
+74-6	dem	O	
+74-7	i	O	
+74-8	at	O	
+74-9	få	O	
+74-10	arbejds	B-noun.abstract	
+74-11	-	O	
+74-12	og	O	
+74-13	opholdstilladelse	B-noun.abstract	
+74-14	i	O	
+74-15	Danmark	B-noun.location	
+74-16	,	O	
+74-17	skriver	B-verb.communication	
+74-18	Berlingske	B-noun.communication	
+74-19	Tidende	I-noun.communication	
+74-20	.	O	
+
+#id=75
+#text=Profession :
+75-1	Profession	B-noun.act	
+75-2	:	O	
+
+#id=76
+#text=Kun Århus Universitet vil ikke udtale sig om sagen .
+76-1	Kun	O	
+76-2	Århus	B-noun.institution	
+76-3	Universitet	I-noun.institution	
+76-4	vil	O	
+76-5	ikke	O	
+76-6	udtale	B-verb.communication	
+76-7	sig	B-verb.REFLPRON	
+76-8	om	O	
+76-9	sagen	B-noun.abstract	
+76-10	.	O	
+
+#id=77
+#text=Klassisk
+77-1	Klassisk	B-adj.all	
+
+#id=78
+#text=For forvirret bliver man jo altid , når den samme kunstner snart arbejder forestillingsløst , snart figurativt .
+78-1	For	O	
+78-2	forvirret	B-adj.mental	
+78-3	bliver	B-verb.change	
+78-4	man	O	
+78-5	jo	O	
+78-6	altid	O	
+78-7	,	O	
+78-8	når	O	
+78-9	den	O	
+78-10	samme	O	
+78-11	kunstner	B-noun.person	
+78-12	snart	O	
+78-13	arbejder	B-verb.act	
+78-14	forestillingsløst	O	
+78-15	,	O	
+78-16	snart	O	
+78-17	figurativt	O	
+78-18	.	O	
+
+#id=79
+#text=Ministeriel Paaskerengøring SAA SNART DE SIDSTE ministerielle Embedsmænd i Onsdags Aftes Kl .
+79-1	Ministeriel	B-adj.all	
+79-2	Paaskerengøring	B-noun.act	
+79-3	SAA	O	
+79-4	SNART	O	
+79-5	DE	O	
+79-6	SIDSTE	B-adj.time	
+79-7	ministerielle	B-adj.all	
+79-8	Embedsmænd	B-noun.person	
+79-9	i	O	
+79-10	Onsdags	B-noun.time	
+79-11	Aftes	O	
+79-12	Kl	O	
+79-13	.	O	
+
+#id=80
+#text=Så minder det om de gode , gamle dage , da Holbæk var blandt Danmarks bedste .
+80-1	Så	O	
+80-2	minder	B-verb.cognition	
+80-3	det	O	
+80-4	om	O	
+80-5	de	O	
+80-6	gode	B-adj.all	
+80-7	,	O	
+80-8	gamle	B-adj.time	
+80-9	dage	B-noun.time	
+80-10	,	O	
+80-11	da	O	
+80-12	Holbæk	B-noun.institution	
+80-13	var	B-verb.stative	
+80-14	blandt	O	
+80-15	Danmarks	B-noun.group	
+80-16	bedste	B-adj.all	
+80-17	.	O	
+
+#id=81
+#text=10 . 000 færre danskere vælger at udleje deres feriehuse , derfor vil Venstre nu give en økonomisk gulerod til ejerne , så de får lyst til at leje husene ud til udenlandske turister .
+81-1	10	O	
+81-2	.	O	
+81-3	000	O	
+81-4	færre	B-adj.all	
+81-5	danskere	B-noun.person	
+81-6	vælger	B-verb.cognition	
+81-7	at	O	
+81-8	udleje	B-verb.possession	
+81-9	deres	O	
+81-10	feriehuse	B-noun.building	
+81-11	,	O	
+81-12	derfor	O	
+81-13	vil	O	
+81-14	Venstre	B-noun.person	
+81-15	nu	O	
+81-16	give	B-verb.possession	
+81-17	en	O	
+81-18	økonomisk	B-adj.all	
+81-19	gulerod	B-noun.motive	
+81-20	til	O	
+81-21	ejerne	B-noun.person	
+81-22	,	O	
+81-23	så	O	
+81-24	de	O	
+81-25	får	B-verb.possession	
+81-26	lyst	B-noun.feeling	
+81-27	til	O	
+81-28	at	O	
+81-29	leje	B-verb.possession	
+81-30	husene	B-noun.building	
+81-31	ud	O	
+81-32	til	O	
+81-33	udenlandske	B-adj.social	
+81-34	turister	B-noun.person	
+81-35	.	O	
+
+#id=82
+#text=Og den accept vil Liberal Alliance kun give , hvis regeringen går med til at fremrykke nogle af skattelettelserne fra skattepakken .
+82-1	Og	O	
+82-2	den	O	
+82-3	accept	B-noun.communication	
+82-4	vil	O	
+82-5	Liberal	B-noun.institution	
+82-6	Alliance	I-noun.institution|B-noun.abstract	
+82-7	kun	O-_|I-noun.abstract	
+82-8	give	B-verb.possession	
+82-9	,	O	
+82-10	hvis	O	
+82-11	regeringen	B-noun.institution	
+82-12	går	B-verb.cognition	
+82-13	med	B-verb.COLL	
+82-14	til	B-verb.COLL	
+82-15	at	O	
+82-16	fremrykke	B-verb.change	
+82-17	nogle	O	
+82-18	af	O	
+82-19	skattelettelserne	B-noun.act	
+82-20	fra	O	
+82-21	skattepakken	B-noun.communication	
+82-22	.	O	
+
+#id=83
+#text=Netop et job i den offentlige sektor betyder , at man er særlig godt sikret mod krisen , vurderer økonomisk vismand Hans Jørgen Whitta - Jacobsen , der er professor ved Københavns Universitet .
+83-1	Netop	O	
+83-2	et	O	
+83-3	job	B-noun.act	
+83-4	i	O	
+83-5	den	O	
+83-6	offentlige	B-adj.social	
+83-7	sektor	O	
+83-8	betyder	B-verb.stative	
+83-9	,	O	
+83-10	at	O	
+83-11	man	O	
+83-12	er	B-verb.stative	
+83-13	særlig	O	
+83-14	godt	O	
+83-15	sikret	B-verb.stative	
+83-16	mod	O	
+83-17	krisen	B-noun.event	
+83-18	,	O	
+83-19	vurderer	B-verb.cognition	
+83-20	økonomisk	B-adj.all	
+83-21	vismand	B-noun.person	
+83-22	Hans	B-noun.person	
+83-23	Jørgen	I-noun.person	
+83-24	Whitta	I-noun.person	
+83-25	-	I-noun.person	
+83-26	Jacobsen	I-noun.person	
+83-27	,	O	
+83-28	der	O	
+83-29	er	B-verb.stative	
+83-30	professor	B-noun.person	
+83-31	ved	O	
+83-32	Københavns	B-noun.institution	
+83-33	Universitet	I-noun.institution	
+83-34	.	O	
+
+#id=84
+#text=Faldskærmstræning Hvor ?
+84-1	Faldskærmstræning	B-noun.act	
+84-2	Hvor	O	
+84-3	?	O	
+
+#id=85
+#text=Priserne kan dog virke lidt skræmmende .
+85-1	Priserne	B-noun.quantity	
+85-2	kan	O	
+85-3	dog	O	
+85-4	virke	B-verb.perception	
+85-5	lidt	O	
+85-6	skræmmende	B-adj.all	
+85-7	.	O	
+
+#id=86
+#text=Dermed deler det irske rockband tredjepladsen over flest nummer 1 - album med Madonna og Rolling Stones .
+86-1	Dermed	O	
+86-2	deler	B-verb.stative	
+86-3	det	O	
+86-4	irske	B-adj.social	
+86-5	rockband	B-noun.person	
+86-6	tredjepladsen	B-noun.relation	
+86-7	over	O	
+86-8	flest	O	
+86-9	nummer	B-noun.communication	
+86-10	1	I-noun.communication	
+86-11	-	I-noun.communication	
+86-12	album	I-noun.communication	
+86-13	med	O	
+86-14	Madonna	B-noun.person	
+86-15	og	O	
+86-16	Rolling	B-noun.person	
+86-17	Stones	I-noun.person	
+86-18	.	O	
+
+#id=87
+#text=Men da Mark Majzner indgik en samarbejdsaftale med KF , den svenske udgave af Coop , gik noget galt .
+87-1	Men	O	
+87-2	da	O	
+87-3	Mark	B-noun.person	
+87-4	Majzner	I-noun.person	
+87-5	indgik	B-verb.social	
+87-6	en	O	
+87-7	samarbejdsaftale	B-noun.communication	
+87-8	med	O	
+87-9	KF	B-noun.institution	
+87-10	,	O	
+87-11	den	O	
+87-12	svenske	B-adj.social	
+87-13	udgave	B-noun.abstract	
+87-14	af	O	
+87-15	Coop	B-noun.institution	
+87-16	,	O	
+87-17	gik	B-verb.change	
+87-18	noget	O	
+87-19	galt	B-verb.PARTICLE	
+87-20	.	O	
+
+#id=88
+#text=Den 23 - årige Phelps har også planer om at stille op ved VM i Rom i juli .
+88-1	Den	O	
+88-2	23	O	
+88-3	-	O	
+88-4	årige	O	
+88-5	Phelps	B-noun.person	
+88-6	har	B-verb.possession	
+88-7	også	O	
+88-8	planer	B-noun.motive	
+88-9	om	O	
+88-10	at	O	
+88-11	stille	B-verb.competition	
+88-12	op	B-verb.PARTICLE	
+88-13	ved	O	
+88-14	VM	B-noun.event	
+88-15	i	O	
+88-16	Rom	B-noun.location	
+88-17	i	O	
+88-18	juli	B-noun.time	
+88-19	.	O	
+
+#id=89
+#text=Tempoet er en anelse langsommere end hos The Knife , men de sørgmodige synthesizere og Karin Dreijers vokale forvrængninger er genkendelige mønstre .
+89-1	Tempoet	B-noun.phenomenon	
+89-2	er	B-verb.stative	
+89-3	en	O	
+89-4	anelse	B-noun.quantity	
+89-5	langsommere	B-adj.phys	
+89-6	end	O	
+89-7	hos	O	
+89-8	The	B-noun.person	
+89-9	Knife	I-noun.person	
+89-10	,	O	
+89-11	men	O	
+89-12	de	O	
+89-13	sørgmodige	B-adj.mental	
+89-14	synthesizere	B-noun.artifact	
+89-15	og	O	
+89-16	Karin	B-noun.person	
+89-17	Dreijers	I-noun.person	
+89-18	vokale	B-adj.phys	
+89-19	forvrængninger	B-noun.communication	
+89-20	er	O	
+89-21	genkendelige	B-adj.mental	
+89-22	mønstre	B-noun.abstract	
+89-23	.	O	
+
+#id=90
+#text=PAKKELØSNING .
+90-1	PAKKELØSNING	B-noun.act	
+90-2	.	O	
+
+#id=91
+#text=Han kan udforske musikken i en stil , der skylder John McLaughlin og Eric Clapton lige meget , men han bliver aldrig for fin til også bare at høvle en sej rytmeguitar af sig .
+91-1	Han	O	
+91-2	kan	O	
+91-3	udforske	B-verb.cognition	
+91-4	musikken	B-noun.domain	
+91-5	i	O	
+91-6	en	O	
+91-7	stil	B-noun.abstract	
+91-8	,	O	
+91-9	der	O	
+91-10	skylder	B-noun.possession	
+91-11	John	B-noun.person	
+91-12	McLaughlin	I-noun.person	
+91-13	og	O	
+91-14	Eric	B-noun.person	
+91-15	Clapton	I-noun.person	
+91-16	lige	O	
+91-17	meget	O	
+91-18	,	O	
+91-19	men	O	
+91-20	han	O	
+91-21	bliver	B-verb.change	
+91-22	aldrig	O	
+91-23	for	O	
+91-24	fin	B-adj.all	
+91-25	til	O	
+91-26	også	O	
+91-27	bare	O	
+91-28	at	O	
+91-29	høvle	B-verb.act	
+91-30	en	O	
+91-31	sej	B-adj.all	
+91-32	rytmeguitar	B-noun.artifact	
+91-33	af	B-verb.COLL	
+91-34	sig	B-verb.COLL	
+91-35	.	O	
+
+#id=92
+#text=Her kunne den nødvendige dialog mellem USA og Iran passende begynde Mogens Lykketoft , fhv .
+92-1	Her	O	
+92-2	kunne	O	
+92-3	den	O	
+92-4	nødvendige	B-adj.all	
+92-5	dialog	B-noun.communication	
+92-6	mellem	O	
+92-7	USA	B-noun.person	
+92-8	og	O	
+92-9	Iran	B-noun.person	
+92-10	passende	O	
+92-11	begynde	B-verb.aspectual	
+92-12	Mogens	B-noun.person	
+92-13	Lykketoft	I-noun.person	
+92-14	,	O	
+92-15	fhv	O	
+92-16	.	O	
+
+#id=93
+#text=september 1989 blev bogstaverne skiftet ud med 900 - nummerering , og 1 .
+93-1	september	B-noun.time	
+93-2	1989	B-noun.time	
+93-3	blev	O	
+93-4	bogstaverne	B-noun.communication	
+93-5	skiftet	B-verb.change	
+93-6	ud	B-verb.PARTICLE	
+93-7	med	O	
+93-8	900	O	
+93-9	-	O	
+93-10	nummerering	O	
+93-11	,	O	
+93-12	og	O	
+93-13	1	O	
+93-14	.	O	
+
+#id=94
+#text=Den Røde Hund serverer en veltillavet og mættende brunch til en fornuftig pris , med behagelig stemning og ild i pejsen .
+94-1	Den	B-noun.institution	
+94-2	Røde	I-noun.institution	
+94-3	Hund	I-noun.institution	
+94-4	serverer	B-verb.act	
+94-5	en	O	
+94-6	veltillavet	B-adj.all	
+94-7	og	O	
+94-8	mættende	B-adj.all	
+94-9	brunch	B-noun.food	
+94-10	til	O	
+94-11	en	O	
+94-12	fornuftig	B-adj.mental	
+94-13	pris	B-noun.quantity	
+94-14	,	O	
+94-15	med	O	
+94-16	behagelig	B-adj.mental	
+94-17	stemning	B-noun.attribute	
+94-18	og	O	
+94-19	ild	B-noun.phenomenon	
+94-20	i	O	
+94-21	pejsen	B-noun.artifact	
+94-22	.	O	
+
+#id=95
+#text=regn ikke med mere end 10 - 11 km per liter .
+95-1	regn	B-verb.cognition	
+95-2	ikke	O	
+95-3	med	O	
+95-4	mere	O	
+95-5	end	O	
+95-6	10	O	
+95-7	-	O	
+95-8	11	O	
+95-9	km	O	
+95-10	per	O	
+95-11	liter	B-noun.quantity	
+95-12	.	O	
+
+#id=96
+#text=Den nyuddannede designer var ikke blevet meldt i en a - kasse , da hun var færdig på skolen , så der var ikke mulighed for at få dagpenge .
+96-1	Den	O	
+96-2	nyuddannede	B-adj.all	
+96-3	designer	B-noun.person	
+96-4	var	O	
+96-5	ikke	O	
+96-6	blevet	O	
+96-7	meldt	B-verb.social	
+96-8	i	O	
+96-9	en	O	
+96-10	a	B-noun.institution	
+96-11	-	I-noun.institution	
+96-12	kasse	I-noun.institution	
+96-13	,	O	
+96-14	da	O	
+96-15	hun	O	
+96-16	var	B-verb.stative	
+96-17	færdig	B-adj.all	
+96-18	på	O	
+96-19	skolen	B-noun.institution	
+96-20	,	O	
+96-21	så	O	
+96-22	der	O	
+96-23	var	B-verb.stative	
+96-24	ikke	O	
+96-25	mulighed	B-noun.abstract	
+96-26	for	O	
+96-27	at	O	
+96-28	få	B-verb.possession	
+96-29	dagpenge	B-noun.possession	
+96-30	.	O	
+
+#id=97
+#text=en uge fyldt med fest , dans , sjove episoder og kortvarigt tab af kontrol .
+97-1	en	O	
+97-2	uge	B-noun.time	
+97-3	fyldt	B-adj.all	
+97-4	med	O	
+97-5	fest	B-noun.event	
+97-6	,	O	
+97-7	dans	B-noun.event	
+97-8	,	O	
+97-9	sjove	B-adj.mental	
+97-10	episoder	B-noun.event	
+97-11	og	O	
+97-12	kortvarigt	B-adj.time	
+97-13	tab	B-noun.possession	
+97-14	af	O	
+97-15	kontrol	B-noun.cognition	
+97-16	.	O	
+
+#id=98
+#text=Skizofreni er en alvorlig og genetisk betinget psykiatrisk lidelse , der rammer ca . 1 pct . af befolkningen .
+98-1	Skizofreni	B-noun.disease	
+98-2	er	B-verb.stative	
+98-3	en	O	
+98-4	alvorlig	B-adj.all	
+98-5	og	O	
+98-6	genetisk	O	
+98-7	betinget	B-adj.all	
+98-8	psykiatrisk	B-adj.all	
+98-9	lidelse	B-noun.disease	
+98-10	,	O	
+98-11	der	O	
+98-12	rammer	B-verb.phenomenon	
+98-13	ca	O	
+98-14	.	O	
+98-15	1	O	
+98-16	pct	B-noun.quantity	
+98-17	.	O	
+98-18	af	O	
+98-19	befolkningen	B-noun.person	
+98-20	.	O	
+
+#id=99
+#text=Alle skærer fine skiver af såvel rugbrød som franskbrød og kan flække morgenbollen uden problemer .
+99-1	Alle	O	
+99-2	skærer	B-verb.contact	
+99-3	fine	B-adj.phys	
+99-4	skiver	B-noun.food	
+99-5	af	O	
+99-6	såvel	O	
+99-7	rugbrød	B-noun.food	
+99-8	som	O	
+99-9	franskbrød	B-noun.food	
+99-10	og	O	
+99-11	kan	O	
+99-12	flække	B-verb.contact	
+99-13	morgenbollen	B-noun.food	
+99-14	uden	O	
+99-15	problemer	B-noun.cognition	
+99-16	.	O	
+
+#id=100
+#text=Det har ikke været helt nemt for ham at finde en grimasse , der kunne passe .
+100-1	Det	O	
+100-2	har	O	
+100-3	ikke	O	
+100-4	været	B-verb.stative	
+100-5	helt	O	
+100-6	nemt	B-adj.all	
+100-7	for	O	
+100-8	ham	O	
+100-9	at	O	
+100-10	finde	B-verb.cognition	
+100-11	en	O	
+100-12	grimasse	B-noun.communication	
+100-13	,	O	
+100-14	der	O	
+100-15	kunne	O	
+100-16	passe	B-verb.stative	
+100-17	.	O	
+

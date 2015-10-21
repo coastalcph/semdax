@@ -1,0 +1,215 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Danmarksholdning til Kina har siden den dramatiske nedkæmpning af det pro-demokratiske studenteroprør på Den Himmelske Freds Plads i 1989 simret på et meget svagt vågeblus .
+1-1	Danmarks	B-noun.institution	
+1-2	holdning	B-noun.feeling	
+1-3	til	O	
+1-4	Kina	B-noun.institution	
+1-5	har	O	
+1-6	siden	O	
+1-7	den	O	
+1-8	dramatiske	B-adj.all	
+1-9	nedkæmpning	B-noun.act	
+1-10	af	O	
+1-11	det	O	
+1-12	pro-demokratiske	B-adj.social	
+1-13	studenteroprør	B-noun.act	
+1-14	på	O	
+1-15	Den	B-noun.location	
+1-16	Himmelske	I-noun.location	
+1-17	Freds	I-noun.location	
+1-18	Plads	I-noun.location	
+1-19	i	O	
+1-20	1989	B-noun.time	
+1-21	simret	B-verb.act	
+1-22	på	O	
+1-23	et	O	
+1-24	meget	O	
+1-25	svagt	B-adj.phys	
+1-26	vågeblus	B-noun.artifact	
+1-27	.	O	
+
+#id=2
+#text=Kinaer stadig i stue-arrest , og Danida holder pengekassen hermetisk lukket for danske engagementer i Kina .
+2-1	Kina	B-noun.institution	
+2-2	er	B-verb.stative	
+2-3	stadig	O	
+2-4	i	O	
+2-5	stue-arrest	B-noun.phenomenon	
+2-6	,	O	
+2-7	og	O	
+2-8	Danida	B-noun.institution	
+2-9	holder	B-verb.act	
+2-10	pengekassen	B-noun.container	
+2-11	hermetisk	O	
+2-12	lukket	B-adj.phys	
+2-13	for	O	
+2-14	danske	B-adj.social	
+2-15	engagementer	B-noun.act	
+2-16	i	O	
+2-17	Kina	B-noun.location	
+2-18	.	O	
+
+#id=3
+#text="Kineserne er skuffede over Danmarks holdning .
+3-1	"	O	
+3-2	Kineserne	B-noun.person	
+3-3	er	B-verb.stative	
+3-4	skuffede	B-adj.mental	
+3-5	over	O	
+3-6	Danmarks	B-noun.institution	
+3-7	holdning	B-noun.feeling	
+3-8	.	O	
+
+#id=4
+#text=Danskernevar blandt de første udenlandske forretningsfolk i Kina , men nu er vi blandt de sidste , der lukker op igen , " siger Oliver Jensen , FLS i Peking .
+4-1	Danskerne	B-noun.person	
+4-2	var	B-verb.stative	
+4-3	blandt	O	
+4-4	de	O	
+4-5	første	B-adj.time	
+4-6	udenlandske	B-adj.social	
+4-7	forretningsfolk	B-noun.person	
+4-8	i	O	
+4-9	Kina	B-noun.location	
+4-10	,	O	
+4-11	men	O	
+4-12	nu	O	
+4-13	er	B-verb.stative	
+4-14	vi	O	
+4-15	blandt	O	
+4-16	de	O	
+4-17	sidste	B-adj.time	
+4-18	,	O	
+4-19	der	O	
+4-20	lukker	B-verb.act	
+4-21	op	B-verb.PARTICLE	
+4-22	igen	O	
+4-23	,	O	
+4-24	"	O	
+4-25	siger	B-verb.communication	
+4-26	Oliver	B-noun.person	
+4-27	Jensen	I-noun.person	
+4-28	,	O	
+4-29	FLS	B-noun.institution	
+4-30	i	O	
+4-31	Peking	B-noun.location	
+4-32	.	O	
+
+#id=5
+#text=Hanfortæller , at udviklingen i Sydkina kører så hurtigt , at man taber pusten .
+5-1	Han	O	
+5-2	fortæller	B-verb.communication	
+5-3	,	O	
+5-4	at	O	
+5-5	udviklingen	B-noun.phenomenon	
+5-6	i	O	
+5-7	Sydkina	B-noun.location	
+5-8	kører	B-verb.phenomenon	
+5-9	så	O	
+5-10	hurtigt	O	
+5-11	,	O	
+5-12	at	O	
+5-13	man	O	
+5-14	taber	B-verb.possession	
+5-15	pusten	B-noun.phenomenon	
+5-16	.	O	
+
+#id=6
+#text="Vi har store forventninger til reformerne , omend vi er forberedt på , at de kan komme til at køre lidt i " ryk " .
+6-1	"	O	
+6-2	Vi	O	
+6-3	har	B-verb.cognition	
+6-4	store	B-adj.all	
+6-5	forventninger	B-noun.cognition	
+6-6	til	O	
+6-7	reformerne	B-noun.act	
+6-8	,	O	
+6-9	omend	O	
+6-10	vi	O	
+6-11	er	B-verb.stative	
+6-12	forberedt	B-adj.mental	
+6-13	på	O	
+6-14	,	O	
+6-15	at	O	
+6-16	de	O	
+6-17	kan	B-verb.social	
+6-18	komme	B-verb.phenomenon	
+6-19	til	B-verb.PARTICLE	
+6-20	at	O	
+6-21	køre	B-verb.phenomenon	
+6-22	lidt	O	
+6-23	i	O	
+6-24	"	O	
+6-25	ryk	B-noun.act	
+6-26	"	O	
+6-27	.	O	
+
+#id=7
+#text=Mendet er spændende at se , hvor langt de tør gå med at slippe markedskræfterne løs . "
+7-1	Men	O	
+7-2	det	O	
+7-3	er	B-verb.stative	
+7-4	spændende	B-adj.all	
+7-5	at	O	
+7-6	se	B-verb.phenomenon	
+7-7	,	O	
+7-8	hvor	O	
+7-9	langt	O	
+7-10	de	O	
+7-11	tør	B-verb.emotion	
+7-12	gå	B-verb.act	
+7-13	med	O	
+7-14	at	O	
+7-15	slippe	B-verb.act	
+7-16	markedskræfterne	B-noun.abstract	
+7-17	løs	B-verb.COLL	
+7-18	.	O	
+7-19	"	O	
+
+#id=8
+#text=FLShar været aktiv i Kina siden 1906 og har opført 20-30  cement-fabrikker rundt om i landet .
+8-1	FLS	B-noun.institution	
+8-2	har	O	
+8-3	været	B-verb.stative	
+8-4	aktiv	B-adj.all	
+8-5	i	O	
+8-6	Kina	B-noun.location	
+8-7	siden	O	
+8-8	1906	B-noun.time	
+8-9	og	O	
+8-10	har	O	
+8-11	opført	B-verb.creation	
+8-12	20-30	O	
+8-13	cement-fabrikker	B-noun.building	
+8-14	rundt	O	
+8-15	om	O	
+8-16	i	O	
+8-17	landet	B-noun.location	
+8-18	.	O	
+
+#id=9
+#text=Iøjeblikket er man ved at bygge et anlæg i Shanghai , finansieret af spanske lån gennem FLS' søsterfirma i Spanien .
+9-1	I	O	
+9-2	øjeblikket	B-noun.time	
+9-3	er	B-verb.aspectual	
+9-4	man	O	
+9-5	ved	B-verb.PARTICLE	
+9-6	at	O	
+9-7	bygge	B-verb.creation	
+9-8	et	O	
+9-9	anlæg	B-noun.building	
+9-10	i	O	
+9-11	Shanghai	B-noun.location	
+9-12	,	O	
+9-13	finansieret	B-adj.all	
+9-14	af	O	
+9-15	spanske	B-adj.social	
+9-16	lån	B-noun.quantity	
+9-17	gennem	O	
+9-18	FLS'	B-noun.institution	
+9-19	søsterfirma	B-noun.institution	
+9-20	i	O	
+9-21	Spanien	B-noun.location	
+9-22	.	O	
+

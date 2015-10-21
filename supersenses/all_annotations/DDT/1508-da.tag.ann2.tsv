@@ -1,0 +1,217 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text="Da Lady Pamela Colin Campbell skrev sin bog om Diana , tog alle det som en " god sag " .
+1-1	"	O	
+1-2	Da	O	
+1-3	Lady	B-noun.person	
+1-4	Pamela	I-noun.person	
+1-5	Colin	I-noun.person	
+1-6	Campbell	I-noun.person	
+1-7	skrev	B-verb.creation	
+1-8	sin	O	
+1-9	bog	B-noun.communication	
+1-10	om	O	
+1-11	Diana	B-noun.person	
+1-12	,	O	
+1-13	tog	B-verb.cognition	
+1-14	alle	O	
+1-15	det	O	
+1-16	som	O	
+1-17	en	O	
+1-18	"	O	
+1-19	god	B-adj.all	
+1-20	sag	B-noun.abstract	
+1-21	"	O	
+1-22	.	O	
+
+#id=2
+#text=Diana blev heglet lidt igennem som en ret uskadelig , skæg pige , der ikke havde nemt ved at tænke selv , og det hyggede mange sig ved .
+2-1	Diana	B-noun.person	
+2-2	blev	O	
+2-3	heglet	B-verb.communication	
+2-4	lidt	O	
+2-5	igennem	B-verb.COLL	
+2-6	som	O	
+2-7	en	O	
+2-8	ret	O	
+2-9	uskadelig	B-adj.all	
+2-10	,	O	
+2-11	skæg	B-adj.all	
+2-12	pige	B-noun.person	
+2-13	,	O	
+2-14	der	O	
+2-15	ikke	O	
+2-16	havde	B-verb.cognition	
+2-17	nemt	O	
+2-18	ved	B-verb.COLL	
+2-19	at	O	
+2-20	tænke	B-verb.cognition	
+2-21	selv	O	
+2-22	,	O	
+2-23	og	O	
+2-24	det	O	
+2-25	hyggede	B-verb.cognition	
+2-26	mange	O	
+2-27	sig	B-verb.REFLPRON	
+2-28	ved	O	
+2-29	.	O	
+
+#id=3
+#text=DaAndrew Morton fik sin " Diana - Her True Story " på gaden tre måneder senere , fik tonen pludselig en anden lyd .
+3-1	Da	O	
+3-2	Andrew	B-noun.person	
+3-3	Morton	I-noun.person	
+3-4	fik	B-verb.possession	
+3-5	sin	O	
+3-6	"	O	
+3-7	Diana	B-noun.communication	
+3-8	-	I-noun.communication	
+3-9	Her	I-noun.communication	
+3-10	True	I-noun.communication	
+3-11	Story	I-noun.communication	
+3-12	"	O	
+3-13	på	B-verb.COLL	
+3-14	gaden	B-verb.COLL	
+3-15	tre	O	
+3-16	måneder	B-noun.time	
+3-17	senere	O	
+3-18	,	O	
+3-19	fik	B-verb.phenomenon	
+3-20	tonen	B-noun.phenomenon	
+3-21	pludselig	O	
+3-22	en	O	
+3-23	anden	O	
+3-24	lyd	B-noun.phenomenon	
+3-25	.	O	
+
+#id=4
+#text=Iden bog udtalte navngivne såvel som anonyme venner sig om Charles og fik ham til at fremstå som en slem tåbe , som Diana var led og ked af , og så var det Buckingham-mafiaen gik til modangreb , " siger en nær ven af både prins Charles og Diana til B.T. .
+4-1	I	O	
+4-2	den	O	
+4-3	bog	B-noun.communication	
+4-4	udtalte	B-verb.communication	
+4-5	navngivne	B-adj.all	
+4-6	såvel	O	
+4-7	som	O	
+4-8	anonyme	B-adj.all	
+4-9	venner	B-noun.person	
+4-10	sig	O	
+4-11	om	O	
+4-12	Charles	B-noun.person	
+4-13	og	O	
+4-14	fik	B-verb.act	
+4-15	ham	O	
+4-16	til	B-verb.PARTICLE	
+4-17	at	O	
+4-18	fremstå	B-verb.phenomenon	
+4-19	som	O	
+4-20	en	O	
+4-21	slem	B-adj.all	
+4-22	tåbe	B-noun.person	
+4-23	,	O	
+4-24	som	O	
+4-25	Diana	B-noun.person	
+4-26	var	B-verb.stative	
+4-27	led	B-adj.mental	
+4-28	og	O	
+4-29	ked	B-adj.mental	
+4-30	af	O	
+4-31	,	O	
+4-32	og	O	
+4-33	så	O	
+4-34	var	B-verb.stative	
+4-35	det	O	
+4-36	Buckingham-mafiaen	B-noun.person	
+4-37	gik	B-verb.act	
+4-38	til	O	
+4-39	modangreb	B-noun.act	
+4-40	,	O	
+4-41	"	O	
+4-42	siger	B-verb.communication	
+4-43	en	O	
+4-44	nær	B-adj.mental	
+4-45	ven	B-noun.person	
+4-46	af	O	
+4-47	både	O	
+4-48	prins	B-noun.person	
+4-49	Charles	I-noun.person	
+4-50	og	O	
+4-51	Diana	B-noun.person	
+4-52	til	O	
+4-53	B.T.	B-noun.person	
+4-54	.	O	
+
+#id=5
+#text=PERSONLIGEBREVE STJÅLET
+5-1	PERSONLIGE	B-adj.all	
+5-2	BREVE	B-noun.communication	
+5-3	STJÅLET	B-verb.act	
+
+#id=6
+#text=Nye" afsløringer " omkring Dianas mere-end-venskab med en anden af husets venner , Major Hewitt , er nyeste " hit " .
+6-1	Nye	B-adj.time	
+6-2	"	O	
+6-3	afsløringer	B-noun.communication	
+6-4	"	O	
+6-5	omkring	O	
+6-6	Dianas	B-noun.person	
+6-7	mere-end-venskab	B-noun.relation	
+6-8	med	O	
+6-9	en	O	
+6-10	anden	O	
+6-11	af	O	
+6-12	husets	B-noun.person	
+6-13	venner	B-noun.person	
+6-14	,	O	
+6-15	Major	B-noun.person	
+6-16	Hewitt	I-noun.person	
+6-17	,	O	
+6-18	er	O	
+6-19	nyeste	B-adj.time	
+6-20	"	O	
+6-21	hit	B-noun.abstract	
+6-22	"	O	
+6-23	.	O	
+
+#id=7
+#text=MajorHewitt og Diana kender hinanden godt , bl.a. fordi han har spillet med på prins Charles polo-hold , og da han blev sendt ned til Golf-krigen , lovede både prins Charles og Diana at skrive til ham .
+7-1	Major	B-noun.person	
+7-2	Hewitt	I-noun.person	
+7-3	og	O	
+7-4	Diana	B-noun.person	
+7-5	kender	B-verb.cognition	
+7-6	hinanden	O	
+7-7	godt	O	
+7-8	,	O	
+7-9	bl.a.	O	
+7-10	fordi	O	
+7-11	han	O	
+7-12	har	O	
+7-13	spillet	B-verb.act	
+7-14	med	O	
+7-15	på	O	
+7-16	prins	B-noun.person	
+7-17	Charles	I-noun.person	
+7-18	polo-hold	B-noun.person	
+7-19	,	O	
+7-20	og	O	
+7-21	da	O	
+7-22	han	O	
+7-23	blev	O	
+7-24	sendt	B-verb.motion	
+7-25	ned	O	
+7-26	til	O	
+7-27	Golf-krigen	B-noun.location	
+7-28	,	O	
+7-29	lovede	B-verb.communication	
+7-30	både	O	
+7-31	prins	B-noun.person	
+7-32	Charles	I-noun.person	
+7-33	og	O	
+7-34	Diana	B-noun.person	
+7-35	at	O	
+7-36	skrive	B-verb.communication	
+7-37	til	O	
+7-38	ham	O	
+7-39	.	O	
+

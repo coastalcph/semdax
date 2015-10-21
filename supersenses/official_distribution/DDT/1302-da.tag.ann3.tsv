@@ -1,0 +1,222 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text="Vi ses  i Helvede ! " svarede han hende og tog op på skolen for at tale med hende .
+1-1	"	O	
+1-2	Vi	O	
+1-3	ses	B-verb.social	
+1-4	i	O	
+1-5	Helvede	B-noun.location	
+1-6	!	O	
+1-7	"	O	
+1-8	svarede	B-verb.communication	
+1-9	han	O	
+1-10	hende	O	
+1-11	og	O	
+1-12	tog	B-verb.motion	
+1-13	op	B-verb.PARTICLE	
+1-14	på	O	
+1-15	skolen	B-noun.building	
+1-16	for	O	
+1-17	at	O	
+1-18	tale	B-verb.communication	
+1-19	med	O	
+1-20	hende	O	
+1-21	.	O	
+
+#id=2
+#text=Forindendrak han 10-15 øl og en kvart flaske Gammel Dansk .
+2-1	Forinden	O	
+2-2	drak	B-verb.consumption	
+2-3	han	O	
+2-4	10-15	O	
+2-5	øl	B-noun.food	
+2-6	og	O	
+2-7	en	O	
+2-8	kvart	B-noun.quantity	
+2-9	flaske	B-noun.container	
+2-10	Gammel	B-noun.food	
+2-11	Dansk	I-noun.food	
+2-12	.	O	
+
+#id=3
+#text=Kortefter at de var blevet alene på hendes værelse  kom de op at skændes .
+3-1	Kort	O	
+3-2	efter	O	
+3-3	at	O	
+3-4	de	O	
+3-5	var	O	
+3-6	blevet	B-verb.stative	
+3-7	alene	B-adj.all	
+3-8	på	O	
+3-9	hendes	O	
+3-10	værelse	B-noun.building	
+3-11	kom	B-verb.communication	
+3-12	de	O	
+3-13	op	B-verb.COLL	
+3-14	at	B-verb.COLL	
+3-15	skændes	B-verb.COLL	
+3-16	.	O	
+
+#id=4
+#text=DanM. greb en brødkniv på bordet .
+4-1	Dan	O	
+4-2	M.	O	
+4-3	greb	B-verb.act	
+4-4	en	O	
+4-5	brødkniv	B-noun.artifact	
+4-6	på	O	
+4-7	bordet	B-noun.artifact	
+4-8	.	O	
+
+#id=5
+#text=Dahun bad ham om at  lægge kniven , sagde han , at han aldrig kunne finde på at gøre hende noget .
+5-1	Da	O	
+5-2	hun	O	
+5-3	bad	B-verb.communication	
+5-4	ham	O	
+5-5	om	O	
+5-6	at	O	
+5-7	lægge	B-verb.act	
+5-8	kniven	B-noun.artifact	
+5-9	,	O	
+5-10	sagde	B-verb.communication	
+5-11	han	O	
+5-12	,	O	
+5-13	at	O	
+5-14	han	O	
+5-15	aldrig	O	
+5-16	kunne	O	
+5-17	finde	B-verb.cognition	
+5-18	på	B-verb.PARTICLE	
+5-19	at	O	
+5-20	gøre	B-verb.act	
+5-21	hende	O	
+5-22	noget	B-verb.COLL	
+5-23	.	O	
+
+#id=6
+#text=Menda hun alligevel forsøgte at tage kniven fra ham , slog det klik for ham .
+6-1	Men	O	
+6-2	da	O	
+6-3	hun	O	
+6-4	alligevel	O	
+6-5	forsøgte	B-verb.act	
+6-6	at	O	
+6-7	tage	B-verb.possession	
+6-8	kniven	B-noun.artifact	
+6-9	fra	O	
+6-10	ham	O	
+6-11	,	O	
+6-12	slog	B-verb.phenomenon	
+6-13	det	B-verb.COLL	
+6-14	klik	B-verb.COLL	
+6-15	for	O	
+6-16	ham	O	
+6-17	.	O	
+
+#id=7
+#text=KNIVENBRÆKKEDE
+7-1	KNIVEN	B-noun.artifact	
+7-2	BRÆKKEDE	B-verb.change	
+
+#id=8
+#text="I_aften er der tre , der dør , " sagde han og gik amok med kniven , der brækkede under de mange  hårde hug .
+8-1	"	O	
+8-2	I_aften	O	
+8-3	er	B-verb.stative	
+8-4	der	O	
+8-5	tre	O	
+8-6	,	O	
+8-7	der	O	
+8-8	dør	B-verb.phenomenon	
+8-9	,	O	
+8-10	"	O	
+8-11	sagde	B-verb.communication	
+8-12	han	O	
+8-13	og	O	
+8-14	gik	B-verb.change	
+8-15	amok	B-verb.COLL	
+8-16	med	O	
+8-17	kniven	B-noun.artifact	
+8-18	,	O	
+8-19	der	O	
+8-20	brækkede	B-verb.change	
+8-21	under	O	
+8-22	de	O	
+8-23	mange	O	
+8-24	hårde	B-adj.phys	
+8-25	hug	B-noun.act	
+8-26	.	O	
+
+#id=9
+#text="Jeg ville skræmme hende , " forklarede den 19-årige i grundlovsforhøret .
+9-1	"	O	
+9-2	Jeg	O	
+9-3	ville	O	
+9-4	skræmme	B-verb.act	
+9-5	hende	O	
+9-6	,	O	
+9-7	"	O	
+9-8	forklarede	B-verb.communication	
+9-9	den	O	
+9-10	19-årige	B-adj.phys	
+9-11	i	O	
+9-12	grundlovsforhøret	B-noun.act	
+9-13	.	O	
+
+#id=10
+#text=Menpolitiet er ikke i tvivl om , at det var et drabsforsøg .
+10-1	Men	O	
+10-2	politiet	B-noun.institution	
+10-3	er	B-verb.stative	
+10-4	ikke	O	
+10-5	i	O	
+10-6	tvivl	B-noun.cognition	
+10-7	om	O	
+10-8	,	O	
+10-9	at	O	
+10-10	det	O	
+10-11	var	B-verb.stative	
+10-12	et	O	
+10-13	drabsforsøg	B-noun.act	
+10-14	.	O	
+
+#id=11
+#text=Igenog igen huggede og skar den unge mand i sin kæreste .
+11-1	Igen	O	
+11-2	og	O	
+11-3	igen	O	
+11-4	huggede	B-verb.act	
+11-5	og	O	
+11-6	skar	B-verb.act	
+11-7	den	O	
+11-8	unge	B-adj.phys	
+11-9	mand	B-noun.person	
+11-10	i	O	
+11-11	sin	O	
+11-12	kæreste	B-noun.person	
+11-13	.	O	
+
+#id=12
+#text="Det var et rent tilfælde , at han ikke slog hende ihjel , " mener kriminalinspektør Chr. Petersen .
+12-1	"	O	
+12-2	Det	O	
+12-3	var	B-verb.stative	
+12-4	et	O	
+12-5	rent	B-adj.all	
+12-6	tilfælde	B-noun.state	
+12-7	,	O	
+12-8	at	O	
+12-9	han	O	
+12-10	ikke	O	
+12-11	slog	B-verb.act	
+12-12	hende	O	
+12-13	ihjel	B-verb.PARTICLE	
+12-14	,	O	
+12-15	"	O	
+12-16	mener	B-verb.cognition	
+12-17	kriminalinspektør	B-noun.person	
+12-18	Chr.	B-noun.person	
+12-19	Petersen	I-noun.person	
+12-20	.	O	
+

@@ -1,0 +1,228 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text="Den går lige præcis der , hvor politiske dispositioner træffes af private årsager , " mener Tage Kaarsted .
+1-1	"	O	
+1-2	Den	O	
+1-3	går	B-verb.stative	
+1-4	lige	O	
+1-5	præcis	O	
+1-6	der	O	
+1-7	,	O	
+1-8	hvor	O	
+1-9	politiske	B-adj.social	
+1-10	dispositioner	B-noun.communication	
+1-11	træffes	B-verb.cognition	
+1-12	af	O	
+1-13	private	B-adj.social	
+1-14	årsager	B-noun.motive	
+1-15	,	O	
+1-16	"	O	
+1-17	mener	B-verb.emotion	
+1-18	Tage	B-noun.person	
+1-19	Kaarsted	I-noun.person	
+1-20	.	O	
+
+#id=2
+#text="Så løftes det private ud af privatlivets fred .
+2-1	"	O	
+2-2	Så	O	
+2-3	løftes	B-verb.motion	
+2-4	det	O	
+2-5	private	B-adj.social	
+2-6	ud	O	
+2-7	af	O	
+2-8	privatlivets	B-noun.phenomenon	
+2-9	fred	B-noun.attribute	
+2-10	.	O	
+
+#id=3
+#text=Hvisen statsminister er maniodepressiv ( det var Viggo Kampmann ) , har det historisk relevans , fordi man gå ud fra , at en mand , der lider af en alvorlig sindssygdom , ikke i alle situationer er forretningsduelig .
+3-1	Hvis	O	
+3-2	en	O	
+3-3	statsminister	B-noun.person	
+3-4	er	B-verb.stative	
+3-5	maniodepressiv	B-adj.mental	
+3-6	(	O	
+3-7	det	O	
+3-8	var	B-verb.stative	
+3-9	Viggo	B-noun.person	
+3-10	Kampmann	I-noun.person	
+3-11	)	O	
+3-12	,	O	
+3-13	har	B-verb.stative	
+3-14	det	O	
+3-15	historisk	B-adj.social	
+3-16	relevans	B-noun.cognition	
+3-17	,	O	
+3-18	fordi	O	
+3-19	man	O	
+3-20	gå	B-verb.cognition	
+3-21	ud	B-verb.COLL	
+3-22	fra	B-verb.COLL	
+3-23	,	O	
+3-24	at	O	
+3-25	en	O	
+3-26	mand	B-noun.person	
+3-27	,	O	
+3-28	der	O	
+3-29	lider	B-verb.phenomenon	
+3-30	af	O	
+3-31	en	O	
+3-32	alvorlig	B-adj.all	
+3-33	sindssygdom	B-noun.disease	
+3-34	,	O	
+3-35	ikke	O	
+3-36	i	O	
+3-37	alle	O	
+3-38	situationer	B-noun.abstract	
+3-39	er	B-verb.stative	
+3-40	forretningsduelig	B-adj.mental	
+3-41	.	O	
+
+#id=4
+#text=Mendet skal dokumenteres , at det har spillet en rolle .
+4-1	Men	O	
+4-2	det	O	
+4-3	skal	O	
+4-4	dokumenteres	B-verb.communication	
+4-5	,	O	
+4-6	at	O	
+4-7	det	O	
+4-8	har	O	
+4-9	spillet	B-verb.phenomenon	
+4-10	en	B-verb.COLL	
+4-11	rolle	B-verb.COLL	
+4-12	.	O	
+
+#id=5
+#text=Deter forskellen på journalistik og samtidshistorie . "
+5-1	Det	O	
+5-2	er	B-verb.stative	
+5-3	forskellen	B-noun.abstract	
+5-4	på	O	
+5-5	journalistik	B-noun.domain	
+5-6	og	O	
+5-7	samtidshistorie	B-noun.domain	
+5-8	.	O	
+5-9	"	O	
+
+#id=6
+#text=Kampmannvar maniodepressiv
+6-1	Kampmann	B-noun.person	
+6-2	var	B-verb.stative	
+6-3	maniodepressiv	B-adj.mental	
+
+#id=7
+#text=Historikeren, lektor dr.phil. Henrik S. Nissen , der selv har gjort en hæderkronet indsats for at aflive vrøvl og myter i besættelsestidshistorien , f.eks. Rostock-myten , siger rent ud , at " folk , der tager et offentligt embede , må finde sig i , at deres handlinger bliver beskrevet .
+7-1	Historikeren	B-noun.person	
+7-2	,	O	
+7-3	lektor	B-noun.person	
+7-4	dr.phil.	B-noun.person	
+7-5	Henrik	I-noun.person	
+7-6	S.	I-noun.person	
+7-7	Nissen	I-noun.person	
+7-8	,	O	
+7-9	der	O	
+7-10	selv	O	
+7-11	har	O	
+7-12	gjort	B-verb.act	
+7-13	en	O	
+7-14	hæderkronet	B-adj.social	
+7-15	indsats	B-noun.act	
+7-16	for	O	
+7-17	at	O	
+7-18	aflive	B-verb.change	
+7-19	vrøvl	B-noun.communication	
+7-20	og	O	
+7-21	myter	B-noun.communication	
+7-22	i	O	
+7-23	besættelsestidshistorien	B-noun.time	
+7-24	,	O	
+7-25	f.eks.	O	
+7-26	Rostock-myten	B-noun.communication	
+7-27	,	O	
+7-28	siger	B-verb.communication	
+7-29	rent	O	
+7-30	ud	O	
+7-31	,	O	
+7-32	at	O	
+7-33	"	O	
+7-34	folk	B-noun.person	
+7-35	,	O	
+7-36	der	O	
+7-37	tager	B-verb.act	
+7-38	et	O	
+7-39	offentligt	B-adj.social	
+7-40	embede	B-noun.act	
+7-41	,	O	
+7-42	må	O	
+7-43	finde	B-verb.cognition	
+7-44	sig	B-verb.REFLPRON	
+7-45	i	B-verb.COLL	
+7-46	,	O	
+7-47	at	O	
+7-48	deres	O	
+7-49	handlinger	B-noun.act	
+7-50	bliver	O	
+7-51	beskrevet	B-verb.communication	
+7-52	.	O	
+
+#id=8
+#text=IHækkerup-sagen sidder man med spørgsmålet : Hvorfor i alverden blev de streger slået sådan ?
+8-1	I	O	
+8-2	Hækkerup-sagen	B-noun.abstract	
+8-3	sidder	B-verb.stative	
+8-4	man	O	
+8-5	med	O	
+8-6	spørgsmålet	B-noun.communication	
+8-7	:	O	
+8-8	Hvorfor	O	
+8-9	i	O	
+8-10	alverden	O	
+8-11	blev	O	
+8-12	de	O	
+8-13	streger	B-noun.shape	
+8-14	slået	B-verb.creation	
+8-15	sådan	O	
+8-16	?	O	
+
+#id=9
+#text=Blevde det , fordi ministeren ikke var ædru , så kan man ikke gå forbi det .
+9-1	Blev	B-verb.stative	
+9-2	de	O	
+9-3	det	O	
+9-4	,	O	
+9-5	fordi	O	
+9-6	ministeren	B-noun.person	
+9-7	ikke	O	
+9-8	var	B-verb.stative	
+9-9	ædru	B-adj.all	
+9-10	,	O	
+9-11	så	O	
+9-12	kan	O	
+9-13	man	O	
+9-14	ikke	O	
+9-15	gå	B-verb.act	
+9-16	forbi	O	
+9-17	det	O	
+9-18	.	O	
+
+#id=10
+#text=Grænsenligger der , hvor man efterspørger en forklaring , der ellers ikke kan gives .
+10-1	Grænsen	B-noun.abstract	
+10-2	ligger	B-verb.stative	
+10-3	der	O	
+10-4	,	O	
+10-5	hvor	O	
+10-6	man	O	
+10-7	efterspørger	B-verb.cognition	
+10-8	en	O	
+10-9	forklaring	B-noun.communication	
+10-10	,	O	
+10-11	der	O	
+10-12	ellers	O	
+10-13	ikke	O	
+10-14	kan	O	
+10-15	gives	B-verb.communication	
+10-16	.	O	
+

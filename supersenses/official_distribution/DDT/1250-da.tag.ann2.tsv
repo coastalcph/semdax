@@ -1,0 +1,234 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Hvadlavede du før du begyndte at arbejde for en kontrakt ?
+1-1	Hvad	O	
+1-2	lavede	B-verb.act	
+1-3	du	O	
+1-4	før	O	
+1-5	du	O	
+1-6	begyndte	B-verb.aspectual	
+1-7	at	O	
+1-8	arbejde	B-verb.act	
+1-9	for	O	
+1-10	en	O	
+1-11	kontrakt	B-noun.communication	
+1-12	?	O	
+
+#id=2
+#text="Da arbejdede jeg med kvalitetssikring på en printplade-virksomhed .
+2-1	"	O	
+2-2	Da	O	
+2-3	arbejdede	B-verb.act	
+2-4	jeg	O	
+2-5	med	O	
+2-6	kvalitetssikring	B-noun.act	
+2-7	på	O	
+2-8	en	O	
+2-9	printplade-virksomhed	B-noun.institution	
+2-10	.	O	
+
+#id=3
+#text=Mendet tog for meget af min tid . "
+3-1	Men	O	
+3-2	det	O	
+3-3	tog	B-verb.phenomenon	
+3-4	for	O	
+3-5	meget	O	
+3-6	af	O	
+3-7	min	O	
+3-8	tid	B-noun.time	
+3-9	.	O	
+3-10	"	O	
+
+#id=4
+#text=Også sagde du op ?
+4-1	Og	O	
+4-2	så	O	
+4-3	sagde	B-verb.communication	
+4-4	du	O	
+4-5	op	B-verb.PARTICLE	
+4-6	?	O	
+
+#id=5
+#text="Nej , det vil jeg ikke sige .
+5-1	"	O	
+5-2	Nej	O	
+5-3	,	O	
+5-4	det	O	
+5-5	vil	O	
+5-6	jeg	O	
+5-7	ikke	O	
+5-8	sige	B-verb.cognition	
+5-9	.	O	
+
+#id=6
+#text=Detsiger de altid .
+6-1	Det	O	
+6-2	siger	B-verb.communication	
+6-3	de	O	
+6-4	altid	O	
+6-5	.	O	
+
+#id=7
+#text=Jegtog en beslutning om at prøve at se , om  der var plads til mig i musikbranchen .
+7-1	Jeg	O	
+7-2	tog	B-verb.cognition	
+7-3	en	O	
+7-4	beslutning	B-noun.cognition	
+7-5	om	O	
+7-6	at	O	
+7-7	prøve	B-verb.act	
+7-8	at	O	
+7-9	se	B-verb.cognition	
+7-10	,	O	
+7-11	om	O	
+7-12	der	O	
+7-13	var	O	
+7-14	plads	B-noun.abstract	
+7-15	til	O	
+7-16	mig	O	
+7-17	i	O	
+7-18	musikbranchen	B-noun.institution	
+7-19	.	O	
+
+#id=8
+#text="Svage spor af smerte
+8-1	"	O	
+8-2	Svage	B-adj.all	
+8-3	spor	B-noun.phenomenon	
+8-4	af	O	
+8-5	smerte	B-noun.feeling	
+
+#id=9
+#text=Faktisker Ester Brohus ikke helt ukendt .
+9-1	Faktisk	O	
+9-2	er	B-verb.stative	
+9-3	Ester	B-noun.person	
+9-4	Brohus	I-noun.person	
+9-5	ikke	O	
+9-6	helt	O	
+9-7	ukendt	B-adj.social	
+9-8	.	O	
+
+#id=10
+#text=Mangedanskere har for længst hørt hende synge .
+10-1	Mange	O	
+10-2	danskere	B-noun.person	
+10-3	har	O	
+10-4	for	O	
+10-5	længst	O	
+10-6	hørt	B-verb.perception	
+10-7	hende	O	
+10-8	synge	B-verb.communication	
+10-9	.	O	
+
+#id=11
+#text=Frahun var 12 år til hun blev 25 tog hun rundt i hele landet sammen med to søstre , en bror og forældrene .
+11-1	Fra	O	
+11-2	hun	O	
+11-3	var	B-verb.stative	
+11-4	12	O	
+11-5	år	B-noun.time	
+11-6	til	O	
+11-7	hun	O	
+11-8	blev	B-verb.stative	
+11-9	25	O	
+11-10	tog	B-verb.motion	
+11-11	hun	O	
+11-12	rundt	O	
+11-13	i	O	
+11-14	hele	B-adj.phys	
+11-15	landet	B-noun.location	
+11-16	sammen	O	
+11-17	med	O	
+11-18	to	O	
+11-19	søstre	B-noun.person	
+11-20	,	O	
+11-21	en	O	
+11-22	bror	B-noun.person	
+11-23	og	O	
+11-24	forældrene	B-noun.person	
+11-25	.	O	
+
+#id=12
+#text=Familienbrugte weekend'er og ferier på at spille og synge kristne gospel-sange ved byfester , i fængsler og forsamlingshuse , fortæller hun .
+12-1	Familien	B-noun.person	
+12-2	brugte	B-verb.act	
+12-3	weekend'er	B-noun.time	
+12-4	og	O	
+12-5	ferier	B-noun.time	
+12-6	på	O	
+12-7	at	O	
+12-8	spille	B-verb.act	
+12-9	og	O	
+12-10	synge	B-verb.communication	
+12-11	kristne	B-adj.social	
+12-12	gospel-sange	B-noun.communication	
+12-13	ved	O	
+12-14	byfester	B-noun.event	
+12-15	,	O	
+12-16	i	O	
+12-17	fængsler	B-noun.building	
+12-18	og	O	
+12-19	forsamlingshuse	B-noun.building	
+12-20	,	O	
+12-21	fortæller	B-verb.communication	
+12-22	hun	O	
+12-23	.	O	
+
+#id=13
+#text="Mange syntes , det var underligt , at jeg blev ved med at tage rundt med min familie til  jeg blev 25 år .
+13-1	"	O	
+13-2	Mange	O	
+13-3	syntes	B-verb.emotion	
+13-4	,	O	
+13-5	det	O	
+13-6	var	B-verb.stative	
+13-7	underligt	B-adj.all	
+13-8	,	O	
+13-9	at	O	
+13-10	jeg	O	
+13-11	blev	B-verb.aspectual	
+13-12	ved	B-verb.PARTICLE	
+13-13	med	O	
+13-14	at	O	
+13-15	tage	B-verb.motion	
+13-16	rundt	O	
+13-17	med	O	
+13-18	min	O	
+13-19	familie	B-noun.person	
+13-20	til	O	
+13-21	jeg	O	
+13-22	blev	B-verb.stative	
+13-23	25	O	
+13-24	år	B-noun.time	
+13-25	.	O	
+
+#id=14
+#text=Menvi er stærkt knyttet til hinanden .
+14-1	Men	O	
+14-2	vi	O	
+14-3	er	B-verb.stative	
+14-4	stærkt	O	
+14-5	knyttet	B-adj.social	
+14-6	til	O	
+14-7	hinanden	O	
+14-8	.	O	
+
+#id=15
+#text=Minmand og jeg bor stadig lige  i nærheden af mine forældre . "
+15-1	Min	O	
+15-2	mand	B-noun.person	
+15-3	og	O	
+15-4	jeg	O	
+15-5	bor	B-verb.stative	
+15-6	stadig	O	
+15-7	lige	O	
+15-8	i	O	
+15-9	nærheden	B-noun.phenomenon	
+15-10	af	O	
+15-11	mine	O	
+15-12	forældre	B-noun.person	
+15-13	.	O	
+15-14	"	O	
+

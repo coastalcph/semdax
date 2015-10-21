@@ -1,0 +1,206 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text="Da vi begyndte indspilningen af " Chicism " , havde vi egentlig tænkt os , at vi ville bruge hip_hop-genren som udgangspunkt , men vi fandt hurtigt ud af , at vi er bedre til at spille musik med rigtig instrumentering , fremfor at bruge tonsvis af trommemaskiner og computer-sampling .
+1-1	"	O	
+1-2	Da	O	
+1-3	vi	O	
+1-4	begyndte	B-verb.aspectual	
+1-5	indspilningen	B-noun.act	
+1-6	af	O	
+1-7	"	O	
+1-8	Chicism	B-noun.communication	
+1-9	"	O	
+1-10	,	O	
+1-11	havde	O	
+1-12	vi	O	
+1-13	egentlig	O	
+1-14	tænkt	B-verb.cognition	
+1-15	os	O	
+1-16	,	O	
+1-17	at	O	
+1-18	vi	O	
+1-19	ville	O	
+1-20	bruge	B-verb.act	
+1-21	hip_hop-genren	B-noun.domain	
+1-22	som	O	
+1-23	udgangspunkt	B-noun.abstract	
+1-24	,	O	
+1-25	men	O	
+1-26	vi	O	
+1-27	fandt	B-verb.cognition	
+1-28	hurtigt	O	
+1-29	ud	B-verb.COLL	
+1-30	af	B-verb.COLL	
+1-31	,	O	
+1-32	at	O	
+1-33	vi	O	
+1-34	er	B-verb.stative	
+1-35	bedre	B-adj.all	
+1-36	til	O	
+1-37	at	O	
+1-38	spille	B-verb.act	
+1-39	musik	B-noun.domain	
+1-40	med	O	
+1-41	rigtig	B-adj.phys	
+1-42	instrumentering	B-noun.act	
+1-43	,	O	
+1-44	fremfor	O	
+1-45	at	O	
+1-46	bruge	B-verb.act	
+1-47	tonsvis	B-noun.quantity	
+1-48	af	O	
+1-49	trommemaskiner	B-noun.artifact	
+1-50	og	O	
+1-51	computer-sampling	B-noun.act	
+1-52	.	O	
+
+#id=2
+#text=Detlød bare ikke som Chic .
+2-1	Det	O	
+2-2	lød	B-verb.perception	
+2-3	bare	O	
+2-4	ikke	O	
+2-5	som	O	
+2-6	Chic	B-noun.communication	
+2-7	.	O	
+
+#id=3
+#text=Såmed fare for at blive beskyldt for at være retro og gammeldags holdt vi os til vores koncept , som er fun-music , musik der kan danses til , " siger Nile Rodgers .
+3-1	Så	O	
+3-2	med	O	
+3-3	fare	B-noun.phenomenon	
+3-4	for	O	
+3-5	at	O	
+3-6	blive	O	
+3-7	beskyldt	B-verb.communication	
+3-8	for	O	
+3-9	at	O	
+3-10	være	B-verb.stative	
+3-11	retro	B-adj.all	
+3-12	og	O	
+3-13	gammeldags	B-adj.all	
+3-14	holdt	B-verb.act	
+3-15	vi	O	
+3-16	os	O	
+3-17	til	O	
+3-18	vores	O	
+3-19	koncept	B-noun.abstract	
+3-20	,	O	
+3-21	som	O	
+3-22	er	B-verb.stative	
+3-23	fun-music	B-noun.domain	
+3-24	,	O	
+3-25	musik	B-noun.domain	
+3-26	der	O	
+3-27	kan	O	
+3-28	danses	B-verb.act	
+3-29	til	O	
+3-30	,	O	
+3-31	"	O	
+3-32	siger	B-verb.communication	
+3-33	Nile	B-noun.person	
+3-34	Rodgers	I-noun.person	
+3-35	.	O	
+
+#id=4
+#text=MÆRKESUSET
+4-1	MÆRKE	B-verb.perception	
+4-2	SUSET	B-noun.phenomenon	
+
+#id=5
+#text="Vi behøver ikke længere sælge 10 mill. albums , og sidde og studere charts og hitlister med angsten for at falde igennem .
+5-1	"	O	
+5-2	Vi	O	
+5-3	behøver	B-verb.phenomenon	
+5-4	ikke	O	
+5-5	længere	O	
+5-6	sælge	B-verb.possession	
+5-7	10	O	
+5-8	mill.	O	
+5-9	albums	B-noun.artifact	
+5-10	,	O	
+5-11	og	O	
+5-12	sidde	B-verb.act	
+5-13	og	O	
+5-14	studere	B-verb.cognition	
+5-15	charts	B-noun.communication	
+5-16	og	O	
+5-17	hitlister	B-noun.communication	
+5-18	med	O	
+5-19	angsten	B-noun.feeling	
+5-20	for	O	
+5-21	at	O	
+5-22	falde	B-verb.phenomenon	
+5-23	igennem	O	
+5-24	.	O	
+
+#id=6
+#text=Vi har lavet " Chicism " , fordi vi gerne vil ud og turnere , stå på scenen og mærke det der sus .
+6-1	Vi	O	
+6-2	har	O	
+6-3	lavet	B-verb.creation	
+6-4	"	O	
+6-5	Chicism	B-noun.communication	
+6-6	"	O	
+6-7	,	O	
+6-8	fordi	O	
+6-9	vi	O	
+6-10	gerne	O	
+6-11	vil	B-verb.cognition	
+6-12	ud	B-verb.PARTICLE	
+6-13	og	O	
+6-14	turnere	B-verb.act	
+6-15	,	O	
+6-16	stå	B-verb.stative	
+6-17	på	O	
+6-18	scenen	B-noun.building	
+6-19	og	O	
+6-20	mærke	B-verb.perception	
+6-21	det	O	
+6-22	der	O	
+6-23	sus	B-noun.feeling	
+6-24	.	O	
+
+#id=7
+#text=Påen måde er vi vendt helt tilbage til vores udgangspunkt med det ny album , der skriger efter at blive trykket af live - så forhåbentlig kommer vi tilbage til Danmark til sommer , " siger Bernhard Edwards .
+7-1	På	O	
+7-2	en	O	
+7-3	måde	B-noun.abstract	
+7-4	er	O	
+7-5	vi	O	
+7-6	vendt	B-verb.act	
+7-7	helt	O	
+7-8	tilbage	B-verb.COLL	
+7-9	til	O	
+7-10	vores	O	
+7-11	udgangspunkt	B-noun.abstract	
+7-12	med	O	
+7-13	det	O	
+7-14	ny	B-adj.time	
+7-15	album	B-noun.artifact	
+7-16	,	O	
+7-17	der	O	
+7-18	skriger	B-verb.communication	
+7-19	efter	O	
+7-20	at	O	
+7-21	blive	O	
+7-22	trykket	B-verb.act	
+7-23	af	B-verb.PARTICLE	
+7-24	live	O	
+7-25	-	O	
+7-26	så	O	
+7-27	forhåbentlig	O	
+7-28	kommer	B-verb.motion	
+7-29	vi	O	
+7-30	tilbage	O	
+7-31	til	O	
+7-32	Danmark	B-noun.location	
+7-33	til	O	
+7-34	sommer	B-noun.time	
+7-35	,	O	
+7-36	"	O	
+7-37	siger	B-verb.communication	
+7-38	Bernhard	B-noun.person	
+7-39	Edwards	I-noun.person	
+7-40	.	O	
+

@@ -1,0 +1,234 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Ifølgeen gammel aftale indgået mellem Nordjyllands Amt og Bedemændenes Landsforenings nordjyske kreds har portørerne nemlig haft lov til at afkræve bedemændene et beløb på 70 kr. pr. lig , som de hjalp med at løfte op i kisten .
+1-1	Ifølge	O	
+1-2	en	O	
+1-3	gammel	B-adj.time	
+1-4	aftale	B-noun.abstract	
+1-5	indgået	B-verb.act	
+1-6	mellem	O	
+1-7	Nordjyllands	B-noun.institution	
+1-8	Amt	I-noun.institution	
+1-9	og	O	
+1-10	Bedemændenes	B-noun.institution	
+1-11	Landsforenings	I-noun.institution	
+1-12	nordjyske	I-noun.institution	
+1-13	kreds	I-noun.institution	
+1-14	har	O	
+1-15	portørerne	B-noun.person	
+1-16	nemlig	O	
+1-17	haft	B-verb.possession	
+1-18	lov	B-noun.abstract	
+1-19	til	O	
+1-20	at	O	
+1-21	afkræve	B-verb.communication	
+1-22	bedemændene	B-noun.person	
+1-23	et	O	
+1-24	beløb	B-noun.possession	
+1-25	på	O	
+1-26	70	O	
+1-27	kr.	O	
+1-28	pr.	O	
+1-29	lig	B-noun.object	
+1-30	,	O	
+1-31	som	O	
+1-32	de	O	
+1-33	hjalp	B-verb.act	
+1-34	med	O	
+1-35	at	O	
+1-36	løfte	B-verb.motion	
+1-37	op	B-verb.PARTICLE	
+1-38	i	O	
+1-39	kisten	B-noun.container	
+1-40	.	O	
+
+#id=2
+#text=Somleder af sygehusets portørgruppe har ingen kunnet anfægte overportørens ret til sætte sig selv på fast vagt i kapellet .
+2-1	Som	O	
+2-2	leder	B-noun.person	
+2-3	af	O	
+2-4	sygehusets	B-noun.building	
+2-5	portørgruppe	B-noun.person	
+2-6	har	O	
+2-7	ingen	O	
+2-8	kunnet	O	
+2-9	anfægte	B-verb.communication	
+2-10	overportørens	B-noun.person	
+2-11	ret	B-noun.abstract	
+2-12	til	O	
+2-13	sætte	B-verb.act	
+2-14	sig	O	
+2-15	selv	O	
+2-16	på	O	
+2-17	fast	B-adj.all	
+2-18	vagt	B-noun.time	
+2-19	i	O	
+2-20	kapellet	B-noun.building	
+2-21	.	O	
+
+#id=3
+#text=Medomkring 300 døde årligt på Hobro Sygehus er håndsrækningen til bedemændene blevet til en ekstra årsindtægt på rundt regnet 20.000 kr. .
+3-1	Med	O	
+3-2	omkring	O	
+3-3	300	O	
+3-4	døde	B-noun.person	
+3-5	årligt	B-adj.time	
+3-6	på	O	
+3-7	Hobro	B-noun.building	
+3-8	Sygehus	I-noun.building	
+3-9	er	O	
+3-10	håndsrækningen	B-noun.act	
+3-11	til	O	
+3-12	bedemændene	B-noun.person	
+3-13	blevet	B-verb.change	
+3-14	til	O	
+3-15	en	O	
+3-16	ekstra	B-adj.all	
+3-17	årsindtægt	B-noun.possession	
+3-18	på	O	
+3-19	rundt	O	
+3-20	regnet	B-verb.cognition	
+3-21	20.000	O	
+3-22	kr.	O	
+3-23	.	O	
+
+#id=4
+#text=IFÆLLESKASSE
+4-1	I	O	
+4-2	FÆLLESKASSE	B-noun.artifact	
+
+#id=5
+#text="De øvrige portører har ment , at pengene skulle være delt .
+5-1	"	O	
+5-2	De	O	
+5-3	øvrige	O	
+5-4	portører	B-noun.person	
+5-5	har	O	
+5-6	ment	B-verb.cognition	
+5-7	,	O	
+5-8	at	O	
+5-9	pengene	B-noun.artifact	
+5-10	skulle	O	
+5-11	være	O	
+5-12	delt	B-verb.change	
+5-13	.	O	
+
+#id=6
+#text=Endel er da også gået til portørernes fælles kaffekasse .
+6-1	En	O	
+6-2	del	B-noun.quantity	
+6-3	er	B-verb.stative	
+6-4	da	O	
+6-5	også	O	
+6-6	gået	B-verb.stative	
+6-7	til	O	
+6-8	portørernes	B-noun.person	
+6-9	fælles	B-adj.all	
+6-10	kaffekasse	B-noun.artifact	
+6-11	.	O	
+
+#id=7
+#text=Nogeter gået til skat .
+7-1	Noget	O	
+7-2	er	O	
+7-3	gået	B-verb.motion	
+7-4	til	O	
+7-5	skat	B-noun.abstract	
+7-6	.	O	
+
+#id=8
+#text=Tilbagehar der vel været mellem 3.000 og 5.000 kr. netto til overportøren selv , " siger sygehusdirektør Karl Gaub til B.T. .
+8-1	Tilbage	O	
+8-2	har	O	
+8-3	der	O	
+8-4	vel	O	
+8-5	været	B-verb.stative	
+8-6	mellem	O	
+8-7	3.000	O	
+8-8	og	O	
+8-9	5.000	O	
+8-10	kr.	O	
+8-11	netto	O	
+8-12	til	O	
+8-13	overportøren	B-noun.person	
+8-14	selv	O	
+8-15	,	O	
+8-16	"	O	
+8-17	siger	B-verb.communication	
+8-18	sygehusdirektør	B-noun.person	
+8-19	Karl	B-noun.person	
+8-20	Gaub	I-noun.person	
+8-21	til	O	
+8-22	B.T.	B-noun.communication	
+8-23	.	O	
+
+#id=9
+#text="Om der er tale om 3.000 kr. eller tre millioner er dog for så vidt ligegyldigt .
+9-1	"	O	
+9-2	Om	O	
+9-3	der	O	
+9-4	er	O	
+9-5	tale	B-verb.stative	
+9-6	om	O	
+9-7	3.000	O	
+9-8	kr.	O	
+9-9	eller	O	
+9-10	tre	O	
+9-11	millioner	B-noun.quantity	
+9-12	er	B-verb.stative	
+9-13	dog	O	
+9-14	for	O	
+9-15	så	O	
+9-16	vidt	O	
+9-17	ligegyldigt	B-adj.all	
+9-18	.	O	
+
+#id=10
+#text=Sagener , at der er noget uldent ved hele denne affære .
+10-1	Sagen	B-noun.abstract	
+10-2	er	B-verb.stative	
+10-3	,	O	
+10-4	at	O	
+10-5	der	O	
+10-6	er	B-verb.stative	
+10-7	noget	O	
+10-8	uldent	B-adj.mental	
+10-9	ved	O	
+10-10	hele	B-adj.phys	
+10-11	denne	O	
+10-12	affære	B-noun.state	
+10-13	.	O	
+
+#id=11
+#text=Ogjeg kan ikke leve med , at der rejses tvivl om en medarbejders hæderlighed .
+11-1	Og	O	
+11-2	jeg	O	
+11-3	kan	O	
+11-4	ikke	O	
+11-5	leve	B-verb.phenomenon	
+11-6	med	O	
+11-7	,	O	
+11-8	at	O	
+11-9	der	O	
+11-10	rejses	B-verb.act	
+11-11	tvivl	B-noun.cognition	
+11-12	om	O	
+11-13	en	O	
+11-14	medarbejders	B-noun.person	
+11-15	hæderlighed	B-noun.attribute	
+11-16	.	O	
+
+#id=12
+#text=Sletikke , når det er en medarbejder på mellemlederplan .
+12-1	Slet	O	
+12-2	ikke	O	
+12-3	,	O	
+12-4	når	O	
+12-5	det	O	
+12-6	er	B-verb.stative	
+12-7	en	O	
+12-8	medarbejder	B-noun.person	
+12-9	på	O	
+12-10	mellemlederplan	B-noun.relation	
+12-11	.	O	
+

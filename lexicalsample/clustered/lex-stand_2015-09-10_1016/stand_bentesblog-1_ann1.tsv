@@ -1,0 +1,121 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Lexicalsample | Tag
+#id=1
+#text=Nogle af de grusomste minder fra mit liv handler om at sidde og glo tomt på en blank  skærm uden at være i stand til at sætte fem ord fornuftigt sammen.
+1-1	Nogle	nogen	PI:p-u#:--:----	_	
+1-2	af	af	T-:----:--:----	_	
+1-3	de	den	PM:p-u#:--:----	_	
+1-4	grusomste	grusom	AC:p#u#:--:s---	_	
+1-5	minder	minde	NC:piu#:--:----	_	
+1-6	fra	fra	T-:----:--:----	_	
+1-7	mit	min	PO:s--n:--:-1ns	_	
+1-8	liv	liv	NC:siun:--:----	_	
+1-9	handler	handle	VF:----:sa:----	_	
+1-10	om	om	T-:----:--:----	_	
+1-11	at	at	UI:----:--:----	_	
+1-12	sidde	sidde	VI:----:-a:----	_	
+1-13	og	og	CC:----:--:----	_	
+1-14	glo	glo	VI:----:-a:----	_	
+1-15	tomt	tom	AD:----:--:p---	_	
+1-16	på	på	T-:----:--:----	_	
+1-17	en	en	PI:s-uc:--:----	_	
+1-18	blank	blank	AC:siuc:--:p---	_	
+1-19	skærm	skærm	NC:siuc:--:----	_	
+1-20	uden	uden	----:--:----	_	
+1-21	at	at	UI:----:--:----	_	
+1-22	være	være	VI:----:-a:----	_	
+1-23	i	i	T-:----:--:----	_	
+1-24	stand	stand	NC:siuc:--:----	stand_F_i-stand-til	
+1-25	til	til	T-:----:--:----	_	
+1-26	at	at	UI:----:--:----	_	
+1-27	sætte	sætte	VI:----:-a:----	_	
+1-28	fem	fem	LC:--u-:--:----	_	
+1-29	ord	ord	NC:piu#:--:----	_	
+1-30	fornuftigt	fornuftig	AD:----:--:p---	_	
+1-31	sammen	sammen	D-:----:--:u---	_	
+1-32	.	.	ZP	_	
+
+#id=2
+#text=Bagefter var jeg i stand til at yde.
+2-1	Bagefter	bagefter	D-:----:--:u---	_	
+2-2	var	være	VF:----:ta:----	_	
+2-3	jeg	jeg	PP:s-nc:--:-1n-	_	
+2-4	i	i	T-:----:--:----	_	
+2-5	stand	stand	NC:siuc:--:----	stand_F_i-stand-til	
+2-6	til	til	T-:----:--:----	_	
+2-7	at	at	UI:----:--:----	_	
+2-8	yde	yde	VI:----:-a:----	_	
+2-9	.	.	ZP	_	
+
+#id=3
+#text=Jeg løber gerne risikoen for at lyde som en frelst økoflipper (lidt er jeg det nemlig!) og råber ud i cyberspace, at det faktisk er en fed fornemmelse at skære ned på sin affaldsmængde og være i stand til at genbruge den selv.
+3-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+3-2	løber	løbe	VF:----:sa:----	_	
+3-3	gerne	gerne	D-:----:--:u---	_	
+3-4	risikoen	risiko	NC:sduc:--:----	_	
+3-5	for	for	T-:----:--:----	_	
+3-6	at	at	UI:----:--:----	_	
+3-7	lyde	lyde	VI:----:-a:----	_	
+3-8	som	som	US:----:--:----	_	
+3-9	en	en	PI:s-uc:--:----	_	
+3-10	frelst	frelse	VT:siu#:t-:----	_	
+3-11	økoflipper	økoflip	NC:piu#:--:----	_	
+3-12	(	(	ZD	_	
+3-13	lidt	lidt	AD:----:--:p---	_	
+3-14	er	være	VF:----:sa:----	_	
+3-15	jeg	jeg	PP:s-nc:--:-1n-	_	
+3-16	det	det	PP:s-un:--:-3n-	_	
+3-17	nemlig	nemlig	D-:----:--:u---	_	
+3-18	!	!	ZP	_	
+3-19	)	)	ZD	_	
+3-20	og	og	CC:----:--:----	_	
+3-21	råber	råbe	VF:----:sa:----	_	
+3-22	ud	ud	D-:----:--:u---	_	
+3-23	i	i	T-:----:--:----	_	
+3-24	cyberspace	cyberspace	NC:siun:--:----	_	
+3-25	,	,	ZD	_	
+3-26	at	at	CS:----:--:----	_	
+3-27	det	det	PP:s-un:--:-3n-	_	
+3-28	faktisk	faktisk	AD:----:--:p---	_	
+3-29	er	være	VF:----:sa:----	_	
+3-30	en	en	PI:s-uc:--:----	_	
+3-31	fed	fed	AC:siuc:--:p---	_	
+3-32	fornemmelse	fornemmelse	NC:siuc:--:----	_	
+3-33	at	at	UI:----:--:----	_	
+3-34	skære	skære	VI:----:-a:----	_	
+3-35	ned	ned	D-:----:--:u---	_	
+3-36	på	på	T-:----:--:----	_	
+3-37	sin	sin	PO:s--c:--:-3ys	_	
+3-38	affaldsmængde	affaldsmængde	NC:siuc:--:----	_	
+3-39	og	og	CC:----:--:----	_	
+3-40	være	være	VI:----:-a:----	_	
+3-41	i	i	T-:----:--:----	_	
+3-42	stand	stand	NC:siuc:--:----	stand_F_i-stand-til	
+3-43	til	til	T-:----:--:----	_	
+3-44	at	at	UI:----:--:----	_	
+3-45	genbruge	genbruge	VI:----:-a:----	_	
+3-46	den	den	PP:s-uc:--:-3n-	_	
+3-47	selv	selv	PM:#-u#:--:----	_	
+3-48	.	.	ZP	_	
+
+#id=4
+#text=Indtil nu har de holdt stand mod kulde og deslige, mine spanske margueritter, sommerens allersidste blomsterrester.
+4-1	Indtil	indtil	CS:----:--:----	_	
+4-2	nu	nu	-	_	
+4-3	har	have	VF:----:sa:----	_	
+4-4	de	de	PP:p-n#:--:-3n-	_	
+4-5	holdt	holde	VF:----:ta:----	_	
+4-6	stand	stand	NC:siuc:--:----	stand_F_holde-stand	
+4-7	mod	mod	T-:----:--:----	_	
+4-8	kulde	kulde	NC:siuc:--:----	_	
+4-9	og	og	CC:----:--:----	_	
+4-10	deslige	deslige	AD:----:--:p---	_	
+4-11	,	,	ZD	_	
+4-12	mine	mine	NC:siuc:--:----	_	
+4-13	spanske	spansk	AC:p#u#:--:p---	_	
+4-14	margueritter	marguerit	NC:piu#:--:----	_	
+4-15	,	,	ZD	_	
+4-16	sommerens	sommer	NC:sdgc:--:----	_	
+4-17	allersidste	allersidst	AC:p#u#:--:p---	_	
+4-18	blomsterrester	blomsterrest	NC:piu#:--:----	_	
+4-19	.	.	ZP	_	
+

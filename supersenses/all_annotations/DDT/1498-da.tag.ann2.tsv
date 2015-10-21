@@ -1,0 +1,234 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Endrøm var blevet til virkelighed .
+1-1	En	O	
+1-2	drøm	B-noun.cognition	
+1-3	var	O	
+1-4	blevet	B-verb.change	
+1-5	til	O	
+1-6	virkelighed	B-noun.abstract	
+1-7	.	O	
+
+#id=2
+#text=Manvar blevet medlem af den ekslusive fodboldfamilie .
+2-1	Man	O	
+2-2	var	O	
+2-3	blevet	B-verb.stative	
+2-4	medlem	B-noun.relation	
+2-5	af	O	
+2-6	den	O	
+2-7	ekslusive	B-adj.all	
+2-8	fodboldfamilie	B-noun.institution	
+2-9	.	O	
+
+#id=3
+#text=Atdet var en fattig familie gjorde ikke så meget dengang .
+3-1	At	O	
+3-2	det	O	
+3-3	var	B-verb.stative	
+3-4	en	O	
+3-5	fattig	B-adj.all	
+3-6	familie	B-noun.person	
+3-7	gjorde	B-verb.phenomenon	
+3-8	ikke	O	
+3-9	så	O	
+3-10	meget	O	
+3-11	dengang	O	
+3-12	.	O	
+
+#id=4
+#text=Formuerne, der kom ind på landskampene , gik til udviklingen af nye talenter .
+4-1	Formuerne	B-noun.artifact	
+4-2	,	O	
+4-3	der	O	
+4-4	kom	B-verb.possession	
+4-5	ind	B-verb.COLL	
+4-6	på	O	
+4-7	landskampene	B-noun.act	
+4-8	,	O	
+4-9	gik	B-verb.possession	
+4-10	til	O	
+4-11	udviklingen	B-noun.act	
+4-12	af	O	
+4-13	nye	B-adj.time	
+4-14	talenter	B-noun.person	
+4-15	.	O	
+
+#id=5
+#text=Dervar ingen penge til spillerlønninger eller præmier .
+5-1	Der	O	
+5-2	var	B-verb.stative	
+5-3	ingen	O	
+5-4	penge	B-noun.artifact	
+5-5	til	O	
+5-6	spillerlønninger	B-noun.quantity	
+5-7	eller	O	
+5-8	præmier	B-noun.artifact	
+5-9	.	O	
+
+#id=6
+#text=Ensølvske , kniv eller gaffel i ny og næ - måske et askebæger med byvåben på midten - var spillernes belønning for at underholde .
+6-1	En	O	
+6-2	sølvske	B-noun.artifact	
+6-3	,	O	
+6-4	kniv	B-noun.artifact	
+6-5	eller	O	
+6-6	gaffel	B-noun.artifact	
+6-7	i	O	
+6-8	ny	B-noun.time	
+6-9	og	O	
+6-10	næ	B-noun.time	
+6-11	-	O	
+6-12	måske	O	
+6-13	et	O	
+6-14	askebæger	B-noun.container	
+6-15	med	O	
+6-16	byvåben	B-noun.artifact	
+6-17	på	O	
+6-18	midten	B-noun.relation	
+6-19	-	O	
+6-20	var	B-verb.stative	
+6-21	spillernes	B-noun.person	
+6-22	belønning	B-noun.quantity	
+6-23	for	O	
+6-24	at	O	
+6-25	underholde	B-verb.act	
+6-26	.	O	
+
+#id=7
+#text=Også var der altså løftet om , at de kunne komme gratis til fodboldlandskamp resten af deres dage .
+7-1	Og	O	
+7-2	så	O	
+7-3	var	B-verb.stative	
+7-4	der	O	
+7-5	altså	O	
+7-6	løftet	B-noun.communication	
+7-7	om	O	
+7-8	,	O	
+7-9	at	O	
+7-10	de	O	
+7-11	kunne	O	
+7-12	komme	B-verb.motion	
+7-13	gratis	O	
+7-14	til	O	
+7-15	fodboldlandskamp	B-noun.act	
+7-16	resten	B-noun.relation	
+7-17	af	O	
+7-18	deres	O	
+7-19	dage	B-noun.time	
+7-20	.	O	
+
+#id=8
+#text=Mendet var kun en halv sandhed .
+8-1	Men	O	
+8-2	det	O	
+8-3	var	B-verb.stative	
+8-4	kun	O	
+8-5	en	O	
+8-6	halv	B-adj.all	
+8-7	sandhed	B-noun.abstract	
+8-8	.	O	
+
+#id=9
+#text=Detviser sig i_dag .
+9-1	Det	O	
+9-2	viser	B-verb.phenomenon	
+9-3	sig	B-verb.REFLPRON	
+9-4	i_dag	B-noun.time	
+9-5	.	O	
+
+#id=10
+#text=Påstandenom , at en fodboldspiller ikke gi'r det sidste spark - det får han , er blevet bekræftet på smukt DBU-papir med logo .
+10-1	Påstanden	B-noun.communication	
+10-2	om	O	
+10-3	,	O	
+10-4	at	O	
+10-5	en	O	
+10-6	fodboldspiller	B-noun.person	
+10-7	ikke	O	
+10-8	gi'r	B-verb.act	
+10-9	det	O	
+10-10	sidste	B-adj.time	
+10-11	spark	B-noun.act	
+10-12	-	O	
+10-13	det	O	
+10-14	får	B-verb.phenomenon	
+10-15	han	O	
+10-16	,	O	
+10-17	er	O	
+10-18	blevet	O	
+10-19	bekræftet	B-verb.communication	
+10-20	på	O	
+10-21	smukt	B-adj.phys	
+10-22	DBU-papir	B-noun.artifact	
+10-23	med	O	
+10-24	logo	B-noun.artifact	
+10-25	.	O	
+
+#id=11
+#text=Derer ikke længere råd til at bevare en smuk tradition .
+11-1	Der	O	
+11-2	er	B-verb.stative	
+11-3	ikke	O	
+11-4	længere	O	
+11-5	råd	B-noun.attribute	
+11-6	til	O	
+11-7	at	O	
+11-8	bevare	B-verb.stative	
+11-9	en	O	
+11-10	smuk	B-adj.all	
+11-11	tradition	B-noun.abstract	
+11-12	.	O	
+
+#id=12
+#text="Fagre nye tider , " lovede fodboldledere , da aftalerne om at bygge stort og i luksusklasse faldt på plads .
+12-1	"	O	
+12-2	Fagre	B-adj.all	
+12-3	nye	B-adj.time	
+12-4	tider	B-noun.time	
+12-5	,	O	
+12-6	"	O	
+12-7	lovede	B-verb.communication	
+12-8	fodboldledere	B-noun.person	
+12-9	,	O	
+12-10	da	O	
+12-11	aftalerne	B-noun.communication	
+12-12	om	O	
+12-13	at	O	
+12-14	bygge	B-verb.creation	
+12-15	stort	O	
+12-16	og	O	
+12-17	i	O	
+12-18	luksusklasse	B-noun.relation	
+12-19	faldt	B-verb.phenomenon	
+12-20	på	B-verb.COLL	
+12-21	plads	B-verb.COLL	
+12-22	.	O	
+
+#id=13
+#text=Mende glemte i deres begejstring for fremtidens muligheder , alt for mange af dem , der var med til at skabe fortidens .
+13-1	Men	O	
+13-2	de	O	
+13-3	glemte	B-verb.cognition	
+13-4	i	O	
+13-5	deres	O	
+13-6	begejstring	B-noun.feeling	
+13-7	for	O	
+13-8	fremtidens	B-noun.time	
+13-9	muligheder	B-noun.abstract	
+13-10	,	O	
+13-11	alt	O	
+13-12	for	O	
+13-13	mange	O	
+13-14	af	O	
+13-15	dem	O	
+13-16	,	O	
+13-17	der	O	
+13-18	var	B-verb.stative	
+13-19	med	B-verb.COLL	
+13-20	til	B-verb.COLL	
+13-21	at	O	
+13-22	skabe	B-verb.creation	
+13-23	fortidens	B-noun.time	
+13-24	.	O	
+

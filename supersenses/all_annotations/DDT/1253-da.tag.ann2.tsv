@@ -1,0 +1,213 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text="Jeg kunne anlægge retssager , men så ville jeg samtidig ødelægge mit liv , og det ønsker jeg ikke at gøre .
+1-1	"	O	
+1-2	Jeg	O	
+1-3	kunne	O	
+1-4	anlægge	B-verb.act	
+1-5	retssager	B-noun.abstract	
+1-6	,	O	
+1-7	men	O	
+1-8	så	O	
+1-9	ville	O	
+1-10	jeg	O	
+1-11	samtidig	O	
+1-12	ødelægge	B-verb.act	
+1-13	mit	O	
+1-14	liv	B-noun.state	
+1-15	,	O	
+1-16	og	O	
+1-17	det	O	
+1-18	ønsker	B-verb.emotion	
+1-19	jeg	O	
+1-20	ikke	O	
+1-21	at	O	
+1-22	gøre	B-verb.act	
+1-23	.	O	
+
+#id=2
+#text=Jeghar aftalt med min kone , at nu vil vi se fremad . "
+2-1	Jeg	O	
+2-2	har	O	
+2-3	aftalt	B-verb.communication	
+2-4	med	O	
+2-5	min	O	
+2-6	kone	B-noun.person	
+2-7	,	O	
+2-8	at	O	
+2-9	nu	O	
+2-10	vil	O	
+2-11	vi	O	
+2-12	se	B-verb.cognition	
+2-13	fremad	O	
+2-14	.	O	
+2-15	"	O	
+
+#id=3
+#text=Hardu nogle planer for fremtiden ?
+3-1	Har	O	
+3-2	du	O	
+3-3	nogle	O	
+3-4	planer	B-noun.cognition	
+3-5	for	O	
+3-6	fremtiden	B-noun.time	
+3-7	?	O	
+
+#id=4
+#text="Nu er jeg passiv investor .
+4-1	"	O	
+4-2	Nu	O	
+4-3	er	B-verb.stative	
+4-4	jeg	O	
+4-5	passiv	B-adj.all	
+4-6	investor	B-noun.person	
+4-7	.	O	
+
+#id=5
+#text=Jegtror ikke sådan , som det ser ud i_dag , at jeg kommer ind i byggebranchen igen .
+5-1	Jeg	O	
+5-2	tror	B-verb.cognition	
+5-3	ikke	O	
+5-4	sådan	O	
+5-5	,	O	
+5-6	som	O	
+5-7	det	O	
+5-8	ser	B-verb.stative	
+5-9	ud	B-verb.PARTICLE	
+5-10	i_dag	B-noun.time	
+5-11	,	O	
+5-12	at	O	
+5-13	jeg	O	
+5-14	kommer	B-verb.phenomenon	
+5-15	ind	O	
+5-16	i	O	
+5-17	byggebranchen	B-noun.institution	
+5-18	igen	O	
+5-19	.	O	
+
+#id=6
+#text=Dener alt for svær i_dag , og der står alt for mange tomme bygninger . "
+6-1	Den	O	
+6-2	er	B-verb.stative	
+6-3	alt	O	
+6-4	for	O	
+6-5	svær	B-adj.all	
+6-6	i_dag	B-noun.time	
+6-7	,	O	
+6-8	og	O	
+6-9	der	O	
+6-10	står	B-verb.stative	
+6-11	alt	O	
+6-12	for	O	
+6-13	mange	B-adj.phys	
+6-14	tomme	B-adj.phys	
+6-15	bygninger	B-noun.building	
+6-16	.	O	
+6-17	"	O	
+
+#id=7
+#text=Hvordanføles det , nu hvor sagen er slut ?
+7-1	Hvordan	O	
+7-2	føles	B-verb.emotion	
+7-3	det	O	
+7-4	,	O	
+7-5	nu	O	
+7-6	hvor	O	
+7-7	sagen	B-noun.abstract	
+7-8	er	B-verb.stative	
+7-9	slut	B-adj.all	
+7-10	?	O	
+
+#id=8
+#text="Vi er ikke bitre , men sagen har afbrudt 10 år af mit liv .
+8-1	"	O	
+8-2	Vi	O	
+8-3	er	B-verb.stative	
+8-4	ikke	O	
+8-5	bitre	B-adj.mental	
+8-6	,	O	
+8-7	men	O	
+8-8	sagen	B-noun.abstract	
+8-9	har	O	
+8-10	afbrudt	B-verb.aspectual	
+8-11	10	O	
+8-12	år	B-noun.time	
+8-13	af	O	
+8-14	mit	O	
+8-15	liv	B-noun.time	
+8-16	.	O	
+
+#id=9
+#text=Mensagen har blandt_andet lært mig at sortere mennesker .
+9-1	Men	O	
+9-2	sagen	B-noun.abstract	
+9-3	har	O	
+9-4	blandt_andet	O	
+9-5	lært	B-verb.cognition	
+9-6	mig	O	
+9-7	at	O	
+9-8	sortere	B-verb.cognition	
+9-9	mennesker	B-noun.person	
+9-10	.	O	
+
+#id=10
+#text=Dulærer , hvem der er dine venner .
+10-1	Du	O	
+10-2	lærer	B-verb.cognition	
+10-3	,	O	
+10-4	hvem	O	
+10-5	der	O	
+10-6	er	B-verb.stative	
+10-7	dine	O	
+10-8	venner	B-noun.person	
+10-9	.	O	
+
+#id=11
+#text="Milliontab
+11-1	"	O	
+11-2	Milliontab	B-verb.possession	
+
+#id=12
+#text=Dadu i foråret fik udbetalt  overskuddet fra din personlige konkurs , betalte du frivilligt en del af beløbet videre til kreditorerne i Danske Fabrikshaller .
+12-1	Da	O	
+12-2	du	O	
+12-3	i	O	
+12-4	foråret	B-noun.time	
+12-5	fik	O	
+12-6	udbetalt	B-verb.possession	
+12-7	overskuddet	B-noun.quantity	
+12-8	fra	O	
+12-9	din	O	
+12-10	personlige	B-adj.social	
+12-11	konkurs	B-noun.phenomenon	
+12-12	,	O	
+12-13	betalte	B-verb.possession	
+12-14	du	O	
+12-15	frivilligt	O	
+12-16	en	O	
+12-17	del	B-noun.relation	
+12-18	af	O	
+12-19	beløbet	O	
+12-20	videre	O	
+12-21	til	O	
+12-22	kreditorerne	B-noun.person	
+12-23	i	O	
+12-24	Danske	B-noun.institution	
+12-25	Fabrikshaller	I-noun.institution	
+12-26	.	O	
+
+#id=13
+#text=Mentrods betalingen har kreditorerne jo stadig haft milliontab på sagen ?
+13-1	Men	O	
+13-2	trods	O	
+13-3	betalingen	B-noun.quantity	
+13-4	har	O	
+13-5	kreditorerne	B-noun.person	
+13-6	jo	O	
+13-7	stadig	O	
+13-8	haft	O	
+13-9	milliontab	B-noun.possession	
+13-10	på	O	
+13-11	sagen	B-noun.abstract	
+13-12	?	O	
+

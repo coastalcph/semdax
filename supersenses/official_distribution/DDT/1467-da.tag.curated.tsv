@@ -1,0 +1,206 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Tillidsøges .
+1-1	Tillid	B-noun.feeling	
+1-2	søges	B-verb.cognition	
+1-3	.	O	
+
+#id=2
+#text=Såenkelt kan Unibanks problem formuleres , og i et forsøg på at få skabt tillid blev Unibanks direktør , 52-årige Steen Rasborg i_går fyret med en afskedsgave på ca. ni millioner kroner .
+2-1	Så	O	
+2-2	enkelt	O	
+2-3	kan	O	
+2-4	Unibanks	B-noun.institution	
+2-5	problem	B-noun.cognition	
+2-6	formuleres	B-verb.communication	
+2-7	,	O	
+2-8	og	O	
+2-9	i	O	
+2-10	et	O	
+2-11	forsøg	B-noun.act	
+2-12	på	O	
+2-13	at	O	
+2-14	få	B-verb.phenomenon	
+2-15	skabt	B-verb.creation	
+2-16	tillid	B-noun.feeling	
+2-17	blev	O	
+2-18	Unibanks	B-noun.institution	
+2-19	direktør	B-noun.person	
+2-20	,	O	
+2-21	52-årige	B-adj.time	
+2-22	Steen	B-noun.person	
+2-23	Rasborg	I-noun.person	
+2-24	i_går	B-noun.time	
+2-25	fyret	B-verb.act	
+2-26	med	O	
+2-27	en	O	
+2-28	afskedsgave	B-noun.artifact	
+2-29	på	O	
+2-30	ca.	O	
+2-31	ni	O	
+2-32	millioner	B-noun.quantity	
+2-33	kroner	B-noun.artifact	
+2-34	.	O	
+
+#id=3
+#text=Unibankhar brug for kundernes tillid .
+3-1	Unibank	B-noun.institution	
+3-2	har	O	
+3-3	brug	B-verb.phenomenon	
+3-4	for	O	
+3-5	kundernes	B-noun.person	
+3-6	tillid	B-noun.feeling	
+3-7	.	O	
+
+#id=4
+#text=Unibanksbestyrelsesformand Hugo Schrøder udtrykker det således over for B.T. :
+4-1	Unibanks	B-noun.institution	
+4-2	bestyrelsesformand	B-noun.person	
+4-3	Hugo	B-noun.person	
+4-4	Schrøder	I-noun.person	
+4-5	udtrykker	B-verb.communication	
+4-6	det	O	
+4-7	således	O	
+4-8	over	O	
+4-9	for	O	
+4-10	B.T.	B-noun.institution	
+4-11	:	O	
+
+#id=5
+#text="I de seneste fem meddelelser til offentligheden er vi hver gang kommet ud med tal , som efterfølgende har vist sig at være for optimistiske .
+5-1	"	O	
+5-2	I	O	
+5-3	de	O	
+5-4	seneste	B-adj.time	
+5-5	fem	O	
+5-6	meddelelser	B-noun.communication	
+5-7	til	O	
+5-8	offentligheden	B-noun.person	
+5-9	er	O	
+5-10	vi	O	
+5-11	hver	O	
+5-12	gang	B-noun.abstract	
+5-13	kommet	B-verb.communication	
+5-14	ud	B-verb.PARTICLE	
+5-15	med	O	
+5-16	tal	B-noun.communication	
+5-17	,	O	
+5-18	som	O	
+5-19	efterfølgende	O	
+5-20	har	O	
+5-21	vist	B-verb.phenomenon	
+5-22	sig	B-verb.REFLPRON	
+5-23	at	O	
+5-24	være	B-verb.stative	
+5-25	for	O	
+5-26	optimistiske	B-adj.mental	
+5-27	.	O	
+
+#id=6
+#text=Nogetsådant er naturligvis ikke fremmende for tillid og troværdighed . "
+6-1	Noget	O	
+6-2	sådant	O	
+6-3	er	B-verb.stative	
+6-4	naturligvis	O	
+6-5	ikke	O	
+6-6	fremmende	B-adj.all	
+6-7	for	O	
+6-8	tillid	B-noun.feeling	
+6-9	og	O	
+6-10	troværdighed	B-noun.attribute	
+6-11	.	O	
+6-12	"	O	
+
+#id=7
+#text=Ogsåpå Københavns Fondbørs har Unibank brug for tillid .
+7-1	Også	O	
+7-2	på	O	
+7-3	Københavns	B-noun.institution	
+7-4	Fondbørs	I-noun.institution	
+7-5	har	O	
+7-6	Unibank	B-noun.institution	
+7-7	brug	B-verb.phenomenon	
+7-8	for	O	
+7-9	tillid	B-noun.feeling	
+7-10	.	O	
+
+#id=8
+#text=Aktienblev i_aftes noteret på sit næstlaveste niveau , nemlig på kurs 156 .
+8-1	Aktien	B-noun.artifact	
+8-2	blev	O	
+8-3	i_aftes	B-noun.time	
+8-4	noteret	B-verb.act	
+8-5	på	O	
+8-6	sit	O	
+8-7	næstlaveste	B-adj.all	
+8-8	niveau	B-noun.relation	
+8-9	,	O	
+8-10	nemlig	O	
+8-11	på	O	
+8-12	kurs	B-noun.abstract	
+8-13	156	O	
+8-14	.	O	
+
+#id=9
+#text=Ogi udlandet blev der reageret med mistillid .
+9-1	Og	O	
+9-2	i	O	
+9-3	udlandet	B-noun.location	
+9-4	blev	O	
+9-5	der	O	
+9-6	reageret	B-verb.emotion	
+9-7	med	O	
+9-8	mistillid	B-noun.feeling	
+9-9	.	O	
+
+#id=10
+#text=Unibanker sat på observationslisten af kreditvurderingsinstituttet Moody i New York .
+10-1	Unibank	B-noun.institution	
+10-2	er	O	
+10-3	sat	B-verb.act	
+10-4	på	O	
+10-5	observationslisten	B-noun.communication	
+10-6	af	O	
+10-7	kreditvurderingsinstituttet	B-noun.institution	
+10-8	Moody	B-noun.institution	
+10-9	i	O	
+10-10	New	B-noun.location	
+10-11	York	I-noun.location	
+10-12	.	O	
+
+#id=11
+#text=Unibankligger i forvejen på laveste karakter i bedste gruppe , men risikerer nu at rykke ned i 2. division , hvad angår bankens værdipapirer med en løbetid på over et år .
+11-1	Unibank	B-noun.institution	
+11-2	ligger	B-verb.stative	
+11-3	i	O	
+11-4	forvejen	O	
+11-5	på	O	
+11-6	laveste	B-adj.all	
+11-7	karakter	B-noun.attribute	
+11-8	i	O	
+11-9	bedste	B-adj.all	
+11-10	gruppe	B-noun.group	
+11-11	,	O	
+11-12	men	O	
+11-13	risikerer	B-verb.act	
+11-14	nu	O	
+11-15	at	O	
+11-16	rykke	B-verb.motion	
+11-17	ned	B-verb.PARTICLE	
+11-18	i	O	
+11-19	2.	O	
+11-20	division	B-noun.relation	
+11-21	,	O	
+11-22	hvad	O	
+11-23	angår	B-verb.stative	
+11-24	bankens	B-noun.institution	
+11-25	værdipapirer	B-noun.communication	
+11-26	med	O	
+11-27	en	O	
+11-28	løbetid	B-noun.time	
+11-29	på	O	
+11-30	over	O	
+11-31	et	O	
+11-32	år	B-noun.time	
+11-33	.	O	
+

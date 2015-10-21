@@ -1,0 +1,1853 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=*Finder allerede bræk-spanden frem* lol, jeg skulle ikke snakke:
+1-1	*Finder	B-verb.motion	
+1-2	allerede	O	
+1-3	bræk	B-noun.artifact	
+1-4	-	I-noun.artifact	
+1-5	spanden	I-noun.artifact	
+1-6	frem*	B-verb.COLL	
+1-7	lol	O	
+1-8	,	O	
+1-9	jeg	O	
+1-10	skulle	O	
+1-11	ikke	O	
+1-12	snakke	B-verb.communication	
+1-13	:	O	
+
+#id=2
+#text=Er vidst mere til... noget mindre dansk
+2-1	Er	B-verb.stative	
+2-2	vidst	O	
+2-3	mere	O	
+2-4	til	O	
+2-5	.	O	
+2-6	.	O	
+2-7	.	O	
+2-8	noget	O	
+2-9	mindre	O	
+2-10	dansk	B-adj.social	
+
+#id=3
+#text=Ret synd.
+3-1	Ret	O	
+3-2	synd	B-adj.all	
+3-3	.	O	
+
+#id=4
+#text=Nærmere www.kseniaerdapaininthehole.biz :-))
+4-1	Nærmere	O	
+4-2	www	B-noun.communication	
+4-3	.	I-noun.communication	
+4-4	kseniaerdapaininthehole	I-noun.communication	
+4-5	.	I-noun.communication	
+4-6	biz	I-noun.communication	
+4-7	:	O	
+4-8	-	O	
+4-9	)	O	
+4-10	)	O	
+
+#id=5
+#text=I can do better! ;)
+5-1	I	O	
+5-2	can	O	
+5-3	do	O	
+5-4	better	O	
+5-5	!	O	
+5-6	;	O	
+5-7	)	O	
+
+#id=6
+#text=Oghallo!!
+6-1	Og	O	
+6-2	hallo	O	
+6-3	!	O	
+6-4	!	O	
+
+#id=7
+#text=Bonjour...
+7-1	Bonjour	O	
+7-2	.	O	
+7-3	.	O	
+7-4	.	O	
+
+#id=8
+#text=Ved ikke hvorfor, det er ikke fordi at jeg behøver det store af vækkeur (har 1, men vågner altid ligefør det skal til at ringe.. :-)) underligt noget René
+8-1	Ved	B-verb.cognition	
+8-2	ikke	O	
+8-3	hvorfor	O	
+8-4	,	O	
+8-5	det	O	
+8-6	er	B-verb.stative	
+8-7	ikke	O	
+8-8	fordi	O	
+8-9	at	O	
+8-10	jeg	O	
+8-11	behøver	B-verb.phenomenon	
+8-12	det	O	
+8-13	store	O	
+8-14	af	O	
+8-15	vækkeur	B-noun.artifact	
+8-16	(	O	
+8-17	har	B-verb.possession	
+8-18	1	O	
+8-19	,	O	
+8-20	men	O	
+8-21	vågner	B-verb.change	
+8-22	altid	O	
+8-23	ligefør	O	
+8-24	det	O	
+8-25	skal	O	
+8-26	til	O	
+8-27	at	O	
+8-28	ringe	B-verb.phenomenon	
+8-29	.	O	
+8-30	.	O	
+8-31	:	O	
+8-32	-	O	
+8-33	)	O	
+8-34	)	O	
+8-35	underligt	B-adj.all	
+8-36	noget	O	
+8-37	René	B-noun.person	
+
+#id=9
+#text=Kan godt følge dig..
+9-1	Kan	O	
+9-2	godt	O	
+9-3	følge	B-verb.cognition	
+9-4	dig	O	
+9-5	.	O	
+9-6	.	O	
+
+#id=10
+#text=Det lyder skam som en god idé det du siger, og det nok også rigtigt :D  Men som jeg sagde vil jeg ik' gøre det pga. andre har haft gode erfaringer med det fordi det  er jo ik' sikkert det samme sker for mig :D Regner nok med jeg tar' på gymn for det er nok det jeg "føler" mest for.
+10-1	Det	O	
+10-2	lyder	B-verb.perception	
+10-3	skam	O	
+10-4	som	O	
+10-5	en	O	
+10-6	god	B-adj.all	
+10-7	idé	B-noun.cognition	
+10-8	det	O	
+10-9	du	O	
+10-10	siger	B-verb.communication	
+10-11	,	O	
+10-12	og	O	
+10-13	det	O	
+10-14	nok	O	
+10-15	også	O	
+10-16	rigtigt	B-adj.all	
+10-17	:	O	
+10-18	D	O	
+10-19	Men	O	
+10-20	som	O	
+10-21	jeg	O	
+10-22	sagde	B-verb.communication	
+10-23	vil	O	
+10-24	jeg	O	
+10-25	ik	O	
+10-26	'	O	
+10-27	gøre	B-verb.act	
+10-28	det	O	
+10-29	pga	O	
+10-30	.	O	
+10-31	andre	O	
+10-32	har	O	
+10-33	haft	B-verb.stative	
+10-34	gode	B-adj.all	
+10-35	erfaringer	B-noun.cognition	
+10-36	med	O	
+10-37	det	O	
+10-38	fordi	O	
+10-39	det	O	
+10-40	er	B-verb.stative	
+10-41	jo	O	
+10-42	ik	O	
+10-43	'	O	
+10-44	sikkert	B-adj.all	
+10-45	det	O	
+10-46	samme	O	
+10-47	sker	B-verb.phenomenon	
+10-48	for	O	
+10-49	mig	O	
+10-50	:	O	
+10-51	D	O	
+10-52	Regner	B-verb.cognition	
+10-53	nok	O	
+10-54	med	O	
+10-55	jeg	O	
+10-56	tar	B-verb.motion	
+10-57	'	O	
+10-58	på	O	
+10-59	gymn	B-noun.building	
+10-60	for	O	
+10-61	det	O	
+10-62	er	B-verb.stative	
+10-63	nok	O	
+10-64	det	O	
+10-65	jeg	O	
+10-66	"	O	
+10-67	føler	B-verb.emotion	
+10-68	"	O	
+10-69	mest	O	
+10-70	for	O	
+10-71	.	O	
+
+#id=11
+#text=Althvad der smager godt? lol Morgenmad (ja? lol), brød med nutella, slik, småkager.. whatever? lol
+11-1	Alt	O	
+11-2	hvad	O	
+11-3	der	O	
+11-4	smager	B-verb.perception	
+11-5	godt	O	
+11-6	?	O	
+11-7	lol	O	
+11-8	Morgenmad	B-noun.food	
+11-9	(	O	
+11-10	ja	O	
+11-11	?	O	
+11-12	lol	O	
+11-13	)	O	
+11-14	,	O	
+11-15	brød	B-noun.food	
+11-16	med	O	
+11-17	nutella	B-noun.food	
+11-18	,	O	
+11-19	slik	B-noun.food	
+11-20	,	O	
+11-21	småkager	B-noun.food	
+11-22	.	O	
+11-23	.	O	
+11-24	whatever	O	
+11-25	?	O	
+11-26	lol	O	
+
+#id=12
+#text=Det gjorde jeg faktisk - søgte efter et topic, som hed gamle selvhentere, men kunne ikke finde det, og så besluttede jeg mig for, at sort snak måtte være rummet.. :-) - for fra de første billeder jeg havde af dig, havde du ikke krøller (som i - de kunne ikke ses..) derfor tænkte jeg hmm, det var da herligt... :-)) og derfor kom emnet naturligt... :-) alt det så er blevet til diskussion af alt muligt, det er en anden sag, det sker ofte med diskussioner, de ryger fra en ting til en anden (også i det rigtige liv.. :-)
+12-1	Det	O	
+12-2	gjorde	B-verb.act	
+12-3	jeg	O	
+12-4	faktisk	O	
+12-5	-	O	
+12-6	søgte	B-verb.cognition	
+12-7	efter	O	
+12-8	et	O	
+12-9	topic	B-noun.domain	
+12-10	,	O	
+12-11	som	O	
+12-12	hed	B-verb.stative	
+12-13	gamle	B-adj.time	
+12-14	selvhentere	B-noun.communication	
+12-15	,	O	
+12-16	men	O	
+12-17	kunne	O	
+12-18	ikke	O	
+12-19	finde	B-verb.cognition	
+12-20	det	O	
+12-21	,	O	
+12-22	og	O	
+12-23	så	O	
+12-24	besluttede	B-verb.cognition	
+12-25	jeg	O	
+12-26	mig	O	
+12-27	for	O	
+12-28	,	O	
+12-29	at	O	
+12-30	sort	B-adj.all	
+12-31	snak	B-noun.communication	
+12-32	måtte	O	
+12-33	være	B-verb.stative	
+12-34	rummet	O	
+12-35	.	O	
+12-36	.	O	
+12-37	:	O	
+12-38	-	O	
+12-39	)	O	
+12-40	-	O	
+12-41	for	O	
+12-42	fra	O	
+12-43	de	O	
+12-44	første	B-adj.all	
+12-45	billeder	B-noun.artifact	
+12-46	jeg	O	
+12-47	havde	B-verb.possession	
+12-48	af	O	
+12-49	dig	O	
+12-50	,	O	
+12-51	havde	B-verb.possession	
+12-52	du	O	
+12-53	ikke	O	
+12-54	krøller	B-noun.body	
+12-55	(	O	
+12-56	som	O	
+12-57	i	O	
+12-58	-	O	
+12-59	de	O	
+12-60	kunne	O	
+12-61	ikke	O	
+12-62	ses	B-verb.perception	
+12-63	.	O	
+12-64	.	O	
+12-65	)	O	
+12-66	derfor	O	
+12-67	tænkte	B-verb.cognition	
+12-68	jeg	O	
+12-69	hmm	O	
+12-70	,	O	
+12-71	det	O	
+12-72	var	B-verb.stative	
+12-73	da	O	
+12-74	herligt	B-adj.all	
+12-75	.	O	
+12-76	.	O	
+12-77	.	O	
+12-78	:	O	
+12-79	-	O	
+12-80	)	O	
+12-81	)	O	
+12-82	og	O	
+12-83	derfor	O	
+12-84	kom	B-verb.phenomenon	
+12-85	emnet	B-noun.TOP	
+12-86	naturligt	O	
+12-87	.	O	
+12-88	.	O	
+12-89	.	O	
+12-90	:	O	
+12-91	-	O	
+12-92	)	O	
+12-93	alt	O	
+12-94	det	O	
+12-95	så	O	
+12-96	er	O	
+12-97	blevet	B-verb.change	
+12-98	til	O	
+12-99	diskussion	B-noun.communication	
+12-100	af	O	
+12-101	alt	O	
+12-102	muligt	O	
+12-103	,	O	
+12-104	det	O	
+12-105	er	B-verb.stative	
+12-106	en	O	
+12-107	anden	O	
+12-108	sag	B-noun.TOP	
+12-109	,	O	
+12-110	det	O	
+12-111	sker	B-verb.phenomenon	
+12-112	ofte	O	
+12-113	med	O	
+12-114	diskussioner	B-noun.communication	
+12-115	,	O	
+12-116	de	O	
+12-117	ryger	B-verb.phenomenon	
+12-118	fra	O	
+12-119	en	O	
+12-120	ting	B-noun.TOP	
+12-121	til	O	
+12-122	en	O	
+12-123	anden	O	
+12-124	(	O	
+12-125	også	O	
+12-126	i	O	
+12-127	det	O	
+12-128	rigtige	B-adj.all	
+12-129	liv	B-noun.time	
+12-130	.	O	
+12-131	.	O	
+12-132	:	O	
+12-133	-	O	
+12-134	)	O	
+
+#id=13
+#text=Præcis :)
+13-1	Præcis	O	
+13-2	:	O	
+13-3	)	O	
+
+#id=14
+#text=Jegspiser flere dåser tun om ugen.. nogle dage flere om dagen, men igen - min mor er bekymret over indholdet af kviksølv, så forsøger at stoppe mig..
+14-1	Jeg	O	
+14-2	spiser	B-verb.consumption	
+14-3	flere	O	
+14-4	dåser	B-noun.container	
+14-5	tun	B-noun.food	
+14-6	om	O	
+14-7	ugen	B-noun.time	
+14-8	.	O	
+14-9	.	O	
+14-10	nogle	O	
+14-11	dage	B-noun.time	
+14-12	flere	O	
+14-13	om	O	
+14-14	dagen	B-noun.time	
+14-15	,	O	
+14-16	men	O	
+14-17	igen	O	
+14-18	-	O	
+14-19	min	O	
+14-20	mor	B-noun.person	
+14-21	er	B-verb.stative	
+14-22	bekymret	B-adj.mental	
+14-23	over	O	
+14-24	indholdet	B-noun.quantity	
+14-25	af	O	
+14-26	kviksølv	B-noun.substance	
+14-27	,	O	
+14-28	så	O	
+14-29	forsøger	B-verb.act	
+14-30	at	O	
+14-31	stoppe	B-verb.aspectual	
+14-32	mig	O	
+14-33	.	O	
+14-34	.	O	
+
+#id=15
+#text=NØJ hvor bliver du rig nu! :D
+15-1	NØJ	O	
+15-2	hvor	O	
+15-3	bliver	B-verb.change	
+15-4	du	O	
+15-5	rig	B-adj.all	
+15-6	nu	O	
+15-7	!	O	
+15-8	:	O	
+15-9	D	O	
+
+#id=16
+#text=God..
+16-1	God	O	
+16-2	.	O	
+16-3	.	O	
+
+#id=17
+#text=De fleste rører mig ikke...
+17-1	De	O	
+17-2	fleste	O	
+17-3	rører	B-verb.emotion	
+17-4	mig	O	
+17-5	ikke	O	
+17-6	.	O	
+17-7	.	O	
+17-8	.	O	
+
+#id=18
+#text= Naturen er jo ikke noget der er bevidst i sig selv, så naturen kan på ingen måde havde forudbestemt hvordan vi skal handle.
+18-1	Naturen	B-noun.object	
+18-2	er	B-verb.stative	
+18-3	jo	O	
+18-4	ikke	O	
+18-5	noget	O	
+18-6	der	O	
+18-7	er	B-verb.stative	
+18-8	bevidst	B-adj.mental	
+18-9	i	O	
+18-10	sig	O	
+18-11	selv	O	
+18-12	,	O	
+18-13	så	O	
+18-14	naturen	B-noun.object	
+18-15	kan	O	
+18-16	på	O	
+18-17	ingen	O	
+18-18	måde	B-noun.abstract	
+18-19	havde	O	
+18-20	forudbestemt	B-verb.cognition	
+18-21	hvordan	O	
+18-22	vi	O	
+18-23	skal	O	
+18-24	handle	B-verb.act	
+18-25	.	O	
+
+#id=19
+#text=Tyskere skumler.)
+19-1	Tyskere	B-noun.person	
+19-2	skumler	B-verb.communication	
+19-3	.	O	
+19-4	)	O	
+
+#id=20
+#text=Men godt indlæg.
+20-1	Men	O	
+20-2	godt	B-adj.all	
+20-3	indlæg	B-noun.communication	
+20-4	.	O	
+
+#id=21
+#text=Men det er jo din beslutning ;)
+21-1	Men	O	
+21-2	det	O	
+21-3	er	B-verb.stative	
+21-4	jo	O	
+21-5	din	O	
+21-6	beslutning	B-noun.cognition	
+21-7	;	O	
+21-8	)	O	
+
+#id=22
+#text=Hehe, giver dig ret :D Måske lodret, og med Arial Black?
+22-1	Hehe	O	
+22-2	,	O	
+22-3	giver	B-verb.cognition	
+22-4	dig	O	
+22-5	ret	B-verb.COLL	
+22-6	:	O	
+22-7	D	O	
+22-8	Måske	O	
+22-9	lodret	B-adj.all	
+22-10	,	O	
+22-11	og	O	
+22-12	med	O	
+22-13	Arial	B-noun.domain	
+22-14	Black	I-noun.domain	
+22-15	?	O	
+
+#id=23
+#text=Men man kan dog nemt kombinere de ting.
+23-1	Men	O	
+23-2	man	O	
+23-3	kan	O	
+23-4	dog	O	
+23-5	nemt	O	
+23-6	kombinere	B-verb.act	
+23-7	de	O	
+23-8	ting	B-noun.TOP	
+23-9	.	O	
+
+#id=24
+#text=Så er det dig, der skal fortælle os hvorfor! *G*
+24-1	Så	O	
+24-2	er	B-verb.stative	
+24-3	det	O	
+24-4	dig	O	
+24-5	,	O	
+24-6	der	O	
+24-7	skal	O	
+24-8	fortælle	B-verb.communication	
+24-9	os	O	
+24-10	hvorfor	O	
+24-11	!	O	
+24-12	*G*	O	
+
+#id=25
+#text=Ved ikke, siden de flyttede ind? :shock:
+25-1	Ved	B-verb.cognition	
+25-2	ikke	O	
+25-3	,	O	
+25-4	siden	O	
+25-5	de	O	
+25-6	flyttede	B-verb.motion	
+25-7	ind	B-verb.PARTICLE	
+25-8	?	O	
+25-9	:	O	
+25-10	shock	O	
+25-11	:	O	
+
+#id=26
+#text=Du siger selv det skal være om sommeren så det ville måske passe meget godt?
+26-1	Du	O	
+26-2	siger	B-verb.communication	
+26-3	selv	O	
+26-4	det	O	
+26-5	skal	O	
+26-6	være	B-verb.stative	
+26-7	om	O	
+26-8	sommeren	B-noun.time	
+26-9	så	O	
+26-10	det	O	
+26-11	ville	O	
+26-12	måske	O	
+26-13	passe	B-verb.stative	
+26-14	meget	O	
+26-15	godt	O	
+26-16	?	O	
+
+#id=27
+#text=Synes jeg?!
+27-1	Synes	B-verb.cognition	
+27-2	jeg	O	
+27-3	?	O	
+27-4	!	O	
+
+#id=28
+#text=
+
+#id=29
+#text=Hahahaha..
+29-1	Hahahaha	O	
+29-2	.	O	
+29-3	.	O	
+
+#id=30
+#text=Det fik ham til at tænke over hvor meget han holder af mig, og af andre ting i hverdagen, og det er vidst dét der er meningen :)
+30-1	Det	O	
+30-2	fik	O	
+30-3	ham	O	
+30-4	til	O	
+30-5	at	O	
+30-6	tænke	B-verb.cognition	
+30-7	over	O	
+30-8	hvor	O	
+30-9	meget	O	
+30-10	han	O	
+30-11	holder	B-verb.emotion	
+30-12	af	B-verb.COLL	
+30-13	mig	O	
+30-14	,	O	
+30-15	og	O	
+30-16	af	O	
+30-17	andre	O	
+30-18	ting	B-noun.TOP	
+30-19	i	O	
+30-20	hverdagen	B-noun.time	
+30-21	,	O	
+30-22	og	O	
+30-23	det	O	
+30-24	er	B-verb.stative	
+30-25	vidst	O	
+30-26	dét	O	
+30-27	der	O	
+30-28	er	B-verb.stative	
+30-29	meningen	B-noun.motive	
+30-30	:	O	
+30-31	)	O	
+
+#id=31
+#text=Varnok mest for Heinz tidligere men er gået over til en eller anden netto ketchup som smager syyyyyyret godt :D Den hedder bare "Tomat Ketchup" eller noget..lol ;)
+31-1	Var	B-verb.stative	
+31-2	nok	O	
+31-3	mest	O	
+31-4	for	O	
+31-5	Heinz	B-noun.food	
+31-6	tidligere	O	
+31-7	men	O	
+31-8	er	O	
+31-9	gået	B-verb.change	
+31-10	over	B-verb.PARTICLE	
+31-11	til	O	
+31-12	en	O	
+31-13	eller	O	
+31-14	anden	O	
+31-15	netto	B-noun.food	
+31-16	ketchup	I-noun.food	
+31-17	som	O	
+31-18	smager	B-verb.perception	
+31-19	syyyyyyret	O	
+31-20	godt	O	
+31-21	:	O	
+31-22	D	O	
+31-23	Den	O	
+31-24	hedder	B-verb.stative	
+31-25	bare	O	
+31-26	"	O	
+31-27	Tomat	B-noun.communication	
+31-28	Ketchup	I-noun.communication	
+31-29	"	O	
+31-30	eller	O	
+31-31	noget	O	
+31-32	.	O	
+31-33	.	O	
+31-34	lol	O	
+31-35	;	O	
+31-36	)	O	
+
+#id=32
+#text=Lægger mig til at sove selvfølgelig.
+32-1	Lægger	B-verb.act	
+32-2	mig	B-verb.REFLPRON	
+32-3	til	O	
+32-4	at	O	
+32-5	sove	B-verb.phenomenon	
+32-6	selvfølgelig	O	
+32-7	.	O	
+
+#id=33
+#text=Kan du huske det med parykkerne??
+33-1	Kan	O	
+33-2	du	O	
+33-3	huske	B-verb.cognition	
+33-4	det	O	
+33-5	med	O	
+33-6	parykkerne	B-noun.artifact	
+33-7	?	O	
+33-8	?	O	
+
+#id=34
+#text= Nope, de har lavet det om.
+34-1	Nope	O	
+34-2	,	O	
+34-3	de	O	
+34-4	har	O	
+34-5	lavet	B-verb.change	
+34-6	det	O	
+34-7	om	B-verb.PARTICLE	
+34-8	.	O	
+
+#id=35
+#text=Smagte fint! size=9:e28731dd04)Skulle i bare lige vide./size:e28731dd04)
+35-1	Smagte	B-verb.perception	
+35-2	fint	O	
+35-3	!	O	
+35-4	size=9	O	
+35-5	:	O	
+35-6	e28731dd04	O	
+35-7	)	O	
+35-8	Skulle	O	
+35-9	i	O	
+35-10	bare	O	
+35-11	lige	O	
+35-12	vide	B-verb.cognition	
+35-13	.	O	
+35-14	/	O	
+35-15	size	O	
+35-16	:	O	
+35-17	e28731dd04	O	
+35-18	)	O	
+
+#id=36
+#text=Nej.
+36-1	Nej	O	
+36-2	.	O	
+
+#id=37
+#text=Ja,de spillede engang på et diskotek i det provinshul jeg engang boede i.
+37-1	Ja	O	
+37-2	,	O	
+37-3	de	O	
+37-4	spillede	B-verb.act	
+37-5	engang	O	
+37-6	på	O	
+37-7	et	O	
+37-8	diskotek	B-noun.building	
+37-9	i	O	
+37-10	det	O	
+37-11	provinshul	B-noun.location	
+37-12	jeg	O	
+37-13	engang	O	
+37-14	boede	B-verb.stative	
+37-15	i	O	
+37-16	.	O	
+
+#id=38
+#text=Jeg er herre god til det.
+38-1	Jeg	O	
+38-2	er	B-verb.stative	
+38-3	herre	O	
+38-4	god	B-adj.all	
+38-5	til	O	
+38-6	det	O	
+38-7	.	O	
+
+#id=39
+#text=Det irriterer mig!
+39-1	Det	O	
+39-2	irriterer	B-verb.emotion	
+39-3	mig	O	
+39-4	!	O	
+
+#id=40
+#text=Det var fedt nok da kun få havde det..
+40-1	Det	O	
+40-2	var	B-verb.stative	
+40-3	fedt	B-adj.all	
+40-4	nok	O	
+40-5	da	O	
+40-6	kun	O	
+40-7	få	O	
+40-8	havde	B-verb.possession	
+40-9	det	O	
+40-10	.	O	
+40-11	.	O	
+
+#id=41
+#text=Jeg er enig, er imod dødsstraf - fængsel for livstid mener jeg er en langt mere hård straf, men en mand som Saddam kan umuligt have en samvittighed, så for ham er det måske ikke?
+41-1	Jeg	O	
+41-2	er	B-verb.stative	
+41-3	enig	B-adj.mental	
+41-4	,	O	
+41-5	er	B-verb.stative	
+41-6	imod	O	
+41-7	dødsstraf	B-noun.act	
+41-8	-	O	
+41-9	fængsel	B-noun.act	
+41-10	for	O	
+41-11	livstid	B-noun.time	
+41-12	mener	B-verb.cognition	
+41-13	jeg	O	
+41-14	er	B-verb.stative	
+41-15	en	O	
+41-16	langt	O	
+41-17	mere	O	
+41-18	hård	B-adj.all	
+41-19	straf	B-noun.act	
+41-20	,	O	
+41-21	men	O	
+41-22	en	O	
+41-23	mand	B-noun.person	
+41-24	som	O	
+41-25	Saddam	B-noun.person	
+41-26	kan	O	
+41-27	umuligt	O	
+41-28	have	B-verb.possession	
+41-29	en	O	
+41-30	samvittighed	B-noun.cognition	
+41-31	,	O	
+41-32	så	O	
+41-33	for	O	
+41-34	ham	O	
+41-35	er	B-verb.stative	
+41-36	det	O	
+41-37	måske	O	
+41-38	ikke	O	
+41-39	?	O	
+
+#id=42
+#text=Og lige for at gøre det hele relavant.
+42-1	Og	O	
+42-2	lige	O	
+42-3	for	O	
+42-4	at	O	
+42-5	gøre	B-verb.change	
+42-6	det	O	
+42-7	hele	O	
+42-8	relavant	B-adj.all	
+42-9	.	O	
+
+#id=43
+#text=Og 3'eren har jo fået supergode anmeldelser, så :> De har virkelig en eller anden magi over sig, synes jeg.
+43-1	Og	O	
+43-2	3	B-noun.communication	
+43-3	'	I-noun.communication	
+43-4	eren	I-noun.communication	
+43-5	har	O	
+43-6	jo	O	
+43-7	fået	B-verb.possession	
+43-8	supergode	B-adj.all	
+43-9	anmeldelser	B-noun.communication	
+43-10	,	O	
+43-11	så	O	
+43-12	:	O	
+43-13	>	O	
+43-14	De	O	
+43-15	har	B-verb.stative	
+43-16	virkelig	O	
+43-17	en	O	
+43-18	eller	O	
+43-19	anden	O	
+43-20	magi	B-noun.feeling	
+43-21	over	O	
+43-22	sig	O	
+43-23	,	O	
+43-24	synes	B-verb.cognition	
+43-25	jeg	O	
+43-26	.	O	
+
+#id=44
+#text=NOgen der har nogen ideer?
+44-1	NOgen	O	
+44-2	der	O	
+44-3	har	B-verb.possession	
+44-4	nogen	O	
+44-5	ideer	B-noun.cognition	
+44-6	?	O	
+
+#id=45
+#text=LOL JA!
+45-1	LOL	O	
+45-2	JA	O	
+45-3	!	O	
+
+#id=46
+#text=Det er vanvid.
+46-1	Det	O	
+46-2	er	B-verb.stative	
+46-3	vanvid	B-noun.cognition	
+46-4	.	O	
+
+#id=47
+#text=Ja okay..
+47-1	Ja	O	
+47-2	okay	O	
+47-3	.	O	
+47-4	.	O	
+
+#id=48
+#text=JimCarrey John Cleese Elijah Woods Andy Serkis Der er sikkert mange flere... men det er lige nogen, jeg sådan umidelbart kan ryste ud af ærmet på t-shirten...
+48-1	Jim	B-noun.person	
+48-2	Carrey	I-noun.person	
+48-3	John	B-noun.person	
+48-4	Cleese	I-noun.person	
+48-5	Elijah	B-noun.person	
+48-6	Woods	I-noun.person	
+48-7	Andy	B-noun.person	
+48-8	Serkis	I-noun.person	
+48-9	Der	O	
+48-10	er	B-verb.stative	
+48-11	sikkert	O	
+48-12	mange	O	
+48-13	flere	O	
+48-14	.	O	
+48-15	.	O	
+48-16	.	O	
+48-17	men	O	
+48-18	det	O	
+48-19	er	B-verb.stative	
+48-20	lige	O	
+48-21	nogen	O	
+48-22	,	O	
+48-23	jeg	O	
+48-24	sådan	O	
+48-25	umidelbart	O	
+48-26	kan	O	
+48-27	ryste	B-verb.motion	
+48-28	ud	O	
+48-29	af	O	
+48-30	ærmet	B-noun.artifact	
+48-31	på	O	
+48-32	t	B-noun.artifact	
+48-33	-	I-noun.artifact	
+48-34	shirten	I-noun.artifact	
+48-35	.	O	
+48-36	.	O	
+48-37	.	O	
+
+#id=49
+#text=Kanvi ikke lige få opsumeret hvornår det er man skifter rang?
+49-1	Kan	O	
+49-2	vi	O	
+49-3	ikke	O	
+49-4	lige	O	
+49-5	få	O	
+49-6	opsumeret	B-verb.communication	
+49-7	hvornår	O	
+49-8	det	O	
+49-9	er	B-verb.stative	
+49-10	man	O	
+49-11	skifter	B-verb.change	
+49-12	rang	B-noun.attribute	
+49-13	?	O	
+
+#id=50
+#text=Troedeskam også at hun var en dreng :) (Men hun havde velopmærket ingen hjemmeside hvor man kunne kontrollere det! :P )
+50-1	Troede	B-verb.cognition	
+50-2	skam	O	
+50-3	også	O	
+50-4	at	O	
+50-5	hun	O	
+50-6	var	B-verb.stative	
+50-7	en	O	
+50-8	dreng	B-noun.person	
+50-9	:	O	
+50-10	)	O	
+50-11	(	O	
+50-12	Men	O	
+50-13	hun	O	
+50-14	havde	B-verb.possession	
+50-15	velopmærket	O	
+50-16	ingen	O	
+50-17	hjemmeside	B-noun.communication	
+50-18	hvor	O	
+50-19	man	O	
+50-20	kunne	O	
+50-21	kontrollere	B-verb.cognition	
+50-22	det	O	
+50-23	!	O	
+50-24	:	O	
+50-25	P	O	
+50-26	)	O	
+
+#id=51
+#text=Hmm, helene :)
+51-1	Hmm	O	
+51-2	,	O	
+51-3	helene	O	
+51-4	:	O	
+51-5	)	O	
+
+#id=52
+#text=Jeg har Norton, der har ikke været noget hos mig...
+52-1	Jeg	O	
+52-2	har	B-verb.possession	
+52-3	Norton	B-noun.artifact	
+52-4	,	O	
+52-5	der	O	
+52-6	har	O	
+52-7	ikke	O	
+52-8	været	B-verb.stative	
+52-9	noget	O	
+52-10	hos	O	
+52-11	mig	O	
+52-12	.	O	
+52-13	.	O	
+52-14	.	O	
+
+#id=53
+#text=Jegkan godt lide 3'eren...
+53-1	Jeg	O	
+53-2	kan	B-verb.cognition	
+53-3	godt	O	
+53-4	lide	B-verb.COLL	
+53-5	3	B-noun.communication	
+53-6	'	I-noun.communication	
+53-7	eren	I-noun.communication	
+53-8	.	O	
+53-9	.	O	
+53-10	.	O	
+
+#id=54
+#text=Densidste jeg købte var Ardenbeauty for lang tid siden, men den sidste jeg fik var Armani - White i julegave..
+54-1	Den	O	
+54-2	sidste	O	
+54-3	jeg	O	
+54-4	købte	B-verb.possession	
+54-5	var	B-verb.stative	
+54-6	Ardenbeauty	B-noun.artifact	
+54-7	for	O	
+54-8	lang	B-adj.time	
+54-9	tid	B-noun.time	
+54-10	siden	O	
+54-11	,	O	
+54-12	men	O	
+54-13	den	O	
+54-14	sidste	O	
+54-15	jeg	O	
+54-16	fik	B-verb.possession	
+54-17	var	B-verb.stative	
+54-18	Armani	B-noun.artifact	
+54-19	-	I-noun.artifact	
+54-20	White	I-noun.artifact	
+54-21	i	O	
+54-22	julegave	B-noun.artifact	
+54-23	.	O	
+54-24	.	O	
+
+#id=55
+#text=Harfødselsdag d.
+55-1	Har	B-verb.stative	
+55-2	fødselsdag	B-noun.time	
+55-3	d	O	
+55-4	.	O	
+
+#id=56
+#text=Kan jeg også.
+56-1	Kan	O	
+56-2	jeg	O	
+56-3	også	O	
+56-4	.	O	
+
+#id=57
+#text=Kom lige i tanker om den der der var for et stykke tid siden, ed en totalt rock-musiker med langt hår osv, der kommer hjem til bedstemoren og prøver at låne penge eller sådan noget, hvor de tror de må låne pengene, men hvor hun siger "KLIP DIT HÅR OG FÅ DIG ET ARBEJDE" Der er også den hvor de sælger deres sjæl til satan for at få udstyr, og så et det igen bessemoren der kommer frem?! :)
+57-1	Kom	B-verb.cognition	
+57-2	lige	O	
+57-3	i	B-verb.COLL	
+57-4	tanker	B-verb.COLL	
+57-5	om	B-verb.COLL	
+57-6	den	O	
+57-7	der	O	
+57-8	der	O	
+57-9	var	B-verb.stative	
+57-10	for	O	
+57-11	et	O	
+57-12	stykke	B-noun.quantity	
+57-13	tid	B-noun.time	
+57-14	siden	O	
+57-15	,	O	
+57-16	ed	O	
+57-17	en	O	
+57-18	totalt	O	
+57-19	rock	B-noun.person	
+57-20	-	I-noun.person	
+57-21	musiker	I-noun.person	
+57-22	med	O	
+57-23	langt	B-adj.phys	
+57-24	hår	B-noun.body	
+57-25	osv	O	
+57-26	,	O	
+57-27	der	O	
+57-28	kommer	B-verb.motion	
+57-29	hjem	B-verb.PARTICLE	
+57-30	til	O	
+57-31	bedstemoren	B-noun.person	
+57-32	og	O	
+57-33	prøver	B-verb.act	
+57-34	at	O	
+57-35	låne	B-verb.possession	
+57-36	penge	B-noun.artifact	
+57-37	eller	O	
+57-38	sådan	O	
+57-39	noget	O	
+57-40	,	O	
+57-41	hvor	O	
+57-42	de	O	
+57-43	tror	B-verb.cognition	
+57-44	de	O	
+57-45	må	O	
+57-46	låne	B-verb.possession	
+57-47	pengene	B-noun.artifact	
+57-48	,	O	
+57-49	men	O	
+57-50	hvor	O	
+57-51	hun	O	
+57-52	siger	B-verb.communication	
+57-53	"	O	
+57-54	KLIP	B-verb.change	
+57-55	DIT	O	
+57-56	HÅR	B-noun.body	
+57-57	OG	O	
+57-58	FÅ	B-verb.possession	
+57-59	DIG	O	
+57-60	ET	O	
+57-61	ARBEJDE	B-noun.act	
+57-62	"	O	
+57-63	Der	O	
+57-64	er	B-verb.stative	
+57-65	også	O	
+57-66	den	O	
+57-67	hvor	O	
+57-68	de	O	
+57-69	sælger	B-verb.possession	
+57-70	deres	O	
+57-71	sjæl	B-noun.abstract	
+57-72	til	O	
+57-73	satan	B-noun.person	
+57-74	for	O	
+57-75	at	O	
+57-76	få	B-verb.possession	
+57-77	udstyr	B-noun.artifact	
+57-78	,	O	
+57-79	og	O	
+57-80	så	O	
+57-81	et	B-verb.stative	
+57-82	det	O	
+57-83	igen	O	
+57-84	bessemoren	B-noun.person	
+57-85	der	O	
+57-86	kommer	B-verb.motion	
+57-87	frem	B-verb.PARTICLE	
+57-88	?	O	
+57-89	!	O	
+57-90	:	O	
+57-91	)	O	
+
+#id=58
+#text=Deter/har været mest TV3 + 3+?
+58-1	Det	O	
+58-2	er	B-verb.stative	
+58-3	/	O	
+58-4	har	O	
+58-5	været	B-verb.stative	
+58-6	mest	O	
+58-7	TV3	B-noun.communication	
+58-8	+	I-noun.communication	
+58-9	3+	B-noun.communication	
+58-10	?	O	
+
+#id=59
+#text=SUPER REKLAME!!!!! (host-ironi-kan-vi-li-host)
+59-1	SUPER	B-adj.all	
+59-2	REKLAME	B-noun.communication	
+59-3	!	O	
+59-4	!	O	
+59-5	!	O	
+59-6	!	O	
+59-7	!	O	
+59-8	(	O	
+59-9	host	O	
+59-10	-	O	
+59-11	ironi	B-noun.abstract	
+59-12	-	O	
+59-13	kan	B-verb.cognition	
+59-14	-	O	
+59-15	vi	O	
+59-16	-	O	
+59-17	li	B-verb.COLL	
+59-18	-	O	
+59-19	host	O	
+59-20	)	O	
+
+#id=60
+#text=René
+60-1	René	O	
+
+#id=61
+#text=Påfølgende side, er det muligt at spille det klassiske vendespil, med virtuelle sokker:
+61-1	På	O	
+61-2	følgende	O	
+61-3	side	B-noun.communication	
+61-4	,	O	
+61-5	er	B-verb.stative	
+61-6	det	O	
+61-7	muligt	B-adj.all	
+61-8	at	O	
+61-9	spille	B-verb.act	
+61-10	det	O	
+61-11	klassiske	B-adj.all	
+61-12	vendespil	B-noun.artifact	
+61-13	,	O	
+61-14	med	O	
+61-15	virtuelle	B-adj.phys	
+61-16	sokker	B-noun.artifact	
+61-17	:	O	
+
+#id=62
+#text=Desuden er det hurtigere at cykle, end det er at køre i bil (der hvor jeg bor... pga. trafikken om morgnen)!
+62-1	Desuden	O	
+62-2	er	B-verb.stative	
+62-3	det	O	
+62-4	hurtigere	B-adj.all	
+62-5	at	O	
+62-6	cykle	B-verb.motion	
+62-7	,	O	
+62-8	end	O	
+62-9	det	O	
+62-10	er	B-verb.stative	
+62-11	at	O	
+62-12	køre	B-verb.motion	
+62-13	i	O	
+62-14	bil	B-noun.vehicle	
+62-15	(	O	
+62-16	der	O	
+62-17	hvor	O	
+62-18	jeg	O	
+62-19	bor	B-verb.stative	
+62-20	.	O	
+62-21	.	O	
+62-22	.	O	
+62-23	pga	O	
+62-24	.	O	
+62-25	trafikken	B-noun.phenomenon	
+62-26	om	O	
+62-27	morgnen	B-noun.time	
+62-28	)	O	
+62-29	!	O	
+
+#id=63
+#text=Sorry bare mig der sover!
+63-1	Sorry	O	
+63-2	bare	O	
+63-3	mig	O	
+63-4	der	O	
+63-5	sover	B-verb.phenomenon	
+63-6	!	O	
+
+#id=64
+#text=Friske jordbær i januar måned!
+64-1	Friske	B-adj.phys	
+64-2	jordbær	B-noun.food	
+64-3	i	O	
+64-4	januar	B-noun.time	
+64-5	måned	B-noun.time	
+64-6	!	O	
+
+#id=65
+#text=Eller - begge dele?
+65-1	Eller	O	
+65-2	-	O	
+65-3	begge	O	
+65-4	dele	B-noun.relation	
+65-5	?	O	
+
+#id=66
+#text=Jeg vil vælge at tag det positivt, og måske skulle jeg blande mig mere inde i livstil.
+66-1	Jeg	O	
+66-2	vil	O	
+66-3	vælge	B-verb.cognition	
+66-4	at	O	
+66-5	tag	B-verb.cognition	
+66-6	det	O	
+66-7	positivt	O	
+66-8	,	O	
+66-9	og	O	
+66-10	måske	O	
+66-11	skulle	O	
+66-12	jeg	O	
+66-13	blande	B-verb.communication	
+66-14	mig	B-verb.REFLPRON	
+66-15	mere	O	
+66-16	inde	O	
+66-17	i	O	
+66-18	livstil	B-noun.domain	
+66-19	.	O	
+
+#id=67
+#text=hOVHAVDE OGSÅ EN DEL FRA DET (hov capslock) første album, wildlife
+67-1	hOV	O	
+67-2	HAVDE	B-verb.possession	
+67-3	OGSÅ	O	
+67-4	EN	O	
+67-5	DEL	B-noun.quantity	
+67-6	FRA	O	
+67-7	DET	O	
+67-8	(	O	
+67-9	hov	O	
+67-10	capslock	B-noun.artifact	
+67-11	)	O	
+67-12	første	B-adj.all	
+67-13	album	B-noun.communication	
+67-14	,	O	
+67-15	wildlife	B-noun.communication	
+
+#id=68
+#text=Dukan også skrive om en æske med en masse små ting, som en eller anden mand har samlet sammen da han var dreng.
+68-1	Du	O	
+68-2	kan	O	
+68-3	også	O	
+68-4	skrive	B-verb.creation	
+68-5	om	O	
+68-6	en	O	
+68-7	æske	B-noun.container	
+68-8	med	O	
+68-9	en	O	
+68-10	masse	B-noun.quantity	
+68-11	små	B-adj.phys	
+68-12	ting	B-noun.artifact	
+68-13	,	O	
+68-14	som	O	
+68-15	en	O	
+68-16	eller	O	
+68-17	anden	O	
+68-18	mand	B-noun.person	
+68-19	har	O	
+68-20	samlet	B-verb.act	
+68-21	sammen	B-verb.PARTICLE	
+68-22	da	O	
+68-23	han	O	
+68-24	var	B-verb.stative	
+68-25	dreng	B-noun.person	
+68-26	.	O	
+
+#id=69
+#text=Har egentlig ikke nogen specielt yndlingsskuespillere?
+69-1	Har	B-verb.possession	
+69-2	egentlig	O	
+69-3	ikke	O	
+69-4	nogen	O	
+69-5	specielt	B-adj.all	
+69-6	yndlingsskuespillere	B-noun.person	
+69-7	?	O	
+
+#id=70
+#text=lol, South-Park..
+70-1	lol	O	
+70-2	,	O	
+70-3	South	B-noun.communication	
+70-4	-	I-noun.communication	
+70-5	Park	I-noun.communication	
+70-6	.	O	
+70-7	.	O	
+
+#id=71
+#text=Vil jeg mene, men ret mig endenlig :)
+71-1	Vil	O	
+71-2	jeg	O	
+71-3	mene	B-verb.cognition	
+71-4	,	O	
+71-5	men	O	
+71-6	ret	B-verb.act	
+71-7	mig	O	
+71-8	endenlig	O	
+71-9	:	O	
+71-10	)	O	
+
+#id=72
+#text=Hmm, tror det fine selskab kun findes i dit hoved :)
+72-1	Hmm	O	
+72-2	,	O	
+72-3	tror	B-verb.cognition	
+72-4	det	O	
+72-5	fine	B-adj.social	
+72-6	selskab	B-noun.person	
+72-7	kun	O	
+72-8	findes	B-verb.stative	
+72-9	i	O	
+72-10	dit	O	
+72-11	hoved	B-noun.cognition	
+72-12	:	O	
+72-13	)	O	
+
+#id=73
+#text=Du må vel selvom at du ikke kan se meningen i at jonglere osv..
+73-1	Du	O	
+73-2	må	O	
+73-3	vel	O	
+73-4	selvom	O	
+73-5	at	O	
+73-6	du	O	
+73-7	ikke	O	
+73-8	kan	O	
+73-9	se	B-verb.cognition	
+73-10	meningen	B-noun.cognition	
+73-11	i	O	
+73-12	at	O	
+73-13	jonglere	B-verb.act	
+73-14	osv	O	
+73-15	.	O	
+73-16	.	O	
+
+#id=74
+#text=Men jeg ville gerne have datalogi... men der var ikke plads i  mit skema.
+74-1	Men	O	
+74-2	jeg	O	
+74-3	ville	B-verb.cognition	
+74-4	gerne	O	
+74-5	have	B-verb.phenomenon	
+74-6	datalogi	B-noun.domain	
+74-7	.	O	
+74-8	.	O	
+74-9	.	O	
+74-10	men	O	
+74-11	der	O	
+74-12	var	B-verb.stative	
+74-13	ikke	O	
+74-14	plads	B-noun.abstract	
+74-15	i	O	
+74-16	mit	O	
+74-17	skema	B-noun.artifact	
+74-18	.	O	
+
+#id=75
+#text=Ogbare du ikke begynder at læse i vores history og hive noget frem og lægge det herind.. det vil for alvor være pinligt lol..
+75-1	Og	O	
+75-2	bare	O	
+75-3	du	O	
+75-4	ikke	O	
+75-5	begynder	B-verb.aspectual	
+75-6	at	O	
+75-7	læse	B-verb.cognition	
+75-8	i	O	
+75-9	vores	O	
+75-10	history	B-noun.communication	
+75-11	og	O	
+75-12	hive	B-verb.communication	
+75-13	noget	O	
+75-14	frem	O	
+75-15	og	O	
+75-16	lægge	B-verb.act	
+75-17	det	O	
+75-18	herind	O	
+75-19	.	O	
+75-20	.	O	
+75-21	det	O	
+75-22	vil	O	
+75-23	for	O	
+75-24	alvor	B-noun.feeling	
+75-25	være	B-verb.stative	
+75-26	pinligt	B-adj.social	
+75-27	lol	O	
+75-28	.	O	
+75-29	.	O	
+
+#id=76
+#text=Så er det skuda' hende fra All Saints!?
+76-1	Så	O	
+76-2	er	B-verb.stative	
+76-3	det	O	
+76-4	skuda	O	
+76-5	'	O	
+76-6	hende	O	
+76-7	fra	O	
+76-8	All	B-noun.communication	
+76-9	Saints	I-noun.communication	
+76-10	!	O	
+76-11	?	O	
+
+#id=77
+#text=Lige fra de små konfi-tøser der har hørt Rocket Brothers, og til dem som kun gad høre de to første albums (som mig)..
+77-1	Lige	O	
+77-2	fra	O	
+77-3	de	O	
+77-4	små	B-adj.phys	
+77-5	konfi	B-noun.person	
+77-6	-	I-noun.person	
+77-7	tøser	I-noun.person	
+77-8	der	O	
+77-9	har	O	
+77-10	hørt	B-verb.perception	
+77-11	Rocket	B-noun.communication	
+77-12	Brothers	I-noun.communication	
+77-13	,	O	
+77-14	og	O	
+77-15	til	O	
+77-16	dem	O	
+77-17	som	O	
+77-18	kun	O	
+77-19	gad	B-verb.cognition	
+77-20	høre	B-verb.perception	
+77-21	de	O	
+77-22	to	O	
+77-23	første	B-adj.all	
+77-24	albums	B-noun.communication	
+77-25	(	O	
+77-26	som	O	
+77-27	mig	O	
+77-28	)	O	
+77-29	.	O	
+77-30	.	O	
+
+#id=78
+#text=LOL HØRT!
+78-1	LOL	O	
+78-2	HØRT	B-verb.perception	
+78-3	!	O	
+
+#id=79
+#text=Hvaddrikker i af sodavand, hvis i gør?
+79-1	Hvad	O	
+79-2	drikker	B-verb.consumption	
+79-3	i	O	
+79-4	af	O	
+79-5	sodavand	B-noun.food	
+79-6	,	O	
+79-7	hvis	O	
+79-8	i	O	
+79-9	gør	B-verb.act	
+79-10	?	O	
+
+#id=80
+#text=HAHAHAHAHAHAHA.size=9:e1169b002c)Det sagde jeg mest fordi jeg gerne vil væk fra det ustabile stadie./size:e1169b002c)
+80-1	HAHAHAHAHAHAHA	O	
+80-2	.	O	
+80-3	size=9	O	
+80-4	:	O	
+80-5	e1169b002c	O	
+80-6	)	O	
+80-7	Det	O	
+80-8	sagde	B-verb.communication	
+80-9	jeg	O	
+80-10	mest	O	
+80-11	fordi	O	
+80-12	jeg	O	
+80-13	gerne	O	
+80-14	vil	B-verb.cognition	
+80-15	væk	B-verb.PARTICLE	
+80-16	fra	O	
+80-17	det	O	
+80-18	ustabile	B-adj.all	
+80-19	stadie	B-noun.relation	
+80-20	.	O	
+80-21	/	O	
+80-22	size	O	
+80-23	:	O	
+80-24	e1169b002c	O	
+80-25	)	O	
+
+#id=81
+#text=Jeg bruger bare den undskyldning med at "kreative mennesker trives i rod"
+81-1	Jeg	O	
+81-2	bruger	B-verb.act	
+81-3	bare	O	
+81-4	den	O	
+81-5	undskyldning	B-noun.communication	
+81-6	med	O	
+81-7	at	O	
+81-8	"	O	
+81-9	kreative	B-adj.all	
+81-10	mennesker	B-noun.person	
+81-11	trives	B-verb.emotion	
+81-12	i	O	
+81-13	rod	B-noun.state	
+81-14	"	O	
+
+#id=82
+#text=Butthe drugs don't work, they just make you worse.. arrrrgh! *Slår sig selv 3 gange i hovedet med en gryde*
+82-1	But	O	
+82-2	the	O	
+82-3	drugs	O	
+82-4	don	O	
+82-5	'	O	
+82-6	t	O	
+82-7	work	O	
+82-8	,	O	
+82-9	they	O	
+82-10	just	O	
+82-11	make	O	
+82-12	you	O	
+82-13	worse	O	
+82-14	.	O	
+82-15	.	O	
+82-16	arrrrgh	O	
+82-17	!	O	
+82-18	*Slår	B-verb.contact	
+82-19	sig	O	
+82-20	selv	O	
+82-21	3	O	
+82-22	gange	B-noun.quantity	
+82-23	i	O	
+82-24	hovedet	B-noun.body	
+82-25	med	O	
+82-26	en	O	
+82-27	gryde*	B-noun.artifact	
+
+#id=83
+#text=Very true ;P
+83-1	Very	O	
+83-2	true	O	
+83-3	;	O	
+83-4	P	O	
+
+#id=84
+#text=HELTENIG, Sarah! ;) at sidde i fængsel på livstid er langt værre end at blive dømt til døden!
+84-1	HELT	O	
+84-2	ENIG	B-adj.mental	
+84-3	,	O	
+84-4	Sarah	B-noun.person	
+84-5	!	O	
+84-6	;	O	
+84-7	)	O	
+84-8	at	O	
+84-9	sidde	B-verb.stative	
+84-10	i	O	
+84-11	fængsel	B-noun.building	
+84-12	på	O	
+84-13	livstid	B-noun.time	
+84-14	er	B-verb.stative	
+84-15	langt	O	
+84-16	værre	B-adj.all	
+84-17	end	O	
+84-18	at	O	
+84-19	blive	O	
+84-20	dømt	B-verb.cognition	
+84-21	til	O	
+84-22	døden	B-noun.phenomenon	
+84-23	!	O	
+
+#id=85
+#text=Ohyeah, du ved han vil.
+85-1	Ohyeah	O	
+85-2	,	O	
+85-3	du	O	
+85-4	ved	B-verb.cognition	
+85-5	han	O	
+85-6	vil	B-verb.cognition	
+85-7	.	O	
+
+#id=86
+#text=Læx..hmm..hvad mere?
+86-1	Læx	O	
+86-2	.	O	
+86-3	.	O	
+86-4	hmm	O	
+86-5	.	O	
+86-6	.	O	
+86-7	hvad	O	
+86-8	mere	O	
+86-9	?	O	
+
+#id=87
+#text=Fantastisk sanger, med fantastiske sange med geniale tekster :)
+87-1	Fantastisk	B-adj.all	
+87-2	sanger	B-noun.person	
+87-3	,	O	
+87-4	med	O	
+87-5	fantastiske	B-adj.all	
+87-6	sange	B-noun.communication	
+87-7	med	O	
+87-8	geniale	B-adj.mental	
+87-9	tekster	B-noun.communication	
+87-10	:	O	
+87-11	)	O	
+
+#id=88
+#text=Min veninde har vist lige købt den... :)
+88-1	Min	O	
+88-2	veninde	B-noun.person	
+88-3	har	O	
+88-4	vist	O	
+88-5	lige	O	
+88-6	købt	B-verb.possession	
+88-7	den	O	
+88-8	.	O	
+88-9	.	O	
+88-10	.	O	
+88-11	:	O	
+88-12	)	O	
+
+#id=89
+#text=Den amerikanske regering har jo lidt problemer (eller mange) for tiden, men befolkningen er vel overordnet set ok.
+89-1	Den	O	
+89-2	amerikanske	B-adj.social	
+89-3	regering	B-noun.institution	
+89-4	har	B-verb.possession	
+89-5	jo	O	
+89-6	lidt	O	
+89-7	problemer	B-noun.cognition	
+89-8	(	O	
+89-9	eller	O	
+89-10	mange	O	
+89-11	)	O	
+89-12	for	O	
+89-13	tiden	O	
+89-14	,	O	
+89-15	men	O	
+89-16	befolkningen	B-noun.person	
+89-17	er	B-verb.stative	
+89-18	vel	O	
+89-19	overordnet	O	
+89-20	set	O	
+89-21	ok	B-adj.all	
+89-22	.	O	
+
+#id=90
+#text=Harhørt navnet før, men kan slet ikke forbinde det med  noget.. :?
+90-1	Har	O	
+90-2	hørt	B-verb.perception	
+90-3	navnet	B-noun.communication	
+90-4	før	O	
+90-5	,	O	
+90-6	men	O	
+90-7	kan	O	
+90-8	slet	O	
+90-9	ikke	O	
+90-10	forbinde	B-verb.cognition	
+90-11	det	O	
+90-12	med	O	
+90-13	noget	O	
+90-14	.	O	
+90-15	.	O	
+90-16	:	O	
+90-17	?	O	
+
+#id=91
+#text=I want it!
+91-1	I	O	
+91-2	want	O	
+91-3	it	O	
+91-4	!	O	
+
+#id=92
+#text=Der er ikke vildt mange, der får gode chancer i den branche :)
+92-1	Der	O	
+92-2	er	B-verb.stative	
+92-3	ikke	O	
+92-4	vildt	O	
+92-5	mange	O	
+92-6	,	O	
+92-7	der	O	
+92-8	får	B-verb.possession	
+92-9	gode	B-adj.all	
+92-10	chancer	B-noun.abstract	
+92-11	i	O	
+92-12	den	O	
+92-13	branche	B-noun.domain	
+92-14	:	O	
+92-15	)	O	
+
+#id=93
+#text=Well,spank my ass and call me charlie!
+93-1	Well	O	
+93-2	,	O	
+93-3	spank	O	
+93-4	my	O	
+93-5	ass	O	
+93-6	and	O	
+93-7	call	O	
+93-8	me	O	
+93-9	charlie	O	
+93-10	!	O	
+
+#id=94
+#text=René
+94-1	René	O	
+
+#id=95
+#text=Jegvil have helene-hår 8) *fniz*
+95-1	Jeg	O	
+95-2	vil	O	
+95-3	have	B-verb.possession	
+95-4	helene	B-noun.body	
+95-5	-	I-noun.body	
+95-6	hår	I-noun.body	
+95-7	8	O	
+95-8	)	O	
+95-9	*fniz*	O	
+
+#id=96
+#text=OMG
+96-1	OMG	O	
+
+#id=97
+#text=nej..den finder ikke Ad -aware 6.0 øv... det lyder ellers godt :D
+97-1	nej	O	
+97-2	.	O	
+97-3	.	O	
+97-4	den	O	
+97-5	finder	B-verb.cognition	
+97-6	ikke	O	
+97-7	Ad	B-noun.artifact	
+97-8	-	I-noun.artifact	
+97-9	aware	I-noun.artifact	
+97-10	6	I-noun.artifact	
+97-11	.	I-noun.artifact	
+97-12	0	I-noun.artifact	
+97-13	øv	O	
+97-14	.	O	
+97-15	.	O	
+97-16	.	O	
+97-17	det	O	
+97-18	lyder	B-verb.perception	
+97-19	ellers	O	
+97-20	godt	O	
+97-21	:	O	
+97-22	D	O	
+
+#id=98
+#text=Ja,prøv at sætte 50 billeder op af Michael Jackson gennem årene ved siden af hinanden - Og se, hvor unaturligt han forandrer sig ;o
+98-1	Ja	O	
+98-2	,	O	
+98-3	prøv	B-verb.act	
+98-4	at	O	
+98-5	sætte	B-verb.act	
+98-6	50	O	
+98-7	billeder	B-noun.artifact	
+98-8	op	O	
+98-9	af	O	
+98-10	Michael	B-noun.person	
+98-11	Jackson	I-noun.person	
+98-12	gennem	O	
+98-13	årene	B-noun.time	
+98-14	ved	O	
+98-15	siden	O	
+98-16	af	O	
+98-17	hinanden	O	
+98-18	-	O	
+98-19	Og	O	
+98-20	se	B-verb.perception	
+98-21	,	O	
+98-22	hvor	O	
+98-23	unaturligt	O	
+98-24	han	O	
+98-25	forandrer	B-verb.change	
+98-26	sig	O	
+98-27	;	O	
+98-28	o	O	
+
+#id=99
+#text=Den passer godt til mig (kan man sige det?) og dufter ret godt :)
+99-1	Den	O	
+99-2	passer	B-verb.stative	
+99-3	godt	O	
+99-4	til	O	
+99-5	mig	O	
+99-6	(	O	
+99-7	kan	O	
+99-8	man	O	
+99-9	sige	B-verb.communication	
+99-10	det	O	
+99-11	?	O	
+99-12	)	O	
+99-13	og	O	
+99-14	dufter	B-verb.perception	
+99-15	ret	O	
+99-16	godt	O	
+99-17	:	O	
+99-18	)	O	
+
+#id=100
+#text=Neverheard  of them either
+100-1	Never	O	
+100-2	heard	O	
+100-3	of	O	
+100-4	them	O	
+100-5	either	O	
+

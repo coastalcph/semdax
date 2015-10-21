@@ -1,0 +1,219 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=OgHans musiksmag er de gode , gamle som Elvis og Tom Jones .
+1-1	Og	O	
+1-2	Hans	O	
+1-3	musiksmag	B-noun.attribute	
+1-4	er	B-verb.stative	
+1-5	de	O	
+1-6	gode	B-adj.all	
+1-7	,	O	
+1-8	gamle	B-adj.time	
+1-9	som	O	
+1-10	Elvis	B-noun.communication	
+1-11	og	O	
+1-12	Tom	B-noun.communication	
+1-13	Jones	I-noun.communication	
+1-14	.	O	
+
+#id=2
+#text="Jeg forsøger altid at slå et smut til Vegas , når Tom optræder , " fortæller han .
+2-1	"	O	
+2-2	Jeg	O	
+2-3	forsøger	B-verb.act	
+2-4	altid	O	
+2-5	at	O	
+2-6	slå	B-verb.motion	
+2-7	et	B-verb.COLL	
+2-8	smut	B-verb.COLL	
+2-9	til	B-verb.COLL	
+2-10	Vegas	B-noun.location	
+2-11	,	O	
+2-12	når	O	
+2-13	Tom	B-noun.person	
+2-14	optræder	B-verb.act	
+2-15	,	O	
+2-16	"	O	
+2-17	fortæller	B-verb.communication	
+2-18	han	O	
+2-19	.	O	
+
+#id=3
+#text="Tom er bare cool , så ham vil jeg se .
+3-1	"	O	
+3-2	Tom	B-noun.person	
+3-3	er	B-verb.stative	
+3-4	bare	O	
+3-5	cool	B-adj.all	
+3-6	,	O	
+3-7	så	O	
+3-8	ham	O	
+3-9	vil	O	
+3-10	jeg	O	
+3-11	se	B-verb.perception	
+3-12	.	O	
+
+#id=4
+#text=Hanvar Elvis' yndlingssanger , så kom ikke her ! "
+4-1	Han	O	
+4-2	var	B-verb.stative	
+4-3	Elvis'	B-noun.person	
+4-4	yndlingssanger	B-noun.person	
+4-5	,	O	
+4-6	så	O	
+4-7	kom	B-verb.motion	
+4-8	ikke	O	
+4-9	her	O	
+4-10	!	O	
+4-11	"	O	
+
+#id=5
+#text=Jasonsynes ikke altid , det er skægt at være berømt .
+5-1	Jason	O	
+5-2	synes	B-verb.cognition	
+5-3	ikke	O	
+5-4	altid	O	
+5-5	,	O	
+5-6	det	O	
+5-7	er	B-verb.stative	
+5-8	skægt	B-adj.mental	
+5-9	at	O	
+5-10	være	B-verb.stative	
+5-11	berømt	B-adj.social	
+5-12	.	O	
+
+#id=6
+#text="Det værste er at blive forfulgt at teenage-piger .
+6-1	"	O	
+6-2	Det	O	
+6-3	værste	B-adj.all	
+6-4	er	B-verb.stative	
+6-5	at	O	
+6-6	blive	O	
+6-7	forfulgt	B-verb.act	
+6-8	at	O	
+6-9	teenage-piger	B-noun.person	
+6-10	.	O	
+
+#id=7
+#text=Hvisdu bare skal skrive et par autografer , er det fint , men at blive jagtet ned ad gaden af dem er bare  ikke sagen .
+7-1	Hvis	O	
+7-2	du	O	
+7-3	bare	O	
+7-4	skal	O	
+7-5	skrive	B-verb.creation	
+7-6	et	O	
+7-7	par	B-noun.quantity	
+7-8	autografer	B-noun.communication	
+7-9	,	O	
+7-10	er	B-verb.stative	
+7-11	det	O	
+7-12	fint	B-adj.all	
+7-13	,	O	
+7-14	men	O	
+7-15	at	O	
+7-16	blive	O	
+7-17	jagtet	B-verb.motion	
+7-18	ned	O	
+7-19	ad	O	
+7-20	gaden	B-noun.location	
+7-21	af	O	
+7-22	dem	O	
+7-23	er	B-verb.stative	
+7-24	bare	O	
+7-25	ikke	O	
+7-26	sagen	B-adj.all	
+7-27	.	O	
+
+#id=8
+#text=Deter lyden , der er værst - lyden af de trampende fødder , der bare bliver højere og højere ... "
+8-1	Det	O	
+8-2	er	B-verb.stative	
+8-3	lyden	B-noun.phenomenon	
+8-4	,	O	
+8-5	der	O	
+8-6	er	B-verb.stative	
+8-7	værst	B-adj.all	
+8-8	-	O	
+8-9	lyden	B-noun.phenomenon	
+8-10	af	O	
+8-11	de	O	
+8-12	trampende	B-adj.all	
+8-13	fødder	B-noun.body	
+8-14	,	O	
+8-15	der	O	
+8-16	bare	O	
+8-17	bliver	B-verb.change	
+8-18	højere	B-adj.all	
+8-19	og	O	
+8-20	højere	B-adj.all	
+8-21	...	O	
+8-22	"	O	
+
+#id=9
+#text=IBeverly må skuespillerne foregå de ungdommelige seere med et godt eksempel - ingen  stoffer , druk og sexorgier , tak .
+9-1	I	O	
+9-2	Beverly	B-noun.location	
+9-3	må	O	
+9-4	skuespillerne	B-noun.person	
+9-5	foregå	B-verb.act	
+9-6	de	O	
+9-7	ungdommelige	B-adj.mental	
+9-8	seere	B-noun.person	
+9-9	med	O	
+9-10	et	O	
+9-11	godt	B-adj.all	
+9-12	eksempel	B-noun.abstract	
+9-13	-	O	
+9-14	ingen	O	
+9-15	stoffer	B-noun.substance	
+9-16	,	O	
+9-17	druk	B-noun.act	
+9-18	og	O	
+9-19	sexorgier	B-noun.event	
+9-20	,	O	
+9-21	tak	O	
+9-22	.	O	
+
+#id=10
+#text=Menprivat er Jason Priestley absolut ingen duksedreng .
+10-1	Men	O	
+10-2	privat	B-adj.all	
+10-3	er	B-verb.stative	
+10-4	Jason	B-noun.person	
+10-5	Priestley	I-noun.person	
+10-6	absolut	O	
+10-7	ingen	O	
+10-8	duksedreng	B-noun.person	
+10-9	.	O	
+
+#id=11
+#text=Hanbåde ryger , drikker og bander .
+11-1	Han	O	
+11-2	både	O	
+11-3	ryger	B-verb.act	
+11-4	,	O	
+11-5	drikker	B-verb.act	
+11-6	og	O	
+11-7	bander	B-verb.act	
+11-8	.	O	
+
+#id=12
+#text=Mendet får de tilbedende damer ikke at vide - medmindre en ond journalist sladrer ...
+12-1	Men	O	
+12-2	det	O	
+12-3	får	B-verb.phenomenon	
+12-4	de	O	
+12-5	tilbedende	B-adj.all	
+12-6	damer	B-noun.person	
+12-7	ikke	O	
+12-8	at	O	
+12-9	vide	B-verb.cognition	
+12-10	-	O	
+12-11	medmindre	O	
+12-12	en	O	
+12-13	ond	B-adj.all	
+12-14	journalist	B-noun.person	
+12-15	sladrer	B-verb.communication	
+12-16	...	O	
+

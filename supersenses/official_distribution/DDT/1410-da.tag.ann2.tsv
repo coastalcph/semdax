@@ -1,0 +1,250 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Menrastløsheden skyldes snarere de 150 pressefolk uden for hotellet .
+1-1	Men	O	
+1-2	rastløsheden	B-noun.feeling	
+1-3	skyldes	B-verb.phenomenon	
+1-4	snarere	O	
+1-5	de	O	
+1-6	150	O	
+1-7	pressefolk	B-noun.person	
+1-8	uden	O	
+1-9	for	O	
+1-10	hotellet	B-noun.building	
+1-11	.	O	
+
+#id=2
+#text=Omet øjeblik slippes de ind .
+2-1	Om	O	
+2-2	et	O	
+2-3	øjeblik	B-noun.time	
+2-4	slippes	B-verb.act	
+2-5	de	O	
+2-6	ind	O	
+2-7	.	O	
+
+#id=3
+#text=Marcovan Basten , af mange udråbt til verdens bedste og mest komplette angriber , ved , hvad der venter .
+3-1	Marco	B-noun.person	
+3-2	van	I-noun.person	
+3-3	Basten	I-noun.person	
+3-4	,	O	
+3-5	af	O	
+3-6	mange	O	
+3-7	udråbt	B-verb.communication	
+3-8	til	O	
+3-9	verdens	B-noun.location	
+3-10	bedste	B-adj.all	
+3-11	og	O	
+3-12	mest	O	
+3-13	komplette	B-adj.all	
+3-14	angriber	B-noun.person	
+3-15	,	O	
+3-16	ved	B-verb.cognition	
+3-17	,	O	
+3-18	hvad	O	
+3-19	der	O	
+3-20	venter	B-verb.stative	
+3-21	.	O	
+
+#id=4
+#text=Såsker det .
+4-1	Så	O	
+4-2	sker	B-verb.phenomenon	
+4-3	det	O	
+4-4	.	O	
+
+#id=5
+#text=Hoteldørenåbnes .
+5-1	Hoteldøren	B-noun.artifact	
+5-2	åbnes	B-verb.motion	
+5-3	.	O	
+
+#id=6
+#text=Verdens-pressenbestormer den 27-årige målkonge .
+6-1	Verdens-pressen	B-noun.person	
+6-2	bestormer	B-verb.communication	
+6-3	den	O	
+6-4	27-årige	B-adj.time	
+6-5	målkonge	B-noun.person	
+6-6	.	O	
+
+#id=7
+#text=Allevil vide alt forud for Hollands EM-semifinale mod Danmark .
+7-1	Alle	O	
+7-2	vil	O	
+7-3	vide	B-verb.cognition	
+7-4	alt	O	
+7-5	forud	O	
+7-6	for	O	
+7-7	Hollands	B-noun.institution	
+7-8	EM-semifinale	B-noun.event	
+7-9	mod	O	
+7-10	Danmark	B-noun.institution	
+7-11	.	O	
+
+#id=8
+#text=AFSLAPPET
+8-1	AFSLAPPET	B-adj.all	
+
+#id=9
+#text=Marcovan Basten i afslappet påklædning , grå T-shirt med blå mønstre , sorte shorts samt bare tæer  i badetøfler , flader ud i en dyb lænestol , alt_imens han får stukket en halv snes mikrofoner op foran ansigtet , og kameraerne snurrer .
+9-1	Marco	B-noun.person	
+9-2	van	I-noun.person	
+9-3	Basten	I-noun.person	
+9-4	i	O	
+9-5	afslappet	B-adj.all	
+9-6	påklædning	B-noun.artifact	
+9-7	,	O	
+9-8	grå	B-adj.phys	
+9-9	T-shirt	B-noun.artifact	
+9-10	med	O	
+9-11	blå	B-adj.phys	
+9-12	mønstre	B-noun.shape	
+9-13	,	O	
+9-14	sorte	B-adj.phys	
+9-15	shorts	B-noun.artifact	
+9-16	samt	O	
+9-17	bare	B-adj.phys	
+9-18	tæer	B-noun.body	
+9-19	i	O	
+9-20	badetøfler	B-noun.artifact	
+9-21	,	O	
+9-22	flader	B-verb.stative	
+9-23	ud	B-verb.COLL	
+9-24	i	O	
+9-25	en	O	
+9-26	dyb	B-adj.phys	
+9-27	lænestol	B-noun.artifact	
+9-28	,	O	
+9-29	alt_imens	O	
+9-30	han	O	
+9-31	får	O	
+9-32	stukket	B-verb.motion	
+9-33	en	O	
+9-34	halv	O	
+9-35	snes	B-noun.quantity	
+9-36	mikrofoner	B-noun.artifact	
+9-37	op	O	
+9-38	foran	O	
+9-39	ansigtet	B-noun.body	
+9-40	,	O	
+9-41	og	O	
+9-42	kameraerne	B-noun.artifact	
+9-43	snurrer	B-verb.phenomenon	
+9-44	.	O	
+
+#id=10
+#text=Mannoterer sig straks , at de største er de nemmeste i sportens verden .
+10-1	Man	O	
+10-2	noterer	B-verb.cognition	
+10-3	sig	B-verb.REFLPRON	
+10-4	straks	O	
+10-5	,	O	
+10-6	at	O	
+10-7	de	O	
+10-8	største	B-adj.phys	
+10-9	er	B-verb.stative	
+10-10	de	O	
+10-11	nemmeste	B-adj.all	
+10-12	i	O	
+10-13	sportens	B-noun.domain	
+10-14	verden	B-noun.abstract	
+10-15	.	O	
+
+#id=11
+#text=Verdensstjernenbesvarer høfligt alverdens spørgsmål med engleagtig tålmodighed .
+11-1	Verdensstjernen	B-noun.person	
+11-2	besvarer	B-verb.communication	
+11-3	høfligt	O	
+11-4	alverdens	B-noun.quantity	
+11-5	spørgsmål	B-noun.communication	
+11-6	med	O	
+11-7	engleagtig	B-adj.all	
+11-8	tålmodighed	B-noun.attribute	
+11-9	.	O	
+
+#id=12
+#text=Påflamsk , på tysk , på engelsk , på italiensk , på svensk .
+12-1	På	O	
+12-2	flamsk	B-noun.cognition|B-noun.communication	
+12-3	,	O	
+12-4	på	O	
+12-5	tysk	B-noun.communication	
+12-6	,	O	
+12-7	på	O	
+12-8	engelsk	B-noun.communication	
+12-9	,	O	
+12-10	på	O	
+12-11	italiensk	B-noun.communication	
+12-12	,	O	
+12-13	på	O	
+12-14	svensk	B-noun.communication	
+12-15	.	O	
+
+#id=13
+#text=Ogpå dansk ...
+13-1	Og	O	
+13-2	på	O	
+13-3	dansk	B-noun.communication	
+13-4	...	O	
+
+#id=14
+#text=Marco, lige et spørgsmål fra en dansk journalist  ?
+14-1	Marco	B-noun.person	
+14-2	,	O	
+14-3	lige	O	
+14-4	et	O	
+14-5	spørgsmål	B-noun.communication	
+14-6	fra	O	
+14-7	en	O	
+14-8	dansk	B-adj.social	
+14-9	journalist	B-noun.person	
+14-10	?	O	
+
+#id=15
+#text="Du er velkommen , " siger han imødekommende . "
+15-1	"	O	
+15-2	Du	O	
+15-3	er	B-verb.stative	
+15-4	velkommen	B-adj.all	
+15-5	,	O	
+15-6	"	O	
+15-7	siger	B-verb.communication	
+15-8	han	O	
+15-9	imødekommende	O	
+15-10	.	O	
+15-11	"	O	
+
+#id=16
+#text=Hvordanvurderer du det danske landsholds styrke ?
+16-1	Hvordan	O	
+16-2	vurderer	B-verb.cognition	
+16-3	du	O	
+16-4	det	O	
+16-5	danske	B-adj.social	
+16-6	landsholds	B-noun.person	
+16-7	styrke	B-noun.phenomenon	
+16-8	?	O	
+
+#id=17
+#text="Danmark har et godt kollektiv .
+17-1	"	O	
+17-2	Danmark	B-noun.person	
+17-3	har	B-verb.phenomenon	
+17-4	et	O	
+17-5	godt	B-adj.all	
+17-6	kollektiv	B-noun.person	
+17-7	.	O	
+
+#id=18
+#text=Jegfornemmer , at spillerne står sammen .
+18-1	Jeg	O	
+18-2	fornemmer	B-verb.emotion	
+18-3	,	O	
+18-4	at	O	
+18-5	spillerne	B-noun.person	
+18-6	står	B-verb.emotion	
+18-7	sammen	B-verb.COLL	
+18-8	.	O	
+

@@ -1,0 +1,219 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Mener den nu også det ?
+1-1	Men	O	
+1-2	er	B-verb.stative	
+1-3	den	O	
+1-4	nu	O	
+1-5	også	O	
+1-6	det	O	
+1-7	?	O	
+
+#id=2
+#text=Ikkenødvendigvis , siger adjunkt , cand._psych. Dion Sommer , Institut for Psykologi ved Aarhus Universitet .
+2-1	Ikke	O	
+2-2	nødvendigvis	O	
+2-3	,	O	
+2-4	siger	B-verb.communication	
+2-5	adjunkt	B-noun.person	
+2-6	,	O	
+2-7	cand._psych.	O	
+2-8	Dion	B-noun.person	
+2-9	Sommer	I-noun.person	
+2-10	,	O	
+2-11	Institut	B-noun.institution	
+2-12	for	O	
+2-13	Psykologi	B-noun.domain	
+2-14	ved	O	
+2-15	Aarhus	B-noun.institution	
+2-16	Universitet	I-noun.institution	
+2-17	.	O	
+
+#id=3
+#text=Ogi_hvert_fald kan vi ikke måle kvaliteten af vore dages barndom ud fra de normer , der gjaldt dengang , vi selv var børn .
+3-1	Og	O	
+3-2	i_hvert_fald	O	
+3-3	kan	O	
+3-4	vi	O	
+3-5	ikke	O	
+3-6	måle	B-verb.cognition	
+3-7	kvaliteten	B-noun.phenomenon	
+3-8	af	O	
+3-9	vore	O	
+3-10	dages	B-noun.time	
+3-11	barndom	B-noun.state	
+3-12	ud	O	
+3-13	fra	O	
+3-14	de	O	
+3-15	normer	B-noun.abstract	
+3-16	,	O	
+3-17	der	O	
+3-18	gjaldt	B-verb.stative	
+3-19	dengang	O	
+3-20	,	O	
+3-21	vi	O	
+3-22	selv	O	
+3-23	var	B-verb.stative	
+3-24	børn	B-noun.person	
+3-25	.	O	
+
+#id=4
+#text="Børns vilkår har ændret sig så meget de seneste år , at vi faktisk ikke har noget sammenligningsgrundlag , " siger han .
+4-1	"	O	
+4-2	Børns	B-noun.person	
+4-3	vilkår	B-noun.abstract	
+4-4	har	O	
+4-5	ændret	B-verb.change	
+4-6	sig	O	
+4-7	så	O	
+4-8	meget	O	
+4-9	de	O	
+4-10	seneste	B-adj.time	
+4-11	år	B-noun.time	
+4-12	,	O	
+4-13	at	O	
+4-14	vi	O	
+4-15	faktisk	O	
+4-16	ikke	O	
+4-17	har	B-verb.stative	
+4-18	noget	O	
+4-19	sammenligningsgrundlag	B-noun.abstract	
+4-20	,	O	
+4-21	"	O	
+4-22	siger	B-verb.communication	
+4-23	han	O	
+4-24	.	O	
+
+#id=5
+#text="Vor opfattelse af , hvad børn har godt af , stammer fra en anden tid .
+5-1	"	O	
+5-2	Vor	O	
+5-3	opfattelse	B-noun.cognition	
+5-4	af	O	
+5-5	,	O	
+5-6	hvad	O	
+5-7	børn	B-noun.person	
+5-8	har	B-verb.stative	
+5-9	godt	B-verb.COLL	
+5-10	af	B-verb.COLL	
+5-11	,	O	
+5-12	stammer	B-verb.stative	
+5-13	fra	O	
+5-14	en	O	
+5-15	anden	O	
+5-16	tid	B-noun.time	
+5-17	.	O	
+
+#id=6
+#text=Detbetyder i virkeligheden , at vore kulturelle forestillinger om barndommen bliver en slags spændetrøje , en form , der ikke passer , og hvor vi så skærer de stumper fra , der hænger udenfor - i stedet for at udnytte og glæde os over de nye muligheder .
+6-1	Det	O	
+6-2	betyder	B-verb.stative	
+6-3	i	O	
+6-4	virkeligheden	O	
+6-5	,	O	
+6-6	at	O	
+6-7	vore	O	
+6-8	kulturelle	B-adj.social	
+6-9	forestillinger	B-noun.cognition	
+6-10	om	O	
+6-11	barndommen	B-noun.state	
+6-12	bliver	B-verb.stative	
+6-13	en	O	
+6-14	slags	B-noun.abstract	
+6-15	spændetrøje	B-noun.artifact	
+6-16	,	O	
+6-17	en	O	
+6-18	form	B-noun.shape	
+6-19	,	O	
+6-20	der	O	
+6-21	ikke	O	
+6-22	passer	B-verb.stative	
+6-23	,	O	
+6-24	og	O	
+6-25	hvor	O	
+6-26	vi	O	
+6-27	så	O	
+6-28	skærer	B-verb.act	
+6-29	de	O	
+6-30	stumper	B-noun.artifact	
+6-31	fra	O	
+6-32	,	O	
+6-33	der	O	
+6-34	hænger	B-verb.stative	
+6-35	udenfor	O	
+6-36	-	O	
+6-37	i	O	
+6-38	stedet	O	
+6-39	for	O	
+6-40	at	O	
+6-41	udnytte	B-verb.act	
+6-42	og	O	
+6-43	glæde	B-verb.emotion	
+6-44	os	B-verb.REFLPRON	
+6-45	over	O	
+6-46	de	O	
+6-47	nye	B-adj.time	
+6-48	muligheder	B-noun.abstract	
+6-49	.	O	
+
+#id=7
+#text=Voresforhold til barndommen bliver defensivt , præget af bekymring og ængstelse .
+7-1	Vores	O	
+7-2	forhold	B-noun.cognition	
+7-3	til	O	
+7-4	barndommen	B-noun.state	
+7-5	bliver	O	
+7-6	defensivt	B-adj.all	
+7-7	,	O	
+7-8	præget	B-adj.all	
+7-9	af	O	
+7-10	bekymring	B-noun.feeling	
+7-11	og	O	
+7-12	ængstelse	B-noun.feeling	
+7-13	.	O	
+
+#id=8
+#text=Vivurderer vores egen indsats ud fra nogle idealforestillinger , som vi ikke føler , vi kan leve op til .
+8-1	Vi	O	
+8-2	vurderer	B-verb.cognition	
+8-3	vores	O	
+8-4	egen	B-adj.all	
+8-5	indsats	B-noun.act	
+8-6	ud	O	
+8-7	fra	O	
+8-8	nogle	O	
+8-9	idealforestillinger	B-noun.cognition	
+8-10	,	O	
+8-11	som	O	
+8-12	vi	O	
+8-13	ikke	O	
+8-14	føler	B-verb.emotion	
+8-15	,	O	
+8-16	vi	O	
+8-17	kan	O	
+8-18	leve	B-verb.cognition	
+8-19	op	B-verb.COLL	
+8-20	til	B-verb.COLL	
+8-21	.	O	
+
+#id=9
+#text=Viglemmer helt at se på de historiske perspektiver , på de kulturelle og samfundsmæssi ge forandringer .
+9-1	Vi	O	
+9-2	glemmer	B-verb.cognition	
+9-3	helt	O	
+9-4	at	O	
+9-5	se	B-verb.cognition	
+9-6	på	O	
+9-7	de	O	
+9-8	historiske	B-adj.social	
+9-9	perspektiver	B-noun.abstract	
+9-10	,	O	
+9-11	på	O	
+9-12	de	O	
+9-13	kulturelle	B-adj.social	
+9-14	og	O	
+9-15	samfundsmæssi	B-adj.social	
+9-16	ge	I-adj.social	
+9-17	forandringer	B-noun.phenomenon	
+9-18	.	O	
+

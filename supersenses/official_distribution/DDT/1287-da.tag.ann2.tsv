@@ -1,0 +1,206 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Fartenned
+1-1	Farten	B-noun.phenomenon	
+1-2	ned	O	
+
+#id=2
+#text=EF'strafikministre har besluttet , at alle lastbiler fra 1. januar 1994 skal være udstyret med en fartbegrænser , så der maksimalt kan køres med en topfart på 85 km/t. .
+2-1	EF's	B-noun.institution	
+2-2	trafikministre	B-noun.person	
+2-3	har	O	
+2-4	besluttet	B-verb.cognition	
+2-5	,	O	
+2-6	at	O	
+2-7	alle	O	
+2-8	lastbiler	B-noun.vehicle	
+2-9	fra	O	
+2-10	1.	O	
+2-11	januar	B-noun.time	
+2-12	1994	B-noun.time	
+2-13	skal	O	
+2-14	være	O	
+2-15	udstyret	B-adj.phys	
+2-16	med	O	
+2-17	en	O	
+2-18	fartbegrænser	B-noun.artifact	
+2-19	,	O	
+2-20	så	O	
+2-21	der	O	
+2-22	maksimalt	O	
+2-23	kan	O	
+2-24	køres	B-verb.motion	
+2-25	med	O	
+2-26	en	O	
+2-27	topfart	B-noun.phenomenon	
+2-28	på	O	
+2-29	85	O	
+2-30	km/t.	B-noun.quantity	
+2-31	.	O	
+
+#id=3
+#text=Forejerne af Scania-lastbiler kan en omstilling til at møde det kommende lovkrav klares for omkring en " tusse " , idet Scania-bilernes EDC-motorer er forberedt via elektronisk styret tilførsel af diesel .
+3-1	For	O	
+3-2	ejerne	B-noun.person	
+3-3	af	O	
+3-4	Scania-lastbiler	B-noun.vehicle	
+3-5	kan	O	
+3-6	en	O	
+3-7	omstilling	B-noun.act	
+3-8	til	O	
+3-9	at	O	
+3-10	møde	B-verb.act	
+3-11	det	O	
+3-12	kommende	B-adj.time	
+3-13	lovkrav	B-noun.phenomenon	
+3-14	klares	B-verb.act	
+3-15	for	O	
+3-16	omkring	O	
+3-17	en	O	
+3-18	"	O	
+3-19	tusse	B-noun.artifact	
+3-20	"	O	
+3-21	,	O	
+3-22	idet	O	
+3-23	Scania-bilernes	B-noun.vehicle	
+3-24	EDC-motorer	B-noun.artifact	
+3-25	er	O	
+3-26	forberedt	B-adj.phys	
+3-27	via	O	
+3-28	elektronisk	O	
+3-29	styret	O	
+3-30	tilførsel	B-noun.phenomenon	
+3-31	af	O	
+3-32	diesel	B-noun.substance	
+3-33	.	O	
+
+#id=4
+#text=KoldMC-tur
+4-1	Kold	B-adj.phys	
+4-2	MC-tur	B-noun.act	
+
+#id=5
+#text=ShinjiKazama , 41-årig japaner , har som den første kørt på motorcykel til Sydpolen .
+5-1	Shinji	B-noun.person	
+5-2	Kazama	I-noun.person	
+5-3	,	O	
+5-4	41-årig	B-adj.time	
+5-5	japaner	B-noun.person	
+5-6	,	O	
+5-7	har	O	
+5-8	som	O	
+5-9	den	O	
+5-10	første	B-adj.all	
+5-11	kørt	B-verb.motion	
+5-12	på	O	
+5-13	motorcykel	B-noun.vehicle	
+5-14	til	O	
+5-15	Sydpolen	B-noun.location	
+5-16	.	O	
+
+#id=6
+#text=Tidligerehar han gjort turen til Nordpolen - også på motorcykel .
+6-1	Tidligere	O	
+6-2	har	O	
+6-3	han	O	
+6-4	gjort	B-verb.act	
+6-5	turen	B-noun.act	
+6-6	til	O	
+6-7	Nordpolen	B-noun.location	
+6-8	-	O	
+6-9	også	O	
+6-10	på	O	
+6-11	motorcykel	B-noun.vehicle	
+6-12	.	O	
+
+#id=7
+#text=Detvar i 1987 .
+7-1	Det	O	
+7-2	var	B-verb.stative	
+7-3	i	O	
+7-4	1987	B-noun.time	
+7-5	.	O	
+
+#id=8
+#text=Dennegang tog det Kazama omkring en måneds tid at krydse ind over iskalotten og nå sit polare mål .
+8-1	Denne	O	
+8-2	gang	B-noun.abstract	
+8-3	tog	B-verb.phenomenon	
+8-4	det	O	
+8-5	Kazama	B-noun.person	
+8-6	omkring	O	
+8-7	en	O	
+8-8	måneds	B-noun.time	
+8-9	tid	B-noun.time	
+8-10	at	O	
+8-11	krydse	B-verb.motion	
+8-12	ind	O	
+8-13	over	O	
+8-14	iskalotten	B-noun.location	
+8-15	og	O	
+8-16	nå	B-verb.act	
+8-17	sit	O	
+8-18	polare	B-adj.all	
+8-19	mål	B-noun.motive	
+8-20	.	O	
+
+#id=9
+#text=Hanblev kun forsinket et par dage .
+9-1	Han	O	
+9-2	blev	O	
+9-3	kun	O	
+9-4	forsinket	B-adj.time	
+9-5	et	O	
+9-6	par	B-noun.quantity	
+9-7	dage	B-noun.time	
+9-8	.	O	
+
+#id=10
+#text=Japanerenblev ledsaget af en bæltetrukket snemobil med forplejning og forsyninger .
+10-1	Japaneren	B-noun.person	
+10-2	blev	O	
+10-3	ledsaget	B-adj.all	
+10-4	af	O	
+10-5	en	O	
+10-6	bæltetrukket	B-adj.phys	
+10-7	snemobil	B-noun.vehicle	
+10-8	med	O	
+10-9	forplejning	B-noun.artifact	
+10-10	og	O	
+10-11	forsyninger	B-noun.food	
+10-12	.	O	
+
+#id=11
+#text=Hankørte fortrinsvis om natten , når frosten gjorde det lettere at forcere terrænet .
+11-1	Han	O	
+11-2	kørte	B-verb.motion	
+11-3	fortrinsvis	O	
+11-4	om	O	
+11-5	natten	B-noun.time	
+11-6	,	O	
+11-7	når	O	
+11-8	frosten	B-noun.phenomenon	
+11-9	gjorde	B-verb.phenomenon	
+11-10	det	O	
+11-11	lettere	B-adj.phys	
+11-12	at	O	
+11-13	forcere	B-verb.motion	
+11-14	terrænet	B-noun.phenomenon	
+11-15	.	O	
+
+#id=12
+#text=Éngang måtte han have hjælp på den 2.000 km lange trip .
+12-1	Én	O	
+12-2	gang	B-noun.abstract	
+12-3	måtte	O	
+12-4	han	O	
+12-5	have	B-verb.phenomenon	
+12-6	hjælp	B-noun.act	
+12-7	på	O	
+12-8	den	O	
+12-9	2.000	O	
+12-10	km	B-noun.quantity	
+12-11	lange	B-adj.phys	
+12-12	trip	B-noun.act	
+12-13	.	O	
+

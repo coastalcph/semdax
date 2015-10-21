@@ -1,0 +1,198 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Denjyske familiefar forklarede i retten , at han aldrig har fået at vide , hvad han er beskyldt for , og at det har været en alvorlig belastning for ham , og at det førte til , at han blev syg .
+1-1	Den	O	
+1-2	jyske	B-adj.social	
+1-3	familiefar	B-noun.person	
+1-4	forklarede	B-verb.communication	
+1-5	i	O	
+1-6	retten	B-noun.building	
+1-7	,	O	
+1-8	at	O	
+1-9	han	O	
+1-10	aldrig	O	
+1-11	har	O	
+1-12	fået	B-verb.communication	
+1-13	at	B-verb.COLL	
+1-14	vide	B-verb.COLL	
+1-15	,	O	
+1-16	hvad	O	
+1-17	han	O	
+1-18	er	O	
+1-19	beskyldt	B-verb.communication	
+1-20	for	O	
+1-21	,	O	
+1-22	og	O	
+1-23	at	O	
+1-24	det	O	
+1-25	har	O	
+1-26	været	B-verb.stative	
+1-27	en	O	
+1-28	alvorlig	B-adj.all	
+1-29	belastning	B-noun.phenomenon	
+1-30	for	O	
+1-31	ham	O	
+1-32	,	O	
+1-33	og	O	
+1-34	at	O	
+1-35	det	O	
+1-36	førte	B-verb.phenomenon	
+1-37	til	B-verb.COLL	
+1-38	,	O	
+1-39	at	O	
+1-40	han	O	
+1-41	blev	B-verb.change	
+1-42	syg	B-adj.all	
+1-43	.	O	
+
+#id=2
+#text=Hanhar i_dag kontakt med børnene og har et godt forhold til både dem og deres mor .
+2-1	Han	O	
+2-2	har	B-verb.communication	
+2-3	i_dag	B-noun.time	
+2-4	kontakt	B-verb.COLL	
+2-5	med	O	
+2-6	børnene	B-noun.person	
+2-7	og	O	
+2-8	har	B-verb.phenomenon	
+2-9	et	O	
+2-10	godt	B-adj.all	
+2-11	forhold	B-noun.relation	
+2-12	til	O	
+2-13	både	O	
+2-14	dem	O	
+2-15	og	O	
+2-16	deres	O	
+2-17	mor	B-noun.person	
+2-18	.	O	
+
+#id=3
+#text=DanskPsykologforenings etiknævn har afgivet erklæring til retten om sagen .
+3-1	Dansk	B-noun.institution	
+3-2	Psykologforenings	I-noun.institution	
+3-3	etiknævn	B-noun.person	
+3-4	har	O	
+3-5	afgivet	B-verb.communication	
+3-6	erklæring	B-noun.communication	
+3-7	til	O	
+3-8	retten	B-noun.person	
+3-9	om	O	
+3-10	sagen	B-noun.abstract	
+3-11	.	O	
+
+#id=4
+#text=Nævnetssamlede vurdering er , at Sine Diemar får en skarp påtale for ikke at have handlet i overensstemmelse med foreningens etiske regler .
+4-1	Nævnets	B-noun.person	
+4-2	samlede	B-adj.all	
+4-3	vurdering	B-noun.cognition	
+4-4	er	B-verb.stative	
+4-5	,	O	
+4-6	at	O	
+4-7	Sine	B-noun.person	
+4-8	Diemar	I-noun.person	
+4-9	får	B-verb.possession	
+4-10	en	O	
+4-11	skarp	B-adj.all	
+4-12	påtale	B-noun.communication	
+4-13	for	O	
+4-14	ikke	O	
+4-15	at	O	
+4-16	have	O	
+4-17	handlet	B-verb.act	
+4-18	i	O	
+4-19	overensstemmelse	B-noun.abstract	
+4-20	med	O	
+4-21	foreningens	B-noun.institution	
+4-22	etiske	B-adj.mental	
+4-23	regler	B-noun.cognition	
+4-24	.	O	
+
+#id=5
+#text=SineDiemar har over for sin egen organisation fastholdt , at hun mente , at der var tale om sex-misbrug .
+5-1	Sine	B-noun.person	
+5-2	Diemar	I-noun.person	
+5-3	har	O	
+5-4	over	O	
+5-5	for	O	
+5-6	sin	O	
+5-7	egen	O	
+5-8	organisation	B-noun.person	
+5-9	fastholdt	B-verb.communication	
+5-10	,	O	
+5-11	at	O	
+5-12	hun	O	
+5-13	mente	B-verb.cognition	
+5-14	,	O	
+5-15	at	O	
+5-16	der	O	
+5-17	var	B-verb.stative	
+5-18	tale	B-verb.COLL	
+5-19	om	B-verb.COLL	
+5-20	sex-misbrug	B-noun.act	
+5-21	.	O	
+
+#id=6
+#text=Påden baggrund er hun forpligtiget til at underrette de socialde myndigheder , men hun erkender , at hun ikke har taget kontakt med kommunen .
+6-1	På	O	
+6-2	den	O	
+6-3	baggrund	B-noun.abstract	
+6-4	er	B-verb.stative	
+6-5	hun	O	
+6-6	forpligtiget	B-adj.all	
+6-7	til	O	
+6-8	at	O	
+6-9	underrette	B-verb.communication	
+6-10	de	O	
+6-11	socialde	B-adj.social	
+6-12	myndigheder	B-noun.institution	
+6-13	,	O	
+6-14	men	O	
+6-15	hun	O	
+6-16	erkender	B-verb.communication	
+6-17	,	O	
+6-18	at	O	
+6-19	hun	O	
+6-20	ikke	O	
+6-21	har	O	
+6-22	taget	B-verb.communication	
+6-23	kontakt	B-verb.COLL	
+6-24	med	O	
+6-25	kommunen	B-noun.institution	
+6-26	.	O	
+
+#id=7
+#text=Påstandenom sex-misbrug fik derfor lov til at svæve frit i luften , indtil sagen blev afgjort ved byrretten .
+7-1	Påstanden	B-noun.communication	
+7-2	om	O	
+7-3	sex-misbrug	B-noun.act	
+7-4	fik	B-verb.phenomenon	
+7-5	derfor	O	
+7-6	lov	B-verb.COLL	
+7-7	til	O	
+7-8	at	O	
+7-9	svæve	B-verb.stative	
+7-10	frit	O	
+7-11	i	O	
+7-12	luften	B-noun.location	
+7-13	,	O	
+7-14	indtil	O	
+7-15	sagen	B-noun.abstract	
+7-16	blev	O	
+7-17	afgjort	B-verb.communication	
+7-18	ved	O	
+7-19	byrretten	B-noun.institution	
+7-20	.	O	
+
+#id=8
+#text=SineDiemar har imidlertid anket sagen til Vestre Landsret .
+8-1	Sine	B-noun.person	
+8-2	Diemar	I-noun.person	
+8-3	har	O	
+8-4	imidlertid	O	
+8-5	anket	B-verb.act	
+8-6	sagen	B-noun.abstract	
+8-7	til	O	
+8-8	Vestre	B-noun.institution	
+8-9	Landsret	I-noun.institution	
+8-10	.	O	
+

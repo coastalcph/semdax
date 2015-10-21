@@ -1,0 +1,218 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Selven stormende forelskelse kan ikke rydde politiske uenigheder af vejen .
+1-1	Selv	O	
+1-2	en	O	
+1-3	stormende	B-adj.all	
+1-4	forelskelse	B-noun.state	
+1-5	kan	O	
+1-6	ikke	O	
+1-7	rydde	B-verb.motion	
+1-8	politiske	B-adj.social	
+1-9	uenigheder	B-noun.feeling	
+1-10	af	O	
+1-11	vejen	O	
+1-12	.	O	
+
+#id=2
+#text=Derforskal den nyforlovede radikale Lone Dybkjær og socialdemokraten Poul Nyrup Rasmussen glemme alt om politik , når de skal elske .
+2-1	Derfor	O	
+2-2	skal	O	
+2-3	den	O	
+2-4	nyforlovede	B-adj.all	
+2-5	radikale	B-adj.social	
+2-6	Lone	B-noun.person	
+2-7	Dybkjær	I-noun.person	
+2-8	og	O	
+2-9	socialdemokraten	B-noun.person	
+2-10	Poul	B-noun.person	
+2-11	Nyrup	I-noun.person	
+2-12	Rasmussen	I-noun.person	
+2-13	glemme	B-verb.cognition	
+2-14	alt	O	
+2-15	om	O	
+2-16	politik	B-noun.domain	
+2-17	,	O	
+2-18	når	O	
+2-19	de	O	
+2-20	skal	O	
+2-21	elske	B-verb.act	
+2-22	.	O	
+
+#id=3
+#text=Detråd giver Jytte Hilden til sin nære veninde .
+3-1	Det	O	
+3-2	råd	B-noun.communication	
+3-3	giver	B-verb.communication	
+3-4	Jytte	B-noun.person	
+3-5	Hilden	I-noun.person	
+3-6	til	O	
+3-7	sin	O	
+3-8	nære	B-adj.all	
+3-9	veninde	B-noun.person	
+3-10	.	O	
+
+#id=4
+#text=Huner selv på femte år lykkeligt gift med sin socialdemokratiske partifælle , Mogens Lykketoft .
+4-1	Hun	O	
+4-2	er	B-verb.stative	
+4-3	selv	O	
+4-4	på	O	
+4-5	femte	O	
+4-6	år	B-noun.time	
+4-7	lykkeligt	O	
+4-8	gift	B-adj.social	
+4-9	med	O	
+4-10	sin	O	
+4-11	socialdemokratiske	B-adj.mental	
+4-12	partifælle	B-noun.person	
+4-13	,	O	
+4-14	Mogens	B-noun.person	
+4-15	Lykketoft	I-noun.person	
+4-16	.	O	
+
+#id=5
+#text="Hvis man nærmest har revet totterne af hinanden om dagen , fordi man er rivende uenige i nogle politiske debatter , så er det klart , at så skal du altså have en Sort Guld , inden du kan begynde at elske .
+5-1	"	O	
+5-2	Hvis	O	
+5-3	man	O	
+5-4	nærmest	O	
+5-5	har	O	
+5-6	revet	B-verb.act	
+5-7	totterne	B-noun.body	
+5-8	af	O	
+5-9	hinanden	O	
+5-10	om	O	
+5-11	dagen	B-noun.time	
+5-12	,	O	
+5-13	fordi	O	
+5-14	man	O	
+5-15	er	B-verb.stative	
+5-16	rivende	O	
+5-17	uenige	B-adj.mental	
+5-18	i	O	
+5-19	nogle	O	
+5-20	politiske	B-adj.social	
+5-21	debatter	B-noun.communication	
+5-22	,	O	
+5-23	så	O	
+5-24	er	B-verb.stative	
+5-25	det	O	
+5-26	klart	B-adj.all	
+5-27	,	O	
+5-28	at	O	
+5-29	så	O	
+5-30	skal	O	
+5-31	du	O	
+5-32	altså	O	
+5-33	have	B-verb.possession	
+5-34	en	O	
+5-35	Sort	B-noun.food	
+5-36	Guld	I-noun.food	
+5-37	,	O	
+5-38	inden	O	
+5-39	du	O	
+5-40	kan	O	
+5-41	begynde	B-verb.aspectual	
+5-42	at	O	
+5-43	elske	B-verb.act	
+5-44	.	O	
+
+#id=6
+#text=Manspringer ikke lige hjem i dobbeltsengen .
+6-1	Man	O	
+6-2	springer	B-verb.motion	
+6-3	ikke	O	
+6-4	lige	O	
+6-5	hjem	O	
+6-6	i	O	
+6-7	dobbeltsengen	B-noun.artifact	
+6-8	.	O	
+
+#id=7
+#text=Detsiger sig selv .
+7-1	Det	O	
+7-2	siger	B-verb.communication	
+7-3	sig	O	
+7-4	selv	O	
+7-5	.	O	
+
+#id=8
+#text=Ogdet skal man bare vide , " siger Jytte Hilden .
+8-1	Og	O	
+8-2	det	O	
+8-3	skal	O	
+8-4	man	O	
+8-5	bare	O	
+8-6	vide	B-verb.cognition	
+8-7	,	O	
+8-8	"	O	
+8-9	siger	B-verb.communication	
+8-10	Jytte	B-noun.person	
+8-11	Hilden	I-noun.person	
+8-12	.	O	
+
+#id=9
+#text=Deto politiker-par har igennem mange år været nære venner .
+9-1	De	O	
+9-2	to	O	
+9-3	politiker-par	B-noun.person	
+9-4	har	O	
+9-5	igennem	O	
+9-6	mange	O	
+9-7	år	B-noun.time	
+9-8	været	B-verb.stative	
+9-9	nære	B-adj.all	
+9-10	venner	B-noun.person	
+9-11	.	O	
+
+#id=10
+#text=JytteHilden og Lone Dybkjær er barndomsveninder , og Poul Nyrup Rasmussen og Mogens Lykketoft har været venner i mere  end 25 år .
+10-1	Jytte	B-noun.person	
+10-2	Hilden	I-noun.person	
+10-3	og	O	
+10-4	Lone	B-noun.person	
+10-5	Dybkjær	I-noun.person	
+10-6	er	B-verb.stative	
+10-7	barndomsveninder	B-noun.person	
+10-8	,	O	
+10-9	og	O	
+10-10	Poul	B-noun.person	
+10-11	Nyrup	I-noun.person	
+10-12	Rasmussen	I-noun.person	
+10-13	og	O	
+10-14	Mogens	B-noun.person	
+10-15	Lykketoft	I-noun.person	
+10-16	har	O	
+10-17	været	B-verb.stative	
+10-18	venner	B-noun.person	
+10-19	i	O	
+10-20	mere	O	
+10-21	end	O	
+10-22	25	O	
+10-23	år	B-noun.time	
+10-24	.	O	
+
+#id=11
+#text=Selvderes uddannelser har de til fælles .
+11-1	Selv	O	
+11-2	deres	O	
+11-3	uddannelser	B-noun.cognition	
+11-4	har	B-verb.stative	
+11-5	de	O	
+11-6	til	B-verb.COLL	
+11-7	fælles	B-verb.COLL	
+11-8	.	O	
+
+#id=12
+#text=Pigerneer kemiingeniører og de to drenge cand.polit.'er .
+12-1	Pigerne	B-noun.person	
+12-2	er	B-verb.stative	
+12-3	kemiingeniører	B-noun.person	
+12-4	og	O	
+12-5	de	O	
+12-6	to	O	
+12-7	drenge	B-noun.person	
+12-8	cand.polit.'er	B-noun.person	
+12-9	.	O	
+

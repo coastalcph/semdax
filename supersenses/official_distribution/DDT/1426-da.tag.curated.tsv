@@ -1,0 +1,199 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Ligei denne situation er det serberne , der er den store skurk , men i denne utroligt beskidte krig foretager alle sider uhyrligheder .
+1-1	Lige	O	
+1-2	i	O	
+1-3	denne	O	
+1-4	situation	B-noun.state	
+1-5	er	B-verb.stative	
+1-6	det	O	
+1-7	serberne	B-noun.person	
+1-8	,	O	
+1-9	der	O	
+1-10	er	B-verb.stative	
+1-11	den	O	
+1-12	store	B-adj.phys	
+1-13	skurk	B-noun.person	
+1-14	,	O	
+1-15	men	O	
+1-16	i	O	
+1-17	denne	O	
+1-18	utroligt	O	
+1-19	beskidte	B-adj.social	
+1-20	krig	B-noun.event	
+1-21	foretager	B-verb.act	
+1-22	alle	O	
+1-23	sider	B-noun.person	
+1-24	uhyrligheder	B-noun.act	
+1-25	.	O	
+
+#id=2
+#text="Vi hører meget om Sarajevo , man skal bare ikke glemme , at der foregår lige så hårde kampe mange andre steder , " siger chefen for den danske FN-styrke Dancon , oberst Jørgen Bjerregaard Nielsen , der har hovedkvarter i byen Kostajnica .
+2-1	"	O	
+2-2	Vi	O	
+2-3	hører	B-verb.perception	
+2-4	meget	O	
+2-5	om	O	
+2-6	Sarajevo	B-noun.location	
+2-7	,	O	
+2-8	man	O	
+2-9	skal	O	
+2-10	bare	O	
+2-11	ikke	O	
+2-12	glemme	B-verb.cognition	
+2-13	,	O	
+2-14	at	O	
+2-15	der	O	
+2-16	foregår	B-verb.act	
+2-17	lige	O	
+2-18	så	O	
+2-19	hårde	B-adj.phys	
+2-20	kampe	B-noun.event	
+2-21	mange	O	
+2-22	andre	O	
+2-23	steder	B-noun.location	
+2-24	,	O	
+2-25	"	O	
+2-26	siger	B-verb.communication	
+2-27	chefen	B-noun.person	
+2-28	for	O	
+2-29	den	O	
+2-30	danske	B-adj.social	
+2-31	FN-styrke	B-noun.person	
+2-32	Dancon	B-noun.person	
+2-33	,	O	
+2-34	oberst	B-noun.person	
+2-35	Jørgen	B-noun.person	
+2-36	Bjerregaard	I-noun.person	
+2-37	Nielsen	I-noun.person	
+2-38	,	O	
+2-39	der	O	
+2-40	har	B-verb.phenomenon	
+2-41	hovedkvarter	B-noun.building	
+2-42	i	O	
+2-43	byen	B-noun.location	
+2-44	Kostajnica	B-noun.location	
+2-45	.	O	
+
+#id=3
+#text=Intensskydning ovre fra den bosniske side af floden fortæller sammen med ligene , der flyder ned ad Una , om hårde kampe , men sikker viden er en mangelvare hernede .
+3-1	Intens	O	
+3-2	skydning	B-noun.act	
+3-3	ovre	O	
+3-4	fra	O	
+3-5	den	O	
+3-6	bosniske	B-adj.social	
+3-7	side	B-noun.person	
+3-8	af	O	
+3-9	floden	B-noun.object	
+3-10	fortæller	B-verb.communication	
+3-11	sammen	O	
+3-12	med	O	
+3-13	ligene	B-noun.object	
+3-14	,	O	
+3-15	der	O	
+3-16	flyder	B-verb.motion	
+3-17	ned	B-verb.PARTICLE	
+3-18	ad	O	
+3-19	Una	B-noun.object	
+3-20	,	O	
+3-21	om	O	
+3-22	hårde	B-adj.phys	
+3-23	kampe	B-noun.event	
+3-24	,	O	
+3-25	men	O	
+3-26	sikker	B-adj.all	
+3-27	viden	B-noun.cognition	
+3-28	er	B-verb.stative	
+3-29	en	O	
+3-30	mangelvare	B-noun.abstract	
+3-31	hernede	O	
+3-32	.	O	
+
+#id=4
+#text=Somi alle andre krige har sandheden været det første offer .
+4-1	Som	O	
+4-2	i	O	
+4-3	alle	O	
+4-4	andre	O	
+4-5	krige	B-noun.event	
+4-6	har	O	
+4-7	sandheden	B-noun.abstract	
+4-8	været	B-verb.stative	
+4-9	det	O	
+4-10	første	B-adj.all	
+4-11	offer	B-noun.person	
+4-12	.	O	
+
+#id=5
+#text=FNkan ikke komme derover , og at rejse derover som dansk reporter , er at bede om at blive arresteret som spion .
+5-1	FN	B-noun.institution	
+5-2	kan	O	
+5-3	ikke	O	
+5-4	komme	B-verb.motion	
+5-5	derover	O	
+5-6	,	O	
+5-7	og	O	
+5-8	at	O	
+5-9	rejse	B-verb.motion	
+5-10	derover	O	
+5-11	som	O	
+5-12	dansk	B-adj.social	
+5-13	reporter	B-noun.person	
+5-14	,	O	
+5-15	er	B-verb.stative	
+5-16	at	O	
+5-17	bede	B-verb.communication	
+5-18	om	O	
+5-19	at	O	
+5-20	blive	O	
+5-21	arresteret	B-verb.act	
+5-22	som	O	
+5-23	spion	B-noun.person	
+5-24	.	O	
+
+#id=6
+#text=Mendet er sikkert , at mange muslimer er drevet sammen i interneringslejre , men de skulle ikke være de dødslejre , som man oprindelig frygtede .
+6-1	Men	O	
+6-2	det	O	
+6-3	er	B-verb.stative	
+6-4	sikkert	B-adj.all	
+6-5	,	O	
+6-6	at	O	
+6-7	mange	O	
+6-8	muslimer	B-noun.person	
+6-9	er	O	
+6-10	drevet	B-verb.motion	
+6-11	sammen	B-verb.PARTICLE	
+6-12	i	O	
+6-13	interneringslejre	B-noun.building	
+6-14	,	O	
+6-15	men	O	
+6-16	de	O	
+6-17	skulle	O	
+6-18	ikke	O	
+6-19	være	B-verb.stative	
+6-20	de	O	
+6-21	dødslejre	B-noun.building	
+6-22	,	O	
+6-23	som	O	
+6-24	man	O	
+6-25	oprindelig	O	
+6-26	frygtede	B-verb.emotion	
+6-27	.	O	
+
+#id=7
+#text=Dekan imidlertid hurtigt blive , hvad de endnu ikke er .
+7-1	De	O	
+7-2	kan	O	
+7-3	imidlertid	O	
+7-4	hurtigt	O	
+7-5	blive	B-verb.change	
+7-6	,	O	
+7-7	hvad	O	
+7-8	de	O	
+7-9	endnu	O	
+7-10	ikke	O	
+7-11	er	B-verb.stative	
+7-12	.	O	
+

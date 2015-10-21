@@ -1,0 +1,238 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Denye virksomheder skal især placeres i området syd for Bella Centret , hvor der åbnes for en meget intens bebyggelse .
+1-1	De	O	
+1-2	nye	B-adj.time	
+1-3	virksomheder	B-noun.institution	
+1-4	skal	O	
+1-5	især	O	
+1-6	placeres	B-verb.motion	
+1-7	i	O	
+1-8	området	B-noun.cognition	
+1-9	syd	O	
+1-10	for	O	
+1-11	Bella	B-noun.building	
+1-12	Centret	I-noun.building	
+1-13	,	O	
+1-14	hvor	O	
+1-15	der	O	
+1-16	åbnes	B-verb.aspectual	
+1-17	for	O	
+1-18	en	O	
+1-19	meget	O	
+1-20	intens	B-adj.all	
+1-21	bebyggelse	B-noun.building	
+1-22	.	O	
+
+#id=2
+#text=Derimodskal der i højere grad tages hensyn til naturen nord for Bella Centret , hvor i_alt 31 hektar vil blive friholdt af naturmæssige årsager .
+2-1	Derimod	O	
+2-2	skal	O	
+2-3	der	O	
+2-4	i	O	
+2-5	højere	O	
+2-6	grad	B-noun.quantity	
+2-7	tages	B-verb.act	
+2-8	hensyn	B-verb.COLL	
+2-9	til	O	
+2-10	naturen	B-noun.phenomenon	
+2-11	nord	O	
+2-12	for	O	
+2-13	Bella	B-noun.building	
+2-14	Centret	I-noun.building	
+2-15	,	O	
+2-16	hvor	O	
+2-17	i_alt	O	
+2-18	31	O	
+2-19	hektar	B-noun.quantity	
+2-20	vil	O	
+2-21	blive	O	
+2-22	friholdt	B-verb.act	
+2-23	af	O	
+2-24	naturmæssige	B-adj.phys	
+2-25	årsager	B-noun.motive	
+2-26	.	O	
+
+#id=3
+#text=Dendel af Amager Fælled , der ikke indgår i Ørestaden , skal fredes .
+3-1	Den	O	
+3-2	del	B-noun.relation	
+3-3	af	O	
+3-4	Amager	B-noun.location	
+3-5	Fælled	I-noun.location	
+3-6	,	O	
+3-7	der	O	
+3-8	ikke	O	
+3-9	indgår	B-verb.stative	
+3-10	i	O	
+3-11	Ørestaden	B-noun.location	
+3-12	,	O	
+3-13	skal	O	
+3-14	fredes	B-verb.act	
+3-15	.	O	
+
+#id=4
+#text=Detdrejer sig om 240 hektar og det område skal have karakter af en stor bypark .
+4-1	Det	O	
+4-2	drejer	B-verb.stative	
+4-3	sig	B-verb.REFLPRON	
+4-4	om	B-verb.COLL	
+4-5	240	O	
+4-6	hektar	B-noun.quantity	
+4-7	og	O	
+4-8	det	O	
+4-9	område	B-noun.location	
+4-10	skal	O	
+4-11	have	B-verb.possession	
+4-12	karakter	B-noun.attribute	
+4-13	af	O	
+4-14	en	O	
+4-15	stor	B-adj.phys	
+4-16	bypark	B-noun.building	
+4-17	.	O	
+
+#id=5
+#text=Sammenmed  Kalvebodkilerne , der i_dag er fredede , vil Amager have en naturpark på i_alt 25 kvadratkilometer .
+5-1	Sammen	O	
+5-2	med	O	
+5-3	Kalvebodkilerne	B-noun.location	
+5-4	,	O	
+5-5	der	O	
+5-6	i_dag	B-noun.time	
+5-7	er	B-verb.stative	
+5-8	fredede	B-adj.all	
+5-9	,	O	
+5-10	vil	O	
+5-11	Amager	B-noun.location	
+5-12	have	B-verb.possession	
+5-13	en	O	
+5-14	naturpark	B-noun.location	
+5-15	på	O	
+5-16	i_alt	O	
+5-17	25	O	
+5-18	kvadratkilometer	B-noun.quantity	
+5-19	.	O	
+
+#id=6
+#text=Kulturenskal også tilgodeses i Ørestaden .
+6-1	Kulturen	B-noun.abstract	
+6-2	skal	O	
+6-3	også	O	
+6-4	tilgodeses	B-verb.act	
+6-5	i	O	
+6-6	Ørestaden	B-noun.location	
+6-7	.	O	
+
+#id=7
+#text=NyTøjhusgrunden skal snarest muligt bebygges , gerne med et kultur- og musikhus .
+7-1	Ny	B-noun.location	
+7-2	Tøjhusgrunden	I-noun.location	
+7-3	skal	O	
+7-4	snarest	O	
+7-5	muligt	O	
+7-6	bebygges	B-verb.creation	
+7-7	,	O	
+7-8	gerne	O	
+7-9	med	O	
+7-10	et	O	
+7-11	kultur-	B-noun.building	
+7-12	og	I-noun.building	
+7-13	musikhus	I-noun.building	
+7-14	.	O	
+
+#id=8
+#text=Desuden skal området omkring søerne i det nordlige område af Ørestaden være et udstillingsområde .
+8-1	Desuden	O	
+8-2	skal	O	
+8-3	området	B-noun.location	
+8-4	omkring	O	
+8-5	søerne	B-noun.location	
+8-6	i	O	
+8-7	det	O	
+8-8	nordlige	O	
+8-9	område	B-noun.location	
+8-10	af	O	
+8-11	Ørestaden	B-noun.location	
+8-12	være	B-verb.stative	
+8-13	et	O	
+8-14	udstillingsområde	B-noun.location	
+8-15	.	O	
+
+#id=9
+#text=Partierneforeslår en baltisk udstilling i forbindelse med Københavns status som kulturby i 1996 .
+9-1	Partierne	B-noun.person	
+9-2	foreslår	B-verb.communication	
+9-3	en	O	
+9-4	baltisk	B-adj.social	
+9-5	udstilling	B-noun.event	
+9-6	i	O	
+9-7	forbindelse	O	
+9-8	med	O	
+9-9	Københavns	B-noun.institution	
+9-10	status	B-noun.attribute	
+9-11	som	O	
+9-12	kulturby	B-noun.location	
+9-13	i	O	
+9-14	1996	B-noun.time	
+9-15	.	O	
+
+#id=10
+#text=Også får Amager endelig sine S-baner .
+10-1	Og	O	
+10-2	så	O	
+10-3	får	B-verb.possession	
+10-4	Amager	B-noun.person	
+10-5	endelig	O	
+10-6	sine	O	
+10-7	S-baner	B-noun.artifact	
+10-8	.	O	
+
+#id=11
+#text=Derskal anlægges to baner .
+11-1	Der	O	
+11-2	skal	O	
+11-3	anlægges	B-verb.creation	
+11-4	to	O	
+11-5	baner	B-noun.artifact	
+11-6	.	O	
+
+#id=12
+#text=Denene , Østamagerbanen , kommer til at gå under Amager og ud til Kastrup .
+12-1	Den	O	
+12-2	ene	O	
+12-3	,	O	
+12-4	Østamagerbanen	B-noun.artifact	
+12-5	,	O	
+12-6	kommer	O	
+12-7	til	O	
+12-8	at	O	
+12-9	gå	B-verb.motion	
+12-10	under	O	
+12-11	Amager	B-noun.location	
+12-12	og	O	
+12-13	ud	O	
+12-14	til	O	
+12-15	Kastrup	B-noun.location	
+12-16	.	O	
+
+#id=13
+#text=Denanden bane , Ørestadsbanen , skal gå langs Islands Brygge og vest om universitet til Tårnby .
+13-1	Den	O	
+13-2	anden	O	
+13-3	bane	B-noun.artifact	
+13-4	,	O	
+13-5	Ørestadsbanen	B-noun.artifact	
+13-6	,	O	
+13-7	skal	O	
+13-8	gå	B-verb.motion	
+13-9	langs	O	
+13-10	Islands	B-noun.location	
+13-11	Brygge	I-noun.location	
+13-12	og	O	
+13-13	vest	O	
+13-14	om	O	
+13-15	universitet	B-noun.building	
+13-16	til	O	
+13-17	Tårnby	B-noun.location	
+13-18	.	O	
+

@@ -1,0 +1,227 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text="Jeg elsker  TV-reklamer .
+1-1	"	O	
+1-2	Jeg	O	
+1-3	elsker	B-verb.emotion	
+1-4	TV-reklamer	B-noun.communication	
+1-5	.	O	
+
+#id=2
+#text=Menalle ved jo , at når Superbrugsen har en slagvare med tre bøffer for 45 kr. , så er det i sidste ende forbrugerne selv , der betaler for det gode tilbud .
+2-1	Men	O	
+2-2	alle	O	
+2-3	ved	B-verb.cognition	
+2-4	jo	O	
+2-5	,	O	
+2-6	at	O	
+2-7	når	O	
+2-8	Superbrugsen	B-noun.institution	
+2-9	har	O	
+2-10	en	O	
+2-11	slagvare	B-noun.artifact	
+2-12	med	O	
+2-13	tre	O	
+2-14	bøffer	B-noun.food	
+2-15	for	O	
+2-16	45	O	
+2-17	kr.	B-noun.quantity	
+2-18	,	O	
+2-19	så	O	
+2-20	er	B-verb.stative	
+2-21	det	O	
+2-22	i	O	
+2-23	sidste	O	
+2-24	ende	O	
+2-25	forbrugerne	B-noun.person	
+2-26	selv	O	
+2-27	,	O	
+2-28	der	O	
+2-29	betaler	B-verb.possession	
+2-30	for	O	
+2-31	det	O	
+2-32	gode	B-adj.all	
+2-33	tilbud	B-noun.possession	
+2-34	.	O	
+
+#id=3
+#text=Forbrugerneer ikke dumme . "
+3-1	Forbrugerne	B-noun.person	
+3-2	er	B-verb.stative	
+3-3	ikke	O	
+3-4	dumme	B-adj.mental	
+3-5	.	O	
+3-6	"	O	
+
+#id=4
+#text=KNAPTBUDGET
+4-1	KNAPT	B-adj.all	
+4-2	BUDGET	B-noun.quantity	
+
+#id=5
+#text=Somforbruger er også Peter Gren Larsens budget knapt .
+5-1	Som	O	
+5-2	forbruger	B-noun.person	
+5-3	er	B-verb.stative	
+5-4	også	O	
+5-5	Peter	B-noun.person	
+5-6	Gren	I-noun.person	
+5-7	Larsens	I-noun.person	
+5-8	budget	B-noun.quantity	
+5-9	knapt	B-adj.all	
+5-10	.	O	
+
+#id=6
+#text=Foren ung freelancer med købemani , er kreditten kort .
+6-1	For	O	
+6-2	en	O	
+6-3	ung	B-adj.time	
+6-4	freelancer	B-noun.person	
+6-5	med	O	
+6-6	købemani	B-noun.feeling	
+6-7	,	O	
+6-8	er	O	
+6-9	kreditten	B-noun.possession	
+6-10	kort	B-adj.all	
+6-11	.	O	
+
+#id=7
+#text=Oghan har indset , at den bliver endnu kortere , når han og kæresten Cecilie Olrik til marts bliver forældre .
+7-1	Og	O	
+7-2	han	O	
+7-3	har	O	
+7-4	indset	B-verb.cognition	
+7-5	,	O	
+7-6	at	O	
+7-7	den	O	
+7-8	bliver	B-verb.stative	
+7-9	endnu	O	
+7-10	kortere	B-adj.all	
+7-11	,	O	
+7-12	når	O	
+7-13	han	O	
+7-14	og	O	
+7-15	kæresten	B-noun.person	
+7-16	Cecilie	B-noun.person	
+7-17	Olrik	I-noun.person	
+7-18	til	O	
+7-19	marts	B-noun.time	
+7-20	bliver	B-verb.stative	
+7-21	forældre	B-noun.person	
+7-22	.	O	
+
+#id=8
+#text=Hansdebut inden for filmbranchen led en krank skæbne .
+8-1	Hans	O	
+8-2	debut	B-noun.act	
+8-3	inden	O	
+8-4	for	O	
+8-5	filmbranchen	B-noun.domain	
+8-6	led	B-verb.phenomenon	
+8-7	en	O	
+8-8	krank	B-adj.all	
+8-9	skæbne	B-noun.abstract	
+8-10	.	O	
+
+#id=9
+#text=Filmen"  Terrorboy II " blev til i 1982 og er utvivlsomt den danske kultfilm , som er blevet set af færrest .
+9-1	Filmen	B-noun.communication	
+9-2	"	O	
+9-3	Terrorboy	B-noun.communication	
+9-4	II	I-noun.communication	
+9-5	"	O	
+9-6	blev	B-verb.creation	
+9-7	til	B-verb.PARTICLE	
+9-8	i	O	
+9-9	1982	B-noun.time	
+9-10	og	O	
+9-11	er	B-verb.stative	
+9-12	utvivlsomt	O	
+9-13	den	O	
+9-14	danske	B-adj.social	
+9-15	kultfilm	B-noun.communication	
+9-16	,	O	
+9-17	som	O	
+9-18	er	O	
+9-19	blevet	O	
+9-20	set	B-verb.perception	
+9-21	af	O	
+9-22	færrest	B-adj.phys	
+9-23	.	O	
+
+#id=10
+#text="Der findes heldigvis kun en kopi , og den er låst væk på et hemmeligt sted ,  " fortæller Peter Gren Larsen , som fik alle vennerne til at agere skuespillere i den film , han helst ikke vil mindes om .
+10-1	"	O	
+10-2	Der	O	
+10-3	findes	B-verb.stative	
+10-4	heldigvis	O	
+10-5	kun	O	
+10-6	en	O	
+10-7	kopi	B-noun.artifact	
+10-8	,	O	
+10-9	og	O	
+10-10	den	O	
+10-11	er	O	
+10-12	låst	B-verb.act	
+10-13	væk	B-verb.PARTICLE	
+10-14	på	O	
+10-15	et	O	
+10-16	hemmeligt	B-adj.all	
+10-17	sted	B-noun.location	
+10-18	,	O	
+10-19	"	O	
+10-20	fortæller	B-verb.communication	
+10-21	Peter	B-noun.person	
+10-22	Gren	I-noun.person	
+10-23	Larsen	I-noun.person	
+10-24	,	O	
+10-25	som	O	
+10-26	fik	B-verb.act	
+10-27	alle	O	
+10-28	vennerne	B-noun.person	
+10-29	til	B-verb.PARTICLE	
+10-30	at	O	
+10-31	agere	B-verb.act	
+10-32	skuespillere	B-noun.person	
+10-33	i	O	
+10-34	den	O	
+10-35	film	B-noun.communication	
+10-36	,	O	
+10-37	han	O	
+10-38	helst	O	
+10-39	ikke	O	
+10-40	vil	O	
+10-41	mindes	B-verb.communication	
+10-42	om	B-verb.PARTICLE	
+10-43	.	O	
+
+#id=11
+#text=Sidenden katastrofale entré i den glamorøse film-verden har den 29-årige Peter Gren Larsen fået mere skik på sine drømme om at lave TV og film .
+11-1	Siden	O	
+11-2	den	O	
+11-3	katastrofale	B-adj.all	
+11-4	entré	B-noun.act	
+11-5	i	O	
+11-6	den	O	
+11-7	glamorøse	B-adj.all	
+11-8	film-verden	B-noun.domain	
+11-9	har	O	
+11-10	den	O	
+11-11	29-årige	B-adj.time	
+11-12	Peter	B-noun.person	
+11-13	Gren	I-noun.person	
+11-14	Larsen	I-noun.person	
+11-15	fået	B-verb.change	
+11-16	mere	O	
+11-17	skik	B-verb.COLL	
+11-18	på	B-verb.COLL	
+11-19	sine	O	
+11-20	drømme	B-noun.cognition	
+11-21	om	O	
+11-22	at	O	
+11-23	lave	B-verb.creation	
+11-24	TV	B-noun.communication	
+11-25	og	O	
+11-26	film	B-noun.communication	
+11-27	.	O	
+

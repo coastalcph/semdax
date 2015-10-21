@@ -1,0 +1,190 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Karadzicsagde , at den forestående , strenge vinter samt indbyrdes aftaler mellem de velbevæbnede serbiske og kroatiske minoritetsgrupper på bekostning af muslimerne ville fremskynde en afslutning på konflikten .
+1-1	Karadzic	B-noun.person	
+1-2	sagde	B-verb.communication	
+1-3	,	O	
+1-4	at	O	
+1-5	den	O	
+1-6	forestående	B-adj.time	
+1-7	,	O	
+1-8	strenge	B-adj.phys	
+1-9	vinter	B-noun.time	
+1-10	samt	O	
+1-11	indbyrdes	B-adj.social	
+1-12	aftaler	B-noun.communication	
+1-13	mellem	O	
+1-14	de	O	
+1-15	velbevæbnede	B-adj.phys	
+1-16	serbiske	B-adj.social	
+1-17	og	O	
+1-18	kroatiske	B-adj.social	
+1-19	minoritetsgrupper	B-noun.person	
+1-20	på	O	
+1-21	bekostning	B-noun.abstract	
+1-22	af	O	
+1-23	muslimerne	B-noun.person	
+1-24	ville	O	
+1-25	fremskynde	B-verb.change	
+1-26	en	O	
+1-27	afslutning	B-noun.act	
+1-28	på	O	
+1-29	konflikten	B-noun.state	
+1-30	.	O	
+
+#id=2
+#text=SarajevoRadio meddelte , at den muslimsk-kontrollerede by Gradacac i det nordlige  Bosnien-Hercegovina i løbet af dagen blev udsat for et serbisk infanteriangreb .
+2-1	Sarajevo	B-noun.communication	
+2-2	Radio	I-noun.communication	
+2-3	meddelte	B-verb.communication	
+2-4	,	O	
+2-5	at	O	
+2-6	den	O	
+2-7	muslimsk-kontrollerede	B-adj.social	
+2-8	by	B-noun.location	
+2-9	Gradacac	B-noun.location	
+2-10	i	O	
+2-11	det	O	
+2-12	nordlige	B-adj.phys	
+2-13	Bosnien-Hercegovina	B-noun.location	
+2-14	i	O	
+2-15	løbet	O	
+2-16	af	O	
+2-17	dagen	B-noun.time	
+2-18	blev	O	
+2-19	udsat	B-verb.phenomenon	
+2-20	for	O	
+2-21	et	O	
+2-22	serbisk	B-adj.social	
+2-23	infanteriangreb	B-noun.act	
+2-24	.	O	
+
+#id=3
+#text=Angrebetkom efter , at byen natten igennem var blevet ramt af 400 raketter .
+3-1	Angrebet	B-noun.act	
+3-2	kom	B-verb.phenomenon	
+3-3	efter	O	
+3-4	,	O	
+3-5	at	O	
+3-6	byen	B-noun.location	
+3-7	natten	B-noun.time	
+3-8	igennem	O	
+3-9	var	O	
+3-10	blevet	O	
+3-11	ramt	B-adj.phys	
+3-12	af	O	
+3-13	400	O	
+3-14	raketter	B-noun.artifact	
+3-15	.	O	
+
+#id=4
+#text=Ifølgeradioen satte de serbiske styrker også en offensiv ind mod Tuzla  , Olovo , Tesanj og Travnik - alle byer i et muslimsk-kontrolleret område i det nordlige Bosnien-Hercegovina , der skrumper ind dag for dag .
+4-1	Ifølge	O	
+4-2	radioen	B-noun.communication	
+4-3	satte	B-verb.act	
+4-4	de	O	
+4-5	serbiske	B-adj.social	
+4-6	styrker	B-noun.person	
+4-7	også	O	
+4-8	en	O	
+4-9	offensiv	B-noun.act	
+4-10	ind	B-verb.COLL	
+4-11	mod	O	
+4-12	Tuzla	B-noun.location	
+4-13	,	O	
+4-14	Olovo	B-noun.location	
+4-15	,	O	
+4-16	Tesanj	B-noun.location	
+4-17	og	O	
+4-18	Travnik	B-noun.location	
+4-19	-	O	
+4-20	alle	O	
+4-21	byer	B-noun.location	
+4-22	i	O	
+4-23	et	O	
+4-24	muslimsk-kontrolleret	B-adj.social	
+4-25	område	B-noun.location	
+4-26	i	O	
+4-27	det	O	
+4-28	nordlige	B-adj.phys	
+4-29	Bosnien-Hercegovina	B-noun.location	
+4-30	,	O	
+4-31	der	O	
+4-32	skrumper	B-verb.change	
+4-33	ind	O	
+4-34	dag	B-noun.time	
+4-35	for	O	
+4-36	dag	B-noun.time	
+4-37	.	O	
+
+#id=5
+#text=Travnik, hvor flere tusinde flygtninge har søgt ly , blev i løbet af onsdagen udsat for intensiv artilleribeskydning , oplyste radioen .
+5-1	Travnik	B-noun.location	
+5-2	,	O	
+5-3	hvor	O	
+5-4	flere	B-adj.all	
+5-5	tusinde	B-noun.quantity	
+5-6	flygtninge	B-noun.person	
+5-7	har	O	
+5-8	søgt	B-verb.act	
+5-9	ly	B-noun.abstract	
+5-10	,	O	
+5-11	blev	O	
+5-12	i	O	
+5-13	løbet	O	
+5-14	af	O	
+5-15	onsdagen	B-noun.time	
+5-16	udsat	B-verb.phenomenon	
+5-17	for	O	
+5-18	intensiv	B-adj.all	
+5-19	artilleribeskydning	B-noun.act	
+5-20	,	O	
+5-21	oplyste	B-verb.communication	
+5-22	radioen	B-noun.communication	
+5-23	.	O	
+
+#id=6
+#text=Fornyetblokade
+6-1	Fornyet	B-adj.all	
+6-2	blokade	B-noun.act	
+
+#id=7
+#text=IBruxelles besluttede NATOambassadører onsdag at bede organisationens militære planlæggere om at lave et udkast til en stramning af blokaden mod Rest-Jugoslavien , der beskyldes for at holde krigen i_gang ved de fortsatte landerobringer i Bosnien .
+7-1	I	O	
+7-2	Bruxelles	B-noun.location	
+7-3	besluttede	B-verb.cognition	
+7-4	NATOambassadører	B-noun.person	
+7-5	onsdag	B-noun.time	
+7-6	at	O	
+7-7	bede	B-verb.communication	
+7-8	organisationens	B-noun.institution	
+7-9	militære	B-adj.all	
+7-10	planlæggere	B-noun.person	
+7-11	om	O	
+7-12	at	O	
+7-13	lave	B-verb.creation	
+7-14	et	O	
+7-15	udkast	B-noun.communication	
+7-16	til	O	
+7-17	en	O	
+7-18	stramning	B-noun.act	
+7-19	af	O	
+7-20	blokaden	B-noun.act	
+7-21	mod	O	
+7-22	Rest-Jugoslavien	B-noun.institution	
+7-23	,	O	
+7-24	der	O	
+7-25	beskyldes	B-verb.communication	
+7-26	for	O	
+7-27	at	O	
+7-28	holde	B-verb.act	
+7-29	krigen	B-noun.act	
+7-30	i_gang	B-verb.COLL	
+7-31	ved	O	
+7-32	de	O	
+7-33	fortsatte	B-adj.all	
+7-34	landerobringer	B-noun.act	
+7-35	i	O	
+7-36	Bosnien	B-noun.location	
+7-37	.	O	
+

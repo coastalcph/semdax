@@ -1,0 +1,245 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=ILDI TRABANTER
+1-1	ILD	B-noun.phenomenon	
+1-2	I	O	
+1-3	TRABANTER	B-noun.vehicle	
+
+#id=2
+#text=Desidste par nætter har nazisterne brugt parkerede Trabanter til at barrikadere gaderne .
+2-1	De	O	
+2-2	sidste	B-adj.time	
+2-3	par	B-noun.quantity	
+2-4	nætter	B-noun.time	
+2-5	har	O	
+2-6	nazisterne	B-noun.person	
+2-7	brugt	B-verb.act	
+2-8	parkerede	B-adj.all	
+2-9	Trabanter	B-noun.vehicle	
+2-10	til	O	
+2-11	at	O	
+2-12	barrikadere	B-verb.act	
+2-13	gaderne	B-noun.location	
+2-14	.	O	
+
+#id=3
+#text=Desmå plasticbiler bliver stukket i brand for at holde politiet på afstand .
+3-1	De	O	
+3-2	små	B-adj.phys	
+3-3	plasticbiler	B-noun.vehicle	
+3-4	bliver	O	
+3-5	stukket	B-verb.act	
+3-6	i	O	
+3-7	brand	B-noun.phenomenon	
+3-8	for	O	
+3-9	at	O	
+3-10	holde	B-verb.act	
+3-11	politiet	B-noun.institution	
+3-12	på	B-verb.COLL	
+3-13	afstand	B-verb.COLL	
+3-14	.	O	
+
+#id=4
+#text=Sidender ikke længere er en udlænding i miles omkreds , er politi og presse blevet hovedmålet for aggression og vold , og beboerne raser igen .
+4-1	Siden	O	
+4-2	der	O	
+4-3	ikke	O	
+4-4	længere	O	
+4-5	er	B-verb.stative	
+4-6	en	O	
+4-7	udlænding	B-noun.person	
+4-8	i	O	
+4-9	miles	B-noun.quantity	
+4-10	omkreds	B-noun.location	
+4-11	,	O	
+4-12	er	B-verb.stative	
+4-13	politi	B-noun.institution	
+4-14	og	O	
+4-15	presse	B-noun.institution	
+4-16	blevet	B-verb.stative	
+4-17	hovedmålet	B-noun.motive	
+4-18	for	O	
+4-19	aggression	B-noun.feeling	
+4-20	og	O	
+4-21	vold	B-noun.act	
+4-22	,	O	
+4-23	og	O	
+4-24	beboerne	B-noun.person	
+4-25	raser	B-verb.emotion	
+4-26	igen	O	
+4-27	.	O	
+
+#id=5
+#text=I_dagsynes de pludselig , at optøjerne er gået for langt .
+5-1	I_dag	B-noun.time	
+5-2	synes	B-verb.cognition	
+5-3	de	O	
+5-4	pludselig	O	
+5-5	,	O	
+5-6	at	O	
+5-7	optøjerne	B-noun.event	
+5-8	er	O	
+5-9	gået	B-verb.act	
+5-10	for	B-verb.COLL	
+5-11	langt	I-verb.COLL	
+5-12	.	O	
+
+#id=6
+#text=Dethar vel aldrig været deres mening , at Trabanterne skulle ryge med i kampens hede .
+6-1	Det	O	
+6-2	har	O	
+6-3	vel	O	
+6-4	aldrig	O	
+6-5	været	B-verb.stative	
+6-6	deres	O	
+6-7	mening	B-noun.cognition	
+6-8	,	O	
+6-9	at	O	
+6-10	Trabanterne	B-noun.vehicle	
+6-11	skulle	O	
+6-12	ryge	B-verb.phenomenon	
+6-13	med	B-verb.PARTICLE	
+6-14	i	O	
+6-15	kampens	B-noun.event	
+6-16	hede	B-noun.phenomenon	
+6-17	.	O	
+
+#id=7
+#text=Atnogle vesttyske TV-selskaber har fået ødelagt kameraudstyr for millioner er mindre tragisk for folk i Lichtenhagen .
+7-1	At	O	
+7-2	nogle	O	
+7-3	vesttyske	B-adj.social	
+7-4	TV-selskaber	B-noun.institution	
+7-5	har	O	
+7-6	fået	B-verb.phenomenon	
+7-7	ødelagt	B-verb.change	
+7-8	kameraudstyr	B-noun.artifact	
+7-9	for	O	
+7-10	millioner	B-noun.quantity	
+7-11	er	B-verb.stative	
+7-12	mindre	O	
+7-13	tragisk	B-adj.all	
+7-14	for	O	
+7-15	folk	B-noun.person	
+7-16	i	O	
+7-17	Lichtenhagen	B-noun.location	
+7-18	.	O	
+
+#id=8
+#text=Nuer tusindvis af venstreorienterede og højreorienterede ekstremister på vej til Rostock .
+8-1	Nu	O	
+8-2	er	B-verb.stative	
+8-3	tusindvis	B-noun.quantity	
+8-4	af	O	
+8-5	venstreorienterede	B-adj.mental	
+8-6	og	O	
+8-7	højreorienterede	B-adj.mental	
+8-8	ekstremister	B-noun.person	
+8-9	på	B-verb.COLL	
+8-10	vej	B-verb.COLL	
+8-11	til	O	
+8-12	Rostock	B-noun.location	
+8-13	.	O	
+
+#id=9
+#text=Devil slås  for og mod racisme , og de vil kæmpe mod hinanden .
+9-1	De	O	
+9-2	vil	O	
+9-3	slås	B-verb.act	
+9-4	for	O	
+9-5	og	O	
+9-6	mod	O	
+9-7	racisme	B-noun.cognition	
+9-8	,	O	
+9-9	og	O	
+9-10	de	O	
+9-11	vil	O	
+9-12	kæmpe	B-verb.act	
+9-13	mod	O	
+9-14	hinanden	O	
+9-15	.	O	
+
+#id=10
+#text="Voldsturisme " bliver det kaldt .
+10-1	"	O	
+10-2	Voldsturisme	B-noun.phenomenon	
+10-3	"	O	
+10-4	bliver	O	
+10-5	det	O	
+10-6	kaldt	B-verb.communication	
+10-7	.	O	
+
+#id=11
+#text=Helebyen venter i frygt og spænding .
+11-1	Hele	B-adj.phys	
+11-2	byen	B-noun.location	
+11-3	venter	B-verb.stative	
+11-4	i	O	
+11-5	frygt	B-noun.feeling	
+11-6	og	O	
+11-7	spænding	B-noun.feeling	
+11-8	.	O	
+
+#id=12
+#text=Weekendenkan blive lang og blodig .
+12-1	Weekenden	B-noun.time	
+12-2	kan	O	
+12-3	blive	B-verb.change	
+12-4	lang	B-adj.time	
+12-5	og	O	
+12-6	blodig	B-adj.phys	
+12-7	.	O	
+
+#id=13
+#text=Nazisternelover at fortsætte til 1. september , dagen hvor Anden Verdenskrig blev startet i 1939 .
+13-1	Nazisterne	B-noun.person	
+13-2	lover	B-verb.communication	
+13-3	at	O	
+13-4	fortsætte	B-verb.act	
+13-5	til	O	
+13-6	1.	O	
+13-7	september	B-noun.time	
+13-8	,	O	
+13-9	dagen	B-noun.time	
+13-10	hvor	O	
+13-11	Anden	B-noun.event	
+13-12	Verdenskrig	I-noun.event	
+13-13	blev	O	
+13-14	startet	B-verb.aspectual	
+13-15	i	O	
+13-16	1939	B-noun.time	
+13-17	.	O	
+
+#id=14
+#text=Detrene helvede kan bryde løs når som helst .
+14-1	Det	O	
+14-2	rene	B-adj.all	
+14-3	helvede	B-noun.state	
+14-4	kan	O	
+14-5	bryde	B-verb.aspectual	
+14-6	løs	B-verb.PARTICLE	
+14-7	når	O	
+14-8	som	O	
+14-9	helst	O	
+14-10	.	O	
+
+#id=15
+#text=Folkher bad selv om det .
+15-1	Folk	B-noun.person	
+15-2	her	O	
+15-3	bad	B-verb.communication	
+15-4	selv	O	
+15-5	om	O	
+15-6	det	O	
+15-7	.	O	
+
+#id=16
+#text=Nukan de ikke stoppe det .
+16-1	Nu	O	
+16-2	kan	O	
+16-3	de	O	
+16-4	ikke	O	
+16-5	stoppe	B-verb.aspectual	
+16-6	det	O	
+16-7	.	O	
+

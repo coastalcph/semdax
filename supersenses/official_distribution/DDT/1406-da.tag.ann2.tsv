@@ -1,0 +1,220 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text="Vi tar' en tysker frem , vi tar' en tysker tilbage , vi tar' en tysker frem , åååårrr så ryster vi ham lidt ! "
+1-1	"	O	
+1-2	Vi	O	
+1-3	tar'	B-verb.motion	
+1-4	en	O	
+1-5	tysker	B-noun.person	
+1-6	frem	O	
+1-7	,	O	
+1-8	vi	O	
+1-9	tar'	B-verb.motion	
+1-10	en	O	
+1-11	tysker	B-noun.person	
+1-12	tilbage	O	
+1-13	,	O	
+1-14	vi	O	
+1-15	tar'	B-verb.motion	
+1-16	en	O	
+1-17	tysker	B-noun.person	
+1-18	frem	O	
+1-19	,	O	
+1-20	åååårrr	O	
+1-21	så	O	
+1-22	ryster	B-verb.motion	
+1-23	vi	O	
+1-24	ham	O	
+1-25	lidt	O	
+1-26	!	O	
+1-27	"	O	
+
+#id=2
+#text=Ogrystede , det var tyskerne .
+2-1	Og	O	
+2-2	rystede	B-adj.mental	
+2-3	,	O	
+2-4	det	O	
+2-5	var	B-verb.stative	
+2-6	tyskerne	B-noun.person	
+2-7	.	O	
+
+#id=3
+#text=Ogdet var ikke kun dem på banen :
+3-1	Og	O	
+3-2	det	O	
+3-3	var	B-verb.stative	
+3-4	ikke	O	
+3-5	kun	O	
+3-6	dem	O	
+3-7	på	O	
+3-8	banen	B-noun.location	
+3-9	:	O	
+
+#id=4
+#text="Jeg har aldrig set Hamburg så tom , der er ingen mennesker på gaden her efter kampen .
+4-1	"	O	
+4-2	Jeg	O	
+4-3	har	O	
+4-4	aldrig	O	
+4-5	set	B-verb.phenomenon	
+4-6	Hamburg	B-noun.location	
+4-7	så	O	
+4-8	tom	B-adj.phys	
+4-9	,	O	
+4-10	der	O	
+4-11	er	B-verb.stative	
+4-12	ingen	O	
+4-13	mennesker	B-noun.person	
+4-14	på	O	
+4-15	gaden	B-noun.location	
+4-16	her	O	
+4-17	efter	O	
+4-18	kampen	B-noun.act	
+4-19	.	O	
+
+#id=5
+#text=Menvi må jo ønske jer til lykke med en fantastisk sejr , " lød det i_går_aftes nedtrykt fra Harold Richard , sportsjournalist på Tysklands største avis , Bild , før det var hans tunge pligt at fylde sin avis med det største tyske nederlag i sportsmands minde .
+5-1	Men	O	
+5-2	vi	O	
+5-3	må	O	
+5-4	jo	O	
+5-5	ønske	B-verb.communication	
+5-6	jer	O	
+5-7	til	O	
+5-8	lykke	O	
+5-9	med	O	
+5-10	en	O	
+5-11	fantastisk	B-adj.all	
+5-12	sejr	B-noun.act	
+5-13	,	O	
+5-14	"	O	
+5-15	lød	B-verb.communication	
+5-16	det	O	
+5-17	i_går_aftes	B-noun.time	
+5-18	nedtrykt	O	
+5-19	fra	O	
+5-20	Harold	B-noun.person	
+5-21	Richard	I-noun.person	
+5-22	,	O	
+5-23	sportsjournalist	B-noun.person	
+5-24	på	O	
+5-25	Tysklands	B-noun.institution	
+5-26	største	B-adj.all	
+5-27	avis	B-noun.communication	
+5-28	,	O	
+5-29	Bild	B-noun.communication	
+5-30	,	O	
+5-31	før	O	
+5-32	det	O	
+5-33	var	O	
+5-34	hans	O	
+5-35	tunge	B-adj.all	
+5-36	pligt	B-noun.act	
+5-37	at	O	
+5-38	fylde	B-verb.creation	
+5-39	sin	O	
+5-40	avis	B-noun.communication	
+5-41	med	O	
+5-42	det	O	
+5-43	største	B-adj.all	
+5-44	tyske	B-adj.social	
+5-45	nederlag	B-noun.abstract	
+5-46	i	O	
+5-47	sportsmands	B-noun.person	
+5-48	minde	B-noun.cognition	
+5-49	.	O	
+
+#id=6
+#text=Detvar ellers Bild , som dagen før EM-finalekampen over hele forsiden skrev : " Undskyld danskere , men i_dag tager vi sejren " :
+6-1	Det	O	
+6-2	var	B-verb.stative	
+6-3	ellers	O	
+6-4	Bild	B-noun.communication	
+6-5	,	O	
+6-6	som	O	
+6-7	dagen	B-noun.time	
+6-8	før	O	
+6-9	EM-finalekampen	B-noun.event	
+6-10	over	O	
+6-11	hele	B-adj.phys	
+6-12	forsiden	B-noun.communication	
+6-13	skrev	B-verb.creation	
+6-14	:	O	
+6-15	"	O	
+6-16	Undskyld	O	
+6-17	danskere	B-noun.person	
+6-18	,	O	
+6-19	men	O	
+6-20	i_dag	B-noun.time	
+6-21	tager	B-verb.possession	
+6-22	vi	O	
+6-23	sejren	B-noun.act	
+6-24	"	O	
+6-25	:	O	
+
+#id=7
+#text="Ja , det skrev vi ... Nu må vi skrive til lykke .
+7-1	"	O	
+7-2	Ja	O	
+7-3	,	O	
+7-4	det	O	
+7-5	skrev	B-verb.communication	
+7-6	vi	O	
+7-7	...	O	
+7-8	Nu	O	
+7-9	må	O	
+7-10	vi	O	
+7-11	skrive	B-verb.communication	
+7-12	til	O	
+7-13	lykke	O	
+7-14	.	O	
+
+#id=8
+#text=Forén gangs skyld løb vores held ud , og vi bøjer os for jeres kvalitetsspil .
+8-1	For	O	
+8-2	én	O	
+8-3	gangs	B-noun.abstract	
+8-4	skyld	B-noun.abstract	
+8-5	løb	B-verb.phenomenon	
+8-6	vores	O	
+8-7	held	B-noun.phenomenon	
+8-8	ud	B-verb.PARTICLE	
+8-9	,	O	
+8-10	og	O	
+8-11	vi	O	
+8-12	bøjer	B-verb.motion	
+8-13	os	B-verb.REFLPRON	
+8-14	for	O	
+8-15	jeres	O	
+8-16	kvalitetsspil	B-noun.act	
+8-17	.	O	
+
+#id=9
+#text=Detvar sporten , der vandt i_aften .
+9-1	Det	O	
+9-2	var	B-verb.stative	
+9-3	sporten	B-noun.abstract	
+9-4	,	O	
+9-5	der	O	
+9-6	vandt	B-verb.competition	
+9-7	i_aften	B-noun.time	
+9-8	.	O	
+
+#id=10
+#text=Dettyske landshold spillede uden kvalitet i alle kampe undtagen kampen mod Sverige .
+10-1	Det	O	
+10-2	tyske	B-adj.social	
+10-3	landshold	B-noun.person	
+10-4	spillede	B-verb.competition	
+10-5	uden	O	
+10-6	kvalitet	B-noun.attribute	
+10-7	i	O	
+10-8	alle	O	
+10-9	kampe	B-noun.act	
+10-10	undtagen	O	
+10-11	kampen	B-noun.act	
+10-12	mod	O	
+10-13	Sverige	B-noun.institution	
+10-14	.	O	
+

@@ -1,0 +1,214 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Dekulhydrater , som optages langsomt i kroppen giver en god og langvarig mæthedsfornemmelse .
+1-1	De	O	
+1-2	kulhydrater	B-noun.object	
+1-3	,	O	
+1-4	som	O	
+1-5	optages	B-verb.phenomenon	
+1-6	langsomt	O	
+1-7	i	O	
+1-8	kroppen	B-noun.body	
+1-9	giver	B-verb.phenomenon	
+1-10	en	O	
+1-11	god	B-adj.all	
+1-12	og	O	
+1-13	langvarig	B-adj.time	
+1-14	mæthedsfornemmelse	B-noun.feeling	
+1-15	.	O	
+
+#id=2
+#text=Degode kulhydrater findes i brød , korn , pasta , ris , kartofler , grøntsager og frugt .
+2-1	De	O	
+2-2	gode	B-adj.all	
+2-3	kulhydrater	B-noun.object	
+2-4	findes	B-verb.stative	
+2-5	i	O	
+2-6	brød	B-noun.food	
+2-7	,	O	
+2-8	korn	B-noun.food	
+2-9	,	O	
+2-10	pasta	B-noun.food	
+2-11	,	O	
+2-12	ris	B-noun.food	
+2-13	,	O	
+2-14	kartofler	B-noun.food	
+2-15	,	O	
+2-16	grøntsager	B-noun.food	
+2-17	og	O	
+2-18	frugt	B-noun.food	
+2-19	.	O	
+
+#id=3
+#text=Deskal indgå i ethvert måltid - og til mellemmåltiderne må de gerne være eneste komponent .
+3-1	De	O	
+3-2	skal	O	
+3-3	indgå	B-verb.stative	
+3-4	i	O	
+3-5	ethvert	O	
+3-6	måltid	B-noun.food	
+3-7	-	O	
+3-8	og	O	
+3-9	til	O	
+3-10	mellemmåltiderne	B-noun.food	
+3-11	må	O	
+3-12	de	O	
+3-13	gerne	O	
+3-14	være	B-verb.stative	
+3-15	eneste	B-adj.all	
+3-16	komponent	B-noun.abstract	
+3-17	.	O	
+
+#id=4
+#text=Mælkog smør
+4-1	Mælk	B-noun.food	
+4-2	og	O	
+4-3	smør	B-noun.food	
+
+#id=5
+#text=Fedtsyrernedeles op i mættede , fleurmættede og monoumættede typer .
+5-1	Fedtsyrerne	B-noun.object	
+5-2	deles	B-verb.cognition	
+5-3	op	B-verb.PARTICLE	
+5-4	i	O	
+5-5	mættede	B-adj.all	
+5-6	,	O	
+5-7	fleurmættede	B-adj.all	
+5-8	og	O	
+5-9	monoumættede	B-adj.all	
+5-10	typer	B-noun.abstract	
+5-11	.	O	
+
+#id=6
+#text=Deskal indgå i lige dele i kosten .
+6-1	De	O	
+6-2	skal	O	
+6-3	indgå	B-verb.stative	
+6-4	i	O	
+6-5	lige	B-adj.all	
+6-6	dele	B-noun.relation	
+6-7	i	O	
+6-8	kosten	B-noun.food	
+6-9	.	O	
+
+#id=7
+#text=Defleste danskere spiser for mange mættede fedtsyrer , der findes i mejeriprodukter og kødvarer .
+7-1	De	O	
+7-2	fleste	O	
+7-3	danskere	B-noun.person	
+7-4	spiser	B-verb.consumption	
+7-5	for	O	
+7-6	mange	B-adj.all	
+7-7	mættede	B-adj.all	
+7-8	fedtsyrer	B-noun.object	
+7-9	,	O	
+7-10	der	O	
+7-11	findes	B-verb.stative	
+7-12	i	O	
+7-13	mejeriprodukter	B-noun.food	
+7-14	og	O	
+7-15	kødvarer	B-noun.food	
+7-16	.	O	
+
+#id=8
+#text=Fleurmættedefedtsyrer er indeholdt i majs- , vindruekerne- og solsikkeolie samt  i minariner .
+8-1	Fleurmættede	B-adj.all	
+8-2	fedtsyrer	B-adj.all	
+8-3	er	O	
+8-4	indeholdt	B-verb.stative	
+8-5	i	O	
+8-6	majs-	B-noun.food	
+8-7	,	O	
+8-8	vindruekerne-	B-noun.food	
+8-9	og	O	
+8-10	solsikkeolie	B-noun.food	
+8-11	samt	O	
+8-12	i	O	
+8-13	minariner	B-noun.food	
+8-14	.	O	
+
+#id=9
+#text=Monomættedefedtsyrer findes først og fremmest i olivenolie og er i_øvrigt den fedtsyre , der spises mest af sydpå , hvor de ikke forekommer så mange hjerte-kar sygdomme .
+9-1	Monomættede	B-adj.all	
+9-2	fedtsyrer	B-noun.object	
+9-3	findes	B-verb.stative	
+9-4	først	O	
+9-5	og	O	
+9-6	fremmest	O	
+9-7	i	O	
+9-8	olivenolie	B-noun.food	
+9-9	og	O	
+9-10	er	B-verb.stative	
+9-11	i_øvrigt	O	
+9-12	den	O	
+9-13	fedtsyre	B-noun.object	
+9-14	,	O	
+9-15	der	O	
+9-16	spises	B-verb.consumption	
+9-17	mest	O	
+9-18	af	O	
+9-19	sydpå	B-noun.location	
+9-20	,	O	
+9-21	hvor	O	
+9-22	de	O	
+9-23	ikke	O	
+9-24	forekommer	B-verb.phenomenon	
+9-25	så	O	
+9-26	mange	B-adj.all	
+9-27	hjerte-kar	B-noun.disease	
+9-28	sygdomme	I-noun.disease	
+9-29	.	O	
+
+#id=10
+#text=Fiskog fjerkræ
+10-1	Fisk	O	
+10-2	og	O	
+10-3	fjerkræ	O	
+
+#id=11
+#text=Proteinforekommer hovedsageligt i protein , fisk og fjerkræ .
+11-1	Protein	B-noun.object	
+11-2	forekommer	B-verb.phenomenon	
+11-3	hovedsageligt	O	
+11-4	i	O	
+11-5	protein	B-noun.object	
+11-6	,	O	
+11-7	fisk	B-noun.food	
+11-8	og	O	
+11-9	fjerkræ	B-noun.food	
+11-10	.	O	
+
+#id=12
+#text=Derer en tendens til , vi herhjemme får for meget protein fra forkerte kilder .
+12-1	Der	O	
+12-2	er	B-verb.stative	
+12-3	en	O	
+12-4	tendens	B-noun.phenomenon	
+12-5	til	O	
+12-6	,	O	
+12-7	vi	O	
+12-8	herhjemme	O	
+12-9	får	B-verb.consumption	
+12-10	for	O	
+12-11	meget	O	
+12-12	protein	B-noun.object	
+12-13	fra	O	
+12-14	forkerte	B-adj.all	
+12-15	kilder	B-noun.abstract	
+12-16	.	O	
+
+#id=13
+#text=Detskyldes vores alt for store forbrug af okse- og svinekød .
+13-1	Det	O	
+13-2	skyldes	B-verb.stative	
+13-3	vores	O	
+13-4	alt	O	
+13-5	for	O	
+13-6	store	B-adj.all	
+13-7	forbrug	B-noun.act	
+13-8	af	O	
+13-9	okse-	B-noun.food	
+13-10	og	O	
+13-11	svinekød	B-noun.food	
+13-12	.	O	
+

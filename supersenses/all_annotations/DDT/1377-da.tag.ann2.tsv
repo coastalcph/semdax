@@ -1,0 +1,213 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Situationener , at Lars Olsen endnu har det sidste år tilbage af sin kontrakt med Trabzonspor .
+1-1	Situationen	B-noun.state	
+1-2	er	B-verb.social	
+1-3	,	O	
+1-4	at	O	
+1-5	Lars	B-noun.person	
+1-6	Olsen	I-noun.person	
+1-7	endnu	O	
+1-8	har	B-verb.stative	
+1-9	det	O	
+1-10	sidste	B-adj.time	
+1-11	år	B-noun.time	
+1-12	tilbage	O	
+1-13	af	O	
+1-14	sin	O	
+1-15	kontrakt	B-noun.communication	
+1-16	med	O	
+1-17	Trabzonspor	B-noun.institution	
+1-18	.	O	
+
+#id=2
+#text=Menikke_desto_mindre vrimler aviserne med forlydender om , at landsholdets anfører skulle være på vej til en af Istanbuls tre topklubber , Besiktas , Fenerbache eller Galatasaray .
+2-1	Men	O	
+2-2	ikke_desto_mindre	O	
+2-3	vrimler	B-verb.phenomenon	
+2-4	aviserne	B-noun.communication	
+2-5	med	O	
+2-6	forlydender	B-noun.communication	
+2-7	om	O	
+2-8	,	O	
+2-9	at	O	
+2-10	landsholdets	B-noun.person	
+2-11	anfører	B-noun.person	
+2-12	skulle	O	
+2-13	være	B-verb.motion	
+2-14	på	B-verb.COLL	
+2-15	vej	B-verb.COLL	
+2-16	til	O	
+2-17	en	O	
+2-18	af	O	
+2-19	Istanbuls	B-noun.location	
+2-20	tre	O	
+2-21	topklubber	B-noun.institution	
+2-22	,	O	
+2-23	Besiktas	B-noun.institution	
+2-24	,	O	
+2-25	Fenerbache	B-noun.institution	
+2-26	eller	O	
+2-27	Galatasaray	B-noun.institution	
+2-28	.	O	
+
+#id=3
+#text="Jeg lægger ikke spor i denne rygte-regn , " siger Lars Olsen til B.T. .
+3-1	"	O	
+3-2	Jeg	O	
+3-3	lægger	B-verb.cognition	
+3-4	ikke	O	
+3-5	spor	B-noun.abstract	
+3-6	i	O	
+3-7	denne	O	
+3-8	rygte-regn	B-noun.communication	
+3-9	,	O	
+3-10	"	O	
+3-11	siger	B-verb.communication	
+3-12	Lars	B-noun.person	
+3-13	Olsen	I-noun.person	
+3-14	til	O	
+3-15	B.T.	B-noun.person	
+3-16	.	O	
+
+#id=4
+#text="Vi er midt i den mest hektiske " handelstid " i tyrkisk fodbold .
+4-1	"	O	
+4-2	Vi	O	
+4-3	er	B-verb.stative	
+4-4	midt	O	
+4-5	i	O	
+4-6	den	O	
+4-7	mest	O	
+4-8	hektiske	B-adj.all	
+4-9	"	O	
+4-10	handelstid	B-noun.time	
+4-11	"	O	
+4-12	i	O	
+4-13	tyrkisk	B-adj.social	
+4-14	fodbold	B-noun.domain	
+4-15	.	O	
+
+#id=5
+#text=Allegætter alt om alle .
+5-1	Alle	O	
+5-2	gætter	B-verb.cognition	
+5-3	alt	O	
+5-4	om	O	
+5-5	alle	O	
+5-6	.	O	
+
+#id=6
+#text=Selvopdager jeg vist kun et fåtal af alle rygterne , fordi jeg kun en sjælden gang køber en tyrkisk avis af hensyn til TV-programmerne .
+6-1	Selv	O	
+6-2	opdager	B-verb.cognition	
+6-3	jeg	O	
+6-4	vist	O	
+6-5	kun	O	
+6-6	et	O	
+6-7	fåtal	B-noun.quantity	
+6-8	af	O	
+6-9	alle	O	
+6-10	rygterne	B-noun.communication	
+6-11	,	O	
+6-12	fordi	O	
+6-13	jeg	O	
+6-14	kun	O	
+6-15	en	O	
+6-16	sjælden	B-adj.time	
+6-17	gang	B-noun.abstract	
+6-18	køber	B-verb.possession	
+6-19	en	O	
+6-20	tyrkisk	B-adj.social	
+6-21	avis	B-noun.communication	
+6-22	af	O	
+6-23	hensyn	B-noun.cognition	
+6-24	til	O	
+6-25	TV-programmerne	B-noun.communication	
+6-26	.	O	
+
+#id=7
+#text=Isidste weekend spurgte min klub- og værelses-kammerat pludselig , hvorfor jeg ville til fransk fodbold .
+7-1	I	O	
+7-2	sidste	B-adj.time	
+7-3	weekend	B-noun.time	
+7-4	spurgte	B-verb.communication	
+7-5	min	O	
+7-6	klub-	B-noun.person	
+7-7	og	O	
+7-8	værelses-kammerat	B-noun.person	
+7-9	pludselig	O	
+7-10	,	O	
+7-11	hvorfor	O	
+7-12	jeg	O	
+7-13	ville	O	
+7-14	til	O	
+7-15	fransk	B-adj.social	
+7-16	fodbold	B-noun.domain	
+7-17	.	O	
+
+#id=8
+#text=Detviste sig , at en avis mente at vide , at franske Lyon , som vi slog i den anden Europa_Cup-runde sidste efterår , skulle være interesseret i mig .
+8-1	Det	O	
+8-2	viste	B-verb.phenomenon	
+8-3	sig	B-verb.REFLPRON	
+8-4	,	O	
+8-5	at	O	
+8-6	en	O	
+8-7	avis	B-noun.communication	
+8-8	mente	B-verb.cognition	
+8-9	at	O	
+8-10	vide	B-verb.cognition	
+8-11	,	O	
+8-12	at	O	
+8-13	franske	B-adj.social	
+8-14	Lyon	B-noun.institution	
+8-15	,	O	
+8-16	som	O	
+8-17	vi	O	
+8-18	slog	B-verb.competition	
+8-19	i	O	
+8-20	den	O	
+8-21	anden	B-adj.time	
+8-22	Europa_Cup-runde	B-noun.event	
+8-23	sidste	B-adj.time	
+8-24	efterår	B-noun.time	
+8-25	,	O	
+8-26	skulle	O	
+8-27	være	B-verb.cognition	
+8-28	interesseret	B-adj.mental	
+8-29	i	O	
+8-30	mig	O	
+8-31	.	O	
+
+#id=9
+#text=Mensom sagt : Mit faste holdepunkt er nu en gang min kontrakt på endnu et år i Trabzonspor , hvor jeg også befinder mig fortrinligt . "
+9-1	Men	O	
+9-2	som	O	
+9-3	sagt	B-verb.communication	
+9-4	:	O	
+9-5	Mit	O	
+9-6	faste	B-adj.all	
+9-7	holdepunkt	B-noun.cognition	
+9-8	er	B-verb.stative	
+9-9	nu	O	
+9-10	en	O	
+9-11	gang	O	
+9-12	min	O	
+9-13	kontrakt	B-noun.communication	
+9-14	på	O	
+9-15	endnu	O	
+9-16	et	O	
+9-17	år	B-noun.time	
+9-18	i	O	
+9-19	Trabzonspor	B-noun.institution	
+9-20	,	O	
+9-21	hvor	O	
+9-22	jeg	O	
+9-23	også	O	
+9-24	befinder	B-verb.stative	
+9-25	mig	O	
+9-26	fortrinligt	B-adj.all	
+9-27	.	O	
+9-28	"	O	
+

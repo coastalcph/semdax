@@ -1,0 +1,2167 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=IHolstebro tør de ikke lade en skulptur stå ude om natten.
+1-1	I	i	T-:----:--:----	O	
+1-2	Holstebro	Holstebro	NP:siu#:--:----	O	
+1-3	tør	turde	VF:----:sa:----	B-verb.change|B-verb.motion|B-verb.emotion|B-verb.phenomenon	
+1-4	de	de	PP:p-n#:--:-3n-	O	
+1-5	ikke	ikke	D-:----:--:u---	O	
+1-6	lade	lade	VI:----:-a:----	B-verb.change|B-verb.communication|B-verb.act|B-verb.phenomenon	
+1-7	en	en	PI:s-uc:--:----	O	
+1-8	skulptur	skulptur	NC:siuc:--:----	B-noun.domain|B-noun.artifact	
+1-9	stå	stå	VI:----:-a:----	B-verb.stative|B-verb.communication|B-verb.act|B-verb.emotion|B-verb.motion	
+1-10	ude	ude	D-:----:--:u---	O	
+1-11	om	om	T-:----:--:----	O	
+1-12	natten	nat	NC:sduc:--:----	B-noun.time	
+1-13	.	.	ZP	O	
+
+#id=2
+#text=Drengenbetragtes af politiet som farlig, og derfor blev han efterlyst med navn og billede, selv om retten har nedlagt navneforbud.
+2-1	Drengen	dreng	NC:sduc:--:----	B-noun.artifact|B-noun.person	
+2-2	betragtes	betragte	VF:----:sp:----	B-verb.cognition|B-verb.phenomenon	
+2-3	af	af	T-:----:--:----	O	
+2-4	politiet	politi	NC:sdun:--:----	B-noun.institution	
+2-5	som	som	US:----:--:----	O	
+2-6	farlig	farlig	AD:----:--:p---	B-adj.phys|B-adj.all	
+2-7	,	,	ZD	O	
+2-8	og	og	CC:----:--:----	O	
+2-9	derfor	derfor	D-:----:--:u---	O	
+2-10	blev	blive	VF:----:ta:----	B-verb.TOP|B-verb.act|B-verb.stative	
+2-11	han	han	PP:s-nc:--:-3n-	O	
+2-12	efterlyst	efterlyse	VT:siu#:t-:----	B-verb.communication	
+2-13	med	med	T-:----:--:----	O	
+2-14	navn	navn	NC:siun:--:----	B-noun.communication|B-noun.person|B-noun.attribute	
+2-15	og	og	CC:----:--:----	O	
+2-16	billede	billede	NC:siun:--:----	B-noun.object|B-noun.artifact|B-noun.cognition	
+2-17	,	,	ZD	O	
+2-18	selv	selv	D-:----:--:u---	O	
+2-19	om	om	T-:----:--:----	O	
+2-20	retten	ret	NC:sduc:--:----	B-noun.institution|B-noun.person|B-noun.food|B-noun.artifact|B-noun.cognition	
+2-21	har	have	VF:----:sa:----	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+2-22	nedlagt	nedlægge	VT:siu#:t-:----	B-verb.social|B-verb.creation|B-verb.act|B-verb.communication|B-verb.motion	
+2-23	navneforbud	navneforbud	NC:siun:--:----	B-noun.act	
+2-24	.	.	ZP	O	
+
+#id=3
+#text=4.
+3-1	4	4	LC:--u-:--:----	O	
+3-2	.	.	ZP	O	
+
+#id=4
+#text=30-årige Staal har i denne sæson været på isen for HV 71, der netop har hentet sølv i den svenske eliteserie, men nu trækker hans gamle klub med et attraktivt tilbud.
+4-1	30	30	LC:--u-:--:----	O	
+4-2	-	-	ZH	O	
+4-3	årige	årig	AC:sdu#:--:p---	O	
+4-4	Staal	Staal	NP:siu#:--:----	O	
+4-5	har	have	VF:----:sa:----	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+4-6	i	i	T-:----:--:----	O	
+4-7	denne	denne	PM:s-uc:--:----	O	
+4-8	sæson	sæson	NC:siuc:--:----	B-noun.time	
+4-9	været	være	VT:siu#:t-:----	B-verb.TOP|B-verb.social|B-verb.stative	
+4-10	på	på	T-:----:--:----	O	
+4-11	isen	is	NC:sduc:--:----	B-noun.substance|B-noun.food	
+4-12	for	for	T-:----:--:----	O	
+4-13	HV	HV	NP:siu#:--:----	O	
+4-14	71	71	LC:--u-:--:----	O	
+4-15	,	,	ZD	O	
+4-16	der	der	US:----:--:----	O	
+4-17	netop	netop	D-:----:--:u---	O	
+4-18	har	have	VF:----:sa:----	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+4-19	hentet	hente	VT:siu#:t-:----	B-verb.motion|B-verb.possession	
+4-20	sølv	sølv	NC:siun:--:----	B-noun.artifact|B-noun.substance	
+4-21	i	i	T-:----:--:----	O	
+4-22	den	den	PM:s-uc:--:----	O	
+4-23	svenske	svensk	AC:sdu#:--:p---	B-adj.social	
+4-24	eliteserie	eliteserie	NC:siuc:--:----	O	
+4-25	,	,	ZD	O	
+4-26	men	men	CC:----:--:----	O	
+4-27	nu	nu	D-:----:--:u---	O	
+4-28	trækker	trække	VF:----:sa:----	B-verb.possession|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.motion|B-verb.phenomenon	
+4-29	hans	hans	PO:#--#:--:-3ns	O	
+4-30	gamle	gammel	AC:sdu#:--:p---	B-adj.time	
+4-31	klub	klub	NC:siuc:--:----	B-noun.institution|B-noun.motive|B-noun.person|B-noun.building	
+4-32	med	med	T-:----:--:----	O	
+4-33	et	en	PI:s-un:--:----	O	
+4-34	attraktivt	attraktiv	AC:siun:--:p---	O	
+4-35	tilbud	tilbud	NC:siun:--:----	B-noun.act|B-noun.TOP|B-noun.possession	
+4-36	.	.	ZP	O	
+
+#id=5
+#text=Til den tid forventer regionen at have været igennem en ny udbudsrunde, skriver Dagbladet Ringsted og Sjællandske.
+5-1	Til	til	T-:----:--:----	O	
+5-2	den	den	PM:s-uc:--:----	O	
+5-3	tid	tid	NC:siuc:--:----	B-noun.communication|B-noun.motive|B-noun.time|B-noun.attribute|B-noun.quantity|B-noun.TOP	
+5-4	forventer	forvente	VF:----:sa:----	B-verb.cognition|B-verb.emotion	
+5-5	regionen	region	NC:sduc:--:----	B-noun.body|B-noun.location|B-noun.cognition	
+5-6	at	at	UI:----:--:----	O	
+5-7	have	have	VI:----:-a:----	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+5-8	været	være	VT:siu#:t-:----	B-verb.TOP|B-verb.social|B-verb.stative	
+5-9	igennem	igennem	T-:----:--:----	O	
+5-10	en	en	PI:s-uc:--:----	O	
+5-11	ny	ny	AC:siuc:--:p---	B-adj.time	
+5-12	udbudsrunde	udbudsrunde	NC:siuc:--:----	B-noun.act	
+5-13	,	,	ZD	O	
+5-14	skriver	skrive	VF:----:sa:----	B-verb.creation|B-verb.communication	
+5-15	Dagbladet	Dagbladet	NP:siu#:--:----	B-noun.communication	
+5-16	Ringsted	Ringsted	NP:siu#:--:----	O	
+5-17	og	og	CC:----:--:----	O	
+5-18	Sjællandske	sjællandsk	AC:p#u#:--:p---	O	
+5-19	.	.	ZP	O	
+
+#id=6
+#text=Ja, det var åbenlyst for alle i den tribunebuldrende hal i den  kroatiske havneby Porec:
+6-1	Ja	ja	I-:----:--:----	O	
+6-2	,	,	ZD	O	
+6-3	det	det	PP:s-un:--:-3n-	O	
+6-4	var	være	VF:----:ta:----	B-verb.TOP|B-verb.social|B-verb.stative	
+6-5	åbenlyst	åbenlys	AD:----:--:p---	B-adj.mental	
+6-6	for	for	T-:----:--:----	O	
+6-7	alle	al	PI:p-u#:--:----	O	
+6-8	i	i	T-:----:--:----	O	
+6-9	den	den	PM:s-uc:--:----	O	
+6-10	tribunebuldrende	tribunebuldre	VP:##u#:s-:----	O	
+6-11	hal	hal	NC:siuc:--:----	B-noun.artifact|B-noun.building	
+6-12	i	i	T-:----:--:----	O	
+6-13	den	den	PM:s-uc:--:----	O	
+6-14	kroatiske	kroatisk	AC:sdu#:--:p---	O	
+6-15	havneby	havneby	NC:siuc:--:----	B-noun.location	
+6-16	Porec	Porec	NP:siu#:--:----	O	
+6-17	:	:	ZP	O	
+
+#id=7
+#text="Vived godt, at vi er de bedste.
+7-1	"	"	ZI	O	
+7-2	Vi	vi	PP:p-nc:--:-1n-	O	
+7-3	ved	vide	VF:----:sa:----	B-verb.cognition|B-verb.emotion	
+7-4	godt	god	AD:----:--:p---	B-adj.all	
+7-5	,	,	ZD	O	
+7-6	at	at	CS:----:--:----	O	
+7-7	vi	vi	PP:p-nc:--:-1n-	O	
+7-8	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+7-9	de	den	PM:p-u#:--:----	O	
+7-10	bedste	god	AC:§du§:--:s---	B-adj.all	
+7-11	.	.	ZP	O	
+
+#id=8
+#text=Det er blevet til en serie grafiske kunsttryk, der hver især er produceret i et oplag på 2.000 stk. "Som fagnørder i begge verdener har  vi lagt vægt på et grafisk kunsttryk af høj håndværksmæssig kvalitet", fortæller Anders
+8-1	Det	det	PP:s-un:--:-3n-	O	
+8-2	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+8-3	blevet	blive	VT:siu#:t-:----	B-verb.TOP|B-verb.act|B-verb.stative	
+8-4	til	til	T-:----:--:----	O	
+8-5	en	en	PI:s-uc:--:----	O	
+8-6	serie	serie	NC:siuc:--:----	B-noun.communication|B-noun.artifact|B-noun.person|B-noun.group	
+8-7	grafiske	grafisk	AC:p#u#:--:p---	B-adj.phys	
+8-8	kunsttryk	kunsttryk	NC:piu#:--:----	O	
+8-9	,	,	ZD	O	
+8-10	der	der	US:----:--:----	O	
+8-11	hver	hver	PI:s-uc:--:----	O	
+8-12	især	især	D-:----:--:u---	O	
+8-13	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+8-14	produceret	producere	VT:siu#:t-:----	B-verb.phenomenon|B-verb.creation	
+8-15	i	i	T-:----:--:----	O	
+8-16	et	en	PI:s-un:--:----	O	
+8-17	oplag	oplag	NC:siun:--:----	B-noun.quantity|B-noun.group	
+8-18	på	på	T-:----:--:----	O	
+8-19	2	2	LC:--u-:--:----	O	
+8-20	.	.	ZP	O	
+8-21	000	000	LC:--u-:--:----	O	
+8-22	stk	stk	XS:----:--:----	O	
+8-23	.	.	ZP	O	
+8-24	"	"	ZI	O	
+8-25	Som	som	US:----:--:----	O	
+8-26	fagnørder	fagnørd	NC:piu#:--:----	O	
+8-27	i	i	T-:----:--:----	O	
+8-28	begge	begge	PM:p-u#:--:----	O	
+8-29	verdener	verden	NC:piu#:--:----	B-noun.location|B-noun.act|B-noun.quantity|B-noun.phenomenon|B-noun.group|B-noun.person|B-noun.cognition|B-noun.object	
+8-30	har	have	VF:----:sa:----	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+8-31	vi	vi	PP:p-nc:--:-1n-	O	
+8-32	lagt	lægge	VT:siu#:t-:----	B-verb.motion|B-verb.act|B-verb.cognition	
+8-33	vægt	vægt	NC:siuc:--:----	B-noun.cognition|B-noun.artifact|B-noun.phenomenon|B-noun.quantity|B-noun.person	
+8-34	på	på	T-:----:--:----	O	
+8-35	et	en	PI:s-un:--:----	O	
+8-36	grafisk	grafisk	AC:siu§:--:p---	B-adj.phys	
+8-37	kunsttryk	kunsttryk	NC:siun:--:----	O	
+8-38	af	af	T-:----:--:----	O	
+8-39	høj	høj	AC:siuc:--:p---	B-adj.phys|B-adj.all	
+8-40	håndværksmæssig	håndværksmæssig	AC:siuc:--:p---	O	
+8-41	kvalitet	kvalitet	NC:siuc:--:----	B-noun.attribute|B-noun.phenomenon	
+8-42	"	"	ZI	O	
+8-43	,	,	ZD	O	
+8-44	fortæller	fortælle	VF:----:sa:----	B-verb.communication	
+8-45	Anders	Anders	NP:siu#:--:----	O	
+
+#id=9
+#text=Overfaldsmanden bøjer sig over ham og siger:
+9-1	Overfaldsmanden	overfaldsmand	NC:sduc:--:----	B-noun.person	
+9-2	bøjer	bøje	VF:----:sa:----	B-verb.motion|B-verb.act|B-verb.cognition	
+9-3	sig	sig	PP:#-u#:--:-3y-	O	
+9-4	over	over	T-:----:--:----	O	
+9-5	ham	han	PP:s-uc:--:-3n-	O	
+9-6	og	og	CC:----:--:----	O	
+9-7	siger	e	VF:----:sa:----	B-verb.cognition|B-verb.communication|B-verb.phenomenon	
+9-8	:	:	ZP	O	
+
+#id=10
+#text=Det skulle have stået "lidt mere end halvdelen".
+10-1	Det	det	PP:s-un:--:-3n-	O	
+10-2	skulle	skulle	VF:----:ta:----	B-verb.phenomenon	
+10-3	have	have	VI:----:-a:----	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+10-4	stået	stå	VT:siu#:t-:----	B-verb.stative|B-verb.emotion|B-verb.communication|B-verb.act|B-verb.motion	
+10-5	"	"	ZI	O	
+10-6	lidt	lidt	AD:----:--:p---	O	
+10-7	mere	megen	AC:##u#:--:c---	O	
+10-8	end	end	CS:----:--:----	O	
+10-9	halvdelen	halvdel	NC:sduc:--:----	B-noun.quantity	
+10-10	"	"	ZI	O	
+10-11	.	.	ZP	O	
+
+#id=11
+#text=Derer ingen tvivl om, at samtidsforfattere, som kan ramme et stort publikum, også fremover vil få tilbudt store forskud", mener Hans Henrik Schwab.
+11-1	Der	der	US:----:--:----	O	
+11-2	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+11-3	ingen	ingen	PI:s-uc:--:----	O	
+11-4	tvivl	tvivl	NC:siuc:--:----	B-noun.cognition	
+11-5	om	om	T-:----:--:----	O	
+11-6	,	,	ZD	O	
+11-7	at	at	CS:----:--:----	O	
+11-8	samtidsforfattere	samtidsforfatter	NC:piu#:--:----	O	
+11-9	,	,	ZD	O	
+11-10	som	som	US:----:--:----	O	
+11-11	kan	kunne	VF:----:sa:----	B-verb.social	
+11-12	ramme	ramme	VI:----:-a:----	B-verb.motion|B-verb.act	
+11-13	et	en	PI:s-un:--:----	O	
+11-14	stort	stor	AC:siun:--:p---	B-adj.phys	
+11-15	publikum	publikum	NC:siun:--:----	B-noun.person	
+11-16	,	,	ZD	O	
+11-17	også	også	D-:----:--:u---	O	
+11-18	fremover	fremover	D-:----:--:u---	O	
+11-19	vil	ville	VF:----:sa:----	B-verb.cognition	
+11-20	få	få	VI:----:-a:----	B-verb.change|B-verb.phenomenon|B-verb.act|B-verb.possession	
+11-21	tilbudt	tilbyde	VT:siu#:t-:----	B-verb.social|B-verb.communication	
+11-22	store	stor	AC:p#u#:--:p---	B-adj.phys	
+11-23	forskud	forskud	NC:piu#:--:----	B-noun.quantity	
+11-24	"	"	ZI	O	
+11-25	,	,	ZD	O	
+11-26	mener	mene	VF:----:sa:----	B-verb.cognition|B-verb.communication	
+11-27	Hans	Hans	NP:siu#:--:----	B-noun.animal|B-noun.person	
+11-28	Henrik	Henrik	NP:siu#:--:----	O	
+11-29	Schwab	Schwab	NP:siu#:--:----	O	
+11-30	.	.	ZP	O	
+
+#id=12
+#text="Ja,det gør jeg.
+12-1	"	"	ZI	O	
+12-2	Ja	ja	I-:----:--:----	O	
+12-3	,	,	ZD	O	
+12-4	det	det	PP:s-un:--:-3n-	O	
+12-5	gør	gøre	VF:----:sa:----	B-verb.change|B-verb.communication|B-verb.phenomenon|B-verb.act|B-verb.creation	
+12-6	jeg	jeg	PP:s-nc:--:-1n-	O	
+12-7	.	.	ZP	O	
+
+#id=13
+#text=Det er noget, man ikke rigtigt kan forberede sig på", sagde tidligere pilot Denny Walsh til CNN.
+13-1	Det	det	PP:s-un:--:-3n-	O	
+13-2	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+13-3	noget	nogen	PI:s-un:--:----	O	
+13-4	,	,	ZD	O	
+13-5	man	man	PI:#-uc:--:----	O	
+13-6	ikke	ikke	D-:----:--:u---	O	
+13-7	rigtigt	rigtig	AD:----:--:p---	B-adj.phys	
+13-8	kan	kunne	VF:----:sa:----	B-verb.social	
+13-9	forberede	forberede	VI:----:-a:----	B-verb.change|B-verb.communication	
+13-10	sig	sig	PP:#-u#:--:-3y-	O	
+13-11	på	på	T-:----:--:----	O	
+13-12	"	"	ZI	O	
+13-13	,	,	ZD	O	
+13-14	sagde	sige	VF:----:ta:----	B-verb.cognition|B-verb.communication|B-verb.phenomenon	
+13-15	tidligere	tidlig	AC:##u#:--:c---	B-adj.time	
+13-16	pilot	pilot	NC:siuc:--:----	B-noun.person	
+13-17	Denny	Denny	NP:siu#:--:----	O	
+13-18	Walsh	Walsh	NP:siu#:--:----	O	
+13-19	til	til	T-:----:--:----	O	
+13-20	CNN	CNN	XY:----:--:----	O	
+13-21	.	.	ZP	O	
+
+#id=14
+#text=Findesder ikke et eneste stykke papir i Vatikanets kældre om alt det?
+14-1	Findes	finde	VF:----:sp:----	B-verb.phenomenon|B-verb.stative|B-verb.cognition|B-verb.act|B-verb.motion	
+14-2	der	der	US:----:--:----	O	
+14-3	ikke	ikke	D-:----:--:u---	O	
+14-4	et	en	PI:s-un:--:----	O	
+14-5	eneste	eneste	AC:§§u§:--:p---	O	
+14-6	stykke	stykke	NC:siun:--:----	B-noun.communication|B-noun.quantity|B-noun.artifact|B-noun.time|B-noun.person|B-noun.food	
+14-7	papir	papir	NC:siun:--:----	B-noun.communication|B-noun.person|B-noun.artifact	
+14-8	i	i	T-:----:--:----	O	
+14-9	Vatikanets	Vatikanet	NP:sig#:--:----	O	
+14-10	kældre	kælder	NC:piu#:--:----	B-noun.artifact	
+14-11	om	om	T-:----:--:----	O	
+14-12	alt	al	un:--:----	O	
+14-13	det	det	PP:s-un:--:-3n-	O	
+14-14	?	?	ZQ	O	
+
+#id=15
+#text="Jeghar gang i forhandlinger med arrangørerne af både Giro d'Italia og Vuelta a España, og jeg anser det bestemt for muligt, at vi kommer til start i hvert fald i en af de to store begivenheder allerede i år.
+15-1	"	"	ZI	O	
+15-2	Jeg	jeg	PP:s-nc:--:-1n-	O	
+15-3	har	have	VF:----:sa:----	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+15-4	gang	gang	NC:siuc:--:----	B-noun.act|B-noun.artifact|B-noun.TOP|B-noun.location|B-noun.quantity	
+15-5	i	i	T-:----:--:----	O	
+15-6	forhandlinger	forhandling	NC:piu#:--:----	B-noun.act|B-noun.TOP|B-noun.possession	
+15-7	med	med	T-:----:--:----	O	
+15-8	arrangørerne	arrangør	NC:pdu#:--:----	B-noun.person	
+15-9	af	af	T-:----:--:----	O	
+15-10	både	både	D-:----:--:u---	O	
+15-11	Giro	Giro	NP:siu#:--:----	B-noun.act|B-noun.communication	
+15-12	d	d	NP:siu#:--:----	B-noun.communication|B-noun.phenomenon	
+15-13	'	'	ZA	O	
+15-14	Italia	Italia	NP:siu#:--:----	O	
+15-15	og	og	CC:----:--:----	O	
+15-16	Vuelta	Vuelta	NP:siu#:--:----	O	
+15-17	a	a	XF:----:--:----	O	
+15-18	España	España	NP:siu#:--:----	O	
+15-19	,	,	ZD	O	
+15-20	og	og	CC:----:--:----	O	
+15-21	jeg	jeg	PP:s-nc:--:-1n-	O	
+15-22	anser	anse	VF:----:sa:----	B-verb.cognition	
+15-23	det	det	PP:s-un:--:-3n-	O	
+15-24	bestemt	bestemme	VT:siu#:t-:----	B-verb.cognition|B-verb.act	
+15-25	for	for	T-:----:--:----	O	
+15-26	muligt	mulig	AC:siun:--:p---	B-adj.phys	
+15-27	,	,	ZD	O	
+15-28	at	at	CS:----:--:----	O	
+15-29	vi	vi	PP:p-nc:--:-1n-	O	
+15-30	kommer	komme	VF:----:sa:----	B-verb.social|B-verb.communication|B-verb.act|B-verb.motion	
+15-31	til	til	T-:----:--:----	O	
+15-32	start	start	NC:siuc:--:----	B-noun.time|B-noun.artifact|B-noun.act	
+15-33	i	i	T-:----:--:----	O	
+15-34	hvert	hver	PI:s-un:--:----	O	
+15-35	fald	fald	NC:siun:--:----	B-noun.communication|B-noun.act|B-noun.artifact|B-noun.cognition|B-noun.location	
+15-36	i	i	T-:----:--:----	O	
+15-37	en	en	PI:s-uc:--:----	O	
+15-38	af	af	T-:----:--:----	O	
+15-39	de	den	PM:p-u#:--:----	O	
+15-40	to	to	LC:--u-:--:----	O	
+15-41	store	stor	AC:p#u#:--:p---	B-adj.phys	
+15-42	begivenheder	begivenhed	NC:piu#:--:----	B-noun.act	
+15-43	allerede	allerede	D-:----:--:u---	O	
+15-44	i	i	T-:----:--:----	O	
+15-45	år	år	NC:siun:--:----	B-noun.time	
+15-46	.	.	ZP	O	
+
+#id=16
+#text=Clint Eastwood spiller sig selv i stålhjelm og kaki.
+16-1	Clint	Clint	NP:siu#:--:----	O	
+16-2	Eastwood	Eastwood	NP:siu#:--:----	O	
+16-3	spiller	spille	VF:----:sa:----	B-verb.motion|B-verb.communication|B-verb.act|B-verb.creation|B-verb.social|B-verb.change	
+16-4	sig	sig	PP:#-u#:--:-3y-	O	
+16-5	selv	selv	PM:#-u#:--:----	O	
+16-6	i	i	T-:----:--:----	O	
+16-7	stålhjelm	stålhjelm	NC:siuc:--:----	B-noun.artifact	
+16-8	og	og	CC:----:--:----	O	
+16-9	kaki	kaki	NC:siu#:--:----	B-noun.artifact	
+16-10	.	.	ZP	O	
+
+#id=17
+#text=I 2020 skal udledningen af bl.
+17-1	I	i	T-:----:--:----	O	
+17-2	2020	2020	LC:--u-:--:----	O	
+17-3	skal	skulle	VF:----:sa:----	B-verb.motion|B-verb.phenomenon	
+17-4	udledningen	udledning	NC:sduc:--:----	B-noun.substance	
+17-5	af	af	T-:----:--:----	O	
+17-6	bl	blandt	T-:----:--:----	O	
+17-7	.	.	ZP	O	
+
+#id=18
+#text=Historiener noget lignende vor egen klassiker ' Mød mig på Cassiopeia'.
+18-1	Historien	Historien	XY:----:--:----	O	
+18-2	er	er	XY:----:--:----	O	
+18-3	noget	noget	XY:----:--:----	O	
+18-4	lignende	lignende	XY:----:--:----	O	
+18-5	vor	vor	XY:----:--:----	O	
+18-6	egen	egen	XY:----:--:----	O	
+18-7	klassiker	klassiker	XY:----:--:----	O	
+18-8	'	'	XY:----:--:----	O	
+18-9	Mød	Mød	XY:----:--:----	O	
+18-10	mig	mig	XY:----:--:----	O	
+18-11	på	på	XY:----:--:----	O	
+18-12	Cassiopeia	Cassiopeia	XY:----:--:----	O	
+18-13	'	'	XY:----:--:----	O	
+18-14	.	.	XY:----:--:----	O	
+
+#id=19
+#text=IDEN anden af to aktuelle - og i øvrigt ganske komplementerende - biografier på dansk, ' Michelle Obama - en biografi', understøtter Liza Mundy billedet af Michelle Obama som "en lidt gammeldags person, en kvinde, som gerne vil have en traditionel, intakt familie omkring sig ved bordet, og som først og fremmest ser sig selv som mor".
+19-1	I	i	T-:----:--:----	O	
+19-2	DEN	den	PM:s-uc:--:----	O	
+19-3	anden	anden	PI:s-uc:--:----	O	
+19-4	af	af	T-:----:--:----	O	
+19-5	to	to	LC:--u-:--:----	O	
+19-6	aktuelle	aktuel	AC:p#u#:--:p---	B-adj.mental	
+19-7	-	-	NC:piu#:--:----	O	
+19-8	og	og	CC:----:--:----	O	
+19-9	i	i	T-:----:--:----	O	
+19-10	øvrigt	øvrig	AD:----:--:p---	O	
+19-11	ganske	ganske	D-:----:--:u---	O	
+19-12	komplementerende	komplementere	VP:##u#:s-:----	O	
+19-13	-	-	NC:piu#:--:----	O	
+19-14	biografier	biografi	NC:piu#:--:----	B-noun.communication	
+19-15	på	på	T-:----:--:----	O	
+19-16	dansk	dansk	AC:siu§:--:p---	B-adj.social|B-adj.phys	
+19-17	,	,	XY:----:--:----	O	
+19-18	'	'	ZA	O	
+19-19	Michelle	Michelle	NP:siu#:--:----	O	
+19-20	Obama	Obama	NP:siu#:--:----	O	
+19-21	-	-	ZH	O	
+19-22	en	en	LC:--u-:--:----	O	
+19-23	biografi	biografi	NC:siuc:--:----	B-noun.communication	
+19-24	'	'	ZA	O	
+19-25	,	,	ZD	O	
+19-26	understøtter	understøtte	VF:----:sa:----	B-verb.stative	
+19-27	Liza	Liza	NP:siu#:--:----	O	
+19-28	Mundy	Mundy	NP:siu#:--:----	O	
+19-29	billedet	billede	NC:sdun:--:----	B-noun.object|B-noun.artifact|B-noun.cognition	
+19-30	af	af	T-:----:--:----	O	
+19-31	Michelle	Michelle	NP:siu#:--:----	O	
+19-32	Obama	Obama	NP:siu#:--:----	O	
+19-33	som	som	US:----:--:----	O	
+19-34	"	"	ZI	O	
+19-35	en	en	PI:s-uc:--:----	O	
+19-36	lidt	lidt	AD:----:--:p---	O	
+19-37	gammeldags	gammeldags	AC:§§u§:--:p---	B-adj.all	
+19-38	person	person	NC:siuc:--:----	B-noun.person	
+19-39	,	,	ZD	O	
+19-40	en	en	PI:s-uc:--:----	O	
+19-41	kvinde	kvinde	NC:siuc:--:----	B-noun.person	
+19-42	,	,	ZD	O	
+19-43	som	som	US:----:--:----	O	
+19-44	gerne	gerne	D-:----:--:u---	O	
+19-45	vil	ville	VF:----:sa:----	B-verb.cognition	
+19-46	have	have	VI:----:-a:----	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+19-47	en	en	PI:s-uc:--:----	O	
+19-48	traditionel	traditionel	AC:siuc:--:p---	B-adj.social|B-adj.all	
+19-49	,	,	ZD	O	
+19-50	intakt	intakt	AC:siu§:--:p---	O	
+19-51	familie	familie	NC:siuc:--:----	B-noun.group|B-noun.person	
+19-52	omkring	omkring	T-:----:--:----	O	
+19-53	sig	sig	PP:#-u#:--:-3y-	O	
+19-54	ved	ved	T-:----:--:----	O	
+19-55	bordet	bord	NC:sdun:--:----	B-noun.artifact	
+19-56	,	,	ZD	O	
+19-57	og	og	CC:----:--:----	O	
+19-58	som	som	US:----:--:----	O	
+19-59	først	først	D-:----:--:u---	O	
+19-60	og	og	CC:----:--:----	O	
+19-61	fremmest	fremmest	AC:siu§:--:p---	O	
+19-62	ser	se	VF:----:sa:----	B-verb.change|B-verb.act|B-verb.emotion|B-verb.cognition|B-verb.phenomenon	
+19-63	sig	sig	PP:#-u#:--:-3y-	O	
+19-64	selv	selv	PM:#-u#:--:----	O	
+19-65	som	som	US:----:--:----	O	
+19-66	mor	mor	NC:siuc:--:----	B-noun.animal|B-noun.person|B-noun.communication	
+19-67	"	"	ZI	O	
+19-68	.	.	ZP	O	
+
+#id=20
+#text=4læserbreve og debatindlæg handlede om Lars Løkkes kvalifikationer til statsministerposten.
+20-1	4	4	LC:--u-:--:----	O	
+20-2	læserbreve	læserbrev	NC:piu#:--:----	B-noun.communication	
+20-3	og	og	CC:----:--:----	O	
+20-4	debatindlæg	debatindlæg	NC:siun:--:----	B-noun.communication	
+20-5	handlede	handle	VF:----:ta:----	B-verb.social|B-verb.act|B-verb.possession	
+20-6	om	om	T-:----:--:----	O	
+20-7	Lars	Lars	NP:siu#:--:----	O	
+20-8	Løkkes	løkke	NC:sigc:--:----	B-noun.communication|B-noun.location|B-noun.artifact	
+20-9	kvalifikationer	kvalifikation	NC:piu#:--:----	B-noun.attribute	
+20-10	til	til	T-:----:--:----	O	
+20-11	statsministerposten	statsministerpost	NC:sduc:--:----	B-noun.relation	
+20-12	.	.	ZP	O	
+
+#id=21
+#text=Nårman tager ordet for at tage ...
+21-1	Når	når	CS:----:--:----	O	
+21-2	man	man	PI:#-uc:--:----	O	
+21-3	tager	tage	VF:----:sa:----	B-verb.motion|B-verb.creation|B-verb.social|B-verb.cognition|B-verb.act|B-verb.change|B-verb.possession	
+21-4	ordet	ord	NC:sdun:--:----	B-noun.act|B-noun.communication	
+21-5	for	for	T-:----:--:----	O	
+21-6	at	at	UI:----:--:----	O	
+21-7	tage	tage	VI:----:-a:----	B-verb.possession|B-verb.act|B-verb.change|B-verb.social|B-verb.cognition|B-verb.creation|B-verb.motion	
+21-8	.	.	ZP	O	
+21-9	.	.	ZP	O	
+21-10	.	.	ZP	O	
+
+#id=22
+#text=Pave Benedikt XVI mener ikke, at kondomer er svaret på kampen mod aids i Afrika.
+22-1	Pave	pave	----	B-noun.person	
+22-2	Benedikt	Benedikt	NP:siu#:--:----	O	
+22-3	XVI	XVI	NP:siu#:--:----	O	
+22-4	mener	mene	VF:----:sa:----	B-verb.cognition|B-verb.communication	
+22-5	ikke	ikke	D-:----:--:u---	O	
+22-6	,	,	ZD	O	
+22-7	at	at	CS:----:--:----	O	
+22-8	kondomer	kondom	NC:piu#:--:----	B-noun.artifact	
+22-9	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+22-10	svaret	svare	VT:siu#:t-:----	B-verb.possession|B-verb.communication	
+22-11	på	på	T-:----:--:----	O	
+22-12	kampen	kamp	NC:sduc:--:----	B-noun.act|B-noun.motive	
+22-13	mod	mod	T-:----:--:----	O	
+22-14	aids	aids	NC:siuc:--:----	B-noun.phenomenon	
+22-15	i	i	T-:----:--:----	O	
+22-16	Afrika	Afrika	NP:siu#:--:----	O	
+22-17	.	.	ZP	O	
+
+#id=23
+#text=ole ras.
+23-1	ole	ole	XY:----:--:----	O	
+23-2	ras	ras	XY:----:--:----	O	
+23-3	.	.	XY:----:--:----	O	
+
+#id=24
+#text=Fraførste kvartal 2008 til første kvartal 2009 forsvandt hele 11.200 job i branchen.
+24-1	Fra	fra	T-:----:--:----	O	
+24-2	første	første	AC:§§u§:--:p---	B-adj.all	
+24-3	kvartal	kvartal	NC:siun:--:----	B-noun.time	
+24-4	2008	2008	LC:--u-:--:----	O	
+24-5	til	til	T-:----:--:----	O	
+24-6	første	første	AC:§§u§:--:p---	B-adj.all	
+24-7	kvartal	kvartal	NC:siun:--:----	B-noun.time	
+24-8	2009	2009	LC:--u-:--:----	O	
+24-9	forsvandt	forsvinde	VF:----:ta:----	B-verb.motion|B-verb.act|B-verb.phenomenon	
+24-10	hele	hel	AC:sdu#:--:p---	B-adj.phys	
+24-11	11	11	LO:--u#:--:----	O	
+24-12	.	.	ZP	O	
+24-13	200	200	LC:--u-:--:----	O	
+24-14	job	job	NC:piu#:--:----	B-noun.act	
+24-15	i	i	T-:----:--:----	O	
+24-16	branchen	branche	NC:sduc:--:----	B-noun.institution|B-noun.motive	
+24-17	.	.	ZP	O	
+
+#id=25
+#text=Så indtaster man engangskoden og er så logget ind.
+25-1	Så	så	D-:----:--:u---	O	
+25-2	indtaster	indtaste	VF:----:sa:----	B-verb.communication	
+25-3	man	man	PI:#-uc:--:----	O	
+25-4	engangskoden	engangskode	NC:sduc:--:----	O	
+25-5	og	og	CC:----:--:----	O	
+25-6	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+25-7	så	så	D-:----:--:u---	O	
+25-8	logget	logge	VT:siu#:t-:----	B-verb.act	
+25-9	ind	ind	D-:----:--:u---	O	
+25-10	.	.	ZP	O	
+
+#id=26
+#text=Første betingelse er, at danskerklubberne ikke kommer med i NHL-slutspillet, som er godt i gang, når der spilles VM.
+26-1	Første	første	AC:§§u§:--:p---	B-adj.all	
+26-2	betingelse	betingelse	NC:siuc:--:----	B-noun.TOP|B-noun.motive|B-noun.attribute	
+26-3	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+26-4	,	,	ZD	O	
+26-5	at	at	CS:----:--:----	O	
+26-6	danskerklubberne	danskerklub	NC:pdu#:--:----	O	
+26-7	ikke	ikke	D-:----:--:u---	O	
+26-8	kommer	komme	VF:----:sa:----	B-verb.social|B-verb.act|B-verb.communication|B-verb.motion	
+26-9	med	med	D-:----:--:u---	O	
+26-10	i	i	T-:----:--:----	O	
+26-11	NHL	NHL	NP:siu#:--:----	O	
+26-12	-	-	ZH	O	
+26-13	slutspillet	slutspil	NC:sdun:--:----	O	
+26-14	,	,	ZD	O	
+26-15	som	som	US:----:--:----	O	
+26-16	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+26-17	godt	god	AD:----:--:p---	B-adj.all	
+26-18	i	i	T-:----:--:----	O	
+26-19	gang	gang	NC:siuc:--:----	B-noun.act|B-noun.TOP|B-noun.artifact|B-noun.location|B-noun.quantity	
+26-20	,	,	ZD	O	
+26-21	når	når	CS:----:--:----	O	
+26-22	der	der	US:----:--:----	O	
+26-23	spilles	spille	VF:----:sp:----	B-verb.motion|B-verb.creation|B-verb.communication|B-verb.social|B-verb.act|B-verb.change	
+26-24	VM	VM	NP:siu#:--:----	O	
+26-25	.	.	ZP	O	
+
+#id=27
+#text=Beskæftigelsesudvalgetunder den statslige Ankestyrelse behandler typisk klager over kommunal kontanthjælp.
+27-1	Beskæftigelsesudvalget	beskæftigelsesudvalg	NC:sdun:--:----	O	
+27-2	under	under	T-:----:--:----	O	
+27-3	den	den	PM:s-uc:--:----	O	
+27-4	statslige	statslig	AC:sdu#:--:p---	B-adj.social	
+27-5	Ankestyrelse	ankestyrelse	NC:siuc:--:----	O	
+27-6	behandler	behandle	VF:----:sa:----	B-verb.social|B-verb.cognition|B-verb.act|B-verb.phenomenon	
+27-7	typisk	typisk	AC:siu§:--:p---	B-adj.all	
+27-8	klager	klager	NC:siuc:--:----	B-noun.act|B-noun.person|B-noun.communication	
+27-9	over	over	T-:----:--:----	O	
+27-10	kommunal	kommunal	AC:siuc:--:p---	B-adj.social	
+27-11	kontanthjælp	kontanthjælp	NC:siuc:--:----	B-noun.quantity	
+27-12	.	.	ZP	O	
+
+#id=28
+#text=BoWeymann mener derimod, at filmen og hans fortælling kan være med til at afholde unge mennesker fra at følge i hans fodspor.
+28-1	Bo	Bo	NP:siu#:--:----	B-noun.artifact|B-noun.building|B-noun.location	
+28-2	Weymann	Weymann	NP:siu#:--:----	O	
+28-3	mener	mene	VF:----:sa:----	B-verb.cognition|B-verb.communication	
+28-4	derimod	derimod	D-:----:--:u---	O	
+28-5	,	,	ZD	O	
+28-6	at	at	CS:----:--:----	O	
+28-7	filmen	film	NC:sduc:--:----	B-noun.object|B-noun.container|B-noun.artifact	
+28-8	og	og	CC:----:--:----	O	
+28-9	hans	hans	PO:#--#:--:-3ns	O	
+28-10	fortælling	fortælling	NC:siuc:--:----	B-noun.communication	
+28-11	kan	kunne	VF:----:sa:----	B-verb.social	
+28-12	være	være	VI:----:-a:----	B-verb.TOP|B-verb.social|B-verb.stative	
+28-13	med	med	D-:----:--:u---	O	
+28-14	til	til	T-:----:--:----	O	
+28-15	at	at	UI:----:--:----	O	
+28-16	afholde	afholde	VI:----:-a:----	B-verb.possession|B-verb.cognition	
+28-17	unge	ung	AC:p#u#:--:p---	B-adj.phys	
+28-18	mennesker	menneske	NC:piu#:--:----	B-noun.person	
+28-19	fra	fra	T-:----:--:----	O	
+28-20	at	at	UI:----:--:----	O	
+28-21	følge	følge	VI:----:-a:----	B-verb.motion	
+28-22	i	i	T-:----:--:----	O	
+28-23	hans	hans	PO:#--#:--:-3ns	O	
+28-24	fodspor	fodspor	NC:siun:--:----	B-noun.object	
+28-25	.	.	ZP	O	
+
+#id=29
+#text=Her blev det stormet af tyske elitesoldater, og alle gidsler blev befriet.
+29-1	Her	her	D-:----:--:u---	O	
+29-2	blev	blive	VF:----:ta:----	B-verb.TOP|B-verb.act|B-verb.stative	
+29-3	det	det	PP:s-un:--:-3n-	O	
+29-4	stormet	storme	VT:siu#:t-:----	B-verb.motion|B-verb.phenomenon	
+29-5	af	af	T-:----:--:----	O	
+29-6	tyske	tysk	AC:p#u#:--:p---	B-adj.phys	
+29-7	elitesoldater	elitesoldat	NC:piu#:--:----	O	
+29-8	,	,	ZD	O	
+29-9	og	og	CC:----:--:----	O	
+29-10	alle	al	PI:p-u#:--:----	O	
+29-11	gidsler	gidsel	NC:piu#:--:----	B-noun.person	
+29-12	blev	blive	VF:----:ta:----	B-verb.TOP|B-verb.act|B-verb.stative	
+29-13	befriet	befri	VT:siu#:t-:----	B-verb.change|B-verb.act	
+29-14	.	.	ZP	O	
+
+#id=30
+#text=ritzau
+30-1	ritzau	ritzau	XF:----:--:----	O	
+
+#id=31
+#text=De moderate muslimer kender Koranen, de kender argumenterne, og de kan give de unge kvalificeret modspil.
+31-1	De	den	PM:p-u#:--:----	O	
+31-2	moderate	moderat	AC:p#u#:--:p---	O	
+31-3	muslimer	muslim	NC:piu#:--:----	B-noun.person	
+31-4	kender	kende	VF:----:sa:----	B-verb.cognition|B-.communication|B-verb.emotion	
+31-5	Koranen	Koranen	NP:siu#:--:----	O	
+31-6	,	,	ZD	O	
+31-7	de	de	PP:p-n#:--:-3n-	O	
+31-8	kender	kende	VF:----:sa:----	B-verb.cognition|B-verb.communication|B-verb.emotion	
+31-9	argumenterne	argument	NC:pdu#:--:----	B-noun.act	
+31-10	,	,	ZD	O	
+31-11	og	og	CC:----:--:----	O	
+31-12	de	de	PP:p-n#:--:-3n-	O	
+31-13	kan	kunne	VF:----:sa:----	B-verb.social	
+31-14	give	give	VI:----:-a:----	B-verb.possession|B-verb.communication|B-verb.act	
+31-15	de	den	PM:p-u#:--:----	O	
+31-16	unge	ung	AC:p#u#:--:p---	B-adj.phys	
+31-17	kvalificeret	kvalificere	VT:siu#:t-:----	B-verb.change	
+31-18	modspil	modspil	NC:siun:--:----	B-noun.act	
+31-19	.	.	ZP	O	
+
+#id=32
+#text=I perioden 1980-91 var han redaktør af fagbladet Praktiserende Speciallæger.
+32-1	I	i	T-:----:--:----	O	
+32-2	perioden	periode	NC:sduc:--:----	B-noun.time	
+32-3	1980	1980	LC:--u-:--:----	O	
+32-4	-	-	ZH	O	
+32-5	91	91	LC:--u-:--:----	O	
+32-6	var	være	VF:----:ta:----	B-verb.TOP|B-verb.social|B-verb.stative	
+32-7	han	han	PP:s-nc:--:-3n-	O	
+32-8	redaktør	redaktør	NC:siuc:--:----	B-noun.person	
+32-9	af	af	T-:----:--:----	O	
+32-10	fagbladet	fagblad	NC:sdun:--:----	B-noun.communication	
+32-11	Praktiserende	praktiserende	AD:----:--:p---	O	
+32-12	Speciallæger	speciallæge	NC:piu#:--:----	B-noun.person	
+32-13	.	.	ZP	O	
+
+#id=33
+#text=Resultaterne af undersøgelsen vil kunne få stor betydning for valget af optimal behandling for den enkelte patient.
+33-1	Resultaterne	resultat	NC:pdu#:--:----	B-noun.act|B-noun.TOP|B-noun.quantity	
+33-2	af	af	T-:----:--:----	O	
+33-3	undersøgelsen	undersøgelse	NC:sduc:--:----	B-noun.act|B-noun.cognition	
+33-4	vil	ville	VF:----:sa:----	B-verb.cognition	
+33-5	kunne	kunne	VI:----:-a:----	B-verb.social	
+33-6	få	få	VI:----:-a:----	B-verb.change|B-verb.phenomenon|B-verb.act|B-verb.possession	
+33-7	stor	stor	AC:siuc:--:p---	B-adj.phys	
+33-8	betydning	betydning	NC:siuc:--:----	B-noun.cognition	
+33-9	for	for	T-:----:--:----	O	
+33-10	valget	valg	NC:sdun:--:----	B-noun.motive|B-noun.act|B-noun.artifact|B-noun.cognition|B-noun.person|B-noun.TOP	
+33-11	af	af	T-:----:--:----	O	
+33-12	optimal	optimal	AC:siuc:--:p---	O	
+33-13	behandling	behandling	NC:siuc:--:----	B-noun.act	
+33-14	for	for	T-:----:--:----	O	
+33-15	den	den	PM:s-uc:--:----	O	
+33-16	enkelte	enkelt	AC:sdu#:--:p---	O	
+33-17	patient	patient	NC:siuc:--:----	B-noun.person	
+33-18	.	.	ZP	O	
+
+#id=34
+#text=I februar sagde Nokia, at koncernen planlægger at reducere medarbejderstaben globalt med 1.000 ansatte via frivillige aftrædelser.
+34-1	I	i	T-:----:--:----	O	
+34-2	februar	februar	NC:siuc:--:----	B-noun.time	
+34-3	sagde	sige	VF:----:ta:----	B-verb.cognition|B-verb.communication|B-verb.phenomenon	
+34-4	Nokia	Nokia	NP:siu#:--:----	O	
+34-5	,	,	ZD	O	
+34-6	at	at	CS:----:--:----	O	
+34-7	koncernen	koncern	NC:sduc:--:----	B-noun.institution	
+34-8	planlægger	planlægge	VF:----:sa:----	B-verb.cognition	
+34-9	at	at	UI:----:--:----	O	
+34-10	reducere	reducere	VI:----:-a:----	B-verb.change	
+34-11	medarbejderstaben	medarbejderstab	NC:sduc:--:----	B-noun.person	
+34-12	globalt	global	AD:----:--:p---	B-adj.social	
+34-13	med	med	T-:----:--:----	O	
+34-14	1	1	LC:--u-:--:----	O	
+34-15	.	.	ZP	O	
+34-16	000	000	LC:--u-:--:----	O	
+34-17	ansatte	ansætte	VP:p#u#:t-:----	B-verb.change	
+34-18	via	via	T-:----:--:----	O	
+34-19	frivillige	frivillig	AC:p#u#:--:p---	O	
+34-20	aftrædelser	aftrædelse	NC:piu#:--:----	B-noun.location	
+34-21	.	.	ZP	O	
+
+#id=35
+#text=PolitikenPlus tilbyder i samarbejde med Statens Naturhistoriske Museum og Institut for Filosofi og Idéhistorie ved Aarhus Universitet en foredragsrække om Darwin og evolution.
+35-1	Politiken	Politiken	NP:siu#:--:----	O	
+35-2	Plus	plus	D-:----:--:u---	O	
+35-3	tilbyder	tilbyde	VF:----:sa:----	B-verb.social|B-verb.communication	
+35-4	i	i	T-:----:--:----	O	
+35-5	samarbejde	samarbejde	NC:siun:--:----	B-noun.act	
+35-6	med	med	T-:----:--:----	O	
+35-7	Statens	stat	NC:sdgc:--:----	B-noun.institution|B-noun.location	
+35-8	Naturhistoriske	naturhistorisk	AC:sdu#:--:p---	O	
+35-9	Museum	museum	NC:siun:--:----	B-noun.building	
+35-10	og	og	CC:----:--:----	O	
+35-11	Institut	institut	NC:siun:--:----	B-noun.institution|B-noun.building	
+35-12	for	for	T-:----:--:----	O	
+35-13	Filosofi	filosofi	NC:siuc:--:----	B-noun.domain|B-noun.cognition	
+35-14	og	og	CC:----:--:----	O	
+35-15	Idéhistorie	idéhistorie	NC:siuc:--:----	B-noun.domain	
+35-16	ved	ved	T-:----:--:----	O	
+35-17	Aarhus	Aarhus	NP:sig#:--:----	O	
+35-18	Universitet	universitet	NC:siun:--:----	B-noun.institution|B-noun.building	
+35-19	en	en	PI:s-uc:--:----	O	
+35-20	foredragsrække	foredragsrække	NC:siuc:--:----	B-noun.group	
+35-21	om	om	T-:----:--:----	O	
+35-22	Darwin	Darwin	NP:siu#:--:----	O	
+35-23	og	og	CC:----:--:----	O	
+35-24	evolution	evolution	NC:siuc:--:----	O	
+35-25	.	.	ZP	O	
+
+#id=36
+#text=Selvdeltog jeg i demonstrationen denne dag og på trods af, at hen  ved 1.000 tamilere havde taget turen til København fra hele landet, mødte kun 2-3 danskere op i løbet af dagen.
+36-1	Selv	selv	PM:#-u#:--:----	O	
+36-2	deltog	deltage	VF:----:ta:----	B-verb.social	
+36-3	jeg	jeg	PP:s-nc:--:-1n-	O	
+36-4	i	i	T-:----:--:----	O	
+36-5	demonstrationen	demonstration	NC:sduc:--:----	B-noun.act|B-noun.cognition	
+36-6	denne	denne	PM:s-uc:--:----	O	
+36-7	dag	dag	NC:siuc:--:----	B-noun.time	
+36-8	og	og	CC:----:--:----	O	
+36-9	på	på	T-:----:--:----	O	
+36-10	trods	trods	NC:siuc:--:----	B-noun.act	
+36-11	af	af	T-:----:--:----	O	
+36-12	,	,	ZD	O	
+36-13	at	at	CS:----:--:----	O	
+36-14	hen	hen	D-:----:--:u---	O	
+36-15	ved	ved	T-:----:--:----	O	
+36-16	1	1	LC:--u-:--:----	O	
+36-17	.	.	ZP	O	
+36-18	000	000	LC:--u-:--:----	O	
+36-19	tamilere	tamilere	NC:piu#:--:----	B-noun.body|B-noun.communication	
+36-20	havde	have	VF:----:ta:----	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+36-21	taget	tage	VT:siu#:t-:----	B-verb.possession|B-verb.cognition|B-verb.act|B-verb.change|B-verb.social|B-verb.creation|B-verb.motion	
+36-22	turen	tur	NC:sduc:--:----	B-noun.event|B-noun.attribute|B-noun.state|B-noun.act|B-noun.time	
+36-23	til	til	T-:----:--:----	O	
+36-24	København	København	NP:siu#:--:----	O	
+36-25	fra	fra	T-:----:--:----	O	
+36-26	hele	hel	AC:sdu#:--:p---	B-adj.phys	
+36-27	landet	land	NC:sdun:--:----	B-noun.location|B-noun.person	
+36-28	,	,	ZD	O	
+36-29	mødte	møde	VF:----:ta:----	B-verb.social|B-verb.act|B-verb.perception|B-verb.motion	
+36-30	kun	kun	D-:----:--:u---	O	
+36-31	2	2	LW:----:--:----	O	
+36-32	-	-	ZH	O	
+36-33	3	3	LC:--u-:--:----	O	
+36-34	danskere	dansker	NC:piu#:--:----	B-noun.person	
+36-35	op	op	D-:----:--:u---	O	
+36-36	i	i	T-:----:--:----	O	
+36-37	løbet	løb	NC:sdun:--:----	B-noun.event|B-noun.artifact|B-noun.cognition|B-noun.act|B-noun.body|B-noun.location	
+36-38	af	af	T-:----:--:----	O	
+36-39	dagen	dag	NC:sduc:--:----	B-noun.time	
+36-40	.	.	ZP	O	
+
+#id=37
+#text=11læserbreve og debatindlæg handlede om Fogh og hans nye job som Nato-generalsekretær.
+37-1	11	11	LC:--u-:--:----	O	
+37-2	læserbreve	læserbrev	NC:piu#:--:----	B-noun.communication	
+37-3	og	og	CC:----:--:----	O	
+37-4	debatindlæg	debatindlæg	NC:siun:--:----	B-noun.communication	
+37-5	handlede	handle	VF:----:ta:----	B-verb.social|B-verb.act|B-verb.possession	
+37-6	om	om	T-:----:--:----	O	
+37-7	Fogh	Fogh	NP:siu#:--:----	O	
+37-8	og	og	CC:----:--:----	O	
+37-9	hans	hans	PO:#--#:--:-3ns	O	
+37-10	nye	ny	AC:sdu#:--:p---	B-adj.time	
+37-11	job	job	NC:siun:--:----	B-noun.act	
+37-12	som	som	US:----:--:----	O	
+37-13	Nato	Nato	NW:----:--:----	O	
+37-14	-	-	ZH	O	
+37-15	generalsekretær	generalsekretær	NC:siuc:--:----	B-noun.person	
+37-16	.	.	ZP	O	
+
+#id=38
+#text=PræsidentBill Clinton havde det skidt om morgenen 20.
+38-1	Præsident	præsident	NC:siuc:--:----	B-noun.person	
+38-2	Bill	Bill	NP:siu#:--:----	O	
+38-3	Clinton	Clinton	NP:siu#:--:----	O	
+38-4	havde	have	VF:----:ta:----	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+38-5	det	det	PP:s-un:--:-3n-	O	
+38-6	skidt	skidt	AD:----:--:p---	B-adj.all	
+38-7	om	om	T-:----:--:----	O	
+38-8	morgenen	morgen	NC:sduc:--:----	B-noun.time	
+38-9	20	20	LC:--u-:--:----	O	
+38-10	.	.	ZP	O	
+
+#id=39
+#text=Og det var det første, de gjorde, danskerne, da de efter at være fløjet ind til et snedækket Zagreb og have kørt tre og en halv time i bus gennem det smukkeste, bakkede og skovklædte vinterlandskab rullede ind i Porec ved Adriaterhavet og blev indkvarteret på hotel Diamant.
+39-1	Og	og	CC:----:--:----	O	
+39-2	det	det	PP:s-un:--:-3n-	O	
+39-3	var	være	VF:----:ta:----	B-verb.TOP|B-verb.social|B-verb.stative	
+39-4	det	den	PM:s-un:--:----	O	
+39-5	første	første	AC:§§u§:--:p---	B-adj.all	
+39-6	,	,	ZD	O	
+39-7	de	de	PP:p-n#:--:-3n-	O	
+39-8	gjorde	gøre	VF:----:ta:----	B-verb.change|B-verb.act|B-verb.phenomenon|B-verb.creation	
+39-9	,	,	ZD	O	
+39-10	danskerne	dansker	NC:pdu#:--:----	B-noun.person	
+39-11	,	,	ZD	O	
+39-12	da	da	CS:----:--:----	O	
+39-13	de	de	PP:p-n#:--:-3n-	O	
+39-14	efter	efter	T-:----:--:----	O	
+39-15	at	at	UI:----:--:----	O	
+39-16	være	være	VI:----:-a:----	B-verb.TOP|B-verb.social|B-verb.stative	
+39-17	fløjet	flyve	VT:siu#:t-:----	B-verb.motion|B-verb.phenomenon	
+39-18	ind	ind	D-:----:--:u---	O	
+39-19	til	til	T-:----:--:----	O	
+39-20	et	en	PI:s-un:--:----	O	
+39-21	snedækket	snedække	NC:sdun:--:----	O	
+39-22	Zagreb	Zagreb	NP:siu#:--:----	O	
+39-23	og	og	CC:----:--:----	O	
+39-24	have	have	VI:----:-a:----	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+39-25	kørt	køre	VT:siu#:t-:----	B-verb.change|B-verb.motion	
+39-26	tre	tre	LC:--u-:--:----	O	
+39-27	og	og	CC:----:--:----	O	
+39-28	en	en	PI:s-uc:--:----	O	
+39-29	halv	halv	AC:siuc:--:p---	B-adj.phys	
+39-30	time	time	NC:siuc:--:----	B-noun.time	
+39-31	i	i	T-:----:--:----	O	
+39-32	bus	bus	NC:siuc:--:----	B-noun.artifact|B-noun.vehicle	
+39-33	gennem	gennem	T-:----:--:----	O	
+39-34	det	den	PM:s-un:--:----	O	
+39-35	smukkeste	smuk	AC:§du§:--:s---	B-adj.phys	
+39-36	,	,	ZD	O	
+39-37	bakkede	bakkede	VF:----:ta:----	B-verb.motion|B-verb.act	
+39-38	og	og	CC:----:--:----	O	
+39-39	skovklædte	skovklædt	AC:sdu#:--:p---	O	
+39-40	vinterlandskab	vinterlandskab	NC:siun:--:----	B-noun.location	
+39-41	rullede	rulle	VF:----:ta:----	B-verb.change|B-verb.creation|B-verb.communication|B-verb.phenomenon|B-verb.motion	
+39-42	ind	ind	D-:----:--:u---	O	
+39-43	i	i	T-:----:--:----	O	
+39-44	Porec	Porec	NP:siu#:--:----	O	
+39-45	ved	ved	T-:----:--:----	O	
+39-46	Adriaterhavet	Adriaterhavet	NP:siu#:--:----	O	
+39-47	og	og	CC:----:--:----	O	
+39-48	blev	blive	VF:----:ta:----	B-verb.TOP|B-verb.act|B-verb.stative	
+39-49	indkvarteret	indkvartere	VT:siu#:t-:----	B-verb.act	
+39-50	på	på	T-:----:--:----	O	
+39-51	hotel	hotel	NC:siun:--:----	B-noun.building	
+39-52	Diamant	diamant	NC:siuc:--:----	O	
+39-53	.	.	ZP	O	
+
+#id=40
+#text=Udbruddetfra de fremmødte professorer, studerende og det tekniske personale kom, fordi de har følt sig alt andet end velorienterede om, hvorfor ledelsen fyrer 24  forskere og 13 personer blandt det tekniske og administrative personale.
+40-1	Udbruddet	udbrud	NC:sdun:--:----	B-noun.phenomenon	
+40-2	fra	fra	T-:----:--:----	O	
+40-3	de	den	PM:p-u#:--:----	O	
+40-4	fremmødte	fremmøde	VP:p#u#:t-:----	O	
+40-5	professorer	professor	NC:piu#:--:----	B-noun.communication|B-noun.person	
+40-6	,	,	ZD	O	
+40-7	studerende	studerende	NC:siuc:--:----	B-noun.person	
+40-8	og	og	CC:----:--:----	O	
+40-9	det	den	PM:s-un:--:----	O	
+40-10	tekniske	teknisk	AC:sdu#:--:p---	B-adj.phys|B-adj.all	
+40-11	personale	personale	NC:siun:--:----	B-noun.body|B-noun.person	
+40-12	kom	komme	VF:----:ta:----	B-verb.social|B-verb.communication|B-verb.act|B-verb.motion	
+40-13	,	,	ZD	O	
+40-14	fordi	fordi	CS:----:--:----	O	
+40-15	de	de	PP:p-n#:--:-3n-	O	
+40-16	har	have	VF:----:sa:----	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+40-17	følt	føle	VT:siu#:t-:----	B-verb.motion|B-verb.emotion|B-verb.creation|B-verb.phenomenon	
+40-18	sig	sig	PP:#-u#:--:-3y-	O	
+40-19	alt	al	PI:s-un:--:----	O	
+40-20	andet	anden	PI:s-un:--:----	O	
+40-21	end	end	CS:----:--:----	O	
+40-22	velorienterede	velorienteret	AC:p#u#:--:p---	O	
+40-23	om	om	T-:----:--:----	O	
+40-24	,	,	ZD	O	
+40-25	hvorfor	hvorfor	D-:----:--:u---	O	
+40-26	ledelsen	ledelse	NC:sduc:--:----	B-noun.act|B-noun.person	
+40-27	fyrer	fyre	VF:----:sa:----	B-verb.act|B-verb.communication	
+40-28	24	24	LC:--u-:--:----	O	
+40-29	forskere	forsker	NC:piu#:--:----	B-noun.person	
+40-30	og	og	CC:----:--:----	O	
+40-31	13	13	LC:--u-:--:----	O	
+40-32	personer	person	NC:piu#:--:----	B-person	
+40-33	blandt	blandt	T-:----:--:----	O	
+40-34	det	den	PM:s-un:--:----	O	
+40-35	tekniske	teknisk	AC:sdu#:--:p---	B-adj.phys|B-adj.all	
+40-36	og	og	CC:----:--:----	O	
+40-37	administrative	administrativ	AC:sdu#:--:p---	O	
+40-38	personale	personale	NC:siun:--:----	B-noun.body|B-noun.person	
+40-39	.	.	ZP	O	
+
+#id=41
+#text=I 1978 vendte han hjem til sin fædrene gård, godset Egemarke, som han overtog efter sin far, Aage Lohmann Poulsen.
+41-1	I	i	T-:----:--:----	O	
+41-2	1978	1978	LC:--u-:--:----	O	
+41-3	vendte	vende	VF:----:ta:----	B-verb.change|B-verb.act|B-verb.creation|B-verb.motion|B-verb.stative	
+41-4	han	han	PP:s-nc:--:-3n-	O	
+41-5	hjem	hjem	D-:----:--:u---	O	
+41-6	til	til	T-:----:--:----	O	
+41-7	sin	sin	XY:----:--:----	O	
+41-8	fædrene	far	NC:pdu#:--:----	B-noun.object|B-noun.person|B-noun.animal	
+41-9	gård	gård	NC:siuc:--:----	B-noun.location|B-noun.building	
+41-10	,	,	ZD	O	
+41-11	godset	gods	NC:sdun:--:----	B-noun.substance|B-noun.location|B-noun.artifact|B-noun.group|B-noun.building	
+41-12	Egemarke	Egemarke	NP:siu#:--:----	O	
+41-13	,	,	ZD	O	
+41-14	som	som	US:----:--:----	O	
+41-15	han	han	PP:s-nc:--:-3n-	O	
+41-16	overtog	overtog	VF:----:ta:----	B-verb.social	
+41-17	efter	efter	T-:----:--:----	O	
+41-18	sin	sin	PO:s--c:--:-3ys	O	
+41-19	far	far	NC:siuc:--:----	B-noun.animal|B-noun.person|B-noun.object	
+41-20	,	,	ZD	O	
+41-21	Aage	Aage	NP:siu#:--:----	O	
+41-22	Lohmann	Lohmann	NP:siu#:--:----	O	
+41-23	Poulsen	Poulsen	NP:siu#:--:----	O	
+41-24	.	.	ZP	O	
+
+#id=42
+#text=I aften kan man blandt andet møde de  unge håb Fleet Foxes, Tiny Vipers og The Lonely H samt Seattles største succes i de senere år - Band Of Horses, som spillede på Roskilde Festival i 2008.
+42-1	I	i	T-:----:--:----	O	
+42-2	aften	aften	NC:siuc:--:----	B-noun.time	
+42-3	kan	kunne	VF:----:sa:----	B-verb.social	
+42-4	man	man	PI:#-uc:--:----	O	
+42-5	blandt	blandt	T-:----:--:----	O	
+42-6	andet	anden	PI:s-un:--:----	O	
+42-7	møde	møde	VI:----:-a:----	B-verb.social|B-verb.act|B-verb.perception|B-verb.motion	
+42-8	de	den	PM:p-u#:--:----	O	
+42-9	unge	ung	AC:p#u#:--:p---	B-adj.phys	
+42-10	håb	håb	NC:piu#:--:----	B-noun.person|B-noun.feeling	
+42-11	Fleet	Fleet	NP:siu#:--:----	O	
+42-12	Foxes	Foxes	NP:siu#:--:----	O	
+42-13	,	,	ZD	O	
+42-14	Tiny	Tiny	NP:siu#:--:----	O	
+42-15	Vipers	Viper	NP:sig#:--:----	O	
+42-16	og	og	CC:----:--:----	O	
+42-17	The	the	XF:----:--:----	O	
+42-18	Lonely	Lonely	NP:siu#:--:----	O	
+42-19	H	H	NP:siu#:--:----	B-noun.communication|B-noun.phenomenon	
+42-20	samt	samt	CC:----:--:----	O	
+42-21	Seattles	Seattles	NP:sig#:--:----	O	
+42-22	største	stor	AC:§du§:--:s---	B-adj.phys	
+42-23	succes	succes	NC:siuc:--:----	B-noun.cognition	
+42-24	i	i	T-:----:--:----	O	
+42-25	de	den	PM:p-u#:--:----	O	
+42-26	senere	sen	AC:##u#:--:c---	B-adj.time	
+42-27	år	år	NW:----:--:----	B-noun.time	
+42-28	-	-	ZH	O	
+42-29	Band	Band	NP:siu#:--:----	B-noun.person	
+42-30	Of	Of	NP:siu#:--:----	O	
+42-31	Horses	Horses	NC:sign:--:----	O	
+42-32	,	,	ZD	O	
+42-33	som	som	US:----:--:----	O	
+42-34	spillede	spille	----:ta:----	B-verb.motion|B-verb.act|B-verb.creation|B-verb.communication|B-verb.social|B-verb.change	
+42-35	på	på	T-:----:--:----	O	
+42-36	Roskilde	Roskilde	NP:siu#:--:----	O	
+42-37	Festival	Festival	NP:siu#:--:----	B-noun.act	
+42-38	i	i	T-:----:--:----	O	
+42-39	2008	2008	LC:--u-:--:----	O	
+42-40	.	.	ZP	O	
+
+#id=43
+#text=NielsOlsen står bag de to manipulerede billeder ovenfor.
+43-1	Niels	Niels	NP:siu#:--:----	O	
+43-2	Olsen	Olsen	NP:siu#:--:----	O	
+43-3	står	stå	VF:----:sa:----	B-tative|B-verb.emotion|B-verb.communication|B-verb.act|B-verb.motion	
+43-4	bag	bag	T-:----:--:----	O	
+43-5	de	den	PM:p-u#:--:----	O	
+43-6	to	to	LC:--u-:--:----	O	
+43-7	manipulerede	manipulere	VP:p#u#:t-:----	B-verb.act	
+43-8	billeder	billede	NC:piu#:--:----	B-noun.object|B-noun.artifact|B-noun.cognition	
+43-9	ovenfor	ovenfor	D-:----:--:u---	O	
+43-10	.	.	ZP	O	
+
+#id=44
+#text=Togtrafikken mellem Vejle og Århus var i går lammet i flere timer efter en personpåkørsel ved Horsens.
+44-1	Togtrafikken	Togtrafikken	NP:siu#:--:----	O	
+44-2	mellem	mellem	T-:----:--:----	O	
+44-3	Vejle	Vejle	NP:siu#:--:----	B-noun.location	
+44-4	og	og	CC:----:--:----	O	
+44-5	Århus	Århus	NP:siu#:--:----	O	
+44-6	var	være	VF:----:ta:----	B-verb.TOP|B-verb.social|B-verb.stative	
+44-7	i	i	T-:----:--:----	O	
+44-8	går	går	-	O	
+44-9	lammet	lamme	VT:siu#:t-:----	B-verb.change|B-verb.act	
+44-10	i	i	T-:----:--:----	O	
+44-11	flere	mange	AC:##u#:--:c---	O	
+44-12	timer	time	NC:piu#:--:----	B-noun.time|B-noun.artifact	
+44-13	efter	efter	T-:----:--:----	O	
+44-14	en	en	PI:s-uc:--:----	O	
+44-15	personpåkørsel	personpåkørsel	NC:siuc:--:----	O	
+44-16	ved	ved	T-:----:--:----	O	
+44-17	Horsens	Horsens	NP:siu#:--:----	O	
+44-18	.	.	ZP	O	
+
+#id=45
+#text=Endelig strider det ifølge advokaterne mod konventionens artikel om bevægelsesfrihed, når de skal melde sig i Sandholm flere gange om ugen.
+45-1	Endelig	endelig	D-:----:--:u---	O	
+45-2	strider	stride	VF:----:sa:----	B-verb.act	
+45-3	det	det	PP:s-un:--:-3n-	O	
+45-4	ifølge	ifølge	T-:----:--:----	O	
+45-5	advokaterne	advokat	NC:pdu#:--:----	B-noun.person	
+45-6	mod	mod	T-:----:--:----	O	
+45-7	konventionens	konvention	NC:sdgc:--:----	B-noun.cognition|B-noun.motive	
+45-8	artikel	artikel	NC:siuc:--:----	B-noun.communication|B-noun.TOP	
+45-9	om	om	T-:----:--:----	O	
+45-10	bevægelsesfrihed	bevægelsesfrihed	NC:siuc:--:----	O	
+45-11	,	,	ZD	O	
+45-12	når	når	CS:----:--:----	O	
+45-13	de	de	PP:p-n#:--:-3n-	O	
+45-14	skal	skulle	VF:----:sa:----	B-verb.motion|B-verb.phenomenon	
+45-15	melde	melde	VI:----:-a:----	B-verb.communication	
+45-16	sig	sig	PP:#-u#:--:-3y-	O	
+45-17	i	i	T-:----:--:----	O	
+45-18	Sandholm	Sandholm	XY:----:--:----	O	
+45-19	flere	mange	AC:##u#:--:c---	O	
+45-20	gange	gang	NC:piu#:--:----	B-noun.act|B-noun.location|B-noun.TOP|B-noun.artifact|B-noun.quantity	
+45-21	om	om	T-:----:--:----	O	
+45-22	ugen	uge	NC:sduc:--:----	B-noun.time	
+45-23	.	.	ZP	O	
+
+#id=46
+#text=Nården tidligere dobbelte danske mester i cykelcross Joachim Parbo i dag forsøger at tilbageerobre den hjemlige trone i Helsingør, jagter han også point til verdensranglisten med henblik på at være startberettiget ved VM i Holland om tre uger.
+46-1	Når	når	CS:----:--:----	O	
+46-2	den	den	PM:s-uc:--:----	O	
+46-3	tidligere	tidlig	AC:##u#:--:c---	B-adj.time	
+46-4	dobbelte	dobbelt	AC:sdu#:--:p---	B-adj.phys	
+46-5	danske	dansk	AC:sdu#:--:p---	B-adj.social|B-adj.phys	
+46-6	mester	mester	NC:siuc:--:----	B-noun.person	
+46-7	i	i	T-:----:--:----	O	
+46-8	cykelcross	cykelcross	NC:siuc:--:----	B-noun.act	
+46-9	Joachim	Joachim	NP:siu#:--:----	O	
+46-10	Parbo	Parbo	NP:siu#:--:----	O	
+46-11	i	i	T-:----:--:----	O	
+46-12	dag	dag	NC:siuc:--:----	B-noun.time	
+46-13	forsøger	forsøge	VF:----:sa:----	B-verb.act	
+46-14	at	at	UI:----:--:----	O	
+46-15	tilbageerobre	tilbageerobre	----	O	
+46-16	den	den	PM:s-uc:--:----	O	
+46-17	hjemlige	hjemlig	AC:sdu#:--:p---	O	
+46-18	trone	trone	NC:siuc:--:----	B-noun.attribute|B-noun.artifact	
+46-19	i	i	T-:----:--:----	O	
+46-20	Helsingør	Helsingør	NP:siu#:--:----	O	
+46-21	,	,	ZD	O	
+46-22	jagter	jagte	VF:----:sa:----	B-verb.motion	
+46-23	han	han	PP:s-nc:--:-3n-	O	
+46-24	også	også	D-:----:--:u---	O	
+46-25	point	point	NC:siun:--:----	B-noun.quantity	
+46-26	til	til	T-:----:--:----	O	
+46-27	verdensranglisten	verdensrangliste	NC:sduc:--:----	B-noun.communication	
+46-28	med	med	T-:----:--:----	O	
+46-29	henblik	henblik	NC:siun:--:----	O	
+46-30	på	på	T-:----:--:----	O	
+46-31	at	at	UI:----:--:----	O	
+46-32	være	være	VI:----:-a:----	B-verb.TOP|B-verb.social|B-verb.stative	
+46-33	startberettiget	startberettige	VT:siu#:t-:----	O	
+46-34	ved	ved	T-:----:--:----	O	
+46-35	VM	VM	NP:siu#:--:----	O	
+46-36	i	i	T-:----:--:----	O	
+46-37	Holland	Holland	NP:siu#:--:----	O	
+46-38	om	om	T-:----:--:----	O	
+46-39	tre	tre	--:----	O	
+46-40	uger	uge	NC:piu#:--:----	B-noun.time	
+46-41	.	.	ZP	O	
+
+#id=47
+#text=Dennevirksomhed har valgt at halvere arbejdstiden for 292 medarbejdere i Gråsten og Nordborg.
+47-1	Denne	denne	PM:s-uc:--:----	O	
+47-2	virksomhed	virksomhed	NC:siuc:--:----	B-noun.institution|B-noun.TOP|B-noun.person|B-noun.building	
+47-3	har	have	VF:----:sa:----	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+47-4	valgt	vælge	VT:siu#:t-:----	B-verb.cognition	
+47-5	at	at	UI:----:--:----	O	
+47-6	halvere	halvere	VI:----:-a:----	B-verb.phenomenon	
+47-7	arbejdstiden	arbejdstid	NC:sduc:--:----	B-noun.time	
+47-8	for	for	T-:----:--:----	O	
+47-9	292	292	LC:--u-:--:----	O	
+47-10	medarbejdere	medarbejder	NC:piu#:--:----	B-noun.person	
+47-11	i	i	T-:----:--:----	O	
+47-12	Gråsten	Gråsten	NP:siu#:--:----	O	
+47-13	og	og	CC:----:--:----	O	
+47-14	Nordborg	Nordborg	NP:siu#:--:----	O	
+47-15	.	.	ZP	O	
+
+#id=48
+#text="Du har ret, politik her er blevet en familieaffære med de samme efternavne.
+48-1	"	"	ZI	O	
+48-2	Du	du	PP:s-nc:--:-2n-	O	
+48-3	har	have	VF:----:sa:----	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+48-4	ret	ret	D-:----:--:u---	O	
+48-5	,	,	ZD	O	
+48-6	politik	politik	NC:siuc:--:----	B-noun.act|B-noun.motive|B-noun.cognition	
+48-7	her	her	D-:----:--:u---	O	
+48-8	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+48-9	blevet	blive	VT:siu#:t-:----	B-verb.TOP|B-verb.act|B-verb.stative	
+48-10	en	en	PI:s-uc:--:----	O	
+48-11	familieaffære	familieaffære	NC:siuc:--:----	O	
+48-12	med	med	T-:----:--:----	O	
+48-13	de	den	PM:p-u#:--:----	O	
+48-14	samme	samme	AC:§§u§:--:p---	O	
+48-15	efternavne	efternavn	NC:piu#:--:----	B-noun.communication	
+48-16	.	.	ZP	O	
+
+#id=49
+#text=Ulykken skete, da kvinden var i gang med at fyre op.
+49-1	Ulykken	ulykke	NC:sduc:--:----	B-noun.phenomenon|B-noun.state	
+49-2	skete	ske	VF:----:ta:----	B-verb.phenomenon|B-verb.act	
+49-3	,	,	ZD	O	
+49-4	da	da	CS:----:--:----	O	
+49-5	kvinden	kvinde	NC:sduc:--:----	B-noun.person	
+49-6	var	være	VF:----:ta:----	B-verb.TOP|B-verb.social|B-verb.stative	
+49-7	i	i	T-:----:--:----	O	
+49-8	gang	gang	NC:siuc:--:----	B-noun.act|B-noun.TOP|B-noun.artifact|B-noun.location|B-noun.quantity	
+49-9	med	med	T-:----:--:----	O	
+49-10	at	at	UI:----:--:----	O	
+49-11	fyre	fyre	VI:----:-a:----	B-verb.act|B-verb.communication	
+49-12	op	op	D-:----:--:u---	O	
+49-13	.	.	ZP	O	
+
+#id=50
+#text="Fortredje måned  i træk kørte 95 procent af vores tog ellers til tiden, så er det stjerneærgerligt, at der kommer en enkelt dag og ødelægger det hele", siger Niels Martin Methman.
+50-1	"	"	ZI	O	
+50-2	For	for	T-:----:--:----	O	
+50-3	tredje	tre	LO:--u#:--:----	O	
+50-4	måned	måned	NC:siuc:--:----	B-noun.time	
+50-5	i	i	T-:----:--:----	O	
+50-6	træk	træk	NC:siuc:--:----	B-noun.act|B-noun.artifact|B-noun.phenomenon|B-noun.attribute	
+50-7	kørte	køre	VF:----:ta:----	B-verb.change|B-verb.motion	
+50-8	95	95	LC:--u-:--:----	O	
+50-9	procent	procent	NC:piu#:--:----	B-noun.quantity	
+50-10	af	af	T-:----:--:----	O	
+50-11	vores	vores	PO:#--#:--:-1np	O	
+50-12	tog	tog	NC:siun:--:----	B-noun.vehicle|B-noun.person	
+50-13	ellers	ellers	D-:----:--:u---	O	
+50-14	til	til	T-:----:--:----	O	
+50-15	tiden	tid	NC:sduc:--:----	B-noun.communication|B-noun.time|B-noun.attribute|B-noun.quantity|B-noun.motive|B-noun.TOP	
+50-16	,	,	ZD	O	
+50-17	så	så	D-:----:--:u---	O	
+50-18	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+50-19	det	det	PP:s-un:--:-3n-	O	
+50-20	stjerneærgerligt	stjerneærgerlig	AC:siun:--:p---	O	
+50-21	,	,	ZD	O	
+50-22	at	at	CS:----:--:----	O	
+50-23	der	der	US:----:--:----	O	
+50-24	kommer	komme	VF:----:sa:----	B-verb.social|B-verb.act|B-verb.communication|B-verb.motion	
+50-25	en	en	PI:s-uc:--:----	O	
+50-26	enkelt	enkelt	AC:siu§:--:p---	B-adj.all	
+50-27	dag	dag	--	B-noun.time	
+50-28	og	og	CC:----:--:----	O	
+50-29	ødelægger	ødelægge	VF:----:sa:----	B-verb.act	
+50-30	det	den	PM:s-un:--:----	O	
+50-31	hele	hel	AC:sdu#:--:p---	B-adj.phys	
+50-32	"	"	ZI	O	
+50-33	,	,	ZD	O	
+50-34	siger	sige	VF:----:sa:----	B-verb.cognition|B-verb.communication|B-verb.phenomenon	
+50-35	Niels	Niels	NP:siu#:--:----	O	
+50-36	Martin	Martin	NP:siu#:--:----	O	
+50-37	Methman	Methman	NP:siu#:--:----	O	
+50-38	.	.	ZP	O	
+
+#id=51
+#text=Igår kunne Politiken afsløre, at to dokumenter i fangesagen er bortkommet i Forsvarsministeriets egne arkiver.
+51-1	I	i	T-:----:--:----	O	
+51-2	går	går	NC:§§u§:--:----	O	
+51-3	kunne	kunne	VF:----:ta:----	B-verb.social	
+51-4	Politiken	Politiken	NP:siu#:--:----	O	
+51-5	afsløre	afsløre	VI:----:-a:----	B-verb.change|B-verb.cognition|B-verb.act|B-verb.motion	
+51-6	,	,	ZD	O	
+51-7	at	at	CS:----:--:----	O	
+51-8	to	to	LC:--u-:--:----	O	
+51-9	dokumenter	dokument	NC:piu#:--:----	B-noun.communication	
+51-10	i	i	T-:----:--:----	O	
+51-11	fangesagen	fangesag	NC:sduc:--:----	O	
+51-12	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+51-13	bortkommet	bortkomme	VT:siu#:t-:----	O	
+51-14	i	i	T-:----:--:----	O	
+51-15	Forsvarsministeriets	forsvarsministerium	NC:sdgn:--:----	B-noun.institution|B-noun.building	
+51-16	egne	egen	AC:p#u#:--:p---	O	
+51-17	arkiver	arkiv	NC:piu#:--:----	B-noun.communication|B-noun.building	
+51-18	.	.	ZP	O	
+
+#id=52
+#text=I modersange som ' Meinem Kinde' og ' Muttertändelei' mangler Tilling den fornødne empati i forhold til teksten.
+52-1	I	i	T-:----:--:----	O	
+52-2	modersange	modersang	NC:piu#:--:----	O	
+52-3	som	som	XY:----:--:----	O	
+52-4	'	'	ZA	O	
+52-5	Meinem	Meinem	NP:siu#:--:----	O	
+52-6	Kinde	Kinde	NP:siu#:--:----	O	
+52-7	'	'	ZA	O	
+52-8	og	og	D-:----:--:u---	O	
+52-9	'	'	ZA	O	
+52-10	Muttertändelei	Muttertändelei	NP:siu#:--:----	O	
+52-11	'	'	ZA	O	
+52-12	mangler	mangle	VF:----:sa:----	B-verb.stative|B-verb.act|B-verb.motion	
+52-13	Tilling	Tilling	NP:siu#:--:----	O	
+52-14	den	den	PM:s-uc:--:----	O	
+52-15	fornødne	fornøden	AC:sdu#:--:p---	O	
+52-16	empati	empati	NC:siuc:--:----	B-noun.feeling	
+52-17	i	i	T-:----:--:----	O	
+52-18	forhold	forhold	NC:siun:--:----	B-noun.quantity|B-noun.relation|B-noun.attribute|B-noun.act	
+52-19	til	til	T-:----:--:----	O	
+52-20	teksten	tekst	NC:sduc:--:----	B-noun.communication	
+52-21	.	.	ZP	O	
+
+#id=53
+#text=Videnskabsministeriethåber, at et nyt forskningsskib i mellemklassen på 25-35 meter kan finansieres af en særlig pulje under de såkaldte globaliseringsmidler.
+53-1	Videnskabsministeriet	Videnskabsministeriet	NP:siu#:--:----	O	
+53-2	håber	håbe	VF:----:sa:----	B-verb.cognition	
+53-3	,	,	ZD	O	
+53-4	at	at	CS:----:--:----	O	
+53-5	et	en	PI:s-un:--:----	O	
+53-6	nyt	ny	AC:siun:--:p---	B-adj.time	
+53-7	forskningsskib	forskningsskib	NC:siun:--:----	O	
+53-8	i	i	T-:----:--:----	O	
+53-9	mellemklassen	mellemklasse	NC:sduc:--:----	B-noun.person	
+53-10	på	på	T-:----:--:----	O	
+53-11	25	25	LC:--u-:--:----	O	
+53-12	-	-	ZH	O	
+53-13	35	35	LC:--u-:--:----	O	
+53-14	meter	meter	NC:piu#:--:----	B-noun.quantity	
+53-15	kan	kunne	VF:----:sa:----	B-verb.social	
+53-16	finansieres	finansiere	VI:----:-p:----	B-verb.social	
+53-17	af	af	T-:----:--:----	O	
+53-18	en	en	PI:s-uc:--:----	O	
+53-19	særlig	særlig	AC:siuc:--:p---	B-adj.all	
+53-20	pulje	pulje	NC:siuc:--:----	B-noun.quantity|B-noun.person|B-noun.group	
+53-21	under	under	T-:----:--:----	O	
+53-22	de	den	PM:p-u#:--:----	O	
+53-23	såkaldte	såkaldt	AC:p#u#:--:p---	O	
+53-24	globaliseringsmidler	globaliseringsmiddel	NC:piu#:--:----	O	
+53-25	.	.	ZP	O	
+
+#id=54
+#text=Såer der mere klar udmelding i bekendelserne, når Allen holder sig til det udsyn, der kendes fra damebladsklummerne.
+54-1	Så	så	D-:----:--:u---	O	
+54-2	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+54-3	der	der	US:----:--:----	O	
+54-4	mere	megen	AD:----:--:c---	O	
+54-5	klar	klar	AC:siuc:--:p---	B-adj.all|B-adj.phys|B-adj.mental	
+54-6	udmelding	udmelding	NC:siuc:--:----	O	
+54-7	i	i	T-:----:--:----	O	
+54-8	bekendelserne	bekendelse	NC:pdu#:--:----	O	
+54-9	,	,	ZD	O	
+54-10	når	når	CS:----:--:----	O	
+54-11	Allen	Allen	NP:siu#:--:----	O	
+54-12	holder	holde	VF:----:sa:----	B-verb.motion|B-verb.act|B-verb.communication|B-verb.social|B-verb.cognition|B-verb.phenomenon	
+54-13	sig	sig	PP:#-u#:--:-3y-	O	
+54-14	til	til	T-:----:--:----	O	
+54-15	det	den	PM:s-un:--:----	O	
+54-16	udsyn	udsyn	NC:siun:--:----	B-noun.phenomenon	
+54-17	,	,	ZD	O	
+54-18	der	der	US:----:--:----	O	
+54-19	kendes	kende	VF:----:sp:----	B-verb.cognition|B-verb.communication|B-verb.emotion	
+54-20	fra	fra	T-:----:--:----	O	
+54-21	damebladsklummerne	damebladsklumme	NC:pdu#:--:----	O	
+54-22	.	.	ZP	O	
+
+#id=55
+#text=Mereend 91.000 kinesere omkom i fjor ved ulykker i trafikken  og på arbejdspladser, rapporterer lokale medier.
+55-1	Mere	megen	AC:##u#:--:c---	O	
+55-2	end	end	CS:----:--:----	O	
+55-3	91	91	LC:--u-:--:----	O	
+55-4	.	.	ZP	O	
+55-5	000	000	LC:--u-:--:----	O	
+55-6	kinesere	kineser	NC:piu#:--:----	B-noun.artifact|B-noun.person	
+55-7	omkom	omkomme	VF:----:ta:----	B-verb.phenomenon	
+55-8	i	i	T-:----:--:----	O	
+55-9	fjor	fjor	NC:§§u§:--:----	O	
+55-10	ved	ved	T-:----:--:----	O	
+55-11	ulykker	ulykke	NC:piu#:--:----	B-noun.phenomenon|B-noun.state	
+55-12	i	i	T-:----:--:----	O	
+55-13	trafikken	trafik	NC:sduc:--:----	B-noun.communication|B-noun.phenomenon	
+55-14	og	og	CC:----:--:----	O	
+55-15	på	på	T-:----:--:----	O	
+55-16	arbejdspladser	arbejdsplads	NC:piu#:--:----	B-noun.act|B-noun.building|B-noun.person	
+55-17	,	,	ZD	O	
+55-18	rapporterer	rapportere	VF:----:sa:----	B-verb.communication	
+55-19	lokale	lokal	AC:p#u#:--:p---	O	
+55-20	medier	medie	NC:piu#:--:----	B-noun.institution|B-noun.TOP|B-noun.person	
+55-21	.	.	ZP	O	
+
+#id=56
+#text=Tilbagestår i så fald foreløbig modkandidater fra Polen og Bulgarien.
+56-1	Tilbage	tilbage	D-:----:--:u---	O	
+56-2	står	stå	VF:----:sa:----	B-verb.stative|B-verb.communication|B-verb.act|B-verb.emotion|B-verb.motion	
+56-3	i	i	T-:----:--:----	O	
+56-4	så	så	§u§:--:p---	O	
+56-5	fald	fald	NC:siun:--:----	B-noun.communication|B-noun.artifact|B-noun.cognition|B-noun.act|B-noun.location	
+56-6	foreløbig	foreløbig	AD:----:--:p---	O	
+56-7	modkandidater	modkandidat	NC:piu#:--:----	B-noun.person	
+56-8	fra	fra	T-:----:--:----	O	
+56-9	Polen	Polen	NP:siu#:--:----	B-noun.artifact|B-noun.location	
+56-10	og	og	CC:----:--:----	O	
+56-11	Bulgarien	Bulgarien	NP:siu#:--:----	O	
+56-12	.	.	ZP	O	
+
+#id=57
+#text=Så giver I bare fremmede frø mulighed for at spire.
+57-1	Så	så	D-:----:--:u---	O	
+57-2	giver	give	VF:----:sa:----	B-verb.possession|B-verb.communication|B-verb.act	
+57-3	I	I	PP:p-nc:--:-2n-	O	
+57-4	bare	bare	D-:----:--:u---	O	
+57-5	fremmede	fremmed	AC:p#u#:--:p---	B-adj.social	
+57-6	frø	frø	NC:piu#:--:----	B-noun.animal|B-noun.plant|B-noun.cognition	
+57-7	mulighed	mulighed	NC:siuc:--:----	B-noun.attribute|B-noun.TOP|B-noun.person	
+57-8	for	for	T-:----:--:----	O	
+57-9	at	at	UI:----:--:----	O	
+57-10	spire	spire	VI:----:-a:----	B-verb.phenomenon	
+57-11	.	.	ZP	O	
+
+#id=58
+#text=MetteThomsen:
+58-1	Mette	Mette	NP:siu#:--:----	O	
+58-2	Thomsen	Thomsen	NP:siu#:--:----	O	
+58-3	:	:	ZP	O	
+
+#id=59
+#text=Ebbe Juul-Heider, Beder, 63, sanger, fotomodel, skuespiller Birte Tove, Holte, 64, koncerndirektør, cand.polit.
+59-1	Ebbe	Ebbe	NP:siu#:--:----	O	
+59-2	Juul	Juul	NW:----:--:----	O	
+59-3	-	-	ZH	O	
+59-4	Heider	Heider	NP:siu#:--:----	O	
+59-5	,	,	ZD	O	
+59-6	Beder	bede	NC:piu#:--:----	B-noun.animal|B-noun.plant	
+59-7	,	,	ZD	O	
+59-8	63	63	LC:--u-:--:----	O	
+59-9	,	,	ZD	O	
+59-10	sanger	sanger	NC:siuc:--:----	B-noun.animal|B-noun.person	
+59-11	,	,	ZD	O	
+59-12	fotomodel	fotomodel	NC:siuc:--:----	B-noun.person	
+59-13	,	,	ZD	O	
+59-14	skuespiller	skuespiller	NC:siuc:--:----	B-noun.person	
+59-15	Birte	Birte	NP:siu#:--:----	O	
+59-16	Tove	Tove	NP:siu#:--:----	B-noun.artifact	
+59-17	,	,	ZD	O	
+59-18	Holte	Holte	NP:siu#:--:----	O	
+59-19	,	,	ZD	O	
+59-20	64	64	LC:--u-:--:----	O	
+59-21	,	,	ZD	O	
+59-22	koncerndirektør	koncerndirektør	NC:siuc:--:----	O	
+59-23	,	,	ZD	O	
+59-24	cand	candidatus	XF:----:--:----	O	
+59-25	.	.	ZP	O	
+59-26	polit	politices	XF:----:--:----	O	
+59-27	.	.	ZP	O	
+
+#id=60
+#text=Drop stokkemetoder
+60-1	Drop	droppe	VM:----:--:----	B-verb.act	
+60-2	stokkemetoder	stokkemetode	NC:piu#:--:----	B-noun.motive	
+
+#id=61
+#text=-Lad være med at løbe med på den ide, at almindelige husejere og boligkøbere på nogen måde reelt har et betydeligt ansvar for den aktuelle krise.
+61-1	-	-	NC:piu#:--:----	O	
+61-2	Lad	lad	NC:piu#:--:----	B-noun.artifact	
+61-3	være	være	VI:----:-a:----	B-verb.TOP|B-verb.social|B-verb.stative	
+61-4	med	med	T-:----:--:----	O	
+61-5	at	at	UI:----:--:----	O	
+61-6	løbe	løbe	VI:----:-a:----	B-verb.motion|B-verb.creation	
+61-7	med	med	D-:----:--:u---	O	
+61-8	på	på	T-:----:--:----	O	
+61-9	den	den	PM:s-uc:--:----	O	
+61-10	ide	ide	NC:siuc:--:----	B-noun.cognition	
+61-11	,	,	ZD	O	
+61-12	at	at	CS:----:--:----	O	
+61-13	almindelige	almindelig	AC:p#u#:--:p---	B-adj.all	
+61-14	husejere	husejer	NC:piu#:--:----	B-noun.person	
+61-15	og	og	CC:----:--:----	O	
+61-16	boligkøbere	boligkøber	NC:piu#:--:----	O	
+61-17	på	på	T-:----:--:----	O	
+61-18	nogen	nogen	PI:s-uc:--:----	O	
+61-19	måde	måde	NC:siuc:--:----	B-noun.motive|B-noun.TOP|B-noun.communication	
+61-20	reelt	reel	AD:----:--:p---	B-adj.social|B-adj.phys	
+61-21	har	have	VF:----:sa:----	B-verb.perception|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.cognition|B-verb.TOP	
+61-22	et	en	PI:s-un:--:----	O	
+61-23	betydeligt	betydelig	AC:siun:--:p---	B-adj.phys|B-adj.all	
+61-24	ansvar	ansvar	NC:siun:--:----	B-noun.cognition	
+61-25	for	for	T-:----:--:----	O	
+61-26	den	den	PM:s-uc:--:----	O	
+61-27	aktuelle	aktuel	AC:sdu#:--:p---	B-adj.mental	
+61-28	krise	krise	NC:siuc:--:----	B-noun.time|B-noun.state|B-noun.artifact	
+61-29	.	.	ZP	O	
+
+#id=62
+#text=45 år i dag.
+62-1	45	45	LC:--u-:--:----	O	
+62-2	år	år	NC:piu#:--:----	B-noun.time	
+62-3	i	i	T-:----:--:----	O	
+62-4	dag	dag	NC:siuc:--:----	B-noun.time	
+62-5	.	.	ZP	O	
+
+#id=63
+#text=Henning Gade-Rasmussen, Hvidovre, 83, fhv. underdirektør, bibliotekar Ib Mortensen, Værløse, 83, overlæge, dr.med.
+63-1	Henning	Henning	NP:siu#:--:----	O	
+63-2	Gade	gade	NW:----:--:----	B-noun.location	
+63-3	-	-	ZH	O	
+63-4	Rasmussen	Rasmussen	NP:siu#:--:----	O	
+63-5	,	,	ZD	O	
+63-6	Hvidovre	Hvidovre	NP:siu#:--:----	O	
+63-7	,	,	ZD	O	
+63-8	83	83	LC:--u-:--:----	O	
+63-9	,	,	ZD	O	
+63-10	fhv	fhv	XS:----:--:----	O	
+63-11	.	.	ZP	O	
+63-12	underdirektør	underdirektør	--	B-noun.person	
+63-13	,	,	ZD	O	
+63-14	bibliotekar	bibliotekar	NC:siuc:--:----	B-noun.person	
+63-15	Ib	Ib	NP:siu#:--:----	O	
+63-16	Mortensen	Mortensen	NP:siu#:--:----	O	
+63-17	,	,	ZD	O	
+63-18	Værløse	Værløse	NP:siu#:--:----	O	
+63-19	,	,	ZD	O	
+63-20	83	83	LC:--u-:--:----	O	
+63-21	,	,	ZD	O	
+63-22	overlæge	overlæge	NC:siuc:--:----	B-noun.person	
+63-23	,	,	ZD	O	
+63-24	dr	doctor	XF:----:--:----	O	
+63-25	.	.	ZP	O	
+63-26	med	med	T-:----:--:----	O	
+63-27	.	.	ZP	O	
+
+#id=64
+#text=Minegen far fik f.
+64-1	Min	min	PO:s--c:--:-1ns	O	
+64-2	egen	egen	AC:s§uc:--:p---	O	
+64-3	far	far	NC:siuc:--:----	B-noun.animal|B-noun.person|B-noun.object	
+64-4	fik	få	VF:----:ta:----	B-verb.change|B-verb.phenomenon|B-verb.act|B-verb.possession	
+64-5	f	for	T-:----:--:----	O	
+64-6	.	.	ZP	O	
+
+#id=65
+#text=Reglen om forudgående uddannelse kan dog fraviges, hvis den pågældende uddannelse er forældet, eller der er tale om en person med en ledighed på minimum 9 måneder.
+65-1	Reglen	regel	NC:sduc:--:----	B-noun.cognition|B-noun.TOP	
+65-2	om	om	T-:----:--:----	O	
+65-3	forudgående	forudgå	VP:##u#:s-:----	O	
+65-4	uddannelse	uddannelse	NC:siuc:--:----	B-noun.act	
+65-5	kan	kunne	VF:----:sa:----	B-verb.social	
+65-6	dog	dog	D-:----:--:u---	O	
+65-7	fraviges	fravige	VI:----:-p:----	B-verb.act	
+65-8	,	,	ZD	O	
+65-9	hvis	hvis	CS:----:--:----	O	
+65-10	den	den	PM:s-uc:--:----	O	
+65-11	pågældende	pågældende	AC:§§u§:--:p---	O	
+65-12	uddannelse	uddannelse	NC:siuc:--:----	B-noun.act	
+65-13	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+65-14	forældet	forælde	VT:siu#:t-:----	O	
+65-15	,	,	ZD	O	
+65-16	eller	eller	CC:----:--:----	O	
+65-17	der	der	US:----:--:----	O	
+65-18	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+65-19	tale	tale	VI:----:-a:----	B-verb.phenomenon|B-verb.creation|B-verb.communication|B-verb.act	
+65-20	om	om	T-:----:--:----	O	
+65-21	en	en	PI:s-uc:--:----	O	
+65-22	person	person	NC:siuc:--:----	B-noun.person	
+65-23	med	med	T-:----:--:----	O	
+65-24	en	en	PI:s-uc:--:----	O	
+65-25	ledighed	ledighed	NC:siuc:--:----	B-noun.state	
+65-26	på	på	T-:----:--:----	O	
+65-27	minimum	minimum	NC:siun:--:----	B-noun.quantity	
+65-28	9	9	LC:--u-:--:----	O	
+65-29	måneder	måned	NC:piu#:--:----	B-noun.time	
+65-30	.	.	ZP	O	
+
+#id=66
+#text=Xtracon-Skakligaentegnede spændende i år.
+66-1	Xtracon	Xtracon	NP:siu#:--:----	O	
+66-2	-	-	ZH	O	
+66-3	Skakligaen	Skakligaen	NP:siu#:--:----	O	
+66-4	tegnede	tegne	VF:----:ta:----	B-verb.social|B-verb.act|B-verb.creation|B-verb.communication	
+66-5	spændende	spændende	AC:§§u§:--:p---	B-adj.mental|B-adj.all	
+66-6	i	i	T-:----:--:----	O	
+66-7	år	år	NC:siun:--:----	B-noun.time	
+66-8	.	.	ZP	O	
+
+#id=67
+#text=Guldbrandsens dokumentar er fair
+67-1	Guldbrandsens	Guldbrandsens	NP:sig#:--:----	O	
+67-2	dokumentar	dokumentar	NC:siuc:--:----	O	
+67-3	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+67-4	fair	fair	AC:§§u§:--:p---	B-adj.all	
+
+#id=68
+#text=Passagererne kan kun konstatere, at det er en opfølgning på afgifter for bl.a.
+68-1	Passagererne	passager	NC:pdu#:--:----	B-noun.person	
+68-2	kan	kunne	VF:----:sa:----	B-verb.social	
+68-3	kun	kun	D-:----:--:u---	O	
+68-4	konstatere	konstatere	VI:----:-a:----	O	
+68-5	,	,	ZD	O	
+68-6	at	at	CS:----:--:----	O	
+68-7	det	det	PP:s-un:--:-3n-	O	
+68-8	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+68-9	en	en	PI:s-uc:--:----	O	
+68-10	opfølgning	opfølgning	uc:--:----	B-noun.act	
+68-11	på	på	T-:----:--:----	O	
+68-12	afgifter	afgift	NC:piu#:--:----	B-noun.artifact	
+68-13	for	for	T-:----:--:----	O	
+68-14	bl	blandt	T-:----:--:----	O	
+68-15	.	.	ZP	O	
+68-16	a	anden	PI:s-un:--:----	O	
+68-17	.	.	ZP	O	
+
+#id=69
+#text=,Kræftens Bekæmpelse og Herlev Hospital.
+69-1	,	,	ZD	O	
+69-2	Kræftens	kræft	NC:sdgc:--:----	O	
+69-3	Bekæmpelse	bekæmpelse	NC:siuc:--:----	B-noun.act	
+69-4	og	og	CC:----:--:----	O	
+69-5	Herlev	Herlev	NP:siu#:--:----	O	
+69-6	Hospital	Hospital	NP:siu#:--:----	B-noun.building	
+69-7	.	.	ZP	O	
+
+#id=70
+#text=Zimbabwespræsident, Robert Mugabe, bør anklages for forbrydelser mod menneskeheden på grund af menneskerettighedskrænkelser og sammenbruddet i Zimbabwes sundhedssystem, anbefaler organisationen Læger for Menneskerettigheder efter et besøg i Zimbabwe i sidste måned.
+70-1	Zimbabwes	Zimbabwe	NP:sig#:--:----	O	
+70-2	præsident	præsident	NC:siuc:--:----	B-noun.person	
+70-3	,	,	ZD	O	
+70-4	Robert	Robert	NP:siu#:--:----	O	
+70-5	Mugabe	Mugabe	NP:siu#:--:----	O	
+70-6	,	,	ZD	O	
+70-7	bør	burde	VF:----:sa:----	B-verb.TOP	
+70-8	anklages	anklage	VI:----:-p:----	B-verb.social	
+70-9	for	for	T-:----:--:----	O	
+70-10	forbrydelser	forbrydelse	NC:piu#:--:----	B-noun.act	
+70-11	mod	mod	T-:----:--:----	O	
+70-12	menneskeheden	menneskehed	NC:sduc:--:----	B-noun.person	
+70-13	på	på	T-:----:--:----	O	
+70-14	grund	grund	NC:siuc:--:----	B-noun.object|B-noun.location|B-noun.act	
+70-15	af	af	T-:----:--:----	O	
+70-16	menneskerettighedskrænkelser	menneskerettighedskrænkelse	NC:piu#:--:----	O	
+70-17	og	og	CC:----:--:----	O	
+70-18	sammenbruddet	sammenbrud	NC:sdun:--:----	B-noun.attribute|B-noun.phenomenon|B-noun.feeling	
+70-19	i	i	T-:----:--:----	O	
+70-20	Zimbabwes	Zimbabwe	NP:sig#:--:----	O	
+70-21	sundhedssystem	sundhedssystem	NC:siun:--:----	B-noun.institution	
+70-22	,	,	ZD	O	
+70-23	anbefaler	anbefale	VF:----:sa:----	O	
+70-24	organisationen	organisation	NC:sduc:--:----	B-noun.institution|B-noun.person|B-noun.TOP|B-noun.cognition	
+70-25	Læger	læge	VF:----:sa:----	O	
+70-26	for	for	T-:----:--:----	O	
+70-27	Menneskerettigheder	menneskerettighed	NC:piu#:--:----	B-noun.institution	
+70-28	efter	efter	T-:----:--:----	O	
+70-29	et	en	PI:s-un:--:----	O	
+70-30	besøg	besøg	NC:siun:--:----	B-noun.act	
+70-31	i	i	T-:----:--:----	O	
+70-32	Zimbabwe	Zimbabwe	NP:siu#:--:----	O	
+70-33	i	i	T-:----:--:----	O	
+70-34	sidste	sidste	AC:§§u§:--:p---	B-adj.time	
+70-35	måned	måned	NC:siuc:--:----	B-noun.time	
+70-36	.	.	ZP	O	
+
+#id=71
+#text=Der kræves blot en holdningsændring.
+71-1	Der	der	US:----:--:----	O	
+71-2	kræves	kræve	VF:----:sp:----	B-verb.communication	
+71-3	blot	blot	D-:----:--:u---	O	
+71-4	en	en	PI:s-uc:--:----	O	
+71-5	holdningsændring	holdningsændring	NC:siuc:--:----	B-noun.feeling	
+71-6	.	.	ZP	O	
+
+#id=72
+#text=AntiDoping Danmark testede i 2007 173 personer i motionscentre.
+72-1	Anti	Anti	XY:----:--:----	O	
+72-2	Doping	doping	NC:siuc:--:----	B-noun.artifact	
+72-3	Danmark	Danmark	NP:siu#:--:----	O	
+72-4	testede	teste	VF:----:ta:----	B-verb.cognition	
+72-5	i	i	T-:----:--:----	O	
+72-6	2007	2007	LC:--u-:--:----	O	
+72-7	173	173	LC:--u-:--:----	O	
+72-8	personer	person	NC:piu#:--:----	B-noun.person	
+72-9	i	i	T-:----:--:----	O	
+72-10	motionscentre	motionscenter	NC:piu#:--:----	B-noun.building	
+72-11	.	.	ZP	O	
+
+#id=73
+#text=Rejsertog først turen hen til Commonwealth-kirkegården, hvor 7.367 gravsten markerer ofrene fra Storbritannien, New Zealand, Australien, Canada, Sydafrika, Grækenland, Frankrig, Indien og Malaysia.
+73-1	Rejser	rejse	NC:piu#:--:----	B-noun.feeling|B-noun.quantity|B-noun.act	
+73-2	tog	tage	VF:----:ta:----	B-verb.motion|B-verb.cognition|B-verb.act|B-verb.creation|B-verb.change|B-verb.social|B-verb.possession	
+73-3	først	først	D-:----:--:u---	O	
+73-4	turen	tur	NC:sduc:--:----	B-noun.event|B-noun.attribute|B-noun.state|B-noun.act|B-noun.time	
+73-5	hen	hen	D-:----:--:u---	O	
+73-6	til	til	--	O	
+73-7	Commonwealth	Commonwealth	NP:siu#:--:----	O	
+73-8	-	-	ZH	O	
+73-9	kirkegården	kirkegård	NC:sduc:--:----	B-noun.location	
+73-10	,	,	ZD	O	
+73-11	hvor	hvor	D-:----:--:u---	O	
+73-12	7	7	LC:--u-:--:----	O	
+73-13	.	.	ZP	O	
+73-14	367	367	LC:--u-:--:----	O	
+73-15	gravsten	gravsten	NC:piu#:--:----	B-noun.artifact	
+73-16	markerer	markere	VF:----:sa:----	B-verb.change|B-verb.communication	
+73-17	ofrene	offer	NC:pdu#:--:----	B-noun.object|B-noun.person|B-noun.act|B-noun.animal	
+73-18	fra	fra	T-:----:--:----	O	
+73-19	Storbritannien	Storbritannien	NP:siu#:--:----	O	
+73-20	,	,	ZD	O	
+73-21	New	New	NP:siu#:--:----	O	
+73-22	Zealand	Zealand	NP:siu#:--:----	O	
+73-23	,	,	ZD	O	
+73-24	Australien	Australien	NP:siu#:--:----	O	
+73-25	,	,	ZD	O	
+73-26	Canada	Canada	NP:siu#:--:----	O	
+73-27	,	,	ZD	O	
+73-28	Sydafrika	Sydafrika	NP:siu#:--:----	O	
+73-29	,	,	ZD	O	
+73-30	Grækenland	Grækenland	NP:siu#:--:----	O	
+73-31	,	,	ZD	O	
+73-32	Frankrig	Frankrig	NP:siu#:--:----	O	
+73-33	,	,	ZD	O	
+73-34	Indien	Indien	NP:siu#:--:----	O	
+73-35	og	og	CC:----:--:----	O	
+73-36	Malaysia	Malaysia	NP:siu#:--:----	O	
+73-37	.	.	ZP	O	
+
+#id=74
+#text=En dansk ekstrem-skiløber i 30' erne døde i går efter at være styrtet ned ad et fjeld i Rauma i Norge.
+74-1	En	en	PI:s-uc:--:----	O	
+74-2	dansk	dansk	AC:siu§:--:p---	B-adj.social|B-adj.phys	
+74-3	ekstrem	ekstrem	AD:----:--:p---	O	
+74-4	-	-	NC:piu#:--:----	O	
+74-5	skiløber	skiløber	NC:siuc:--:----	B-noun.person	
+74-6	i	i	T-:----:--:----	O	
+74-7	30	30	LC:--u-:--:----	O	
+74-8	'	'	ZA	O	
+74-9	erne	@erne	MN:pdu#:--:----	O	
+74-10	døde	dø	VF:----:ta:----	B-verb.phenomenon|B-verb.creation	
+74-11	i	i	T-:----:--:----	O	
+74-12	går	går	NC:§§u§:--:----	O	
+74-13	efter	efter	T-:----:--:----	O	
+74-14	at	at	UI:----:--:----	O	
+74-15	være	være	VI:----:-a:----	B-verb.TOP|B-verb.social|B-verb.stative	
+74-16	styrtet	styrte	VT:siu#:t-:----	B-verb.motion	
+74-17	ned	ned	D-:----:--:u---	O	
+74-18	ad	ad	T-:----:--:----	O	
+74-19	et	en	PI:s-un:--:----	O	
+74-20	fjeld	fjeld	NC:siun:--:----	B-noun.location	
+74-21	i	i	T-:----:--:----	O	
+74-22	Rauma	Rauma	NP:siu#:--:----	O	
+74-23	i	i	T-:----:--:----	O	
+74-24	Norge	Norge	NP:siu#:--:----	O	
+74-25	.	.	ZP	O	
+
+#id=75
+#text=Der har været en lang tradition for hemmeligholdelse i IOC.
+75-1	Der	der	US:----:--:----	O	
+75-2	har	have	VF:----:sa:----	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+75-3	været	være	VT:siu#:t-:----	B-verb.TOP|B-verb.social|B-verb.stative	
+75-4	en	en	PI:s-uc:--:----	O	
+75-5	lang	lang	AC:siuc:--:p---	B-adj.time|B-adj.phys	
+75-6	tradition	tradition	NC:siuc:--:----	B-noun.domain|B-noun.communication|B-noun.motive|B-noun.cognition|B-noun.act	
+75-7	for	for	T-:----:--:----	O	
+75-8	hemmeligholdelse	hemmeligholdelse	NC:siuc:--:----	O	
+75-9	i	i	T-:----:--:----	O	
+75-10	IOC	IOC	NP:siu#:--:----	O	
+75-11	.	.	ZP	O	
+
+#id=76
+#text=-Nu har min kone og jeg slidt derude i syv samfulde aar, spillet baade sommer og vinter og søgt at følge den store, gamle dames linje.
+76-1	-	-	ZH	O	
+76-2	Nu	nu	D-:----:--:u---	O	
+76-3	har	have	VF:----:sa:----	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+76-4	min	min	PO:s--c:--:-1ns	O	
+76-5	kone	kone	NC:siuc:--:----	B-noun.person	
+76-6	og	og	CC:----:--:----	O	
+76-7	jeg	jeg	PP:s-nc:--:-1n-	O	
+76-8	slidt	slide	VT:siu#:t-:----	B-verb.social|B-verb.emotion|B-verb.act|B-verb.phenomenon	
+76-9	derude	derude	D-:----:--:u---	O	
+76-10	i	i	T-:----:--:----	O	
+76-11	syv	syv	LC:--u-:--:----	O	
+76-12	samfulde	samfuld	AC:p#u#:--:p---	O	
+76-13	aar	år	NC:piu#:--:----	O	
+76-14	,	,	ZD	O	
+76-15	spillet	spil	NC:sdun:--:----	B-noun.communication|B-noun.artifact|B-noun.phenomenon|B-noun.institution|B-noun.act|B-noun.TOP|B-noun.motive	
+76-16	baade	både	D-:----:--:u---	O	
+76-17	sommer	sommer	NC:siuc:--:----	B-noun.time	
+76-18	og	og	CC:----:--:----	O	
+76-19	vinter	vinter	NC:siuc:--:----	B-noun.time	
+76-20	og	og	CC:----:--:----	O	
+76-21	søgt	søge	VT:siu#:t-:----	B-verb.motion|B-verb.act|B-verb.cognition	
+76-22	at	at	UI:----:--:----	O	
+76-23	følge	følge	VI:----:-a:----	B-verb.motion	
+76-24	den	den	PM:s-uc:--:----	O	
+76-25	store	stor	AC:sdu#:--:p---	B-adj.phys	
+76-26	,	,	ZD	O	
+76-27	gamle	gammel	AC:sdu#:--:p---	B-adj.time	
+76-28	dames	dame	NC:sigc:--:----	B-noun.artifact|B-noun.person	
+76-29	linje	linje	NC:siuc:--:----	B-noun.communication|B-noun.cognition|B-noun.person|B-noun.artifact|B-noun.location|B-noun.domain|B-noun.TOP|B-noun.motive	
+76-30	.	.	ZP	O	
+
+#id=77
+#text=Men det er ikke lige meget, om den klassiske musik præsenteres på det danske sprog og på en dansk kulturbaggrund eller på en tysk eller fransk.
+77-1	Men	men	CC:----:--:----	O	
+77-2	det	det	PP:s-un:--:-3n-	O	
+77-3	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+77-4	ikke	ikke	D-:----:--:u---	O	
+77-5	lige	lige	D-:----:--:u---	O	
+77-6	meget	megen	AD:----:--:p---	O	
+77-7	,	,	ZD	O	
+77-8	om	om	CS:----:--:----	O	
+77-9	den	den	PM:s-uc:--:----	O	
+77-10	klassiske	klassisk	AC:sdu#:--:p---	B-adj.all	
+77-11	musik	musik	NC:siuc:--:----	B-noun.domain	
+77-12	præsenteres	præsentere	VF:----:sp:----	B-verb.act|B-verb.communication	
+77-13	på	på	T-:----:--:----	O	
+77-14	det	den	PM:s-un:--:----	O	
+77-15	danske	dansk	AC:sdu#:--:p---	B-adj.social|B-adj.phys	
+77-16	sprog	sprog	NC:siun:--:----	B-noun.communication|B-noun.motive	
+77-17	og	og	CC:----:--:----	O	
+77-18	på	på	T-:----:--:----	O	
+77-19	en	en	PI:s-uc:--:----	O	
+77-20	dansk	dansk	AC:siu§:--:p---	B-adj.social|B-adj.phys	
+77-21	kulturbaggrund	kulturbaggrund	NC:siuc:--:----	B-noun.cognition	
+77-22	eller	eller	CC:----:--:----	O	
+77-23	på	på	T-:----:--:----	O	
+77-24	en	en	PI:s-uc:--:----	O	
+77-25	tysk	tysk	AC:siu§:--:p---	B-s	
+77-26	eller	eller	CC:----:--:----	O	
+77-27	fransk	fransk	AC:siu§:--:p---	B-adj.social	
+77-28	.	.	ZP	O	
+
+#id=78
+#text=22-årigeMarcus Tracy valgte torsdag danske AaB i stedet for amerikansk fodbold.
+78-1	22	22	LC:--u-:--:----	O	
+78-2	-	-	ZH	O	
+78-3	årige	årig	AC:sdu#:--:p---	O	
+78-4	Marcus	Marcus	NP:siu#:--:----	O	
+78-5	Tracy	Tracy	NP:siu#:--:----	O	
+78-6	valgte	vælge	VF:----:ta:----	B-verb.cognition	
+78-7	torsdag	torsdag	NC:siuc:--:----	B-noun.time	
+78-8	danske	dansk	AC:p#u#:--:p---	B-adj.social|B-adj.phys	
+78-9	AaB	AaB	XY:----:--:----	O	
+78-10	i	i	T-:----:--:----	O	
+78-11	stedet	sted	NC:sdun:--:----	B-noun.object|B-noun.location|B-noun.building|B-noun.cognition|B-noun.time	
+78-12	for	for	T-:----:--:----	O	
+78-13	amerikansk	amerikansk	AC:siu§:--:p---	B-adj.social	
+78-14	fodbold	fodbold	NC:siuc:--:----	B-noun.act|B-noun.artifact	
+78-15	.	.	ZP	O	
+
+#id=79
+#text=Sex er stadigvæk lige om hjørnet og nu og da alt, men også nogle gange for Hank som æg uden salt.
+79-1	Sex	sex	NC:siuc:--:----	B-noun.act	
+79-2	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+79-3	stadigvæk	stadigvæk	D-:----:--:u---	O	
+79-4	lige	lige	D-:----:--:u---	O	
+79-5	om	om	T-:----:--:----	O	
+79-6	hjørnet	hjørne	NC:sdun:--:----	B-noun.location|B-noun.artifact|B-noun.feeling|B-noun.act|B-noun.cognition|B-noun.state	
+79-7	og	og	CC:----:--:----	O	
+79-8	nu	nu	D-:----:--:u---	O	
+79-9	og	og	CC:----:--:----	O	
+79-10	da	da	CS:----:--:----	O	
+79-11	alt	al	PI:s-un:--:----	O	
+79-12	,	,	ZD	O	
+79-13	men	men	CC:----:--:----	O	
+79-14	også	også	D-:----:--:u---	O	
+79-15	nogle	nogen	PI:p-u#:--:----	O	
+79-16	gange	gang	NC:piu#:--:----	B-noun.act|B-noun.location|B-noun.TOP|B-noun.artifact|B-noun.quantity	
+79-17	for	for	T-:----:--:----	O	
+79-18	Hank	hank	NC:siuc:--:----	B-noun.artifact	
+79-19	som	som	US:----:--:----	O	
+79-20	æg	æg	NC:siun:--:----	B-noun.object|B-noun.food|B-noun.artifact	
+79-21	uden	uden	T-:----:--:----	O	
+79-22	salt	salt	NC:siun:--:----	B-noun.phenomenon|B-noun.food	
+79-23	.	.	ZP	O	
+
+#id=80
+#text=Det er ikke småting, troende har takket Jesus for gennem årene.
+80-1	Det	det	PP:s-un:--:-3n-	O	
+80-2	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+80-3	ikke	ikke	D-:----:--:u---	O	
+80-4	småting	småting	NC:piu#:--:----	B-noun.act|B-noun.artifact	
+80-5	,	,	ZD	O	
+80-6	troende	troende	AD:----:--:p---	O	
+80-7	har	have	VF:----:sa:----	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+80-8	takket	takke	VT:siu#:t-:----	B-verb.act|B-ion	
+80-9	Jesus	Jesus	NP:siu#:--:----	O	
+80-10	for	for	D-:----:--:u---	O	
+80-11	gennem	gennem	T-:----:--:----	O	
+80-12	årene	år	NC:pdu#:--:----	B-noun.time	
+80-13	.	.	ZP	O	
+
+#id=81
+#text=Thi først brød han igennem til det store publikum med den på mange måder uhyre vellykkede filmatisering af Umberto Ecos ' Rosens navn'.
+81-1	Thi	thi	CC:----:--:----	O	
+81-2	først	først	D-:----:--:u---	O	
+81-3	brød	bryde	VF:----:ta:----	B-verb.possession|B-verb.act	
+81-4	han	han	PP:s-nc:--:-3n-	O	
+81-5	igennem	igennem	D-:----:--:u---	O	
+81-6	til	til	T-:----:--:----	O	
+81-7	det	den	PM:s-un:--:----	O	
+81-8	store	stor	AC:sdu#:--:p---	B-adj.phys	
+81-9	publikum	publikum	NC:siun:--:----	B-noun.person	
+81-10	med	med	T-:----:--:----	O	
+81-11	den	den	PP:s-uc:--:-3n-	O	
+81-12	på	på	T-:----:--:----	O	
+81-13	mange	mangen	AC:p#u#:--:p---	O	
+81-14	måder	måde	NC:piu#:--:----	B-noun.motive|B-noun.TOP|B-noun.communication	
+81-15	uhyre	uhyre	AD:----:--:p---	B-adj.phys	
+81-16	vellykkede	vellykket	AC:sdu#:--:p---	O	
+81-17	filmatisering	filmatisering	NC:siuc:--:----	B-noun.artifact	
+81-18	af	af	T-:----:--:----	O	
+81-19	Umberto	Umberto	NP:siu#:--:----	O	
+81-20	Ecos	Ecos	NP:siu#:--:----	O	
+81-21	'	'	XY:----:--:----	O	
+81-22	Rosens	rosen	NC:sigc:--:----	B-noun.act|B-noun.plant	
+81-23	navn	navn	NC:siun:--:----	B-noun.communication|B-noun.person|B-noun.attribute	
+81-24	'	'	ZA	O	
+81-25	.	.	ZP	O	
+
+#id=82
+#text=Blandt realkreditobligationerne lukkede 4-35' erne 0,62 point lavere i kurs 91,48 med en effektiv rente på 4,93 pct.
+82-1	Blandt	blandt	T-:----:--:----	O	
+82-2	realkreditobligationerne	realkreditobligation	NC:pdu#:--:----	O	
+82-3	lukkede	lukke	VF:----:ta:----	B-verb.change|B-verb.act|B-verb.phenomenon|B-verb.motion	
+82-4	4	4	LC:--u-:--:----	O	
+82-5	-	-	ZH	O	
+82-6	35	35	LC:--u-:--:----	O	
+82-7	'	'	ZA	O	
+82-8	erne	@erne	MN:pdu#:--:----	O	
+82-9	0	0	NP:siu#:--:----	O	
+82-10	,	,	ZD	O	
+82-11	62	62	LC:--u-:--:----	O	
+82-12	point	point	NC:piu#:--:----	B-noun.quantity	
+82-13	lavere	lav	AC:##u#:--:c---	B-adj.phys|B-adj.mental	
+82-14	i	i	T-:----:--:----	O	
+82-15	kurs	kurs	NC:siuc:--:----	B-noun.motive|B-noun.quantity|B-noun.feeling|B-noun.act|B-noun.location|B-noun.event	
+82-16	91	91	LC:--u-:--:----	O	
+82-17	,	,	ZD	O	
+82-18	48	48	LC:--u-:--:----	O	
+82-19	med	med	T-:----:--:----	O	
+82-20	en	en	PI:s-uc:--:----	O	
+82-21	effektiv	effektiv	AC:siuc:--:p---	B-adj.all	
+82-22	rente	rente	NC:siuc:--:----	B-noun.quantity	
+82-23	på	på	T-:----:--:----	O	
+82-24	4	4	LC:--u-:--:----	O	
+82-25	,	,	ZD	O	
+82-26	93	93	LC:--u-:--:----	O	
+82-27	pct	procent	NC:piu#:--:----	O	
+82-28	.	.	ZP	O	
+
+#id=83
+#text=Tyskland har imidlertid denne gang i modsætning til i Oberhof både Andrea Henkel og Magdalena Neuner til rådighed, og de udgør sammen med Kati Wilhelm og enten Kathrin Hitzer  eller Simone Hauswald kvartetten i den sidste styrkeprøve af denne art inden VM.
+83-1	Tyskland	Tyskland	NP:siu#:--:----	O	
+83-2	har	have	VF:----:sa:----	B-verb.perception|B-verb.communication|B-verb.cognition|B-verb.act|B-verb.phenomenon|B-verb.TOP	
+83-3	imidlertid	imidlertid	D-:----:--:u---	O	
+83-4	denne	denne	PM:s-uc:--:----	O	
+83-5	gang	gang	NC:siuc:--:----	B-noun.act|B-noun.location|B-noun.TOP|B-noun.artifact|B-noun.quantity	
+83-6	i	i	T-:----:--:----	O	
+83-7	modsætning	modsætning	NC:siuc:--:----	B-noun.attribute|B-noun.person|B-noun.feeling	
+83-8	til	til	T-:----:--:----	O	
+83-9	i	i	T-:----:--:----	O	
+83-10	Oberhof	Oberhof	NP:siu#:--:----	O	
+83-11	både	både	D-:----:--:u---	O	
+83-12	Andrea	Andrea	NP:siu#:--:----	O	
+83-13	Henkel	Henkel	NP:siu#:--:----	O	
+83-14	og	og	CC:----:--:----	O	
+83-15	Magdalena	Magdalena	NP:siu#:--:----	O	
+83-16	Neuner	Neuner	NP:siu#:--:----	O	
+83-17	til	til	T-:----:--:----	O	
+83-18	rådighed	rådighed	NC:siuc:--:----	O	
+83-19	,	,	ZD	O	
+83-20	og	og	CC:----:--:----	O	
+83-21	de	de	PP:p-n#:--:-3n-	O	
+83-22	udgør	udgøre	VF:----:sa:----	B-verb.phenomenon	
+83-23	sammen	sammen	D-:----:--:u---	O	
+83-24	med	med	T-:----:--:----	O	
+83-25	Kati	Kati	NP:siu#:--:----	O	
+83-26	Wilhelm	Wilhelm	NP:siu#:--:----	O	
+83-27	og	og	CC:----:--:----	O	
+83-28	enten	enten	CS:----:--:----	O	
+83-29	Kathrin	Kathrin	NP:siu#:--:----	O	
+83-30	Hitzer	Hitzer	NP:siu#:--:----	O	
+83-31	eller	eller	CC:----:--:----	O	
+83-32	Simone	Simone	NP:siu#:--:----	O	
+83-33	Hauswald	Hauswald	NP:siu#:--:----	O	
+83-34	kvartetten	kvartet	NC:sduc:--:----	B-noun.artifact|B-noun.person	
+83-35	i	i	T-:----:--:----	O	
+83-36	den	den	PM:s-uc:--:----	O	
+83-37	sidste	sidste	AC:§§u§:--:p---	B-adj.time	
+83-38	styrkeprøve	styrkeprøve	NC:siuc:--:----	B-noun.act	
+83-39	af	af	T-:----:--:----	O	
+83-40	denne	denne	PM:s-uc:--:----	O	
+83-41	art	art	NC:siuc:--:----	B-noun.group|B-noun.TOP	
+83-42	inden	inden	T-:----:--:----	O	
+83-43	VM	VM	NP:siu#:--:----	O	
+83-44	.	.	ZP	O	
+
+#id=84
+#text=1.50-
+84-1	1	1	LC:--u-:--:----	O	
+84-2	.	.	ZP	O	
+84-3	50	50	LC:--u-:--:----	O	
+84-4	-	-	ZH	O	
+
+#id=85
+#text=Kog, til kartoflerne er knap møre, smag retten til med bouillon/salt og karrypasta.
+85-1	Kog	kog	NC:siuc:--:----	B-noun.act|B-noun.location	
+85-2	,	,	ZD	O	
+85-3	til	til	CS:----:--:----	O	
+85-4	kartoflerne	kartoffel	NC:pdu#:--:----	B-noun.food|B-noun.plant	
+85-5	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+85-6	knap	knap	D-:----:--:u---	O	
+85-7	møre	mør	AC:p#u#:--:p---	B-adj.phys|B-adj.all	
+85-8	,	,	ZD	O	
+85-9	smag	smage	VM:----:--:----	B-verb.phenomenon	
+85-10	retten	ret	NC:sduc:--:----	B-noun.institution|B-noun.person|B-noun.food|B-noun.artifact|B-noun.cognition	
+85-11	til	til	T-:----:--:----	O	
+85-12	med	med	T-:----:--:----	O	
+85-13	bouillon	bouillon	NC:siuc:--:----	B-noun.food	
+85-14	/	/	ZS	O	
+85-15	salt	salt	NC:siun:--:----	B-noun.phenomenon|B-noun.food	
+85-16	og	og	CC:----:--:----	O	
+85-17	karrypasta	karrypasta	NC:siuc:--:----	O	
+85-18	.	.	ZP	O	
+
+#id=86
+#text=allan.graubaek@pol.dk
+86-1	allan	allan	NC:siun:--:----	O	
+86-2	.	.	ZP	O	
+86-3	graubaek@pol	graubaek@pol	NP:siu#:--:----	O	
+86-4	.	.	ZP	O	
+86-5	dk	dk	XS:----:--:----	O	
+
+#id=87
+#text=21.55
+87-1	21	21	LC:--u-:--:----	O	
+87-2	.	.	ZP	O	
+87-3	55	55	LC:--u-:--:----	O	
+
+#id=88
+#text=Billettertil Tivoli 85 kr.
+88-1	Billetter	billet	NC:piu#:--:----	B-noun.communication	
+88-2	til	til	T-:----:--:----	O	
+88-3	Tivoli	Tivoli	NP:siu#:--:----	B-noun.location	
+88-4	85	85	LC:--u-:--:----	O	
+88-5	kr	krone	NC:piu#:--:----	O	
+88-6	.	.	ZP	O	
+
+#id=89
+#text=1
+89-1	1	1	LC:--u-:--:----	O	
+
+#id=90
+#text=Olesens film 'Lille soldat', som kun blev set af 18.500.
+90-1	Olesens	Olesen	NP:sig#:--:----	O	
+90-2	film	film	NC:siuc:--:----	B-noun.object|B-noun.container|B-noun.artifact	
+90-3	'	'	ZA	O	
+90-4	Lille	Lille	NP:siu#:--:----	O	
+90-5	soldat	soldat	NC:siuc:--:----	B-noun.artifact|B-noun.person	
+90-6	'	'	ZA	O	
+90-7	,	,	ZD	O	
+90-8	som	som	US:----:--:----	O	
+90-9	kun	kun	D-:----:--:u---	O	
+90-10	blev	blive	VF:----:ta:----	B-verb.TOP|B-verb.act|B-verb.stative	
+90-11	set	se	VT:siu#:t-:----	B-verb.change|B-verb.act|B-verb.emotion|B-verb.cognition|B-verb.phenomenon	
+90-12	af	af	T-:----:--:----	O	
+90-13	18	18	LC:--u-:--:----	O	
+90-14	.	.	ZP	O	
+90-15	500	500	LC:--u-:--:----	O	
+90-16	.	.	ZP	O	
+
+#id=91
+#text=Den var lidt ujævn, men jeg kan godt lide ting, hvor der er nogle bump på vejen.
+91-1	Den	den	PP:s-uc:--:-3n-	O	
+91-2	var	være	VF:----:ta:----	B-verb.TOP|B-verb.social|B-verb.stative	
+91-3	lidt	lidt	AD:----:--:p---	O	
+91-4	ujævn	ujævn	AC:siuc:--:p---	B-adj.all	
+91-5	,	,	ZD	O	
+91-6	men	men	CC:----:--:----	O	
+91-7	jeg	jeg	PP:s-nc:--:-1n-	O	
+91-8	kan	kunne	VF:----:sa:----	B-verb.social	
+91-9	godt	god	AD:----:--:p---	B-adj.all	
+91-10	lide	lide	VI:----:-a:----	B-verb.phenomenon|B-verb.emotion	
+91-11	ting	ting	NC:piu#:--:----	B-noun.object|B-noun.TOP|B-noun.person|B-act	
+91-12	,	,	ZD	O	
+91-13	hvor	hvor	D-:----:--:u---	O	
+91-14	der	der	US:----:--:----	O	
+91-15	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+91-16	nogle	nogen	PI:p-u#:--:----	O	
+91-17	bump	bump	NC:piu#:--:----	B-noun.artifact|B-noun.phenomenon	
+91-18	på	på	T-:----:--:----	O	
+91-19	vejen	vej	NC:sduc:--:----	B-noun.motive|B-noun.TOP|B-noun.location|B-noun.quantity	
+91-20	.	.	ZP	O	
+
+#id=92
+#text="Hvisden slags kan foregå i Kiel, som er et forbillede for os alle sammen, er det noget skidt.
+92-1	"	"	ZI	O	
+92-2	Hvis	hvis	CS:----:--:----	O	
+92-3	den	den	PM:s-uc:--:----	O	
+92-4	slags	slags	NC:siuc:--:----	B-noun.TOP|B-noun.phenomenon|B-noun.act|B-noun.artifact|B-noun.time|B-noun.food	
+92-5	kan	kunne	VF:----:sa:----	B-verb.social	
+92-6	foregå	foregå	VI:----:-a:----	B-verb.act	
+92-7	i	i	T-:----:--:----	O	
+92-8	Kiel	Kiel	NP:siu#:--:----	O	
+92-9	,	,	ZD	O	
+92-10	som	som	US:----:--:----	O	
+92-11	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+92-12	et	en	PI:s-un:--:----	O	
+92-13	forbillede	forbillede	NC:siun:--:----	B-noun.artifact|B-noun.TOP|B-noun.person	
+92-14	for	for	T-:----:--:----	O	
+92-15	os	vi	PP:p-uc:--:-1#-	O	
+92-16	alle	al	PI:p-u#:--:----	O	
+92-17	sammen	sammen	D-:----:--:u---	O	
+92-18	,	,	ZD	O	
+92-19	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+92-20	det	det	PP:s-un:--:-3n-	O	
+92-21	noget	nogen	PI:s-un:--:----	O	
+92-22	skidt	skidt	AC:siu§:--:p---	B-adj.all	
+92-23	.	.	ZP	O	
+
+#id=93
+#text=For går der ged i den et sted, ender aben med statsgaranti hos statsministeren.
+93-1	For	for	CC:----:--:----	O	
+93-2	går	gå	VF:----:sa:----	B-verb.change|B-verb.act|B-verb.motion|B-verb.stative	
+93-3	der	der	US:----:--:----	O	
+93-4	ged	ged	NC:siuc:--:----	B-noun.animal|B-noun.person	
+93-5	i	i	T-:----:--:----	O	
+93-6	den	den	PP:s-uc:--:-3n-	O	
+93-7	et	en	PI:s-un:--:----	O	
+93-8	sted	sted	NC:siun:--:----	B-noun.object|B-noun.location|B-noun.building|B-noun.cognition|B-noun.time	
+93-9	,	,	ZD	O	
+93-10	ender	ende	VF:----:sa:----	B-verb.change|B-verb.phenomenon	
+93-11	aben	abe	NC:sduc:--:----	B-noun.animal|B-noun.feeling|B-noun.communication	
+93-12	med	med	T-:----:--:----	O	
+93-13	statsgaranti	statsgaranti	NC:siuc:--:----	B-noun.motive	
+93-14	hos	hos	T-:----:--:----	O	
+93-15	statsministeren	statsminister	NC:sduc:--:----	B-noun.person	
+93-16	.	.	ZP	O	
+
+#id=94
+#text=Den har dog ikke været lavere, end at den har tilladt bankerne at præstere det ene rekordoverskud efter det andet de seneste ti år.
+94-1	Den	den	PP:s-uc:--:-3n-	O	
+94-2	har	have	VF:----:sa:----	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+94-3	dog	dog	D-:----:--:u---	O	
+94-4	ikke	ikke	D-:----:--:u---	O	
+94-5	været	være	VT:siu#:t-:----	B-verb.TOP|B-verb.social|B-verb.stative	
+94-6	lavere	lav	AC:##u#:--:c---	B-adj.phys|B-adj.mental	
+94-7	,	,	ZD	O	
+94-8	end	end	CS:----:--:----	O	
+94-9	at	at	CS:----:--:----	O	
+94-10	den	den	PP:s-uc:--:-3n-	O	
+94-11	har	have	VF:----:sa:----	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+94-12	tilladt	tillade	VT:siu#:t-:----	B-verb.communication	
+94-13	bankerne	bank	NC:pdu#:--:----	B-noun.institution|B-noun.person|B-noun.building|B-noun.location|B-noun.quantity	
+94-14	at	at	UI:----:--:----	O	
+94-15	præstere	æstere	VI:----:-a:----	B-verb.possession|B-verb.act	
+94-16	det	den	PM:s-un:--:----	O	
+94-17	ene	ene	AC:§§u§:--:p---	O	
+94-18	rekordoverskud	rekordoverskud	NC:siun:--:----	O	
+94-19	efter	efter	T-:----:--:----	O	
+94-20	det	den	PM:s-un:--:----	O	
+94-21	andet	anden	PI:s-un:--:----	O	
+94-22	de	de	NP:siu#:--:----	O	
+94-23	seneste	seneste	XY:----:--:----	O	
+94-24	ti	ti	LC:--u-:--:----	O	
+94-25	år	år	NC:piu#:--:----	B-noun.time	
+94-26	.	.	ZP	O	
+
+#id=95
+#text=Man skal holde fokus på sekstrækket, da det er så sjældent, man skal i storeslem.
+95-1	Man	man	PI:#-uc:--:----	O	
+95-2	skal	skulle	VF:----:sa:----	B-verb.motion|B-verb.phenomenon	
+95-3	holde	holde	VI:----:-a:----	B-verb.motion|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.social|B-verb.phenomenon	
+95-4	fokus	fokus	NC:siu#:--:----	B-noun.phenomenon|B-noun.location	
+95-5	på	på	T-:----:--:----	O	
+95-6	sekstrækket	sekstræk	NC:sdun:--:----	O	
+95-7	,	,	ZD	O	
+95-8	da	da	CS:----:--:----	O	
+95-9	det	det	PP:s-un:--:-3n-	O	
+95-10	er	være	VF:----:sa:----	B-verb.TOP|B-verb.social|B-verb.stative	
+95-11	så	så	D-:----:--:u---	O	
+95-12	sjældent	sjælden	AC:siun:--:p---	B-adj.time|B-adj.phys	
+95-13	,	,	ZD	O	
+95-14	man	man	PI:#-uc:--:----	O	
+95-15	skal	skulle	VF:----:sa:----	B-verb.motion|B-verb.phenomenon	
+95-16	i	i	T-:----:--:----	O	
+95-17	storeslem	storeslem	AC:siuc:--:p---	O	
+95-18	.	.	ZP	O	
+
+#id=96
+#text=Spørgsmålene var ventede.
+96-1	Spørgsmålene	spørgsmål	NC:pdu#:--:----	B-noun.act|B-noun.cognition	
+96-2	var	være	VF:----:ta:----	B-verb.TOP|B-verb.social|B-verb.stative	
+96-3	ventede	vente	VP:p#u#:t-:----	B-verb.stative	
+96-4	.	.	ZP	O	
+
+#id=97
+#text=Hankalder ophævelsen af braklægning for "den største naturkatastrofe i Danmark".
+97-1	Han	han	PP:s-nc:--:-3n-	O	
+97-2	kalder	kalde	VF:----:sa:----	B-verb.communication	
+97-3	ophævelsen	ophævelse	NC:sduc:--:----	B-noun.act	
+97-4	af	af	T-:----:--:----	O	
+97-5	braklægning	braklægning	NC:siuc:--:----	O	
+97-6	for	for	T-:----:--:----	O	
+97-7	"	"	ZI	O	
+97-8	den	den	PM:s-uc:--:----	O	
+97-9	største	stor	AC:§du§:--:s---	B-adj.phys	
+97-10	naturkatastrofe	naturkatastrofe	NC:siuc:--:----	B-noun.phenomenon	
+97-11	i	i	T-:----:--:----	O	
+97-12	Danmark	Danmark	NP:siu#:--:----	O	
+97-13	"	"	ZI	O	
+97-14	.	.	ZP	O	
+
+#id=98
+#text=de.
+98-1	de	de	PP:p-n#:--:-3n-	O	
+98-2	.	.	ZP	O	
+
+#id=99
+#text=Viskulle have i tusindvis af blomstrende krokus, men i år har  halvdelen været ædt.
+99-1	Vi	vi	PP:p-nc:--:-1n-	O	
+99-2	skulle	skulle	VF:----:ta:----	B-verb.phenomenon	
+99-3	have	have	VI:----:-a:----	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+99-4	i	i	T-:----:--:----	O	
+99-5	tusindvis	tusindvis	D-:----:--:u---	O	
+99-6	af	af	T-:----:--:----	O	
+99-7	blomstrende	blomstre	VP:##u#:s-:----	B-verb.phenomenon	
+99-8	krokus	krokus	NC:piu#:--:----	B-noun.plant	
+99-9	,	,	ZD	O	
+99-10	men	men	CC:----:--:----	O	
+99-11	i	i	T-:----:--:----	O	
+99-12	år	år	NC:siun:--:----	B-noun.time	
+99-13	har	have	VF:----:sa:----	B-verb.perception|B-verb.cognition|B-verb.act|B-verb.communication|B-verb.phenomenon|B-verb.TOP	
+99-14	halvdelen	halvdel	NC:sduc:--:----	B-noun.quantity	
+99-15	været	være	VT:siu#:t-:----	B-verb.TOP|B-verb.social|B-verb.stative	
+99-16	ædt	æde	VT:siu#:t-:----	B-verb.change|B-verb.act|B-verb.cognition	
+99-17	.	.	ZP	O	
+
+#id=100
+#text=Men glæden varede kort.
+100-1	Men	men	CC:----:--:----	O	
+100-2	glæden	glæde	NC:sduc:--:----	B-noun.cognition|B-noun.feeling|B-noun.attribute	
+100-3	varede	vare	VF:----:ta:----	O	
+100-4	kort	kort	AD:----:--:p---	B-adj.time|B-adj.phys	
+100-5	.	.	ZP	O	
+

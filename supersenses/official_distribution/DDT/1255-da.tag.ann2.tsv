@@ -1,0 +1,207 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Minopgave var klar : der skulle lægges pres på Danida og dermed Bhutans regering for at få standset forfølgelsen og dermed flygtningestrømmen .
+1-1	Min	O	
+1-2	opgave	B-noun.cognition	
+1-3	var	B-verb.stative	
+1-4	klar	B-adj.all	
+1-5	:	O	
+1-6	der	O	
+1-7	skulle	O	
+1-8	lægges	B-verb.act	
+1-9	pres	B-noun.feeling	
+1-10	på	O	
+1-11	Danida	B-noun.institution	
+1-12	og	O	
+1-13	dermed	O	
+1-14	Bhutans	B-noun.institution	
+1-15	regering	B-noun.person	
+1-16	for	O	
+1-17	at	O	
+1-18	få	O	
+1-19	standset	B-verb.act	
+1-20	forfølgelsen	B-noun.act	
+1-21	og	O	
+1-22	dermed	O	
+1-23	flygtningestrømmen	B-noun.phenomenon	
+1-24	.	O	
+
+#id=2
+#text=Jegudarbejdede derfor en artikel , der først og fremmest kritiserede Danidas fortsatte engagement i et land , der systematisk forfulgte halvdelen af befolkningen .
+2-1	Jeg	O	
+2-2	udarbejdede	B-verb.creation	
+2-3	derfor	O	
+2-4	en	O	
+2-5	artikel	B-noun.communication	
+2-6	,	O	
+2-7	der	O	
+2-8	først	O	
+2-9	og	O	
+2-10	fremmest	O	
+2-11	kritiserede	B-verb.communication	
+2-12	Danidas	B-noun.institution	
+2-13	fortsatte	O	
+2-14	engagement	B-noun.act	
+2-15	i	O	
+2-16	et	O	
+2-17	land	B-noun.institution	
+2-18	,	O	
+2-19	der	O	
+2-20	systematisk	B-adj.all	
+2-21	forfulgte	B-verb.act	
+2-22	halvdelen	B-noun.quantity	
+2-23	af	O	
+2-24	befolkningen	B-noun.person	
+2-25	.	O	
+
+#id=3
+#text=Artiklenblev sidst i maj sendt til Jyllands-Posten , Berlingske Tidende og Århus Stiftstidende .
+3-1	Artiklen	B-noun.communication	
+3-2	blev	O	
+3-3	sidst	O	
+3-4	i	O	
+3-5	maj	B-noun.time	
+3-6	sendt	B-verb.motion	
+3-7	til	O	
+3-8	Jyllands-Posten	B-noun.institution	
+3-9	,	O	
+3-10	Berlingske	B-noun.institution	
+3-11	Tidende	I-noun.institution	
+3-12	og	O	
+3-13	Århus	B-noun.institution	
+3-14	Stiftstidende	I-noun.institution	
+3-15	.	O	
+
+#id=4
+#text=Desudenskrev jeg til udenrigsministeren i et beskedent håb om , at man var interesseret i en øjenvidneberetning .
+4-1	Desuden	O	
+4-2	skrev	B-verb.communication	
+4-3	jeg	O	
+4-4	til	O	
+4-5	udenrigsministeren	B-noun.person	
+4-6	i	O	
+4-7	et	O	
+4-8	beskedent	B-adj.all	
+4-9	håb	B-noun.feeling	
+4-10	om	O	
+4-11	,	O	
+4-12	at	O	
+4-13	man	O	
+4-14	var	B-verb.stative	
+4-15	interesseret	B-adj.mental	
+4-16	i	O	
+4-17	en	O	
+4-18	øjenvidneberetning	B-noun.communication	
+4-19	.	O	
+
+#id=5
+#text=Ugenefter fik jeg en standardafvisning fra Jyllands-Posten .
+5-1	Ugen	B-noun.time	
+5-2	efter	O	
+5-3	fik	B-verb.possession	
+5-4	jeg	O	
+5-5	en	O	
+5-6	standardafvisning	B-noun.communication	
+5-7	fra	O	
+5-8	Jyllands-Posten	B-noun.institution	
+5-9	.	O	
+
+#id=6
+#text=ÅrhusStiftstidende svarede , at man ikke var interesseret , idet en medarbejder alligevel snart skulle til området .
+6-1	Århus	B-noun.institution	
+6-2	Stiftstidende	I-noun.institution	
+6-3	svarede	B-verb.communication	
+6-4	,	O	
+6-5	at	O	
+6-6	man	O	
+6-7	ikke	O	
+6-8	var	B-verb.stative	
+6-9	interesseret	B-adj.mental	
+6-10	,	O	
+6-11	idet	O	
+6-12	en	O	
+6-13	medarbejder	B-noun.person	
+6-14	alligevel	O	
+6-15	snart	O	
+6-16	skulle	O	
+6-17	til	O	
+6-18	området	B-noun.location	
+6-19	.	O	
+
+#id=7
+#text=BerlingskeTidendes afslag kom først seks uger senere og lignede til forveksling afslaget fra Jyllands-Posten .
+7-1	Berlingske	B-noun.institution	
+7-2	Tidendes	I-noun.institution	
+7-3	afslag	B-noun.communication	
+7-4	kom	B-verb.communication	
+7-5	først	O	
+7-6	seks	O	
+7-7	uger	B-noun.time	
+7-8	senere	B-adj.time	
+7-9	og	O	
+7-10	lignede	B-verb.stative	
+7-11	til	O	
+7-12	forveksling	B-noun.cognition	
+7-13	afslaget	B-noun.communication	
+7-14	fra	O	
+7-15	Jyllands-Posten	B-noun.institution	
+7-16	.	O	
+
+#id=8
+#text=Udenrigsministerensvarede et par uger senere .
+8-1	Udenrigsministeren	B-noun.person	
+8-2	svarede	B-verb.communication	
+8-3	et	O	
+8-4	par	B-noun.quantity	
+8-5	uger	B-noun.time	
+8-6	senere	B-adj.time	
+8-7	.	O	
+
+#id=9
+#text=Hanmente situationen var i bedring , og at flygtningestrømmen i_øvrigt var aftaget .
+9-1	Han	O	
+9-2	mente	B-verb.cognition	
+9-3	situationen	B-noun.abstract	
+9-4	var	B-verb.stative	
+9-5	i	O	
+9-6	bedring	B-noun.state	
+9-7	,	O	
+9-8	og	O	
+9-9	at	O	
+9-10	flygtningestrømmen	B-noun.phenomenon	
+9-11	i_øvrigt	O	
+9-12	var	O	
+9-13	aftaget	B-verb.change	
+9-14	.	O	
+
+#id=10
+#text=Nogenlundesamtidig fik jeg meldinger fra flygtningelejrene , at antallet i lejrene nu var steget til over 40.000 , og at overgrebene inde i Bhutan var intensiveret .
+10-1	Nogenlunde	O	
+10-2	samtidig	O	
+10-3	fik	B-verb.possession	
+10-4	jeg	O	
+10-5	meldinger	B-noun.communication	
+10-6	fra	O	
+10-7	flygtningelejrene	B-noun.institution	
+10-8	,	O	
+10-9	at	O	
+10-10	antallet	B-noun.quantity	
+10-11	i	O	
+10-12	lejrene	B-noun.building	
+10-13	nu	O	
+10-14	var	O	
+10-15	steget	B-verb.change	
+10-16	til	O	
+10-17	over	O	
+10-18	40.000	O	
+10-19	,	O	
+10-20	og	O	
+10-21	at	O	
+10-22	overgrebene	B-noun.act	
+10-23	inde	O	
+10-24	i	O	
+10-25	Bhutan	B-noun.location	
+10-26	var	B-verb.stative	
+10-27	intensiveret	B-adj.all	
+10-28	.	O	
+

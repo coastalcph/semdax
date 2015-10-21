@@ -1,0 +1,202 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=RALLY-RUTEN
+1-1	RALLY-RUTEN	B-noun.location	
+
+#id=2
+#text=Ethalvt år efter aflysningen stod René Metge på køleren af en tilsølet Land Rover , som nu har været brugt til planlægning af fire langdistance-raids , og stirrede ud over et vidtstrakt landskab , som indgår i hans transcontinentale rallyrute .
+2-1	Et	O	
+2-2	halvt	B-adj.all	
+2-3	år	B-noun.time	
+2-4	efter	O	
+2-5	aflysningen	B-noun.act	
+2-6	stod	B-verb.stative	
+2-7	René	B-noun.person	
+2-8	Metge	I-noun.person	
+2-9	på	O	
+2-10	køleren	B-noun.artifact	
+2-11	af	O	
+2-12	en	O	
+2-13	tilsølet	B-adj.phys	
+2-14	Land	B-noun.vehicle	
+2-15	Rover	I-noun.vehicle	
+2-16	,	O	
+2-17	som	O	
+2-18	nu	O	
+2-19	har	O	
+2-20	været	O	
+2-21	brugt	B-verb.act	
+2-22	til	O	
+2-23	planlægning	B-noun.cognition	
+2-24	af	O	
+2-25	fire	O	
+2-26	langdistance-raids	B-noun.event	
+2-27	,	O	
+2-28	og	O	
+2-29	stirrede	B-verb.perception	
+2-30	ud	O	
+2-31	over	O	
+2-32	et	O	
+2-33	vidtstrakt	B-adj.all	
+2-34	landskab	B-noun.plant	
+2-35	,	O	
+2-36	som	O	
+2-37	indgår	B-verb.stative	
+2-38	i	O	
+2-39	hans	O	
+2-40	transcontinentale	B-adj.all	
+2-41	rallyrute	B-noun.location	
+2-42	.	O	
+
+#id=3
+#text=Hanpegede ud over de forblæste græstoppe på vidderne i de tidligere Sovjetrepublikker Uzbekistan og Kazakstan - mindre end 350 km fra den afghanske grænse .
+3-1	Han	O	
+3-2	pegede	B-verb.act	
+3-3	ud	O	
+3-4	over	O	
+3-5	de	O	
+3-6	forblæste	B-adj.all	
+3-7	græstoppe	B-noun.plant	
+3-8	på	O	
+3-9	vidderne	B-noun.location	
+3-10	i	O	
+3-11	de	O	
+3-12	tidligere	B-adj.time	
+3-13	Sovjetrepublikker	B-noun.location	
+3-14	Uzbekistan	B-noun.location	
+3-15	og	O	
+3-16	Kazakstan	B-noun.location	
+3-17	-	O	
+3-18	mindre	O	
+3-19	end	O	
+3-20	350	O	
+3-21	km	O	
+3-22	fra	O	
+3-23	den	O	
+3-24	afghanske	B-adj.social	
+3-25	grænse	B-noun.location	
+3-26	.	O	
+
+#id=4
+#text=Oghan virkede meget fortrolig med terrænet , som han har lært at kende gennem fire års grundig planlægning og rekognoscering .
+4-1	Og	O	
+4-2	han	O	
+4-3	virkede	B-verb.phenomenon	
+4-4	meget	O	
+4-5	fortrolig	B-adj.mental	
+4-6	med	O	
+4-7	terrænet	B-noun.phenomenon	
+4-8	,	O	
+4-9	som	O	
+4-10	han	O	
+4-11	har	O	
+4-12	lært	B-verb.cognition	
+4-13	at	O	
+4-14	kende	B-verb.cognition	
+4-15	gennem	O	
+4-16	fire	O	
+4-17	års	B-noun.time	
+4-18	grundig	B-adj.all	
+4-19	planlægning	B-noun.cognition	
+4-20	og	O	
+4-21	rekognoscering	B-noun.act	
+4-22	.	O	
+
+#id=5
+#text=Hankikkede på sit krøllede og slidte landkort , hoppede ind i Land Roveren og snuppede radiotelefonen :
+5-1	Han	O	
+5-2	kikkede	B-verb.perception	
+5-3	på	O	
+5-4	sit	O	
+5-5	krøllede	B-adj.phys	
+5-6	og	O	
+5-7	slidte	B-adj.phys	
+5-8	landkort	B-noun.artifact	
+5-9	,	O	
+5-10	hoppede	B-verb.motion	
+5-11	ind	O	
+5-12	i	O	
+5-13	Land	B-noun.vehicle	
+5-14	Roveren	I-noun.vehicle	
+5-15	og	O	
+5-16	snuppede	B-verb.possession	
+5-17	radiotelefonen	B-noun.artifact	
+5-18	:	O	
+
+#id=6
+#text="Sasha , jeg tror vi skal lægge kursen lidt mere mod venstre , " sagde han på gebrokkent engelsk .
+6-1	"	O	
+6-2	Sasha	B-noun.person	
+6-3	,	O	
+6-4	jeg	O	
+6-5	tror	B-verb.cognition	
+6-6	vi	O	
+6-7	skal	O	
+6-8	lægge	B-verb.act	
+6-9	kursen	B-noun.motive	
+6-10	lidt	O	
+6-11	mere	O	
+6-12	mod	O	
+6-13	venstre	B-noun.location	
+6-14	,	O	
+6-15	"	O	
+6-16	sagde	B-verb.communication	
+6-17	han	O	
+6-18	på	O	
+6-19	gebrokkent	B-adj.all	
+6-20	engelsk	B-noun.communication	
+6-21	.	O	
+
+#id=7
+#text=SashaRusinov er tidligere læge og Metges højrehånd .
+7-1	Sasha	B-noun.person	
+7-2	Rusinov	I-noun.person	
+7-3	er	B-verb.stative	
+7-4	tidligere	B-adj.time	
+7-5	læge	B-noun.person	
+7-6	og	O	
+7-7	Metges	B-noun.person	
+7-8	højrehånd	B-noun.person	
+7-9	.	O	
+
+#id=8
+#text=Meden sær blanding af franske og engelske brokker svarede han fra sin bil længere borte :
+8-1	Med	O	
+8-2	en	O	
+8-3	sær	B-adj.all	
+8-4	blanding	B-noun.abstract	
+8-5	af	O	
+8-6	franske	B-adj.social	
+8-7	og	O	
+8-8	engelske	B-adj.social	
+8-9	brokker	B-noun.communication	
+8-10	svarede	B-verb.communication	
+8-11	han	O	
+8-12	fra	O	
+8-13	sin	O	
+8-14	bil	B-noun.vehicle	
+8-15	længere	O	
+8-16	borte	O	
+8-17	:	O	
+
+#id=9
+#text="Nej Renney , jeg tror det er bedre at holde en lille smule mod højre . "
+9-1	"	O	
+9-2	Nej	O	
+9-3	Renney	B-noun.person	
+9-4	,	O	
+9-5	jeg	O	
+9-6	tror	B-verb.cognition	
+9-7	det	O	
+9-8	er	B-verb.stative	
+9-9	bedre	B-adj.all	
+9-10	at	O	
+9-11	holde	B-verb.motion	
+9-12	en	O	
+9-13	lille	B-adj.phys	
+9-14	smule	B-noun.quantity	
+9-15	mod	O	
+9-16	højre	O	
+9-17	.	O	
+9-18	"	O	
+
