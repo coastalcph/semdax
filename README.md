@@ -2,12 +2,15 @@
 
 Sense-annotated corpora from the Semantic Processing Across Domains project. This project pools together the data from several articles related to sense annotation for Danish corpora.
 
-This repository contains three main folders
+This repository contains three main folders:
 
 1. ```supersenses``` constains the all-words supersense-annotated corpus
-2. ```lexicalsample``` constains the lexical-sample annotations for a regular, dictionary based sense inventory, and for a supersense-clustered inventory.
-2. ```active_learning``` constains the resulting annotation of "Active Learning for Sense Annotation".
+1. ```lexicalsample``` constains the lexical-sample annotations for a regular, dictionary based sense inventory, and for a supersense-clustered inventory.
+1. ```active_learning``` constains the resulting annotation of "Active Learning for Sense Annotation".
 
+
+
+The following publications make use or document the construction of this resource.
 
 ```
 @inproceedings{olsenetal2015,
@@ -15,15 +18,6 @@ This repository contains three main folders
   author={Olsen, Sussi and Pedersen, Bolette Sandford Mart{\i}nez Alonso, H{\'e}ctor and Johannsen, Anders},
   booktitle={Proceedings of the workshop on Semantic resources and semantic annotation for Natural Language Processing and the Digital Humanities at NODALIDA},
   pages={37},
-  year={2015}
-}
-
-
-  @inproceedings{martinezalonsoetal2015active,
-  title={Active learning for sense annotation},
-  author={ Mart{\i}nez Alonso, H{\'e}ctor and  Plank, Barbara and Johannsen, Anders and  S{\o}gaard,  Anders},
-  booktitle={Nordic Conference of Computational Linguistics NODALIDA 2015},
-  pages={245},
   year={2015}
 }
 
@@ -42,5 +36,12 @@ This repository contains three main folders
 }
 
 
+  @inproceedings{martinezalonsoetal2015active,
+  title={Active learning for sense annotation},
+  author={ Mart{\i}nez Alonso, H{\'e}ctor and  Plank, Barbara and Johannsen, Anders and  S{\o}gaard,  Anders},
+  booktitle={Nordic Conference of Computational Linguistics NODALIDA 2015},
+  pages={245},
+  year={2015}
+}
 
 ```
