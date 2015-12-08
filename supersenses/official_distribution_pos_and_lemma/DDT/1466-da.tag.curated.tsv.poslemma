@@ -1,0 +1,237 @@
+1	Til	til	ADP	O
+2	gengæld	gengæld	NOUN	O
+3	synes	synes	VERB	B-verb.cognition
+4	jeg	jeg	PRON	O
+5	ikke	ikke	ADV	O
+6	,	,	PUNCT	O
+7	tyskerne	tysker	NOUN	B-noun.person
+8	og	og	CONJ	O
+9	spanierne	spanier	NOUN	B-noun.person
+10	har	have	AUX	O
+11	talt	tælle	VERB	B-verb.communication
+12	godt	godte	ADV	O
+13	nok	nok	ADV	O
+14	sammen	sammen	ADV	O
+15	,	,	PUNCT	O
+16	da	da	SCONJ	O
+17	man	man	PRON	O
+18	designede	designe	VERB	B-verb.creation
+19	instrumentpanelet	instrumentpanel	NOUN	B-noun.artifact
+20	.	.	PUNCT	O
+
+1	Ikke	ikke	ADV	O
+2	alle	al	ADJ	O
+3	knapper	knap	NOUN	B-noun.artifact
+4	sidder	sidde	VERB	B-verb.stative
+5	fornuftigt	fornuftig	ADV	O
+6	placeret	placere	VERB	B-verb.motion
+7	.	.	PUNCT	O
+
+1	Flere	flere	ADJ	O
+2	dækkes	dække	VERB	B-verb.act
+3	helt	helt	ADV	O
+4	af	af	ADP	O
+5	rattet	rat	NOUN	B-noun.artifact
+6	.	.	PUNCT	O
+
+1	Udstyrsmæssigt	udstyrsmæs	ADV	O
+2	placerer	placere	VERB	B-verb.motion
+3	Toledo	toledo	PROPN	B-noun.vehicle
+4	sig	sig	PRON	O
+5	fint	finte	ADV	O
+6	i	i	ADP	O
+7	klassen	klasse	NOUN	B-noun.group
+8	.	.	PUNCT	O
+
+1	Servostyring	servostyring	NOUN	B-noun.artifact
+2	,	,	PUNCT	O
+3	ABS	abs	PROPN	B-noun.artifact
+4	,	,	PUNCT	O
+5	elrudehejs	elrudehej	NOUN	B-noun.artifact
+6	,	,	PUNCT	O
+7	el-sidespejle	el-sidespejl	NOUN	B-noun.artifact
+8	og	og	CONJ	O
+9	centrallås	centrallås	NOUN	B-noun.artifact
+10	er	være	AUX	B-verb.stative
+11	standard	standard	NOUN	B-noun.abstract
+12	.	.	PUNCT	O
+
+1	Og	og	CONJ	O
+2	prismæssigt	prismæssig	ADV	O
+3	ligger	ligge	VERB	B-verb.stative
+4	Seat	seat	PROPN	B-noun.vehicle
+5	Toledo	toledo	PROPN	I-noun.vehicle
+6	også	også	ADV	O
+7	pænt	pæn	ADV	O
+8	i	i	ADP	O
+9	forhold	forhold	NOUN	B-noun.relation
+10	til	til	ADP	O
+11	konkurrenterne	konkurrent	NOUN	B-noun.vehicle
+12	.	.	PUNCT	O
+
+1	Selv_om	selv_om	NOUN	O
+2	der	der	ADV	O
+3	focuseres	focus	VERB	B-verb.cognition
+4	på	på	ADP	O
+5	det	det	DET	O
+6	meget	megen	ADV	O
+7	nære	nær	ADJ	B-adj.all
+8	forhold	forhold	NOUN	B-noun.relation
+9	til	til	ADP	O
+10	VW	vw	PROPN	B-noun.institution
+11	,	,	PUNCT	O
+12	er	være	AUX	B-verb.stative
+13	det	det	PRON	O
+14	en	en	DET	O
+15	spansk	spansk	ADJ	B-adj.social
+16	bil	bil	NOUN	B-noun.vehicle
+17	,	,	PUNCT	O
+18	og	og	CONJ	O
+19	den	den	PRON	O
+20	skal	skulle	AUX	O
+21	nu	nu	ADV	O
+22	bevise	bevise	VERB	B-verb.communication
+23	,	,	PUNCT	O
+24	at	at	SCONJ	O
+25	den	den	PRON	O
+26	kan	kunne	AUX	O
+27	leve	leve	VERB	B-verb.act
+28	op	op	ADV	B-verb.PARTICLE
+29	til	til	ADP	O
+30	det	det	PRON	O
+31	,	,	PUNCT	O
+32	den	den	PRON	O
+33	lover	love	VERB	B-verb.communication
+34	.	.	PUNCT	O
+
+1	Fakta	faktum	NOUN	B-noun.communication
+2	om	om	ADP	O
+3	Seat	seat	PROPN	B-noun.vehicle
+4	Toledo	toledo	PROPN	I-noun.vehicle
+5	2,0	2,0	NUM	O
+6	GLX	glx	PROPN	O
+7	OPBYGNING	opbygning	NOUN	B-noun.attribute
+8	:	:	PUNCT	O
+9	4/5-personers	4/5-personers	X	O
+10	sedan	sedan	NOUN	B-noun.vehicle
+11	.	.	PUNCT	O
+
+1	Motor	motor	NOUN	B-noun.artifact
+2	på	på	ADP	O
+3	tværs	tværs	ADV	O
+4	foran	foran	ADV	O
+5	og	og	CONJ	O
+6	træk	træk	NOUN	B-noun.phenomenon
+7	på	på	ADP	O
+8	forhjulene	forhjul	NOUN	B-noun.artifact
+9	.	.	PUNCT	O
+
+1	MOTOR	motor	NOUN	B-noun.artifact
+2	:	:	PUNCT	O
+3	4-cylindre	4-cylindr	NOUN	B-noun.artifact
+4	,	,	PUNCT	O
+5	1984	1984	PRON	O
+6	ccm	ccm	X	O
+7	,	,	PUNCT	O
+8	115	115	DET	O
+9	hk	hk	NOUN	O
+10	ved	ved	ADP	O
+11	5400	5400	NUM	O
+12	o/m.	o/m.	X	O
+13	.	.	PUNCT	O
+
+1	Maks.	maks.	ADJ	O
+2	drejningsmoment	drejningsmoment	NOUN	B-noun.attribute
+3	:	:	PUNCT	O
+4	166	166	SCONJ	O
+5	Nm	nm	PROPN	O
+6	ved	ved	ADP	O
+7	3200	3200	NUM	O
+8	o/m.	o/m.	X	O
+9	.	.	PUNCT	O
+
+1	Elektronisk	elektronisk	ADJ	B-adj.phys
+2	indsprøjtning	indsprøjtning	NOUN	B-noun.act
+3	.	.	PUNCT	O
+
+1	STYRETØJ	styretøj	NOUN	B-noun.artifact
+2	:	:	PUNCT	O
+3	Tandstang	tandstang	NOUN	B-noun.artifact
+4	med	med	ADP	O
+5	servo	servo	X	B-noun.artifact
+6	.	.	PUNCT	O
+
+1	BREMSER	bremser	NOUN	B-noun.artifact
+2	:	:	PUNCT	O
+3	Ventillerede	ventil	ADJ	B-adj.all
+4	skiver	skive	NOUN	B-noun.artifact
+5	for	for	ADV	O
+6	og	og	CONJ	O
+7	skiver	skive	NOUN	B-noun.artifact
+8	bag	bag	ADV	O
+9	.	.	PUNCT	O
+
+1	MÅL	mål	NOUN	B-noun.attribute
+2	OG	og	CONJ	O
+3	VÆGT	vægt	NOUN	B-noun.attribute
+4	:	:	PUNCT	O
+5	Længde/bredde/højde	længde/bredde/højde	X	B-noun.attribute
+6	:	:	PUNCT	O
+7	432/166/142	432/166/142	ADJ	O
+8	cm.	cm.	NOUN	O
+9	.	.	PUNCT	O
+
+1	Egenvægt	egenvægt	NOUN	B-noun.attribute
+2	:	:	PUNCT	O
+3	1030	1030	NUM	O
+4	kg.	kg.	NOUN	O
+5	.	.	PUNCT	O
+
+1	Tilladt	tillade	VERB	B-adj.all
+2	totalvægt	totalvægt	NOUN	B-noun.attribute
+3	:	:	PUNCT	O
+4	1495	1495	ADJ	O
+5	kg.	kg.	NOUN	O
+6	.	.	PUNCT	O
+
+1	HJUL	hjul	NOUN	B-noun.artifact
+2	OG	og	CONJ	O
+3	FÆLGE	fælg	NOUN	B-noun.artifact
+4	:	:	PUNCT	O
+5	Stålfælge	stålfælg	NOUN	B-noun.artifact
+6	6Jx14	6jx14	X	O
+7	.	.	PUNCT	O
+
+1	Dæk	dæk	NOUN	B-noun.artifact
+2	:	:	PUNCT	O
+3	185/60	185/60	NUM	O
+4	R14	r14	X	O
+5	.	.	PUNCT	O
+
+1	PRÆSTATIONER	præstation	NOUN	B-noun.act
+2	:	:	PUNCT	O
+3	Topfart	topfart	NOUN	B-noun.attribute
+4	:	:	PUNCT	O
+5	196	196	INTJ	O
+6	km/t.	km/t.	X	O
+7	.	.	PUNCT	O
+
+1	0-100	0-100	NUM	O
+2	:	:	PUNCT	O
+3	10,5	10,5	NUM	O
+4	sek.	sek.	NOUN	O
+5	.	.	PUNCT	O
+
+1	GARANTI	garanti	NOUN	B-noun.abstract
+2	:	:	PUNCT	O
+3	Seks	seks	ADJ	O
+4	år	år	NOUN	B-noun.time
+5	på	på	ADP	O
+6	rustgennemtæring	rustgennemtæring	NOUN	B-noun.phenomenon
+7	.	.	PUNCT	O
+
+1	PRIS	pris	NOUN	B-noun.possession
+2	:	:	PUNCT	O
+3	219.996	219.996	ADJ	O
+4	kr.	kr.	NOUN	O
+5	.	.	PUNCT	O
