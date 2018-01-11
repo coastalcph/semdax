@@ -1,0 +1,2161 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue
+#id=1
+#text=Hun ankom i smart tætsiddende kjole på restaurant Pastis, og det høstede lange blikke fra sultne mænd,  når hun spankulerede fra sit bord til toilettet.
+1-1	Hun	hun	PP:s-nc:--:-3n-	
+1-2	ankom	ankomme	VF:----:ta:----	
+1-3	i	i	T-:----:--:----	
+1-4	smart	smart	AD:----:--:p---	
+1-5	tætsiddende	tætsiddende	AD:----:--:p---	
+1-6	kjole	kjole	NC:siuc:--:----	
+1-7	på	på	T-:----:--:----	
+1-8	restaurant	restaurant	NC:siuc:--:----	
+1-9	Pastis	pastis	NC:siuc:--:----	
+1-10	,	,	ZD	
+1-11	og	og	CC:----:--:----	
+1-12	det	det	PP:s-un:--:-3n-	
+1-13	høstede	høste	VF:----:ta:----	
+1-14	lange	lang	AC:p#u#:--:p---	
+1-15	blikke	blik|blik-F-indre-blik|blik-F-få-blikket|blik-F-finde-nåde-for-nogens-blik|blik-2-1-1a|blik-1-4a|blik-1-4|blik-1-3|blik-1-2|blik-1-1	NC:piu#:--:----	
+1-16	fra	fra	T-:----:--:----	
+1-17	sultne	sulten	AC:p#u#:--:p---	
+1-18	mænd	mand	NC:piu#:--:----	
+1-19	,	,	ZD	
+1-20	når	når	CS:----:--:----	
+1-21	hun	hun	PP:s-nc:--:-3n-	
+1-22	spankulerede	spankulere	VF:----:ta:----	
+1-23	fra	fra	T-:----:--:----	
+1-24	sit	sin	PO:s--n:--:-3ys	
+1-25	bord	bord	NC:siun:--:----	
+1-26	til	til	T-:----:--:----	
+1-27	toilettet	toilet	NC:sdun:--:----	
+1-28	.	.	ZP	
+
+#id=2
+#text= Hansi griner lidt genert og slår blikket ned i bordet: - Det har jeg det helt fint med, for jeg ved jo, hvem der sover med mig i virkeligheden - og dér er altså kun én..
+2-1	Hansi	Hansi	NP:siu#:--:----	
+2-2	griner	grine	VF:----:sa:----	
+2-3	lidt	lidt	AD:----:--:p---	
+2-4	genert	genert	AD:----:--:p---	
+2-5	og	og	CC:----:--:----	
+2-6	slår	slå	VF:----:sa:----	
+2-7	blikket	blik|blik-1-1|blik-F-indre-blik|blik-F-få-blikket|blik-F-finde-nåde-for-nogens-blik|blik-2-1-1a|blik-1-4a|blik-1-4|blik-1-3|blik-1-2	NC:sdun:--:----	
+2-8	ned	ned	D-:----:--:u---	
+2-9	i	i	T-:----:--:----	
+2-10	bordet	bord	NC:sdun:--:----	
+2-11	:	:	ZP	
+2-12	-	-	ZH	
+2-13	Det	Det	XY:----:--:----	
+2-14	har	have	VF:----:sa:----	
+2-15	jeg	jeg	PP:s-nc:--:-1n-	
+2-16	det	det	PP:s-un:--:-3n-	
+2-17	helt	hel	AD:----:--:p---	
+2-18	fint	fin	AC:siun:--:p---	
+2-19	med	med	T-:----:--:----	
+2-20	,	,	ZD	
+2-21	for	for	CC:----:--:----	
+2-22	jeg	jeg	PP:s-nc:--:-1n-	
+2-23	ved	vide	VF:----:sa:----	
+2-24	jo	jo	D-:----:--:u---	
+2-25	,	,	ZD	
+2-26	hvem	hvem	PR:#-uc:--:----	
+2-27	der	der	US:----:--:----	
+2-28	sover	sove	VF:----:sa:----	
+2-29	med	med	T-:----:--:----	
+2-30	mig	jeg	PP:s-uc:--:-1#-	
+2-31	i	i	T-:----:--:----	
+2-32	virkeligheden	virkelighed	NW:----:--:----	
+2-33	-	-	ZH	
+2-34	og	og	CC:----:--:----	
+2-35	dér	der	D-:----:--:u---	
+2-36	er	være	VF:----:sa:----	
+2-37	altså	altså	D-:----:--:u---	
+2-38	kun	kun	--:u---	
+2-39	én	en	PI:s-uc:--:----	
+2-40	.	.	ZP	
+2-41	.	.	ZP	
+
+#id=3
+#text=Mens hans kammerater udi bryllupsjobbet gik med blikkene stift rettet mod brudeparret, havde Christian travlt med at studere de mange mennesker, loftsudsmykning og alt muligt andet undervejs op ad gulvet.
+3-1	Mens	mens	CS:----:--:----	
+3-2	hans	hans	PO:#--#:--:-3ns	
+3-3	kammerater	kammerat	NC:piu#:--:----	
+3-4	udi	udi	T-:----:--:----	
+3-5	bryllupsjobbet	bryllupsjob	NC:sdun:--:----	
+3-6	gik	gå	VF:----:ta:----	
+3-7	med	med	T-:----:--:----	
+3-8	blikkene	blik|blik-1-2|blik-1-1|blik-F-finde-nåde-for-nogens-blik|blik-F-indre-blik|blik-F-få-blikket|blik-2-1-1a|blik-1-4a|blik-1-4|blik-1-3	NC:pdu#:--:----	
+3-9	stift	stiv	AD:----:--:p---	
+3-10	rettet	rette	VT:siu#:t-:----	
+3-11	mod	mod	T-:----:--:----	
+3-12	brudeparret	brudepar	NC:sdun:--:----	
+3-13	,	,	ZD	
+3-14	havde	have	VF:----:ta:----	
+3-15	Christian	Christian	NP:siu#:--:----	
+3-16	travlt	travl	AD:----:--:p---	
+3-17	med	med	T-:----:--:----	
+3-18	at	at	UI:----:--:----	
+3-19	studere	studere	VI:----:-a:----	
+3-20	de	den	PM:p-u#:--:----	
+3-21	mange	mangen	AC:p#u#:--:p---	
+3-22	mennesker	menneske	NC:piu#:--:----	
+3-23	,	,	ZD	
+3-24	loftsudsmykning	loftsudsmykning	NC:siuc:--:----	
+3-25	og	og	CC:----:--:----	
+3-26	alt	al	PI:s-un:--:----	
+3-27	muligt	mulig	AC:siun:--:p---	
+3-28	andet	anden	PI:s-un:--:----	
+3-29	undervejs	undervejs	D-:----:--:u---	
+3-30	op	op	D-:----:--:u---	
+3-31	ad	ad	T-:----:--:----	
+3-32	gulvet	gulv	NC:sdun:--:----	
+3-33	.	.	ZP	
+
+#id=4
+#text=Drillerier, stirrende blikke og dumme spørgsmål.
+4-1	Drillerier	drilleri	NC:piu#:--:----	
+4-2	,	,	ZD	
+4-3	stirrende	stirre	VP:##u#:s-:----	
+4-4	blikke	blik|blik-1-4|blik-1-3|blik-1-2|blik-1-1|blik-F-indre-blik|blik-F-få-blikket|blik-F-finde-nåde-for-nogens-blik|blik-2-1-1a|blik-1-4a	NC:piu#:--:----	
+4-5	og	og	CC:----:--:----	
+4-6	dumme	dum	AC:p#u#:--:p---	
+4-7	spørgsmål	spørgsmål	NC:piu#:--:----	
+4-8	.	.	ZP	
+
+#id=5
+#text= Min far værdigede mig til gengæld aldrig et blik og døde af druk som 54-årig.
+5-1	Min	min	PO:s--c:--:-1ns	
+5-2	far	far	NC:siuc:--:----	
+5-3	værdigede	værdige	VF:----:ta:----	
+5-4	mig	jeg	PP:s-uc:--:-1#-	
+5-5	til	til	T-:----:--:----	
+5-6	gengæld	gengæld	NC:siuc:--:----	
+5-7	aldrig	aldrig	D-:----:--:u---	
+5-8	et	en	PI:s-un:--:----	
+5-9	blik	blik|blik-1-4|blik-1-3|blik-1-2|blik-1-1|blik-1-4a|blik-F-indre-blik|blik-F-få-blikket|blik-F-finde-nåde-for-nogens-blik|blik-2-1-1a	NC:siun:--:----	
+5-10	og	og	CC:----:--:----	
+5-11	døde	dø	VF:----:ta:----	
+5-12	af	af	T-:----:--:----	
+5-13	druk	druk	NC:siuc:--:----	
+5-14	som	som	US:----:--:----	
+5-15	54	54	LW:----:--:----	
+5-16	-	-	ZH	
+5-17	årig	årig	AC:siuc:--:p---	
+5-18	.	.	ZP	
+
+#id=6
+#text=Er man i tvivl om den til tiden gældende mode, kan man altid trygt rette blikket mod grevinde Cathrine Danneskiold-Samsøe - hun ved besked!
+6-1	Er	være	VF:----:sa:----	
+6-2	man	man	PI:#-uc:--:----	
+6-3	i	i	T-:----:--:----	
+6-4	tvivl	tvivl	NC:siuc:--:----	
+6-5	om	om	T-:----:--:----	
+6-6	den	den	PP:s-uc:--:-3n-	
+6-7	til	til	T-:----:--:----	
+6-8	tiden	tid	NC:sduc:--:----	
+6-9	gældende	gælde	VP:##u#:s-:----	
+6-10	mode	mode	NC:siuc:--:----	
+6-11	,	,	ZD	
+6-12	kan	kunne	VF:----:sa:----	
+6-13	man	man	PI:#-uc:--:----	
+6-14	altid	altid	D-:----:--:u---	
+6-15	trygt	tryg	AD:----:--:p---	
+6-16	rette	rette	VI:----:-a:----	
+6-17	blikket	blik|blik-1-1|blik-1-4|blik-F-indre-blik|blik-F-få-blikket|blik-F-finde-nåde-for-nogens-blik|blik-2-1-1a|blik-1-4a|blik-1-3|blik-1-2	NC:sdun:--:----	
+6-18	mod	mod	T-:----:--:----	
+6-19	grevinde	grevinde	NC:siuc:--:----	
+6-20	Cathrine	Cathrine	NP:siu#:--:----	
+6-21	Danneskiold	Danneskiold	NP:siu#:--:----	
+6-22	-	-	ZH	
+6-23	Samsøe	Samsøe	NP:siu#:--:----	
+6-24	-	-	NC:piu#:--:----	
+6-25	hun	hun	PP:s-nc:--:-3n-	
+6-26	ved	ved	T-:----:--:----	
+6-27	besked	besked	NC:siuc:--:----	
+6-28	!	!	ZP	
+
+#id=7
+#text= Så kan man lige så godt lade være, siger den 35-årige hitproducer med et eftertænksomt blik i øjnene.
+7-1	Så	så	D-:----:--:u---	
+7-2	kan	kunne	VF:----:sa:----	
+7-3	man	man	PI:#-uc:--:----	
+7-4	lige	lige	D-:----:--:u---	
+7-5	så	så	D-:----:--:u---	
+7-6	godt	god	AD:----:--:p---	
+7-7	lade	lade	VI:----:-a:----	
+7-8	være	være	VI:----:-a:----	
+7-9	,	,	ZD	
+7-10	siger	sige	VF:----:sa:----	
+7-11	den	den	PM:s-uc:--:----	
+7-12	35	35	LW:----:--:----	
+7-13	-	-	ZH	
+7-14	årige	årig	AC:sdu#:--:p---	
+7-15	hitproducer	hitproducer	NC:siuc:--:----	
+7-16	med	med	T-:----:--:----	
+7-17	et	en	PI:s-un:--:----	
+7-18	eftertænksomt	eftertænksom	AC:siun:--:p---	
+7-19	blik	blik|blik-1-2|blik-1-1|blik-1-3|blik-F-indre-blik|blik-F-få-blikket|blik-F-finde-nåde-for-nogens-blik|blik-2-1-1a|blik-1-4a|blik-1-4	NC:siun:--:----	
+7-20	i	i	T-:----:--:----	
+7-21	øjnene	øje	NC:pdu#:--:----	
+7-22	.	.	ZP	
+
+#id=8
+#text= Det vil sige, lige indtil Zacs kæreste, Vanessa Hudgens, sendte nogle blikke, som kunne skalpere ham på stedet.
+8-1	Det	det	PP:s-un:--:-3n-	
+8-2	vil	ville	VF:----:sa:----	
+8-3	sige	sige	VI:----:-a:----	
+8-4	,	,	ZD	
+8-5	lige	lige	D-:----:--:u---	
+8-6	indtil	indtil	T-:----:--:----	
+8-7	Zacs	Zacs	NP:sig#:--:----	
+8-8	kæreste	kæreste	NC:siuc:--:----	
+8-9	,	,	ZD	
+8-10	Vanessa	Vanessa	NP:siu#:--:----	
+8-11	Hudgens	Hudgens	NP:siu#:--:----	
+8-12	,	,	ZD	
+8-13	sendte	sende	VF:----:ta:----	
+8-14	nogle	nogen	PI:p-u#:--:----	
+8-15	blikke	blik|blik-F-få-blikket|blik-F-finde-nåde-for-nogens-blik|blik-2-1-1a|blik-1-4a|blik-1-4|blik-1-3|blik-1-1|blik-1-2|blik-F-indre-blik	NC:piu#:--:----	
+8-16	,	,	ZD	
+8-17	som	som	US:----:--:----	
+8-18	kunne	kunne	VF:----:ta:----	
+8-19	skalpere	skalpere	VI:----:-a:----	
+8-20	ham	han	PP:s-uc:--:-3n-	
+8-21	på	på	T-:----:--:----	
+8-22	stedet	sted	NC:sdun:--:----	
+8-23	.	.	ZP	
+
+#id=9
+#text=I næste uge retter vi blikket mod England
+9-1	I	i	T-:----:--:----	
+9-2	næste	næste	AC:§§u§:--:p---	
+9-3	uge	uge	NC:siuc:--:----	
+9-4	retter	rette	VF:----:sa:----	
+9-5	vi	vi	PP:p-nc:--:-1n-	
+9-6	blikket	blik|blik-1-2|blik-1-1|blik-F-indre-blik|blik-F-få-blikket|blik-F-finde-nåde-for-nogens-blik|blik-2-1-1a|blik-1-4a|blik-1-4|blik-1-3	NC:sdun:--:----	
+9-7	mod	mod	T-:----:--:----	
+9-8	England	England	NP:siu#:--:----	
+
+#id=10
+#text= Men han er altså meget stille og fornuftig, smiler Ann med et kærligt blik til ægtemanden, som klarede ærterne på hjemmefronten med datteren Mille, mens mor var i Malaysia.
+10-1	Men	men	CC:----:--:----	
+10-2	han	han	PP:s-nc:--:-3n-	
+10-3	er	være	VF:----:sa:----	
+10-4	altså	altså	D-:----:--:u---	
+10-5	meget	megen	AD:----:--:p---	
+10-6	stille	stille	AC:§§u§:--:p---	
+10-7	og	og	CC:----:--:----	
+10-8	fornuftig	fornuftig	AC:siuc:--:p---	
+10-9	,	,	ZD	
+10-10	smiler	smile	VF:----:sa:----	
+10-11	Ann	Ann	NP:siu#:--:----	
+10-12	med	med	T-:----:--:----	
+10-13	et	en	PI:s-un:--:----	
+10-14	kærligt	kærlig	AC:siun:--:p---	
+10-15	blik	blik|blik-1-4|blik-F-få-blikket|blik-F-indre-blik|blik-F-finde-nåde-for-nogens-blik|blik-2-1-1a|blik-1-4a|blik-1-3|blik-1-2|blik-1-1	NC:siun:--:----	
+10-16	til	til	T-:----:--:----	
+10-17	ægtemanden	ægtemand	NC:sduc:--:----	
+10-18	,	,	ZD	
+10-19	som	som	US:----:--:----	
+10-20	klarede	klare	VF:----:ta:----	
+10-21	ærterne	ært	NC:pdu#:--:----	
+10-22	på	på	T-:----:--:----	
+10-23	hjemmefronten	hjemmefront	NC:sduc:--:----	
+10-24	med	med	T-:----:--:----	
+10-25	datteren	datter	NC:sduc:--:----	
+10-26	Mille	mille	NP:siu#:--:----	
+10-27	,	,	ZD	
+10-28	mens	mens	CS:----:--:----	
+10-29	mor	mor	NC:siuc:--:----	
+10-30	var	være	VF:----:ta:----	
+10-31	i	i	T-:----:--:----	
+10-32	Malaysia	Malaysia	NP:siu#:--:----	
+10-33	.	.	ZP	
+
+#id=11
+#text=- Når du fortæller en pige, du spiller golf, bliver hun fjern i blikket.
+11-1	-	-	NC:piu#:--:----	
+11-2	Når	når	CS:----:--:----	
+11-3	du	du	PP:s-nc:--:-2n-	
+11-4	fortæller	fortælle	VF:----:sa:----	
+11-5	en	en	PI:s-uc:--:----	
+11-6	pige	pige	NC:siuc:--:----	
+11-7	,	,	ZD	
+11-8	du	du	PP:s-nc:--:-2n-	
+11-9	spiller	spille	VF:----:sa:----	
+11-10	golf	golf	NC:siuc:--:----	
+11-11	,	,	ZD	
+11-12	bliver	blive	VF:----:sa:----	
+11-13	hun	hun	PP:s-nc:--:-3n-	
+11-14	fjern	fjern	AD:----:--:p---	
+11-15	i	i	T-:----:--:----	
+11-16	blikket	blik|blik-1-2|blik-1-1|blik-2-1-1a|blik-1-4a|blik-1-4|blik-1-3|blik-F-finde-nåde-for-nogens-blik|blik-F-indre-blik|blik-F-få-blikket	NC:sdun:--:----	
+11-17	.	.	ZP	
+
+#id=12
+#text=Flere vidner fra klubben fortæller, at det nye kendispar så vildt forelskede ud og sendte hinanden kærlige blikke ved bordet, mens der blev taget hul på flaskerne.
+12-1	Flere	mange	--	
+12-2	vidner	vidne	NC:piu#:--:----	
+12-3	fra	fra	T-:----:--:----	
+12-4	klubben	klub	NC:sduc:--:----	
+12-5	fortæller	fortælle	VF:----:sa:----	
+12-6	,	,	ZD	
+12-7	at	at	CS:----:--:----	
+12-8	det	den	PM:s-un:--:----	
+12-9	nye	ny	AC:sdu#:--:p---	
+12-10	kendispar	kendispar	NC:siuc:--:----	
+12-11	så	så	D-:----:--:u---	
+12-12	vildt	vild	AD:----:--:p---	
+12-13	forelskede	forelske	VF:----:ta:----	
+12-14	ud	ud	D-:----:--:u---	
+12-15	og	og	CC:----:--:----	
+12-16	sendte	sende	VF:----:ta:----	
+12-17	hinanden	hinanden	XY:----:--:----	
+12-18	kærlige	kærlig	AC:p#u#:--:p---	
+12-19	blikke	blik|blik-1-2|blik-1-3|blik-1-1|blik-2-1-1a|blik-F-indre-blik|blik-F-få-blikket|blik-F-finde-nåde-for-nogens-blik|blik-1-4a|blik-1-4	NC:piu#:--:----	
+12-20	ved	ved	T-:----:--:----	
+12-21	bordet	bord	NC:sdun:--:----	
+12-22	,	,	ZD	
+12-23	mens	mens	CS:----:--:----	
+12-24	der	der	US:----:--:----	
+12-25	blev	blive	VF:----:ta:----	
+12-26	taget	tage	VT:siu#:t-:----	
+12-27	hul	hul	NC:siun:--:----	
+12-28	på	på	T-:----:--:----	
+12-29	flaskerne	flaske	NC:pdu#:--:----	
+12-30	.	.	ZP	
+
+#id=13
+#text=Jays mobiltelefon var klistret til hånden, og broderen havde ikke succes med at få hans blik væk fra det teknologiske vidunder.
+13-1	Jays	Jay	NP:sig#:--:----	
+13-2	mobiltelefon	mobiltelefon	NC:siuc:--:----	
+13-3	var	være	VF:----:ta:----	
+13-4	klistret	klistre	VT:siu#:t-:----	
+13-5	til	til	T-:----:--:----	
+13-6	hånden	hånd	NC:sduc:--:----	
+13-7	,	,	ZD	
+13-8	og	og	CC:----:--:----	
+13-9	broderen	broder	NC:sduc:--:----	
+13-10	havde	have	VF:----:ta:----	
+13-11	ikke	ikke	D-:----:--:u---	
+13-12	succes	succes	NC:siuc:--:----	
+13-13	med	med	T-:----:--:----	
+13-14	at	at	UI:----:--:----	
+13-15	få	få	VI:----:-a:----	
+13-16	hans	hans	PO:#--#:--:-3ns	
+13-17	blik	blik|blik-F-indre-blik|blik-F-få-blikket|blik-F-finde-nåde-for-nogens-blik|blik-2-1-1a|blik-1-1|blik-1-3|blik-1-2|blik-1-4a|blik-1-4	NC:siun:--:----	
+13-18	væk	væk	D-:----:--:u---	
+13-19	fra	fra	---	
+13-20	det	den	PM:s-un:--:----	
+13-21	teknologiske	teknologisk	AC:sdu#:--:p---	
+13-22	vidunder	vidunder	NC:siun:--:----	
+13-23	.	.	ZP	
+
+#id=14
+#text=- Godt, så behøver jeg ikke at sætte vand op på prædikestolen Hun sagde: - Jeg er ikke bange for mørke - så længe lyset er tændt Godt spørgsmål: - Hvis kærlighed gør  blind, hvordan kan man så tro på kærlighed ved første blik?
+14-1	-	-	NC:piu#:--:----	
+14-2	Godt	god	AD:----:--:p---	
+14-3	,	,	ZD	
+14-4	så	så	D-:----:--:u---	
+14-5	behøver	behøve	VF:----:sa:----	
+14-6	jeg	jeg	PP:s-nc:--:-1n-	
+14-7	ikke	ikke	D-:----:--:u---	
+14-8	at	at	UI:----:--:----	
+14-9	sætte	sætte	VI:----:-a:----	
+14-10	vand	vand	NC:siun:--:----	
+14-11	op	op	D-:----:--:u---	
+14-12	på	på	T-:----:--:----	
+14-13	prædikestolen	prædikestol	NC:sduc:--:----	
+14-14	Hun	Hun	NP:siu#:--:----	
+14-15	sagde	sige	VF:----:ta:----	
+14-16	:	:	ZP	
+14-17	-	-	ZH	
+14-18	Jeg	jeg	NC:siun:--:----	
+14-19	er	være	VF:----:sa:----	
+14-20	ikke	ikke	D-:----:--:u---	
+14-21	bange	bange	AC:§§u§:--:p---	
+14-22	for	for	T-:----:--:----	
+14-23	mørke	mørk	AC:p#u#:--:p---	
+14-24	-	-	NC:piu#:--:----	
+14-25	så	så	D-:----:--:u---	
+14-26	længe	længe	D-:----:--:u---	
+14-27	lyset	lys	NC:sdun:--:----	
+14-28	er	være	VF:----:sa:----	
+14-29	tændt	tænde	VT:siu#:t-:----	
+14-30	Godt	god	AC:siun:--:p---	
+14-31	spørgsmål	spørgsmål	NC:siun:--:----	
+14-32	:	:	ZP	
+14-33	-	-	ZH	
+14-34	Hvis	hvis	CS:----:--:----	
+14-35	kærlighed	kærlighed	NC:siuc:--:----	
+14-36	gør	gøre	VF:----:sa:----	
+14-37	blind	blind	AC:siuc:--:p---	
+14-38	,	,	ZD	
+14-39	hvordan	hvordan	D-:----:--:u---	
+14-40	kan	kunne	VF:----:sa:----	
+14-41	man	man	PI:#-uc:--:----	
+14-42	så	så	D-:----:--:u---	
+14-43	tro	tro	VI:----:-a:----	
+14-44	på	på	T-:----:--:----	
+14-45	kærlighed	kærlighed	NC:siuc:--:----	
+14-46	ved	ved	T-:----:--:----	
+14-47	første	første	AC:§§u§:--:p---	
+14-48	blik	blik|blik-1-2|blik-1-1|blik-1-4|blik-F-indre-blik|blik-F-få-blikket|blik-F-finde-nåde-for-nogens-blik|blik-2-1-1a|blik-1-4a|blik-1-3	NC:siun:--:----	
+14-49	?	?	ZQ	
+
+#id=15
+#text= Hun var i paillettop og med slangekrøller i sit lange hår og høstede mange beundrende blikke, dog ikke fra sin bokserkæreste, som var blevet hjemme i København.
+15-1	Hun	hun	PP:s-nc:--:-3n-	
+15-2	var	være	VF:----:ta:----	
+15-3	i	i	T-:----:--:----	
+15-4	paillettop	paillettop	NC:siuc:--:----	
+15-5	og	og	CC:----:--:----	
+15-6	med	med	T-:----:--:----	
+15-7	slangekrøller	slangekrølle	NC:piu#:--:----	
+15-8	i	i	T-:----:--:----	
+15-9	sit	sin	PO:s--n:--:-3ys	
+15-10	lange	lang	AC:sdu#:--:p---	
+15-11	hår	hår	NC:siun:--:----	
+15-12	og	og	CC:----:--:----	
+15-13	høstede	høste	VF:----:ta:----	
+15-14	mange	mangen	AC:p#u#:--:p---	
+15-15	beundrende	beundre	VP:##u#:s-:----	
+15-16	blikke	blik|blik-1-1|blik-1-3|blik-F-finde-nåde-for-nogens-blik|blik-F-indre-blik|blik-F-få-blikket|blik-2-1-1a|blik-1-4a|blik-1-4|blik-1-2	NC:piu#:--:----	
+15-17	,	,	ZD	
+15-18	dog	dog	D-:----:--:u---	
+15-19	ikke	ikke	D-:----:--:u---	
+15-20	fra	fra	T-:----:--:----	
+15-21	sin	sin	PO:s--c:--:-3ys	
+15-22	bokserkæreste	bokserkæreste	NC:siuc:--:----	
+15-23	,	,	ZD	
+15-24	som	som	US:----:--:----	
+15-25	var	være	VF:----:ta:----	
+15-26	blevet	blive	VT:siu#:t-:----	
+15-27	hjemme	hjemme	D-:----:--:u---	
+15-28	i	i	T-:----:--:----	
+15-29	København	København	NP:siu#:--:----	
+15-30	.	.	ZP	
+
+#id=16
+#text= Og dette smil og lumske blik, uha uha, han er lækker..
+16-1	Og	og	CC:----:--:----	
+16-2	dette	denne	PM:s-un:--:----	
+16-3	smil	smil	NC:siun:--:----	
+16-4	og	og	CC:----:--:----	
+16-5	lumske	lumsk	AC:sdu#:--:p---	
+16-6	blik	blik|blik-2-1-1a|blik-F-indre-blik|blik-F-få-blikket|blik-F-finde-nåde-for-nogens-blik|blik-1-4a|blik-1-4|blik-1-3|blik-1-1|blik-1-2	NC:siun:--:----	
+16-7	,	,	ZD	
+16-8	uha	uha	I-:----:--:----	
+16-9	uha	uha	I-:----:--:----	
+16-10	,	,	ZD	
+16-11	han	han	PP:s-nc:--:-3n-	
+16-12	er	være	VF:----:sa:----	
+16-13	lækker	lækker	AC:siuc:--:p---	
+16-14	.	.	ZP	
+16-15	.	.	ZP	
+
+#id=17
+#text= Det skal være én, som kan  sige hende imod, griner Denise og får straks " hold mund"-blikket fra lillesøster.
+17-1	Det	det	PP:s-un:--:-3n-	
+17-2	skal	skulle	VF:----:sa:----	
+17-3	være	være	VI:----:-a:----	
+17-4	én	en	PI:s-uc:--:----	
+17-5	,	,	ZD	
+17-6	som	som	US:----:--:----	
+17-7	kan	kunne	VF:----:sa:----	
+17-8	sige	sige	VI:----:-a:----	
+17-9	hende	hun	PP:s-uc:--:-3n-	
+17-10	imod	imod	T-:----:--:----	
+17-11	,	,	ZD	
+17-12	griner	grine	VF:----:sa:----	
+17-13	Denise	Denise	NP:siu#:--:----	
+17-14	og	og	CC:----:--:----	
+17-15	får	få	VF:----:sa:----	
+17-16	straks	straks	D-:----:--:u---	
+17-17	"	"	ZI	
+17-18	hold	holde	VM:----:--:----	
+17-19	mund	mund	NC:siuc:--:----	
+17-20	"	"	ZI	
+17-21	-	-	ZH	
+17-22	blikket	blik|blik-1-2|blik-1-1|blik-1-4a|blik-F-indre-blik|blik-F-få-blikket|blik-F-finde-nåde-for-nogens-blik|blik-2-1-1a|blik-1-4|blik-1-3	NC:sdun:--:----	
+17-23	fra	fra	T-:----:--:----	
+17-24	lillesøster	lillesøster	NC:siuc:--:----	
+17-25	.	.	ZP	
+
+#id=18
+#text= Her kan hun være i fred fra nysgerrige blikke, nærgående spørgsmål og kameraernes blitzlys.
+18-1	Her	her	D-:----:--:u---	
+18-2	kan	kunne	VF:----:sa:----	
+18-3	hun	hun	PP:s-nc:--:-3n-	
+18-4	være	være	VI:----:-a:----	
+18-5	i	i	T-:----:--:----	
+18-6	fred	fred	NC:siuc:--:----	
+18-7	fra	fra	T-:----:--:----	
+18-8	nysgerrige	nysgerrig	AC:p#u#:--:p---	
+18-9	blikke	blik|blik-1-4|blik-F-få-blikket|blik-F-indre-blik|blik-F-finde-nåde-for-nogens-blik|blik-2-1-1a|blik-1-4a|blik-1-3|blik-1-2|blik-1-1	NC:piu#:--:----	
+18-10	,	,	ZD	
+18-11	nærgående	nærgående	AD:----:--:p---	
+18-12	spørgsmål	spørgsmål	NC:siun:--:----	
+18-13	og	og	CC:----:--:----	
+18-14	kameraernes	kamera	NC:pdg#:--:----	
+18-15	blitzlys	blitzlys	NC:siun:--:----	
+18-16	.	.	ZP	
+
+#id=19
+#text=Da han først havde fået øjne på den smukke brunette, som ankom til hotellet i mandags med sin tvillingesøster Marie, kunne han ikke få blikket fra hende igen.
+19-1	Da	da	CS:----:--:----	
+19-2	han	han	PP:s-nc:--:-3n-	
+19-3	først	først	D-:----:--:u---	
+19-4	havde	have	VF:----:ta:----	
+19-5	fået	få	VT:siu#:t-:----	
+19-6	øjne	øje	-	
+19-7	på	på	T-:----:--:----	
+19-8	den	den	PM:s-uc:--:----	
+19-9	smukke	smuk	AC:sdu#:--:p---	
+19-10	brunette	brunette	NC:siuc:--:----	
+19-11	,	,	ZD	
+19-12	som	som	US:----:--:----	
+19-13	ankom	ankomme	VF:----:ta:----	
+19-14	til	til	T-:----:--:----	
+19-15	hotellet	hotel	NC:sdun:--:----	
+19-16	i	i	T-:----:--:----	
+19-17	mandags	mandag	NC:sigc:--:----	
+19-18	med	med	T-:----:--:----	
+19-19	sin	sin	PO:s--c:--:-3ys	
+19-20	tvillingesøster	tvillingesøster	NC:siuc:--:----	
+19-21	Marie	Marie	NP:siu#:--:----	
+19-22	,	,	ZD	
+19-23	kunne	kunne	VF:----:ta:----	
+19-24	han	han	PP:s-nc:--:-3n-	
+19-25	ikke	ikke	D-:----:--:u---	
+19-26	få	få	VI:----:-a:----	
+19-27	blikket	blik|blik-1-4a|blik-F-finde-nåde-for-nogens-blik|blik-F-indre-blik|blik-F-få-blikket|blik-2-1-1a|blik-1-4|blik-1-1|blik-1-3|blik-1-2	NC:sdun:--:----	
+19-28	fra	fra	T-:----:--:----	
+19-29	hende	hun	PP:s-uc:--:-3n-	
+19-30	igen	igen	D-:----:--:u---	
+19-31	.	.	ZP	
+
+#id=20
+#text=- Jeg ved ikke, om jeg tror på kærlighed ved første blik, men jeg tror på, at to personer kan have en fantastisk kemi, når de mødes første gang.
+20-1	-	-	NC:piu#:--:----	
+20-2	Jeg	jeg	PP:s-nc:--:-1n-	
+20-3	ved	vide	VF:----:sa:----	
+20-4	ikke	ikke	D-:----:--:u---	
+20-5	,	,	ZD	
+20-6	om	om	CS:----:--:----	
+20-7	jeg	jeg	PP:s-nc:--:-1n-	
+20-8	tror	tro	VF:----:sa:----	
+20-9	på	på	T-:----:--:----	
+20-10	kærlighed	kærlighed	NC:siuc:--:----	
+20-11	ved	ved	T-:----:--:----	
+20-12	første	første	AC:§§u§:--:p---	
+20-13	blik	blik|blik-1-1|blik-1-2|blik-2-1-1a|blik-F-indre-blik|blik-F-få-blikket|blik-F-finde-nåde-for-nogens-blik|blik-1-4a|blik-1-4|blik-1-3	NC:siun:--:----	
+20-14	,	,	ZD	
+20-15	men	men	CC:----:--:----	
+20-16	jeg	jeg	PP:s-nc:--:-1n-	
+20-17	tror	tro	VF:----:sa:----	
+20-18	på	på	T-:----:--:----	
+20-19	,	,	ZD	
+20-20	at	at	CS:----:--:----	
+20-21	to	to	LC:--u-:--:----	
+20-22	personer	person	NC:piu#:--:----	
+20-23	kan	kunne	VF:----:sa:----	
+20-24	have	have	VI:----:-a:----	
+20-25	en	en	PI:s-uc:--:----	
+20-26	fantastisk	fantastisk	AC:siu§:--:p---	
+20-27	kemi	kemi	NC:siuc:--:----	
+20-28	,	,	ZD	
+20-29	når	når	CS:----:--:----	
+20-30	de	de	PP:p-n#:--:-3n-	
+20-31	mødes	møde	VF:----:sp:----	
+20-32	første	første	AC:§§u§:--:p---	
+20-33	gang	gang	NC:siuc:--:----	
+20-34	.	.	ZP	
+
+#id=21
+#text=Samtidig fortalte de, at det var kærlighed ved første blik, da Gitte og mor Gritta efter koncerten gik op på scenen for at få popsangerens autograf.
+21-1	Samtidig	samtidig	D-:----:--:u---	
+21-2	fortalte	fortale	VF:----:ta:----	
+21-3	de	de	PP:p-n#:--:-3n-	
+21-4	,	,	ZD	
+21-5	at	at	CS:----:--:----	
+21-6	det	det	PP:s-un:--:-3n-	
+21-7	var	være	VF:----:ta:----	
+21-8	kærlighed	kærlighed	NC:siuc:--:----	
+21-9	ved	ved	T-:----:--:----	
+21-10	første	første	AC:§§u§:--:p---	
+21-11	blik	blik|blik-1-3|blik-1-4a|blik-2-1-1a|blik-1-4|blik-1-2|blik-1-1|blik-F-indre-blik|blik-F-få-blikket|blik-F-finde-nåde-for-nogens-blik	NC:siun:--:----	
+21-12	,	,	ZD	
+21-13	da	da	CS:----:--:----	
+21-14	Gitte	Gitte	NP:siu#:--:----	
+21-15	og	og	CC:----:--:----	
+21-16	mor	mor	NC:siuc:--:----	
+21-17	Gritta	Gritta	NP:siu#:--:----	
+21-18	efter	efter	T-:----:--:----	
+21-19	koncerten	koncert	NC:sduc:--:----	
+21-20	gik	gå	VF:----:ta:----	
+21-21	op	op	D-:----:--:u---	
+21-22	på	på	T-:----:--:----	
+21-23	scenen	scene	NC:sduc:--:----	
+21-24	for	for	T-:----:--:----	
+21-25	at	at	UI:----:--:----	
+21-26	få	få	VI:----:-a:----	
+21-27	popsangerens	sanger	NC:sdgc:--:----	
+21-28	autograf	autograf	NC:siuc:--:----	
+21-29	.	.	ZP	
+
+#id=22
+#text=Efter Julies a cappella-version af " Der er et yndigt land" fandt de to sammen og stod længe og snakkede, mens Frederik sendte mange intense blikke til sangfuglen, som dog også nød den royale gavtyvs selskab i fulde drag.
+22-1	Efter	efter	T-:----:--:----	
+22-2	Julies	Julies	XY:----:--:----	
+22-3	a	a	XF:----:--:----	
+22-4	cappella	cappella	XF:----:--:----	
+22-5	-	-	ZH	
+22-6	version	version	NC:siuc:--:----	
+22-7	af	af	T-:----:--:----	
+22-8	"	"	ZI	
+22-9	Der	der	US:----:--:----	
+22-10	er	være	VF:----:sa:----	
+22-11	et	en	PI:s-un:--:----	
+22-12	yndigt	yndig	AC:siun:--:p---	
+22-13	land	land	NC:siun:--:----	
+22-14	"	"	ZI	
+22-15	fandt	finde	VF:----:ta:----	
+22-16	de	den	PM:p-u#:--:----	
+22-17	to	to	LC:--u-:--:----	
+22-18	sammen	sammen	D-:----:--:u---	
+22-19	og	og	CC:----:--:----	
+22-20	stod	stå	VF:----:ta:----	
+22-21	længe	længe	D-:----:--:u---	
+22-22	og	og	CC:----:--:----	
+22-23	snakkede	snakke	VF:----:ta:----	
+22-24	,	,	ZD	
+22-25	mens	mens	CS:----:--:----	
+22-26	Frederik	Frederik	NP:siu#:--:----	
+22-27	sendte	sende	VF:----:ta:----	
+22-28	mange	mangen	AC:p#u#:--:p---	
+22-29	intense	intens	AC:p#u#:--:p---	
+22-30	blikke	blik|blik-1-4|blik-F-få-blikket|blik-F-indre-blik|blik-F-finde-nåde-for-nogens-blik|blik-2-1-1a|blik-1-4a|blik-1-3|blik-1-2|blik-1-1	NC:piu#:--:----	
+22-31	til	til	T-:----:--:----	
+22-32	sangfuglen	sangfugl	NC:sduc:--:----	
+22-33	,	,	ZD	
+22-34	som	som	US:----:--:----	
+22-35	dog	dog	D-:----:--:u---	
+22-36	også	også	D-:----:--:u---	
+22-37	nød	nyde	VF:----:ta:----	
+22-38	den	den	PM:s-uc:--:----	
+22-39	royale	royal	AC:sdu#:--:p---	
+22-40	gavtyvs	gavtyv	NC:sigc:--:----	
+22-41	selskab	selskab	NC:siun:--:----	
+22-42	i	i	T-:----:--:----	
+22-43	fulde	fuld	AC:p#u#:--:p---	
+22-44	drag	drag	NC:piu#:--:----	
+22-45	.	.	ZP	
+
+#id=23
+#text=- Da vi så hinanden, var det bare kærlighed ved første blik.
+23-1	-	-	NC:piu#:--:----	
+23-2	Da	da	CS:----:--:----	
+23-3	vi	vi	PP:p-nc:--:-1n-	
+23-4	så	se	VF:----:ta:----	
+23-5	hinanden	hinanden	PC:p-u-:--:----	
+23-6	,	,	ZD	
+23-7	var	være	VF:----:ta:----	
+23-8	det	det	PP:s-un:--:-3n-	
+23-9	bare	bare	D-:----:--:u---	
+23-10	kærlighed	kærlighed	NC:siuc:--:----	
+23-11	ved	ved	T-:----:--:----	
+23-12	første	første	u§:--:p---	
+23-13	blik	blik|blik-1-3|blik-F-finde-nåde-for-nogens-blik|blik-F-indre-blik|blik-F-få-blikket|blik-2-1-1a|blik-1-4a|blik-1-4|blik-1-2|blik-1-1	NC:siun:--:----	
+23-14	.	.	ZP	
+
+#id=24
+#text=Årene har sat sine tydelige spor på den 47-årige eks fru V ed første blik kan man blive lidt i tvivl:
+24-1	Årene	år	NC:pdu#:--:----	
+24-2	har	have	VF:----:sa:----	
+24-3	sat	sætte	VT:siu#:t-:----	
+24-4	sine	sin	PO:p--#:--:-3ys	
+24-5	tydelige	tydelig	AC:p#u#:--:p---	
+24-6	spor	spor	NC:piu#:--:----	
+24-7	på	på	T-:----:--:----	
+24-8	den	den	PM:s-uc:--:----	
+24-9	47	47	LW:----:--:----	
+24-10	-	-	ZH	
+24-11	årige	årig	AC:sdu#:--:p---	
+24-12	eks	eksempel	NC:siun:--:----	
+24-13	fru	frue	NC:siuc:--:----	
+24-14	V	V	NP:siu#:--:----	
+24-15	ed	ED	NC:siuc:--:----	
+24-16	første	første	AC:§§u§:--:p---	
+24-17	blik	blik|blik-1-2|blik-2-1-1a|blik-F-få-blikket|blik-F-indre-blik|blik-F-finde-nåde-for-nogens-blik|blik-1-4a|blik-1-4|blik-1-3|blik-1-1	NC:siun:--:----	
+24-18	kan	kunne	VF:----:sa:----	
+24-19	man	man	PI:#-uc:--:----	
+24-20	blive	blive	VI:----:-a:----	
+24-21	lidt	lidt	AD:----:--:p---	
+24-22	i	i	T-:----:--:----	
+24-23	tvivl	tvivl	NC:siuc:--:----	
+24-24	:	:	ZP	
+
+#id=25
+#text=Hendes blik for rundt, og det samme gjorde fingeren i næsen.
+25-1	Hendes	hendes	PO:#--#:--:-3ns	
+25-2	blik	blik|blik-1-1|blik-1-3|blik-1-2|blik-1-4a|blik-F-finde-nåde-for-nogens-blik|blik-F-indre-blik|blik-F-få-blikket|blik-2-1-1a|blik-1-4	NC:siun:--:----	
+25-3	for	for	T-:----:--:----	
+25-4	rundt	rundt	D-:----:--:u---	
+25-5	,	,	ZD	
+25-6	og	og	CC:----:--:----	
+25-7	det	den	PM:s-un:--:----	
+25-8	samme	samme	AC:§§u§:--:p---	
+25-9	gjorde	gøre	VF:----:ta:----	
+25-10	fingeren	finger	NC:sduc:--:----	
+25-11	i	i	T-:----:--:----	
+25-12	næsen	næse	NC:sduc:--:----	
+25-13	.	.	ZP	
+
+#id=26
+#text=Der blev krammet og sendt kærlige blikke, da ridebaben brugte en del af vinterferien på den første rigtige " familie"-ferie med fodboldkæresten og hans tre døtre
+26-1	Der	der	US:----:--:----	
+26-2	blev	blive	VF:----:ta:----	
+26-3	krammet	kram	NC:sdun:--:----	
+26-4	og	og	CC:----:--:----	
+26-5	sendt	sende	VT:siu#:t-:----	
+26-6	kærlige	kærlig	AC:p#u#:--:p---	
+26-7	blikke	blik|blik-1-4|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-1-4a|blik-1-3|blik-1-2|blik-1-1|blik-F-få-blikket|blik-F-indre-blik	NC:piu#:--:----	
+26-8	,	,	ZD	
+26-9	da	da	CS:----:--:----	
+26-10	ridebaben	ridebabe	NC:sduc:--:----	
+26-11	brugte	bruge	VF:----:ta:----	
+26-12	en	en	PI:s-uc:--:----	
+26-13	del	del	NC:siuc:--:----	
+26-14	af	af	T-:----:--:----	
+26-15	vinterferien	vinterferie	NC:sduc:--:----	
+26-16	på	på	T-:----:--:----	
+26-17	den	den	PM:s-uc:--:----	
+26-18	første	første	AC:§§u§:--:p---	
+26-19	rigtige	rigtig	AC:sdu#:--:p---	
+26-20	"	"	ZI	
+26-21	familie	familie	NC:siuc:--:----	
+26-22	"	"	ZI	
+26-23	-	-	ZH	
+26-24	ferie	ferie	NC:siuc:--:----	
+26-25	med	med	T-:----:--:----	
+26-26	fodboldkæresten	fodboldkæreste	NC:sduc:--:----	
+26-27	og	og	CC:----:--:----	
+26-28	hans	hans	PO:#--#:--:-3ns	
+26-29	tre	tre	LC:--u-:--:----	
+26-30	døtre	datter	NC:piu#:--:----	
+
+#id=27
+#text= Dagen igennem viste prinsen med ømme blikke og blide kærtegn, at han stadig er lige så vild med sin kone, som da de var nyforelskede.
+27-1	Dagen	dag	NC:sduc:--:----	
+27-2	igennem	igennem	D-:----:--:u---	
+27-3	viste	vise	VF:----:ta:----	
+27-4	prinsen	prins	duc:--:----	
+27-5	med	med	T-:----:--:----	
+27-6	ømme	øm	AC:p#u#:--:p---	
+27-7	blikke	blik|blik-1-3|blik-1-4|blik-1-2|blik-1-1|blik-1-4a|blik-F-finde-nåde-for-nogens-blik|blik-F-indre-blik|blik-F-få-blikket|blik-2-1-1a	NC:piu#:--:----	
+27-8	og	og	CC:----:--:----	
+27-9	blide	blid	AC:p#u#:--:p---	
+27-10	kærtegn	kærtegn	NC:piu#:--:----	
+27-11	,	,	ZD	
+27-12	at	at	CS:----:--:----	
+27-13	han	han	PP:s-nc:--:-3n-	
+27-14	stadig	stadig	D-:----:--:u---	
+27-15	er	være	VF:----:sa:----	
+27-16	lige	lige	D-:----:--:u---	
+27-17	så	så	D-:----:--:u---	
+27-18	vild	vild	AD:----:--:p---	
+27-19	med	med	T-:----:--:----	
+27-20	sin	sin	PO:s--c:--:-3ys	
+27-21	kone	kone	NC:siuc:--:----	
+27-22	,	,	ZD	
+27-23	som	som	US:----:--:----	
+27-24	da	da	CS:----:--:----	
+27-25	de	de	PP:p-n#:--:-3n-	
+27-26	var	være	VF:----:ta:----	
+27-27	nyforelskede	nyforelsket	AC:p#u#:--:p---	
+27-28	.	.	ZP	
+
+#id=28
+#text= Med hættetrøje, slaskede bukser og rodet hår er han troppet op til fornemme prisuddelinger, mens folk har skulet og sendt forargede blikke langt ned ad den røde løber.
+28-1	Med	med	T-:----:--:----	
+28-2	hættetrøje	hættetrøje	NC:siuc:--:----	
+28-3	,	,	ZD	
+28-4	slaskede	slaske	VP:p#u#:t-:----	
+28-5	bukser	buks	NC:piu#:--:----	
+28-6	og	og	CC:----:--:----	
+28-7	rodet	rodet	AC:siu§:--:p---	
+28-8	hår	hår	NC:siun:--:----	
+28-9	er	være	VF:----:sa:----	
+28-10	han	han	PP:s-nc:--:-3n-	
+28-11	troppet	troppe	VT:siu#:t-:----	
+28-12	op	op	D-:----:--:u---	
+28-13	til	til	T-:----:--:----	
+28-14	fornemme	fornem	AC:p#u#:--:p---	
+28-15	prisuddelinger	prisuddeling	NC:piu#:--:----	
+28-16	,	,	ZD	
+28-17	mens	mens	CS:----:--:----	
+28-18	folk	folk	NC:piu#:--:----	
+28-19	har	have	VF:----:sa:----	
+28-20	skulet	skule	VT:siu#:t-:----	
+28-21	og	og	CC:----:--:----	
+28-22	sendt	sende	VT:siu#:t-:----	
+28-23	forargede	forarget	AC:p#u#:--:p---	
+28-24	blikke	blik|blik-1-4|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-1-4a|blik-1-3|blik-1-1|blik-1-2|blik-F-indre-blik|blik-F-få-blikket	NC:piu#:--:----	
+28-25	langt	lang	AD:----:--:p---	
+28-26	ned	ned	D-:----:--:u---	
+28-27	ad	ad	T-:----:--:----	
+28-28	den	den	PM:s-uc:--:----	
+28-29	røde	rød	AC:sdu#:--:p---	
+28-30	løber	løber	NC:siuc:--:----	
+28-31	.	.	ZP	
+
+#id=29
+#text=Det er igennem hendes forbilledlige evne til altid at ligne noget katten har slæbt ind, at Linda har fanget Modepolitiets kræsne blik og ultimativt vundet ære, hæder og storladen forherligelse i form af Modepolitiets svært opnåelige rædselstrofæ.
+29-1	Det	det	PP:s-un:--:-3n-	
+29-2	er	være	VF:----:sa:----	
+29-3	igennem	igennem	T-:----:--:----	
+29-4	hendes	hendes	PO:#--#:--:-3ns	
+29-5	forbilledlige	forbilledlig	AC:sdu#:--:p---	
+29-6	evne	evne	NC:siuc:--:----	
+29-7	til	til	T-:----:--:----	
+29-8	altid	altid	D-:----:--:u---	
+29-9	at	at	UI:----:--:----	
+29-10	ligne	ligne	VI:----:-a:----	
+29-11	noget	noget	XY:----:--:----	
+29-12	katten	kat	NC:sduc:--:----	
+29-13	har	have	VF:----:sa:----	
+29-14	slæbt	slæbe	VT:siu#:t-:----	
+29-15	ind	ind	D-:----:--:u---	
+29-16	,	,	ZD	
+29-17	at	at	CS:----:--:----	
+29-18	Linda	Linda	NP:siu#:--:----	
+29-19	har	have	VF:----:sa:----	
+29-20	fanget	fange	VT:siu#:t-:----	
+29-21	Modepolitiets	Modepolitiets	NP:sig#:--:----	
+29-22	kræsne	kræsen	AC:sdu#:--:p---	
+29-23	blik	blik|blik-1-3|blik-1-4|blik-1-2|blik-1-1|blik-1-4a|blik-F-finde-nåde-for-nogens-blik|blik-F-indre-blik|blik-F-få-blikket|blik-2-1-1a	NC:siun:--:----	
+29-24	og	og	CC:----:--:----	
+29-25	ultimativt	ultimativ	AD:----:--:p---	
+29-26	vundet	vinde	VT:siu#:t-:----	
+29-27	ære	ære	NC:siuc:--:----	
+29-28	,	,	ZD	
+29-29	hæder	hæder	NC:siuc:--:----	
+29-30	og	og	CC:----:--:----	
+29-31	storladen	storladen	AC:siuc:--:p---	
+29-32	forherligelse	forherligelse	NC:siuc:--:----	
+29-33	i	i	T-:----:--:----	
+29-34	form	form	NC:siuc:--:----	
+29-35	af	af	T-:----:--:----	
+29-36	Modepolitiets	Modepolitiets	NP:sig#:--:----	
+29-37	svært	svær	AD:----:--:p---	
+29-38	opnåelige	opnåelig	AC:sdu#:--:p---	
+29-39	rædselstrofæ	rædselstrofæ	NC:siun:--:----	
+29-40	.	.	ZP	
+
+#id=30
+#text=Nicklas Bendtner og Caroline Fleming kan fremover undgå turisternes nysgerrige blikke, når de besøger TVbaronessens fødeø Tåsinge.
+30-1	Nicklas	Nicklas	NP:siu#:--:----	
+30-2	Bendtner	Bendtner	NP:siu#:--:----	
+30-3	og	og	CC:----:--:----	
+30-4	Caroline	Caroline	NP:siu#:--:----	
+30-5	Fleming	Fleming	NP:siu#:--:----	
+30-6	kan	kunne	VF:----:sa:----	
+30-7	fremover	fremover	D-:----:--:u---	
+30-8	undgå	undgå	VI:----:-a:----	
+30-9	turisternes	turist	NC:pdg#:--:----	
+30-10	nysgerrige	nysgerrig	AC:p#u#:--:p---	
+30-11	blikke	blik|blik-1-4|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-1-4a|blik-1-3|blik-1-1|blik-1-2|blik-F-få-blikket|blik-F-indre-blik	NC:piu#:--:----	
+30-12	,	,	ZD	
+30-13	når	når	CS:----:--:----	
+30-14	de	de	PP:p-n#:--:-3n-	
+30-15	besøger	besøge	VF:----:sa:----	
+30-16	TVbaronessens	TVbaronessens	NP:sig#:--:----	
+30-17	fødeø	fødeø	NC:siuc:--:----	
+30-18	Tåsinge	Tåsinge	NP:siu#:--:----	
+30-19	.	.	ZP	
+
+#id=31
+#text= Den har  simpelthen en helbredende effekt på mig, for når jeg har været i byen, kan jeg ikke tåle at se alkohol i en hel uge, pipper modekongen og modtager SE og HØRs kritiske blik over sit umådeholdne mådehold.
+31-1	Den	den	PP:s-uc:--:-3n-	
+31-2	har	have	VF:----:sa:----	
+31-3	simpelthen	simpelthen	D-:----:--:u---	
+31-4	en	en	PI:s-uc:--:----	
+31-5	helbredende	helbrede	VP:##u#:s-:----	
+31-6	effekt	effekt	NC:siuc:--:----	
+31-7	på	på	T-:----:--:----	
+31-8	mig	jeg	PP:s-uc:--:-1#-	
+31-9	,	,	ZD	
+31-10	for	for	CC:----:--:----	
+31-11	når	når	CS:----:--:----	
+31-12	jeg	jeg	PP:s-nc:--:-1n-	
+31-13	har	have	VF:----:sa:----	
+31-14	været	være	VT:siu#:t-:----	
+31-15	i	i	T-:----:--:----	
+31-16	byen	by	NC:sduc:--:----	
+31-17	,	,	ZD	
+31-18	kan	kunne	VF:----:sa:----	
+31-19	jeg	jeg	PP:s-nc:--:-1n-	
+31-20	ikke	ikke	D-:----:--:u---	
+31-21	tåle	tåle	VI:----:-a:----	
+31-22	at	at	UI:----:--:----	
+31-23	se	se	VI:----:-a:----	
+31-24	alkohol	alkohol	NC:siuc:--:----	
+31-25	i	i	T-:----:--:----	
+31-26	en	en	PI:s-uc:--:----	
+31-27	hel	hel	AC:siuc:--:p---	
+31-28	uge	uge	NC:siuc:--:----	
+31-29	,	,	ZD	
+31-30	pipper	pippe	VF:----:sa:----	
+31-31	modekongen	modekonge	NC:sduc:--:----	
+31-32	og	og	CC:----:--:----	
+31-33	modtager	modtage	VF:----:sa:----	
+31-34	SE	SE	NP:siu#:--:----	
+31-35	og	og	CC:----:--:----	
+31-36	HØRs	hør	VF:----:sp:----	
+31-37	kritiske	kritisk	AC:sdu#:--:p---	
+31-38	blik	blik|blik-F-indre-blik|blik-F-få-blikket|blik-1-1|blik-1-3|blik-1-4a|blik-F-finde-nåde-for-nogens-blik|blik-2-1-1a|blik-1-4|blik-1-2	NC:siun:--:----	
+31-39	over	over	T-:----:--:----	
+31-40	sit	sin	PO:s--n:--:-3ys	
+31-41	umådeholdne	umådeholden	AC:sdu#:--:p---	
+31-42	mådehold	mådehold	NC:siun:--:----	
+31-43	.	.	ZP	
+
+#id=32
+#text= Et frækt blik og et sødt smil Favorittøj:
+32-1	Et	en	PI:s-un:--:----	
+32-2	frækt	fræk	AC:siun:--:p---	
+32-3	blik	blik|blik-1-1|blik-1-2|blik-1-4|blik-2-1-1a|blik-F-få-blikket|blik-F-indre-blik|blik-F-finde-nåde-for-nogens-blik|blik-1-4a|blik-1-3	NC:siun:--:----	
+32-4	og	og	CC:----:--:----	
+32-5	et	en	PI:s-un:--:----	
+32-6	sødt	sød	AC:siun:--:p---	
+32-7	smil	smil	NC:siun:--:----	
+32-8	Favorittøj	Favorittøj	NP:siu#:--:----	
+32-9	:	:	ZP	
+
+#id=33
+#text=Hendes blik er alvorligt, men Claus nikker bare og smiler.
+33-1	Hendes	hendes	PO:#--#:--:-3ns	
+33-2	blik	blik|blik-F-finde-nåde-for-nogens-blik|blik-F-indre-blik|blik-F-få-blikket|blik-2-1-1a|blik-1-2|blik-1-1|blik-1-3|blik-1-4a|blik-1-4	NC:siun:--:----	
+33-3	er	være	VF:----:sa:----	
+33-4	alvorligt	alvorlig	AC:siun:--:p---	
+33-5	,	,	ZD	
+33-6	men	men	CC:----:--:----	
+33-7	Claus	Claus	NP:siu#:--:----	
+33-8	nikker	nikke	VF:----:sa:----	
+33-9	bare	bare	D-:----:--:u---	
+33-10	og	og	CC:----:--:----	
+33-11	smiler	smile	VF:----:sa:----	
+33-12	.	.	ZP	
+
+#id=34
+#text=Et blik på hans Facebook-profil afslører, at aalborgenseren dog stadig har humøret i behold inden for murene.
+34-1	Et	en	PI:s-un:--:----	
+34-2	blik	blik|blik-2-1-1a|blik-F-få-blikket|blik-F-indre-blik|blik-F-finde-nåde-for-nogens-blik|blik-1-4a|blik-1-2|blik-1-3|blik-1-1|blik-1-4	NC:siun:--:----	
+34-3	på	på	T-:----:--:----	
+34-4	hans	hans	PO:#--#:--:-3ns	
+34-5	Facebook	Facebook	NP:siu#:--:----	
+34-6	-	-	ZH	
+34-7	profil	profil	NC:siuc:--:----	
+34-8	afslører	afsløre	VF:----:sa:----	
+34-9	,	,	ZD	
+34-10	at	at	CS:----:--:----	
+34-11	aalborgenseren	aalborgenseren	NC:sduc:--:----	
+34-12	dog	dog	D-:----:--:u---	
+34-13	stadig	stadig	D-:----:--:u---	
+34-14	har	have	VF:----:sa:----	
+34-15	humøret	humør	:sdun:--:----	
+34-16	i	i	T-:----:--:----	
+34-17	behold	behold	NC:siuc:--:----	
+34-18	inden	inden	T-:----:--:----	
+34-19	for	for	T-:----:--:----	
+34-20	murene	mur	NC:pdu#:--:----	
+34-21	.	.	ZP	
+
+#id=35
+#text= Påskelørdag nød TV-nipset Benedicte Balling middag og vin på Custom House, mens hun sendte kærlige blikke til sin mandlige date.
+35-1	Påskelørdag	påskelørdag	NC:siuc:--:----	
+35-2	nød	nyde	VF:----:ta:----	
+35-3	TV	TV	NW:----:--:----	
+35-4	-	-	ZH	
+35-5	nipset	nips	NC:sdun:--:----	
+35-6	Benedicte	Benedicte	NP:siu#:--:----	
+35-7	Balling	Balling	NP:siu#:--:----	
+35-8	middag	middag	NC:siuc:--:----	
+35-9	og	og	CC:----:--:----	
+35-10	vin	vin	NC:siuc:--:----	
+35-11	på	på	T-:----:--:----	
+35-12	Custom	Custom	NP:siu#:--:----	
+35-13	House	House	XF:----:--:----	
+35-14	,	,	ZD	
+35-15	mens	mens	CS:----:--:----	
+35-16	hun	hun	PP:s-nc:--:-3n-	
+35-17	sendte	sende	VF:----:ta:----	
+35-18	kærlige	kærlig	--	
+35-19	blikke	blik|blik-1-4a|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-F-indre-blik|blik-F-få-blikket|blik-1-4|blik-1-1|blik-1-3|blik-1-2	NC:piu#:--:----	
+35-20	til	til	T-:----:--:----	
+35-21	sin	sin	PO:s--c:--:-3ys	
+35-22	mandlige	mandlig	AC:sdu#:--:p---	
+35-23	date	date	NC:siuc:--:----	
+35-24	.	.	ZP	
+
+#id=36
+#text= De nyligt gifte turtelduer kunne slet ikke få fingrene væk fra hinanden, og der var ikke langt mellem de kærlige blikke og forelskede kærtegn, de to sendte mod hinanden.
+36-1	De	de	PP:p-n#:--:-3n-	
+36-2	nyligt	nylig	AD:----:--:p---	
+36-3	gifte	gift	AC:p#u#:--:p---	
+36-4	turtelduer	turteldue	NC:piu#:--:----	
+36-5	kunne	kunne	VF:----:ta:----	
+36-6	slet	slet	D-:----:--:u---	
+36-7	ikke	ikke	D-:----:--:u---	
+36-8	få	få	VI:----:-a:----	
+36-9	fingrene	finger	NC:pdu#:--:----	
+36-10	væk	væk	D-:----:--:u---	
+36-11	fra	fra	T-:----:--:----	
+36-12	hinanden	hinanden	PC:p-u-:--:----	
+36-13	,	,	ZD	
+36-14	og	og	CC:----:--:----	
+36-15	der	der	US:----:--:----	
+36-16	var	være	VF:----:ta:----	
+36-17	ikke	ikke	D-:----:--:u---	
+36-18	langt	lang	AD:----:--:p---	
+36-19	mellem	mellem	T-:----:--:----	
+36-20	de	den	PM:p-u#:--:----	
+36-21	kærlige	kærlig	AC:p#u#:--:p---	
+36-22	blikke	blik|blik-1-4|blik-1-4a|blik-1-3|blik-1-1|blik-1-2|blik-2-1-1a|blik-F-få-blikket|blik-F-indre-blik|blik-F-finde-nåde-for-nogens-blik	NC:piu#:--:----	
+36-23	og	og	CC:----:--:----	
+36-24	forelskede	forelsket	AC:sdu#:--:p---	
+36-25	kærtegn	kærtegn	NC:siun:--:----	
+36-26	,	,	ZD	
+36-27	de	den	PM:p-u#:--:----	
+36-28	to	to	LC:--u-:--:----	
+36-29	sendte	sende	VF:----:ta:----	
+36-30	mod	mod	T-:----:--:----	
+36-31	hinanden	hinanden	PC:p-u-:--:----	
+36-32	.	.	ZP	
+
+#id=37
+#text=- Man kan godt sige, at det var kærlighed ved første blik.
+37-1	-	-	NC:piu#:--:----	
+37-2	Man	man	PI:#-uc:--:----	
+37-3	kan	kunne	VF:----:sa:----	
+37-4	godt	god	AD:----:--:p---	
+37-5	sige	sige	VI:----:-a:----	
+37-6	,	,	ZD	
+37-7	at	at	CS:----:--:----	
+37-8	det	det	PP:s-un:--:-3n-	
+37-9	var	være	VF:----:ta:----	
+37-10	kærlighed	kærlighed	NC:siuc:--:----	
+37-11	ved	ved	T-:----:--:----	
+37-12	første	første	AC:§§u§:--:p---	
+37-13	blik	blik|blik-1-4a|blik-2-1-1a|blik-1-3|blik-1-4|blik-1-2|blik-1-1|blik-F-finde-nåde-for-nogens-blik|blik-F-indre-blik|blik-F-få-blikket	NC:siun:--:----	
+37-14	.	.	ZP	
+
+#id=38
+#text=Normalt er det de tændstiktynde modeller på catwalken, der tiltrækker forargede blikke og heftig debat.
+38-1	Normalt	normal	AD:----:--:p---	
+38-2	er	være	VF:----:sa:----	
+38-3	det	det	PP:s-un:--:-3n-	
+38-4	de	de	NP:siu#:--:----	
+38-5	tændstiktynde	ktynd	AC:p#u#:--:p---	
+38-6	modeller	model	NC:piu#:--:----	
+38-7	på	på	T-:----:--:----	
+38-8	catwalken	catwalk	NC:sduc:--:----	
+38-9	,	,	ZD	
+38-10	der	der	US:----:--:----	
+38-11	tiltrækker	tiltrække	VF:----:sa:----	
+38-12	forargede	forarget	AC:p#u#:--:p---	
+38-13	blikke	blik|blik-1-3|blik-1-2|blik-1-1|blik-1-4|blik-2-1-1a|blik-F-få-blikket|blik-F-indre-blik|blik-F-finde-nåde-for-nogens-blik|blik-1-4a	NC:piu#:--:----	
+38-14	og	og	CC:----:--:----	
+38-15	heftig	heftig	AC:siuc:--:p---	
+38-16	debat	debat	NC:siuc:--:----	
+38-17	.	.	ZP	
+
+#id=39
+#text= Mette er optaget af sin telefon, mens Brian målrettet og med blikket i jorden styrer mod førersiden af sin BMW Cabriolet.
+39-1	Mette	Mette	NP:siu#:--:----	
+39-2	er	være	VF:----:sa:----	
+39-3	optaget	optage	VT:siu#:t-:----	
+39-4	af	af	T-:----:--:----	
+39-5	sin	sin	PO:s--c:--:-3ys	
+39-6	telefon	telefon	NC:siuc:--:----	
+39-7	,	,	ZD	
+39-8	mens	mens	CS:----:--:----	
+39-9	Brian	Brian	NP:siu#:--:----	
+39-10	målrettet	målrettet	AD:----:--:p---	
+39-11	og	og	CC:----:--:----	
+39-12	med	med	T-:----:--:----	
+39-13	blikket	blik|blik-1-3|blik-1-4a|F-finde-nåde-for-nogens-blik|blik-F-indre-blik|blik-F-få-blikket|blik-2-1-1a|blik-1-4|blik-1-1|blik-1-2	NC:sdun:--:----	
+39-14	i	i	T-:----:--:----	
+39-15	jorden	jord	NC:sduc:--:----	
+39-16	styrer	styre	VF:----:sa:----	
+39-17	mod	mod	T-:----:--:----	
+39-18	førersiden	førerside	NC:sduc:--:----	
+39-19	af	af	T-:----:--:----	
+39-20	sin	sin	PO:s--c:--:-3ys	
+39-21	BMW	BMW	NP:siu#:--:----	
+39-22	Cabriolet	cabriolet	NC:siuc:--:----	
+39-23	.	.	ZP	
+
+#id=40
+#text=For mens der bliver glohed krig på grønsværen i den spanske hovedstad, vil der være kolde vinde på lægterne, når spillerfruerne sender isende blikke til hinanden, mens de hver især forsøger at agere det bedste heppekor.
+40-1	For	for	CC:----:--:----	
+40-2	mens	mens	CS:----:--:----	
+40-3	der	der	US:----:--:----	
+40-4	bliver	blive	VF:----:sa:----	
+40-5	glohed	glohed	AC:siuc:--:p---	
+40-6	krig	krig	NC:siuc:--:----	
+40-7	på	på	T-:----:--:----	
+40-8	grønsværen	grønsvær	NC:sduc:--:----	
+40-9	i	i	T-:----:--:----	
+40-10	den	den	PM:s-uc:--:----	
+40-11	spanske	spansk	AC:sdu#:--:p---	
+40-12	hovedstad	hovedstad	NC:siuc:--:----	
+40-13	,	,	ZD	
+40-14	vil	ville	VF:----:sa:----	
+40-15	der	der	US:----:--:----	
+40-16	være	være	VI:----:-a:----	
+40-17	kolde	kold	AC:p#u#:--:p---	
+40-18	vinde	vind	NC:piu#:--:----	
+40-19	på	på	T-:----:--:----	
+40-20	lægterne	lægte	NC:pdu#:--:----	
+40-21	,	,	ZD	
+40-22	når	når	CS:----:--:----	
+40-23	spillerfruerne	spillerfrue	NC:pdu#:--:----	
+40-24	sender	sende	VF:----:sa:----	
+40-25	isende	ise	VP:##u#:s-:----	
+40-26	blikke	blik|blik-1-4|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-1-4a|blik-1-3|blik-1-1|blik-1-2|blik-F-få-blikket|blik-F-indre-blik	NC:piu#:--:----	
+40-27	til	til	T-:----:--:----	
+40-28	hinanden	hinanden	PC:p-u-:--:----	
+40-29	,	,	ZD	
+40-30	mens	mens	CS:----:--:----	
+40-31	de	de	PP:p-n#:--:-3n-	
+40-32	hver	hver	PI:s-uc:--:----	
+40-33	især	især	D-:----:--:u---	
+40-34	forsøger	forsøge	VF:----:sa:----	
+40-35	at	at	UI:----:--:----	
+40-36	agere	agere	VI:----:-a:----	
+40-37	det	den	PM:s-un:--:----	
+40-38	bedste	god	AC:§du§:--:s---	
+40-39	heppekor	heppekor	NC:siun:--:----	
+40-40	.	.	ZP	
+
+#id=41
+#text=Med et vredt blik i øjnene, som da han i rollen som Legolas i " Ringenes Herre" nedlagde 100 orker, råbte Bloom alskens skældsord mod den skjulte mand og bandede og svovlede, inden han atter vendte sig om for at bugsere cyklerne op på stativet bag på bilen.
+41-1	Med	med	T-:----:--:----	
+41-2	et	en	PI:s-un:--:----	
+41-3	vredt	vred	AC:siun:--:p---	
+41-4	blik	blik|blik-1-1|blik-1-3|blik-1-4a|blik-F-finde-nåde-for-nogens-blik|blik-F-få-blikket|blik-F-indre-blik|blik-2-1-1a|blik-1-4|blik-1-2	NC:siun:--:----	
+41-5	i	i	T-:----:--:----	
+41-6	øjnene	øje	NC:pdu#:--:----	
+41-7	,	,	ZD	
+41-8	som	som	US:----:--:----	
+41-9	da	da	CS:----:--:----	
+41-10	han	han	PP:s-nc:--:-3n-	
+41-11	i	i	T-:----:--:----	
+41-12	rollen	rolle	NC:sduc:--:----	
+41-13	som	som	US:----:--:----	
+41-14	Legolas	Legolas	NP:siu#:--:----	
+41-15	i	i	T-:----:--:----	
+41-16	"	"	ZI	
+41-17	Ringenes	ring	NC:pdg#:--:----	
+41-18	Herre	herre	NC:siuc:--:----	
+41-19	"	"	ZI	
+41-20	nedlagde	nedlægge	VF:----:ta:----	
+41-21	100	100	LC:--u-:--:----	
+41-22	orker	orke	VF:----:sa:----	
+41-23	,	,	ZD	
+41-24	råbte	råbe	VF:----:ta:----	
+41-25	Bloom	Bloom	NP:siu#:--:----	
+41-26	alskens	alskens	AC:§§u§:--:p---	
+41-27	skældsord	skældsord	NC:siun:--:----	
+41-28	mod	mod	T-:----:--:----	
+41-29	den	den	PM:s-uc:--:----	
+41-30	skjulte	skjult	AC:sdu#:--:p---	
+41-31	mand	mand	NC:siuc:--:----	
+41-32	og	og	CC:----:--:----	
+41-33	bandede	bande	VF:----:ta:----	
+41-34	og	og	CC:----:--:----	
+41-35	svovlede	svovle	VF:----:ta:----	
+41-36	,	,	ZD	
+41-37	inden	inden	CS:----:--:----	
+41-38	han	han	PP:s-nc:--:-3n-	
+41-39	atter	atter	D-:----:--:u---	
+41-40	vendte	vende	VF:----:ta:----	
+41-41	sig	sig	PP:#-u#:--:-3y-	
+41-42	om	om	T-:----:--:----	
+41-43	for	for	T-:----:--:----	
+41-44	at	at	UI:----:--:----	
+41-45	bugsere	bugsere	VI:----:-a:----	
+41-46	cyklerne	cykel	NC:pdu#:--:----	
+41-47	op	op	D-:----:--:u---	
+41-48	på	på	T-:----:--:----	
+41-49	stativet	stativ	NC:sdun:--:----	
+41-50	bag	bag	D-:----:--:u---	
+41-51	på	på	T-:----:--:----	
+41-52	bilen	bil	NC:sduc:--:----	
+41-53	.	.	ZP	
+
+#id=42
+#text= For øjeblikket efter fik han øje på fotograf nummer to lidt væk i buskene, som også fik  et ondt blik med på vejen af den ophidsede skuespiller, inden han og vennen kørte væk fra det uønskede blitzlys.
+42-1	For	for	T-:----:--:----	
+42-2	øjeblikket	øjeblik	NC:sdun:--:----	
+42-3	efter	efter	D-:----:--:u---	
+42-4	fik	få	VF:----:ta:----	
+42-5	han	han	PP:s-nc:--:-3n-	
+42-6	øje	øje	VI:----:-a:----	
+42-7	på	på	T-:----:--:----	
+42-8	fotograf	graf	NC:siuc:--:----	
+42-9	nummer	nummer	NC:siun:--:----	
+42-10	to	to	LC:--u-:--:----	
+42-11	lidt	lidt	AD:----:--:p---	
+42-12	væk	væk	D-:----:--:u---	
+42-13	i	i	T-:----:--:----	
+42-14	buskene	busk	NC:pdu#:--:----	
+42-15	,	,	ZD	
+42-16	som	som	US:----:--:----	
+42-17	også	også	D-:----:--:u---	
+42-18	fik	få	VF:----:ta:----	
+42-19	et	en	PI:s-un:--:----	
+42-20	ondt	ond	AC:siun:--:p---	
+42-21	blik	blik|blik-1-4|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-F-få-blikket|blik-F-indre-blik|blik-1-4a|blik-1-2|blik-1-3|blik-1-1	NC:siun:--:----	
+42-22	med	med	T-:----:--:----	
+42-23	på	på	T-:----:--:----	
+42-24	vejen	vej	NC:sduc:--:----	
+42-25	af	af	T-:----:--:----	
+42-26	den	den	PM:s-uc:--:----	
+42-27	ophidsede	ophidset	AC:sdu#:--:p---	
+42-28	skuespiller	skuespiller	NC:siuc:--:----	
+42-29	,	,	ZD	
+42-30	inden	inden	CS:----:--:----	
+42-31	han	han	PP:s-nc:--:-3n-	
+42-32	og	og	CC:----:--:----	
+42-33	vennen	ven	NC:sduc:--:----	
+42-34	kørte	køre	VF:----:ta:----	
+42-35	væk	væk	D-:----:--:u---	
+42-36	fra	fra	T-:----:--:----	
+42-37	det	den	PM:s-un:--:----	
+42-38	uønskede	uønsket	AC:sdu#:--:p---	
+42-39	blitzlys	blitzlys	NC:siun:--:----	
+42-40	.	.	ZP	
+
+#id=43
+#text=Hurtigt får han dog " blikket" fra Pernille, hvilket får den blonde danser til at indrømme, at kæresterne i sidste øjeblik måske alligevel ender med at bestille mad udefra.
+43-1	Hurtigt	hurtig	AD:----:--:p---	
+43-2	får	få	VF:----:sa:----	
+43-3	han	han	PP:s-nc:--:-3n-	
+43-4	dog	dog	D-:----:--:u---	
+43-5	"	"	ZI	
+43-6	blikket	blik|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-F-indre-blik|blik-F-få-blikket|blik-1-2|blik-1-1|blik-1-3|blik-1-4a|blik-1-4	NC:sdun:--:----	
+43-7	"	"	ZI	
+43-8	fra	fra	T-:----:--:----	
+43-9	Pernille	Pernille	NP:siu#:--:----	
+43-10	,	,	ZD	
+43-11	hvilket	hvilken	PR:s-un:--:----	
+43-12	får	få	VF:----:sa:----	
+43-13	den	den	PM:s-uc:--:----	
+43-14	blonde	blond	AC:sdu#:--:p---	
+43-15	danser	danser	NC:siuc:--:----	
+43-16	til	til	T-:----:--:----	
+43-17	at	at	UI:----:--:----	
+43-18	indrømme	indrømme	VI:----:-a:----	
+43-19	,	,	ZD	
+43-20	at	at	CS:----:--:----	
+43-21	kæresterne	kæreste	NC:pdu#:--:----	
+43-22	i	i	T-:----:--:----	
+43-23	sidste	sidste	AC:§§u§:--:p---	
+43-24	øjeblik	øjeblik	NC:siun:--:----	
+43-25	måske	måske	D-:----:--:u---	
+43-26	alligevel	alligevel	D-:----:--:u---	
+43-27	ender	ende	VF:----:sa:----	
+43-28	med	med	T-:----:--:----	
+43-29	at	at	UI:----:--:----	
+43-30	bestille	bestille	VI:----:-a:----	
+43-31	mad	mad	NC:siuc:--:----	
+43-32	udefra	udefra	D-:----:--:u---	
+43-33	.	.	ZP	
+
+#id=44
+#text=Det var med nysgerrige blikke og små stik i hjertet, at flere tusinde danskere fulgte den strandede finhvals død i Vejle Fjord i juni.
+44-1	Det	det	PP:s-un:--:-3n-	
+44-2	var	være	VF:----:ta:----	
+44-3	med	med	T-:----:--:----	
+44-4	nysgerrige	nysgerrig	AC:p#u#:--:p---	
+44-5	blikke	blik|blik-1-4a|blik-2-1-1a|blik-F-få-blikket|blik-F-indre-blik|blik-F-finde-nåde-for-nogens-blik|blik-1-2|blik-1-3|blik-1-1|blik-1-4	NC:piu#:--:----	
+44-6	og	og	CC:----:--:----	
+44-7	små	lille	AC:p#u#:--:p---	
+44-8	stik	stik	D-:----:--:u---	
+44-9	i	i	T-:----:--:----	
+44-10	hjertet	hjerte	NC:sdun:--:----	
+44-11	,	,	ZD	
+44-12	at	at	CS:----:--:----	
+44-13	flere	mange	AC:##u#:--:c---	
+44-14	tusinde	tusinde	NC:piu#:--:----	
+44-15	danskere	dansker	NC:piu#:--:----	
+44-16	fulgte	følge	VF:----:ta:----	
+44-17	den	den	PM:s-uc:--:----	
+44-18	strandede	strandet	AC:sdu#:--:p---	
+44-19	finhvals	finhval	NC:sigc:--:----	
+44-20	død	død	NC:siuc:--:----	
+44-21	i	i	T-:----:--:----	
+44-22	Vejle	Vejle	NP:siu#:--:----	
+44-23	Fjord	Fjord	NP:siu#:--:----	
+44-24	i	i	T-:----:--:----	
+44-25	juni	juni	NC:siuc:--:----	
+44-26	.	.	ZP	
+
+#id=45
+#text=Hun sidder på sengekanten med et kådt blik i øjnene.
+45-1	Hun	hun	PP:s-nc:--:-3n-	
+45-2	sidder	sidde	VF:----:sa:----	
+45-3	på	på	T-:----:--:----	
+45-4	sengekanten	sengekant	NC:sduc:--:----	
+45-5	med	med	T-:----:--:----	
+45-6	et	en	PI:s-un:--:----	
+45-7	kådt	kåd	AC:siun:--:p---	
+45-8	blik	blik|blik-1-2|blik-1-1|blik-1-3|blik-1-4|blik-1-4a|blik-F-finde-nåde-for-nogens-blik|blik-F-få-blikket|blik-F-indre-blik|blik-2-1-1a	NC:siun:--:----	
+45-9	i	i	T-:----:--:----	
+45-10	øjnene	øje	NC:pdu#:--:----	
+45-11	.	.	ZP	
+
+#id=46
+#text= Store pumpede og tussede fyre med et frækt blik Favorittøj:
+46-1	Store	stor	AC:p#u#:--:p---	
+46-2	pumpede	pumpe	VP:p#u#:t-:----	
+46-3	og	og	CC:----:--:----	
+46-4	tussede	tusse	VF:----:ta:----	
+46-5	fyre	fyre	VI:----:-a:----	
+46-6	med	med	T-:----:--:----	
+46-7	et	en	PI:s-un:--:----	
+46-8	frækt	fræk	AC:siun:--:p---	
+46-9	blik	blik|blik-F-få-blikket|blik-F-indre-blik|blik-F-finde-nåde-for-nogens-blik|blik-1-1|blik-1-2|blik-1-3|blik-1-4|blik-2-1-1a|blik-1-4a	NC:siun:--:----	
+46-10	Favorittøj	Favorittøj	NP:siu#:--:----	
+46-11	:	:	ZP	
+
+#id=47
+#text=- Lige siden jeg slog øjnene op på en fødeklinik i Albanigade i Odense, hvor mit første blik ramte bryggeriet i stedet for min mors mælkeri, mener jeg at have haft smag for øl, fortæller Reimar.
+47-1	-	-	NC:piu#:--:----	
+47-2	Lige	lige	D-:----:--:u---	
+47-3	siden	siden	CS:----:--:----	
+47-4	jeg	jeg	PP:s-nc:--:-1n-	
+47-5	slog	slå	VF:----:ta:----	
+47-6	øjnene	øje	NC:pdu#:--:----	
+47-7	op	op	D-:----:--:u---	
+47-8	på	på	T-:----:--:----	
+47-9	en	en	PI:s-uc:--:----	
+47-10	fødeklinik	fødeklinik	NC:siuc:--:----	
+47-11	i	i	T-:----:--:----	
+47-12	Albanigade	Albanigade	NP:siu#:--:----	
+47-13	i	i	T-:----:--:----	
+47-14	Odense	Odense	NP:siu#:--:----	
+47-15	,	,	ZD	
+47-16	hvor	hvor	D-:----:--:u---	
+47-17	mit	mit	XY:----:--:----	
+47-18	første	første	AC:§§u§:--:p---	
+47-19	blik	blik|blik-1-2|blik-1-3|blik-1-4a|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-F-indre-blik|blik-F-få-blikket|blik-1-4|blik-1-1	NC:siun:--:----	
+47-20	ramte	ramme	VF:----:ta:----	
+47-21	bryggeriet	bryggeri	NC:sdun:--:----	
+47-22	i	i	T-:----:--:----	
+47-23	stedet	sted	NC:sdun:--:----	
+47-24	for	for	T-:----:--:----	
+47-25	min	min	PO:s--c:--:-1ns	
+47-26	mors	mor	NC:sigc:--:----	
+47-27	mælkeri	mælkeri	NC:siun:--:----	
+47-28	,	,	ZD	
+47-29	mener	mene	VF:----:sa:----	
+47-30	jeg	jeg	PP:s-nc:--:-1n-	
+47-31	at	at	UI:----:--:----	
+47-32	have	have	VI:----:-a:----	
+47-33	haft	have	VT:siu#:t-:----	
+47-34	smag	smag	NC:siuc:--:----	
+47-35	for	for	T-:----:--:----	
+47-36	øl	øl	NC:siuc:--:----	
+47-37	,	,	ZD	
+47-38	fortæller	fortælle	VF:----:sa:----	
+47-39	Reimar	Reimar	NP:siu#:--:----	
+47-40	.	.	ZP	
+
+#id=48
+#text=Blikket er ikke til at tage fejl af.
+48-1	Blikket	blik|blik-1-4a|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-1-2|blik-1-4|blik-1-3|blik-1-1|blik-F-få-blikket|blik-F-indre-blik	NC:sdun:--:----	
+48-2	er	være	VF:----:sa:----	
+48-3	ikke	ikke	D-:----:--:u---	
+48-4	til	til	T-:----:--:----	
+48-5	at	at	UI:----:--:----	
+48-6	tage	tage	VI:----:-a:----	
+48-7	fejl	fejl	NC:piu#:--:----	
+48-8	af	af	T-:----:--:----	
+48-9	.	.	ZP	
+
+#id=49
+#text= I hvert fald tog hun sit glas og rykkede målbevidst hen ved siden af en lyshåret fyr, som hun havde sendt blikke.
+49-1	I	i	T-:----:--:----	
+49-2	hvert	hver	PI:s-un:--:----	
+49-3	fald	fald	NC:siun:--:----	
+49-4	tog	tage	VF:----:ta:----	
+49-5	hun	hun	PP:s-nc:--:-3n-	
+49-6	sit	sin	PO:s--n:--:-3ys	
+49-7	glas	glas	NC:siun:--:----	
+49-8	og	og	CC:----:--:----	
+49-9	rykkede	rykke	VF:----:ta:----	
+49-10	målbevidst	målbevidst	AD:----:--:p---	
+49-11	hen	hen	D-:----:--:u---	
+49-12	ved	ved	T-:----:--:----	
+49-13	siden	side	NC:sduc:--:----	
+49-14	af	af	T-:----:--:----	
+49-15	en	en	PI:s-uc:--:----	
+49-16	lyshåret	lyshåret	AC:siu§:--:p---	
+49-17	fyr	fyr	NC:siun:--:----	
+49-18	,	,	ZD	
+49-19	som	som	US:----:--:----	
+49-20	hun	hun	PP:s-nc:--:-3n-	
+49-21	havde	have	VF:----:ta:----	
+49-22	sendt	sende	VT:siu#:t-:----	
+49-23	blikke	blik|blik-1-4a|blik-F-finde-nåde-for-nogens-blik|blik-F-få-blikket|blik-F-indre-blik|blik-2-1-1a|blik-1-2|blik-1-1|blik-1-3|blik-1-4	NC:piu#:--:----	
+49-24	.	.	ZP	
+
+#id=50
+#text=- Det var kærlighed ved første blik.
+50-1	-	-	NC:piu#:--:----	
+50-2	Det	Det	XY:----:--:----	
+50-3	var	være	VF:----:ta:----	
+50-4	kærlighed	kærlighed	NC:siuc:--:----	
+50-5	ved	ved	T-:----:--:----	
+50-6	første	første	AC:§§u§:--:p---	
+50-7	blik	blik|blik-F-få-blikket|blik-F-indre-blik|blik-1-2|blik-1-4|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-1-4a|blik-1-3|blik-1-1	NC:siun:--:----	
+50-8	.	.	ZP	
+
+#id=51
+#text=Der blev udvekslet søde smil og kærlige blikke, inden de gik hånd i hånd over Kongens Nytorv.
+51-1	Der	der	US:----:--:----	
+51-2	blev	blive	VF:----:ta:----	
+51-3	udvekslet	udveksle	VT:siu#:t-:----	
+51-4	søde	sød	AC:p#u#:--:p---	
+51-5	smil	smil	NC:piu#:--:----	
+51-6	og	og	CC:----:--:----	
+51-7	kærlige	kærlig	AC:p#u#:--:p---	
+51-8	blikke	blik|blik-1-3|blik-1-4|blik-1-2|blik-1-1|blik-1-4a|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-F-indre-blik|blik-F-få-blikket	NC:piu#:--:----	
+51-9	,	,	ZD	
+51-10	inden	inden	CS:----:--:----	
+51-11	de	de	PP:p-n#:--:-3n-	
+51-12	gik	gå	VF:----:ta:----	
+51-13	hånd	hånd	NC:siuc:--:----	
+51-14	i	i	T-:----:--:----	
+51-15	hånd	hånd	NC:siuc:--:----	
+51-16	over	over	T-:----:--:----	
+51-17	Kongens	Kongens	NP:siu#:--:----	
+51-18	Nytorv	Nytorv	NP:siu#:--:----	
+51-19	.	.	ZP	
+
+#id=52
+#text=Under middagen lænede Remee sig flere gange tæt ind mod Michala, og når kvartetten et par gange var ude i gården for at ryge, slog deres blikke gnister.
+52-1	Under	under	T-:----:--:----	
+52-2	middagen	middag	NC:sduc:--:----	
+52-3	lænede	læne	VF:----:ta:----	
+52-4	Remee	Remee	NP:siu#:--:----	
+52-5	sig	sig	PP:#-u#:--:-3y-	
+52-6	flere	mange	AC:##u#:--:c---	
+52-7	gange	gang	NC:piu#:--:----	
+52-8	tæt	tæt	AD:----:--:p---	
+52-9	ind	ind	D-:----:--:u---	
+52-10	mod	mod	T-:----:--:----	
+52-11	Michala	Michala	NP:siu#:--:----	
+52-12	,	,	ZD	
+52-13	og	og	CC:----:--:----	
+52-14	når	når	CS:----:--:----	
+52-15	kvartetten	kvartet	NC:sduc:--:----	
+52-16	et	en	PI:s-un:--:----	
+52-17	par	par	NC:siun:--:----	
+52-18	gange	gang	NC:piu#:--:----	
+52-19	var	være	VF:----:ta:----	
+52-20	ude	ude	D-:----:--:u---	
+52-21	i	i	T-:----:--:----	
+52-22	gården	gård	NC:sduc:--:----	
+52-23	for	for	T-:----:--:----	
+52-24	at	at	UI:----:--:----	
+52-25	ryge	ryge	VI:----:-a:----	
+52-26	,	,	ZD	
+52-27	slog	slå	VF:----:ta:----	
+52-28	deres	deres	PO:#--#:--:-3np	
+52-29	blikke	blik|blik-1-4a|blik-2-1-1a|-F-få-blikket|blik-F-indre-blik|blik-F-finde-nåde-for-nogens-blik|blik-1-2|blik-1-4|blik-1-3|blik-1-1	NC:piu#:--:----	
+52-30	gnister	gnist	NC:piu#:--:----	
+52-31	.	.	ZP	
+
+#id=53
+#text= Hun kan nedlægge fyrene med et enkelt blik, som var hun en dragende hypnotisør på sextogt.
+53-1	Hun	hun	PP:s-nc:--:-3n-	
+53-2	kan	kunne	VF:----:sa:----	
+53-3	nedlægge	nedlægge	VI:----:-a:----	
+53-4	fyrene	fyr	NC:pdu#:--:----	
+53-5	med	med	T-:----:--:----	
+53-6	et	en	PI:s-un:--:----	
+53-7	enkelt	enkelt	AC:siu§:--:p---	
+53-8	blik	blik|blik-F-få-blikket|blik-F-indre-blik|blik-1-3|blik-1-4|blik-1-4a|blik-F-finde-nåde-for-nogens-blik|blik-2-1-1a|blik-1-2|blik-1-1	NC:siun:--:----	
+53-9	,	,	ZD	
+53-10	som	som	US:----:--:----	
+53-11	var	være	VF:----:ta:----	
+53-12	hun	hun	PP:s-nc:--:-3n-	
+53-13	en	en	PI:s-uc:--:----	
+53-14	dragende	drage	VP:##u#:s-:----	
+53-15	hypnotisør	hypnotisør	NC:siuc:--:----	
+53-16	på	på	T-:----:--:----	
+53-17	sextogt	sextogt	NC:siun:--:----	
+53-18	.	.	ZP	
+
+#id=54
+#text= Med stive blik og anstrengte miner går de sammen ned på den lokale restaurant Tartine på Draycott Avenue.
+54-1	Med	med	T-:----:--:----	
+54-2	stive	stiv	AC:sdu#:--:p---	
+54-3	blik	blik|blik-1-4|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-F-få-blikket|blik-F-indre-blik|blik-1-4a|blik-1-2|blik-1-3|blik-1-1	NC:siun:--:----	
+54-4	og	og	CC:----:--:----	
+54-5	anstrengte	anstrengt	AC:p#u#:--:p---	
+54-6	miner	mine	NC:piu#:--:----	
+54-7	går	gå	VF:----:sa:----	
+54-8	de	de	PP:p-n#:--:-3n-	
+54-9	sammen	sammen	D-:----:--:u---	
+54-10	ned	ned	D-:----:--:u---	
+54-11	på	på	T-:----:--:----	
+54-12	den	den	PM:s-uc:--:----	
+54-13	lokale	lokal	AC:sdu#:--:p---	
+54-14	restaurant	restaurant	NC:siuc:--:----	
+54-15	Tartine	Tartine	NP:siu#:--:----	
+54-16	på	på	T-:----:--:----	
+54-17	Draycott	Draycott	NP:siu#:--:----	
+54-18	Avenue	Avenue	NP:siu#:--:----	
+54-19	.	.	ZP	
+
+#id=55
+#text=Filmen snegler sig af sted i en yderst sørgmodig tone med en handling, der nærmest er skrabet for samtaler, og som fortælles ud fra utallige ligegyldige sexscener, tomme blikke og drømmescener.
+55-1	Filmen	film	NC:sduc:--:----	
+55-2	snegler	snegle	VF:----:sa:----	
+55-3	sig	sig	PP:#-u#:--:-3y-	
+55-4	af	af	T-:----:--:----	
+55-5	sted	sted	NC:siun:--:----	
+55-6	i	i	T-:----:--:----	
+55-7	en	en	PI:s-uc:--:----	
+55-8	yderst	yderst	AD:----:--:p---	
+55-9	sørgmodig	sørgmodig	AC:siuc:--:p---	
+55-10	tone	tone	NC:siuc:--:----	
+55-11	med	med	T-:----:--:----	
+55-12	en	en	PI:s-uc:--:----	
+55-13	handling	handling	NC:siuc:--:----	
+55-14	,	,	ZD	
+55-15	der	der	US:----:--:----	
+55-16	nærmest	nær	AD:----:--:s---	
+55-17	er	være	VF:----:sa:----	
+55-18	skrabet	skrabe	VT:siu#:t-:----	
+55-19	for	for	T-:----:--:----	
+55-20	samtaler	samtale	NC:piu#:--:----	
+55-21	,	,	ZD	
+55-22	og	og	CC:----:--:----	
+55-23	som	som	US:----:--:----	
+55-24	fortælles	fortælle	VF:----:sp:----	
+55-25	ud	ud	D-:----:--:u---	
+55-26	fra	fra	T-:----:--:----	
+55-27	utallige	utallig	AC:p#u#:--:p---	
+55-28	ligegyldige	ligegyldig	AC:p#u#:--:p---	
+55-29	sexscener	sexscene	NC:piu#:--:----	
+55-30	,	,	ZD	
+55-31	tomme	tom	AC:p#u#:--:p---	
+55-32	blikke	blik|blik-F-indre-blik|blik-F-få-blikket|blik-1-2|blik-1-3|blik-1-4a|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-1-4|blik-1-1	NC:piu#:--:----	
+55-33	og	og	CC:----:--:----	
+55-34	drømmescener	drømmescene	NC:piu#:--:----	
+55-35	.	.	ZP	
+
+#id=56
+#text= De var glade for at se mig, så det var ligesom at komme tilbage til livet, siger Emma med et smil, mens farmand sender hende et kærligt blik.
+56-1	De	de	PP:p-n#:--:-3n-	
+56-2	var	være	VF:----:ta:----	
+56-3	glade	glad	AC:p#u#:--:p---	
+56-4	for	for	T-:----:--:----	
+56-5	at	at	UI:----:--:----	
+56-6	se	se	VI:----:-a:----	
+56-7	mig	jeg	PP:s-uc:--:-1#-	
+56-8	,	,	ZD	
+56-9	så	så	CS:----:--:----	
+56-10	det	det	PP:s-un:--:-3n-	
+56-11	var	være	VF:----:ta:----	
+56-12	ligesom	ligesom	D-:----:--:u---	
+56-13	at	at	UI:----:--:----	
+56-14	komme	komme	VI:----:-a:----	
+56-15	tilbage	tilbage	D-:----:--:u---	
+56-16	til	til	T-:----:--:----	
+56-17	livet	liv	NC:sdun:--:----	
+56-18	,	,	ZD	
+56-19	siger	sige	VF:----:sa:----	
+56-20	Emma	Emma	NP:siu#:--:----	
+56-21	med	med	T-:----:--:----	
+56-22	et	en	PI:s-un:--:----	
+56-23	smil	smil	NC:siun:--:----	
+56-24	,	,	ZD	
+56-25	mens	mens	CS:----:--:----	
+56-26	farmand	farmand	NC:siuc:--:----	
+56-27	sender	sende	VF:----:sa:----	
+56-28	hende	hun	PP:s-uc:--:-3n-	
+56-29	et	en	PI:s-un:--:----	
+56-30	kærligt	kærlig	AC:siun:--:p---	
+56-31	blik	blik|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-F-få-blikket|blik-F-indre-blik|blik-1-3|blik-1-2|blik-1-1|blik-1-4|blik-1-4a	NC:siun:--:----	
+56-32	.	.	ZP	
+
+#id=57
+#text= Til gengæld finder hun ud af, at pokerspil er en effektiv måde at distrahere svigermors ellers årvågne blik.
+57-1	Til	til	T-:----:--:----	
+57-2	gengæld	gengæld	NC:siuc:--:----	
+57-3	finder	finde	VF:----:sa:----	
+57-4	hun	hun	PP:s-nc:--:-3n-	
+57-5	ud	ud	D-:----:--:u---	
+57-6	af	af	T-:----:--:----	
+57-7	,	,	ZD	
+57-8	at	at	CS:----:--:----	
+57-9	pokerspil	pokerspil	NC:piu#:--:----	
+57-10	er	være	VF:----:sa:----	
+57-11	en	en	PI:s-uc:--:----	
+57-12	effektiv	effektiv	AC:siuc:--:p---	
+57-13	måde	måde	NC:siuc:--:----	
+57-14	at	at	CS:----:--:----	
+57-15	distrahere	distrahere	XY:----:--:----	
+57-16	svigermors	svigermor	NC:sigc:--:----	
+57-17	ellers	ellers	D-:----:--:u---	
+57-18	årvågne	årvågne	VI:----:-a:----	
+57-19	blik	blik|blik-F-indre-blik|blik-1-3|blik-1-4|blik-1-4a|blik-F-finde-nåde-for-nogens-blik|blik-F-få-blikket|blik-2-1-1a|blik-1-2|blik-1-1	NC:siun:--:----	
+57-20	.	.	ZP	
+
+#id=58
+#text=Vickie Jo og Jesper mødtes gennem fælles venner for tre år siden, og det var kærlighed ved første blik, fortalte de dengang.
+58-1	Vickie	Vickie	NP:siu#:--:----	
+58-2	Jo	jo	D-:----:--:u---	
+58-3	og	og	CC:----:--:----	
+58-4	Jesper	Jesper	NP:siu#:--:----	
+58-5	mødtes	møde	VF:----:tp:----	
+58-6	gennem	gennem	T-:----:--:----	
+58-7	fælles	fælles	AC:§§u§:--:p---	
+58-8	venner	ven	NC:piu#:--:----	
+58-9	for	for	T-:----:--:----	
+58-10	tre	tre	LC:--u-:--:----	
+58-11	år	år	NC:piu#:--:----	
+58-12	siden	siden	D-:----:--:u---	
+58-13	,	,	ZD	
+58-14	og	og	CC:----:--:----	
+58-15	det	det	PP:s-un:--:-3n-	
+58-16	var	være	VF:----:ta:----	
+58-17	kærlighed	kærlighed	NC:siuc:--:----	
+58-18	ved	ved	T-:----:--:----	
+58-19	første	første	AC:§§u§:--:p---	
+58-20	blik	blik|blik-1-2|blik-1-3|blik-1-4|blik-1-4a|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-F-få-blikket|blik-F-indre-blik|blik-1-1	NC:siun:--:----	
+58-21	,	,	ZD	
+58-22	fortalte	fortale	VF:----:ta:----	
+58-23	de	de	PP:p-n#:--:-3n-	
+58-24	dengang	dengang	D-:----:--:u---	
+58-25	.	.	ZP	
+
+#id=59
+#text=Med et stålsikkert blik bevæger han sig  ud i kulden, svinger til venstre ned ad en lille sidevej, stopper op for enden og stikker armen i vejret for at praje en taxa.
+59-1	Med	med	T-:----:--:----	
+59-2	et	en	PI:s-un:--:----	
+59-3	stålsikkert	stålsikker	AC:siun:--:p---	
+59-4	blik	blik|blik-1-3|blik-1-4a|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-F-indre-blik|blik-F-få-blikket|blik-1-4|blik-1-1|blik-1-2	NC:siun:--:----	
+59-5	bevæger	bevæge	VF:----:sa:----	
+59-6	han	han	PP:s-nc:--:-3n-	
+59-7	sig	sig	PP:#-u#:--:-3y-	
+59-8	ud	ud	D-:----:--:u---	
+59-9	i	i	T-:----:--:----	
+59-10	kulden	kulde	NC:sduc:--:----	
+59-11	,	,	ZD	
+59-12	svinger	svinge	VF:----:sa:----	
+59-13	til	til	T-:----:--:----	
+59-14	venstre	venstre	NC:siun:--:----	
+59-15	ned	ned	D-:----:--:u---	
+59-16	ad	ad	T-:----:--:----	
+59-17	en	en	PI:s-uc:--:----	
+59-18	lille	lille	AC:s§u§:--:p---	
+59-19	sidevej	sidevej	NC:siuc:--:----	
+59-20	,	,	ZD	
+59-21	stopper	stoppe	VF:----:sa:----	
+59-22	op	op	D-:----:--:u---	
+59-23	for	for	T-:----:--:----	
+59-24	enden	ende	NC:sduc:--:----	
+59-25	og	og	CC:----:--:----	
+59-26	stikker	stikke	VF:----:sa:----	
+59-27	armen	arm	NC:sduc:--:----	
+59-28	i	i	T-:----:--:----	
+59-29	vejret	vejr	NC:sdun:--:----	
+59-30	for	for	T-:----:--:----	
+59-31	at	at	UI:----:--:----	
+59-32	praje	praje	VI:----:-a:----	
+59-33	en	en	PI:s-uc:--:----	
+59-34	taxa	taxa	NC:siuc:--:----	
+59-35	.	.	ZP	
+
+#id=60
+#text=Men han tog dog med ud for at kigge, og efter et blik på den lyse stue og spisekøkkenet med udsigt over ringriderpladsen var det afgjort.
+60-1	Men	men	CC:----:--:----	
+60-2	han	han	PP:s-nc:--:-3n-	
+60-3	tog	tage	VF:----:ta:----	
+60-4	dog	dog	-:--:u---	
+60-5	med	med	T-:----:--:----	
+60-6	ud	ud	D-:----:--:u---	
+60-7	for	for	T-:----:--:----	
+60-8	at	at	UI:----:--:----	
+60-9	kigge	kigge	VI:----:-a:----	
+60-10	,	,	ZD	
+60-11	og	og	CC:----:--:----	
+60-12	efter	efter	T-:----:--:----	
+60-13	et	en	PI:s-un:--:----	
+60-14	blik	blik|blik-1-2|blik-1-3|blik-1-4|blik-1-4a|blik-2-1-1a|blik-F-få-blikket|blik-F-indre-blik|blik-F-finde-nåde-for-nogens-blik|blik-1-1	NC:siun:--:----	
+60-15	på	på	T-:----:--:----	
+60-16	den	den	PM:s-uc:--:----	
+60-17	lyse	lys	AC:sdu#:--:p---	
+60-18	stue	stue	NC:siuc:--:----	
+60-19	og	og	CC:----:--:----	
+60-20	spisekøkkenet	spisekøkken	NC:sdun:--:----	
+60-21	med	med	T-:----:--:----	
+60-22	udsigt	udsigt	NC:siuc:--:----	
+60-23	over	over	T-:----:--:----	
+60-24	ringriderpladsen	ringriderplads	NC:sduc:--:----	
+60-25	var	være	VF:----:ta:----	
+60-26	det	det	PP:s-un:--:-3n-	
+60-27	afgjort	afgøre	VT:siu#:t-:----	
+60-28	.	.	ZP	
+
+#id=61
+#text=Tim Burtons blik for skæve bikarakterer fornægter sig ikke, og Johnny Depps hattemager og de andre skikkelser i Underland er til tider hysterisk morsomme.
+61-1	Tim	time	VM:----:--:----	
+61-2	Burtons	Burtons	NP:siu#:--:----	
+61-3	blik	blik|blik-1-2|blik-1-1|blik-1-3|blik-1-4|blik-1-4a|blik-F-finde-nåde-for-nogens-blik|blik-F-få-blikket|blik-F-indre-blik|blik-2-1-1a	NC:siun:--:----	
+61-4	for	for	T-:----:--:----	
+61-5	skæve	skæv	AC:p#u#:--:p---	
+61-6	bikarakterer	bikarakter	NC:piu#:--:----	
+61-7	fornægter	fornægte	VF:----:sa:----	
+61-8	sig	sig	PP:#-u#:--:-3y-	
+61-9	ikke	ikke	D-:----:--:u---	
+61-10	,	,	ZD	
+61-11	og	og	CC:----:--:----	
+61-12	Johnny	Johnny	NP:siu#:--:----	
+61-13	Depps	Depps	NP:sig#:--:----	
+61-14	hattemager	hattemager	NC:siuc:--:----	
+61-15	og	og	CC:----:--:----	
+61-16	de	den	PM:p-u#:--:----	
+61-17	andre	anden	PI:p-u#:--:----	
+61-18	skikkelser	skikkelse	NC:piu#:--:----	
+61-19	i	i	T-:----:--:----	
+61-20	Underland	Underland	NP:siu#:--:----	
+61-21	er	være	VF:----:sa:----	
+61-22	til	til	T-:----:--:----	
+61-23	tider	tid	NC:piu#:--:----	
+61-24	hysterisk	hysterisk	AD:----:--:p---	
+61-25	morsomme	morsom	AC:p#u#:--:p---	
+61-26	.	.	ZP	
+
+#id=62
+#text= Hun var iklædt et særdeles frækt politikostume, som tiltrak mange kåde blikke fra de hungrende fyre.
+62-1	Hun	hun	PP:s-nc:--:-3n-	
+62-2	var	være	VF:----:ta:----	
+62-3	iklædt	iklæde	VT:siu#:t-:----	
+62-4	et	en	PI:s-un:--:----	
+62-5	særdeles	særdeles	D-:----:--:u---	
+62-6	frækt	fræk	AC:siun:--:p---	
+62-7	politikostume	politikostume	NC:siun:--:----	
+62-8	,	,	ZD	
+62-9	som	som	US:----:--:----	
+62-10	tiltrak	tiltrække	VF:----:ta:----	
+62-11	mange	mangen	AC:p#u#:--:p---	
+62-12	kåde	kåd	AC:p#u#:--:p---	
+62-13	blikke	blik|blik-1-4|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-F-få-blikket|blik-F-indre-blik|blik-1-4a|blik-1-2|blik-1-3|blik-1-1	NC:piu#:--:----	
+62-14	fra	fra	T-:----:--:----	
+62-15	de	den	PM:p-u#:--:----	
+62-16	hungrende	hungre	VP:##u#:s-:----	
+62-17	fyre	fyr	NC:piu#:--:----	
+62-18	.	.	ZP	
+
+#id=63
+#text= Øjnene bliver blanke, efter hun i timevis har haft blikket rettet mod anklageren og sin veninde, bordelmutteren SoffiLouisa Larsen, der bliver afhørt.
+63-1	Øjnene	øje	NC:pdu#:--:----	
+63-2	bliver	blive	VF:----:sa:----	
+63-3	blanke	blanke	VI:----:-a:----	
+63-4	,	,	ZD	
+63-5	efter	efter	CS:----:--:----	
+63-6	hun	hun	PP:s-nc:--:-3n-	
+63-7	i	i	T-:----:--:----	
+63-8	timevis	timevis	D-:----:--:u---	
+63-9	har	have	VF:----:sa:----	
+63-10	haft	have	VT:siu#:t-:----	
+63-11	blikket	blik|blik-F-få-blikket|blik-F-indre-blik|blik-1-2|blik-1-3|blik-1-4a|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-1-4|blik-1-1	NC:sdun:--:----	
+63-12	rettet	rette	VT:siu#:t-:----	
+63-13	mod	mod	T-:----:--:----	
+63-14	anklageren	anklager	NC:sduc:--:----	
+63-15	og	og	CC:----:--:----	
+63-16	sin	sin	PO:s--c:--:-3ys	
+63-17	veninde	veninde	NC:siuc:--:----	
+63-18	,	,	ZD	
+63-19	bordelmutteren	bordelmutter	NC:sduc:--:----	
+63-20	SoffiLouisa	SoffiLouisa	NP:siu#:--:----	
+63-21	Larsen	Larsen	NP:siu#:--:----	
+63-22	,	,	ZD	
+63-23	der	der	US:----:--:----	
+63-24	bliver	blive	VF:----:sa:----	
+63-25	afhørt	afhøre	VT:siu#:t-:----	
+63-26	.	.	ZP	
+
+#id=64
+#text=Nemlig, at den ellers så trimmede tysker kan gå helt i fred for nysgerrige blikke og sultne autografjægere og bare nyde sin ferie.
+64-1	Nemlig	nemlig	D-:----:--:u---	
+64-2	,	,	ZD	
+64-3	at	at	CS:----:--:----	
+64-4	den	den	PP:s-uc:--:-3n-	
+64-5	ellers	ellers	D-:----:--:u---	
+64-6	så	så	D-:----:--:u---	
+64-7	trimmede	trimme	VF:----:ta:----	
+64-8	tysker	tysker	NC:siuc:--:----	
+64-9	kan	kunne	VF:----:sa:----	
+64-10	gå	gå	VI:----:-a:----	
+64-11	helt	hel	AD:----:--:p---	
+64-12	i	i	T-:----:--:----	
+64-13	fred	fred	NC:siuc:--:----	
+64-14	for	for	T-:----:--:----	
+64-15	nysgerrige	nysgerrig	AC:p#u#:--:p---	
+64-16	blikke	blik|blik-1-3|blik-1-2|blik-1-1|blik-1-4|blik-1-4a|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-F-få-blikket|blik-F-indre-blik	NC:piu#:--:----	
+64-17	og	og	CC:----:--:----	
+64-18	sultne	sulten	AC:p#u#:--:p---	
+64-19	autografjægere	autografjæger	NC:piu#:--:----	
+64-20	og	og	CC:----:--:----	
+64-21	bare	bare	D-:----:--:u---	
+64-22	nyde	nyde	VI:----:-a:----	
+64-23	sin	sin	PO:s--c:--:-3ys	
+64-24	ferie	ferie	NC:siuc:--:----	
+64-25	.	.	ZP	
+
+#id=65
+#text=De mødtes på gaden i London, og det var så tæt på kærlighed ved første blik, som det overhovedet kan blive.
+65-1	De	de	n-	
+65-2	mødtes	møde	VF:----:tp:----	
+65-3	på	på	T-:----:--:----	
+65-4	gaden	gade	NC:sduc:--:----	
+65-5	i	i	T-:----:--:----	
+65-6	London	London	NP:siu#:--:----	
+65-7	,	,	ZD	
+65-8	og	og	CC:----:--:----	
+65-9	det	det	PP:s-un:--:-3n-	
+65-10	var	være	VF:----:ta:----	
+65-11	så	så	D-:----:--:u---	
+65-12	tæt	tæt	AD:----:--:p---	
+65-13	på	på	T-:----:--:----	
+65-14	kærlighed	kærlighed	NC:siuc:--:----	
+65-15	ved	ved	T-:----:--:----	
+65-16	første	første	AC:§§u§:--:p---	
+65-17	blik	blik|blik-F-få-blikket|blik-F-indre-blik|blik-1-3|blik-1-4|blik-1-4a|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-1-2|blik-1-1	NC:siun:--:----	
+65-18	,	,	ZD	
+65-19	som	som	US:----:--:----	
+65-20	det	det	PP:s-un:--:-3n-	
+65-21	overhovedet	overhovedet	D-:----:--:u---	
+65-22	kan	kunne	VF:----:sa:----	
+65-23	blive	blive	VI:----:-a:----	
+65-24	.	.	ZP	
+
+#id=66
+#text=Esbern Stig Møller er en af de toptrimmede PETdrenge, der med øresnegl, skarpt blik og skarpladt pistol altid er lige i hælene på de kongelige.
+66-1	Esbern	Esbern	NP:siu#:--:----	
+66-2	Stig	Stig	NP:siu#:--:----	
+66-3	Møller	Møller	NP:siu#:--:----	
+66-4	er	være	VF:----:sa:----	
+66-5	en	en	PI:s-uc:--:----	
+66-6	af	af	T-:----:--:----	
+66-7	de	den	PM:p-u#:--:----	
+66-8	toptrimmede	toptrimmet	AC:p#u#:--:p---	
+66-9	PETdrenge	PETdrenge	NP:siu#:--:----	
+66-10	,	,	ZD	
+66-11	der	der	US:----:--:----	
+66-12	med	med	T-:----:--:----	
+66-13	øresnegl	øresnegl	NC:siuc:--:----	
+66-14	,	,	ZD	
+66-15	skarpt	skarp	AC:siun:--:p---	
+66-16	blik	blik|blik-1-3|blik-1-4|blik-1-4a|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-F-få-blikket|blik-F-indre-blik|blik-1-1|blik-1-2	NC:siun:--:----	
+66-17	og	og	CC:----:--:----	
+66-18	skarpladt	skarpladt	AC:siuc:--:p---	
+66-19	pistol	pistol	NC:siuc:--:----	
+66-20	altid	altid	D-:----:--:u---	
+66-21	er	være	VF:----:sa:----	
+66-22	lige	lige	D-:----:--:u---	
+66-23	i	i	T-:----:--:----	
+66-24	hælene	hæl	NC:pdu#:--:----	
+66-25	på	på	T-:----:--:----	
+66-26	de	den	PM:p-u#:--:----	
+66-27	kongelige	kongelig	AC:p#u#:--:p---	
+66-28	.	.	ZP	
+
+#id=67
+#text=Næ nej, det er hendes lange, lange lemmer, der er årsag til folks måbende blikke.
+67-1	Næ	næ	I-:----:--:----	
+67-2	nej	nej	I-:----:--:----	
+67-3	,	,	ZD	
+67-4	det	det	PP:s-un:--:-3n-	
+67-5	er	være	VF:----:sa:----	
+67-6	hendes	hendes	PO:#--#:--:-3ns	
+67-7	lange	lange	NC:siuc:--:----	
+67-8	,	,	ZD	
+67-9	lange	lang	AC:p#u#:--:p---	
+67-10	lemmer	lem	NC:piu#:--:----	
+67-11	,	,	ZD	
+67-12	der	der	US:----:--:----	
+67-13	er	være	VF:----:sa:----	
+67-14	årsag	årsag	NC:siuc:--:----	
+67-15	til	til	T-:----:--:----	
+67-16	folks	folk	NC:pig#:--:----	
+67-17	måbende	måbe	VP:##u#:s-:----	
+67-18	blikke	blik|blik-1-4|blik-1-4a|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-F-indre-blik|blik-F-få-blikket|blik-1-2|blik-1-3|blik-1-1	NC:piu#:--:----	
+67-19	.	.	ZP	
+
+#id=68
+#text= Det har de gjort, siden de mødtes for fire et halvt år siden, hvor det var kærlighed ved første blik.
+68-1	Det	det	PP:s-un:--:-3n-	
+68-2	har	have	VF:----:sa:----	
+68-3	de	de	PP:p-n#:--:-3n-	
+68-4	gjort	gøre	VT:siu#:t-:----	
+68-5	,	,	ZD	
+68-6	siden	siden	CS:----:--:----	
+68-7	de	de	PP:p-n#:--:-3n-	
+68-8	mødtes	møde	VF:----:tp:----	
+68-9	for	for	T-:----:--:----	
+68-10	fire	fire	LC:--u-:--:----	
+68-11	et	en	PI:s-un:--:----	
+68-12	halvt	halv	AC:siun:--:p---	
+68-13	år	år	NC:siun:--:----	
+68-14	siden	siden	T-:----:--:----	
+68-15	,	,	ZD	
+68-16	hvor	hvor	D-:----:--:u---	
+68-17	det	det	PP:s-un:--:-3n-	
+68-18	var	være	VF:----:ta:----	
+68-19	kærlighed	kærlighed	NC:siuc:--:----	
+68-20	ved	ved	T-:----:--:----	
+68-21	første	første	AC:§§u§:--:p---	
+68-22	blik	blik|blik-F-få-blikket|blik-F-indre-blik|blik-1-3|blik-1-4|blik-1-4a|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-1-1|blik-1-2	NC:siun:--:----	
+68-23	.	.	ZP	
+
+#id=69
+#text=Den ombejlede supermellemvægter lod ikke til at bemærke de øvrige gæsters nysgerrige øjekast, men holdt som den fighter, han er, sin kvindes blik fast og længe, mens han velopdragent med kniv og gaffel indtog en pariserbøf.
+69-1	Den	den	PM:s-uc:--:----	
+69-2	ombejlede	ombejlet	AC:sdu#:--:p---	
+69-3	supermellemvægter	supermellemvægter	NC:siuc:--:----	
+69-4	lod	lade	VF:----:ta:----	
+69-5	ikke	ikke	D-:----:--:u---	
+69-6	til	til	T-:----:--:----	
+69-7	at	at	UI:----:--:----	
+69-8	bemærke	bemærke	VI:----:-a:----	
+69-9	de	den	PM:p-u#:--:----	
+69-10	øvrige	øvrig	AC:p#u#:--:p---	
+69-11	gæsters	gæst	NC:pig#:--:----	
+69-12	nysgerrige	nysgerrig	AC:sdu#:--:p---	
+69-13	øjekast	øjekast	NC:siun:--:----	
+69-14	,	,	ZD	
+69-15	men	men	CC:----:--:----	
+69-16	holdt	holde	VF:----:ta:----	
+69-17	som	som	US:----:--:----	
+69-18	den	den	PM:s-uc:--:----	
+69-19	fighter	fighter	NC:siuc:--:----	
+69-20	,	,	ZD	
+69-21	han	han	PP:s-nc:--:-3n-	
+69-22	er	være	VF:----:sa:----	
+69-23	,	,	ZD	
+69-24	sin	sin	XY:----:--:----	
+69-25	kvindes	kvinde	NC:sigc:--:----	
+69-26	blik	blik|blik-1-4a|blik-F-finde-nåde-for-nogens-blik|blik-F-få-blikket|blik-F-indre-blik|blik-2-1-1a|blik-1-3|blik-1-4|blik-1-2|blik-1-1	NC:siun:--:----	
+69-27	fast	fast	AD:----:--:p---	
+69-28	og	og	CC:----:--:----	
+69-29	længe	længe	D-:----:--:u---	
+69-30	,	,	ZD	
+69-31	mens	mens	CS:----:--:----	
+69-32	han	han	PP:s-nc:--:-3n-	
+69-33	velopdragent	velopdragen	AD:----:--:p---	
+69-34	med	med	T-:----:--:----	
+69-35	kniv	kniv	NC:siuc:--:----	
+69-36	og	og	CC:----:--:----	
+69-37	gaffel	gaffel	NC:siuc:--:----	
+69-38	indtog	indtage	VF:----:ta:----	
+69-39	en	en	PI:s-uc:--:----	
+69-40	pariserbøf	pariserbøf	NC:siuc:--:----	
+69-41	.	.	ZP	
+
+#id=70
+#text=Han indrømmer også, at det ikke var kærlighed ved første blik.
+70-1	Han	han	PP:s-nc:--:-3n-	
+70-2	indrømmer	indrømme	VF:----:sa:----	
+70-3	også	også	D-:----:--:u---	
+70-4	,	,	ZD	
+70-5	at	at	CS:----:--:----	
+70-6	det	det	PP:s-un:--:-3n-	
+70-7	ikke	ikke	D-:----:--:u---	
+70-8	var	være	VF:----:ta:----	
+70-9	kærlighed	kærlighed	NC:siuc:--:----	
+70-10	ved	ved	T-:----:--:----	
+70-11	første	første	AC:§§u§:--:p---	
+70-12	blik	blik|blik-1-3|blik-1-4|blik-1-4a|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-F-få-blikket|blik-F-indre-blik|blik-1-1|blik-1-2	NC:siun:--:----	
+70-13	.	.	ZP	
+
+#id=71
+#text=Oles makker dengang, Jarl Friis-Mikkelsen, bemærkede også Tonys blik for kvinder.
+71-1	Oles	Ole	NP:sig#:--:----	
+71-2	makker	makke	VF:----:sa:----	
+71-3	dengang	dengang	D-:----:--:u---	
+71-4	,	,	ZD	
+71-5	Jarl	Jarl	NP:siu#:--:----	
+71-6	Friis	Friis	NW:----:--:----	
+71-7	-	-	ZH	
+71-8	Mikkelsen	Mikkelsen	NP:siu#:--:----	
+71-9	,	,	ZD	
+71-10	bemærkede	bemærke	VF:----:ta:----	
+71-11	også	også	D-:----:--:u---	
+71-12	Tonys	Tony	NP:sig#:--:----	
+71-13	blik	blik|blik-F-få-blikket|blik-F-indre-blik|blik-1-2|blik-1-3|blik-1-4a|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-1-4|blik-1-1	NC:siun:--:----	
+71-14	for	for	T-:----:--:----	
+71-15	kvinder	kvinde	NC:piu#:--:----	
+71-16	.	.	ZP	
+
+#id=72
+#text= Frækt blik Favorittøj:
+72-1	Frækt	fræk	AC:siun:--:p---	
+72-2	blik	blik|blik-1-3|blik-1-4|blik-1-4a|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-F-få-blikket|blik-F-indre-blik|blik-1-1|blik-1-2	NC:siun:--:----	
+72-3	Favorittøj	Favorittøj	NP:siu#:--:----	
+72-4	:	:	ZP	
+
+#id=73
+#text=Vi har haft venner, der har tilbudt at betale for vores bryllup, men jeg har sagt nej, siger Torben Schou, mens fruen sender ham et opgivende blik.
+73-1	Vi	vi	PP:p-nc:--:-1n-	
+73-2	har	have	VF:----:sa:----	
+73-3	haft	have	VT:siu#:t-:----	
+73-4	venner	ven	u#:--:----	
+73-5	,	,	ZD	
+73-6	der	der	US:----:--:----	
+73-7	har	have	VF:----:sa:----	
+73-8	tilbudt	tilbyde	VT:siu#:t-:----	
+73-9	at	at	UI:----:--:----	
+73-10	betale	betale	VI:----:-a:----	
+73-11	for	for	T-:----:--:----	
+73-12	vores	vores	PO:#--#:--:-1np	
+73-13	bryllup	bryllup	NC:siun:--:----	
+73-14	,	,	ZD	
+73-15	men	men	CC:----:--:----	
+73-16	jeg	jeg	PP:s-nc:--:-1n-	
+73-17	har	have	VF:----:sa:----	
+73-18	sagt	sige	VT:siu#:t-:----	
+73-19	nej	nej	NC:siun:--:----	
+73-20	,	,	ZD	
+73-21	siger	sige	VF:----:sa:----	
+73-22	Torben	Torben	NP:siu#:--:----	
+73-23	Schou	Schou	NP:siu#:--:----	
+73-24	,	,	ZD	
+73-25	mens	mens	CS:----:--:----	
+73-26	fruen	frue	NC:sduc:--:----	
+73-27	sender	sende	VF:----:sa:----	
+73-28	ham	han	PP:s-uc:--:-3n-	
+73-29	et	en	PI:s-un:--:----	
+73-30	opgivende	opgivende	NC:siun:--:----	
+73-31	blik	blik|blik-F-finde-nåde-for-nogens-blik|blik-F-få-blikket|blik-F-indre-blik|blik-1-1|blik-1-3|blik-1-4|blik-1-4a|blik-2-1-1a|blik-1-2	NC:siun:--:----	
+73-32	.	.	ZP	
+
+#id=74
+#text= Men det var ikke stedets mange farvestrålende cocktails, der tiltrak parrets blikke.
+74-1	Men	men	CC:----:--:----	
+74-2	det	det	PP:s-un:--:-3n-	
+74-3	var	være	VF:----:ta:----	
+74-4	ikke	ikke	D-:----:--:u---	
+74-5	stedets	stedets	XY:----:--:----	
+74-6	mange	mangen	AC:sdu#:--:p---	
+74-7	farvestrålende	farvestrålende	AC:§§u§:--:p---	
+74-8	cocktails	cocktail	NC:piu#:--:----	
+74-9	,	,	ZD	
+74-10	der	der	US:----:--:----	
+74-11	tiltrak	tiltrække	VF:----:ta:----	
+74-12	parrets	par	NC:sdgn:--:----	
+74-13	blikke	blik|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-F-få-blikket|blik-F-indre-blik|blik-1-3|blik-1-4|blik-1-4a|blik-1-2|blik-1-1	NC:piu#:--:----	
+74-14	.	.	ZP	
+
+#id=75
+#text=De fløj den halve klode rundt for at undgå nyfigne blikke.
+75-1	De	de	PP:p-n#:--:-3n-	
+75-2	fløj	flyve	VF:----:ta:----	
+75-3	den	den	PM:s-uc:--:----	
+75-4	halve	halv	AC:sdu#:--:p---	
+75-5	klode	klode	NC:siuc:--:----	
+75-6	rundt	rundt	D-:----:--:u---	
+75-7	for	for	T-:----:--:----	
+75-8	at	at	UI:----:--:----	
+75-9	undgå	undgå	VI:----:-a:----	
+75-10	nyfigne	nyfigen	AC:p#u#:--:p---	
+75-11	blikke	blik|blik-1-3|blik-1-4|blik-1-4a|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-F-få-blikket|blik-F-indre-blik|blik-1-1|blik-1-2	NC:piu#:--:----	
+75-12	.	.	ZP	
+
+#id=76
+#text= Her fik han nemlig endnu flere beundrende blikke end sædvanlig, når han er i byen - og denne gang fra mænd.
+76-1	Her	her	D-:----:--:u---	
+76-2	fik	få	VF:----:ta:----	
+76-3	han	han	PP:s-nc:--:-3n-	
+76-4	nemlig	nemlig	D-:----:--:u---	
+76-5	endnu	endnu	D-:----:--:u---	
+76-6	flere	mange	AC:##u#:--:c---	
+76-7	beundrende	beundre	VP:##u#:s-:----	
+76-8	blikke	blik|blik-1-2|blik-1-3|blik-1-4|blik-1-4a|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-F-få-blikket|blik-F-indre-blik|blik-1-1	NC:piu#:--:----	
+76-9	end	end	D-:----:--:u---	
+76-10	sædvanlig	sædvanlig	AC:siuc:--:p---	
+76-11	,	,	ZD	
+76-12	når	når	CS:----:--:----	
+76-13	han	han	PP:s-nc:--:-3n-	
+76-14	er	være	VF:----:sa:----	
+76-15	i	i	T-:----:--:----	
+76-16	byen	by	NW:----:--:----	
+76-17	-	-	ZH	
+76-18	og	og	CC:----:--:----	
+76-19	denne	denne	PM:s-uc:--:----	
+76-20	gang	gang	NC:siuc:--:----	
+76-21	fra	fra	T-:----:--:----	
+76-22	mænd	mand	NC:piu#:--:----	
+76-23	.	.	ZP	
+
+#id=77
+#text= Han spankulerede rundt med en kold Tuborg-flaske i hånden og et yderst søvnigt blik i øjnene.
+77-1	Han	han	PP:s-nc:--:-3n-	
+77-2	spankulerede	spankulere	VF:----:ta:----	
+77-3	rundt	rundt	D-:----:--:u---	
+77-4	med	med	T-:----:--:----	
+77-5	en	en	PI:s-uc:--:----	
+77-6	kold	kold	AC:siuc:--:p---	
+77-7	Tuborg	tuborg	NW:----:--:----	
+77-8	-	-	ZH	
+77-9	flaske	flaske	NC:siuc:--:----	
+77-10	i	i	T-:----:--:----	
+77-11	hånden	hånd	NC:sduc:--:----	
+77-12	og	og	CC:----:--:----	
+77-13	et	en	PI:s-un:--:----	
+77-14	yderst	yderst	AD:----:--:p---	
+77-15	søvnigt	søvnig	AC:siun:--:p---	
+77-16	blik	blik|blik-1-2|blik-1-3|blik-1-4|blik-1-4a|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-F-få-blikket|blik-F-indre-blik|blik-1-1	NC:siun:--:----	
+77-17	i	i	T-:----:--:----	
+77-18	øjnene	øje	NC:pdu#:--:----	
+77-19	.	.	ZP	
+
+#id=78
+#text=Men da han mødte Sólrun for over 20 år siden, var det var ikke kærlighed ved første blik mellem ham og de forblæste øer.
+78-1	Men	men	CC:----:--:----	
+78-2	da	da	CS:----:--:----	
+78-3	han	han	PP:s-nc:--:-3n-	
+78-4	mødte	møde	VF:----:ta:----	
+78-5	Sólrun	Sólrun	NP:siu#:--:----	
+78-6	for	for	D-:----:--:u---	
+78-7	over	over	T-:----:--:----	
+78-8	20	20	LC:--u-:--:----	
+78-9	år	år	NC:piu#:--:----	
+78-10	siden	siden	D-:----:--:u---	
+78-11	,	,	ZD	
+78-12	var	være	VF:----:ta:----	
+78-13	det	det	PP:s-un:--:-3n-	
+78-14	var	være	VF:----:ta:----	
+78-15	ikke	ikke	D-:----:--:u---	
+78-16	kærlighed	kærlighed	NC:siuc:--:----	
+78-17	ved	ved	T-:----:--:----	
+78-18	første	første	AC:§§u§:--:p---	
+78-19	blik	blik|blik-1-4|blik-1-4a|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-F-få-blikket|blik-F-indre-blik|blik-1-2|blik-1-3|blik-1-1	NC:siun:--:----	
+78-20	mellem	mellem	T-:----:--:----	
+78-21	ham	han	PP:s-uc:--:-3n-	
+78-22	og	og	CC:----:--:----	
+78-23	de	den	PM:p-u#:--:----	
+78-24	forblæste	forblæst	AC:p#u#:--:p---	
+78-25	øer	ø	NC:piu#:--:----	
+78-26	.	.	ZP	
+

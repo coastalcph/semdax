@@ -1,0 +1,146 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Le | value
+#id=1
+#text=Og mens modeller og branchefolk frygtede det værste, blev en ambulance tilkaldt.
+1-1	Og	og	CC:----:--:----	_	
+1-2	mens	mens	CS:----:--:----	_	
+1-3	modeller	model|model-1|model-4|model-3|model-2|model-1a|model-F-stå-model-til|model-6-6a|model-5	NC:piu#:--:----	model_6_6a	
+1-4	og	og	CC:----:--:----	_	
+1-5	branchefolk	branchefolk	NC:piu#:--:----	_	
+1-6	frygtede	frygte	VF:----:ta:----	_	
+1-7	det	den	PM:s-un:--:----	_	
+1-8	værste	slem	AC:§du§:--:s---	_	
+1-9	,	,	ZD	_	
+1-10	blev	blive	VF:----:ta:----	_	
+1-11	en	en	PI:s-uc:--:----	_	
+1-12	ambulance	ambulance	NC:siuc:--:----	_	
+1-13	tilkaldt	tilkalde	VT:siu#:t-:----	_	
+1-14	.	.	ZP	_	
+
+#id=2
+#text=- Vi har valgt at bruge Medina som model, fordi hun udstråler eksklusivitet, og så synes vi faktisk, hun er et modeikon i sig selv.
+2-1	-	-	NC:piu#:--:----	_	
+2-2	Vi	VI	LC:--u-:--:----	_	
+2-3	har	have	VF:----:sa:----	_	
+2-4	valgt	vælge	VT:siu#:t-:----	_	
+2-5	at	at	UI:----:--:----	_	
+2-6	bruge	bruge	VI:----:-a:----	_	
+2-7	Medina	Medina	NP:siu#:--:----	_	
+2-8	som	som	US:----:--:----	_	
+2-9	model	model|model-1|model-3|model-2|model-1a|model-4|model-F-stå-model-til|model-6-6a|model-5	NC:siuc:--:----	model_6_6a	
+2-10	,	,	ZD	_	
+2-11	fordi	fordi	CS:----:--:----	_	
+2-12	hun	hun	PP:s-nc:--:-3n-	_	
+2-13	udstråler	udstråle	VF:----:sa:----	_	
+2-14	eksklusivitet	eksklusivitet	NC:siuc:--:----	_	
+2-15	,	,	ZD	_	
+2-16	og	og	CC:----:--:----	_	
+2-17	så	så	D-:----:--:u---	_	
+2-18	synes	syne	VF:----:sp:----	_	
+2-19	vi	vi	PP:p-nc:--:-1n-	_	
+2-20	faktisk	faktisk	AD:----:--:p---	_	
+2-21	,	,	ZD	_	
+2-22	hun	hun	PP:s-nc:--:-3n-	_	
+2-23	er	være	VF:----:sa:----	_	
+2-24	et	en	PI:s-un:--:----	_	
+2-25	modeikon	modeikon	NC:siun:--:----	_	
+2-26	i	i	T-:----:--:----	_	
+2-27	sig	sig	PP:#-u#:--:-3y-	_	
+2-28	selv	selv	PM:#-u#:--:----	_	
+2-29	.	.	ZP	_	
+
+#id=3
+#text=På restaurant MASH spiste modellen Malkit Singh med et par venner, og i en anden bås tømte de tidligere DR-kolleger Reimer Bo og Jeppe Nybroe rødvinsglassene og fik sig en særdeles opstemt mandesnak.
+3-1	På	på	T-:----:--:----	_	
+3-2	restaurant	restaurant	NC:siuc:--:----	_	
+3-3	MASH	MASH	NP:siu#:--:----	_	
+3-4	spiste	spise	VF:----:ta:----	_	
+3-5	modellen	model|model-2|model-4|model-6-6a|model-F-stå-model-til|model-5|model-3|model-1a|model-1	NC:sduc:--:----	model_6_6a	
+3-6	Malkit	Malkit	NP:siu#:--:----	_	
+3-7	Singh	Singh	NP:siu#:--:----	_	
+3-8	med	med	T-:----:--:----	_	
+3-9	et	en	PI:s-un:--:----	_	
+3-10	par	par	NC:siun:--:----	_	
+3-11	venner	ven	NC:piu#:--:----	_	
+3-12	,	,	ZD	_	
+3-13	og	og	CC:----:--:----	_	
+3-14	i	i	T-:----:--:----	_	
+3-15	en	en	PI:s-uc:--:----	_	
+3-16	anden	anden	PI:s-uc:--:----	_	
+3-17	bås	bås	NC:siuc:--:----	_	
+3-18	tømte	tømme	VF:----:ta:----	_	
+3-19	de	den	PM:p-u#:--:----	_	
+3-20	tidligere	tidlig	AC:##u#:--:c---	_	
+3-21	DR	DR	NW:----:--:----	_	
+3-22	-	-	ZH	_	
+3-23	kolleger	kollega	NC:piu#:--:----	_	
+3-24	Reimer	Reimer	NP:siu#:--:----	_	
+3-25	Bo	Bo	NP:siu#:--:----	_	
+3-26	og	og	CC:----:--:----	_	
+3-27	Jeppe	Jeppe	NP:siu#:--:----	_	
+3-28	Nybroe	Nybroe	NP:siu#:--:----	_	
+3-29	rødvinsglassene	rødvinsglas	NC:pdu#:--:----	_	
+3-30	og	og	CC:----:--:----	_	
+3-31	fik	få	VF:----:ta:----	_	
+3-32	sig	sig	PP:#-u#:--:-3y-	_	
+3-33	en	en	PI:s-uc:--:----	_	
+3-34	særdeles	særdeles	D-:----:--:u---	_	
+3-35	opstemt	opstemt	VT:siu#:t-:----	_	
+3-36	mandesnak	mandesnak	NC:siuc:--:----	_	
+3-37	.	.	ZP	_	
+
+#id=4
+#text=Søren Bregendal virkede stangvissen i sin smoking og rendte rundt og kurtiserede og dansede med flere lækre tøser fra Top Model Of The World-finalen, der var blevet afholdt på Skt.
+4-1	Søren	Søren	NP:siu#:--:----	_	
+4-2	Bregendal	Bregendal	NP:siu#:--:----	_	
+4-3	virkede	virke	VF:----:ta:----	_	
+4-4	stangvissen	stangvisse	NC:sduc:--:----	_	
+4-5	i	i	T-:----:--:----	_	
+4-6	sin	sin	PO:s--c:--:-3ys	_	
+4-7	smoking	smoking	NC:siuc:--:----	_	
+4-8	og	og	CC:----:--:----	_	
+4-9	rendte	rende	VF:----:ta:----	_	
+4-10	rundt	rundt	D-:----:--:u---	_	
+4-11	og	og	CC:----:--:----	_	
+4-12	kurtiserede	kurtisere	VF:----:ta:----	_	
+4-13	og	og	CC:----:--:----	_	
+4-14	dansede	danse	VF:----:ta:----	_	
+4-15	med	med	T-:----:--:----	_	
+4-16	flere	mange	AC:##u#:--:c---	_	
+4-17	lækre	lækker	AC:p#u#:--:p---	_	
+4-18	tøser	tøs	NC:piu#:--:----	_	
+4-19	fra	fra	T-:----:--:----	_	
+4-20	Top	Top	NP:siu#:--:----	_	
+4-21	Model	model|model-1|model-1a|model-2|model-3|model-4|model-6-6a|model-F-stå-model-til|model-5	NC:siuc:--:----	model_6_6a	
+4-22	Of	Of	NP:siu#:--:----	_	
+4-23	The	The	XF:---:--:----	_	
+4-24	World	World	NP:siu#:--:----	_	
+4-25	-	-	ZH	_	
+4-26	finalen	finale	NC:sduc:--:----	_	
+4-27	,	,	ZD	_	
+4-28	der	der	US:----:--:----	_	
+4-29	var	være	VF:----:ta:----	_	
+4-30	blevet	blive	VT:siu#:t-:----	_	
+4-31	afholdt	afholde	VT:siu#:t-:----	_	
+4-32	på	på	XY:----:--:----	_	
+4-33	Skt	Skt	XS:----:--:----	_	
+4-34	.	.	ZP	_	
+
+#id=5
+#text=- Det er ikke nemt, når man ser ud som mig og er model.
+5-1	-	-	NC:piu#:--:----	_	
+5-2	Det	det	PP:s-un:--:-3n-	_	
+5-3	er	være	VF:----:sa:----	_	
+5-4	ikke	ikke	D-:----:--:u---	_	
+5-5	nemt	nem	AC:siun:--:p---	_	
+5-6	,	,	ZD	_	
+5-7	når	når	CS:----:--:----	_	
+5-8	man	man	PI:#-uc:--:----	_	
+5-9	ser	se	VF:----:sa:----	_	
+5-10	ud	ud	D-:----:--:u---	_	
+5-11	som	som	US:----:--:----	_	
+5-12	mig	mig	NC:siun:--:----	_	
+5-13	og	og	CC:----:--:----	_	
+5-14	er	være	VF:----:sa:----	_	
+5-15	model	model|model-4|model-5|model-6-6a|model-F-stå-model-til|model-1a|model-2|model-3|model-1	NC:siuc:--:----	model_6_6a	
+5-16	.	.	ZP	_	
+

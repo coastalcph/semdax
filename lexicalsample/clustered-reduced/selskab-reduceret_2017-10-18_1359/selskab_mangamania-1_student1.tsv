@@ -1,0 +1,77 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Lexical | value
+#id=1
+#text=Han får selskab af Kuwabara, en tidligere rival - da det viser sig at han også har evner lidt udover det sædvanlige - og de to dæmoner Kurama og Hiei, som hjælper fordi de ellers ville blive smidt i Makai fængsel.
+1-1	Han	han	PP:s-nc:--:-3n-	_	
+1-2	får	få	VF:----:sa:----	_	
+1-3	selskab	selskab|selskab-1-1a-1b|selskab-F-holde-med-selskab|selskab-4-4a|selskab-3|selskab-2-2a|selskab-1c	NC:siun:--:----	selskab-1-1a-1b	
+1-4	af	af	T-:----:--:----	_	
+1-5	Kuwabara	Kuwabara	NP:siu#:--:----	_	
+1-6	,	,	ZD	_	
+1-7	en	en	PI:s-uc:--:----	_	
+1-8	tidligere	tidlig	AC:##u#:--:c---	_	
+1-9	rival	rival	NW:----:--:----	_	
+1-10	-	-	ZH	_	
+1-11	da	da	CS:----:--:----	_	
+1-12	det	det	PP:s-un:--:-3n-	_	
+1-13	viser	vise	VF:----:sa:----	_	
+1-14	sig	sig	PP:#-u#:--:-3y-	_	
+1-15	at	at	CS:----:--:----	_	
+1-16	han	han	PP:s-nc:--:-3n-	_	
+1-17	også	også	D-:----:--:u---	_	
+1-18	har	have	VF:----:sa:----	_	
+1-19	evner	evne	NC:piu#:--:----	_	
+1-20	lidt	lidt	AD:----:--:p---	_	
+1-21	udover	udover	T-:----:--:----	_	
+1-22	det	den	PM:s-un:--:----	_	
+1-23	sædvanlige	sædvanlig	AW:----:--:----	_	
+1-24	-	-	ZH	_	
+1-25	og	og	CC:----:--:----	_	
+1-26	de	den	PM:p-u#:--:----	_	
+1-27	to	to	LC:--u-:--:----	_	
+1-28	dæmoner	dæmon	NC:piu#:--:----	_	
+1-29	Kurama	Kurama	NP:siu#:--:----	_	
+1-30	og	og	CC:----:--:----	_	
+1-31	Hiei	Hiei	NP:siu#:--:----	_	
+1-32	,	,	ZD	_	
+1-33	som	som	US:----:--:----	_	
+1-34	hjælper	hjælpe	VF:----:sa:----	_	
+1-35	fordi	fordi	CS:----:--:----	_	
+1-36	de	de	PP:p-n#:--:-3n-	_	
+1-37	ellers	ellers	D-:----:--:u---	_	
+1-38	ville	ville	VF:----:ta:----	_	
+1-39	blive	blive	VI:----:-a:----	_	
+1-40	smidt	smide	VT:siu#:t-:----	_	
+1-41	i	i	T-:----:--:----	_	
+1-42	Makai	Makai	NP:siu#:--:----	_	
+1-43	fængsel	fængsel	NC:siun:--:----	_	
+1-44	.	.	ZP	_	
+
+#id=2
+#text= Det kan også være et forsøg på at søsætte en ny anime-serie for at lure interessen hos publikum før tv-selskaberne kontaktes.
+2-1	Det	det	PP:s-un:--:-3n-	_	
+2-2	kan	kunne	VF:----:sa:----	_	
+2-3	også	også	D-:----:--:u---	_	
+2-4	være	være	VI:----:-a:----	_	
+2-5	et	en	PI:s-un:--:----	_	
+2-6	forsøg	forsøg	NC:siun:--:----	_	
+2-7	på	på	T-:----:--:----	_	
+2-8	at	at	UI:----:--:----	_	
+2-9	søsætte	søsætte	VI:----:-a:----	_	
+2-10	en	en	PI:s-uc:--:----	_	
+2-11	ny	ny	AC:siuc:--:p---	_	
+2-12	anime	Anime	NP:siu#:--:----	_	
+2-13	-	-	ZH	_	
+2-14	serie	serie	iuc:--:----	_	
+2-15	for	for	T-:----:--:----	_	
+2-16	at	at	UI:----:--:----	_	
+2-17	lure	lure	VI:----:-a:----	_	
+2-18	interessen	interesse	NC:sduc:--:----	_	
+2-19	hos	hos	T-:----:--:----	_	
+2-20	publikum	publikum	NC:siun:--:----	_	
+2-21	før	før	T-:----:--:----	_	
+2-22	tv	tv	NW:----:--:----	_	
+2-23	-	-	ZH	_	
+2-24	selskaberne	selskab|selskab-2-2a|selskab-4-4a|selskab-F-holde-med-selskab|selskab-3|selskab-1-1a-1b|selskab-1c	NC:pdu#:--:----	selskab-4-4a	
+2-25	kontaktes	kontakte	VF:----:sp:----	_	
+2-26	.	.	ZP	_	
+

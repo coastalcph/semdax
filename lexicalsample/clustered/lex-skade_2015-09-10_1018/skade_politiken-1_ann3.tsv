@@ -1,0 +1,2897 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Ingenaf de andre kom til skade ved eksplosionen.
+1-1	Ingen	ingen	PI:s-uc:--:----	O	
+1-2	af	af	T-:----:--:----	O	
+1-3	de	den	PM:p-u#:--:----	O	
+1-4	andre	anden	PI:p-u#:--:----	O	
+1-5	kom	komme	VF:----:ta:----	O	
+1-6	til	til	T-:----:--:----	O	
+1-7	skade	skade	NC:siuc:--:----	B-skade-F-komme-til-skade	
+1-8	ved	ved	T-:----:--:----	O	
+1-9	eksplosionen	eksplosion	NC:sduc:--:----	O	
+1-10	.	.	ZP	O	
+
+#id=2
+#text=Hvilke heteroseksuelle ægtefæller ville monstro lide skade ved, at også homoseksuelle ægtefæller blev viet som dét, de er:
+2-1	Hvilke	Hvilke	XY:----:--:----	O	
+2-2	heteroseksuelle	heteroseksuel	AC:p#u#:--:p---	O	
+2-3	ægtefæller	ægtefælle	NC:piu#:--:----	O	
+2-4	ville	ville	VF:----:ta:----	O	
+2-5	monstro	monstro	D-:----:--:u---	O	
+2-6	lide	lide	VI:----:-a:----	O	
+2-7	skade	skade	NC:siuc:--:----	B-skade-F-tage/lide-skade	
+2-8	ved	ved	T-:----:--:----	O	
+2-9	,	,	ZD	O	
+2-10	at	at	CS:----:--:----	O	
+2-11	også	også	D-:----:--:u---	O	
+2-12	homoseksuelle	homoseksuel	AC:p#u#:--:p---	O	
+2-13	ægtefæller	ægtefælle	NC:piu#:--:----	O	
+2-14	blev	blive	VF:----:ta:----	O	
+2-15	viet	vie	VT:siu#:t-:----	O	
+2-16	som	som	US:----:--:----	O	
+2-17	dét	det	PP:s-un:--:-3n-	O	
+2-18	,	,	ZD	O	
+2-19	de	de	PP:p-n#:--:-3n-	O	
+2-20	er	være	VF:----:sa:----	O	
+2-21	:	:	ZP	O	
+
+#id=3
+#text=præsident, så har Irans omdømme også lidt omfattende skade i Deres regeringsperiode.
+3-1	præsident	præsident	NC:siuc:--:----	O	
+3-2	,	,	ZD	O	
+3-3	så	så	D-:----:--:u---	O	
+3-4	har	have	VF:----:sa:----	O	
+3-5	Irans	Iran	NP:sig#:--:----	O	
+3-6	omdømme	omdømme	NC:siun:--:----	O	
+3-7	også	også	D-:----:--:u---	O	
+3-8	lidt	lidt	AD:----:--:p---	O	
+3-9	omfattende	omfattende	AC:§§u§:--:p---	O	
+3-10	skade	skade	NC:siuc:--:----	B-skade-F-tage/lide-skade	
+3-11	i	i	T-:----:--:----	O	
+3-12	Deres	deres	PO:#--#:--:-3np	O	
+3-13	regeringsperiode	regeringsperiode	NC:siuc:--:----	O	
+3-14	.	.	ZP	O	
+
+#id=4
+#text=Fødevareminister Eva Kjer Hansen (V) får en alvorlig næse af Folketingets Europaudvalg, fordi hun efter otte måneder endnu ikke har kunnet fortælle udvalget, hvordan regeringen vil undgå skader på natur og miljø på grund af EU's ophævelse af landbrugets tvungne braklægning.
+4-1	Fødevareminister	fødevareminister	NC:siuc:--:----	O	
+4-2	Eva	Eva	NP:siu#:--:----	O	
+4-3	Kjer	Kjer	NP:siu#:--:----	O	
+4-4	Hansen	Hansen	NP:siu#:--:----	O	
+4-5	(	(	ZD	O	
+4-6	V	V	NP:siu#:--:----	O	
+4-7	)	)	ZD	O	
+4-8	får	få	VF:----:sa:----	O	
+4-9	en	en	PI:s-uc:--:----	O	
+4-10	alvorlig	alvorlig	AC:siuc:--:p---	O	
+4-11	næse	næse	NC:siuc:--:----	O	
+4-12	af	af	T-:----:--:----	O	
+4-13	Folketingets	folketing	NC:sdgn:--:----	O	
+4-14	Europaudvalg	Europaudvalg	NP:siu#:--:----	O	
+4-15	,	,	ZD	O	
+4-16	fordi	fordi	CS:----:--:----	O	
+4-17	hun	hun	PP:s-nc:--:-3n-	O	
+4-18	efter	efter	T-:----:--:----	O	
+4-19	otte	otte	LC:--u-:--:----	O	
+4-20	måneder	måned	NC:piu#:--:----	O	
+4-21	endnu	endnu	D-:----:--:u---	O	
+4-22	ikke	ikke	D-:----:--:u---	O	
+4-23	har	have	VF:----:sa:----	O	
+4-24	kunnet	kunne	VT:siu#:t-:----	O	
+4-25	fortælle	fortælle	VI:----:-a:----	O	
+4-26	udvalget	udvalg	NC:sdun:--:----	O	
+4-27	,	,	ZD	O	
+4-28	hvordan	hvordan	D-:----:--:u---	O	
+4-29	regeringen	regering	NC:sduc:--:----	O	
+4-30	vil	ville	VF:----:sa:----	O	
+4-31	undgå	undgå	VI:----:-a:----	O	
+4-32	skader	skade	NC:piu#:--:----	B-skade1-1	
+4-33	på	på	T-:----:--:----	O	
+4-34	natur	natur	NC:siuc:--:----	O	
+4-35	og	og	CC:----:--:----	O	
+4-36	miljø	miljø	NC:siun:--:----	O	
+4-37	på	på	T-:----:--:----	O	
+4-38	grund	grund	NC:siuc:--:----	O	
+4-39	af	af	T-:----:--:----	O	
+4-40	EU	EU	NP:siu#:--:----	O	
+4-41	'	'	ZA	O	
+4-42	s	@s	MN:sig#:--:----	O	
+4-43	ophævelse	ophævelse	NC:siuc:--:----	O	
+4-44	af	af	T-:----:--:----	O	
+4-45	landbrugets	landbrug	NC:sdgn:--:----	O	
+4-46	tvungne	tvinge	VP:sdu#:t-:----	O	
+4-47	braklægning	braklægning	NC:siuc:--:----	O	
+4-48	.	.	ZP	O	
+
+#id=5
+#text=Otte mennesker blev kørt på hospitalet, men ingen kom ifølge politiet alvorligt til skade.
+5-1	Otte	otte	LC:--u-:--:----	O	
+5-2	mennesker	menneske	NC:piu#:--:----	O	
+5-3	blev	blive	VF:----:ta:----	O	
+5-4	kørt	køre	VT:siu#:t-:----	O	
+5-5	på	på	T-:----:--:----	O	
+5-6	hospitalet	hospital	NC:sdun:--:----	O	
+5-7	,	,	ZD	O	
+5-8	men	men	CC:----:--:----	O	
+5-9	ingen	ingen	PI:s-uc:--:----	O	
+5-10	kom	komme	VF:----:ta:----	O	
+5-11	ifølge	ifølge	T-:----:--:----	O	
+5-12	politiet	politi	NC:sdun:--:----	O	
+5-13	alvorligt	alvorlig	AD:----:--:p---	O	
+5-14	til	til	T-:----:--:----	O	
+5-15	skade	skade	NC:siuc:--:----	B-skade-F-komme-til-skade	
+5-16	.	.	ZP	O	
+
+#id=6
+#text=Bushregeringens jurister hævder i notaterne, at teknikkerne ikke er det samme som tortur, fordi de ikke volder alvorlig psykologisk eller fysisk skade.
+6-1	Bushregeringens	Bushregeringens	NP:sig#:--:----	O	
+6-2	jurister	jurist	NC:piu#:--:----	O	
+6-3	hævder	hævde	VF:----:sa:----	O	
+6-4	i	i	T-:----:--:----	O	
+6-5	notaterne	notat	NC:pdu#:--:----	O	
+6-6	,	,	ZD	O	
+6-7	at	at	CS:----:--:----	O	
+6-8	teknikkerne	teknik	NC:pdu#:--:----	O	
+6-9	ikke	ikke	D-:----:--:u---	O	
+6-10	er	være	VF:----:sa:----	O	
+6-11	det	den	PM:s-un:--:----	O	
+6-12	samme	samme	AC:§§u§:--:p---	O	
+6-13	som	som	US:----:--:----	O	
+6-14	tortur	tortur	NC:siuc:--:----	O	
+6-15	,	,	ZD	O	
+6-16	fordi	fordi	CS:----:--:----	O	
+6-17	de	de	PP:p-n#:--:-3n-	O	
+6-18	ikke	ikke	D-:----:--:u---	O	
+6-19	volder	volde	VF:----:sa:----	O	
+6-20	alvorlig	alvorlig	AD:----:--:p---	O	
+6-21	psykologisk	psykologisk	AC:siu§:--:p---	O	
+6-22	eller	eller	CC:----:--:----	O	
+6-23	fysisk	fysisk	AC:siu§:--:p---	O	
+6-24	skade	skade	NC:siuc:--:----	B-skade1-1a	
+6-25	.	.	ZP	O	
+
+#id=7
+#text=Det er ikke så lang tid siden, at Nina Smith, der er  professor på Handelshøjskolen i Århus, lavede en undersøgelse, der viste, at det i hvert fald ikke er nogen skade for virksomhederne, at der er kvinder i topledelsen.
+7-1	Det	det	PP:s-un:--:-3n-	O	
+7-2	er	være	VF:----:sa:----	O	
+7-3	ikke	ikke	D-:----:--:u---	O	
+7-4	så	så	D-:----:--:u---	O	
+7-5	lang	lang	AC:siuc:--:p---	O	
+7-6	tid	tid	NC:siuc:--:----	O	
+7-7	siden	siden	T-:----:--:----	O	
+7-8	,	,	ZD	O	
+7-9	at	at	CS:----:--:----	O	
+7-10	Nina	Nina	NP:siu#:--:----	O	
+7-11	Smith	Smith	NP:siu#:--:----	O	
+7-12	,	,	ZD	O	
+7-13	der	der	US:----:--:----	O	
+7-14	er	være	VF:----:sa:----	O	
+7-15	professor	professor	NC:siuc:--:----	O	
+7-16	på	på	T-:----:--:----	O	
+7-17	Handelshøjskolen	handelshøjskole	NC:sduc:--:----	O	
+7-18	i	i	T-:----:--:----	O	
+7-19	Århus	Århus	NP:siu#:--:----	O	
+7-20	,	,	ZD	O	
+7-21	lavede	lave	VF:----:ta:----	O	
+7-22	en	en	PI:s-uc:--:----	O	
+7-23	undersøgelse	undersøgelse	NC:siuc:--:----	O	
+7-24	,	,	ZD	O	
+7-25	der	der	US:----:--:----	O	
+7-26	viste	vise	VF:----:ta:----	O	
+7-27	,	,	ZD	O	
+7-28	at	at	CS:----:--:----	O	
+7-29	det	det	PP:s-un:--:-3n-	O	
+7-30	i	i	T-:----:--:----	O	
+7-31	hvert	hver	PI:s-un:--:----	O	
+7-32	fald	fald	NC:siun:--:----	O	
+7-33	ikke	ikke	D-:----:--:u---	O	
+7-34	er	være	VF:----:sa:----	O	
+7-35	nogen	nogen	PI:s-uc:--:----	O	
+7-36	skade	skade	NC:siuc:--:----	B-skade-F-(det-er/var)-skade	
+7-37	for	for	T-:----:--:----	O	
+7-38	virksomhederne	virksomhed	NC:pdu#:--:----	O	
+7-39	,	,	ZD	O	
+7-40	at	at	CS:----:--:----	O	
+7-41	der	der	US:----:--:----	O	
+7-42	er	være	VF:----:sa:----	O	
+7-43	kvinder	kvinde	NC:piu#:--:----	O	
+7-44	i	i	T-:----:--:----	O	
+7-45	topledelsen	topledelse	NC:sduc:--:----	O	
+7-46	.	.	ZP	O	
+
+#id=8
+#text=Hvis Ditlev Engel derimod må give en indrømmelse, så haster det, hvis ikke hans troværdighed skal lide skade.
+8-1	Hvis	hvis	CS:----:--:----	O	
+8-2	Ditlev	Ditlev	NP:siu#:--:----	O	
+8-3	Engel	engel	NC:siuc:--:----	O	
+8-4	derimod	derimod	D-:----:--:u---	O	
+8-5	må	måtte	VF:----:sa:----	O	
+8-6	give	give	VI:----:-a:----	O	
+8-7	en	en	PI:s-uc:--:----	O	
+8-8	indrømmelse	indrømmelse	NC:siuc:--:----	O	
+8-9	,	,	ZD	O	
+8-10	så	så	D-:----:--:u---	O	
+8-11	haster	haste	VF:----:sa:----	O	
+8-12	det	det	PP:s-un:--:-3n-	O	
+8-13	,	,	ZD	O	
+8-14	hvis	hvis	CS:----:--:----	O	
+8-15	ikke	ikke	D-:----:--:u---	O	
+8-16	hans	hans	PO:#--#:--:-3ns	O	
+8-17	troværdighed	troværdighed	NC:siuc:--:----	O	
+8-18	skal	skulle	VF:----:sa:----	O	
+8-19	lide	lide	VI:----:-a:----	O	
+8-20	skade	skade	NC:siuc:--:----	B-skade-F-tage/lide-skade	
+8-21	.	.	ZP	O	
+
+#id=9
+#text=Romanen - Pia Juuls første siden ' Skaden' fra 1990 - begynder med, at Bess' samlever skydes ned ved daggry, uden vidner, mulige gerningsmænd eller tænkelige grunde til drabet.
+9-1	Romanen	roman	NW:----:--:----	O	
+9-2	-	-	ZH	O	
+9-3	Pia	Pia	NP:siu#:--:----	O	
+9-4	Juuls	Juul	NP:sig#:--:----	O	
+9-5	første	første	AC:§§u§:--:p---	O	
+9-6	siden	siden	D-:----:--:u---	O	
+9-7	'	'	ZA	O	
+9-8	Skaden	skade	NW:----:--:----	O	
+9-9	'	'	ZA	O	
+9-10	fra	fra	T-:----:--:----	O	
+9-11	1990	1990	LC:--u-:--:----	O	
+9-12	-	-	ZH	O	
+9-13	begynder	begynder	NC:siuc:--:----	O	
+9-14	med	med	T-:----:--:----	O	
+9-15	,	,	ZD	O	
+9-16	at	at	CS:----:--:----	O	
+9-17	Bess	Bess	NP:sig#:--:----	O	
+9-18	'	'	ZA	O	
+9-19	samlever	samleve	VF:----:sa:----	O	
+9-20	skydes	skyde	VI:----:-p:----	O	
+9-21	ned	ned	D-:----:--:u---	O	
+9-22	ved	ved	T-:----:--:----	O	
+9-23	daggry	daggry	NC:siun:--:----	O	
+9-24	,	,	ZD	O	
+9-25	uden	uden	T-:----:--:----	O	
+9-26	vidner	vidne	NC:piu#:--:----	O	
+9-27	,	,	ZD	O	
+9-28	mulige	mulig	AC:p#u#:--:p---	O	
+9-29	gerningsmænd	gerningsmænd	NC:piu#:--:----	O	
+9-30	eller	eller	CC:----:--:----	O	
+9-31	tænkelige	tænkelig	AC:p#u#:--:p---	O	
+9-32	grunde	grund	NC:piu#:--:----	O	
+9-33	til	til	T-:----:--:----	O	
+9-34	drabet	drab	NC:sdun:--:----	O	
+9-35	.	.	ZP	O	
+
+#id=10
+#text=Huner sund og rask, og der er ingen tegn på, at hun har taget skade af sin mors  ingefærforbrug.
+10-1	Hun	hun	PP:s-nc:--:-3n-	O	
+10-2	er	være	VF:----:sa:----	O	
+10-3	sund	sund	AC:siuc:--:p---	O	
+10-4	og	og	CC:----:--:----	O	
+10-5	rask	rask	AC:siu§:--:p---	O	
+10-6	,	,	ZD	O	
+10-7	og	og	CC:----:--:----	O	
+10-8	der	der	US:----:--:----	O	
+10-9	er	være	VF:----:sa:----	O	
+10-10	ingen	ingen	PI:s-uc:--:----	O	
+10-11	tegn	tegn	NC:piu#:--:----	O	
+10-12	på	på	T-:----:--:----	O	
+10-13	,	,	ZD	O	
+10-14	at	at	CS:----:--:----	O	
+10-15	hun	hun	PP:s-nc:--:-3n-	O	
+10-16	har	have	VF:----:sa:----	O	
+10-17	taget	tage	VT:siu#:t-:----	O	
+10-18	skade	skade	NC:siuc:--:----	B-skade-F-tage/lide-skade	
+10-19	af	af	T-:----:--:----	O	
+10-20	sin	sin	PO:s--c:--:-3ys	O	
+10-21	mors	mor	NC:sigc:--:----	O	
+10-22	ingefærforbrug	ingefærforbrug	NC:siun:--:----	O	
+10-23	.	.	ZP	O	
+
+#id=11
+#text=Alligeveler det først for nylig, Malene Vestergaard har sluppet tankerne om de skader, hun kan have påført sit barn.
+11-1	Alligevel	alligevel	D-:----:--:u---	O	
+11-2	er	være	VF:----:sa:----	O	
+11-3	det	det	PP:s-un:--:-3n-	O	
+11-4	først	først	D-:----:--:u---	O	
+11-5	for	for	T-:----:--:----	O	
+11-6	nylig	nylig	AD:----:--:p---	O	
+11-7	,	,	ZD	O	
+11-8	Malene	Malene	NP:siu#:--:----	O	
+11-9	Vestergaard	Vestergaard	NP:siu#:--:----	O	
+11-10	har	have	VF:----:sa:----	O	
+11-11	sluppet	slippe	VT:siu#:t-:----	O	
+11-12	tankerne	tanke	NC:pdu#:--:----	O	
+11-13	om	om	T-:----:--:----	O	
+11-14	de	den	PM:p-u#:--:----	O	
+11-15	skader	skade	NC:piu#:--:----	B-skade1-1a	
+11-16	,	,	ZD	O	
+11-17	hun	hun	PP:s-nc:--:-3n-	O	
+11-18	kan	kunne	VF:----:sa:----	O	
+11-19	have	have	VI:----:-a:----	O	
+11-20	påført	påføre	VT:siu#:t-:----	O	
+11-21	sit	sin	PO:s--n:--:-3ys	O	
+11-22	barn	barn	NC:siun:--:----	O	
+11-23	.	.	ZP	O	
+
+#id=12
+#text=Såfremt sportsudøverne gennem anvendelse af dopingmidlerne skulle have pådraget sig sundhedsmæssige skader, er vi dybt berørte og beklager det meget.
+12-1	Såfremt	såfremt	CS:----:--:----	O	
+12-2	sportsudøverne	sportsudøver	NC:pdu#:--:----	O	
+12-3	gennem	gennem	T-:----:--:----	O	
+12-4	anvendelse	anvendelse	NC:siuc:--:----	O	
+12-5	af	af	T-:----:--:----	O	
+12-6	dopingmidlerne	dopingmiddel	NC:pdu#:--:----	O	
+12-7	skulle	skulle	VF:----:ta:----	O	
+12-8	have	have	VI:----:-a:----	O	
+12-9	pådraget	pådrage	VT:siu#:t-:----	O	
+12-10	sig	sig	PP:#-u#:--:-3y-	O	
+12-11	sundhedsmæssige	sundhedsmæssig	AC:p#u#:--:p---	O	
+12-12	skader	skade	NC:piu#:--:----	B-skade1-1a	
+12-13	,	,	ZD	O	
+12-14	er	være	VF:----:sa:----	O	
+12-15	vi	vi	PP:p-nc:--:-1n-	O	
+12-16	dybt	dyb	AD:----:--:p---	O	
+12-17	berørte	berøre	VP:p#u#:t-:----	O	
+12-18	og	og	CC:----:--:----	O	
+12-19	beklager	beklage	VF:----:sa:----	O	
+12-20	det	det	PP:s-un:--:-3n-	O	
+12-21	meget	megen	AD:----:--:p---	O	
+12-22	.	.	ZP	O	
+
+#id=13
+#text=REGERINGENOG DF har fået 25.000 flere indvandrere i job, men desværre bliver indsatsen dagligt saboteret af de store socialdemokratiske kommuner, der behandler muslimske indvandrere som ofre og betaler dem for at sygne hen i ghettoerne til uendelig skade for integrationen.
+13-1	REGERINGEN	regering	NC:sduc:--:----	O	
+13-2	OG	og	CC:----:--:----	O	
+13-3	DF	DF	NP:siu#:--:----	O	
+13-4	har	have	VF:----:sa:----	O	
+13-5	fået	få	VT:siu#:t-:----	O	
+13-6	25	25	LC:--u-:--:----	O	
+13-7	.	.	ZP	O	
+13-8	000	000	LC:--u-:--:----	O	
+13-9	flere	mange	AC:##u#:--:c---	O	
+13-10	indvandrere	indvandrer	NC:piu#:--:----	O	
+13-11	i	i	T-:----:--:----	O	
+13-12	job	job	NC:siun:--:----	O	
+13-13	,	,	ZD	O	
+13-14	men	men	CC:----:--:----	O	
+13-15	desværre	desværre	D-:----:--:u---	O	
+13-16	bliver	blive	VF:----:sa:----	O	
+13-17	indsatsen	indsats	NC:sduc:--:----	O	
+13-18	dagligt	daglig	AD:----:--:p---	O	
+13-19	saboteret	sabotere	VT:siu#:t-:----	O	
+13-20	af	af	T-:----:--:----	O	
+13-21	de	den	PM:p-u#:--:----	O	
+13-22	store	stor	AC:p#u#:--:p---	O	
+13-23	socialdemokratiske	socialdemokratisk	AC:p#u#:--:p---	O	
+13-24	kommuner	kommune	NC:piu#:--:----	O	
+13-25	,	,	ZD	O	
+13-26	der	der	US:----:--:----	O	
+13-27	behandler	behandle	VF:----:sa:----	O	
+13-28	muslimske	muslimsk	AC:p#u#:--:p---	O	
+13-29	indvandrere	indvandrer	NC:piu#:--:----	O	
+13-30	som	som	US:----:--:----	O	
+13-31	ofre	offer	NC:piu#:--:----	O	
+13-32	og	og	CC:----:--:----	O	
+13-33	betaler	betale	VF:----:sa:----	O	
+13-34	dem	de	PP:p-u#:--:-3n-	O	
+13-35	for	for	T-:----:--:----	O	
+13-36	at	at	UI:----:--:----	O	
+13-37	sygne	sygne	VI:----:-a:----	O	
+13-38	hen	hen	D-:----:--:u---	O	
+13-39	i	i	T-:----:--:----	O	
+13-40	ghettoerne	ghetto	NC:pdu#:--:----	O	
+13-41	til	til	T-:----:--:----	O	
+13-42	uendelig	uendelig	AC:siuc:--:p---	O	
+13-43	skade	skade	NC:siuc:--:----	B-skade1-1	
+13-44	for	for	T-:----:--:----	O	
+13-45	integrationen	integration	NC:sduc:--:----	O	
+13-46	.	.	ZP	O	
+
+#id=14
+#text="En stor forkromet vækstpakke kan gøre mere skade end gavn", fastslog flertallet.
+14-1	"	"	ZI	O	
+14-2	En	en	PI:s-uc:--:----	O	
+14-3	stor	stor	AC:siuc:--:p---	O	
+14-4	forkromet	forkrome	VT:siu#:t-:----	O	
+14-5	vækstpakke	vækstpakke	NC:siuc:--:----	O	
+14-6	kan	kunne	VF:----:sa:----	O	
+14-7	gøre	gøre	VI:----:-a:----	O	
+14-8	mere	megen	AC:##u#:--:c---	O	
+14-9	skade	skade	NC:siuc:--:----	B-skade1-1	
+14-10	end	end	CS:----:--:----	O	
+14-11	gavn	gavn	NC:siuc:--:----	O	
+14-12	"	"	ZI	O	
+14-13	,	,	ZD	O	
+14-14	fastslog	fastslå	VF:----:ta:----	O	
+14-15	flertallet	flertal	NC:sdun:--:----	O	
+14-16	.	.	ZP	O	
+
+#id=15
+#text=Angrebsopbygningenvar ofte tilfældig og ustruktureret, og selv om AaB-forsvaret måske blev lidt rystet, da Karim Zaza måtte udgå med en skade, formåede hjemmeholdet ikke for alvor at komme i nærheden af et sejrsmål i slutfasen.
+15-1	Angrebsopbygningen	Angrebsopbygningen	NP:siu#:--:----	O	
+15-2	var	være	VF:----:ta:----	O	
+15-3	ofte	ofte	D-:----:--:u---	O	
+15-4	tilfældig	tilfældig	AC:siuc:--:p---	O	
+15-5	og	og	CC:----:--:----	O	
+15-6	ustruktureret	ustruktureret	AD:----:--:p---	O	
+15-7	,	,	ZD	O	
+15-8	og	og	CC:----:--:----	O	
+15-9	selv	selv	D-:----:--:u---	O	
+15-10	om	om	T-:----:--:----	O	
+15-11	AaB	AaB	NW:----:--:----	O	
+15-12	-	-	ZH	O	
+15-13	forsvaret	forsvar	NC:sdun:--:----	O	
+15-14	måske	måske	D-:----:--:u---	O	
+15-15	blev	blive	VF:----:ta:----	O	
+15-16	lidt	lidt	AD:----:--:p---	O	
+15-17	rystet	ryste	VT:siu#:t-:----	O	
+15-18	,	,	ZD	O	
+15-19	da	da	CS:----:--:----	O	
+15-20	Karim	Karim	NP:siu#:--:----	O	
+15-21	Zaza	Zaza	NP:siu#:--:----	O	
+15-22	måtte	måtte	VF:----:ta:----	O	
+15-23	udgå	udgå	VI:----:-a:----	O	
+15-24	med	med	T-:----:--:----	O	
+15-25	en	en	PI:s-uc:--:----	O	
+15-26	skade	skade	NC:siuc:--:----	B-skade1-1a	
+15-27	,	,	ZD	O	
+15-28	formåede	formå	VF:----:ta:----	O	
+15-29	hjemmeholdet	hjemmehold	NC:sdun:--:----	O	
+15-30	ikke	ikke	D-:----:--:u---	O	
+15-31	for	for	T-:----:--:----	O	
+15-32	alvor	alvor	NC:siuc:--:----	O	
+15-33	at	at	UI:----:--:----	O	
+15-34	komme	komme	VI:----:-a:----	O	
+15-35	i	i	T-:----:--:----	O	
+15-36	nærheden	nærhed	NC:sduc:--:----	O	
+15-37	af	af	T-:----:--:----	O	
+15-38	et	en	PI:s-un:--:----	O	
+15-39	sejrsmål	sejrsmål	NC:siun:--:----	O	
+15-40	i	i	T-:----:--:----	O	
+15-41	slutfasen	slutfase	NC:sduc:--:----	O	
+15-42	.	.	ZP	O	
+
+#id=16
+#text=Vi  ved også, at samme hurtigfærge var ude af drift i mere end en måned i 2008 pga. skader, og for os er det ligegyldigt, hvad årsagen er - det er usikkerheden, der betyder noget.
+16-1	Vi	vi	PP:p-nc:--:-1n-	O	
+16-2	ved	vide	VF:----:sa:----	O	
+16-3	også	også	D-:----:--:u---	O	
+16-4	,	,	ZD	O	
+16-5	at	at	CS:----:--:----	O	
+16-6	samme	samme	AC:§§u§:--:p---	O	
+16-7	hurtigfærge	hurtigfærge	NC:siuc:--:----	O	
+16-8	var	være	VF:----:ta:----	O	
+16-9	ude	ude	D-:----:--:u---	O	
+16-10	af	af	T-:----:--:----	O	
+16-11	drift	drift	NC:siuc:--:----	O	
+16-12	i	i	T-:----:--:----	O	
+16-13	mere	megen	AC:##u#:--:c---	O	
+16-14	end	end	CS:----:--:----	O	
+16-15	en	en	PI:s-uc:--:----	O	
+16-16	måned	måned	NC:siuc:--:----	O	
+16-17	i	i	T-:----:--:----	O	
+16-18	2008	2008	LC:--u-:--:----	O	
+16-19	pga	pga	T-:----:--:----	O	
+16-20	.	.	ZP	O	
+16-21	skader	skade	NC:piu#:--:----	B-skade1-1	
+16-22	,	,	ZD	O	
+16-23	og	og	CC:----:--:----	O	
+16-24	for	for	T-:----:--:----	O	
+16-25	os	vi	PP:p-uc:--:-1#-	O	
+16-26	er	være	VF:----:sa:----	O	
+16-27	det	det	PP:s-un:--:-3n-	O	
+16-28	ligegyldigt	ligegyldig	AC:siun:--:p---	O	
+16-29	,	,	ZD	O	
+16-30	hvad	hvad	PR:s-u#:--:----	O	
+16-31	årsagen	årsag	NC:sduc:--:----	O	
+16-32	er	være	VF:----:sa:----	O	
+16-33	-	-	NC:piu#:--:----	O	
+16-34	det	det	PP:s-un:--:-3n-	O	
+16-35	er	være	VF:----:sa:----	O	
+16-36	usikkerheden	usikkerhed	NC:sduc:--:----	O	
+16-37	,	,	ZD	O	
+16-38	der	der	US:----:--:----	O	
+16-39	betyder	betyde	VF:----:sa:----	O	
+16-40	noget	nogen	PI:s-un:--:----	O	
+16-41	.	.	ZP	O	
+
+#id=17
+#text=Ligesiden de gruopvækkende scener blev udspillet på det aldrende stadion, som allerede otte år tidligere i en anden semifinale mellem Tottenham og Wolverhampton havde dannet rammen om en yderst dramatisk episode, da 38 tilskuere kom til skade, har de været genstand for en stribe undersøgelser af både officiel og privat karakter.
+17-1	Lige	lige	D-:----:--:u---	O	
+17-2	siden	siden	T-:----:--:----	O	
+17-3	de	den	PM:p-u#:--:----	O	
+17-4	gruopvækkende	gruopvækkende	AC:§§u§:--:p---	O	
+17-5	scener	scene	NC:piu#:--:----	O	
+17-6	blev	blive	VF:----:ta:----	O	
+17-7	udspillet	udspille	VT:siu#:t-:----	O	
+17-8	på	på	T-:----:--:----	O	
+17-9	det	den	PM:s-un:--:----	O	
+17-10	aldrende	aldrende	AC:§§u§:--:p---	O	
+17-11	stadion	stadion	NC:siun:--:----	O	
+17-12	,	,	ZD	O	
+17-13	som	som	US:----:--:----	O	
+17-14	allerede	allerede	D-:----:--:u---	O	
+17-15	otte	otte	LC:--u-:--:----	O	
+17-16	år	år	NC:piu#:--:----	O	
+17-17	tidligere	tidlig	AD:----:--:c---	O	
+17-18	i	i	T-:----:--:----	O	
+17-19	en	en	PI:s-uc:--:----	O	
+17-20	anden	anden	PI:s-uc:--:----	O	
+17-21	semifinale	semifinale	NC:siuc:--:----	O	
+17-22	mellem	mellem	T-:----:--:----	O	
+17-23	Tottenham	Tottenham	NP:siu#:--:----	O	
+17-24	og	og	CC:----:--:----	O	
+17-25	Wolverhampton	Wolverhampton	NP:siu#:--:----	O	
+17-26	havde	have	VF:----:ta:----	O	
+17-27	dannet	danne	VT:siu#:t-:----	O	
+17-28	rammen	ramme	NC:sduc:--:----	O	
+17-29	om	om	T-:----:--:----	O	
+17-30	en	en	PI:s-uc:--:----	O	
+17-31	yderst	yderst	AD:----:--:p---	O	
+17-32	dramatisk	dramatisk	AC:siu§:--:p---	O	
+17-33	episode	episode	NC:siuc:--:----	O	
+17-34	,	,	ZD	O	
+17-35	da	da	CS:----:--:----	O	
+17-36	38	38	LC:--u-:--:----	O	
+17-37	tilskuere	tilskuer	NC:piu#:--:----	O	
+17-38	kom	komme	VF:----:ta:----	O	
+17-39	til	til	T-:----:--:----	O	
+17-40	skade	skade	NC:siuc:--:----	B-skade-F-komme-til-skade	
+17-41	,	,	ZD	O	
+17-42	har	have	VF:----:sa:----	O	
+17-43	de	de	PP:p-n#:--:-3n-	O	
+17-44	været	være	VT:siu#:t-:----	O	
+17-45	genstand	genstand	NC:siuc:--:----	O	
+17-46	for	for	T-:----:--:----	O	
+17-47	en	en	PI:s-uc:--:----	O	
+17-48	stribe	stribe	NC:siuc:--:----	O	
+17-49	undersøgelser	undersøgelse	NC:piu#:--:----	O	
+17-50	af	af	T-:----:--:----	O	
+17-51	både	både	D-:----:--:u---	O	
+17-52	officiel	officiel	AC:siuc:--:p---	O	
+17-53	og	og	CC:----:--:----	O	
+17-54	privat	privat	AC:siu§:--:p---	O	
+17-55	karakter	karakter	NC:siuc:--:----	O	
+17-56	.	.	ZP	O	
+
+#id=18
+#text=De seneste år har været hårde for verdensranglistens tidligere førstemand Lleyton Hewitt, hvor skader og sportslig nedtur har stjålet overskrifterne.
+18-1	De	den	PM:p-u#:--:----	O	
+18-2	seneste	sen	AC:§du§:--:s---	O	
+18-3	år	år	NC:siun:--:----	O	
+18-4	har	have	VF:----:sa:----	O	
+18-5	været	være	VT:siu#:t-:----	O	
+18-6	hårde	hård	AC:p#u#:--:p---	O	
+18-7	for	for	T-:----:--:----	O	
+18-8	verdensranglistens	verdensrangliste	NC:sdgc:--:----	O	
+18-9	tidligere	tidlig	AD:----:--:c---	O	
+18-10	førstemand	førstemand	NC:siuc:--:----	O	
+18-11	Lleyton	Lleyton	NP:siu#:--:----	O	
+18-12	Hewitt	Hewitt	NP:siu#:--:----	O	
+18-13	,	,	ZD	O	
+18-14	hvor	hvor	D-:----:--:u---	O	
+18-15	skader	skade	NC:piu#:--:----	B-skade1-1a	
+18-16	og	og	CC:----:--:----	O	
+18-17	sportslig	sportslig	AC:siuc:--:p---	O	
+18-18	nedtur	nedtur	NC:siuc:--:----	O	
+18-19	har	have	VF:----:sa:----	O	
+18-20	stjålet	stjæle	VT:siu#:t-:----	O	
+18-21	overskrifterne	overskrift	NC:pdu#:--:----	O	
+18-22	.	.	ZP	O	
+
+#id=19
+#text="Til min undersøgelse lavede jeg også et scoresystem, så man kan notere flamingoernes skader og sammenligne dem.
+19-1	"	"	ZI	O	
+19-2	Til	til	T-:----:--:----	O	
+19-3	min	min	PO:s--c:--:-1ns	O	
+19-4	undersøgelse	undersøgelse	NC:siuc:--:----	O	
+19-5	lavede	lave	VF:----:ta:----	O	
+19-6	jeg	jeg	PP:s-nc:--:-1n-	O	
+19-7	også	også	D-:----:--:u---	O	
+19-8	et	en	PI:s-un:--:----	O	
+19-9	scoresystem	scoresystem	NC:siun:--:----	O	
+19-10	,	,	ZD	O	
+19-11	så	så	CS:----:--:----	O	
+19-12	man	man	PI:#-uc:--:----	O	
+19-13	kan	kunne	VF:----:sa:----	O	
+19-14	notere	notere	VI:----:-a:----	O	
+19-15	flamingoernes	flamingo	NC:pdg#:--:----	O	
+19-16	skader	skade	NC:piu#:--:----	B-skade1-1a	
+19-17	og	og	CC:----:--:----	O	
+19-18	sammenligne	sammenligne	VI:----:-a:----	O	
+19-19	dem	de	PP:p-u#:--:-3n-	O	
+19-20	.	.	ZP	O	
+
+#id=20
+#text=For det første slipper de for at bruge energi på selv at finde maden, og de undgår i nogen udstrækning at komme til skade ved selv at jage.
+20-1	For	for	T-:----:--:----	O	
+20-2	det	den	PM:s-un:--:----	O	
+20-3	første	første	AC:§§u§:--:p---	O	
+20-4	slipper	slippe	VF:----:sa:----	O	
+20-5	de	de	PP:p-n#:--:-3n-	O	
+20-6	for	for	T-:----:--:----	O	
+20-7	at	at	UI:----:--:----	O	
+20-8	bruge	bruge	VI:----:-a:----	O	
+20-9	energi	energi	NC:siuc:--:----	O	
+20-10	på	på	T-:----:--:----	O	
+20-11	selv	selv	D-:----:--:u---	O	
+20-12	at	at	UI:----:--:----	O	
+20-13	finde	finde	VI:----:-a:----	O	
+20-14	maden	mad	NC:sduc:--:----	O	
+20-15	,	,	ZD	O	
+20-16	og	og	CC:----:--:----	O	
+20-17	de	de	PP:p-n#:--:-3n-	O	
+20-18	undgår	undgå	VF:----:sa:----	O	
+20-19	i	i	T-:----:--:----	O	
+20-20	nogen	nogen	PI:s-uc:--:----	O	
+20-21	udstrækning	udstrækning	NC:siuc:--:----	O	
+20-22	at	at	UI:----:--:----	O	
+20-23	komme	komme	VI:----:-a:----	O	
+20-24	til	til	T-:----:--:----	O	
+20-25	skade	skade	NC:siuc:--:----	B-skade-F-komme-til-skade	
+20-26	ved	vide	VF:----:sa:----	O	
+20-27	selv	selv	PM:#-u#:--:----	O	
+20-28	at	at	UI:----:--:----	O	
+20-29	jage	jage	VI:----:-a:----	O	
+20-30	.	.	ZP	O	
+
+#id=21
+#text=Detvar imidlertid ikke de nye beboere, der gjorde størst skade på den oprindelige natur i denne periode:
+21-1	Det	det	PP:s-un:--:-3n-	O	
+21-2	var	være	VF:----:ta:----	O	
+21-3	imidlertid	imidlertid	D-:----:--:u---	O	
+21-4	ikke	ikke	D-:----:--:u---	O	
+21-5	de	den	:p-u#:--:----	O	
+21-6	nye	ny	AC:p#u#:--:p---	O	
+21-7	beboere	beboer	NC:piu#:--:----	O	
+21-8	,	,	ZD	O	
+21-9	der	der	US:----:--:----	O	
+21-10	gjorde	gøre	VF:----:ta:----	O	
+21-11	størst	stor	AD:----:--:s---	O	
+21-12	skade	skade	NC:siuc:--:----	B-skade1-1	
+21-13	på	på	T-:----:--:----	O	
+21-14	den	den	PM:s-uc:--:----	O	
+21-15	oprindelige	oprindelig	AC:sdu#:--:p---	O	
+21-16	natur	natur	NC:siuc:--:----	O	
+21-17	i	i	T-:----:--:----	O	
+21-18	denne	denne	PM:s-uc:--:----	O	
+21-19	periode	periode	NC:siuc:--:----	O	
+21-20	:	:	ZP	O	
+
+#id=22
+#text=Mangetermitarter lever nemlig af træ og forårsager hvert år skader for flere milliarder kroner på verdensplan.
+22-1	Mange	mangen	AC:p#u#:--:p---	O	
+22-2	termitarter	termitart	NC:piu#:--:----	O	
+22-3	lever	leve	VF:----:sa:----	O	
+22-4	nemlig	nemlig	D-:----:--:u---	O	
+22-5	af	af	T-:----:--:----	O	
+22-6	træ	træ	NC:siun:--:----	O	
+22-7	og	og	CC:----:--:----	O	
+22-8	forårsager	forårsage	VF:----:sa:----	O	
+22-9	hvert	hver	PI:s-un:--:----	O	
+22-10	år	år	NC:siun:--:----	O	
+22-11	skader	skade	NC:piu#:--:----	B-skade1-1	
+22-12	for	for	T-:----:--:----	O	
+22-13	flere	mange	AC:##u#:--:c---	O	
+22-14	milliarder	milliard	NC:piu#:--:----	O	
+22-15	kroner	krone	NC:piu#:--:----	O	
+22-16	på	på	T-:----:--:----	O	
+22-17	verdensplan	verdensplan	NC:siun:--:----	O	
+22-18	.	.	ZP	O	
+
+#id=23
+#text=Nårskader opstår i hjernen, vil nerveceller (neuroner)
+23-1	Når	når	CS:----:--:----	O	
+23-2	skader	skade	NC:piu#:--:----	B-skade1-1a	
+23-3	opstår	opstå	VF:----:sa:----	O	
+23-4	i	i	T-:----:--:----	O	
+23-5	hjernen	hjerne	NC:sduc:--:----	O	
+23-6	,	,	ZD	O	
+23-7	vil	ville	VF:----:sa:----	O	
+23-8	nerveceller	nervecelle	NC:piu#:--:----	O	
+23-9	(	(	ZD	O	
+23-10	neuroner	neuron	NC:piu#:--:----	O	
+23-11	)	)	ZD	O	
+
+#id=24
+#text=Enforståelse af disse mekanismer vil være en ny basis for at genskabe nervecelleforbindelser, som ellers var ødelagte som følge af skader i hjernen.
+24-1	En	en	PI:s-uc:--:----	O	
+24-2	forståelse	forståelse	NC:siuc:--:----	O	
+24-3	af	af	T-:----:--:----	O	
+24-4	disse	denne	PM:p-u#:--:----	O	
+24-5	mekanismer	mekanisme	NC:piu#:--:----	O	
+24-6	vil	ville	VF:----:sa:----	O	
+24-7	være	være	VI:----:-a:----	O	
+24-8	en	en	PI:s-uc:--:----	O	
+24-9	ny	ny	AC:siuc:--:p---	O	
+24-10	basis	basis	NC:siuc:--:----	O	
+24-11	for	for	T-:----:--:----	O	
+24-12	at	at	UI:----:--:----	O	
+24-13	genskabe	genskabe	VI:----:-a:----	O	
+24-14	nervecelleforbindelser	nervecelleforbindelse	NC:piu#:--:----	O	
+24-15	,	,	ZD	O	
+24-16	som	som	US:----:--:----	O	
+24-17	ellers	ellers	D-:----:--:u---	O	
+24-18	var	var	XY:----:--:----	O	
+24-19	ødelagte	ødelægge	VP:sdu#:t-:----	O	
+24-20	som	som	US:----:--:----	O	
+24-21	følge	følge	NC:siuc:--:----	O	
+24-22	af	af	T-:----:--:----	O	
+24-23	skader	skade	NC:piu#:--:----	B-skade1-1a	
+24-24	i	i	T-:----:--:----	O	
+24-25	hjernen	hjerne	NC:sduc:--:----	O	
+24-26	.	.	ZP	O	
+
+#id=25
+#text=General Motors ønsker en hurtig restrukturering, så selskabets image og salg ikke tager skade.
+25-1	General	General	NP:siu#:--:----	O	
+25-2	Motors	Motors	NP:siu#:--:----	O	
+25-3	ønsker	ønske	VF:----:sa:----	O	
+25-4	en	en	PI:s-uc:--:----	O	
+25-5	hurtig	hurtig	AC:siuc:--:p---	O	
+25-6	restrukturering	restrukturering	NC:siuc:--:----	O	
+25-7	,	,	ZD	O	
+25-8	så	så	CS:----:--:----	O	
+25-9	selskabets	selskab	NC:sdgn:--:----	O	
+25-10	image	image	NC:siun:--:----	O	
+25-11	og	og	CC:----:--:----	O	
+25-12	salg	salg	NC:piu#:--:----	O	
+25-13	ikke	ikke	D-:----:--:u---	O	
+25-14	tager	tage	VF:----:sa:----	O	
+25-15	skade	skade	NC:siuc:--:----	B-skade-F-tage/lide-skade	
+25-16	.	.	ZP	O	
+
+#id=26
+#text=Dermed fik Simon gjort skaden god efter at have været impliceret i Lecces 1-1-udligning.
+26-1	Dermed	dermed	D-:----:--:u---	O	
+26-2	fik	få	VF:----:ta:----	O	
+26-3	Simon	Simon	NP:siu#:--:----	O	
+26-4	gjort	gøre	VT:siu#:t-:----	O	
+26-5	skaden	skade	NC:sduc:--:----	B-skade1-1	
+26-6	god	god	AC:siuc:--:p---	O	
+26-7	efter	efter	T-:----:--:----	O	
+26-8	at	at	UI:----:--:----	O	
+26-9	have	have	VI:----:-a:----	O	
+26-10	været	være	VT:siu#:t-:----	O	
+26-11	impliceret	implicere	VT:siu#:t-:----	O	
+26-12	i	i	T-:----:--:----	O	
+26-13	Lecces	Lecces	NP:sig#:--:----	O	
+26-14	1	1	LW:----:--:----	O	
+26-15	-	-	ZH	O	
+26-16	1	1	LW:----:--:----	O	
+26-17	-	-	ZH	O	
+26-18	udligning	udligning	NC:siuc:--:----	O	
+26-19	.	.	ZP	O	
+
+#id=27
+#text=eks. have været tale om skjulte mangler ved flytypen eller skader på flyet som følge af sabotage-eller terrorhandlinger.
+27-1	eks	eksempel	NC:siun:--:----	O	
+27-2	.	.	ZP	O	
+27-3	have	have	VI:----:-a:----	O	
+27-4	været	være	VT:siu#:t-:----	O	
+27-5	tale	tale	NC:siuc:--:----	O	
+27-6	om	om	T-:----:--:----	O	
+27-7	skjulte	skjult	AC:p#u#:--:p---	O	
+27-8	mangler	mangel	NC:piu#:--:----	O	
+27-9	ved	ved	T-:----:--:----	O	
+27-10	flytypen	flytype	NC:sduc:--:----	O	
+27-11	eller	eller	CC:----:--:----	O	
+27-12	skader	skade	NC:piu#:--:----	B-skade1-1	
+27-13	på	på	T-:----:--:----	O	
+27-14	flyet	fly	NC:sdun:--:----	O	
+27-15	som	som	US:----:--:----	O	
+27-16	følge	følge	NC:siuc:--:----	O	
+27-17	af	af	T-:----:--:----	O	
+27-18	sabotage	sabotage	NW:----:--:----	O	
+27-19	-	-	ZH	O	
+27-20	eller	eller	CC:----:--:----	O	
+27-21	terrorhandlinger	terrorhandling	NC:piu#:--:----	O	
+27-22	.	.	ZP	O	
+
+#id=28
+#text=Hvis vildkaniner gør påviselig skade, må de reguleres, som det hedder, endda hele året.
+28-1	Hvis	hvis	CS:----:--:----	O	
+28-2	vildkaniner	vildkanin	NC:piu#:--:----	O	
+28-3	gør	gøre	VF:----:sa:----	O	
+28-4	påviselig	påviselig	AC:siuc:--:p---	O	
+28-5	skade	skade	NC:siuc:--:----	B-skade1-1	
+28-6	,	,	ZD	O	
+28-7	må	måtte	VF:----:sa:----	O	
+28-8	de	de	PP:p-n#:--:-3n-	O	
+28-9	reguleres	regulere	VF:----:sp:----	O	
+28-10	,	,	ZD	O	
+28-11	som	som	US:----:--:----	O	
+28-12	det	det	PP:s-un:--:-3n-	O	
+28-13	hedder	hedde	VF:----:sa:----	O	
+28-14	,	,	ZD	O	
+28-15	endda	endda	D-:----:--:u---	O	
+28-16	hele	hel	AC:sdu#:--:p---	O	
+28-17	året	år	NC:sdun:--:----	O	
+28-18	.	.	ZP	O	
+
+#id=29
+#text="Liebermanvolder ubodelig skade på Israels forhold til verden", fastslog Johanan Plesner fra Kadima.
+29-1	"	"	ZI	O	
+29-2	Lieberman	Lieberman	NP:siu#:--:----	O	
+29-3	volder	volde	VF:----:sa:----	O	
+29-4	ubodelig	ubodelig	AC:siuc:--:p---	O	
+29-5	skade	skade	NC:siuc:--:----	B-skade1-1	
+29-6	på	på	T-:----:--:----	O	
+29-7	Israels	Israel	NP:sig#:--:----	O	
+29-8	forhold	forhold	NC:siun:--:----	O	
+29-9	til	til	T-:----:--:----	O	
+29-10	verden	verden	NC:siuc:--:----	O	
+29-11	"	"	ZI	O	
+29-12	,	,	ZD	O	
+29-13	fastslog	fastslå	VF:----:ta:----	O	
+29-14	Johanan	Johanan	NP:siu#:--:----	O	
+29-15	Plesner	Plesner	NP:siu#:--:----	O	
+29-16	fra	fra	T-:----:--:----	O	
+29-17	Kadima	Kadima	NP:siu#:--:----	O	
+29-18	.	.	ZP	O	
+
+#id=30
+#text=Eftersigende har hendes holdkammerater mere end en enkelt gang bandet fælt af ærgrelse, når de måtte halse tilbage i forsvaret for at begrænse skaderne efter et boldtab, der ene og alene skyldtes, at teknikken ikke levede op til ambitionerne.
+30-1	Efter	efter	T-:----:--:----	O	
+30-2	sigende	sige	VP:##u#:s-:----	O	
+30-3	har	have	VF:----:sa:----	O	
+30-4	hendes	hendes	PO:#--#:--:-3ns	O	
+30-5	holdkammerater	holdkammerat	NC:piu#:--:----	O	
+30-6	mere	megen	AD:----:--:c---	O	
+30-7	end	end	CS:----:--:----	O	
+30-8	en	en	PI:s-uc:--:----	O	
+30-9	enkelt	enkelt	AC:siu§:--:p---	O	
+30-10	gang	gang	NC:siuc:--:----	O	
+30-11	bandet	bande	VT:siu#:t-:----	O	
+30-12	fælt	fæl	AD:----:--:p---	O	
+30-13	af	af	T-:----:--:----	O	
+30-14	ærgrelse	ærgrelse	NC:siuc:--:----	O	
+30-15	,	,	ZD	O	
+30-16	når	når	CS:----:--:----	O	
+30-17	de	de	PP:p-n#:--:-3n-	O	
+30-18	måtte	måtte	VF:----:ta:----	O	
+30-19	halse	halse	VI:----:-a:----	O	
+30-20	tilbage	tilbage	D-:----:--:u---	O	
+30-21	i	i	T-:----:--:----	O	
+30-22	forsvaret	forsvar	NC:sdun:--:----	O	
+30-23	for	for	T-:----:--:----	O	
+30-24	at	at	UI:----:--:----	O	
+30-25	begrænse	begrænse	VI:----:-a:----	O	
+30-26	skaderne	skade	NC:pdu#:--:----	B-skade1-1	
+30-27	efter	efter	T-:----:--:----	O	
+30-28	et	en	PI:s-un:--:----	O	
+30-29	boldtab	boldtab	NC:siun:--:----	O	
+30-30	,	,	ZD	O	
+30-31	der	der	US:----:--:----	O	
+30-32	ene	ene	AC:§§u§:--:p---	O	
+30-33	og	og	CC:----:--:----	O	
+30-34	alene	alene	D-:----:--:u---	O	
+30-35	skyldtes	skylde	VF:----:tp:----	O	
+30-36	,	,	ZD	O	
+30-37	at	at	CS:----:--:----	O	
+30-38	teknikken	teknik	NC:sduc:--:----	O	
+30-39	ikke	ikke	D-:----:--:u---	O	
+30-40	levede	leve	VF:----:ta:----	O	
+30-41	op	op	D-:----:--:u---	O	
+30-42	til	til	T-:----:--:----	O	
+30-43	ambitionerne	ambition	NC:pdu#:--:----	O	
+30-44	.	.	ZP	O	
+
+#id=31
+#text="Mendet er nok heller ikke nogen skade til.
+31-1	"	"	ZI	O	
+31-2	Men	men	CC:----:--:----	O	
+31-3	det	det	PP:s-un:--:-3n-	O	
+31-4	er	være	VF:----:sa:----	O	
+31-5	nok	nok	D-:----:--:u---	O	
+31-6	heller	heller	D-:----:--:u---	O	
+31-7	ikke	ikke	D-:----:--:u---	O	
+31-8	nogen	nogen	PI:s-uc:--:----	O	
+31-9	skade	skade	NC:siuc:--:----	B-skade-F-det-er-ingen-skade-til	
+31-10	til	til	T-:----:--:----	O	
+31-11	.	.	ZP	O	
+
+#id=32
+#text=Sidsteår kom Nils Bernstein for skade at sige, at det ville være sundt med nogle flere arbejdsløse.
+32-1	Sidste	sidste	AC:§§u§:--:p---	O	
+32-2	år	år	NC:siun:--:----	O	
+32-3	kom	komme	VF:----:ta:----	O	
+32-4	Nils	Nils	NP:siu#:--:----	O	
+32-5	Bernstein	Bernstein	NP:siu#:--:----	O	
+32-6	for	for	T-:----:--:----	O	
+32-7	skade	skade	NC:siuc:--:----	B-skade1-1	
+32-8	at	at	UI:----:--:----	O	
+32-9	sige	sige	VI:----:-a:----	O	
+32-10	,	,	ZD	O	
+32-11	at	at	CS:----:--:----	O	
+32-12	det	det	PP:s-un:--:-3n-	O	
+32-13	ville	ville	VF:----:ta:----	O	
+32-14	være	være	VI:----:-a:----	O	
+32-15	sundt	sund	AD:----:--:p---	O	
+32-16	med	med	T-:----:--:----	O	
+32-17	nogle	nogen	PI:p-u#:--:----	O	
+32-18	flere	mange	AC:##u#:--:c---	O	
+32-19	arbejdsløse	arbejdsløs	AC:p#u#:--:p---	O	
+32-20	.	.	ZP	O	
+
+#id=33
+#text=Dendanske landsholdsanfører kommer ikke med i landsholdets næste to VMkvalifikationskampe på udebane mod Malta og i Parken mod Albanien på grund af en skade.
+33-1	Den	den	PM:s-uc:--:----	O	
+33-2	danske	dansk	AC:sdu#:--:p---	O	
+33-3	landsholdsanfører	landsholdsanfører	NC:siuc:--:----	O	
+33-4	kommer	komme	VF:----:sa:----	O	
+33-5	ikke	ikke	D-:----:--:u---	O	
+33-6	med	med	D-:----:--:u---	O	
+33-7	i	i	T-:----:--:----	O	
+33-8	landsholdets	landshold	NC:sdgn:--:----	O	
+33-9	næste	næste	AC:§§u§:--:p---	O	
+33-10	to	to	LC:--u-:--:----	O	
+33-11	VMkvalifikationskampe	VMkvalifikationskampe	NP:siu#:--:----	O	
+33-12	på	på	T-:----:--:----	O	
+33-13	udebane	udebane	NC:siuc:--:----	O	
+33-14	mod	mod	T-:----:--:----	O	
+33-15	Malta	Malta	NP:siu#:--:----	O	
+33-16	og	og	CC:----:--:----	O	
+33-17	i	i	T-:----:--:----	O	
+33-18	Parken	park	NC:sduc:--:----	O	
+33-19	mod	mod	T-:----:--:----	O	
+33-20	Albanien	Albanien	NP:siu#:--:----	O	
+33-21	på	på	T-:----:--:----	O	
+33-22	grund	grund	NC:siuc:--:----	O	
+33-23	af	af	T-:----:--:----	O	
+33-24	en	en	PI:s-uc:--:----	O	
+33-25	skade	skade	NC:siuc:--:----	B-skade1-1a	
+33-26	.	.	ZP	O	
+
+#id=34
+#text="Jeger helt nede over det", siger Jon Dahl Tomasson om skaden.
+34-1	"	"	ZI	O	
+34-2	Jeg	jeg	PP:s-nc:--:-1n-	O	
+34-3	er	være	VF:----:sa:----	O	
+34-4	helt	hel	AD:----:--:p---	O	
+34-5	nede	nede	D-:----:--:u---	O	
+34-6	over	over	T-:----:--:----	O	
+34-7	det	den	PM:s-un:--:----	O	
+34-8	"	"	ZI	O	
+34-9	,	,	ZD	O	
+34-10	siger	sige	VF:----:sa:----	O	
+34-11	Jon	Jon	NP:siu#:--:----	O	
+34-12	Dahl	Dahl	NP:siu#:--:----	O	
+34-13	Tomasson	Tomasson	NP:siu#:--:----	O	
+34-14	om	om	T-:----:--:----	O	
+34-15	skaden	skade	NC:sduc:--:----	B-skade1-1a	
+34-16	.	.	ZP	O	
+
+#id=35
+#text="Derkan nå at ske meget med skader, og én mister måske lysten.
+35-1	"	"	ZI	O	
+35-2	Der	der	US:----:--:----	O	
+35-3	kan	kunne	VF:----:sa:----	O	
+35-4	nå	nå	VI:----:-a:----	O	
+35-5	at	at	UI:----:--:----	O	
+35-6	ske	ske	VI:----:-a:----	O	
+35-7	meget	megen	AD:----:--:p---	O	
+35-8	med	med	T-:----:--:----	O	
+35-9	skader	skade	----	B-skade1-1a	
+35-10	,	,	ZD	O	
+35-11	og	og	CC:----:--:----	O	
+35-12	én	en	PI:s-uc:--:----	O	
+35-13	mister	miste	VF:----:sa:----	O	
+35-14	måske	måske	D-:----:--:u---	O	
+35-15	lysten	lysten	AC:siuc:--:p---	O	
+35-16	.	.	ZP	O	
+
+#id=36
+#text=Ofte så voldeligt, at hun kom alvorligt til skade.
+36-1	Ofte	e	D-:----:--:u---	O	
+36-2	så	så	D-:----:--:u---	O	
+36-3	voldeligt	voldelig	AC:siun:--:p---	O	
+36-4	,	,	ZD	O	
+36-5	at	at	CS:----:--:----	O	
+36-6	hun	hun	PP:s-nc:--:-3n-	O	
+36-7	kom	komme	VF:----:ta:----	O	
+36-8	alvorligt	alvorlig	AD:----:--:p---	O	
+36-9	til	til	T-:----:--:----	O	
+36-10	skade	skade	NC:siuc:--:----	B-skade-F-komme-til-skade	
+36-11	.	.	ZP	O	
+
+#id=37
+#text=sige, at vi undgår mange skader hos stamspillerne".
+37-1	sige	sige	VI:----:-a:----	O	
+37-2	,	,	ZD	O	
+37-3	at	at	CS:----:--:----	O	
+37-4	vi	vi	PP:p-nc:--:-1n-	O	
+37-5	undgår	undgå	VF:----:sa:----	O	
+37-6	mange	mangen	AC:p#u#:--:p---	O	
+37-7	skader	skade	NC:piu#:--:----	B-skade1-1a	
+37-8	hos	hos	T-:----:--:----	O	
+37-9	stamspillerne	stamspiller	NC:pdu#:--:----	O	
+37-10	"	"	ZI	O	
+37-11	.	.	ZP	O	
+
+#id=38
+#text=Deter meget bittert med en skade lige nu, efter at det er gået rigtig godt for mig i Feyenoords kampe de seneste uger.
+38-1	Det	det	PP:s-un:--:-3n-	O	
+38-2	er	være	VF:----:sa:----	O	
+38-3	meget	megen	AD:----:--:p---	O	
+38-4	bittert	bitter	AD:----:--:p---	O	
+38-5	med	med	T-:----:--:----	O	
+38-6	en	en	PI:s-uc:--:----	O	
+38-7	skade	skade	NC:siuc:--:----	B-skade1-1a	
+38-8	lige	lige	D-:----:--:u---	O	
+38-9	nu	nu	D-:----:--:u---	O	
+38-10	,	,	ZD	O	
+38-11	efter	efter	CS:----:--:----	O	
+38-12	at	at	CS:----:--:----	O	
+38-13	det	det	PP:s-un:--:-3n-	O	
+38-14	er	være	VF:----:sa:----	O	
+38-15	gået	gå	VT:siu#:t-:----	O	
+38-16	rigtig	rigtig	AD:----:--:p---	O	
+38-17	godt	god	AD:----:--:p---	O	
+38-18	for	for	T-:----:--:----	O	
+38-19	mig	jeg	PP:s-uc:--:-1#-	O	
+38-20	i	i	T-:----:--:----	O	
+38-21	Feyenoords	Feyenoords	NP:sig#:--:----	O	
+38-22	kampe	kamp	NC:piu#:--:----	O	
+38-23	de	de	NP:siu#:--:----	O	
+38-24	seneste	seneste	XY:----:--:----	O	
+38-25	uger	uge	NC:piu#:--:----	O	
+38-26	.	.	ZP	O	
+
+#id=39
+#text=Hvistræerne er sunde, behøver skaderne ved beskæring ikke være store, men er der tale om et gammelt eller udsat træ, kan de risikere at kollapse selv i stille vejr.
+39-1	Hvis	hvis	CS:----:--:----	O	
+39-2	træerne	træ	NC:pdu#:--:----	O	
+39-3	er	være	VF:----:sa:----	O	
+39-4	sunde	sund	AC:p#u#:--:p---	O	
+39-5	,	,	ZD	O	
+39-6	behøver	behøve	VF:----:sa:----	O	
+39-7	skaderne	skade	NC:pdu#:--:----	B-skade1-1	
+39-8	ved	ved	T-:----:--:----	O	
+39-9	beskæring	beskæring	NC:siuc:--:----	O	
+39-10	ikke	ikke	D-:----:--:u---	O	
+39-11	være	være	VI:----:-a:----	O	
+39-12	store	stor	AC:p#u#:--:p---	O	
+39-13	,	,	ZD	O	
+39-14	men	men	CC:----:--:----	O	
+39-15	er	være	VF:----:sa:----	O	
+39-16	der	der	US:----:--:----	O	
+39-17	tale	tale	NC:siuc:--:----	O	
+39-18	om	om	----:--:----	O	
+39-19	et	en	PI:s-un:--:----	O	
+39-20	gammelt	gammel	AC:siun:--:p---	O	
+39-21	eller	eller	CC:----:--:----	O	
+39-22	udsat	udsat	AC:siu§:--:p---	O	
+39-23	træ	træ	NC:siun:--:----	O	
+39-24	,	,	ZD	O	
+39-25	kan	kunne	VF:----:sa:----	O	
+39-26	de	de	PP:p-n#:--:-3n-	O	
+39-27	risikere	risikere	VI:----:-a:----	O	
+39-28	at	at	UI:----:--:----	O	
+39-29	kollapse	kollapse	VI:----:-a:----	O	
+39-30	selv	selv	D-:----:--:u---	O	
+39-31	i	i	T-:----:--:----	O	
+39-32	stille	stille	AC:§§u§:--:p---	O	
+39-33	vejr	vejr	NC:siun:--:----	O	
+39-34	.	.	ZP	O	
+
+#id=40
+#text=Nævnethar behandlet sagen, efter at fugleejeren havde klaget over at få nej fra sit forsikringsselskab til erstatning, da det ikke mente, at fuglene var døde af en pludselig skade.
+40-1	Nævnet	nævn	NC:sdun:--:----	O	
+40-2	har	have	VF:----:sa:----	O	
+40-3	behandlet	behandle	VT:siu#:t-:----	O	
+40-4	sagen	sag	NC:sduc:--:----	O	
+40-5	,	,	ZD	O	
+40-6	efter	efter	CS:----:--:----	O	
+40-7	at	at	CS:----:--:----	O	
+40-8	fugleejeren	fugleejer	NC:sduc:--:----	O	
+40-9	havde	have	VF:----:ta:----	O	
+40-10	klaget	klage	VT:siu#:t-:----	O	
+40-11	over	over	T-:----:--:----	O	
+40-12	at	at	UI:----:--:----	O	
+40-13	få	få	VI:----:-a:----	O	
+40-14	nej	nej	NC:siun:--:----	O	
+40-15	fra	fra	T-:----:--:----	O	
+40-16	sit	sin	PO:s--n:--:-3ys	O	
+40-17	forsikringsselskab	forsikringsselskab	NC:siun:--:----	O	
+40-18	til	til	T-:----:--:----	O	
+40-19	erstatning	erstatning	NC:siuc:--:----	O	
+40-20	,	,	ZD	O	
+40-21	da	da	CS:----:--:----	O	
+40-22	det	det	PP:s-un:--:-3n-	O	
+40-23	ikke	ikke	D-:----:--:u---	O	
+40-24	mente	mene	VF:----:ta:----	O	
+40-25	,	,	ZD	O	
+40-26	at	at	CS:----:--:----	O	
+40-27	fuglene	fugl	NC:pdu#:--:----	O	
+40-28	var	være	VF:----:ta:----	O	
+40-29	døde	død	AC:p#u#:--:p---	O	
+40-30	af	af	T-:----:--:----	O	
+40-31	en	en	PI:s-uc:--:----	O	
+40-32	pludselig	pludselig	AC:siuc:--:p---	O	
+40-33	skade	skade	NC:siuc:--:----	B-skade1-1a	
+40-34	.	.	ZP	O	
+
+#id=41
+#text=Da fuglene næsten ingen gas kan tåle, skrev fugleentusiasten til sit forsikringsselskab, at der var tale om en pludselig skade.
+41-1	Da	da	CS:----:--:----	O	
+41-2	fuglene	fugl	NC:pdu#:--:----	O	
+41-3	næsten	næsten	D-:----:--:u---	O	
+41-4	ingen	ingen	PI:s-uc:--:----	O	
+41-5	gas	gas	NC:siuc:--:----	O	
+41-6	kan	kunne	VF:----:sa:----	O	
+41-7	tåle	tåle	VI:----:-a:----	O	
+41-8	,	,	ZD	O	
+41-9	skrev	skrive	VF:----:ta:----	O	
+41-10	fugleentusiasten	fugleentusiast	NC:sduc:--:----	O	
+41-11	til	til	T-:----:--:----	O	
+41-12	sit	sin	PO:s--n:--:-3ys	O	
+41-13	forsikringsselskab	forsikringsselskab	NC:siun:--:----	O	
+41-14	,	,	ZD	O	
+41-15	at	at	CS:----:--:----	O	
+41-16	der	der	US:----:--:----	O	
+41-17	var	være	VF:----:ta:----	O	
+41-18	tale	tale	VI:----:-a:----	O	
+41-19	om	om	T-:----:--:----	O	
+41-20	en	en	PI:s-uc:--:----	O	
+41-21	pludselig	pludselig	AC:siuc:--:p---	O	
+41-22	skade	skade	NC:siuc:--:----	B-skade1-1a	
+41-23	.	.	ZP	O	
+
+#id=42
+#text=Menen gasforgiftning er en pludselig skade, har ankenævnet nu slået fast.
+42-1	Men	men	CC:----:--:----	O	
+42-2	en	en	PI:s-uc:--:----	O	
+42-3	gasforgiftning	gasforgiftning	NC:siuc:--:----	O	
+42-4	er	være	VF:----:sa:----	O	
+42-5	en	en	PI:s-uc:--:----	O	
+42-6	pludselig	pludselig	AC:siuc:--:p---	O	
+42-7	skade	skade	NC:siuc:--:----	B-skade1-1a	
+42-8	,	,	ZD	O	
+42-9	har	have	VF:----:sa:----	O	
+42-10	ankenævnet	ankenævn	NC:sdun:--:----	O	
+42-11	nu	nu	D-:----:--:u---	O	
+42-12	slået	slå	VT:siu#:t-:----	O	
+42-13	fast	fast	AD:----:--:p---	O	
+42-14	.	.	ZP	O	
+
+#id=43
+#text=Fremtil slutningen af april gennemfører Sundhedsstyrelsen i samarbejde med DR kampagnen ' Når mor og far drikker', der skal skabe opmærksomhed om de belastninger og den store risiko for skader, som børn i familier med alkoholproblemer lever med.
+43-1	Frem	frem	D-:----:--:u---	O	
+43-2	til	til	T-:----:--:----	O	
+43-3	slutningen	slutning	NC:sduc:--:----	O	
+43-4	af	af	T-:----:--:----	O	
+43-5	april	april	NC:siuc:--:----	O	
+43-6	gennemfører	gennemføre	VF:----:sa:----	O	
+43-7	Sundhedsstyrelsen	sundhedsstyrelse	NC:sduc:--:----	O	
+43-8	i	i	T-:----:--:----	O	
+43-9	samarbejde	samarbejde	NC:siun:--:----	O	
+43-10	med	med	T-:----:--:----	O	
+43-11	DR	DR	NP:siu#:--:----	O	
+43-12	kampagnen	kampagne	NW:----:--:----	O	
+43-13	'	'	ZA	O	
+43-14	Når	nå	VF:----:sa:----	O	
+43-15	mor	mor	NC:siuc:--:----	O	
+43-16	og	og	CC:----:--:----	O	
+43-17	far	far	NC:siuc:--:----	O	
+43-18	drikker	drikke	VF:----:sa:----	O	
+43-19	'	'	ZA	O	
+43-20	,	,	ZD	O	
+43-21	der	der	US:----:--:----	O	
+43-22	skal	skulle	VF:----:sa:----	O	
+43-23	skabe	skabe	VI:----:-a:----	O	
+43-24	opmærksomhed	opmærksomhed	NC:siuc:--:----	O	
+43-25	om	om	T-:----:--:----	O	
+43-26	de	den	PM:p-u#:--:----	O	
+43-27	belastninger	belastning	NC:piu#:--:----	O	
+43-28	og	og	CC:----:--:----	O	
+43-29	den	den	PM:s-uc:--:----	O	
+43-30	store	stor	AC:sdu#:--:p---	O	
+43-31	risiko	risiko	NC:siuc:--:----	O	
+43-32	for	for	T-:----:--:----	O	
+43-33	skader	skade	NC:piu#:--:----	B-skade1-1a	
+43-34	,	,	ZD	O	
+43-35	som	som	US:----:--:----	O	
+43-36	børn	barn	NC:piu#:--:----	O	
+43-37	i	i	T-:----:--:----	O	
+43-38	familier	familie	NC:piu#:--:----	O	
+43-39	med	med	T-:----:--:----	O	
+43-40	alkoholproblemer	alkoholproblem	NC:piu#:--:----	O	
+43-41	lever	leve	VF:----:sa:----	O	
+43-42	med	med	T-:----:--:----	O	
+43-43	.	.	ZP	O	
+
+#id=44
+#text=Tidligere i forløbet var mit fokus hele tiden på, at det ville være selve maratonet på 42 kilometer, der var det hårde ved et maraton, men det er jo  rejsen gennem det ukendte og de uforudsigelige faktorer som sygdom og skader.
+44-1	Tidligere	tidlig	AD:----:--:c---	O	
+44-2	i	i	T-:----:--:----	O	
+44-3	forløbet	forløb	NC:sdun:--:----	O	
+44-4	var	var	XY:----:--:----	O	
+44-5	mit	mit	XF:----:--:----	O	
+44-6	fokus	fokus	NC:siu#:--:----	O	
+44-7	hele	hele	NC:siun:--:----	O	
+44-8	tiden	tid	NC:sduc:--:----	O	
+44-9	på	på	T-:----:--:----	O	
+44-10	,	,	ZD	O	
+44-11	at	at	CS:----:--:----	O	
+44-12	det	det	PP:s-un:--:-3n-	O	
+44-13	ville	ville	VF:----:ta:----	O	
+44-14	være	være	VI:----:-a:----	O	
+44-15	selve	selve	AC:§§u§:--:p---	O	
+44-16	maratonet	maraton	NC:sdun:--:----	O	
+44-17	på	på	T-:----:--:----	O	
+44-18	42	42	LC:--u-:--:----	O	
+44-19	kilometer	kilometer	NC:piu#:--:----	O	
+44-20	,	,	ZD	O	
+44-21	der	der	US:----:--:----	O	
+44-22	var	være	VF:----:ta:----	O	
+44-23	det	den	PM:s-un:--:----	O	
+44-24	hårde	hård	AC:sdu#:--:p---	O	
+44-25	ved	ved	T-:----:--:----	O	
+44-26	et	en	PI:s-un:--:----	O	
+44-27	maraton	maraton	NW:----:--:----	O	
+44-28	,	,	ZD	O	
+44-29	men	men	CC:----:--:----	O	
+44-30	det	det	PP:s-un:--:-3n-	O	
+44-31	er	være	VF:----:sa:----	O	
+44-32	jo	jo	D-:----:--:u---	O	
+44-33	rejsen	rejse	NC:sduc:--:----	O	
+44-34	gennem	gennem	T-:----:--:----	O	
+44-35	det	den	PM:s-un:--:----	O	
+44-36	ukendte	ukendt	AC:sdu#:--:p---	O	
+44-37	og	og	CC:----:--:----	O	
+44-38	de	den	PM:p-u#:--:----	O	
+44-39	uforudsigelige	uforudsigelig	AC:p#u#:--:p---	O	
+44-40	faktorer	faktor	NC:piu#:--:----	O	
+44-41	som	som	US:----:--:----	O	
+44-42	sygdom	sygdom	NC:siuc:--:----	O	
+44-43	og	og	CC:----:--:----	O	
+44-44	skader	skade	NC:piu#:--:----	B-skade1-1a	
+44-45	.	.	ZP	O	
+
+#id=45
+#text=Søndagens skade mod SønderjyskE betyder, at AaB-angriberen Jeppe Curth er uaktuel til torsdagens returkamp mod Manchester City i Uefa Cuppen.
+45-1	Søndagens	søndag	NC:sdgc:--:----	O	
+45-2	skade	skade	NC:siuc:--:----	B-skade1-1a	
+45-3	mod	mod	T-:----:--:----	O	
+45-4	SønderjyskE	sønderjysk	AC:p#u#:--:p---	O	
+45-5	betyder	betyde	VF:----:sa:----	O	
+45-6	,	,	ZD	O	
+45-7	at	at	CS:----:--:----	O	
+45-8	AaB	AaB	NW:----:--:----	O	
+45-9	-	-	ZH	O	
+45-10	angriberen	angriber	NC:sduc:--:----	O	
+45-11	Jeppe	Jeppe	NP:siu#:--:----	O	
+45-12	Curth	Curth	NP:siu#:--:----	O	
+45-13	er	være	VF:----:sa:----	O	
+45-14	uaktuel	uaktuel	AC:siuc:--:p---	O	
+45-15	til	til	T-:----:--:----	O	
+45-16	torsdagens	torsdag	NC:sdgc:--:----	O	
+45-17	returkamp	returkamp	NC:siuc:--:----	O	
+45-18	mod	mod	T-:----:--:----	O	
+45-19	Manchester	Manchester	NP:siu#:--:----	O	
+45-20	City	City	NP:siu#:--:----	O	
+45-21	i	i	T-:----:--:----	O	
+45-22	Uefa	UEFA	NP:siu#:--:----	O	
+45-23	Cuppen	cup	NC:sduc:--:----	O	
+45-24	.	.	ZP	O	
+
+#id=46
+#text=Midterforsvarerne Kjetil Wæhler og Michael Jakobsen er tvivlsomme mod City på grund af skader, mens midtbanespilleren Thomas Enevoldsen har karantæne.
+46-1	Midterforsvarerne	Midterforsvarerne	NP:siu#:--:----	O	
+46-2	Kjetil	Kjetil	NP:siu#:--:----	O	
+46-3	Wæhler	Wæhler	NP:siu#:--:----	O	
+46-4	og	og	CC:----:--:----	O	
+46-5	Michael	Michael	NP:siu#:--:----	O	
+46-6	Jakobsen	Jakobsen	NP:siu#:--:----	O	
+46-7	er	være	VF:----:sa:----	O	
+46-8	tvivlsomme	tvivlsom	AC:p#u#:--:p---	O	
+46-9	mod	mod	T-:----:--:----	O	
+46-10	City	city	NC:siu#:--:----	O	
+46-11	på	på	T-:----:--:----	O	
+46-12	grund	grund	NC:siuc:--:----	O	
+46-13	af	af	T-:----:--:----	O	
+46-14	skader	skade	NC:piu#:--:----	B-skade1-1a	
+46-15	,	,	ZD	O	
+46-16	mens	mens	CS:----:--:----	O	
+46-17	midtbanespilleren	midtbanespiller	NC:sduc:--:----	O	
+46-18	Thomas	Thomas	NP:siu#:--:----	O	
+46-19	Enevoldsen	Enevoldsen	NP:siu#:--:----	O	
+46-20	har	have	VF:----:sa:----	O	
+46-21	karantæne	karantæne	NC:siuc:--:----	O	
+46-22	.	.	ZP	O	
+
+#id=47
+#text=Klubberne betaler spillernes løn og har derfor ikke, som tilfældet er i eksempelvis fodbold, pligt til at sende deres arbejdskraft hjem til landsholdsopgaver med alt, hvad det indebærer af risiko for jetlag, udmattelse og skader.
+47-1	Klubberne	klub	NC:pdu#:--:----	O	
+47-2	betaler	betale	VF:----:sa:----	O	
+47-3	spillernes	spille	NC:pdg#:--:----	O	
+47-4	løn	løn	NC:siuc:--:----	O	
+47-5	og	og	CC:----:--:----	O	
+47-6	har	have	VF:----:sa:----	O	
+47-7	derfor	derfor	D-:----:--:u---	O	
+47-8	ikke	ikke	D-:----:--:u---	O	
+47-9	,	,	ZD	O	
+47-10	som	som	US:----:--:----	O	
+47-11	tilfældet	tilfælde	NC:sdun:--:----	O	
+47-12	er	være	VF:----:sa:----	O	
+47-13	i	i	T-:----:--:----	O	
+47-14	eksempelvis	eksempelvis	D-:----:--:u---	O	
+47-15	fodbold	fodbold	NC:siuc:--:----	O	
+47-16	,	,	ZD	O	
+47-17	pligt	pligt	NC:siuc:--:----	O	
+47-18	til	til	T-:----:--:----	O	
+47-19	at	at	UI:----:--:----	O	
+47-20	sende	sende	VI:----:-a:----	O	
+47-21	deres	deres	PO:#--#:--:-3np	O	
+47-22	arbejdskraft	arbejdskraft	NC:siuc:--:----	O	
+47-23	hjem	hjem	D-:----:--:u---	O	
+47-24	til	til	T-:----:--:----	O	
+47-25	landsholdsopgaver	landsholdsopgave	NC:piu#:--:----	O	
+47-26	med	med	T-:----:--:----	O	
+47-27	alt	al	PI:s-un:--:----	O	
+47-28	,	,	ZD	O	
+47-29	hvad	hvad	PR:s-u#:--:----	O	
+47-30	det	det	PP:s-un:--:-3n-	O	
+47-31	indebærer	indebære	VF:----:sa:----	O	
+47-32	af	af	T-:----:--:----	O	
+47-33	risiko	risiko	NC:siuc:--:----	O	
+47-34	for	for	T-:----:--:----	O	
+47-35	jetlag	jetlag	NC:siun:--:----	O	
+47-36	,	,	ZD	O	
+47-37	udmattelse	udmattelse	NC:siuc:--:----	O	
+47-38	og	og	CC:----:--:----	O	
+47-39	skader	skade	NC:piu#:--:----	B-skade1-1a	
+47-40	.	.	ZP	O	
+
+#id=48
+#text=Velfærdsminister Karen Jespersen (V) vil gøre det muligt at tilbageholde gravide alkohol-og stofmisbrugere mod deres vilje, så man undgår alvorlige skader hos deres spædbørn, skriver Berlingske Tidende.
+48-1	Velfærdsminister	Velfærdsminister	NP:siu#:--:----	O	
+48-2	Karen	Karen	NP:siu#:--:----	O	
+48-3	Jespersen	Jespersen	NP:siu#:--:----	O	
+48-4	(	(	ZD	O	
+48-5	V	V	NP:siu#:--:----	O	
+48-6	)	)	ZD	O	
+48-7	vil	ville	VF:----:sa:----	O	
+48-8	gøre	gøre	VI:----:-a:----	O	
+48-9	det	det	PP:s-un:--:-3n-	O	
+48-10	muligt	mulig	AC:siun:--:p---	O	
+48-11	at	at	UI:----:--:----	O	
+48-12	tilbageholde	tilbageholde	VI:----:-a:----	O	
+48-13	gravide	gravid	AC:p#u#:--:p---	O	
+48-14	alkohol	alkohol	NW:----:--:----	O	
+48-15	-	-	ZH	O	
+48-16	og	og	CC:----:--:----	O	
+48-17	stofmisbrugere	stofmisbruger	NC:piu#:--:----	O	
+48-18	mod	mod	T-:----:--:----	O	
+48-19	deres	deres	PO:#--#:--:-3np	O	
+48-20	vilje	vilje	NC:siuc:--:----	O	
+48-21	,	,	ZD	O	
+48-22	så	så	CS:----:--:----	O	
+48-23	man	man	PI:#-uc:--:----	O	
+48-24	undgår	undgå	VF:----:sa:----	O	
+48-25	alvorlige	alvorlig	AC:p#u#:--:p---	O	
+48-26	skader	skade	NC:piu#:--:----	B-skade1-1a	
+48-27	hos	hos	T-:----:--:----	O	
+48-28	deres	deres	PO:#--#:--:-3np	O	
+48-29	spædbørn	spædbørn	NC:piu#:--:----	O	
+48-30	,	,	ZD	O	
+48-31	skriver	skrive	VF:----:sa:----	O	
+48-32	Berlingske	Berlingske	NP:siu#:--:----	O	
+48-33	Tidende	Tidende	NP:siu#:--:----	O	
+48-34	.	.	ZP	O	
+
+#id=49
+#text=En forsinkelse af bankomstruktureringen er dyr - både hvad angår de samlede omkostninger og de økonomiske  skader, den forårsager i overgangsperioden.
+49-1	En	en	PI:s-uc:--:----	O	
+49-2	forsinkelse	forsinkelse	NC:siuc:--:----	O	
+49-3	af	af	T-:----:--:----	O	
+49-4	bankomstruktureringen	bankomstrukturering	NC:sduc:--:----	O	
+49-5	er	være	VF:----:sa:----	O	
+49-6	dyr	dyr	NC:piu#:--:----	O	
+49-7	-	-	NC:piu#:--:----	O	
+49-8	både	både	VI:----:-a:----	O	
+49-9	hvad	hvad	PR:s-u#:--:----	O	
+49-10	angår	angå	VF:----:sa:----	O	
+49-11	de	den	PM:p-u#:--:----	O	
+49-12	samlede	samle	VP:p#u#:t-:----	O	
+49-13	omkostninger	omkostning	NC:piu#:--:----	O	
+49-14	og	og	CC:----:--:----	O	
+49-15	de	den	PM:p-u#:--:----	O	
+49-16	økonomiske	økonomisk	AC:p#u#:--:p---	O	
+49-17	skader	skade	NC:piu#:--:----	B-skade1-1	
+49-18	,	,	ZD	O	
+49-19	den	den	PP:s-uc:--:-3n-	O	
+49-20	forårsager	forårsage	VF:----:sa:----	O	
+49-21	i	i	T-:----:--:----	O	
+49-22	overgangsperioden	overgangsperiode	NC:sduc:--:----	O	
+49-23	.	.	ZP	O	
+
+#id=50
+#text=Detsker for at undersøge, om der kan opstå skader på Marmorkirken under byggeprocessen, alternative placeringer af stationen og så den tragiske ulykke i Köln, hvor et borearbejde til byens nye metro resulterede i sammenstyrtede huse og tab af menneskeliv.
+50-1	Det	det	PP:s-un:--:-3n-	O	
+50-2	sker	ske	VF:----:sa:----	O	
+50-3	for	for	T-:----:--:----	O	
+50-4	at	at	UI:----:--:----	O	
+50-5	undersøge	undersøge	VI:----:-a:----	O	
+50-6	,	,	ZD	O	
+50-7	om	om	CS:----:--:----	O	
+50-8	der	der	US:----:--:----	O	
+50-9	kan	kunne	VF:----:sa:----	O	
+50-10	opstå	opstå	VI:----:-a:----	O	
+50-11	skader	skade	NC:piu#:--:----	B-skade1-1	
+50-12	på	på	T-:----:--:----	O	
+50-13	Marmorkirken	marmorkirke	NC:sduc:--:----	O	
+50-14	under	under	T-:----:--:----	O	
+50-15	byggeprocessen	byggeproces	NC:sduc:--:----	O	
+50-16	,	,	ZD	O	
+50-17	alternative	alternativ	AC:p#u#:--:p---	O	
+50-18	placeringer	placering	NC:piu#:--:----	O	
+50-19	af	af	T-:----:--:----	O	
+50-20	stationen	station	NC:sduc:--:----	O	
+50-21	og	og	CC:----:--:----	O	
+50-22	så	så	D-:----:--:u---	O	
+50-23	den	den	PM:s-uc:--:----	O	
+50-24	tragiske	tragisk	AC:sdu#:--:p---	O	
+50-25	ulykke	ulykke	NC:siuc:--:----	O	
+50-26	i	i	T-:----:--:----	O	
+50-27	Köln	Köln	NP:siu#:--:----	O	
+50-28	,	,	ZD	O	
+50-29	hvor	hvor	D-:----:--:u---	O	
+50-30	et	en	PI:s-un:--:----	O	
+50-31	borearbejde	borearbejde	NC:siun:--:----	O	
+50-32	til	til	T-:----:--:----	O	
+50-33	byens	by	NC:sdgc:--:----	O	
+50-34	nye	ny	AC:sdu#:--:p---	O	
+50-35	metro	metro	NC:siuc:--:----	O	
+50-36	resulterede	resultere	VF:----:ta:----	O	
+50-37	i	i	T-:----:--:----	O	
+50-38	sammenstyrtede	sammenstyrtet	AC:p#u#:--:p---	O	
+50-39	huse	hus	NC:piu#:--:----	O	
+50-40	og	og	CC:----:--:----	O	
+50-41	tab	tab	:----	O	
+50-42	af	af	T-:----:--:----	O	
+50-43	menneskeliv	menneskeliv	NC:siun:--:----	O	
+50-44	.	.	ZP	O	
+
+#id=51
+#text=Der er altså en risiko for skader og i værste fald en ulykke.
+51-1	Der	der	US:----:--:----	O	
+51-2	er	være	VF:----:sa:----	O	
+51-3	altså	altså	D-:----:--:u---	O	
+51-4	en	en	PI:s-uc:--:----	O	
+51-5	risiko	risiko	NC:siuc:--:----	O	
+51-6	for	for	T-:----:--:----	O	
+51-7	skader	skade	NC:piu#:--:----	B-skade1-1	
+51-8	og	og	CC:----:--:----	O	
+51-9	i	i	T-:----:--:----	O	
+51-10	værste	slem	AC:§du§:--:s---	O	
+51-11	fald	fald	NC:siun:--:----	O	
+51-12	en	en	PI:s-uc:--:----	O	
+51-13	ulykke	ulykke	NC:siuc:--:----	O	
+51-14	.	.	ZP	O	
+
+#id=52
+#text=Desuden er det vigtigt, at vi bliver bedre til at opdage problemerne i tide og tage hånd om dem, så børnene lider mindst mulig skade.
+52-1	Desuden	desuden	D-:----:--:u---	O	
+52-2	er	være	VF:----:sa:----	O	
+52-3	det	det	PP:s-un:--:-3n-	O	
+52-4	vigtigt	vigtig	AC:siun:--:p---	O	
+52-5	,	,	ZD	O	
+52-6	at	at	CS:----:--:----	O	
+52-7	vi	vi	PP:p-nc:--:-1n-	O	
+52-8	bliver	blive	VF:----:sa:----	O	
+52-9	bedre	god	AC:##u#:--:c---	O	
+52-10	til	til	T-:----:--:----	O	
+52-11	at	at	UI:----:--:----	O	
+52-12	opdage	opdage	VI:----:-a:----	O	
+52-13	problemerne	problem	NC:pdu#:--:----	O	
+52-14	i	i	T-:----:--:----	O	
+52-15	tide	tid	NC:sifc:--:----	O	
+52-16	og	og	CC:----:--:----	O	
+52-17	tage	tage	VI:----:-a:----	O	
+52-18	hånd	hånd	NC:siuc:--:----	O	
+52-19	om	om	T-:----:--:----	O	
+52-20	dem	de	PP:p-u#:--:-3n-	O	
+52-21	,	,	ZD	O	
+52-22	så	så	CS:----:--:----	O	
+52-23	børnene	barn	NC:pdu#:--:----	O	
+52-24	lider	lide	VF:----:sa:----	O	
+52-25	mindst	liden	AD:----:--:s---	O	
+52-26	mulig	mulig	AC:siuc:--:p---	O	
+52-27	skade	skade	NC:siuc:--:----	B-skade-F-tage/lide-skade	
+52-28	.	.	ZP	O	
+
+#id=53
+#text=30%af skituristernes skader er knæskader på korsbånd, menisk og ledbånd.
+53-1	30%	30%	NP:siu#:--:----	O	
+53-2	af	af	T-:----:--:----	O	
+53-3	skituristernes	skiturist	NC:pdg#:--:----	O	
+53-4	skader	skade	NC:piu#:--:----	B-skade1-1a	
+53-5	er	være	VF:----:sa:----	O	
+53-6	knæskader	knæskade	NC:piu#:--:----	O	
+53-7	på	på	T-:----:--:----	O	
+53-8	korsbånd	korsbånd	NC:siun:--:----	O	
+53-9	,	,	ZD	O	
+53-10	menisk	menisk	NC:siuc:--:----	O	
+53-11	og	og	CC:----:--:----	O	
+53-12	ledbånd	ledbånd	NC:siun:--:----	O	
+53-13	.	.	ZP	O	
+
+#id=54
+#text=SF's miljøordfører Ida Auken har kaldt klimaministeren i samråd og spurgt statsministeren, om "Danmark er det eneste land, der på denne måde begår løftebrud" til skade for de fattige.
+54-1	SF	SF	NP:siu#:--:----	O	
+54-2	'	'	ZA	O	
+54-3	s	@s	MN:sig#:--:----	O	
+54-4	miljøordfører	miljøordfører	NC:siuc:--:----	O	
+54-5	Ida	Ida	NP:siu#:--:----	O	
+54-6	Auken	Auken	NP:siu#:--:----	O	
+54-7	har	have	VF:----:sa:----	O	
+54-8	kaldt	kalde	VT:siu#:t-:----	O	
+54-9	klimaministeren	klimaminister	NC:sduc:--:----	O	
+54-10	i	i	T-:----:--:----	O	
+54-11	samråd	samråd	NC:siun:--:----	O	
+54-12	og	og	CC:----:--:----	O	
+54-13	spurgt	spørge	VT:siu#:t-:----	O	
+54-14	statsministeren	statsminister	NC:sduc:--:----	O	
+54-15	,	,	ZD	O	
+54-16	om	om	CS:----:--:----	O	
+54-17	"	"	ZI	O	
+54-18	Danmark	Danmark	NP:siu#:--:----	O	
+54-19	er	være	VF:----:sa:----	O	
+54-20	det	den	PM:s-un:--:----	O	
+54-21	eneste	eneste	AC:§§u§:--:p---	O	
+54-22	land	land	NC:siun:--:----	O	
+54-23	,	,	ZD	O	
+54-24	der	der	US:----:--:----	O	
+54-25	på	på	T-:----:--:----	O	
+54-26	denne	denne	PM:s-uc:--:----	O	
+54-27	måde	måde	NC:siuc:--:----	O	
+54-28	begår	begå	VF:----:sa:----	O	
+54-29	løftebrud	løftebrud	NC:siun:--:----	O	
+54-30	"	"	ZI	O	
+54-31	til	til	T-:----:--:----	O	
+54-32	skade	skade	NC:siuc:--:----	B-skade1-1	
+54-33	for	for	T-:----:--:----	O	
+54-34	de	den	PM:p-u#:--:----	O	
+54-35	fattige	fattig	AC:p#u#:--:p---	O	
+54-36	.	.	ZP	O	
+
+#id=55
+#text=Efter en skade for Ellington og beherskede resultater blev han prøvet hos Christian Lindhardt i Skive.
+55-1	Efter	efter	T-:----:--:----	O	
+55-2	en	en	PI:s-uc:--:----	O	
+55-3	skade	skade	NC:siuc:--:----	B-skade1-1a	
+55-4	for	for	T-:----:--:----	O	
+55-5	Ellington	Ellington	XY:----:--:----	O	
+55-6	og	og	CC:----:--:----	O	
+55-7	beherskede	behersket	AC:p#u#:--:p---	O	
+55-8	resultater	resultat	NC:piu#:--:----	O	
+55-9	blev	blive	VF:----:ta:----	O	
+55-10	han	han	PP:s-nc:--:-3n-	O	
+55-11	prøvet	prøve	VT:siu#:t-:----	O	
+55-12	hos	hos	T-:----:--:----	O	
+55-13	Christian	Christian	NP:siu#:--:----	O	
+55-14	Lindhardt	Lindhardt	NP:siu#:--:----	O	
+55-15	i	i	T-:----:--:----	O	
+55-16	Skive	Skive	NP:siu#:--:----	O	
+55-17	.	.	ZP	O	
+
+#id=56
+#text=46kom lettere til skade, 17 alvorligt og 1 blev dræbt Kilde:
+56-1	46	46	LC:--u-:--:----	O	
+56-2	kom	komme	VF:----:ta:----	O	
+56-3	lettere	let	AC:##u#:--:c---	O	
+56-4	til	til	T-:----:--:----	O	
+56-5	skade	skade	NC:siuc:--:----	B-skade-F-komme-til-skade	
+56-6	,	,	ZD	O	
+56-7	17	17	LC:--u-:--:----	O	
+56-8	alvorligt	alvorlig	AD:----:--:p---	O	
+56-9	og	og	CC:----:--:----	O	
+56-10	1	1	LC:--u-:--:----	O	
+56-11	blev	blive	VF:----:ta:----	O	
+56-12	dræbt	dræbe	VT:siu#:t-:----	O	
+56-13	Kilde	kilde	NC:siuc:--:----	O	
+56-14	:	:	ZP	O	
+
+#id=57
+#text=Erman syg eller kommet til skade, og der er flere dages transport til nærmeste lægeklinik, så er løsningen tit, at man indtager opium for at dulme smerterne.
+57-1	Er	være	VF:----:sa:----	O	
+57-2	man	man	PI:#-uc:--:----	O	
+57-3	syg	syg	AC:siuc:--:p---	O	
+57-4	eller	eller	CC:----:--:----	O	
+57-5	kommet	komme	VT:siu#:t-:----	O	
+57-6	til	til	T-:----:--:----	O	
+57-7	skade	skade	NC:siuc:--:----	B-skade-F-komme-til-skade	
+57-8	,	,	ZD	O	
+57-9	og	og	CC:----:--:----	O	
+57-10	der	der	US:----:--:----	O	
+57-11	er	være	VF:----:sa:----	O	
+57-12	flere	mange	AC:##u#:--:c---	O	
+57-13	dages	dag	NC:pig#:--:----	O	
+57-14	transport	transport	NC:siuc:--:----	O	
+57-15	til	til	T-:----:--:----	O	
+57-16	nærmeste	nær	AC:§du§:--:s---	O	
+57-17	lægeklinik	lægeklinik	NC:siuc:--:----	O	
+57-18	,	,	ZD	O	
+57-19	så	så	D-:----:--:u---	O	
+57-20	er	være	VF:----:sa:----	O	
+57-21	løsningen	løsning	NC:sduc:--:----	O	
+57-22	tit	tit	D-:----:--:u---	O	
+57-23	,	,	ZD	O	
+57-24	at	at	CS:----:--:----	O	
+57-25	man	man	PI:#-uc:--:----	O	
+57-26	indtager	indtage	VF:----:sa:----	O	
+57-27	opium	opium	NC:siun:--:----	O	
+57-28	for	for	T-:----:--:----	O	
+57-29	at	at	UI:----:--:----	O	
+57-30	dulme	dulme	VI:----:-a:----	O	
+57-31	smerterne	smerte	NC:pdu#:--:----	O	
+57-32	.	.	ZP	O	
+
+#id=58
+#text=Mænd,der er kommet til skade, indtager opium.
+58-1	Mænd	mand	NC:piu#:--:----	O	
+58-2	,	,	ZD	O	
+58-3	der	der	US:----:--:----	O	
+58-4	er	være	VF:----:sa:----	O	
+58-5	kommet	komme	VT:siu#:t-:----	O	
+58-6	til	til	T-:----:--:----	O	
+58-7	skade	skade	NC:siuc:--:----	B-skade-F-komme-til-skade	
+58-8	,	,	ZD	O	
+58-9	indtager	indtage	VF:----:sa:----	O	
+58-10	opium	opium	NC:siun:--:----	O	
+58-11	.	.	ZP	O	
+
+#id=59
+#text=Hvert år kommer folk til skade, fordi de ikke følger vandrestierne.
+59-1	Hvert	hver	PI:s-un:--:----	O	
+59-2	år	år	NC:siun:--:----	O	
+59-3	kommer	komme	VF:----:sa:----	O	
+59-4	folk	folk	NC:piu#:--:----	O	
+59-5	til	til	T-:----:--:----	O	
+59-6	skade	skade	NC:siuc:--:----	B-skade-F-komme-til-skade	
+59-7	,	,	ZD	O	
+59-8	fordi	fordi	CS:----:--:----	O	
+59-9	de	de	PP:p-n#:--:-3n-	O	
+59-10	ikke	ikke	D-:----:--:u---	O	
+59-11	følger	følge	VF:----:sa:----	O	
+59-12	vandrestierne	vandresti	NC:pdu#:--:----	O	
+59-13	.	.	ZP	O	
+
+#id=60
+#text=Folkpasser ganske enkelt ikke lige så godt på deres bil, hvis den er forsikret, fordi eventuelle skader betales af selskabet.
+60-1	Folk	folk	NC:piu#:--:----	O	
+60-2	passer	passe	VF:----:sa:----	O	
+60-3	ganske	ganske	D-:----:--:u---	O	
+60-4	enkelt	enkel	AD:----:--:p---	O	
+60-5	ikke	ikke	D-:----:--:u---	O	
+60-6	lige	lige	D-:----:--:u---	O	
+60-7	så	så	D-:----:--:u---	O	
+60-8	godt	god	AD:----:--:p---	O	
+60-9	på	på	T-:----:--:----	O	
+60-10	deres	deres	PO:#--#:--:-3np	O	
+60-11	bil	bil	NC:siuc:--:----	O	
+60-12	,	,	ZD	O	
+60-13	hvis	hvis	CS:----:--:----	O	
+60-14	den	den	PP:s-uc:--:-3n-	O	
+60-15	er	være	VF:----:sa:----	O	
+60-16	forsikret	forsikre	VT:siu#:t-:----	O	
+60-17	,	,	ZD	O	
+60-18	fordi	fordi	CS:----:--:----	O	
+60-19	eventuelle	eventuel	AC:p#u#:--:p---	O	
+60-20	skader	skade	NC:piu#:--:----	B-skade1-1	
+60-21	betales	betale	VF:----:sp:----	O	
+60-22	af	af	T-:----:--:----	O	
+60-23	selskabet	selskab	NC:sdun:--:----	O	
+60-24	.	.	ZP	O	
+
+#id=61
+#text=Det er såmænd ikke fordi, de evigt omdiskuterede PISA-test gør så meget skade i sig selv, og de kan endda være udmærkede, hvis de kun bliver brugt til at spotte de problemer, som de enkelte elever kan have.
+61-1	Det	det	PP:s-un:--:-3n-	O	
+61-2	er	være	VF:----:sa:----	O	
+61-3	såmænd	såmænd	D-:----:--:u---	O	
+61-4	ikke	ikke	D-:----:--:u---	O	
+61-5	fordi	fordi	CS:----:--:----	O	
+61-6	,	,	ZD	O	
+61-7	de	de	PP:p-n#:--:-3n-	O	
+61-8	evigt	evig	AD:----:--:p---	O	
+61-9	omdiskuterede	omdiskuteret	AC:sdu#:--:p---	O	
+61-10	PISA	PISA	NP:siu#:--:----	O	
+61-11	-	-	ZH	O	
+61-12	test	test	NC:siuc:--:----	O	
+61-13	gør	gøre	VF:----:sa:----	O	
+61-14	så	så	D-:----:--:u---	O	
+61-15	meget	megen	AC:siu§:--:p---	O	
+61-16	skade	skade	NC:siuc:--:----	B-skade1-1	
+61-17	i	i	T-:----:--:----	O	
+61-18	sig	sig	PP:#-u#:--:-3y-	O	
+61-19	selv	selv	PM:#-u#:--:----	O	
+61-20	,	,	ZD	O	
+61-21	og	og	CC:----:--:----	O	
+61-22	de	de	PP:p-n#:--:-3n-	O	
+61-23	kan	kunne	VF:----:sa:----	O	
+61-24	endda	endda	D-:----:--:u---	O	
+61-25	være	være	VI:----:-a:----	O	
+61-26	udmærkede	udmærket	AC:p#u#:--:p---	O	
+61-27	,	,	ZD	O	
+61-28	hvis	hvis	CS:----:--:----	O	
+61-29	de	de	PP:p-n#:--:-3n-	O	
+61-30	kun	kun	D-:----:--:u---	O	
+61-31	bliver	blive	VF:----:sa:----	O	
+61-32	brugt	bruge	VT:siu#:t-:----	O	
+61-33	til	til	T-:----:--:----	O	
+61-34	at	at	UI:----:--:----	O	
+61-35	spotte	spotte	VI:----:-a:----	O	
+61-36	de	den	PM:p-u#:--:----	O	
+61-37	problemer	problem	NC:piu#:--:----	O	
+61-38	,	,	ZD	O	
+61-39	som	som	US:----:--:----	O	
+61-40	de	den	PM:p-u#:--:----	O	
+61-41	enkelte	enkelt	AC:p#u#:--:p---	O	
+61-42	elever	elev	NC:piu#:--:----	O	
+61-43	kan	kunne	VF:----:sa:----	O	
+61-44	have	have	VI:----:-a:----	O	
+61-45	.	.	ZP	O	
+
+#id=62
+#text=Deforstod ikke skalaen og  omfanget af de skader, som klimaforandringerne vil bringe med sig", siger han.
+62-1	De	de	PP:p-n#:--:-3n-	O	
+62-2	forstod	forstå	VF:----:ta:----	O	
+62-3	ikke	ikke	D-:----:--:u---	O	
+62-4	skalaen	skala	NC:sduc:--:----	O	
+62-5	og	og	CC:----:--:----	O	
+62-6	omfanget	omfang	NC:sdun:--:----	O	
+62-7	af	af	T-:----:--:----	O	
+62-8	de	den	PM:p-u#:--:----	O	
+62-9	skader	skade	NC:piu#:--:----	B-skade1-1	
+62-10	,	,	ZD	O	
+62-11	som	som	US:----:--:----	O	
+62-12	klimaforandringerne	klimaforandring	NC:pdu#:--:----	O	
+62-13	vil	ville	VF:----:sa:----	O	
+62-14	bringe	bringe	VI:----:-a:----	O	
+62-15	med	med	T-:----:--:----	O	
+62-16	sig	sig	PP:#-u#:--:-3y-	O	
+62-17	"	"	ZI	O	
+62-18	,	,	ZD	O	
+62-19	siger	sige	VF:----:sa:----	O	
+62-20	han	han	PP:s-nc:--:-3n-	O	
+62-21	.	.	ZP	O	
+
+#id=63
+#text="Viundervurderede skaderne ved global opvarmning med omkring 50 procent.
+63-1	"	"	ZI	O	
+63-2	Vi	vi	PP:p-nc:--:-1n-	O	
+63-3	undervurderede	undervurdere	VF:----:ta:----	O	
+63-4	skaderne	skade	NC:pdu#:--:----	B-skade1-1	
+63-5	ved	ved	T-:----:--:----	O	
+63-6	global	global	AC:siuc:--:p---	O	
+63-7	opvarmning	opvarmning	NC:siuc:--:----	O	
+63-8	med	med	T-:----:--:----	O	
+63-9	omkring	omkring	T-:----:--:----	O	
+63-10	50	50	LC:--u-:--:----	O	
+63-11	procent	procent	NC:piu#:--:----	O	
+63-12	.	.	ZP	O	
+
+#id=64
+#text=Jo, hun skal have lov at fortælle om politiets fejlbehæftede opklaringsarbejde - som ikke nødvendigvis er til skade for hende - og om forholdene i arresten, som hun er voldsomt kritisk over for.
+64-1	Jo	jo	I-:----:--:----	O	
+64-2	,	,	ZD	O	
+64-3	hun	hun	PP:s-nc:--:-3n-	O	
+64-4	skal	skulle	VF:----:sa:----	O	
+64-5	have	have	VI:----:-a:----	O	
+64-6	lov	lov	NC:§§u§:--:----	O	
+64-7	at	at	UI:----:--:----	O	
+64-8	fortælle	fortælle	VI:----:-a:----	O	
+64-9	om	om	T-:----:--:----	O	
+64-10	politiets	politi	NC:sdgn:--:----	O	
+64-11	fejlbehæftede	fejlbehæfte	VP:sdu#:t-:----	O	
+64-12	opklaringsarbejde	opklaringsarbejde	NW:----:--:----	O	
+64-13	-	-	ZH	O	
+64-14	som	som	US:----:--:----	O	
+64-15	ikke	ikke	D-:----:--:u---	O	
+64-16	nødvendigvis	nødvendigvis	D-:----:--:u---	O	
+64-17	er	være	VF:----:sa:----	O	
+64-18	til	til	T-:----:--:----	O	
+64-19	skade	skade	NC:siuc:--:----	B-skade1-1	
+64-20	for	for	T-:----:--:----	O	
+64-21	hende	hende	XY:----:--:----	O	
+64-22	-	-	ZH	O	
+64-23	og	og	CC:----:--:----	O	
+64-24	om	om	T-:----:--:----	O	
+64-25	forholdene	forhold	NC:pdu#:--:----	O	
+64-26	i	i	T-:----:--:----	O	
+64-27	arresten	arrest	NC:sduc:--:----	O	
+64-28	,	,	ZD	O	
+64-29	som	som	US:----:--:----	O	
+64-30	hun	hun	PP:s-nc:--:-3n-	O	
+64-31	er	være	VF:----:sa:----	O	
+64-32	voldsomt	voldsom	AD:----:--:p---	O	
+64-33	kritisk	kritisk	AC:siu§:--:p---	O	
+64-34	over	over	D-:----:--:u---	O	
+64-35	for	for	T-:----:--:----	O	
+64-36	.	.	ZP	O	
+
+#id=65
+#text=Deto største danske navne, Peter Gade og Tine Rasmussen, deltager på grund af skader ikke i turneringen.
+65-1	De	den	PM:p-u#:--:----	O	
+65-2	to	to	LC:--u-:--:----	O	
+65-3	største	stor	AC:§du§:--:s---	O	
+65-4	danske	dansk	AC:sdu#:--:p---	O	
+65-5	navne	navne	NC:siuc:--:----	O	
+65-6	,	,	ZD	O	
+65-7	Peter	Peter	NP:siu#:--:----	O	
+65-8	Gade	Gade	NP:siu#:--:----	O	
+65-9	og	og	CC:----:--:----	O	
+65-10	Tine	Tine	NP:siu#:--:----	O	
+65-11	Rasmussen	Rasmussen	NP:siu#:--:----	O	
+65-12	,	,	ZD	O	
+65-13	deltager	deltage	VF:----:sa:----	O	
+65-14	på	på	T-:----:--:----	O	
+65-15	grund	grund	NC:siuc:--:----	O	
+65-16	af	af	T-:----:--:----	O	
+65-17	skader	skade	NC:piu#:--:----	B-skade1-1a	
+65-18	ikke	ikke	D-:----:--:u---	O	
+65-19	i	i	T-:----:--:----	O	
+65-20	turneringen	turnering	NC:sduc:--:----	O	
+65-21	.	.	ZP	O	
+
+#id=66
+#text=Detforventes, at Peter Utaka og Njogu Demba-Nyrén udgør OB's angrebspar i dag på et hold, hvor Hans Henrik Andreasen mangler på grund af en skade.
+66-1	Det	det	PP:s-un:--:-3n-	O	
+66-2	forventes	forvente	VF:----:sp:----	O	
+66-3	,	,	ZD	O	
+66-4	at	at	CS:----:--:----	O	
+66-5	Peter	Peter	NP:siu#:--:----	O	
+66-6	Utaka	Utaka	NP:siu#:--:----	O	
+66-7	og	og	CC:----:--:----	O	
+66-8	Njogu	Njogu	NP:siu#:--:----	O	
+66-9	Demba	Demba	NP:siu#:--:----	O	
+66-10	-	-	ZH	O	
+66-11	Nyrén	Nyrén	NP:siu#:--:----	O	
+66-12	udgør	udgøre	VF:----:sa:----	O	
+66-13	OB	OB	NP:siu#:--:----	O	
+66-14	'	'	ZA	O	
+66-15	s	@s	MN:sig#:--:----	O	
+66-16	angrebspar	angrebspar	NC:siuc:--:----	O	
+66-17	i	i	T-:----:--:----	O	
+66-18	dag	dag	NC:siuc:--:----	O	
+66-19	på	på	T-:----:--:----	O	
+66-20	et	en	PI:s-un:--:----	O	
+66-21	hold	hold	NC:siun:--:----	O	
+66-22	,	,	ZD	O	
+66-23	hvor	hvor	D-:----:--:u---	O	
+66-24	Hans	Hans	NP:siu#:--:----	O	
+66-25	Henrik	Henrik	NP:siu#:--:----	O	
+66-26	Andreasen	Andreasen	NP:siu#:--:----	O	
+66-27	mangler	mangle	VF:----:sa:----	O	
+66-28	på	på	T-:----:--:----	O	
+66-29	grund	grund	NC:siuc:--:----	O	
+66-30	af	af	T-:----:--:----	O	
+66-31	en	en	PI:s-uc:--:----	O	
+66-32	skade	skade	NC:siuc:--:----	B-skade1-1a	
+66-33	.	.	ZP	O	
+
+#id=67
+#text=Måske er det en naiv optimisme i en klub, der sluttede på 8.-pladsen i seneste sæson, men jeg vil alligevel sige, at det er realistisk, hvis vi undgår skader".
+67-1	Måske	måske	D-:----:--:u---	O	
+67-2	er	være	VF:----:sa:----	O	
+67-3	det	det	PP:s-un:--:-3n-	O	
+67-4	en	en	PI:s-uc:--:----	O	
+67-5	naiv	naiv	AC:siuc:--:p---	O	
+67-6	optimisme	optimisme	NC:siuc:--:----	O	
+67-7	i	i	T-:----:--:----	O	
+67-8	en	en	PI:s-uc:--:----	O	
+67-9	klub	klub	NC:siuc:--:----	O	
+67-10	,	,	ZD	O	
+67-11	der	der	US:----:--:----	O	
+67-12	sluttede	slutte	VF:----:ta:----	O	
+67-13	på	på	T-:----:--:----	O	
+67-14	8	8	LC:--u-:--:----	O	
+67-15	.	.	ZP	O	
+67-16	-	-	ZH	O	
+67-17	pladsen	plads	NC:sduc:--:----	O	
+67-18	i	i	T-:----:--:----	O	
+67-19	seneste	sen	AC:§du§:--:s---	O	
+67-20	sæson	sæson	NC:siuc:--:----	O	
+67-21	,	,	ZD	O	
+67-22	men	men	CC:----:--:----	O	
+67-23	jeg	jeg	PP:s-nc:--:-1n-	O	
+67-24	vil	ville	VF:----:sa:----	O	
+67-25	alligevel	alligevel	D-:----:--:u---	O	
+67-26	sige	sige	VI:----:-a:----	O	
+67-27	,	,	ZD	O	
+67-28	at	at	CS:----:--:----	O	
+67-29	det	det	PP:s-un:--:-3n-	O	
+67-30	er	være	VF:----:sa:----	O	
+67-31	realistisk	realistisk	AC:siu§:--:p---	O	
+67-32	,	,	ZD	O	
+67-33	hvis	hvis	CS:----:--:----	O	
+67-34	vi	vi	PP:p-nc:--:-1n-	O	
+67-35	undgår	undgå	VF:----:sa:----	O	
+67-36	skader	skade	NC:piu#:--:----	B-skade1-1a	
+67-37	"	"	ZI	O	
+67-38	.	.	ZP	O	
+
+#id=68
+#text=Dettehar kunnet lade sig gøre, dels fordi skaderne alt andet lige har været relativt begrænsede, og dels fordi de mest har ramt ukendte eller i hvert fald umælende personer.
+68-1	Dette	denne	PM:s-un:--:----	O	
+68-2	har	have	VF:----:sa:----	O	
+68-3	kunnet	kunne	VT:siu#:t-:----	O	
+68-4	lade	lade	VI:----:-a:----	O	
+68-5	sig	sig	PP:#-u#:--:-3y-	O	
+68-6	gøre	gøre	VI:----:-a:----	O	
+68-7	,	,	ZD	O	
+68-8	dels	dels	D-:----:--:u---	O	
+68-9	fordi	fordi	CS:----:--:----	O	
+68-10	skaderne	skade	NC:pdu#:--:----	B-skade1-1a	
+68-11	alt	alt	D-:----:--:u---	O	
+68-12	andet	anden	PI:s-un:--:----	O	
+68-13	lige	lige	D-:----:--:u---	O	
+68-14	har	have	VF:----:sa:----	O	
+68-15	været	være	VT:siu#:t-:----	O	
+68-16	relativt	relativ	AD:----:--:p---	O	
+68-17	begrænsede	begrænse	VP:p#u#:t-:----	O	
+68-18	,	,	ZD	O	
+68-19	og	og	CC:----:--:----	O	
+68-20	dels	dels	D-:----:--:u---	O	
+68-21	fordi	fordi	CS:----:--:----	O	
+68-22	de	den	PM:p-u#:--:----	O	
+68-23	mest	megen	AD:----:--:s---	O	
+68-24	har	have	VF:----:sa:----	O	
+68-25	ramt	ramme	VT:siu#:t-:----	O	
+68-26	ukendte	ukendt	AC:p#u#:--:p---	O	
+68-27	eller	eller	CC:----:--:----	O	
+68-28	i	i	T-:----:--:----	O	
+68-29	hvert	hver	PI:s-un:--:----	O	
+68-30	fald	fald	NC:siun:--:----	O	
+68-31	umælende	umælende	AD:----:--:p---	O	
+68-32	personer	person	NC:piu#:--:----	O	
+68-33	.	.	ZP	O	
+
+#id=69
+#text=Idet brave, uhyre velskrevne udspil møder vi attenårige Helen, som er kommet til skade med ladyshaveren, da hun skal fjerne hårene i røven.
+69-1	I	i	T-:----:--:----	O	
+69-2	det	den	PM:s-un:--:----	O	
+69-3	brave	brav	AC:sdu#:--:p---	O	
+69-4	,	,	ZD	O	
+69-5	uhyre	uhyre	AD:----:--:p---	O	
+69-6	velskrevne	velskreven	AC:p#u#:--:p---	O	
+69-7	udspil	udspil	NC:piu#:--:----	O	
+69-8	møder	møde	VF:----:sa:----	O	
+69-9	vi	vi	PP:p-nc:--:-1n-	O	
+69-10	attenårige	attenårig	AC:sdu#:--:p---	O	
+69-11	Helen	Helen	NP:siu#:--:----	O	
+69-12	,	,	ZD	O	
+69-13	som	som	US:----:--:----	O	
+69-14	er	være	VF:----:sa:----	O	
+69-15	kommet	komme	VT:siu#:t-:----	O	
+69-16	til	til	T-:----:--:----	O	
+69-17	skade	skade	NC:siuc:--:----	B-skade-F-komme-til-skade	
+69-18	med	med	T-:----:--:----	O	
+69-19	ladyshaveren	ladyshaver	NC:sduc:--:----	O	
+69-20	,	,	ZD	O	
+69-21	da	da	CS:----:--:----	O	
+69-22	hun	hun	PP:s-nc:--:-3n-	O	
+69-23	skal	skulle	VF:----:sa:----	O	
+69-24	fjerne	fjerne	VI:----:-a:----	O	
+69-25	hårene	hår	NC:pdu#:--:----	O	
+69-26	i	i	T-:----:--:----	O	
+69-27	røven	røv	NC:sduc:--:----	O	
+69-28	.	.	ZP	O	
+
+#id=70
+#text=Selvom der ikke var nogen af os, der kom til skade, så mærkede jeg dødsangsten galopere i min krop, og så var der pludselig nogle ting, jeg skulle nå", fortæller hun.
+70-1	Selv	selv	D-:----:--:u---	O	
+70-2	om	om	CS:----:--:----	O	
+70-3	der	der	US:----:--:----	O	
+70-4	ikke	ikke	D-:----:--:u---	O	
+70-5	var	være	VF:----:ta:----	O	
+70-6	nogen	nogen	PI:s-uc:--:----	O	
+70-7	af	af	T-:----:--:----	O	
+70-8	os	vi	PP:p-uc:--:-1#-	O	
+70-9	,	,	ZD	O	
+70-10	der	der	US:----:--:----	O	
+70-11	kom	komme	VF:----:ta:----	O	
+70-12	til	til	T-:----:--:----	O	
+70-13	skade	skade	NC:siuc:--:----	B-skade-F-komme-til-skade	
+70-14	,	,	ZD	O	
+70-15	så	så	D-:----:--:u---	O	
+70-16	mærkede	mærke	VF:----:ta:----	O	
+70-17	jeg	jeg	PP:s-nc:--:-1n-	O	
+70-18	dødsangsten	dødsangst	NC:sduc:--:----	O	
+70-19	galopere	galopere	VI:----:-a:----	O	
+70-20	i	i	T-:----:--:----	O	
+70-21	min	min	PO:s--c:--:-1ns	O	
+70-22	krop	krop	NC:siuc:--:----	O	
+70-23	,	,	ZD	O	
+70-24	og	og	CC:----:--:----	O	
+70-25	så	så	D-:----:--:u---	O	
+70-26	var	være	VF:----:ta:----	O	
+70-27	der	der	US:----:--:----	O	
+70-28	pludselig	pludselig	D-:----:--:u---	O	
+70-29	nogle	nogen	PI:p-u#:--:----	O	
+70-30	ting	ting	NC:piu#:--:----	O	
+70-31	,	,	ZD	O	
+70-32	jeg	jeg	PP:s-nc:--:-1n-	O	
+70-33	skulle	skulle	VF:----:ta:----	O	
+70-34	nå	nå	VI:----:-a:----	O	
+70-35	"	"	ZI	O	
+70-36	,	,	ZD	O	
+70-37	fortæller	fortælle	VF:----:sa:----	O	
+70-38	hun	hun	PP:s-nc:--:-3n-	O	
+70-39	.	.	ZP	O	
+
+#id=71
+#text=Fire centrale forsvarsspillere, Marco Materazzi, Nicolas Burdisso, Christian Chivu og Walter Samuel er stærkt tvivlsomme som følge af skader, og det kan tvinge midtbanespilleren Esteban Cambiasso ned i den bageste kæde.
+71-1	Fire	fire	LC:--u-:--:----	O	
+71-2	centrale	central	AC:p#u#:--:p---	O	
+71-3	forsvarsspillere	forsvarsspiller	NC:piu#:--:----	O	
+71-4	,	,	ZD	O	
+71-5	Marco	Marcos	NP:siu#:--:----	O	
+71-6	Materazzi	Materazzi	NP:siu#:--:----	O	
+71-7	,	,	ZD	O	
+71-8	Nicolas	Nicolas	NP:siu#:--:----	O	
+71-9	Burdisso	Burdisso	NP:siu#:--:----	O	
+71-10	,	,	ZD	O	
+71-11	Christian	Christian	NP:siu#:--:----	O	
+71-12	Chivu	Chivu	NP:siu#:--:----	O	
+71-13	og	og	CC:----:--:----	O	
+71-14	Walter	Walter	NP:siu#:--:----	O	
+71-15	Samuel	Samuel	NP:siu#:--:----	O	
+71-16	er	være	VF:----:sa:----	O	
+71-17	stærkt	stærk	AD:----:--:p---	O	
+71-18	tvivlsomme	tvivlsom	AC:p#u#:--:p---	O	
+71-19	som	som	US:----:--:----	O	
+71-20	følge	følge	NC:siuc:--:----	O	
+71-21	af	af	T-:----:--:----	O	
+71-22	skader	skade	NC:piu#:--:----	B-skade1-1a	
+71-23	,	,	ZD	O	
+71-24	og	og	CC:----:--:----	O	
+71-25	det	det	PP:s-un:--:-3n-	O	
+71-26	kan	kunne	VF:----:sa:----	O	
+71-27	tvinge	tvinge	VI:----:-a:----	O	
+71-28	midtbanespilleren	midtbanespiller	NC:sduc:--:----	O	
+71-29	Esteban	Esteban	NP:siu#:--:----	O	
+71-30	Cambiasso	Cambiasso	NP:siu#:--:----	O	
+71-31	ned	ned	D-:----:--:u---	O	
+71-32	i	i	T-:----:--:----	O	
+71-33	den	den	PM:s-uc:--:----	O	
+71-34	bageste	bagest	AC:§du§:--:s---	O	
+71-35	kæde	kæde	NC:siuc:--:----	O	
+71-36	.	.	ZP	O	
+
+#id=72
+#text=Detvurderer eksperter fra Unesco efter at have besigtiget skaderne på det danske monument, der står på Unescos liste over verdenskulturarv.
+72-1	Det	det	PP:s-un:--:-3n-	O	
+72-2	vurderer	vurdere	VF:----:sa:----	O	
+72-3	eksperter	ekspert	NC:piu#:--:----	O	
+72-4	fra	fra	T-:----:--:----	O	
+72-5	Unesco	Unesco	NP:siu#:--:----	O	
+72-6	efter	efter	T-:----:--:----	O	
+72-7	at	at	UI:----:--:----	O	
+72-8	have	have	VI:----:-a:----	O	
+72-9	besigtiget	besigtige	VT:siu#:t-:----	O	
+72-10	skaderne	skade	NC:pdu#:--:----	B-skade1-1	
+72-11	på	på	T-:----:--:----	O	
+72-12	det	den	PM:s-un:--:----	O	
+72-13	danske	dansk	AC:sdu#:--:p---	O	
+72-14	monument	monument	NC:siun:--:----	O	
+72-15	,	,	ZD	O	
+72-16	der	der	US:----:--:----	O	
+72-17	står	stå	VF:----:sa:----	O	
+72-18	på	på	T-:----:--:----	O	
+72-19	Unescos	Unescos	NP:sig#:--:----	O	
+72-20	liste	liste	NC:siuc:--:----	O	
+72-21	over	over	T-:----:--:----	O	
+72-22	verdenskulturarv	verdenskulturarv	NC:siuc:--:----	O	
+72-23	.	.	ZP	O	
+
+#id=73
+#text=Gennemde seneste år er der kommet mere fokus på risikoen for psykiske skader hos veteranerne, og forsvarets Institut for Militærpsykologi har i dag 26 ansatte.
+73-1	Gennem	gennem	T-:----:--:----	O	
+73-2	de	den	PM:p-u#:--:----	O	
+73-3	seneste	sen	AC:§du§:--:s---	O	
+73-4	år	år	NC:siun:--:----	O	
+73-5	er	være	VF:----:sa:----	O	
+73-6	der	der	US:----:--:----	O	
+73-7	kommet	komme	VT:siu#:t-:----	O	
+73-8	mere	megen	AC:##u#:--:c---	O	
+73-9	fokus	fokus	NC:siuc:--:----	O	
+73-10	på	på	T-:----:--:----	O	
+73-11	risikoen	risiko	NC:sduc:--:----	O	
+73-12	for	for	T-:----:--:----	O	
+73-13	psykiske	psykisk	AC:p#u#:--:p---	O	
+73-14	skader	skade	NC:piu#:--:----	B-skade1-1b-1c	
+73-15	hos	hos	T-:----:--:----	O	
+73-16	veteranerne	veteran	NC:pdu#:--:----	O	
+73-17	,	,	ZD	O	
+73-18	og	og	CC:----:--:----	O	
+73-19	forsvarets	forsvar	NC:sdgn:--:----	O	
+73-20	Institut	ut	NC:siun:--:----	O	
+73-21	for	for	T-:----:--:----	O	
+73-22	Militærpsykologi	militærpsykologi	NC:siuc:--:----	O	
+73-23	har	have	VF:----:sa:----	O	
+73-24	i	i	T-:----:--:----	O	
+73-25	dag	dag	NC:siuc:--:----	O	
+73-26	26	26	LC:--u-:--:----	O	
+73-27	ansatte	ansætte	VP:p#u#:t-:----	O	
+73-28	.	.	ZP	O	
+
+#id=74
+#text=I talen kom statsministeren for skade at udtale sig stolt om sin egen bondeslægts sociale og geografiske opstigen.
+74-1	I	i	T-:----:--:----	O	
+74-2	talen	tale	NC:sduc:--:----	O	
+74-3	kom	komme	VF:----:ta:----	O	
+74-4	statsministeren	statsminister	NC:sduc:--:----	O	
+74-5	for	for	T-:----:--:----	O	
+74-6	skade	skade	NC:siuc:--:----	B-skade-F-komme-for-skade	
+74-7	at	at	UI:----:--:----	O	
+74-8	udtale	udtale	VI:----:-a:----	O	
+74-9	sig	sig	PP:#-u#:--:-3y-	O	
+74-10	stolt	stolt	AD:----:--:p---	O	
+74-11	om	om	T-:----:--:----	O	
+74-12	sin	sin	PO:s--c:--:-3ys	O	
+74-13	egen	egen	AC:s§uc:--:p---	O	
+74-14	bondeslægts	bondeslægt	NC:sigc:--:----	O	
+74-15	sociale	social	AC:p#u#:--:p---	O	
+74-16	og	og	CC:----:--:----	O	
+74-17	geografiske	geografisk	AC:sdu#:--:p---	O	
+74-18	opstigen	opstige	VG:siuc:--:----	O	
+74-19	.	.	ZP	O	
+
+#id=75
+#text=Etmissilskjold hører hjemme i en fantasiverden, hvor man leger med tanken om at begrænse skaderne ved en atomkrig.
+75-1	Et	en	PI:s-un:--:----	O	
+75-2	missilskjold	missilskjold	NC:siun:--:----	O	
+75-3	hører	høre	VF:----:sa:----	O	
+75-4	hjemme	hjemme	D-:----:--:u---	O	
+75-5	i	i	T-:----:--:----	O	
+75-6	en	en	PI:s-uc:--:----	O	
+75-7	fantasiverden	fantasiverden	NC:siuc:--:----	O	
+75-8	,	,	ZD	O	
+75-9	hvor	hvor	D-:----:--:u---	O	
+75-10	man	man	PI:#-uc:--:----	O	
+75-11	leger	lege	VF:----:sa:----	O	
+75-12	med	med	T-:----:--:----	O	
+75-13	tanken	tank	NC:sduc:--:----	O	
+75-14	om	om	T-:----:--:----	O	
+75-15	at	at	UI:----:--:----	O	
+75-16	begrænse	begrænse	VI:----:-a:----	O	
+75-17	skaderne	skade	NC:pdu#:--:----	B-skade1-1	
+75-18	ved	ved	T-:----:--:----	O	
+75-19	en	en	PI:s-uc:--:----	O	
+75-20	atomkrig	atomkrig	NC:siuc:--:----	O	
+75-21	.	.	ZP	O	
+
+#id=76
+#text=1) udsætter sig selv eller andre for nærliggende fare for at lide skade på legeme eller helbred, 2) forfølger eller på anden måde groft forulemper medpatienter eller 3) øver hærværk af ikke ubetydeligt omfang.
+76-1	1	1	LC:--u-:--:----	O	
+76-2	)	)	ZD	O	
+76-3	udsætter	udsætte	VF:----:sa:----	O	
+76-4	sig	sig	PP:#-u#:--:-3y-	O	
+76-5	selv	selv	#-u#:--:----	O	
+76-6	eller	eller	CC:----:--:----	O	
+76-7	andre	anden	PI:p-u#:--:----	O	
+76-8	for	for	T-:----:--:----	O	
+76-9	nærliggende	nærliggende	AC:§§u§:--:p---	O	
+76-10	fare	fare	NC:siuc:--:----	O	
+76-11	for	for	T-:----:--:----	O	
+76-12	at	at	UI:----:--:----	O	
+76-13	lide	lide	VI:----:-a:----	O	
+76-14	skade	skade	NC:siuc:--:----	B-skade-F-tage/lide-skade	
+76-15	på	på	T-:----:--:----	O	
+76-16	legeme	legeme	NC:siun:--:----	O	
+76-17	eller	eller	CC:----:--:----	O	
+76-18	helbred	helbred	NC:siun:--:----	O	
+76-19	,	,	ZD	O	
+76-20	2	2	LC:--u-:--:----	O	
+76-21	)	)	ZD	O	
+76-22	forfølger	forfølge	VF:----:sa:----	O	
+76-23	eller	eller	CC:----:--:----	O	
+76-24	på	på	T-:----:--:----	O	
+76-25	anden	anden	PI:s-uc:--:----	O	
+76-26	måde	måde	NC:siuc:--:----	O	
+76-27	groft	grov	AD:----:--:p---	O	
+76-28	forulemper	forulempe	VF:----:sa:----	O	
+76-29	medpatienter	medpatient	NC:piu#:--:----	O	
+76-30	eller	eller	CC:----:--:----	O	
+76-31	3	3	LC:--u-:--:----	O	
+76-32	)	)	ZD	O	
+76-33	øver	øve	VF:----:sa:----	O	
+76-34	hærværk	hærværk	NC:siun:--:----	O	
+76-35	af	af	T-:----:--:----	O	
+76-36	ikke	ikke	D-:----:--:u---	O	
+76-37	ubetydeligt	ubetydelig	AC:siun:--:p---	O	
+76-38	omfang	omfang	NC:siun:--:----	O	
+76-39	.	.	ZP	O	
+
+#id=77
+#text=Deter ikke sandsynligt, at disse forslag medvirker til at sikre behandling på højeste faglige niveau ved akutte skader, så der vil nok forekomme adskillige overførsler af meget svært skadede patienter fra skadecentre til specialiserede afdelinger.
+77-1	Det	det	PP:s-un:--:-3n-	O	
+77-2	er	være	VF:----:sa:----	O	
+77-3	ikke	ikke	D-:----:--:u---	O	
+77-4	sandsynligt	sandsynlig	AC:siun:--:p---	O	
+77-5	,	,	ZD	O	
+77-6	at	at	CS:----:--:----	O	
+77-7	disse	denne	PM:p-u#:--:----	O	
+77-8	forslag	forslag	NC:piu#:--:----	O	
+77-9	medvirker	medvirke	VF:----:sa:----	O	
+77-10	til	til	T-:----:--:----	O	
+77-11	at	at	UI:----:--:----	O	
+77-12	sikre	sikre	VI:----:-a:----	O	
+77-13	behandling	behandling	NC:siuc:--:----	O	
+77-14	på	på	T-:----:--:----	O	
+77-15	højeste	høj	AC:§du§:--:s---	O	
+77-16	faglige	faglig	AC:sdu#:--:p---	O	
+77-17	niveau	niveau	NC:siun:--:----	O	
+77-18	ved	ved	T-:----:--:----	O	
+77-19	akutte	akut	AC:p#u#:--:p---	O	
+77-20	skader	skade	NC:piu#:--:----	B-skade1-1a	
+77-21	,	,	ZD	O	
+77-22	så	så	CS:----:--:----	O	
+77-23	der	der	US:----:--:----	O	
+77-24	vil	ville	VF:----:sa:----	O	
+77-25	nok	nok	D-:----:--:u---	O	
+77-26	forekomme	forekomme	VI:----:-a:----	O	
+77-27	adskillige	adskillig	AC:p#u#:--:p---	O	
+77-28	overførsler	overførsel	NC:piu#:--:----	O	
+77-29	af	af	T-:----:--:----	O	
+77-30	meget	megen	AD:----:--:p---	O	
+77-31	svært	svær	AD:----:--:p---	O	
+77-32	skadede	skade	VP:p#u#:t-:----	O	
+77-33	patienter	patient	NC:piu#:--:----	O	
+77-34	fra	fra	T-:----:--:----	O	
+77-35	skadecentre	skadecenter	NC:piu#:--:----	O	
+77-36	til	til	T-:----:--:----	O	
+77-37	specialiserede	specialisere	VP:p#u#:t-:----	O	
+77-38	afdelinger	afdeling	NC:piu#:--:----	O	
+77-39	.	.	ZP	O	
+
+#id=78
+#text=Det giver afgjort en risiko for både afhængighed af alkohol og fysiske skader og sygdomme på  den lange bane", siger Kit Broholm.
+78-1	Det	det	PP:s-un:--:-3n-	O	
+78-2	giver	give	VF:----:sa:----	O	
+78-3	afgjort	afgøre	VT:siu#:t-:----	O	
+78-4	en	en	PI:s-uc:--:----	O	
+78-5	risiko	risiko	NC:siuc:--:----	O	
+78-6	for	for	T-:----:--:----	O	
+78-7	både	både	D-:----:--:u---	O	
+78-8	afhængighed	afhængighed	NC:siuc:--:----	O	
+78-9	af	af	T-:----:--:----	O	
+78-10	alkohol	alkohol	NC:siuc:--:----	O	
+78-11	og	og	CC:----:--:----	O	
+78-12	fysiske	fysisk	AC:p#u#:--:p---	O	
+78-13	skader	skade	NC:piu#:--:----	B-skade1-1a	
+78-14	og	og	CC:----:--:----	O	
+78-15	sygdomme	sygdom	NC:piu#:--:----	O	
+78-16	på	på	T-:----:--:----	O	
+78-17	den	den	PM:s-uc:--:----	O	
+78-18	lange	lang	AC:sdu#:--:p---	O	
+78-19	bane	bane	NC:siuc:--:----	O	
+78-20	"	"	ZI	O	
+78-21	,	,	ZD	O	
+78-22	siger	sige	VF:----:sa:----	O	
+78-23	Kit	kit	NC:siun:--:----	O	
+78-24	Broholm	Broholm	NP:siu#:--:----	O	
+78-25	.	.	ZP	O	
+
+#id=79
+#text="Ligesompå et psykiatrisk hospital, hvor man holder patienterne fast, så de ikke kommer til skade", forklarer Camilla Holstein og erkender, at pigen kan have oplevet uddrivelser af dæmoner i Evangelist:
+79-1	"	"	ZI	O	
+79-2	Ligesom	ligesom	D-:----:--:u---	O	
+79-3	på	på	T-:----:--:----	O	
+79-4	et	en	PI:s-un:--:----	O	
+79-5	psykiatrisk	psykiatrisk	AC:siu§:--:p---	O	
+79-6	hospital	hospital	NC:siun:--:----	O	
+79-7	,	,	ZD	O	
+79-8	hvor	hvor	D-:----:--:u---	O	
+79-9	man	man	PI:#-uc:--:----	O	
+79-10	holder	holde	VF:----:sa:----	O	
+79-11	patienterne	patient	NC:pdu#:--:----	O	
+79-12	fast	fast	AD:----:--:p---	O	
+79-13	,	,	ZD	O	
+79-14	så	så	CS:----:--:----	O	
+79-15	de	de	PP:p-n#:--:-3n-	O	
+79-16	ikke	ikke	D-:----:--:u---	O	
+79-17	kommer	komme	VF:----:sa:----	O	
+79-18	til	til	T-:----:--:----	O	
+79-19	skade	skade	NC:siuc:--:----	B-skade-F-komme-til-skade	
+79-20	"	"	ZI	O	
+79-21	,	,	ZD	O	
+79-22	forklarer	forklare	---:sa:----	O	
+79-23	Camilla	Camilla	NP:siu#:--:----	O	
+79-24	Holstein	Holstein	NP:siu#:--:----	O	
+79-25	og	og	CC:----:--:----	O	
+79-26	erkender	erkende	VF:----:sa:----	O	
+79-27	,	,	ZD	O	
+79-28	at	at	CS:----:--:----	O	
+79-29	pigen	pige	NC:sduc:--:----	O	
+79-30	kan	kunne	VF:----:sa:----	O	
+79-31	have	have	VI:----:-a:----	O	
+79-32	oplevet	opleve	VT:siu#:t-:----	O	
+79-33	uddrivelser	uddrivelse	NC:piu#:--:----	O	
+79-34	af	af	T-:----:--:----	O	
+79-35	dæmoner	dæmon	NC:piu#:--:----	O	
+79-36	i	i	T-:----:--:----	O	
+79-37	Evangelist	evangelist	NC:siuc:--:----	O	
+79-38	:	:	ZP	O	
+
+#id=80
+#text=Gør nu ikke noget, der risikerer at gøre stor skade på naboerne.
+80-1	Gør	gøre	VF:----:sa:----	O	
+80-2	nu	nu	D-:----:--:u---	O	
+80-3	ikke	ikke	D-:----:--:u---	O	
+80-4	noget	nogen	PI:s-un:--:----	O	
+80-5	,	,	ZD	O	
+80-6	der	der	US:----:--:----	O	
+80-7	risikerer	risikere	VF:----:sa:----	O	
+80-8	at	at	----	O	
+80-9	gøre	gøre	VI:----:-a:----	O	
+80-10	stor	stor	AC:siuc:--:p---	O	
+80-11	skade	skade	NC:siuc:--:----	B-skade1-1	
+80-12	på	på	T-:----:--:----	O	
+80-13	naboerne	nabo	NC:pdu#:--:----	O	
+80-14	.	.	ZP	O	
+
+#id=81
+#text=Selve omfanget af den skade, der er gjort af finansiel spekulation på Wall Street, i London og de andre finanscentre, er rystende.
+81-1	Selve	selve	AC:§§u§:--:p---	O	
+81-2	omfanget	omfang	NC:sdun:--:----	O	
+81-3	af	af	T-:----:--:----	O	
+81-4	den	den	PM:s-uc:--:----	O	
+81-5	skade	skade	NC:siuc:--:----	B-skade1-1	
+81-6	,	,	ZD	O	
+81-7	der	der	US:----:--:----	O	
+81-8	er	være	VF:----:sa:----	O	
+81-9	gjort	gøre	VT:siu#:t-:----	O	
+81-10	af	af	T-:----:--:----	O	
+81-11	finansiel	finansiel	AC:siuc:--:p---	O	
+81-12	spekulation	spekulation	NC:siuc:--:----	O	
+81-13	på	på	T-:----:--:----	O	
+81-14	Wall	Wall	NP:siu#:--:----	O	
+81-15	Street	Street	NP:siu#:--:----	O	
+81-16	,	,	ZD	O	
+81-17	i	i	T-:----:--:----	O	
+81-18	London	London	u#:--:----	O	
+81-19	og	og	CC:----:--:----	O	
+81-20	de	den	PM:p-u#:--:----	O	
+81-21	andre	anden	PI:p-u#:--:----	O	
+81-22	finanscentre	finanscenter	NC:piu#:--:----	O	
+81-23	,	,	ZD	O	
+81-24	er	være	VF:----:sa:----	O	
+81-25	rystende	rystende	AC:§§u§:--:p---	O	
+81-26	.	.	ZP	O	
+
+#id=82
+#text=Ingen personer kom til skade, og væsken er ikke giftig.
+82-1	Ingen	ingen	PI:s-uc:--:----	O	
+82-2	personer	person	NC:piu#:--:----	O	
+82-3	kom	komme	VF:----:ta:----	O	
+82-4	til	til	T-:----:--:----	O	
+82-5	skade	skade	NC:siuc:--:----	B-skade-F-komme-til-skade	
+82-6	,	,	ZD	O	
+82-7	og	og	CC:----:--:----	O	
+82-8	væsken	væske	NC:sduc:--:----	O	
+82-9	er	være	VF:----:sa:----	O	
+82-10	ikke	ikke	D-:----:--:u---	O	
+82-11	giftig	giftig	AC:siuc:--:p---	O	
+82-12	.	.	ZP	O	
+
+#id=83
+#text=Efternogle år som professionel danser fik Curran en skade, som tvang ham til at opgive karrieren.
+83-1	Efter	efter	T-:----:--:----	O	
+83-2	nogle	nogen	PI:p-u#:--:----	O	
+83-3	år	år	NC:piu#:--:----	O	
+83-4	som	som	US:----:--:----	O	
+83-5	professionel	professionel	AC:siuc:--:p---	O	
+83-6	danser	danser	NC:siuc:--:----	O	
+83-7	fik	få	VF:----:ta:----	O	
+83-8	Curran	Curran	NP:siu#:--:----	O	
+83-9	en	en	PI:s-uc:--:----	O	
+83-10	skade	skade	NC:siuc:--:----	B-skade1-1a	
+83-11	,	,	ZD	O	
+83-12	som	som	US:----:--:----	O	
+83-13	tvang	tvinge	VF:----:ta:----	O	
+83-14	ham	han	PP:s-uc:--:-3n-	O	
+83-15	til	til	T-:----:--:----	O	
+83-16	at	at	UI:----:--:----	O	
+83-17	opgive	opgive	VI:----:-a:----	O	
+83-18	karrieren	karriere	NC:sduc:--:----	O	
+83-19	.	.	ZP	O	
+
+#id=84
+#text=Fortørken er resultatet af menneskeskabte skader på miljøet, har en klimaekspert fra Kinas statslige meteorologiske kontor slået fast.
+84-1	For	for	T-:----:--:----	O	
+84-2	tørken	tørke	NC:sduc:--:----	O	
+84-3	er	være	VF:----:sa:----	O	
+84-4	resultatet	resultat	NC:sdun:--:----	O	
+84-5	af	af	T-:----:--:----	O	
+84-6	menneskeskabte	menneskeskabt	AC:p#u#:--:p---	O	
+84-7	skader	skade	NC:piu#:--:----	B-skade1-1	
+84-8	på	på	T-:----:--:----	O	
+84-9	miljøet	miljø	-	O	
+84-10	,	,	ZD	O	
+84-11	har	have	VF:----:sa:----	O	
+84-12	en	en	PI:s-uc:--:----	O	
+84-13	klimaekspert	klimaekspert	NC:siuc:--:----	O	
+84-14	fra	fra	T-:----:--:----	O	
+84-15	Kinas	Kina	NP:sig#:--:----	O	
+84-16	statslige	statslig	AC:sdu#:--:p---	O	
+84-17	meteorologiske	meteorologisk	AC:sdu#:--:p---	O	
+84-18	kontor	kontor	NC:siun:--:----	O	
+84-19	slået	slå	VT:siu#:t-:----	O	
+84-20	fast	fast	AD:----:--:p---	O	
+84-21	.	.	ZP	O	
+
+#id=85
+#text=Miljøorganisationener også i debat med den kinesiske regering, blandt andet med anbefaling af, at landet skruer ned for sit altdominerende forbrug af kul til kraftværker, fordi det er den eneste langsigtede måde at tackle CO2-udledningens skader på klimaet på.
+85-1	Miljøorganisationen	miljøorganisation	NC:sduc:--:----	O	
+85-2	er	være	VF:----:sa:----	O	
+85-3	også	også	D-:----:--:u---	O	
+85-4	i	i	T-:----:--:----	O	
+85-5	debat	debat	NC:siuc:--:----	O	
+85-6	med	med	T-:----:--:----	O	
+85-7	den	den	PM:s-uc:--:----	O	
+85-8	kinesiske	kinesisk	AC:sdu#:--:p---	O	
+85-9	regering	regering	NC:siuc:--:----	O	
+85-10	,	,	ZD	O	
+85-11	blandt	blandt	T-:----:--:----	O	
+85-12	andet	anden	PI:s-un:--:----	O	
+85-13	med	med	T-:----:--:----	O	
+85-14	anbefaling	anbefaling	NC:siuc:--:----	O	
+85-15	af	af	T-:----:--:----	O	
+85-16	,	,	ZD	O	
+85-17	at	at	CS:----:--:----	O	
+85-18	landet	land	NC:sdun:--:----	O	
+85-19	skruer	skrue	VF:----:sa:----	O	
+85-20	ned	ned	D-:----:--:u---	O	
+85-21	for	for	T-:----:--:----	O	
+85-22	sit	sin	PO:s--n:--:-3ys	O	
+85-23	altdominerende	altdominerende	AC:§§u§:--:p---	O	
+85-24	forbrug	forbrug	NC:siun:--:----	O	
+85-25	af	af	T-:----:--:----	O	
+85-26	kul	kul	NC:siun:--:----	O	
+85-27	til	til	T-:----:--:----	O	
+85-28	kraftværker	kraftværk	NC:piu#:--:----	O	
+85-29	,	,	ZD	O	
+85-30	fordi	fordi	CS:----:--:----	O	
+85-31	det	det	PP:s-un:--:-3n-	O	
+85-32	er	være	VF:----:sa:----	O	
+85-33	den	den	PM:s-uc:--:----	O	
+85-34	eneste	eneste	AC:§§u§:--:p---	O	
+85-35	langsigtede	langsigtet	AC:sdu#:--:p---	O	
+85-36	måde	måde	NC:siuc:--:----	O	
+85-37	at	at	UI:----:--:----	O	
+85-38	tackle	tackle	VI:----:-a:----	O	
+85-39	CO2	CO2	NP:siu#:--:----	O	
+85-40	-	-	ZH	O	
+85-41	udledningens	udledning	NC:sdgc:--:----	O	
+85-42	skader	skade	NC:piu#:--:----	B-skade1-1	
+85-43	på	på	T-:----:--:----	O	
+85-44	klimaet	klima	NC:sdun:--:----	O	
+85-45	på	på	T-:----:--:----	O	
+85-46	.	.	ZP	O	
+
+#id=86
+#text="Bush gjorde stor skade på reformbevægelsen.
+86-1	"	"	ZI	O	
+86-2	Bush	Bush	NP:siu#:--:----	O	
+86-3	gjorde	gøre	VF:----:ta:----	O	
+86-4	stor	stor	AC:siuc:--:p---	O	
+86-5	skade	skade	NC:siuc:--:----	B-skade1-1	
+86-6	på	på	T-:----:--:----	O	
+86-7	reformbevægelsen	reformbevægelse	NC:sduc:--:----	O	
+86-8	.	.	ZP	O	
+
+#id=87
+#text=Patienter fik alvorlige skader på grund af blodpropper i hjertet eller hjernen, mens de var i behandling med Letigen.
+87-1	Patienter	patient	NC:piu#:--:----	O	
+87-2	fik	få	VF:----:ta:----	O	
+87-3	alvorlige	alvorlig	AC:p#u#:--:p---	O	
+87-4	skader	skade	NC:piu#:--:----	B-skade1-1a	
+87-5	på	på	T-:----:--:----	O	
+87-6	grund	grund	NC:siuc:--:----	O	
+87-7	af	af	T-:----:--:----	O	
+87-8	blodpropper	blodprop	NC:piu#:--:----	O	
+87-9	i	i	T-:----:--:----	O	
+87-10	hjertet	hjerte	NC:sdun:--:----	O	
+87-11	eller	eller	CC:----:--:----	O	
+87-12	hjernen	hjerne	NC:sduc:--:----	O	
+87-13	,	,	ZD	O	
+87-14	mens	mens	CS:----:--:----	O	
+87-15	de	de	PP:p-n#:--:-3n-	O	
+87-16	var	være	VF:----:ta:----	O	
+87-17	i	i	T-:----:--:----	O	
+87-18	behandling	behandling	NC:siuc:--:----	O	
+87-19	med	med	T-:----:--:----	O	
+87-20	Letigen	Letigen	NP:siu#:--:----	O	
+87-21	.	.	ZP	O	
+
+#id=88
+#text=Patientforsikringen fandt, at 16 patienters skader "mest sandsynligt kan tilskrives behandlingen med Letigen".
+88-1	Patientforsikringen	patientforsikring	NC:sduc:--:----	O	
+88-2	fandt	finde	VF:----:ta:----	O	
+88-3	,	,	ZD	O	
+88-4	at	at	CS:----:--:----	O	
+88-5	16	16	LC:--u-:--:----	O	
+88-6	patienters	patient	NC:pig#:--:----	O	
+88-7	skader	skade	NC:piu#:--:----	B-skade1-1a	
+88-8	"	"	ZI	O	
+88-9	mest	mest	-:----	O	
+88-10	sandsynligt	sandsynlig	AD:----:--:p---	O	
+88-11	kan	kunne	VF:----:sa:----	O	
+88-12	tilskrives	tilskrive	VI:----:-p:----	O	
+88-13	behandlingen	behandling	NC:sduc:--:----	O	
+88-14	med	med	T-:----:--:----	O	
+88-15	Letigen	Letigen	NP:siu#:--:----	O	
+88-16	"	"	ZI	O	
+88-17	.	.	ZP	O	
+
+#id=89
+#text=Rentsamfundsøkonomisk er skaderne lettere at overse - nogle skøn taler om skader for cirka 4 milliarder kroner - fordi brandene har hærget tyndt befolkede områder.
+89-1	Rent	ren	AD:----:--:p---	O	
+89-2	samfundsøkonomisk	samfundsøkonomisk	AD:----:--:p---	O	
+89-3	er	være	VF:----:sa:----	O	
+89-4	skaderne	skade	NC:pdu#:--:----	B-skade1-1	
+89-5	lettere	let	AD:----:--:c---	O	
+89-6	at	at	UI:----:--:----	O	
+89-7	overse	overse	VI:----:-a:----	O	
+89-8	-	-	XY:----:--:----	O	
+89-9	nogle	nogen	PI:p-u#:--:----	O	
+89-10	skøn	skøn	NC:piu#:--:----	O	
+89-11	taler	tale	VF:----:sa:----	O	
+89-12	om	om	T-:----:--:----	O	
+89-13	skader	skade	NC:piu#:--:----	O	
+89-14	for	for	T-:----:--:----	O	
+89-15	cirka	cirka	D-:----:--:u---	O	
+89-16	4	4	LC:--u-:--:----	O	
+89-17	milliarder	milliard	NC:piu#:--:----	O	
+89-18	kroner	krone	NC:piu#:--:----	O	
+89-19	-	-	ZH	O	
+89-20	fordi	fordi	CS:----:--:----	O	
+89-21	brandene	brand	NC:pdu#:--:----	O	
+89-22	har	have	VF:----:sa:----	O	
+89-23	hærget	hærge	VT:siu#:t-:----	O	
+89-24	tyndt	tynd	AD:----:--:p---	O	
+89-25	befolkede	befolket	AC:p#u#:--:p---	O	
+89-26	områder	område	NC:piu#:--:----	O	
+89-27	.	.	ZP	O	
+
+#id=90
+#text=Ifølge dyreværnsgrupper er det for tidligt at gøre skaderne op, men mange dyr er døde.
+90-1	Ifølge	ifølge	T-:----:--:----	O	
+90-2	dyreværnsgrupper	dyreværnsgruppe	NC:piu#:--:----	O	
+90-3	er	være	VF:----:sa:----	O	
+90-4	det	det	PP:s-un:--:-3n-	O	
+90-5	for	for	T-:----:--:----	O	
+90-6	tidligt	tidlig	AC:siun:--:p---	O	
+90-7	at	at	UI:----:--:----	O	
+90-8	gøre	gøre	VI:----:-a:----	O	
+90-9	skaderne	skade	NC:pdu#:--:----	B-skade1-1	
+90-10	op	op	D-:----:--:u---	O	
+90-11	,	,	ZD	O	
+90-12	men	men	CC:----:--:----	O	
+90-13	mange	mangen	AC:p#u#:--:p---	O	
+90-14	dyr	dyr	NC:piu#:--:----	O	
+90-15	er	være	VF:----:sa:----	O	
+90-16	døde	død	AC:p#u#:--:p---	O	
+90-17	.	.	ZP	O	
+
+#id=91
+#text="Jeghar overstået mine skader, og det er positivt, men formmæssigt er jeg endnu langt fra mit maksimale niveau.
+91-1	"	"	ZI	O	
+91-2	Jeg	jeg	PP:s-nc:--:-1n-	O	
+91-3	har	have	VF:----:sa:----	O	
+91-4	overstået	overstå	VT:siu#:t-:----	O	
+91-5	mine	mine	NC:siuc:--:----	O	
+91-6	skader	skade	NC:piu#:--:----	B-skade1-1a	
+91-7	,	,	ZD	O	
+91-8	og	og	CC:----:--:----	O	
+91-9	det	det	PP:s-un:--:-3n-	O	
+91-10	er	være	VF:----:sa:----	O	
+91-11	positivt	positiv	AC:siun:--:p---	O	
+91-12	,	,	ZD	O	
+91-13	men	men	CC:----:--:----	O	
+91-14	formmæssigt	formmæssig	AD:----:--:p---	O	
+91-15	er	være	VF:----:sa:----	O	
+91-16	jeg	jeg	PP:s-nc:--:-1n-	O	
+91-17	endnu	endnu	D-:----:--:u---	O	
+91-18	langt	lang	AD:----:--:p---	O	
+91-19	fra	fra	T-:----:--:----	O	
+91-20	mit	min	--n:--:-1ns	O	
+91-21	maksimale	maksimal	AC:sdu#:--:p---	O	
+91-22	niveau	niveau	NC:siun:--:----	O	
+91-23	.	.	ZP	O	
+
+#id=92
+#text=Denyngre søster til Wimbledon-mesteren fra 1996, nu tennispensionerede Richard Krajicek, har en del gode skalpe i bæltet, men på grund af en 2008-sæson præget af skader er den 20-årige hollænder langt fra sin bedste placering som nr.
+92-1	Den	den	PM:s-uc:--:----	O	
+92-2	yngre	ung	AC:##u#:--:c---	O	
+92-3	søster	søster	NC:siuc:--:----	O	
+92-4	til	til	T-:----:--:----	O	
+92-5	Wimbledon	Wimbledon	NP:siu#:--:----	O	
+92-6	-	-	ZH	O	
+92-7	mesteren	mester	NC:sduc:--:----	O	
+92-8	fra	fra	T-:----:--:----	O	
+92-9	1996	1996	LC:--u-:--:----	O	
+92-10	,	,	ZD	O	
+92-11	nu	nu	D-:----:--:u---	O	
+92-12	tennispensionerede	tennispensionere	VF:----:ta:----	O	
+92-13	Richard	Richard	NP:siu#:--:----	O	
+92-14	Krajicek	ek	NP:siu#:--:----	O	
+92-15	,	,	ZD	O	
+92-16	har	have	VF:----:sa:----	O	
+92-17	en	en	PI:s-uc:--:----	O	
+92-18	del	del	NC:siuc:--:----	O	
+92-19	gode	god	AC:p#u#:--:p---	O	
+92-20	skalpe	skalp	NC:piu#:--:----	O	
+92-21	i	i	T-:----:--:----	O	
+92-22	bæltet	bælt	NC:sdun:--:----	O	
+92-23	,	,	ZD	O	
+92-24	men	men	CC:----:--:----	O	
+92-25	på	på	T-:----:--:----	O	
+92-26	grund	grund	NC:siuc:--:----	O	
+92-27	af	af	T-:----:--:----	O	
+92-28	en	en	PI:s-uc:--:----	O	
+92-29	2008	2008	LW:----:--:----	O	
+92-30	-	-	ZH	O	
+92-31	sæson	sæson	NC:siuc:--:----	O	
+92-32	præget	præge	VT:siu#:t-:----	O	
+92-33	af	af	T-:----:--:----	O	
+92-34	skader	skade	NC:piu#:--:----	B-skade1-1a	
+92-35	er	være	VF:----:sa:----	O	
+92-36	den	den	PM:s-uc:--:----	O	
+92-37	20	20	LW:----:--:----	O	
+92-38	-	-	ZH	O	
+92-39	årige	årig	AC:sdu#:--:p---	O	
+92-40	hollænder	hollænder	NC:siuc:--:----	O	
+92-41	langt	lang	AD:----:--:p---	O	
+92-42	fra	fra	T-:----:--:----	O	
+92-43	sin	sin	PO:s--c:--:-3ys	O	
+92-44	bedste	god	AC:§du§:--:s---	O	
+92-45	placering	placering	NC:siuc:--:----	O	
+92-46	som	som	US:----:--:----	O	
+92-47	nr	nummer	NC:siun:--:----	O	
+92-48	.	.	ZP	O	
+
+#id=93
+#text=Den irske bankpakke var eksempelvis kun designet til at hjælpe rene irske banker til skade for f.eks.
+93-1	Den	den	PM:s-uc:--:----	O	
+93-2	irske	irsk	AC:sdu#:--:p---	O	
+93-3	bankpakke	bankpakke	NC:siuc:--:----	O	
+93-4	var	være	VF:----:ta:----	O	
+93-5	eksempelvis	eksempelvis	D-:----:--:u---	O	
+93-6	kun	kun	D-:----:--:u---	O	
+93-7	designet	designe	VT:siu#:t-:----	O	
+93-8	til	til	T-:----:--:----	O	
+93-9	at	at	UI:----:--:----	O	
+93-10	hjælpe	hjælpe	VI:----:-a:----	O	
+93-11	rene	ren	AC:p#u#:--:p---	O	
+93-12	irske	irsk	AC:p#u#:--:p---	O	
+93-13	banker	bank	NC:piu#:--:----	O	
+93-14	til	til	T-:----:--:----	O	
+93-15	skade	skade	NC:siuc:--:----	B-skade1-1	
+93-16	for	for	T-:----:--:----	O	
+93-17	f	for	T-:----:--:----	O	
+93-18	.	.	ZP	O	
+93-19	eks	eksempel	NC:siun:--:----	O	
+93-20	.	.	ZP	O	
+
+#id=94
+#text=Man har oven i købet føjet spot til skade ved at oprette nogle 'akademiske råd' for denne gruppe uden nogen som helst indflydelse.
+94-1	Man	man	PI:#-uc:--:----	O	
+94-2	har	have	---:sa:----	O	
+94-3	oven	oven	D-:----:--:u---	O	
+94-4	i	i	T-:----:--:----	O	
+94-5	købet	køb	NC:sdun:--:----	O	
+94-6	føjet	føje	VT:siu#:t-:----	O	
+94-7	spot	spot	NC:siuc:--:----	O	
+94-8	til	til	T-:----:--:----	O	
+94-9	skade	skade	NC:siuc:--:----	B-skade-F-føje-spot-til-skade	
+94-10	ved	ved	T-:----:--:----	O	
+94-11	at	at	UI:----:--:----	O	
+94-12	oprette	oprette	VI:----:-a:----	O	
+94-13	nogle	nogle	XY:----:--:----	O	
+94-14	'	'	ZA	O	
+94-15	akademiske	akademisk	AC:sdu#:--:p---	O	
+94-16	råd	råd	NC:siun:--:----	O	
+94-17	'	'	ZA	O	
+94-18	for	for	T-:----:--:----	O	
+94-19	denne	denne	PM:s-uc:--:----	O	
+94-20	gruppe	gruppe	NC:siuc:--:----	O	
+94-21	uden	uden	T-:----:--:----	O	
+94-22	nogen	nogen	PI:s-uc:--:----	O	
+94-23	som	som	US:----:--:----	O	
+94-24	helst	helst	D-:----:--:u---	O	
+94-25	indflydelse	indflydelse	NC:siuc:--:----	O	
+94-26	.	.	ZP	O	
+
+#id=95
+#text=Jeg var heldig, at jeg havde en lang karriere med stor succes og ingen skader.
+95-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+95-2	var	være	VF:----:ta:----	O	
+95-3	heldig	heldig	AC:siuc:--:p---	O	
+95-4	,	,	ZD	O	
+95-5	at	at	CS:----:--:----	O	
+95-6	jeg	jeg	PP:s-nc:--:-1n-	O	
+95-7	havde	have	VF:----:ta:----	O	
+95-8	en	en	PI:s-uc:--:----	O	
+95-9	lang	lang	AC:siuc:--:p---	O	
+95-10	karriere	karriere	NC:siuc:--:----	O	
+95-11	med	med	T-:----:--:----	O	
+95-12	stor	stor	AC:siuc:--:p---	O	
+95-13	succes	succes	NC:siuc:--:----	O	
+95-14	og	og	CC:----:--:----	O	
+95-15	ingen	ingen	PI:s-uc:--:----	O	
+95-16	skader	skade	NC:piu#:--:----	B-skade1-1a	
+95-17	.	.	ZP	O	
+
+#id=96
+#text=Til stor skade for de studerende og uddannelserne.
+96-1	Til	til	T-:----:--:----	O	
+96-2	stor	stor	AC:siuc:--:p---	O	
+96-3	skade	skade	NC:siuc:--:----	B-skade1-1	
+96-4	for	for	T-:----:--:----	O	
+96-5	de	den	PM:p-u#:--:----	O	
+96-6	studerende	studerende	NC:p§uc:--:----	O	
+96-7	og	og	CC:----:--:----	O	
+96-8	uddannelserne	uddannelse	NC:pdu#:--:----	O	
+96-9	.	.	ZP	O	
+
+#id=97
+#text=Skaderne på togvognen vurderes til at løbe op i ca. 136.000 danske kroner, og Tunnelbaneselskabet overvejer nu at rejse sag mod gerningsmanden.
+97-1	Skaderne	skade	NC:pdu#:--:----	B-skade1-1	
+97-2	på	på	T-:----:--:----	O	
+97-3	togvognen	togvogn	NC:sduc:--:----	O	
+97-4	vurderes	vurdere	VF:----:sp:----	O	
+97-5	til	til	T-:----:--:----	O	
+97-6	at	at	UI:----:--:----	O	
+97-7	løbe	løbe	VI:----:-a:----	O	
+97-8	op	op	D-:----:--:u---	O	
+97-9	i	i	T-:----:--:----	O	
+97-10	ca	cirka	D-:----:--:u---	O	
+97-11	.	.	ZP	O	
+97-12	136	136	LC:--u-:--:----	O	
+97-13	.	.	ZP	O	
+97-14	000	000	LC:--u-:--:----	O	
+97-15	danske	dansk	AC:p#u#:--:p---	O	
+97-16	kroner	krone	NC:piu#:--:----	O	
+97-17	,	,	ZD	O	
+97-18	og	og	CC:----:--:----	O	
+97-19	Tunnelbaneselskabet	Tunnelbaneselskabet	NP:siu#:--:----	O	
+97-20	overvejer	overveje	VF:----:sa:----	O	
+97-21	nu	nu	D-:----:--:u---	O	
+97-22	at	at	UI:----:--:----	O	
+97-23	rejse	rejse	VI:----:-a:----	O	
+97-24	sag	sag	NC:siuc:--:----	O	
+97-25	mod	mod	T-:----:--:----	O	
+97-26	gerningsmanden	gerningsmand	NC:sduc:--:----	O	
+97-27	.	.	ZP	O	
+
+#id=98
+#text=Jeg er alvorligt bange for, at han har taget varig skade.
+98-1	Jeg	jeg	PP:s-nc:--:-1n-	O	
+98-2	er	være	VF:----:sa:----	O	
+98-3	alvorligt	alvorlig	AD:----:--:p---	O	
+98-4	bange	bange	AC:§§u§:--:p---	O	
+98-5	for	for	T-:----:--:----	O	
+98-6	,	,	ZD	O	
+98-7	at	at	CS:----:--:----	O	
+98-8	han	han	PP:s-nc:--:-3n-	O	
+98-9	har	have	VF:----:sa:----	O	
+98-10	taget	tage	VT:siu#:t-:----	O	
+98-11	varig	varig	AC:siuc:--:p---	O	
+98-12	skade	skade	NC:siuc:--:----	B-skade-F-tage/lide-skade	
+98-13	.	.	ZP	O	
+
+#id=99
+#text=Det fremgår af § 14 i lov om anvendelse af tvang i psykiatrien, at ... ... tvangsfiksering kun må anvendes i det omfang, det er nødvendigt for at afværge, at en patient ... ... udsætter sig selv eller andre for nærliggende fare for at lide skade på legeme eller helbred, ... forfølger eller på anden lignende måde groft forulemper medpatienter eller ... øver hærværk af ikke ubetydeligt omfang.
+99-1	Det	det	PP:s-un:--:-3n-	O	
+99-2	fremgår	fremgå	VF:----:sa:----	O	
+99-3	af	af	XY:----:--:----	O	
+99-4	§	§	XS:----:--:----	O	
+99-5	14	14	LC:--u-:--:----	O	
+99-6	i	i	T-:----:--:----	O	
+99-7	lov	lov	NC:§§u§:--:----	O	
+99-8	om	om	T-:----:--:----	O	
+99-9	anvendelse	anvendelse	NC:siuc:--:----	O	
+99-10	af	af	T-:----:--:----	O	
+99-11	tvang	tvang	NC:siuc:--:----	O	
+99-12	i	i	T-:----:--:----	O	
+99-13	psykiatrien	psykiatri	NC:sduc:--:----	O	
+99-14	,	,	ZD	O	
+99-15	at	at	CS:----:--:----	O	
+99-16	.	.	ZP	O	
+99-17	.	.	ZP	O	
+99-18	.	.	ZP	O	
+99-19	.	.	ZP	O	
+99-20	.	.	ZP	O	
+99-21	.	.	ZP	O	
+99-22	tvangsfiksering	tvangsfiksering	NC:siuc:--:----	O	
+99-23	kun	kun	D-:----:--:u---	O	
+99-24	må	måtte	VF:----:sa:----	O	
+99-25	anvendes	anvende	VI:----:-p:----	O	
+99-26	i	i	T-:----:--:----	O	
+99-27	det	den	PM:s-un:--:----	O	
+99-28	omfang	omfang	NC:siun:--:----	O	
+99-29	,	,	ZD	O	
+99-30	det	det	PP:s-un:--:-3n-	O	
+99-31	er	være	VF:----:sa:----	O	
+99-32	nødvendigt	nødvendig	AD:----:--:p---	O	
+99-33	for	for	T-:----:--:----	O	
+99-34	at	at	UI:----:--:----	O	
+99-35	afværge	afværge	VI:----:-a:----	O	
+99-36	,	,	ZD	O	
+99-37	at	at	CS:----:--:----	O	
+99-38	en	en	PI:s-uc:--:----	O	
+99-39	patient	patient	NC:siuc:--:----	O	
+99-40	.	.	ZP	O	
+99-41	.	.	ZP	O	
+99-42	.	.	ZP	O	
+99-43	.	.	ZP	O	
+99-44	.	.	ZP	O	
+99-45	.	.	ZP	O	
+99-46	udsætter	udsætte	VF:----:sa:----	O	
+99-47	sig	sig	PP:#-u#:--:-3y-	O	
+99-48	selv	selv	PM:#-u#:--:----	O	
+99-49	eller	eller	CC:----:--:----	O	
+99-50	andre	anden	PI:p-u#:--:----	O	
+99-51	for	for	T-:----:--:----	O	
+99-52	nærliggende	nærliggende	AC:§§u§:--:p---	O	
+99-53	fare	fare	NC:siuc:--:----	O	
+99-54	for	for	T-:----:--:----	O	
+99-55	at	at	UI:----:--:----	O	
+99-56	lide	lide	VI:----:-a:----	O	
+99-57	skade	skade	NC:siuc:--:----	B-skade-F-tage/lide-skade	
+99-58	på	på	T-:----:--:----	O	
+99-59	legeme	legeme	NC:siun:--:----	O	
+99-60	eller	eller	CC:----:--:----	O	
+99-61	helbred	helbred	NC:siun:--:----	O	
+99-62	,	,	ZD	O	
+99-63	.	.	ZP	O	
+99-64	.	.	ZP	O	
+99-65	.	.	ZP	O	
+99-66	forfølger	forfølger	NC:siuc:--:----	O	
+99-67	eller	eller	CC:----:--:----	O	
+99-68	på	på	T-:----:--:----	O	
+99-69	anden	anden	PI:s-uc:--:----	O	
+99-70	lignende	ligne	VP:##u#:s-:----	O	
+99-71	måde	måde	NC:siuc:--:----	O	
+99-72	groft	grov	AD:----:--:p---	O	
+99-73	forulemper	forulempe	VF:----:sa:----	O	
+99-74	medpatienter	medpatient	NC:piu#:--:----	O	
+99-75	eller	eller	CC:----:--:----	O	
+99-76	.	.	ZP	O	
+99-77	.	.	ZP	O	
+99-78	.	.	ZP	O	
+99-79	øver	øve	VF:----:sa:----	O	
+99-80	hærværk	hærværk	NC:siun:--:----	O	
+99-81	af	af	T-:----:--:----	O	
+99-82	ikke	ikke	D-:----:--:u---	O	
+99-83	ubetydeligt	ubetydelig	AC:siun:--:p---	O	
+99-84	omfang	omfang	NC:siun:--:----	O	
+99-85	.	.	ZP	O	
+
+#id=100
+#text=Decentrale skadecentre skal alene behandle mindre skader, der hvor afstanden til et områdehospital er for stor.
+100-1	Decentrale	decentral	AC:p#u#:--:p---	O	
+100-2	skadecentre	skadecenter	NC:piu#:--:----	O	
+100-3	skal	skulle	VF:----:sa:----	O	
+100-4	alene	alene	D-:----:--:u---	O	
+100-5	behandle	behandle	VI:----:-a:----	O	
+100-6	mindre	liden	AC:##u#:--:c---	O	
+100-7	skader	skade	NC:piu#:--:----	B-skade1-1a	
+100-8	,	,	ZD	O	
+100-9	der	der	US:----:--:----	O	
+100-10	hvor	hvor	D-:----:--:u---	O	
+100-11	afstanden	afstand	NC:sduc:--:----	O	
+100-12	til	til	T-:----:--:----	O	
+100-13	et	en	PI:s-un:--:----	O	
+100-14	områdehospital	områdehospital	NC:siun:--:----	O	
+100-15	er	være	VF:----:sa:----	O	
+100-16	for	for	-	O	
+100-17	stor	stor	AC:siuc:--:p---	O	
+100-18	.	.	ZP	O	
+

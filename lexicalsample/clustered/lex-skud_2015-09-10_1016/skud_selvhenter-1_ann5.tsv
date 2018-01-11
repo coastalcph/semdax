@@ -1,0 +1,33 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Lexicalsample | Tag
+#id=1
+#text=hehe, møller skriver meet joe black tror jeg, bare et skud i tågen?! erh.. bad boys 2.. tror jeg!?
+1-1	hehe	hehe	I-:----:--:----	_	
+1-2	,	,	ZD	_	
+1-3	møller	mølle	NC:piu#:--:----	_	
+1-4	skriver	skrive	VF:----:sa:----	_	
+1-5	meet	meet	XY:----:--:----	_	
+1-6	joe	joE	XF:----:--:----	_	
+1-7	black	Black	XF:----:--:----	_	
+1-8	tror	tro	VF:----:sa:----	_	
+1-9	jeg	jeg	PP:s-nc:--:-1n-	_	
+1-10	,	,	ZD	_	
+1-11	bare	bare	D-:----:--:u---	_	
+1-12	et	en	PI:s-un:--:----	_	
+1-13	skud	skud	NC:siun:--:----	skud_F_skud-i-tågen	
+1-14	i	i	T-:----:--:----	_	
+1-15	tågen	tåge	NC:sduc:--:----	_	
+1-16	?	?	ZQ	_	
+1-17	!	!	ZP	_	
+1-18	erh	erh	XS:----:--:----	_	
+1-19	.	.	ZP	_	
+1-20	.	.	ZP	_	
+1-21	bad	bede	VF:----:ta:----	_	
+1-22	boys	boy	NP:sig#:--:----	_	
+1-23	2	2	LC:--u-:--:----	_	
+1-24	.	.	ZP	_	
+1-25	.	.	ZP	_	
+1-26	tror	tro	VF:----:sa:----	_	
+1-27	jeg	jeg	PP:s-nc:--:-1n-	_	
+1-28	!	!	ZP	_	
+1-29	?	?	ZQ	_	
+

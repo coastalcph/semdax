@@ -1,0 +1,221 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Lexicalsample | Tag
+#id=1
+#text=Blir' tit' luftet ud, støvsuger 2 gange om måneden og stiller skam også ting på plads :D Det var bare en overdrivelses-joke (en af dem som ik' er sjove) ;)
+1-1	Blir	blive	VF:----:sa:----	_	
+1-2	'	'	ZA	_	
+1-3	tit	tit	D-:----:--:u---	_	
+1-4	'	'	XY:----:--:----	_	
+1-5	luftet	lufte	VT:siu#:t-:----	_	
+1-6	ud	ud	D-:----:--:u---	_	
+1-7	,	,	ZD	_	
+1-8	støvsuger	støvsuge	VF:----:sa:----	_	
+1-9	2	2	LC:--u-:--:----	_	
+1-10	gange	gang	NC:piu#:--:----	_	
+1-11	om	om	T-:----:--:----	_	
+1-12	måneden	måned	NC:sduc:--:----	_	
+1-13	og	og	CC:----:--:----	_	
+1-14	stiller	stille	VF:----:sa:----	_	
+1-15	skam	skam	D-:----:--:u---	_	
+1-16	også	også	D-:----:--:u---	_	
+1-17	ting	ting	NC:piu#:--:----	_	
+1-18	på	på	T-:----:--:----	_	
+1-19	plads	plads|plads-1a|plads-1|plads-3-3a|plads-2b-2c|plads-2-2a|plads-4-4a|plads-F-løbe/rende-af-pladsen|plads-F-være-på-sin-plads|plads-F-vige-pladsen|plads-F-tage-plads|plads-F-sætte-tingene-på-plads|plads-F-på-pladserne|plads-F-på-plads|plads-F-(på)-plads|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-en-plads-i-solen|plads-F-brikkerne-falder-på-plads|plads-F-banke/sætte-på-plads|plads-7|plads-6|plads-5	NC:siuc:--:----	plads-2	
+1-20	:	:	ZP	_	
+1-21	D	D	PP:s-un:--:-3n-	_	
+1-22	Det	det	PP:s-un:--:-3n-	_	
+1-23	var	være	VF:----:ta:----	_	
+1-24	bare	bare	D-:----:--:u---	_	
+1-25	en	en	PI:s-uc:--:----	_	
+1-26	overdrivelses	overdrivelse	NW:----:--:----	_	
+1-27	-	-	ZH	_	
+1-28	joke	joke	NC:siuc:--:----	_	
+1-29	(	(	ZD	_	
+1-30	en	en	PI:s-uc:--:----	_	
+1-31	af	af	T-:----:--:----	_	
+1-32	dem	de	PP:p-u#:--:-3n-	_	
+1-33	som	som	US:----:--:----	_	
+1-34	ik	ik	XY:----:--:----	_	
+1-35	'	'	ZA	_	
+1-36	er	være	VF:----:sa:----	_	
+1-37	sjove	sjove	VI:----:-a:----	_	
+1-38	)	)	ZD	_	
+1-39	;	;	ZP	_	
+1-40	)	)	ZD	_	
+
+#id=2
+#text= Men jeg ville gerne have datalogi... men der var ikke plads i mit skema.
+2-1	Men	men	CC:----:--:----	_	
+2-2	jeg	jeg	PP:s-nc:--:-1n-	_	
+2-3	ville	ville	VF:----:ta:----	_	
+2-4	gerne	gerne	D-:----:--:u---	_	
+2-5	have	have	VI:----:-a:----	_	
+2-6	datalogi	datalogi	NC:siuc:--:----	_	
+2-7	.	.	ZP	_	
+2-8	.	.	ZP	_	
+2-9	.	.	ZP	_	
+2-10	men	men	CC:----:--:----	_	
+2-11	der	der	US:----:--:----	_	
+2-12	var	være	VF:----:ta:----	_	
+2-13	ikke	ikke	D-:----:--:u---	_	
+2-14	plads	plads|plads-5|plads-6|plads-4-4a|plads-1a|plads-1|plads-3-3a|plads-2b-2c|plads-2-2a|plads-7|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-(på)-plads|plads-F-på-pladserne|plads-F-være-på-sin-plads|plads-F-vige-pladsen|plads-F-tage-plads|plads-F-sætte-tingene-på-plads|plads-F-på-plads|plads-F-løbe/rende-af-pladsen|plads-F-en-plads-i-solen|plads-F-brikkerne-falder-på-plads|plads-F-banke/sætte-på-plads	NC:siuc:--:----	plads-1	
+2-15	i	i	T-:----:--:----	_	
+2-16	mit	min	PO:s--n:--:-1ns	_	
+2-17	skema	skema	NC:siun:--:----	_	
+2-18	.	.	ZP	_	
+
+#id=3
+#text= Virkelig sådan noget med ekstra borde og stole, hvor der nu kunne laves lidt plads, og man skulle gå til bords i den helt rigtige rækkefølge. :)
+3-1	Virkelig	virkelig	D-:----:--:u---	_	
+3-2	sådan	sådan	D-:----:--:u---	_	
+3-3	noget	nogen	PI:s-un:--:----	_	
+3-4	med	med	T-:----:--:----	_	
+3-5	ekstra	ekstra	AC:§§u§:--:p---	_	
+3-6	borde	bord	NC:piu#:--:----	_	
+3-7	og	og	CC:----:--:----	_	
+3-8	stole	stol	NC:piu#:--:----	_	
+3-9	,	,	ZD	_	
+3-10	hvor	hvor	D-:----:--:u---	_	
+3-11	der	der	US:----:--:----	_	
+3-12	nu	nu	D-:----:--:u---	_	
+3-13	kunne	kunne	VF:----:ta:----	_	
+3-14	laves	lave	VI:----:-p:----	_	
+3-15	lidt	lidt	AC:siu§:--:p---	_	
+3-16	plads	plads|plads-1a|plads-2-2a|plads-1|plads-2b-2c|plads-4-4a|plads-6|plads-F-banke/sætte-på-plads|plads-F-en-plads-i-solen|plads-F-løbe/rende-af-pladsen|plads-F-på-plads|plads-F-sætte-tingene-på-plads|plads-F-vige-pladsen|plads-F-være-på-sin-plads|plads-F-tage-plads|plads-F-på-pladserne|plads-F-(på)-plads|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-brikkerne-falder-på-plads|plads-7|plads-5|plads-3-3a	NC:siuc:--:----	plads-1	
+3-17	,	,	ZD	_	
+3-18	og	og	CC:----:--:----	_	
+3-19	man	man	PI:#-uc:--:----	_	
+3-20	skulle	skulle	VF:----:ta:----	_	
+3-21	gå	gå	VI:----:-a:----	_	
+3-22	til	til	XY:----:--:----	_	
+3-23	bords	bord	NC:sign:--:----	_	
+3-24	i	I	NC:siun:--:----	_	
+3-25	den	den	PM:s-uc:--:----	_	
+3-26	helt	hel	AD:----:--:p---	_	
+3-27	rigtige	rigtig	AC:sdu#:--:p---	_	
+3-28	rækkefølge	rækkefølge	NC:siuc:--:----	_	
+3-29	.	.	ZP	_	
+3-30	:	:	ZP	_	
+3-31	)	)	ZD	_	
+
+#id=4
+#text=Haha, hvor stener! :D Har lige fået mig registreret på high-score :shock: lool Stræber efter første pladsen..
+4-1	Haha	Haha	NP:siu#:--:----	_	
+4-2	,	,	ZD	_	
+4-3	hvor	hvor	D-:----:--:u---	_	
+4-4	stener	stene	VF:----:sa:----	_	
+4-5	!	!	ZP	_	
+4-6	:	:	ZP	_	
+4-7	D	D	PP:s-un:--:-3n-	_	
+4-8	Har	have	VF:----:sa:----	_	
+4-9	lige	lige	D-:----:--:u---	_	
+4-10	fået	få	VT:siu#:t-:----	_	
+4-11	mig	jeg	PP:s-uc:--:-1#-	_	
+4-12	registreret	registrere	VT:siu#:t-:----	_	
+4-13	på	på	T-:----:--:----	_	
+4-14	high	high	NW:----:--:----	_	
+4-15	-	-	ZH	_	
+4-16	score	score	NC:siuc:--:----	_	
+4-17	:	:	ZP	_	
+4-18	shock	shock	XS:----:--:----	_	
+4-19	:	:	ZP	_	
+4-20	lool	lool	NC:siuc:--:----	_	
+4-21	Stræber	stræbe	VF:----:sa:----	_	
+4-22	efter	efter	T-:----:--:----	_	
+4-23	første	første	AC:§§u§:--:p---	_	
+4-24	pladsen	plads|plads-1|plads-2-2a|plads-3-3a|plads-4-4a|plads-5|plads-7|plads-F-banke/sætte-på-plads|plads-F-brikkerne-falder-på-plads|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-løbe/rende-af-pladsen|plads-F-(på)-plads|plads-F-på-pladserne|plads-F-tage-plads|plads-F-være-på-sin-plads|plads-F-vige-pladsen|plads-F-sætte-tingene-på-plads|plads-F-på-plads|plads-F-en-plads-i-solen|plads-6|plads-2b-2c|plads-1a	NC:sduc:--:----	_	
+4-25	.	.	ZP	_	
+4-26	.	.	ZP	_	
+
+#id=5
+#text= Der var ikke plads til flere til sidst og de sad SÅ tæt :shock:
+5-1	Der	der	US:----:--:----	_	
+5-2	var	være	VF:----:ta:----	_	
+5-3	ikke	ikke	D-:----:--:u---	_	
+5-4	plads	plads|plads-F-tage-plads|plads-4-4a|plads-6|plads-7|plads-F-banke/sætte-på-plads|plads-F-en-plads-i-solen|plads-F-løbe/rende-af-pladsen|plads-F-på-plads|plads-F-på-pladserne|plads-F-sætte-tingene-på-plads|plads-F-(på)-plads|ke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-brikkerne-falder-på-plads|plads-5|plads-1|plads-1a|plads-2b-2c|plads-3-3a|plads-2-2a|plads-F-vige-pladsen|plads-F-være-på-sin-plads	NC:siuc:--:----	plads-1	
+5-5	til	til	T-:----:--:----	_	
+5-6	flere	mange	AC:##u#:--:c---	_	
+5-7	til	til	T-:----:--:----	_	
+5-8	sidst	sidst	D-:----:--:u---	_	
+5-9	og	og	CC:----:--:----	_	
+5-10	de	de	PP:p-n#:--:-3n-	_	
+5-11	sad	sidde	VF:----:ta:----	_	
+5-12	SÅ	så	D-:----:--:u---	_	
+5-13	tæt	tæt	AD:----:--:p---	_	
+5-14	:	:	ZP	_	
+5-15	shock	shock	XS:----:--:----	_	
+5-16	:	:	ZP	_	
+
+#id=6
+#text= Indtil Dicaprio overtog pladsen...
+6-1	Indtil	indtil	CS:----:--:----	_	
+6-2	Dicaprio	Dicaprio	NP:siu#:--:----	_	
+6-3	overtog	overtog	VF:----:ta:----	_	
+6-4	pladsen	plads|plads-F-banke/sætte-på-plads|plads-2b-2c|plads-3-3a|plads-5|plads-6|plads-7|plads-4-4a|plads-1a|plads-2-2a|plads-1|plads-F-brikkerne-falder-på-plads|plads-F-en-plads-i-solen|ads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-(på)-plads|plads-F-på-plads|plads-F-på-pladserne|plads-F-sætte-tingene-på-plads|plads-F-tage-plads|plads-F-vige-pladsen|plads-F-være-på-sin-plads|plads-F-løbe/rende-af-pladsen	NC:sduc:--:----	plads-4	
+6-5	.	.	ZP	_	
+6-6	.	.	ZP	_	
+6-7	.	.	ZP	_	
+
+#id=7
+#text= Som lytter er det vigtigste for mig dog, at der skal være plads til det hele.
+7-1	Som	som	US:----:--:----	_	
+7-2	lytter	lytte	VF:----:sa:----	_	
+7-3	er	være	VF:----:sa:----	_	
+7-4	det	den	PM:s-un:--:----	_	
+7-5	vigtigste	vigtig	AC:§du§:--:s---	_	
+7-6	for	for	T-:----:--:----	_	
+7-7	mig	jeg	PP:s-uc:--:-1#-	_	
+7-8	dog	dog	D-:----:--:u---	_	
+7-9	,	,	ZD	_	
+7-10	at	at	CS:----:--:----	_	
+7-11	der	der	US:----:--:----	_	
+7-12	skal	skulle	VF:----:sa:----	_	
+7-13	være	være	VI:----:-a:----	_	
+7-14	plads	plads|plads-4-4a|plads-5|plads-6|plads-7|plads-3-3a|plads-2-2a|plads-2b-2c|plads-1a|plads-1|plads-F-banke/sætte-på-plads|plads-F-brikkerne-falder-på-plads|plads-F-en-plads-i-solen|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-løbe/rende-af-pladsen|plads-F-(på)-plads|plads-F-på-plads|plads-F-sætte-tingene-på-plads|plads-F-tage-plads|plads-F-vige-pladsen|plads-F-være-på-sin-plads|plads-F-på-pladserne	NC:siuc:--:----	plads-1a	
+7-15	til	til	T-:----:--:----	_	
+7-16	det	den	PM:s-un:--:----	_	
+7-17	hele	hel	AC:sdu#:--:p---	_	
+7-18	.	.	ZP	_	
+
+#id=8
+#text= Men det, man normalt forstår ved et samfund, er vel noget, hvor der skal være plads til alle - altså sådan rigtigt alle.
+8-1	Men	men	CC:----:--:----	_	
+8-2	det	det	PP:s-un:--:-3n-	_	
+8-3	,	,	ZD	_	
+8-4	man	man	PI:#-uc:--:----	_	
+8-5	normalt	normal	AD:----:--:p---	_	
+8-6	forstår	forstå	VF:----:sa:----	_	
+8-7	ved	ved	T-:----:--:----	_	
+8-8	et	en	PI:s-un:--:----	_	
+8-9	samfund	samfund	NC:siun:--:----	_	
+8-10	,	,	ZD	_	
+8-11	er	være	VF:----:sa:----	_	
+8-12	vel	vel	-:u---	_	
+8-13	noget	nogen	PI:s-un:--:----	_	
+8-14	,	,	ZD	_	
+8-15	hvor	hvor	D-:----:--:u---	_	
+8-16	der	der	US:----:--:----	_	
+8-17	skal	skulle	VF:----:sa:----	_	
+8-18	være	være	VI:----:-a:----	_	
+8-19	plads	plads|plads-2b-2c|plads-3-3a|plads-4-4a|plads-5|plads-6|plads-7|plads-F-banke/sætte-på-plads|plads-F-brikkerne-falder-på-plads|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-løbe/rende-af-pladsen|plads-F-(på)-plads|plads-F-på-plads|plads-F-på-pladserne|plads-F-sætte-tingene-på-plads|plads-F-tage-plads|plads-F-vige-pladsen|plads-F-være-på-sin-plads|plads-F-en-plads-i-solen|plads-1a|plads-2-2a|plads-1	NC:siuc:--:----	plads-1a	
+8-20	til	til	T-:----:--:----	_	
+8-21	alle	al	PI:p-u#:--:----	_	
+8-22	-	-	NC:piu#:--:----	_	
+8-23	altså	altså	D-:----:--:u---	_	
+8-24	sådan	sådan	D-:----:--:u---	_	
+8-25	rigtigt	rigtig	AD:----:--:p---	_	
+8-26	alle	al	PI:p-u#:--:----	_	
+8-27	.	.	ZP	_	
+
+#id=9
+#text= Men det skal der også være plads til :)
+9-1	Men	men	CC:----:--:----	_	
+9-2	det	det	PP:s-un:--:-3n-	_	
+9-3	skal	skulle	VF:----:sa:----	_	
+9-4	der	der	US:----:--:----	_	
+9-5	også	også	D-:----:--:u---	_	
+9-6	være	være	VI:----:-a:----	_	
+9-7	plads	plads|plads-F-være-på-sin-plads|plads-7|plads-F-banke/sætte-på-plads|plads-F-brikkerne-falder-på-plads|plads-F-en-plads-i-solen|plads-F-ikke-meget-(tid/plads/..)-at-give-(væk)-af)|plads-F-løbe/rende-af-pladsen|plads-F-(på)-plads|plads-F-på-plads|plads-F-på-pladserne|plads-F-sætte-tingene-på-plads|plads-F-tage-plads|plads-F-vige-pladsen|plads-2-2a|plads-2b-2c|plads-3-3a|plads-4-4a|plads-5|plads-6|plads-1a|plads-1	NC:siuc:--:----	plads-1a	
+9-8	til	til	T-:----:--:----	_	
+9-9	:	:	ZP	_	
+9-10	)	)	ZD	_	
+

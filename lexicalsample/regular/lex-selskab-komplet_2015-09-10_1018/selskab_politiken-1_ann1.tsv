@@ -1,0 +1,2976 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Hvis passageren ikke vil rette sig efter de nye regler, får vedkommende slet ikke lov til at  flyve med selskabet.
+1-1	Hvis	hvis	CS:----:--:----	O	
+1-2	passageren	passager	NC:sduc:--:----	O	
+1-3	ikke	ikke	D-:----:--:u---	O	
+1-4	vil	ville	VF:----:sa:----	O	
+1-5	rette	rette	VI:----:-a:----	O	
+1-6	sig	sig	PP:#-u#:--:-3y-	O	
+1-7	efter	efter	T-:----:--:----	O	
+1-8	de	den	PM:p-u#:--:----	O	
+1-9	nye	ny	AC:p#u#:--:p---	O	
+1-10	regler	regel	NC:piu#:--:----	O	
+1-11	,	,	ZD	O	
+1-12	får	få	VF:----:sa:----	O	
+1-13	vedkommende	vedkommende	NC:siun:--:----	O	
+1-14	slet	slet	D-:----:--:u---	O	
+1-15	ikke	ikke	D-:----:--:u---	O	
+1-16	lov	lov	NC:siuc:--:----	O	
+1-17	til	til	T-:----:--:----	O	
+1-18	at	at	UI:----:--:----	O	
+1-19	flyve	flyve	VI:----:-a:----	O	
+1-20	med	med	T-:----:--:----	O	
+1-21	selskabet	selskab|selskab-1-1a-1b|selskab-3|selskab-2-2a|selskab-1c|selskab-F-holde-med-selskab|selskab-4-4a	NC:sdun:--:----	B-selskab-4	
+1-22	.	.	ZP	O	
+
+#id=2
+#text=Ifølgechefredaktør på computerbladet Pcplayer Morten Skovgaard er det den slags spil, den danske spilbranche skal føre sig frem på nu, hvor det danske flagskib IO Interactive er blevet splittet og solgt til udlandet, og Deadline Games er på fallittens rand efter at have brændt fingrene på at lave store titler, der skulle konkurrere med de store internationale selskaber.
+2-1	Ifølge	ifølge	T-:----:--:----	O	
+2-2	chefredaktør	chefredaktør	NC:siuc:--:----	O	
+2-3	på	på	T-:----:--:----	O	
+2-4	computerbladet	computerblad	NC:sdun:--:----	O	
+2-5	Pcplayer	Pcplayer	NP:siu#:--:----	O	
+2-6	Morten	Morten	NP:siu#:--:----	O	
+2-7	Skovgaard	Skovgaard	NP:siu#:--:----	O	
+2-8	er	være	VF:----:sa:----	O	
+2-9	det	det	PP:s-un:--:-3n-	O	
+2-10	den	den	PM:s-uc:--:----	O	
+2-11	slags	slags	NC:siuc:--:----	O	
+2-12	spil	spil	NC:piu#:--:----	O	
+2-13	,	,	ZD	O	
+2-14	den	den	PM:s-uc:--:----	O	
+2-15	danske	dansk	AC:sdu#:--:p---	O	
+2-16	spilbranche	spilbranche	NC:siuc:--:----	O	
+2-17	skal	skulle	VF:----:sa:----	O	
+2-18	føre	føre	VI:----:-a:----	O	
+2-19	sig	sig	PP:#-u#:--:-3y-	O	
+2-20	frem	frem	D-:----:--:u---	O	
+2-21	på	på	T-:----:--:----	O	
+2-22	nu	nu	D-:----:--:u---	O	
+2-23	,	,	ZD	O	
+2-24	hvor	hvor	D-:----:--:u---	O	
+2-25	det	den	PM:s-un:--:----	O	
+2-26	danske	dansk	AC:sdu#:--:p---	O	
+2-27	flagskib	flagskib	NC:siun:--:----	O	
+2-28	IO	Io	NP:siu#:--:----	O	
+2-29	Interactive	Interactive	NP:siu#:--:----	O	
+2-30	er	være	VF:----:sa:----	O	
+2-31	blevet	blive	VT:siu#:t-:----	O	
+2-32	splittet	splitte	VT:siu#:t-:----	O	
+2-33	og	og	CC:----:--:----	O	
+2-34	solgt	sælge	VT:siu#:t-:----	O	
+2-35	til	til	T-:----:--:----	O	
+2-36	udlandet	udland	NC:sdun:--:----	O	
+2-37	,	,	ZD	O	
+2-38	og	og	CC:----:--:----	O	
+2-39	Deadline	deadline	NC:siuc:--:----	O	
+2-40	Games	game	NP:siu#:--:----	O	
+2-41	er	være	VF:----:sa:----	O	
+2-42	på	på	T-:----:--:----	O	
+2-43	fallittens	fallit	NC:sdgc:--:----	O	
+2-44	rand	rand	NC:siuc:--:----	O	
+2-45	efter	efter	T-:----:--:----	O	
+2-46	at	at	UI:----:--:----	O	
+2-47	have	have	VI:----:-a:----	O	
+2-48	brændt	brænde	VT:siu#:t-:----	O	
+2-49	fingrene	finger	NC:pdu#:--:----	O	
+2-50	på	på	T-:----:--:----	O	
+2-51	at	at	UI:----:--:----	O	
+2-52	lave	lave	VI:----:-a:----	O	
+2-53	store	stor	AC:p#u#:--:p---	O	
+2-54	titler	titel	NC:piu#:--:----	O	
+2-55	,	,	ZD	O	
+2-56	der	der	US:----:--:----	O	
+2-57	skulle	skulle	VF:----:ta:----	O	
+2-58	konkurrere	konkurrere	VI:----:-a:----	O	
+2-59	med	med	T-:----:--:----	O	
+2-60	de	den	PM:p-u#:--:----	O	
+2-61	store	stor	AC:p#u#:--:p---	O	
+2-62	internationale	international	AC:p#u#:--:p---	O	
+2-63	selskaber	selskab|selskab-1c|selskab-1-1a-1b|selskab-F-holde-med-selskab|selskab-4-4a|selskab-3|selskab-2-2a	NC:piu#:--:----	B-selskab-4	
+2-64	.	.	ZP	O	
+
+#id=3
+#text=Selv om Playdead holder fast i deres filosofiom at holde sig fri af kommercielle interesser, mener Morten Skovgaard, at selskabet bliver nødt til at tænke i mere kommercielle baner, hvis det skal fortsætte med at lave originale spil.
+3-1	Selv	selv	D-:----:--:u---	O	
+3-2	om	om	T-:----:--:----	O	
+3-3	Playdead	Playdead	NP:siu#:--:----	O	
+3-4	holder	holde	VF:----:sa:----	O	
+3-5	fast	fast	AD:----:--:p---	O	
+3-6	i	i	T-:----:--:----	O	
+3-7	deres	deres	PO:#--#:--:-3np	O	
+3-8	filosofiom	filosofiom	T-:----:--:----	O	
+3-9	at	at	UI:----:--:----	O	
+3-10	holde	holde	VI:----:-a:----	O	
+3-11	sig	sig	PP:#-u#:--:-3y-	O	
+3-12	fri	fri	AC:siuc:--:p---	O	
+3-13	af	af	T-:----:--:----	O	
+3-14	kommercielle	kommerciel	AC:p#u#:--:p---	O	
+3-15	interesser	interesse	NC:piu#:--:----	O	
+3-16	,	,	ZD	O	
+3-17	mener	mene	VF:----:sa:----	O	
+3-18	Morten	Morten	NP:siu#:--:----	O	
+3-19	Skovgaard	Skovgaard	NP:siu#:--:----	O	
+3-20	,	,	ZD	O	
+3-21	at	at	CS:----:--:----	O	
+3-22	selskabet	selskab|selskab-F-holde-med-selskab|selskab-4-4a|selskab-3|selskab-2-2a|selskab-1c|selskab-1-1a-1b	NC:sdun:--:----	B-selskab-4	
+3-23	bliver	blive	VF:----:sa:----	O	
+3-24	nødt	nødt	AC:§§u§:--:p---	O	
+3-25	til	til	T-:----:--:----	O	
+3-26	at	at	UI:----:--:----	O	
+3-27	tænke	tænke	VI:----:-a:----	O	
+3-28	i	i	T-:----:--:----	O	
+3-29	mere	megen	AC:##u#:--:c---	O	
+3-30	kommercielle	kommerciel	AC:p#u#:--:p---	O	
+3-31	baner	bane	NC:piu#:--:----	O	
+3-32	,	,	ZD	O	
+3-33	hvis	hvis	CS:----:--:----	O	
+3-34	det	det	PP:s-un:--:-3n-	O	
+3-35	skal	skulle	VF:----:sa:----	O	
+3-36	fortsætte	fortsætte	VI:----:-a:----	O	
+3-37	med	med	T-:----:--:----	O	
+3-38	at	at	UI:----:--:----	O	
+3-39	lave	lave	VI:----:-a:----	O	
+3-40	originale	original	AC:p#u#:--:p---	O	
+3-41	spil	spil	NC:piu#:--:----	O	
+3-42	.	.	ZP	O	
+
+#id=4
+#text=Dog er der et par anderledes detaljer som et lille widescreenspejl, der giver chaufføren oversigt over hele selskabet, og instrumenternes placering i midten oppe mod forruden.
+4-1	Dog	dog	D-:----:--:u---	O	
+4-2	er	være	VF:----:sa:----	O	
+4-3	der	der	US:----:--:----	O	
+4-4	et	en	PI:s-un:--:----	O	
+4-5	par	par	NC:siun:--:----	O	
+4-6	anderledes	anderledes	AC:§§u§:--:p---	O	
+4-7	detaljer	detalje	NC:piu#:--:----	O	
+4-8	som	som	US:----:--:----	O	
+4-9	et	en	PI:s-un:--:----	O	
+4-10	lille	lille	AC:s§u§:--:p---	O	
+4-11	widescreenspejl	widescreenspejl	NC:siun:--:----	O	
+4-12	,	,	ZD	O	
+4-13	der	der	US:----:--:----	O	
+4-14	giver	give	VF:----:sa:----	O	
+4-15	chaufføren	chauffør	NC:sduc:--:----	O	
+4-16	oversigt	oversigt	NC:siuc:--:----	O	
+4-17	over	over	T-:----:--:----	O	
+4-18	hele	hel	AC:sdu#:--:p---	O	
+4-19	selskabet	selskab|selskab-2-2a|selskab-1c|selskab-1-1a-1b|selskab-F-holde-med-selskab|selskab-4-4a|selskab-3	NC:sdun:--:----	B-selskab-2	
+4-20	,	,	ZD	O	
+4-21	og	og	CC:----:--:----	O	
+4-22	instrumenternes	instrument	NC:pdg#:--:----	O	
+4-23	placering	placering	NC:siuc:--:----	O	
+4-24	i	i	T-:----:--:----	O	
+4-25	midten	midte	NC:sduc:--:----	O	
+4-26	oppe	oppe	D-:----:--:u---	O	
+4-27	mod	mod	T-:----:--:----	O	
+4-28	forruden	forrude	NC:sduc:--:----	O	
+4-29	.	.	ZP	O	
+
+#id=5
+#text=Det er selvfølgelig legitimt at mødes med repræsentanter for erhvervslivet - og i et begrænset omfang også under selskabelige former - men de mange betalte udflugter med herrerne af det bedre selskab giver bare et kedeligt indtryk af at være særligt forbrødret med denne gruppe, og dét er uheldigt, når man nu er ansat til at passe på hele den nationale butik.
+5-1	Det	det	PP:s-un:--:-3n-	O	
+5-2	er	være	VF:----:sa:----	O	
+5-3	selvfølgelig	selvfølgelig	D-:----:--:u---	O	
+5-4	legitimt	legitim	AC:siun:--:p---	O	
+5-5	at	at	UI:----:--:----	O	
+5-6	mødes	møde	VI:----:-p:----	O	
+5-7	med	med	T-:----:--:----	O	
+5-8	repræsentanter	repræsentant	NC:piu#:--:----	O	
+5-9	for	for	T-:----:--:----	O	
+5-10	erhvervslivet	erhvervsliv	NC:sdun:--:----	O	
+5-11	-	-	NC:piu#:--:----	O	
+5-12	og	og	CC:----:--:----	O	
+5-13	i	i	T-:----:--:----	O	
+5-14	et	en	PI:s-un:--:----	O	
+5-15	begrænset	begrænse	VT:siu#:t-:----	O	
+5-16	omfang	omfang	NC:siun:--:----	O	
+5-17	også	også	D-:----:--:u---	O	
+5-18	under	under	T-:----:--:----	O	
+5-19	selskabelige	selskabelig	AC:p#u#:--:p---	O	
+5-20	former	form	NC:piu#:--:----	O	
+5-21	-	-	ZH	O	
+5-22	men	men	CC:----:--:----	O	
+5-23	de	den	PM:p-u#:--:----	O	
+5-24	mange	gen	AC:p#u#:--:p---	O	
+5-25	betalte	betale	VP:p#u#:t-:----	O	
+5-26	udflugter	udflugt	NC:piu#:--:----	O	
+5-27	med	med	T-:----:--:----	O	
+5-28	herrerne	herre	NC:pdu#:--:----	O	
+5-29	af	af	T-:----:--:----	O	
+5-30	det	den	PM:s-un:--:----	O	
+5-31	bedre	god	AC:##u#:--:c---	O	
+5-32	selskab	selskab|selskab-1c|selskab-1-1a-1b|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-2-2a	NC:siun:--:----	B-selskab-1c	
+5-33	giver	give	VF:----:sa:----	O	
+5-34	bare	bare	D-:----:--:u---	O	
+5-35	et	en	PI:s-un:--:----	O	
+5-36	kedeligt	kedelig	AC:siun:--:p---	O	
+5-37	indtryk	indtryk	NC:siun:--:----	O	
+5-38	af	af	T-:----:--:----	O	
+5-39	at	at	UI:----:--:----	O	
+5-40	være	være	VI:----:-a:----	O	
+5-41	særligt	særlig	AD:----:--:p---	O	
+5-42	forbrødret	forbrødre	VT:siu#:t-:----	O	
+5-43	med	med	T-:----:--:----	O	
+5-44	denne	denne	PM:s-uc:--:----	O	
+5-45	gruppe	gruppe	NC:siuc:--:----	O	
+5-46	,	,	ZD	O	
+5-47	og	og	CC:----:--:----	O	
+5-48	dét	det	PP:s-un:--:-3n-	O	
+5-49	er	være	VF:----:sa:----	O	
+5-50	uheldigt	uheldig	AC:siun:--:p---	O	
+5-51	,	,	ZD	O	
+5-52	når	når	CS:----:--:----	O	
+5-53	man	man	PI:#-uc:--:----	O	
+5-54	nu	nu	D-:----:--:u---	O	
+5-55	er	være	VF:----:sa:----	O	
+5-56	ansat	ansætte	VT:siu#:t-:----	O	
+5-57	til	til	T-:----:--:----	O	
+5-58	at	at	UI:----:--:----	O	
+5-59	passe	passe	VI:----:-a:----	O	
+5-60	på	på	T-:----:--:----	O	
+5-61	hele	hel	AC:sdu#:--:p---	O	
+5-62	den	den	PM:s-uc:--:----	O	
+5-63	nationale	national	AC:sdu#:--:p---	O	
+5-64	butik	butik	NC:siuc:--:----	O	
+5-65	.	.	ZP	O	
+
+#id=6
+#text=FRADE udladninger fra hjerte og  underliv er det en blød mavelanding i en dejlig dyb lænestol at havne i selskab med Billy Cross.
+6-1	FRA	fra	T-:----:--:----	O	
+6-2	DE	den	PM:p-u#:--:----	O	
+6-3	udladninger	udladning	NC:piu#:--:----	O	
+6-4	fra	fra	T-:----:--:----	O	
+6-5	hjerte	hjerte	NC:siun:--:----	O	
+6-6	og	og	CC:----:--:----	O	
+6-7	underliv	underliv	NC:siun:--:----	O	
+6-8	er	være	VF:----:sa:----	O	
+6-9	det	det	PP:s-un:--:-3n-	O	
+6-10	en	en	PI:s-uc:--:----	O	
+6-11	blød	blød	AC:siuc:--:p---	O	
+6-12	mavelanding	mavelanding	NC:siuc:--:----	O	
+6-13	i	i	T-:----:--:----	O	
+6-14	en	en	PI:s-uc:--:----	O	
+6-15	dejlig	dejlig	AC:siuc:--:p---	O	
+6-16	dyb	dyb	AC:siuc:--:p---	O	
+6-17	lænestol	lænestol	NC:siuc:--:----	O	
+6-18	at	at	UI:----:--:----	O	
+6-19	havne	havne	VI:----:-a:----	O	
+6-20	i	i	T-:----:--:----	O	
+6-21	selskab	selskab|selskab-1-1a-1b|selskab-F-holde-med-selskab|selskab-4-4a|selskab-3|selskab-2-2a|selskab-1c	NC:siun:--:----	B-selskab-1a	
+6-22	med	med	T-:----:--:----	O	
+6-23	Billy	Billy	NP:siu#:--:----	O	
+6-24	Cross	Cross	NP:siu#:--:----	O	
+6-25	.	.	ZP	O	
+
+#id=7
+#text=Somaltid er man i godt selskab med Billy Cross, der som både vært og guitarist er generøs og i den grad har fået lært kernen af det danske begreb ' hygge' at kende gennem sine mange år her i landet.
+7-1	Som	som	US:----:--:----	O	
+7-2	altid	altid	D-:----:--:u---	O	
+7-3	er	være	VF:----:sa:----	O	
+7-4	man	man	PI:#-uc:--:----	O	
+7-5	i	i	T-:----:--:----	O	
+7-6	godt	god	AC:siun:--:p---	O	
+7-7	selskab	selskab|selskab-F-holde-med-selskab|selskab-4-4a|selskab-3|selskab-2-2a|selskab-1c|selskab-1-1a-1b	NC:siun:--:----	B-selskab-1a	
+7-8	med	med	T-:----:--:----	O	
+7-9	Billy	Billy	NP:siu#:--:----	O	
+7-10	Cross	Cross	NP:siu#:--:----	O	
+7-11	,	,	ZD	O	
+7-12	der	der	US:----:--:----	O	
+7-13	som	som	US:----:--:----	O	
+7-14	både	både	D-:----:--:u---	O	
+7-15	vært	vært	NC:siuc:--:----	O	
+7-16	og	og	CC:----:--:----	O	
+7-17	guitarist	guitarist	NC:siuc:--:----	O	
+7-18	er	være	VF:----:sa:----	O	
+7-19	generøs	generøs	AC:siuc:--:p---	O	
+7-20	og	og	CC:----:--:----	O	
+7-21	i	i	T-:----:--:----	O	
+7-22	den	den	PM:s-uc:--:----	O	
+7-23	grad	grad	NC:siuc:--:----	O	
+7-24	har	have	VF:----:sa:----	O	
+7-25	fået	få	VT:siu#:t-:----	O	
+7-26	lært	lære	VT:siu#:t-:----	O	
+7-27	kernen	kerne	NC:sduc:--:----	O	
+7-28	af	af	T-:----:--:----	O	
+7-29	det	den	PM:s-un:--:----	O	
+7-30	danske	dansk	AC:sdu#:--:p---	O	
+7-31	begreb	begreb	NC:siun:--:----	O	
+7-32	'	'	ZA	O	
+7-33	hygge	hygge	NC:siuc:--:----	O	
+7-34	'	'	XY:----:--:----	O	
+7-35	at	at	UI:----:--:----	O	
+7-36	kende	kende	VI:----:-a:----	O	
+7-37	gennem	gennem	T-:----:--:----	O	
+7-38	sine	sin	PO:p--#:--:-3ys	O	
+7-39	mange	mangen	AC:p#u#:--:p---	O	
+7-40	år	år	NC:piu#:--:----	O	
+7-41	her	her	D-:----:--:u---	O	
+7-42	i	i	T-:----:--:----	O	
+7-43	landet	land	NC:sdun:--:----	O	
+7-44	.	.	ZP	O	
+
+#id=8
+#text=Haner også manden, der aldrig er blevet fotograferet på det forkerte sted i det forkerte selskab og med noget forkert i hånden.
+8-1	Han	han	PP:s-nc:--:-3n-	O	
+8-2	er	være	VF:----:sa:----	O	
+8-3	også	også	D-:----:--:u---	O	
+8-4	manden	mand	NC:sduc:--:----	O	
+8-5	,	,	ZD	O	
+8-6	der	der	US:----:--:----	O	
+8-7	aldrig	aldrig	D-:----:--:u---	O	
+8-8	er	være	VF:----:sa:----	O	
+8-9	blevet	blive	VT:siu#:t-:----	O	
+8-10	fotograferet	fotografere	VT:siu#:t-:----	O	
+8-11	på	på	T-:----:--:----	O	
+8-12	det	den	PM:s-un:--:----	O	
+8-13	forkerte	forkert	AC:sdu#:--:p---	O	
+8-14	sted	sted	NC:siun:--:----	O	
+8-15	i	i	T-:----:--:----	O	
+8-16	det	den	PM:s-un:--:----	O	
+8-17	forkerte	forkert	AC:sdu#:--:p---	O	
+8-18	selskab	selskab|selskab-1c|selskab-3|selskab-2-2a|selskab-1-1a-1b|selskab-F-holde-med-selskab|selskab-4-4a	NC:siun:--:----	B-selskab-1c	
+8-19	og	og	CC:----:--:----	O	
+8-20	med	med	T-:----:--:----	O	
+8-21	noget	nogen	PI:s-un:--:----	O	
+8-22	forkert	forkert	AC:siu§:--:p---	O	
+8-23	i	i	T-:----:--:----	O	
+8-24	hånden	hånd	NC:sduc:--:----	O	
+8-25	.	.	ZP	O	
+
+#id=9
+#text=Onkel Henry slår på vinglasset og rejser sig fra sin stol, mens en kurv med forårsblomster og sammenrullet papir skifter hænder i selskabet.
+9-1	Onkel	onkel	NC:siuc:--:----	O	
+9-2	Henry	Henry	NP:siu#:--:----	O	
+9-3	slår	slå	VF:----:sa:----	O	
+9-4	på	på	T-:----:--:----	O	
+9-5	vinglasset	vinglas	NC:sdun:--:----	O	
+9-6	og	og	CC:----:--:----	O	
+9-7	rejser	rejse	VF:----:sa:----	O	
+9-8	sig	sig	PP:#-u#:--:-3y-	O	
+9-9	fra	fra	T-:----:--:----	O	
+9-10	sin	sin	PO:s--c:--:-3ys	O	
+9-11	stol	stol	NC:siuc:--:----	O	
+9-12	,	,	ZD	O	
+9-13	mens	mens	CS:----:--:----	O	
+9-14	en	en	PI:s-uc:--:----	O	
+9-15	kurv	kurv	NC:siuc:--:----	O	
+9-16	med	med	T-:----:--:----	O	
+9-17	forårsblomster	forårsblomst	NC:piu#:--:----	O	
+9-18	og	og	CC:----:--:----	O	
+9-19	sammenrullet	sammenrullet	AC:siu§:--:p---	O	
+9-20	papir	papir	NC:siun:--:----	O	
+9-21	skifter	skifte	VF:----:sa:----	O	
+9-22	hænder	hånd	NC:piu#:--:----	O	
+9-23	i	i	T-:----:--:----	O	
+9-24	selskabet	selskab|selskab-4-4a|selskab-1-1a-1b|selskab-3|selskab-2-2a|selskab-1c|selskab-F-holde-med-selskab	NC:sdun:--:----	B-selskab-2a	
+9-25	.	.	ZP	O	
+
+#id=10
+#text=Hvisman vil glæde konfirmanden og resten af selskabet med en sang, er det først og fremmest vigtigt at gøre sig klart, hvad man vil fortælle.
+10-1	Hvis	hvis	CS:----:--:----	O	
+10-2	man	man	PI:#-uc:--:----	O	
+10-3	vil	ville	VF:----:sa:----	O	
+10-4	glæde	glæde	VI:----:-a:----	O	
+10-5	konfirmanden	konfirmand	NC:sduc:--:----	O	
+10-6	og	og	CC:----:--:----	O	
+10-7	resten	rest	NC:sduc:--:----	O	
+10-8	af	af	T-:----:--:----	O	
+10-9	selskabet	selskab|selskab-F-holde-med-selskab|selskab-4-4a|selskab-3|selskab-2-2a|selskab-1c|selskab-1-1a-1b	NC:sdun:--:----	B-selskab-2a	
+10-10	med	med	T-:----:--:----	O	
+10-11	en	en	PI:s-uc:--:----	O	
+10-12	sang	sang	NC:siuc:--:----	O	
+10-13	,	,	ZD	O	
+10-14	er	være	VF:----:sa:----	O	
+10-15	det	det	PP:s-un:--:-3n-	O	
+10-16	først	først	D-:----:--:u---	O	
+10-17	og	og	CC:----:--:----	O	
+10-18	fremmest	fremmest	AD:----:--:p---	O	
+10-19	vigtigt	vigtig	AC:siun:--:p---	O	
+10-20	at	at	UI:----:--:----	O	
+10-21	gøre	gøre	VI:----:-a:----	O	
+10-22	sig	sig	PP:#-u#:--:-3y-	O	
+10-23	klart	klar	AD:----:--:p---	O	
+10-24	,	,	ZD	O	
+10-25	hvad	hvad	PR:s-u#:--:----	O	
+10-26	man	man	PI:#-uc:--:----	O	
+10-27	vil	ville	VF:----:sa:----	O	
+10-28	fortælle	fortælle	VI:----:-a:----	O	
+10-29	.	.	ZP	O	
+
+#id=11
+#text=Iselskabet trækker man på smilebåndet, hvis sangen ikke rimer, men hvis man slet ikke kan synge den, bliver man gal", siger Per Kejser-Andersen.
+11-1	I	i	T-:----:--:----	O	
+11-2	selskabet	selskab|selskab-4-4a|selskab-3|selskab-2-2a|selskab-1c|selskab-1-1a-1b|selskab-F-holde-med-selskab	NC:sdun:--:----	B-selskab-2a	
+11-3	trækker	trække	VF:----:sa:----	O	
+11-4	man	man	PI:#-uc:--:----	O	
+11-5	på	på	T-:----:--:----	O	
+11-6	smilebåndet	smilebånd	NC:sdun:--:----	O	
+11-7	,	,	ZD	O	
+11-8	hvis	hvis	CS:----:--:----	O	
+11-9	sangen	sang	NC:sduc:--:----	O	
+11-10	ikke	ikke	D-:----:--:u---	O	
+11-11	rimer	rime	VF:----:sa:----	O	
+11-12	,	,	ZD	O	
+11-13	men	men	:----:--:----	O	
+11-14	hvis	hvis	CS:----:--:----	O	
+11-15	man	man	PI:#-uc:--:----	O	
+11-16	slet	slet	D-:----:--:u---	O	
+11-17	ikke	ikke	D-:----:--:u---	O	
+11-18	kan	kunne	VF:----:sa:----	O	
+11-19	synge	synge	VI:----:-a:----	O	
+11-20	den	den	PP:s-uc:--:-3n-	O	
+11-21	,	,	ZD	O	
+11-22	bliver	blive	VF:----:sa:----	O	
+11-23	man	man	PI:#-uc:--:----	O	
+11-24	gal	gal	NC:siun:--:----	O	
+11-25	"	"	ZI	O	
+11-26	,	,	ZD	O	
+11-27	siger	sige	VF:----:sa:----	O	
+11-28	Per	Per	NP:siu#:--:----	O	
+11-29	Kejser	kejser	NW:----:--:----	O	
+11-30	-	-	ZH	O	
+11-31	Andersen	Andersen	NP:siu#:--:----	O	
+11-32	.	.	ZP	O	
+
+#id=12
+#text=Men hvis man har skrevet en sang, har man nødvendigvis gjort sig umage og bidrager til selskabet med en stor indsats", siger hun.
+12-1	Men	men	CC:----:--:----	O	
+12-2	hvis	hvis	CS:----:--:----	O	
+12-3	man	man	PI:#-uc:--:----	O	
+12-4	har	have	VF:----:sa:----	O	
+12-5	skrevet	skrive	siu#:t-:----	O	
+12-6	en	en	PI:s-uc:--:----	O	
+12-7	sang	sang	NC:siuc:--:----	O	
+12-8	,	,	ZD	O	
+12-9	har	have	VF:----:sa:----	O	
+12-10	man	man	PI:#-uc:--:----	O	
+12-11	nødvendigvis	nødvendigvis	D-:----:--:u---	O	
+12-12	gjort	gøre	VT:siu#:t-:----	O	
+12-13	sig	sig	PP:#-u#:--:-3y-	O	
+12-14	umage	umage	AC:§§u§:--:p---	O	
+12-15	og	og	CC:----:--:----	O	
+12-16	bidrager	bidrage	VF:----:sa:----	O	
+12-17	til	til	T-:----:--:----	O	
+12-18	selskabet	selskab|selskab-F-holde-med-selskab|selskab-4-4a|selskab-3|selskab-2-2a|selskab-1c|selskab-1-1a-1b	NC:sdun:--:----	B-selskab-3	
+12-19	med	med	T-:----:--:----	O	
+12-20	en	en	PI:s-uc:--:----	O	
+12-21	stor	stor	AC:siuc:--:p---	O	
+12-22	indsats	indsats	NC:siuc:--:----	O	
+12-23	"	"	ZI	O	
+12-24	,	,	ZD	O	
+12-25	siger	sige	VF:----:sa:----	O	
+12-26	hun	hun	PP:s-nc:--:-3n-	O	
+12-27	.	.	ZP	O	
+
+#id=13
+#text=7Tag både hensyn til hovedpersonen og resten af selskabet i teksten.
+13-1	7	7	LC:--u-:--:----	O	
+13-2	Tag	tag	NC:piu#:--:----	O	
+13-3	både	både	D-:----:--:u---	O	
+13-4	hensyn	hensyn	NC:siun:--:----	O	
+13-5	til	til	T-:----:--:----	O	
+13-6	hovedpersonen	hovedperson	NC:sduc:--:----	O	
+13-7	og	og	CC:----:--:----	O	
+13-8	resten	rest	NC:sduc:--:----	O	
+13-9	af	af	T-:----:--:----	O	
+13-10	selskabet	selskab|selskab-1-1a-1b|selskab-3|selskab-4-4a|selskab-2-2a|selskab-1c|selskab-F-holde-med-selskab	NC:sdun:--:----	B-selskab-2	
+13-11	i	i	T-:----:--:----	O	
+13-12	teksten	tekst	NC:sduc:--:----	O	
+13-13	.	.	ZP	O	
+
+#id=14
+#text=Hver dag arrangeres ture rundt i området, hvor besøgende kan opleve junglen i selskab med en guide eller svømme med delfiner.
+14-1	Hver	hver	PI:s-uc:--:----	O	
+14-2	dag	dag	NC:siuc:--:----	O	
+14-3	arrangeres	arrangere	VF:----:sp:----	O	
+14-4	ture	tur	NC:piu#:--:----	O	
+14-5	rundt	rundt	D-:----:--:u---	O	
+14-6	i	i	T-:----:--:----	O	
+14-7	området	område	NC:sdun:--:----	O	
+14-8	,	,	ZD	O	
+14-9	hvor	hvor	D-:----:--:u---	O	
+14-10	besøgende	besøge	VP:##u#:s-:----	O	
+14-11	kan	kunne	VF:----:sa:----	O	
+14-12	opleve	opleve	VI:----:-a:----	O	
+14-13	junglen	jungle	NC:sduc:--:----	O	
+14-14	i	i	T-:----:--:----	O	
+14-15	selskab	selskab|selskab-1c|selskab-1-1a-1b|selskab-F-holde-med-selskab|selskab-4-4a|selskab-3|selskab-2-2a	NC:siun:--:----	B-selskab-1	
+14-16	med	med	T-:----:--:----	O	
+14-17	en	en	PI:s-uc:--:----	O	
+14-18	guide	guide	NC:siuc:--:----	O	
+14-19	eller	eller	CC:----:--:----	O	
+14-20	svømme	svømme	VI:----:-a:----	O	
+14-21	med	med	T-:----:--:----	O	
+14-22	delfiner	delfin	NC:piu#:--:----	O	
+14-23	.	.	ZP	O	
+
+#id=15
+#text=Senerehyrede Polydor Records ham til arrangere selskabets indspilninger, og Last varetog de følgende år opgaven i nært samarbejde med folkekære kunstnere som Helmut Zacharias, Freddy Quinn og Caterina Valente.
+15-1	Senere	sen	AD:----:--:c---	O	
+15-2	hyrede	hyre	VF:----:ta:----	O	
+15-3	Polydor	Polydor	NP:siu#:--:----	O	
+15-4	Records	Records	NP:siu#:--:----	O	
+15-5	ham	ham	XY:----:--:----	O	
+15-6	til	til	D-:----:--:u---	O	
+15-7	arrangere	arrangere	VI:----:-a:----	O	
+15-8	selskabets	selskab|selskab-2-2a|selskab-1c|selskab-1-1a-1b|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a	NC:sdgn:--:----	B-selskab-4	
+15-9	indspilninger	indspilning	NC:piu#:--:----	O	
+15-10	,	,	ZD	O	
+15-11	og	og	CC:----:--:----	O	
+15-12	Last	last	NC:siuc:--:----	O	
+15-13	varetog	varetog	VF:----:ta:----	O	
+15-14	de	den	PM:p-u#:--:----	O	
+15-15	følgende	følge	VP:##u#:s-:----	O	
+15-16	år	år	NC:siun:--:----	O	
+15-17	opgaven	opgave	NC:sduc:--:----	O	
+15-18	i	i	T-:----:--:----	O	
+15-19	nært	nær	AC:siun:--:p---	O	
+15-20	samarbejde	samarbejde	NC:siun:--:----	O	
+15-21	med	med	T-:----:--:----	O	
+15-22	folkekære	folkekær	AC:p#u#:--:p---	O	
+15-23	kunstnere	kunstner	NC:piu#:--:----	O	
+15-24	som	som	US:----:--:----	O	
+15-25	Helmut	Helmut	NP:siu#:--:----	O	
+15-26	Zacharias	Zacharias	NP:siu#:--:----	O	
+15-27	,	,	ZD	O	
+15-28	Freddy	Freddy	NP:siu#:--:----	O	
+15-29	Quinn	Quinn	NP:siu#:--:----	O	
+15-30	og	og	CC:----:--:----	O	
+15-31	Caterina	Caterina	NP:siu#:--:----	O	
+15-32	Valente	Valente	NP:siu#:--:----	O	
+15-33	.	.	ZP	O	
+
+#id=16
+#text=DFDSA/S har i Niels Fisch-Thomsens formandstid ligeledes gennemgået en betydelig udvikling, hvor ikke mindst DFDS Tor Line er vokset betydeligt, og senest det perspektivrige partnerskab, der for nylig blev etableret mellem DFDS og DSV med det nystiftede selskab Vesterhavet-DSV Holding A/S.
+16-1	DFDS	DFDS	NP:siu#:--:----	O	
+16-2	A	a	XS:----:--:----	O	
+16-3	/	/	ZS	O	
+16-4	S	s	XS:----:--:----	O	
+16-5	har	have	VF:----:sa:----	O	
+16-6	i	i	T-:----:--:----	O	
+16-7	Niels	Niels	NP:siu#:--:----	O	
+16-8	Fisch	Fisch	NP:siu#:--:----	O	
+16-9	-	-	ZH	O	
+16-10	Thomsens	Thomsen	NP:sig#:--:----	O	
+16-11	formandstid	formandstid	NC:siuc:--:----	O	
+16-12	ligeledes	ligeledes	D-:----:--:u---	O	
+16-13	gennemgået	gennemgå	VT:siu#:t-:----	O	
+16-14	en	en	PI:s-uc:--:----	O	
+16-15	betydelig	betydelig	AC:siuc:--:p---	O	
+16-16	udvikling	udvikling	NC:siuc:--:----	O	
+16-17	,	,	ZD	O	
+16-18	hvor	hvor	D-:----:--:u---	O	
+16-19	ikke	ikke	D-:----:--:u---	O	
+16-20	mindst	liden	AD:----:--:s---	O	
+16-21	DFDS	DFDS	NP:siu#:--:----	O	
+16-22	Tor	Tor	NP:siu#:--:----	O	
+16-23	Line	Line	NP:siu#:--:----	O	
+16-24	er	være	VF:----:sa:----	O	
+16-25	vokset	vokse	VT:siu#:t-:----	O	
+16-26	betydeligt	betydelig	AD:----:--:p---	O	
+16-27	,	,	ZD	O	
+16-28	og	og	CC:----:--:----	O	
+16-29	senest	sen	AD:----:--:s---	O	
+16-30	det	det	XY:----:--:----	O	
+16-31	perspektivrige	perspektivrig	AC:sdu#:--:p---	O	
+16-32	partnerskab	partnerskab	NC:siun:--:----	O	
+16-33	,	,	ZD	O	
+16-34	der	der	US:----:--:----	O	
+16-35	for	for	T-:----:--:----	O	
+16-36	nylig	nylig	AD:----:--:p---	O	
+16-37	blev	blive	VF:----:ta:----	O	
+16-38	etableret	etablere	VT:siu#:t-:----	O	
+16-39	mellem	mellem	T-:----:--:----	O	
+16-40	DFDS	DFDS	NP:siu#:--:----	O	
+16-41	og	og	CC:----:--:----	O	
+16-42	DSV	DSV	NP:siu#:--:----	O	
+16-43	med	med	T-:----:--:----	O	
+16-44	det	den	PM:s-un:--:----	O	
+16-45	nystiftede	nystiftet	AC:sdu#:--:p---	O	
+16-46	selskab	selskab|selskab-2-2a|selskab-1c|selskab-1-1a-1b|selskab-F-holde-med-selskab|selskab-4-4a|selskab-3	NC:siun:--:----	B-selskab-4	
+16-47	Vesterhavet	Vesterhavet	NW:----:--:----	O	
+16-48	-	-	ZH	O	
+16-49	DSV	DSV	NP:siu#:--:----	O	
+16-50	Holding	Holding	NP:siu#:--:----	O	
+16-51	A	a	XS:----:--:----	O	
+16-52	/	/	ZS	O	
+16-53	S	s	XS:----:--:----	O	
+16-54	.	.	ZP	O	
+
+#id=17
+#text=jeg - var til stede, og han virkede, som om han altid havde nøjagtigt styr på mig og hvem jeg var, som han må have haft det på alle de andre i dette spisende, cocktailsippende cirkus af et selskab af hangers-on.
+17-1	jeg	jeg	PP:s-nc:--:-1n-	O	
+17-2	-	-	NC:piu#:--:----	O	
+17-3	var	være	VF:----:ta:----	O	
+17-4	til	til	T-:----:--:----	O	
+17-5	stede	sted	NC:sifn:--:----	O	
+17-6	,	,	ZD	O	
+17-7	og	og	CC:----:--:----	O	
+17-8	han	han	PP:s-nc:--:-3n-	O	
+17-9	virkede	virke	VF:----:ta:----	O	
+17-10	,	,	ZD	O	
+17-11	som	som	US:----:--:----	O	
+17-12	om	om	CS:----:--:----	O	
+17-13	han	han	PP:s-nc:--:-3n-	O	
+17-14	altid	altid	D-:----:--:u---	O	
+17-15	havde	have	VF:----:ta:----	O	
+17-16	nøjagtigt	nøjagtig	AC:siun:--:p---	O	
+17-17	styr	styr	NC:siun:--:----	O	
+17-18	på	på	T-:----:--:----	O	
+17-19	mig	jeg	PP:s-uc:--:-1#-	O	
+17-20	og	og	CC:----:--:----	O	
+17-21	hvem	hvem	PR:#-uc:--:----	O	
+17-22	jeg	jeg	PP:s-nc:--:-1n-	O	
+17-23	var	være	VF:----:ta:----	O	
+17-24	,	,	ZD	O	
+17-25	som	som	US:----:--:----	O	
+17-26	han	han	PP:s-nc:--:-3n-	O	
+17-27	må	måtte	VF:----:sa:----	O	
+17-28	have	have	VI:----:-a:----	O	
+17-29	haft	have	VT:siu#:t-:----	O	
+17-30	det	det	PP:s-un:--:-3n-	O	
+17-31	på	på	T-:----:--:----	O	
+17-32	alle	al	PI:p-u#:--:----	O	
+17-33	de	den	PM:p-u#:--:----	O	
+17-34	andre	anden	PI:p-u#:--:----	O	
+17-35	i	i	T-:----:--:----	O	
+17-36	dette	denne	PM:s-un:--:----	O	
+17-37	spisende	spise	VP:##u#:s-:----	O	
+17-38	,	,	ZD	O	
+17-39	cocktailsippende	cocktailsippe	VP:##u#:s-:----	O	
+17-40	cirkus	cirkus	NC:siuc:--:----	O	
+17-41	af	af	T-:----:--:----	O	
+17-42	et	en	PI:s-un:--:----	O	
+17-43	selskab	selskab|selskab-1c|selskab-1-1a-1b|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-2-2a	NC:siun:--:----	B-selskab-2	
+17-44	af	af	T-:----:--:----	O	
+17-45	hangers	hanger	NW:----:--:----	O	
+17-46	-	-	ZH	O	
+17-47	on	On	XF:----:--:----	O	
+17-48	.	.	ZP	O	
+
+#id=18
+#text=Demultinationale selskaber ser i stigende grad Asien som en økonomisk enhed, i hvert fald når det drejer sig om produktion.
+18-1	De	den	PM:p-u#:--:----	O	
+18-2	multinationale	multinational	AC:p#u#:--:p---	O	
+18-3	selskaber	selskab|selskab-F-holde-med-selskab|selskab-4-4a|selskab-3|selskab-2-2a|selskab-1-1a-1b|selskab-1c	NC:piu#:--:----	B-selskab-4	
+18-4	ser	se	VF:----:sa:----	O	
+18-5	i	i	T-:----:--:----	O	
+18-6	stigende	stige	VP:##u#:s-:----	O	
+18-7	grad	grad	NC:siuc:--:----	O	
+18-8	Asien	asie	NC:sduc:--:----	O	
+18-9	som	som	US:----:--:----	O	
+18-10	en	en	PI:s-uc:--:----	O	
+18-11	økonomisk	økonomisk	AC:siu§:--:p---	O	
+18-12	enhed	enhed	NC:siuc:--:----	O	
+18-13	,	,	ZD	O	
+18-14	i	i	T-:----:--:----	O	
+18-15	hvert	hver	PI:s-un:--:----	O	
+18-16	fald	fald	NC:siun:--:----	O	
+18-17	når	når	CS:----:--:----	O	
+18-18	det	det	PP:s-un:--:-3n-	O	
+18-19	drejer	dreje	VF:----:sa:----	O	
+18-20	sig	sig	PP:#-u#:--:-3y-	O	
+18-21	om	om	T-:----:--:----	O	
+18-22	produktion	produktion	NC:siuc:--:----	O	
+18-23	.	.	ZP	O	
+
+#id=19
+#text=Den sag var ikke offentligt kendt, men kom frem, fordi banken sendte en fondsbørsmeddelelse om, at statens selskab, det såkaldte Finansiel Stabilitet, ejer over 5 procent af aktiekapitalen.
+19-1	Den	den	PM:s-uc:--:----	O	
+19-2	sag	sag	NC:siuc:--:----	O	
+19-3	var	være	VF:----:ta:----	O	
+19-4	ikke	ikke	D-:----:--:u---	O	
+19-5	offentligt	offentlig	AD:----:--:p---	O	
+19-6	kendt	kendt	AC:siu§:--:p---	O	
+19-7	,	,	ZD	O	
+19-8	men	men	CC:----:--:----	O	
+19-9	kom	komme	VF:----:ta:----	O	
+19-10	frem	frem	D-:----:--:u---	O	
+19-11	,	,	ZD	O	
+19-12	fordi	fordi	CS:----:--:----	O	
+19-13	banken	bank	NC:sduc:--:----	O	
+19-14	sendte	sende	VF:----:ta:----	O	
+19-15	en	en	PI:s-uc:--:----	O	
+19-16	fondsbørsmeddelelse	fondsbørsmeddelelse	NC:siuc:--:----	O	
+19-17	om	om	T-:----:--:----	O	
+19-18	,	,	ZD	O	
+19-19	at	at	CS:----:--:----	O	
+19-20	statens	stat	NC:sdgc:--:----	O	
+19-21	selskab	selskab|selskab-2-2a|selskab-1c|selskab-1-1a-1b|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a	NC:siun:--:----	B-selskab-4	
+19-22	,	,	ZD	O	
+19-23	det	det	PP:s-un:--:-3n-	O	
+19-24	såkaldte	såkaldte	XY:----:--:----	O	
+19-25	Finansiel	finansiel	AC:siuc:--:p---	O	
+19-26	Stabilitet	stabilitet	NC:siuc:--:----	O	
+19-27	,	,	ZD	O	
+19-28	ejer	eje	VF:----:sa:----	O	
+19-29	over	over	T-:----:--:----	O	
+19-30	5	5	LC:--u-:--:----	O	
+19-31	procent	procent	NC:piu#:--:----	O	
+19-32	af	af	T-:----:--:----	O	
+19-33	aktiekapitalen	aktiekapital	NC:sduc:--:----	O	
+19-34	.	.	ZP	O	
+
+#id=20
+#text=Bang & Olufsen vil nu hente 459 millioner kroner friske penge til det kriseramte selskab ved at udstede nye aktier.
+20-1	Bang	Bang	NP:siu#:--:----	O	
+20-2	&	&	CC:----:--:----	O	
+20-3	Olufsen	Olufsen	NP:siu#:--:----	O	
+20-4	vil	ville	VF:----:sa:----	O	
+20-5	nu	nu	D-:----:--:u---	O	
+20-6	hente	hente	VI:----:-a:----	O	
+20-7	459	459	LC:--u-:--:----	O	
+20-8	millioner	million	NC:piu#:--:----	O	
+20-9	kroner	krone	VF:----:sa:----	O	
+20-10	friske	frisk	AC:p#u#:--:p---	O	
+20-11	penge	penge	NC:piu#:--:----	O	
+20-12	til	til	T-:----:--:----	O	
+20-13	det	den	PM:s-un:--:----	O	
+20-14	kriseramte	kriseramt	AC:sdu#:--:p---	O	
+20-15	selskab	selskab|selskab-1c|selskab-3|selskab-2-2a|selskab-1-1a-1b|-F-holde-med-selskab|selskab-4-4a	NC:siun:--:----	B-selskab-4	
+20-16	ved	ved	T-:----:--:----	O	
+20-17	at	at	UI:----:--:----	O	
+20-18	udstede	udstede	VI:----:-a:----	O	
+20-19	nye	ny	AC:p#u#:--:p---	O	
+20-20	aktier	aktie	NC:piu#:--:----	O	
+20-21	.	.	ZP	O	
+
+#id=21
+#text=Michael Laudrup får fint selskab i fodboldtrænernes jobkø.
+21-1	Michael	Michael	NP:siu#:--:----	O	
+21-2	Laudrup	Laudrup	NP:siu#:--:----	O	
+21-3	får	få	VF:----:sa:----	O	
+21-4	fint	fin	AC:siun:--:p---	O	
+21-5	selskab	selskab|selskab-F-holde-med-selskab|selskab-4-4a|selskab-1-1a-1b|selskab-1c|selskab-3|selskab-2-2a	NC:siun:--:----	B-selskab-1	
+21-6	i	i	T-:----:--:----	O	
+21-7	fodboldtrænernes	fodboldtræner	NC:pdg#:--:----	O	
+21-8	jobkø	jobkø	NC:siuc:--:----	O	
+21-9	.	.	ZP	O	
+
+#id=22
+#text=Ensvær opgave, erkender selskabet direktør, John Bundgaard.
+22-1	En	en	PI:s-uc:--:----	O	
+22-2	svær	svær	AC:siuc:--:p---	O	
+22-3	opgave	opgave	NC:siuc:--:----	O	
+22-4	,	,	ZD	O	
+22-5	erkender	erkende	VF:----:sa:----	O	
+22-6	selskabet	selskab|selskab-1-1a-1b|selskab-1c|selskab-F-holde-med-selskab|selskab-4-4a|selskab-3|selskab-2-2a	NC:sdun:--:----	B-selskab-4	
+22-7	direktør	direktør	NC:siuc:--:----	O	
+22-8	,	,	ZD	O	
+22-9	John	John	NP:siu#:--:----	O	
+22-10	Bundgaard	Bundgaard	NP:siu#:--:----	O	
+22-11	.	.	ZP	O	
+
+#id=23
+#text=FRADET mørkeste Vesterbro til mere eller mindre skumle lokaliteter i  New York i selskab med kvinder med en mystisk fortid og en tvivlsom nutid er den rejse, danske Viva Vertigo udsteder billetter til med dette tredje album.
+23-1	FRA	fra	T-:----:--:----	O	
+23-2	DET	den	PM:s-un:--:----	O	
+23-3	mørkeste	mørkeste	XY:----:--:----	O	
+23-4	Vesterbro	Vesterbro	NP:siu#:--:----	O	
+23-5	til	til	T-:----:--:----	O	
+23-6	mere	megen	AC:##u#:--:c---	O	
+23-7	eller	eller	CC:----:--:----	O	
+23-8	mindre	liden	AD:----:--:c---	O	
+23-9	skumle	skummel	AC:p#u#:--:p---	O	
+23-10	lokaliteter	lokalitet	NC:piu#:--:----	O	
+23-11	i	i	T-:----:--:----	O	
+23-12	New	New	NP:siu#:--:----	O	
+23-13	York	York	NP:siu#:--:----	O	
+23-14	i	i	T-:----:--:----	O	
+23-15	selskab	selskab|selskab-F-holde-med-selskab|selskab-4-4a|selskab-1-1a-1b|selskab-3|selskab-2-2a|selskab-1c	NC:siun:--:----	B-selskab-1	
+23-16	med	med	T-:----:--:----	O	
+23-17	kvinder	kvinde	NC:piu#:--:----	O	
+23-18	med	med	T-:----:--:----	O	
+23-19	en	en	PI:s-uc:--:----	O	
+23-20	mystisk	mystisk	AC:siu§:--:p---	O	
+23-21	fortid	fortid	NC:siuc:--:----	O	
+23-22	og	og	CC:----:--:----	O	
+23-23	en	en	PI:s-uc:--:----	O	
+23-24	tvivlsom	tvivlsom	AC:siuc:--:p---	O	
+23-25	nutid	nutid	NC:siuc:--:----	O	
+23-26	er	være	VF:----:sa:----	O	
+23-27	den	den	PM:s-uc:--:----	O	
+23-28	rejse	rejse	NC:siuc:--:----	O	
+23-29	,	,	ZD	O	
+23-30	danske	dansk	AC:sdu#:--:p---	O	
+23-31	Viva	Viva	NP:siu#:--:----	O	
+23-32	Vertigo	Vertigo	NP:siu#:--:----	O	
+23-33	udsteder	udstede	VF:----:sa:----	O	
+23-34	billetter	billet	NC:piu#:--:----	O	
+23-35	til	til	T-:----:--:----	O	
+23-36	med	med	T-:----:--:----	O	
+23-37	dette	denne	PM:s-un:--:----	O	
+23-38	tredje	tre	LO:--u#:--:----	O	
+23-39	album	album	NC:siun:--:----	O	
+23-40	.	.	ZP	O	
+
+#id=24
+#text=Den kendte er Skælskør Bank, der tirsdag aften sendte en meddelelse til fondsbørsen om, at statens selskab Finansiel Stabilitet ejer mere end fem pct. af aktiekapitalen.
+24-1	Den	den	PM:s-uc:--:----	O	
+24-2	kendte	kendt	AC:sdu#:--:p---	O	
+24-3	er	være	VF:----:sa:----	O	
+24-4	Skælskør	Skælskør	NP:siu#:--:----	O	
+24-5	Bank	Bank	NP:siu#:--:----	O	
+24-6	,	,	ZD	O	
+24-7	der	der	US:----:--:----	O	
+24-8	tirsdag	tirsdag	NC:siuc:--:----	O	
+24-9	aften	aften	NC:siuc:--:----	O	
+24-10	sendte	sende	VF:----:ta:----	O	
+24-11	en	en	PI:s-uc:--:----	O	
+24-12	meddelelse	meddelelse	NC:siuc:--:----	O	
+24-13	til	til	T-:----:--:----	O	
+24-14	fondsbørsen	fondsbørs	NC:sduc:--:----	O	
+24-15	om	om	T-:----:--:----	O	
+24-16	,	,	ZD	O	
+24-17	at	at	CS:----:--:----	O	
+24-18	statens	stat	NC:sdgc:--:----	O	
+24-19	selskab	selskab|selskab-1c|selskab-F-holde-med-selskab|selskab-4-4a|selskab-3|selskab-2-2a|selskab-1-1a-1b	NC:siun:--:----	B-selskab-4	
+24-20	Finansiel	finansiel	AC:siuc:--:p---	O	
+24-21	Stabilitet	stabilitet	NC:siuc:--:----	O	
+24-22	ejer	eje	VF:----:sa:----	O	
+24-23	mere	megen	AC:##u#:--:c---	O	
+24-24	end	end	CS:----:--:----	O	
+24-25	fem	fem	LC:--u-:--:----	O	
+24-26	pct	procent	NC:piu#:--:----	O	
+24-27	.	.	ZP	O	
+24-28	af	af	T-:----:--:----	O	
+24-29	aktiekapitalen	aktiekapital	NC:sduc:--:----	O	
+24-30	.	.	ZP	O	
+
+#id=25
+#text=Det siger sig selv, at selskabet for Finansiel Stabilitet naturligvis vil afhænde aktierne, når vi er ovre den finansielle krise, og markederne er normaliseret", siger Lene Espersen.
+25-1	Det	det	PP:s-un:--:-3n-	O	
+25-2	siger	sige	VF:----:sa:----	O	
+25-3	sig	sig	PP:#-u#:--:-3y-	O	
+25-4	selv	selv	PM:#-u#:--:----	O	
+25-5	,	,	ZD	O	
+25-6	at	at	CS:----:--:----	O	
+25-7	selskabet	selskab|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-2-2a|selskab-1c|selskab-1-1a-1b	NC:sdun:--:----	B-selskab-4	
+25-8	for	for	T-:----:--:----	O	
+25-9	Finansiel	finansiel	AC:siuc:--:p---	O	
+25-10	Stabilitet	stabilitet	NC:siuc:--:----	O	
+25-11	naturligvis	naturligvis	D-:----:--:u---	O	
+25-12	vil	ville	VF:----:sa:----	O	
+25-13	afhænde	afhænde	VI:----:-a:----	O	
+25-14	aktierne	aktie	NC:pdu#:--:----	O	
+25-15	,	,	ZD	O	
+25-16	når	når	CS:----:--:----	O	
+25-17	vi	vi	PP:p-nc:--:-1n-	O	
+25-18	er	være	VF:----:sa:----	O	
+25-19	ovre	ovre	D-:----:--:u---	O	
+25-20	den	den	PM:s-uc:--:----	O	
+25-21	finansielle	finansiel	AC:sdu#:--:p---	O	
+25-22	krise	krise	NC:siuc:--:----	O	
+25-23	,	,	ZD	O	
+25-24	og	og	CC:----:--:----	O	
+25-25	markederne	marked	NC:pdu#:--:----	O	
+25-26	er	være	VF:----:sa:----	O	
+25-27	normaliseret	normalisere	VT:siu#:t-:----	O	
+25-28	"	"	ZI	O	
+25-29	,	,	ZD	O	
+25-30	siger	sige	VF:----:sa:----	O	
+25-31	Lene	Lene	NP:siu#:--:----	O	
+25-32	Espersen	Espersen	NP:siu#:--:----	O	
+25-33	.	.	ZP	O	
+
+#id=26
+#text="Deter rigtigt, at det statslige selskab for Finansiel Stabilitet lige nu råder over en mindre portion aktier, men det er der altså intet fikumdik i, nyt i eller hemmelighedskræmmeri omkring.
+26-1	"	"	ZI	O	
+26-2	Det	det	PP:s-un:--:-3n-	O	
+26-3	er	være	VF:----:sa:----	O	
+26-4	rigtigt	rigtig	AC:siun:--:p---	O	
+26-5	,	,	ZD	O	
+26-6	at	at	CS:----:--:----	O	
+26-7	det	den	PM:s-un:--:----	O	
+26-8	statslige	statslig	AC:sdu#:--:p---	O	
+26-9	selskab	selskab|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-2-2a|selskab-1-1a-1b|selskab-1c	NC:siun:--:----	B-selskab-4	
+26-10	for	for	T-:----:--:----	O	
+26-11	Finansiel	finansiel	AC:siuc:--:p---	O	
+26-12	Stabilitet	stabilitet	NC:siuc:--:----	O	
+26-13	lige	lige	D-:----:--:u---	O	
+26-14	nu	nu	D-:----:--:u---	O	
+26-15	råder	råde	VF:----:sa:----	O	
+26-16	over	over	T-:----:--:----	O	
+26-17	en	en	PI:s-uc:--:----	O	
+26-18	mindre	liden	AC:##u#:--:c---	O	
+26-19	portion	portion	NC:siuc:--:----	O	
+26-20	aktier	aktie	NC:piu#:--:----	O	
+26-21	,	,	ZD	O	
+26-22	men	men	CC:----:--:----	O	
+26-23	det	det	PP:s-un:--:-3n-	O	
+26-24	er	være	VF:----:sa:----	O	
+26-25	der	der	US:----:--:----	O	
+26-26	altså	altså	D-:----:--:u---	O	
+26-27	intet	intet	XY:----:--:----	O	
+26-28	fikumdik	fikumdik	NC:siu#:--:----	O	
+26-29	i	i	T-:----:--:----	O	
+26-30	,	,	ZD	O	
+26-31	nyt	ny	AC:siun:--:p---	O	
+26-32	i	i	T-:----:--:----	O	
+26-33	eller	eller	CC:----:--:----	O	
+26-34	hemmelighedskræmmeri	hemmelighedskræmmeri	NC:siun:--:----	O	
+26-35	omkring	omkring	T-:----:--:----	O	
+26-36	.	.	ZP	O	
+
+#id=27
+#text=JensAukens specialer er offentlige selskaber, planforhold, ekspropriation og kommuners retsforhold.
+27-1	Jens	Jens	NP:siu#:--:----	O	
+27-2	Aukens	Auken	NP:sig#:--:----	O	
+27-3	specialer	speciale	NC:piu#:--:----	O	
+27-4	er	være	VF:----:sa:----	O	
+27-5	offentlige	offentlig	AC:p#u#:--:p---	O	
+27-6	selskaber	selskab|selskab-1-1a-1b|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-2-2a|selskab-1c	NC:piu#:--:----	B-selskab-4	
+27-7	,	,	ZD	O	
+27-8	planforhold	planforhold	NC:piu#:--:----	O	
+27-9	,	,	ZD	O	
+27-10	ekspropriation	ekspropriation	NC:siuc:--:----	O	
+27-11	og	og	CC:----:--:----	O	
+27-12	kommuners	kommune	NC:pig#:--:----	O	
+27-13	retsforhold	retsforhold	NC:siun:--:----	O	
+27-14	.	.	ZP	O	
+
+#id=28
+#text=Det er selskabet indstillet på:
+28-1	Det	det	PP:s-un:--:-3n-	O	
+28-2	er	være	VF:----:sa:----	O	
+28-3	selskabet	selskab|selskab-1c|selskab-3|selskab-2-2a|selskab-1-1a-1b|selskab-F-holde-med-selskab|selskab-4-4a	NC:sdun:--:----	B-selskab-2	
+28-4	indstillet	indstille	VT:siu#:t-:----	O	
+28-5	på	på	T-:----:--:----	O	
+28-6	:	:	ZP	O	
+
+#id=29
+#text=Statener godt på vej til at snuppe mere end halvdelen af de penge, kommunerne tjener ved at sælge deres fælles selskaber fra.
+29-1	Staten	stat	NC:sduc:--:----	O	
+29-2	er	være	VF:----:sa:----	O	
+29-3	godt	god	AD:----:--:p---	O	
+29-4	på	på	T-:----:--:----	O	
+29-5	vej	vej	NC:siuc:--:----	O	
+29-6	til	til	T-:----:--:----	O	
+29-7	at	at	UI:----:--:----	O	
+29-8	snuppe	snuppe	VI:----:-a:----	O	
+29-9	mere	megen	AC:##u#:--:c---	O	
+29-10	end	end	CS:----:--:----	O	
+29-11	halvdelen	halvdel	NC:sduc:--:----	O	
+29-12	af	af	T-:----:--:----	O	
+29-13	de	den	PM:p-u#:--:----	O	
+29-14	penge	penge	NC:piu#:--:----	O	
+29-15	,	,	ZD	O	
+29-16	kommunerne	kommune	NC:pdu#:--:----	O	
+29-17	tjener	tjene	VF:----:sa:----	O	
+29-18	ved	ved	T-:----:--:----	O	
+29-19	at	at	UI:----:--:----	O	
+29-20	sælge	sælge	VI:----:-a:----	O	
+29-21	deres	deres	PO:#--#:--:-3np	O	
+29-22	fælles	fælles	AC:§§u§:--:p---	O	
+29-23	selskaber	selskab|selskab-1c|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-2-2a|selskab-1-1a-1b	NC:piu#:--:----	B-selskab-4	
+29-24	fra	fra	T-:----:--:----	O	
+29-25	.	.	ZP	O	
+
+#id=30
+#text=IfølgeEnergitilsynet falder selskaberne nemlig ind under den lov, der blev vedtaget i 2003 for at forhindre kommunerne i at tjene for meget på salg af de kommunale energiselskaber.
+30-1	Ifølge	ifølge	T-:----:--:----	O	
+30-2	Energitilsynet	Energitilsynet	NP:siu#:--:----	O	
+30-3	falder	falde	VF:----:sa:----	O	
+30-4	selskaberne	selskab|selskab-2-2a|selskab-1c|selskab-1-1a-1b|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a	NC:pdu#:--:----	B-selskab-4a	
+30-5	nemlig	nemlig	D-:----:--:u---	O	
+30-6	ind	ind	D-:----:--:u---	O	
+30-7	under	under	T-:----:--:----	O	
+30-8	den	den	PM:s-uc:--:----	O	
+30-9	lov	lov	NC:siuc:--:----	O	
+30-10	,	,	ZD	O	
+30-11	der	der	US:----:--:----	O	
+30-12	blev	blive	VF:----:ta:----	O	
+30-13	vedtaget	vedtage	VT:siu#:t-:----	O	
+30-14	i	i	T-:----:--:----	O	
+30-15	2003	2003	LC:--u-:--:----	O	
+30-16	for	for	T-:----:--:----	O	
+30-17	at	at	UI:----:--:----	O	
+30-18	forhindre	forhindre	VI:----:-a:----	O	
+30-19	kommunerne	kommune	NC:pdu#:--:----	O	
+30-20	i	i	T-:----:--:----	O	
+30-21	at	at	UI:----:--:----	O	
+30-22	tjene	tjene	VI:----:-a:----	O	
+30-23	for	for	T-:----:--:----	O	
+30-24	meget	megen	AD:----:--:p---	O	
+30-25	på	på	T-:----:--:----	O	
+30-26	salg	salg	NC:siun:--:----	O	
+30-27	af	af	T-:----:--:----	O	
+30-28	de	den	PM:p-u#:--:----	O	
+30-29	kommunale	kommunal	AC:p#u#:--:p---	O	
+30-30	energiselskaber	energiselskab	NC:piu#:--:----	O	
+30-31	.	.	ZP	O	
+
+#id=31
+#text=Kommunernesførstemand, Erik Fabrin, kan ikke se, hvordan et affaldsselskab som Kommunekemi og et it-selskab som KMD kan falde ind under en lov om energiselskaber.
+31-1	Kommunernes	kommune	NC:pdg#:--:----	O	
+31-2	førstemand	førstemand	NC:siuc:--:----	O	
+31-3	,	,	ZD	O	
+31-4	Erik	Erik	NP:siu#:--:----	O	
+31-5	Fabrin	Fabrin	NP:siu#:--:----	O	
+31-6	,	,	ZD	O	
+31-7	kan	kunne	VF:----:sa:----	O	
+31-8	ikke	ikke	D-:----:--:u---	O	
+31-9	se	se	VI:----:-a:----	O	
+31-10	,	,	ZD	O	
+31-11	hvordan	hvordan	D-:----:--:u---	O	
+31-12	et	en	PI:s-un:--:----	O	
+31-13	affaldsselskab	affaldsselskab	NC:siun:--:----	O	
+31-14	som	som	US:----:--:----	O	
+31-15	Kommunekemi	Kommunekemi	NP:siu#:--:----	O	
+31-16	og	og	CC:----:--:----	O	
+31-17	et	et	XY:----:--:----	O	
+31-18	it	it	XF:----:--:----	O	
+31-19	-	-	ZH	O	
+31-20	selskab	selskab|selskab-1c|selskab-1-1a-1b|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-2-2a	NC:siun:--:----	B-selskab-4	
+31-21	som	som	US:----:--:----	O	
+31-22	KMD	KMD	NP:siu#:--:----	O	
+31-23	kan	kunne	VF:----:sa:----	O	
+31-24	falde	falde	VI:----:-a:----	O	
+31-25	ind	ind	D-:----:--:u---	O	
+31-26	under	under	T-:----:--:----	O	
+31-27	en	en	PI:s-uc:--:----	O	
+31-28	lov	lov	NC:siuc:--:----	O	
+31-29	om	om	T-:----:--:----	O	
+31-30	energiselskaber	energiselskab	NC:piu#:--:----	O	
+31-31	.	.	ZP	O	
+
+#id=32
+#text=Ganskevist producerer Kommunekemi en smule energi med overskudsvarmen fra affaldsforbrændingen, men selskabet håndterer først og fremmest affald.
+32-1	Ganske	ganske	D-:----:--:u---	O	
+32-2	vist	vist	D-:----:--:u---	O	
+32-3	producerer	producere	VF:----:sa:----	O	
+32-4	Kommunekemi	Kommunekemi	NP:siu#:--:----	O	
+32-5	en	en	PI:s-uc:--:----	O	
+32-6	smule	smule	NC:siuc:--:----	O	
+32-7	energi	energi	NC:siuc:--:----	O	
+32-8	med	med	T-:----:--:----	O	
+32-9	overskudsvarmen	overskudsvarme	NC:sduc:--:----	O	
+32-10	fra	fra	T-:----:--:----	O	
+32-11	affaldsforbrændingen	affaldsforbrænding	NC:sduc:--:----	O	
+32-12	,	,	ZD	O	
+32-13	men	men	CC:----:--:----	O	
+32-14	selskabet	selskab|selskab-1c|selskab-F-holde-med-selskab|selskab-4-4a|selskab-3|selskab-2-2a|selskab-1-1a-1b	NC:sdun:--:----	B-selskab-4	
+32-15	håndterer	håndtere	VF:----:sa:----	O	
+32-16	først	først	D-:----:--:u---	O	
+32-17	og	og	---	O	
+32-18	fremmest	fremmest	AC:siu§:--:p---	O	
+32-19	affald	affald	NC:siun:--:----	O	
+32-20	.	.	ZP	O	
+
+#id=33
+#text=Kommunernes indtægter skal modregnes for alle selskaber, der blot indgår i samme koncernstruktur som energiforsyningen, og det gælder for de to selskaber, vurderer tilsynet.
+33-1	Kommunernes	kommune	NC:pdg#:--:----	O	
+33-2	indtægter	indtægt	NC:piu#:--:----	O	
+33-3	skal	skulle	VF:----:sa:----	O	
+33-4	modregnes	modregne	VI:----:-p:----	O	
+33-5	for	for	T-:----:--:----	O	
+33-6	alle	al	PI:p-u#:--:----	O	
+33-7	selskaber	selskab|selskab-1-1a-1b|selskab-1c|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-2-2a	NC:piu#:--:----	B-selskab-4	
+33-8	,	,	ZD	O	
+33-9	der	der	US:----:--:----	O	
+33-10	blot	blot	D-:----:--:u---	O	
+33-11	indgår	indgå	VF:----:sa:----	O	
+33-12	i	i	T-:----:--:----	O	
+33-13	samme	samme	AC:§§u§:--:p---	O	
+33-14	koncernstruktur	koncernstruktur	NC:siuc:--:----	O	
+33-15	som	som	US:----:--:----	O	
+33-16	energiforsyningen	energiforsyning	NC:sduc:--:----	O	
+33-17	,	,	ZD	O	
+33-18	og	og	CC:----:--:----	O	
+33-19	det	det	PP:s-un:--:-3n-	O	
+33-20	gælder	gælde	VF:----:sa:----	O	
+33-21	for	for	T-:----:--:----	O	
+33-22	de	den	PM:p-u#:--:----	O	
+33-23	to	to	LC:--u-:--:----	O	
+33-24	selskaber	selskab	NC:piu#:--:----	O	
+33-25	,	,	ZD	O	
+33-26	vurderer	vurdere	VF:----:sa:----	O	
+33-27	tilsynet	tilsyn	NC:sdun:--:----	O	
+33-28	.	.	ZP	O	
+
+#id=34
+#text=VicepræsidentThomas Bell fra det konkurrerende Boeing-selskab ved, at han ikke er uvildig.
+34-1	Vicepræsident	vicepræsident	NC:siuc:--:----	O	
+34-2	Thomas	Thomas	NP:siu#:--:----	O	
+34-3	Bell	Bell	NP:siu#:--:----	O	
+34-4	fra	fra	T-:----:--:----	O	
+34-5	det	den	PM:s-un:--:----	O	
+34-6	konkurrerende	konkurrere	VP:##u#:s-:----	O	
+34-7	Boeing	Boeing	NW:----:--:----	O	
+34-8	-	-	ZH	O	
+34-9	selskab	selskab|selskab-1-1a-1b|selskab-1c|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-2-2a	NC:siun:--:----	B-selskab-4	
+34-10	ved	ved	T-:----:--:----	O	
+34-11	,	,	ZD	O	
+34-12	at	at	CS:----:--:----	O	
+34-13	han	han	PP:s-nc:--:-3n-	O	
+34-14	ikke	ikke	D-:----:--:u---	O	
+34-15	er	være	VF:----:sa:----	O	
+34-16	uvildig	uvildig	AC:siuc:--:p---	O	
+34-17	.	.	ZP	O	
+
+#id=35
+#text=Danmarkhalter efter Sverige, Norge og Finland, når det gælder kvindelige bestyrelsesmedlemmer i store selskaber.
+35-1	Danmark	Danmark	NP:siu#:--:----	O	
+35-2	halter	halte	VF:----:sa:----	O	
+35-3	efter	efter	T-:----:--:----	O	
+35-4	Sverige	Sverige	NP:siu#:--:----	O	
+35-5	,	,	ZD	O	
+35-6	Norge	Norge	NP:siu#:--:----	O	
+35-7	og	og	CC:----:--:----	O	
+35-8	Finland	Finland	NP:siu#:--:----	O	
+35-9	,	,	ZD	O	
+35-10	når	når	CS:----:--:----	O	
+35-11	det	det	PP:s-un:--:-3n-	O	
+35-12	gælder	gælde	VF:----:sa:----	O	
+35-13	kvindelige	kvindelig	AC:p#u#:--:p---	O	
+35-14	bestyrelsesmedlemmer	bestyrelsesmedlem	NC:piu#:--:----	O	
+35-15	i	i	T-:----:--:----	O	
+35-16	store	stor	AC:p#u#:--:p---	O	
+35-17	selskaber	selskab|selskab-1-1a-1b|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-2-2a|selskab-1c	NC:piu#:--:----	B-selskab-4	
+35-18	.	.	ZP	O	
+
+#id=36
+#text=Operaen, der kun varer en skoletime, er en  tur til børneværelset, hvor en uvorn seksårig får kærligheden at føle, når først stolen, uret og tepotten pludselig kommer til live, og derefter i selskab med havens syngende dyr.
+36-1	Operaen	opera	NC:sduc:--:----	O	
+36-2	,	,	ZD	O	
+36-3	der	der	US:----:--:----	O	
+36-4	kun	kun	D-:----:--:u---	O	
+36-5	varer	vare	VF:----:sa:----	O	
+36-6	en	en	PI:s-uc:--:----	O	
+36-7	skoletime	skoletime	NC:siuc:--:----	O	
+36-8	,	,	ZD	O	
+36-9	er	være	VF:----:sa:----	O	
+36-10	en	en	PI:s-uc:--:----	O	
+36-11	tur	tur	NC:siuc:--:----	O	
+36-12	til	til	T-:----:--:----	O	
+36-13	børneværelset	børneværelse	NC:sdun:--:----	O	
+36-14	,	,	ZD	O	
+36-15	hvor	hvor	D-:----:--:u---	O	
+36-16	en	en	PI:s-uc:--:----	O	
+36-17	uvorn	uvorn	AC:siuc:--:p---	O	
+36-18	seksårig	seksårig	AC:siuc:--:p---	O	
+36-19	får	få	VF:----:sa:----	O	
+36-20	kærligheden	kærlighed	NC:sduc:--:----	O	
+36-21	at	at	UI:----:--:----	O	
+36-22	føle	føle	VI:----:-a:----	O	
+36-23	,	,	ZD	O	
+36-24	når	når	CS:----:--:----	O	
+36-25	først	først	D-:----:--:u---	O	
+36-26	stolen	stol	NC:sduc:--:----	O	
+36-27	,	,	ZD	O	
+36-28	uret	uret	NC:siuc:--:----	O	
+36-29	og	og	CC:----:--:----	O	
+36-30	tepotten	tepotte	NC:sduc:--:----	O	
+36-31	pludselig	pludselig	D-:----:--:u---	O	
+36-32	kommer	komme	VF:----:sa:----	O	
+36-33	til	til	T-:----:--:----	O	
+36-34	live	live	NC:sifn:--:----	O	
+36-35	,	,	ZD	O	
+36-36	og	og	CC:----:--:----	O	
+36-37	derefter	derefter	D-:----:--:u---	O	
+36-38	i	i	T-:----:--:----	O	
+36-39	selskab	selskab|ab-2-2a|selskab-1c|selskab-1-1a-1b|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a	NC:siun:--:----	B-selskab-1b	
+36-40	med	med	T-:----:--:----	O	
+36-41	havens	have	NC:sdgc:--:----	O	
+36-42	syngende	synge	VP:##u#:s-:----	O	
+36-43	dyr	dyr	NC:piu#:--:----	O	
+36-44	.	.	ZP	O	
+
+#id=37
+#text=Beggebegyndte dagen i fi-re under par med syv slag frem til de førende, og da de samtidig fik fornøjelsen af at gå de 18 huller i hinandens selskab, hvorfor så ikke lave endnu en mellemregning i deres årelange rivalisering.
+37-1	Begge	begge	PM:p-u#:--:----	O	
+37-2	begyndte	begynde	VF:----:ta:----	O	
+37-3	dagen	dag	NC:sduc:--:----	O	
+37-4	i	i	T-:----:--:----	O	
+37-5	fi	fi	NW:----:--:----	O	
+37-6	-	-	ZH	O	
+37-7	re	re	NC:siun:--:----	O	
+37-8	under	under	T-:----:--:----	O	
+37-9	par	par	NC:siun:--:----	O	
+37-10	med	med	T-:----:--:----	O	
+37-11	syv	syv	LC:--u-:--:----	O	
+37-12	slag	slag	NC:piu#:--:----	O	
+37-13	frem	frem	D-:----:--:u---	O	
+37-14	til	til	T-:----:--:----	O	
+37-15	de	den	PM:p-u#:--:----	O	
+37-16	førende	førende	AC:§§u§:--:p---	O	
+37-17	,	,	ZD	O	
+37-18	og	og	CC:----:--:----	O	
+37-19	da	da	CS:----:--:----	O	
+37-20	de	de	PP:p-n#:--:-3n-	O	
+37-21	samtidig	samtidig	D-:----:--:u---	O	
+37-22	fik	få	VF:----:ta:----	O	
+37-23	fornøjelsen	fornøjelse	NC:sduc:--:----	O	
+37-24	af	af	T-:----:--:----	O	
+37-25	at	at	UI:----:--:----	O	
+37-26	gå	gå	VI:----:-a:----	O	
+37-27	de	den	PM:p-u#:--:----	O	
+37-28	18	18	LC:--u-:--:----	O	
+37-29	huller	hul	NC:piu#:--:----	O	
+37-30	i	i	T-:----:--:----	O	
+37-31	hinandens	hinandens	XY:----:--:----	O	
+37-32	selskab	selskab|selskab-2-2a|selskab-1c|selskab-1-1a-1b|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a	NC:siun:--:----	B-selskab-1	
+37-33	,	,	ZD	O	
+37-34	hvorfor	hvorfor	D-:----:--:u---	O	
+37-35	så	så	D-:----:--:u---	O	
+37-36	ikke	ikke	D-:----:--:u---	O	
+37-37	lave	lave	VI:----:-a:----	O	
+37-38	endnu	endnu	D-:----:--:u---	O	
+37-39	en	en	PI:s-uc:--:----	O	
+37-40	mellemregning	mellemregning	NC:siuc:--:----	O	
+37-41	i	i	T-:----:--:----	O	
+37-42	deres	deres	PO:#--#:--:-3np	O	
+37-43	årelange	årelang	AC:sdu#:--:p---	O	
+37-44	rivalisering	rivalisering	NC:siuc:--:----	O	
+37-45	.	.	ZP	O	
+
+#id=38
+#text=2-0,og et rystet Brøndby-mandskab kunne gå til pause og ned til et kvarter i selskab med en vred Kent Nielsen.
+38-1	2	2	LC:--u-:--:----	O	
+38-2	-	-	ZH	O	
+38-3	0	0	LC:--u-:--:----	O	
+38-4	,	,	ZD	O	
+38-5	og	og	CC:----:--:----	O	
+38-6	et	en	PI:s-un:--:----	O	
+38-7	rystet	ryste	VT:siu#:t-:----	O	
+38-8	Brøndby	Brøndby	NW:----:--:----	O	
+38-9	-	-	ZH	O	
+38-10	mandskab	mandskab	NC:siun:--:----	O	
+38-11	kunne	kunne	VF:----:ta:----	O	
+38-12	gå	gå	VI:----:-a:----	O	
+38-13	til	til	T-:----:--:----	O	
+38-14	pause	pause	NC:siuc:--:----	O	
+38-15	og	og	CC:----:--:----	O	
+38-16	ned	ned	D-:----:--:u---	O	
+38-17	til	til	T-:----:--:----	O	
+38-18	et	en	PI:s-un:--:----	O	
+38-19	kvarter	kvarter	NC:siun:--:----	O	
+38-20	i	i	T-:----:--:----	O	
+38-21	selskab	selskab|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-2-2a|selskab-1-1a-1b|selskab-1c	NC:siun:--:----	B-selskab-1	
+38-22	med	med	T-:----:--:----	O	
+38-23	en	en	PI:s-uc:--:----	O	
+38-24	vred	vred	AC:siuc:--:p---	O	
+38-25	Kent	Kent	NP:siu#:--:----	O	
+38-26	Nielsen	Nielsen	NP:siu#:--:----	O	
+38-27	.	.	ZP	O	
+
+#id=39
+#text=Dermed har Onfone taget første skridt mod en konsolidering af det danske IP-marked, oplyser selskabet.
+39-1	Dermed	dermed	D-:----:--:u---	O	
+39-2	har	have	VF:----:sa:----	O	
+39-3	Onfone	Onfone	NP:siu#:--:----	O	
+39-4	taget	tage	VT:siu#:t-:----	O	
+39-5	første	første	AC:§§u§:--:p---	O	
+39-6	skridt	skridt	NC:siun:--:----	O	
+39-7	mod	mod	T-:----:--:----	O	
+39-8	en	en	PI:s-uc:--:----	O	
+39-9	konsolidering	konsolidering	NC:siuc:--:----	O	
+39-10	af	af	T-:----:--:----	O	
+39-11	det	den	PM:s-un:--:----	O	
+39-12	danske	dansk	AC:sdu#:--:p---	O	
+39-13	IP	IP	NP:siu#:--:----	O	
+39-14	-	-	ZH	O	
+39-15	marked	marked	NC:siun:--:----	O	
+39-16	,	,	ZD	O	
+39-17	oplyser	oplyse	VF:----:sa:----	O	
+39-18	selskabet	selskab|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-2-2a|selskab-1c|selskab-1-1a-1b	NC:sdun:--:----	B-selskab-4	
+39-19	.	.	ZP	O	
+
+#id=40
+#text=Ifølge avisens oplysninger har Gumlink oprettet et joint venture-selskab med et tyrkisk, børsnoteret selskab.
+40-1	Ifølge	ifølge	T-:----:--:----	O	
+40-2	avisens	avis	NC:sdgc:--:----	O	
+40-3	oplysninger	oplysning	NC:piu#:--:----	O	
+40-4	har	have	VF:----:sa:----	O	
+40-5	Gumlink	Gumlink	NP:siu#:--:----	O	
+40-6	oprettet	oprette	VT:siu#:t-:----	O	
+40-7	et	et	XY:----:--:----	O	
+40-8	joint	joint	XF:----:--:----	O	
+40-9	venture	venture	XF:----:--:----	O	
+40-10	-	-	ZH	O	
+40-11	selskab	selskab|selskab-2-2a|selskab-1c|selskab-1-1a-1b|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a	NC:siun:--:----	O	
+40-12	med	med	T-:----:--:----	O	
+40-13	et	en	PI:s-un:--:----	O	
+40-14	tyrkisk	tyrkisk	NC:siun:--:----	O	
+40-15	,	,	ZD	O	
+40-16	børsnoteret	børsnoteret	AC:siu§:--:p---	O	
+40-17	selskab	selskab	NC:siun:--:----	B-selskab-4a	
+40-18	.	.	ZP	O	
+
+#id=41
+#text=Det er sådan noget, der minder én om at være i godt selskab og sammen med sin familie.
+41-1	Det	det	PP:s-un:--:-3n-	O	
+41-2	er	være	VF:----:sa:----	O	
+41-3	sådan	sådan	D-:----:--:u---	O	
+41-4	noget	nogen	PI:s-un:--:----	O	
+41-5	,	,	ZD	O	
+41-6	der	der	US:----:--:----	O	
+41-7	minder	minde	VF:----:sa:----	O	
+41-8	én	en	PI:s-uc:--:----	O	
+41-9	om	om	T-:----:--:----	O	
+41-10	at	at	UI:----:--:----	O	
+41-11	være	være	VI:----:-a:----	O	
+41-12	i	i	T-:----:--:----	O	
+41-13	godt	god	AC:siun:--:p---	O	
+41-14	selskab	selskab|selskab-1-1a-1b|selskab-1c|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-2-2a	NC:siun:--:----	B-selskab-1	
+41-15	og	og	CC:----:--:----	O	
+41-16	sammen	sammen	D-:----:--:u---	O	
+41-17	med	med	T-:----:--:----	O	
+41-18	sin	sin	PO:s--c:--:-3ys	O	
+41-19	familie	familie	NC:siuc:--:----	O	
+41-20	.	.	ZP	O	
+
+#id=42
+#text=Tit er far i selskab med Den Kære Leder, men sønnen optræder lige så ofte solo.
+42-1	Tit	tit	D-:----:--:u---	O	
+42-2	er	være	VF:----:sa:----	O	
+42-3	far	far	NC:siuc:--:----	O	
+42-4	i	i	T-:----:--:----	O	
+42-5	selskab	selskab|selskab-F-holde-med-selskab|selskab-4-4a|selskab-1-1a-1b|selskab-1c|selskab-3|selskab-2-2a	NC:siun:--:----	B-selskab-1	
+42-6	med	med	T-:----:--:----	O	
+42-7	Den	den	PM:s-uc:--:----	O	
+42-8	Kære	kær	AC:sdu#:--:p---	O	
+42-9	Leder	leder	NC:siuc:--:----	O	
+42-10	,	,	ZD	O	
+42-11	men	men	CC:----:--:----	O	
+42-12	sønnen	søn	NC:sduc:--:----	O	
+42-13	optræder	optræde	VF:----:sa:----	O	
+42-14	lige	lige	D-:----:--:u---	O	
+42-15	så	så	D-:----:--:u---	O	
+42-16	ofte	ofte	D-:----:--:u---	O	
+42-17	solo	solo	D-:----:--:u---	O	
+42-18	.	.	ZP	O	
+
+#id=43
+#text=BjarneSimonsen har lejet en hektar jord af dem, og han er nysgerrig efter at høre lokalbefolkningens holdning til, at hans selskab er i færd med at sætte sig på betydelige arealer blandt de endeløse og bakkede vidder omkring Zorleni.
+43-1	Bjarne	Bjarne	NP:siu#:--:----	O	
+43-2	Simonsen	Simonsen	NP:siu#:--:----	O	
+43-3	har	have	VF:----:sa:----	O	
+43-4	lejet	leje	VT:siu#:t-:----	O	
+43-5	en	en	PI:s-uc:--:----	O	
+43-6	hektar	hektar	NC:siuc:--:----	O	
+43-7	jord	jord	NC:siuc:--:----	O	
+43-8	af	af	T-:----:--:----	O	
+43-9	dem	de	PP:p-u#:--:-3n-	O	
+43-10	,	,	ZD	O	
+43-11	og	og	CC:----:--:----	O	
+43-12	han	han	PP:s-nc:--:-3n-	O	
+43-13	er	være	VF:----:sa:----	O	
+43-14	nysgerrig	nysgerrig	AC:siuc:--:p---	O	
+43-15	efter	efter	T-:----:--:----	O	
+43-16	at	at	UI:----:--:----	O	
+43-17	høre	høre	VI:----:-a:----	O	
+43-18	lokalbefolkningens	lokalbefolkning	NC:sdgc:--:----	O	
+43-19	holdning	holdning	NC:siuc:--:----	O	
+43-20	til	til	T-:----:--:----	O	
+43-21	,	,	ZD	O	
+43-22	at	at	CS:----:--:----	O	
+43-23	hans	hans	PO:#--#:--:-3ns	O	
+43-24	selskab	selskab|selskab-1c|selskab-3|selskab-4-4a|selskab-2-2a|selskab-1-1a-1b|selskab-F-holde-med-selskab	NC:siun:--:----	B-selskab-4	
+43-25	er	være	VF:----:sa:----	O	
+43-26	i	i	T-:----:--:----	O	
+43-27	færd	færd	NC:siuc:--:----	O	
+43-28	med	med	T-:----:--:----	O	
+43-29	at	at	UI:----:--:----	O	
+43-30	sætte	sætte	VI:----:-a:----	O	
+43-31	sig	sig	PP:#-u#:--:-3y-	O	
+43-32	på	på	T-:----:--:----	O	
+43-33	betydelige	betydelig	AC:p#u#:--:p---	O	
+43-34	arealer	areal	NC:piu#:--:----	O	
+43-35	blandt	blandt	T-:----:--:----	O	
+43-36	de	den	PM:p-u#:--:----	O	
+43-37	endeløse	endeløs	AC:p#u#:--:p---	O	
+43-38	og	og	CC:----:--:----	O	
+43-39	bakkede	bakket	AC:p#u#:--:p---	O	
+43-40	vidder	vidde	NC:piu#:--:----	O	
+43-41	omkring	omkring	T-:----:--:----	O	
+43-42	Zorleni	Zorleni	NP:siu#:--:----	O	
+43-43	.	.	ZP	O	
+
+#id=44
+#text=Danskelandmændbegyndte at investere i fortrinsvis landbrugsjord i Rumænien i 2004 og toppede i 2007, samtidig med at den fynske landmand Bjarne Simonsen og hans selskab etablerede sig i landet.
+44-1	Danske	dansk	AC:p#u#:--:p---	O	
+44-2	landmændbegyndte	landmændbegynde	VF:----:ta:----	O	
+44-3	at	at	UI:----:--:----	O	
+44-4	investere	investere	VI:----:-a:----	O	
+44-5	i	i	T-:----:--:----	O	
+44-6	fortrinsvis	fortrinsvis	AD:----:--:p---	O	
+44-7	landbrugsjord	landbrugsjord	NC:siuc:--:----	O	
+44-8	i	i	T-:----:--:----	O	
+44-9	Rumænien	Rumænien	NP:siu#:--:----	O	
+44-10	i	i	T-:----:--:----	O	
+44-11	2004	2004	LC:--u-:--:----	O	
+44-12	og	og	CC:----:--:----	O	
+44-13	toppede	toppe	VF:----:ta:----	O	
+44-14	i	i	T-:----:--:----	O	
+44-15	2007	2007	LC:--u-:--:----	O	
+44-16	,	,	ZD	O	
+44-17	samtidig	samtidig	D-:----:--:u---	O	
+44-18	med	med	T-:----:--:----	O	
+44-19	at	at	CS:----:--:----	O	
+44-20	den	den	PM:s-uc:--:----	O	
+44-21	fynske	fynsk	AC:sdu#:--:p---	O	
+44-22	landmand	landmand	NC:siuc:--:----	O	
+44-23	Bjarne	Bjarne	NP:siu#:--:----	O	
+44-24	Simonsen	Simonsen	NP:siu#:--:----	O	
+44-25	og	og	CC:----:--:----	O	
+44-26	hans	hans	PO:#--#:--:-3ns	O	
+44-27	selskab	selskab|selskab-1c|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-2-2a|selskab-1-1a-1b	NC:siun:--:----	B-selskab-4	
+44-28	etablerede	etablere	VF:----:ta:----	O	
+44-29	sig	sig	PP:#-u#:--:-3y-	O	
+44-30	i	i	T-:----:--:----	O	
+44-31	landet	land	NC:sdun:--:----	O	
+44-32	.	.	ZP	O	
+
+#id=45
+#text=Taxienkørte det fire personer store selskab hen til den store lyseblå og hvide treetagers embedsbolig på Karl Lunds Vej 6.
+45-1	Taxien	taxi	NC:sduc:--:----	O	
+45-2	kørte	køre	VF:----:ta:----	O	
+45-3	det	det	PP:s-un:--:-3n-	O	
+45-4	fire	fire	LC:--u-:--:----	O	
+45-5	personer	person	NC:piu#:--:----	O	
+45-6	store	stor	AC:sdu#:--:p---	O	
+45-7	selskab	selskab|selskab-F-holde-med-selskab|selskab-4-4a|selskab-2-2a|selskab-3|selskab-1c|selskab-1-1a-1b	NC:siun:--:----	B-selskab-2	
+45-8	hen	hen	D-:----:--:u---	O	
+45-9	til	til	T-:----:--:----	O	
+45-10	den	den	PM:s-uc:--:----	O	
+45-11	store	stor	AC:sdu#:--:p---	O	
+45-12	lyseblå	lyseblå	AC:sdu#:--:p---	O	
+45-13	og	og	CC:----:--:----	O	
+45-14	hvide	hvid	AC:p#u#:--:p---	O	
+45-15	treetagers	treetagers	AD:----:--:p---	O	
+45-16	embedsbolig	embedsbolig	NC:siuc:--:----	O	
+45-17	på	på	T-:----:--:----	O	
+45-18	Karl	Karl	NP:siu#:--:----	O	
+45-19	Lunds	Lund	NP:sig#:--:----	O	
+45-20	Vej	vej	NC:siuc:--:----	O	
+45-21	6	6	LC:--u-:--:----	O	
+45-22	.	.	ZP	O	
+
+#id=46
+#text=Anja måtte flere gange forlade selskabet for at græde i enrum.
+46-1	Anja	Anja	NP:siu#:--:----	O	
+46-2	måtte	måtte	VF:----:ta:----	O	
+46-3	flere	mange	AC:##u#:--:c---	O	
+46-4	gange	gang	NC:piu#:--:----	O	
+46-5	forlade	forlade	VI:----:-a:----	O	
+46-6	selskabet	selskab|selskab-2-2a|selskab-1c|selskab-1-1a-1b|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a	NC:sdun:--:----	B-selskab-2	
+46-7	for	for	T-:----:--:----	O	
+46-8	at	at	UI:----:--:----	O	
+46-9	græde	græde	VI:----:-a:----	O	
+46-10	i	i	T-:----:--:----	O	
+46-11	enrum	enrum	NC:siuc:--:----	O	
+46-12	.	.	ZP	O	
+
+#id=47
+#text=været sekretær i Dansk Anæstesiologisk Selskab og i Nordisk Anæstesiologisk Forening og var i mange år sagkyndig i anæstesiologi for Retslægerådet.
+47-1	været	være	VT:siu#:t-:----	O	
+47-2	sekretær	sekretær	NC:siuc:--:----	O	
+47-3	i	i	T-:----:--:----	O	
+47-4	Dansk	dansk	AC:siu§:--:p---	O	
+47-5	Anæstesiologisk	Anæstesiologisk	NP:siu#:--:----	O	
+47-6	Selskab	selskab|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-2-2a|selskab-1c|selskab-1-1a-1b	NC:siun:--:----	B-selskab-5	
+47-7	og	og	CC:----:--:----	O	
+47-8	i	i	T-:----:--:----	O	
+47-9	Nordisk	Nordisk	NP:siu#:--:----	O	
+47-10	Anæstesiologisk	Anæstesiologisk	NP:siu#:--:----	O	
+47-11	Forening	forening	NC:siuc:--:----	O	
+47-12	og	og	CC:----:--:----	O	
+47-13	var	være	VF:----:ta:----	O	
+47-14	i	i	T-:----:--:----	O	
+47-15	mange	mangen	AC:p#u#:--:p---	O	
+47-16	år	år	NC:piu#:--:----	O	
+47-17	sagkyndig	sagkyndig	AC:siuc:--:p---	O	
+47-18	i	i	T-:----:--:----	O	
+47-19	anæstesiologi	anæstesiologi	NC:siuc:--:----	O	
+47-20	for	for	T-:----:--:----	O	
+47-21	Retslægerådet	retslægeråd	NC:sdun:--:----	O	
+47-22	.	.	ZP	O	
+
+#id=48
+#text=Men hans talent har dog visse, ret udtalte begrænsninger, blandt andet at han kun har et enkelt minut i selskab med den afdøde, før døden rammer en af de omkringstående.
+48-1	Men	men	CC:----:--:----	O	
+48-2	hans	hans	PO:#--#:--:-3ns	O	
+48-3	talent	talent	NC:siun:--:----	O	
+48-4	har	have	VF:----:sa:----	O	
+48-5	dog	dog	D-:----:--:u---	O	
+48-6	visse	vis	AC:p#u#:--:p---	O	
+48-7	,	,	ZD	O	
+48-8	ret	ret	D-:----:--:u---	O	
+48-9	udtalte	udtalt	AC:p#u#:--:p---	O	
+48-10	begrænsninger	begrænsning	NC:piu#:--:----	O	
+48-11	,	,	ZD	O	
+48-12	blandt	blandt	T-:----:--:----	O	
+48-13	andet	anden	PI:s-un:--:----	O	
+48-14	at	at	CS:----:--:----	O	
+48-15	han	han	PP:s-nc:--:-3n-	O	
+48-16	kun	kun	D-:----:--:u---	O	
+48-17	har	have	VF:----:sa:----	O	
+48-18	et	en	PI:s-un:--:----	O	
+48-19	enkelt	enkelt	AC:siu§:--:p---	O	
+48-20	minut	minut	NC:siun:--:----	O	
+48-21	i	i	T-:----:--:----	O	
+48-22	selskab	selskab|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-2-2a|selskab-1c|selskab-1-1a-1b	NC:siun:--:----	B-selskab-1	
+48-23	med	med	T-:----:--:----	O	
+48-24	den	den	PM:s-uc:--:----	O	
+48-25	afdøde	afdød	AC:sdu#:--:p---	O	
+48-26	,	,	ZD	O	
+48-27	før	før	CS:----:--:----	O	
+48-28	døden	død	NC:sduc:--:----	O	
+48-29	rammer	ramme	VF:----:sa:----	O	
+48-30	en	en	PI:s-uc:--:----	O	
+48-31	af	af	T-:----:--:----	O	
+48-32	de	den	PM:p-u#:--:----	O	
+48-33	omkringstående	omkringstående	AD:----:--:p---	O	
+48-34	.	.	ZP	O	
+
+#id=49
+#text=Ogden gamle regel om, at den, der er ven med Israel, helt automatisk må være en fjende af den arabiske verden, er ikke længere gyldig, efter at Tyrkiet, hvis militære ledelse plejer tætte kontakter med den israelske, er blevet accepteret som passende selskab af arabiske ledere.
+49-1	Og	og	CC:----:--:----	O	
+49-2	den	den	PM:s-uc:--:----	O	
+49-3	gamle	gammel	AC:sdu#:--:p---	O	
+49-4	regel	regel	NC:siuc:--:----	O	
+49-5	om	om	T-:----:--:----	O	
+49-6	,	,	ZD	O	
+49-7	at	at	CS:----:--:----	O	
+49-8	den	den	PP:s-uc:--:-3n-	O	
+49-9	,	,	ZD	O	
+49-10	der	der	US:----:--:----	O	
+49-11	er	være	VF:----:sa:----	O	
+49-12	ven	ven	NC:siuc:--:----	O	
+49-13	med	med	T-:----:--:----	O	
+49-14	Israel	Israel	NP:siu#:--:----	O	
+49-15	,	,	ZD	O	
+49-16	helt	hel	AD:----:--:p---	O	
+49-17	automatisk	automatisk	AC:siu§:--:p---	O	
+49-18	må	måtte	VF:----:sa:----	O	
+49-19	være	være	VI:----:-a:----	O	
+49-20	en	en	PI:s-uc:--:----	O	
+49-21	fjende	fjende	NC:siuc:--:----	O	
+49-22	af	af	T-:----:--:----	O	
+49-23	den	den	PM:s-uc:--:----	O	
+49-24	arabiske	arabisk	AC:sdu#:--:p---	O	
+49-25	verden	verden	NC:siuc:--:----	O	
+49-26	,	,	ZD	O	
+49-27	er	være	VF:----:sa:----	O	
+49-28	ikke	ikke	D-:----:--:u---	O	
+49-29	længere	lang	AD:----:--:c---	O	
+49-30	gyldig	gyldig	AC:siuc:--:p---	O	
+49-31	,	,	ZD	O	
+49-32	efter	efter	CS:----:--:----	O	
+49-33	at	at	CS:----:--:----	O	
+49-34	Tyrkiet	Tyrkiet	siu#:--:----	O	
+49-35	,	,	ZD	O	
+49-36	hvis	hvis	CS:----:--:----	O	
+49-37	militære	militær	AC:sdu#:--:p---	O	
+49-38	ledelse	ledelse	NC:siuc:--:----	O	
+49-39	plejer	pleje	VF:----:sa:----	O	
+49-40	tætte	tæt	AC:p#u#:--:p---	O	
+49-41	kontakter	kontakt	NC:piu#:--:----	O	
+49-42	med	med	T-:----:--:----	O	
+49-43	den	den	PM:s-uc:--:----	O	
+49-44	israelske	israelsk	AC:sdu#:--:p---	O	
+49-45	,	,	ZD	O	
+49-46	er	være	VF:----:sa:----	O	
+49-47	blevet	blive	VT:siu#:t-:----	O	
+49-48	accepteret	acceptere	VT:siu#:t-:----	O	
+49-49	som	som	US:----:--:----	O	
+49-50	passende	passende	AC:§§u§:--:p---	O	
+49-51	selskab	selskab|selskab-2-2a|selskab-1c|selskab-1-1a-1b|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a	NC:siun:--:----	B-selskab-1c	
+49-52	af	af	T-:----:--:----	O	
+49-53	arabiske	arabisk	AC:p#u#:--:p---	O	
+49-54	ledere	leder	NC:piu#:--:----	O	
+49-55	.	.	ZP	O	
+
+#id=50
+#text=Lloyds of London sparer til gengæld mange annoncekroner på den gratis reklame, de får i form af store avisoverskrifter, hver gang berømtheder tegner nogle af disse excentriske forsikringer hos selskabet.
+50-1	Lloyds	Lloyds	XY:----:--:----	O	
+50-2	of	of	XF:----:--:----	O	
+50-3	London	London	--	O	
+50-4	sparer	spare	VF:----:sa:----	O	
+50-5	til	til	T-:----:--:----	O	
+50-6	gengæld	gengæld	NC:siuc:--:----	O	
+50-7	mange	mangen	AC:p#u#:--:p---	O	
+50-8	annoncekroner	annoncekrone	NC:piu#:--:----	O	
+50-9	på	på	T-:----:--:----	O	
+50-10	den	den	PM:s-uc:--:----	O	
+50-11	gratis	gratis	AC:§§u§:--:p---	O	
+50-12	reklame	reklame	NC:siuc:--:----	O	
+50-13	,	,	ZD	O	
+50-14	de	de	PP:p-n#:--:-3n-	O	
+50-15	får	få	VF:----:sa:----	O	
+50-16	i	i	T-:----:--:----	O	
+50-17	form	form	NC:siuc:--:----	O	
+50-18	af	af	T-:----:--:----	O	
+50-19	store	stor	AC:p#u#:--:p---	O	
+50-20	avisoverskrifter	avisoverskrift	NC:piu#:--:----	O	
+50-21	,	,	ZD	O	
+50-22	hver	hver	PI:s-uc:--:----	O	
+50-23	gang	gang	NC:siuc:--:----	O	
+50-24	berømtheder	berømthed	NC:piu#:--:----	O	
+50-25	tegner	tegne	VF:----:sa:----	O	
+50-26	nogle	nogen	PI:p-u#:--:----	O	
+50-27	af	af	T-:----:--:----	O	
+50-28	disse	denne	PM:p-u#:--:----	O	
+50-29	excentriske	excentrisk	AC:p#u#:--:p---	O	
+50-30	forsikringer	forsikring	NC:piu#:--:----	O	
+50-31	hos	hos	T-:----:--:----	O	
+50-32	selskabet	selskab|selskab-3|selskab-4-4a|selskab-F-holde-med-selskab|selskab-2-2a|selskab-1-1a-1b|selskab-1c	NC:sdun:--:----	B-selskab-4	
+50-33	.	.	ZP	O	
+
+#id=51
+#text=Næstenselvindlysende har han været en frontfigur i Dansk Selskab for Børnepsykiatri.
+51-1	Næsten	næsten	D-:----:--:u---	O	
+51-2	selvindlysende	selvindlysende	AC:§§u§:--:p---	O	
+51-3	har	have	VF:----:sa:----	O	
+51-4	han	han	PP:s-nc:--:-3n-	O	
+51-5	været	være	VT:siu#:t-:----	O	
+51-6	en	en	PI:s-uc:--:----	O	
+51-7	frontfigur	frontfigur	NC:siuc:--:----	O	
+51-8	i	i	T-:----:--:----	O	
+51-9	Dansk	dansk	AC:siu§:--:p---	O	
+51-10	Selskab	selskab|selskab-1c|selskab-3|selskab-4-4a|selskab-2-2a|selskab-1-1a-1b|selskab-F-holde-med-selskab	NC:siun:--:----	B-selskab-5	
+51-11	for	for	T-:----:--:----	O	
+51-12	Børnepsykiatri	børnepsykiatri	NC:siuc:--:----	O	
+51-13	.	.	ZP	O	
+
+#id=52
+#text=Han blev 61 år, rapporterer selskabet Wizards of the Coast, der udgiver det populære rollespil Dungeons & Dragons.
+52-1	Han	han	PP:s-nc:--:-3n-	O	
+52-2	blev	blive	VF:----:ta:----	O	
+52-3	61	61	LC:--u-:--:----	O	
+52-4	år	år	NC:piu#:--:----	O	
+52-5	,	,	ZD	O	
+52-6	rapporterer	rapportere	VF:----:sa:----	O	
+52-7	selskabet	selskab|selskab-2-2a|selskab-1c|selskab-1-1a-1b|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a	NC:sdun:--:----	B-selskab-4	
+52-8	Wizards	Wizards	NP:siu#:--:----	O	
+52-9	of	of	XF:----:--:----	O	
+52-10	the	the	XF:----:--:----	O	
+52-11	Coast	Coast	NP:siu#:--:----	O	
+52-12	,	,	ZD	O	
+52-13	der	der	US:----:--:----	O	
+52-14	udgiver	udgive	VF:----:sa:----	O	
+52-15	det	den	PM:s-un:--:----	O	
+52-16	populære	populær	AC:sdu#:--:p---	O	
+52-17	rollespil	rollespil	NC:siun:--:----	O	
+52-18	Dungeons	Dungeons	NP:siu#:--:----	O	
+52-19	&	&	CC:----:--:----	O	
+52-20	Dragons	dragon	NC:sigc:--:----	O	
+52-21	.	.	ZP	O	
+
+#id=53
+#text=Detskal ske, hvis der ikke er fundet en løsning på selskabets problemer inden 1.
+53-1	Det	det	PP:s-un:--:-3n-	O	
+53-2	skal	skulle	VF:----:sa:----	O	
+53-3	ske	ske	VI:----:-a:----	O	
+53-4	,	,	ZD	O	
+53-5	hvis	hvis	CS:----:--:----	O	
+53-6	der	der	US:----:--:----	O	
+53-7	ikke	ikke	D-:----:--:u---	O	
+53-8	er	være	VF:----:sa:----	O	
+53-9	fundet	finde	VT:siu#:t-:----	O	
+53-10	en	en	PI:s-uc:--:----	O	
+53-11	løsning	løsning	NC:siuc:--:----	O	
+53-12	på	på	T-:----:--:----	O	
+53-13	selskabets	selskab|selskab-1-1a-1b|selskab-1c|selskab-2-2a|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a	NC:sdgn:--:----	B-selskab-4	
+53-14	problemer	problem	NC:piu#:--:----	O	
+53-15	inden	inden	T-:----:--:----	O	
+53-16	1	1	LC:--u-:--:----	O	
+53-17	.	.	ZP	O	
+
+#id=54
+#text=Selskabet fastholder selv, at en rekonstruktion er mulig uden at skulle via retssystemet.
+54-1	Selskabet	selskab|selskab-1c|selskab-3|selskab-4-4a|selskab-F-holde-med-selskab|selskab-2-2a|selskab-1-1a-1b	NC:sdun:--:----	B-selskab-4a	
+54-2	fastholder	fastholde	VF:----:sa:----	O	
+54-3	selv	selv	PM:#-u#:--:----	O	
+54-4	,	,	ZD	O	
+54-5	at	at	CS:----:--:----	O	
+54-6	en	en	PI:s-uc:--:----	O	
+54-7	rekonstruktion	rekonstruktion	NC:siuc:--:----	O	
+54-8	er	være	VF:----:sa:----	O	
+54-9	mulig	mulig	AC:siuc:--:p---	O	
+54-10	uden	uden	T-:----:--:----	O	
+54-11	at	at	UI:----:--:----	O	
+54-12	skulle	skulle	VI:----:-a:----	O	
+54-13	via	via	T-:----:--:----	O	
+54-14	retssystemet	retssystem	NC:sdun:--:----	O	
+54-15	.	.	ZP	O	
+
+#id=55
+#text=General Motors ønsker en hurtig restrukturering, så selskabets image og salg ikke tager skade.
+55-1	General	General	NP:siu#:--:----	O	
+55-2	Motors	Motors	NP:siu#:--:----	O	
+55-3	ønsker	ønske	VF:----:sa:----	O	
+55-4	en	en	PI:s-uc:--:----	O	
+55-5	hurtig	hurtig	AC:siuc:--:p---	O	
+55-6	restrukturering	restrukturering	NC:siuc:--:----	O	
+55-7	,	,	ZD	O	
+55-8	så	så	CS:----:--:----	O	
+55-9	selskabets	selskab|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-2-2a|selskab-1c|selskab-1-1a-1b	NC:sdgn:--:----	B-selskab-4	
+55-10	image	image	NC:siun:--:----	O	
+55-11	og	og	CC:----:--:----	O	
+55-12	salg	salg	NC:piu#:--:----	O	
+55-13	ikke	ikke	D-:----:--:u---	O	
+55-14	tager	tage	VF:----:sa:----	O	
+55-15	skade	skade	NC:siuc:--:----	O	
+55-16	.	.	ZP	O	
+
+#id=56
+#text=Ekspertersiger, at selskaberne stadig foretrækker at betale store løsesummer frem for at bevæbne besætningen på fragtskibe og betale gevaldige forsikringspræmier.
+56-1	Eksperter	ekspert	NC:piu#:--:----	O	
+56-2	siger	sige	VF:----:sa:----	O	
+56-3	,	,	ZD	O	
+56-4	at	at	CS:----:--:----	O	
+56-5	selskaberne	selskab|selskab-2-2a|selskab-1c|selskab-1-1a-1b|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a	NC:pdu#:--:----	B-selskab-4	
+56-6	stadig	stadig	D-:----:--:u---	O	
+56-7	foretrækker	foretrække	VF:----:sa:----	O	
+56-8	at	at	-	O	
+56-9	betale	betale	VI:----:-a:----	O	
+56-10	store	stor	AC:p#u#:--:p---	O	
+56-11	løsesummer	løsesum	NC:piu#:--:----	O	
+56-12	frem	frem	D-:----:--:u---	O	
+56-13	for	for	T-:----:--:----	O	
+56-14	at	at	UI:----:--:----	O	
+56-15	bevæbne	bevæbne	VI:----:-a:----	O	
+56-16	besætningen	besætning	NC:sduc:--:----	O	
+56-17	på	på	T-:----:--:----	O	
+56-18	fragtskibe	fragtskib	NC:piu#:--:----	O	
+56-19	og	og	CC:----:--:----	O	
+56-20	betale	betale	VI:----:-a:----	O	
+56-21	gevaldige	gevaldig	AC:p#u#:--:p---	O	
+56-22	forsikringspræmier	forsikringspræmie	NC:piu#:--:----	O	
+56-23	.	.	ZP	O	
+
+#id=57
+#text=Detsiger ledende overlæge og chef for Dansk Selskab for Patientsikkerhed Beth Lilja til Ekstra Bladet.
+57-1	Det	det	PP:s-un:--:-3n-	O	
+57-2	siger	sige	VF:----:sa:----	O	
+57-3	ledende	lede	VP:##u#:s-:----	O	
+57-4	overlæge	overlæge	NC:siuc:--:----	O	
+57-5	og	og	CC:----:--:----	O	
+57-6	chef	chef	NC:siuc:--:----	O	
+57-7	for	for	T-:----:--:----	O	
+57-8	Dansk	dansk	AC:siu§:--:p---	O	
+57-9	Selskab	selskab|selskab-2-2a|selskab-3|selskab-4-4a|selskab-1c|selskab-1-1a-1b|selskab-F-holde-med-selskab	NC:siun:--:----	B-selskab-5	
+57-10	for	for	T-:----:--:----	O	
+57-11	Patientsikkerhed	Patientsikkerhed	NP:siu#:--:----	O	
+57-12	Beth	Beth	NP:siu#:--:----	O	
+57-13	Lilja	Lilja	NP:siu#:--:----	O	
+57-14	til	til	T-:----:--:----	O	
+57-15	Ekstra	ekstra	AC:§§u§:--:p---	O	
+57-16	Bladet	blad	NC:sdun:--:----	O	
+57-17	.	.	ZP	O	
+
+#id=58
+#text=Det indebar, at Contador ved hyldestseancen for det samlede resultat fik selskab på podiet af Colom og Sanchez, der måtte se sig slået med henholdsvis 30 og 53 sek.
+58-1	Det	det	PP:s-un:--:-3n-	O	
+58-2	indebar	indebar	VF:----:ta:----	O	
+58-3	,	,	ZD	O	
+58-4	at	at	CS:----:--:----	O	
+58-5	Contador	Contador	NP:siu#:--:----	O	
+58-6	ved	ved	T-:----:--:----	O	
+58-7	hyldestseancen	hyldestseance	NC:sduc:--:----	O	
+58-8	for	for	T-:----:--:----	O	
+58-9	det	den	PM:s-un:--:----	O	
+58-10	samlede	samle	VP:sdu#:t-:----	O	
+58-11	resultat	resultat	NC:siun:--:----	O	
+58-12	fik	få	VF:----:ta:----	O	
+58-13	selskab	selskab|selskab-2-2a|selskab-1c|selskab-1-1a-1b|selskab-3|selskab-4-4a|selskab-F-holde-med-selskab	NC:siun:--:----	B-selskab-1	
+58-14	på	på	T-:----:--:----	O	
+58-15	podiet	podium	NC:sdun:--:----	O	
+58-16	af	af	--:--:----	O	
+58-17	Colom	Colom	NP:siu#:--:----	O	
+58-18	og	og	CC:----:--:----	O	
+58-19	Sanchez	Sanchez	NP:siu#:--:----	O	
+58-20	,	,	ZD	O	
+58-21	der	der	US:----:--:----	O	
+58-22	måtte	måtte	VF:----:ta:----	O	
+58-23	se	se	VI:----:-a:----	O	
+58-24	sig	sig	PP:#-u#:--:-3y-	O	
+58-25	slået	slå	VT:siu#:t-:----	O	
+58-26	med	med	T-:----:--:----	O	
+58-27	henholdsvis	henholdsvis	D-:----:--:u---	O	
+58-28	30	30	LC:--u-:--:----	O	
+58-29	og	og	CC:----:--:----	O	
+58-30	53	53	LC:--u-:--:----	O	
+58-31	sek	sek	XS:----:--:----	O	
+58-32	.	.	ZP	O	
+
+#id=59
+#text=Hvertselskab et nyt outfit af hendes foretrukne amerikanske designere:
+59-1	Hvert	hver	PI:s-un:--:----	O	
+59-2	selskab	selskab|selskab-1c|selskab-3|selskab-4-4a|selskab-2-2a|selskab-1-1a-1b|selskab-F-holde-med-selskab	NC:siun:--:----	B-selskab-3	
+59-3	et	en	PI:s-un:--:----	O	
+59-4	nyt	ny	AC:siun:--:p---	O	
+59-5	outfit	outfit	NC:siun:--:----	O	
+59-6	af	af	T-:----:--:----	O	
+59-7	hendes	hendes	PO:#--#:--:-3ns	O	
+59-8	foretrukne	foretrukken	AC:p#u#:--:p---	O	
+59-9	amerikanske	amerikansk	AC:p#u#:--:p---	O	
+59-10	designere	designer	NC:piu#:--:----	O	
+59-11	:	:	ZP	O	
+
+#id=60
+#text=Imidlertidforholder det sig sådan, at EU-domstolen i en dom fra 2008 har bestemt, at tekniske og sikkerhedsmæssige problemer ikke isoleret kan anses som usædvanlige omstændigheder, medmindre fejlen skyldes begivenheder, der ligger uden for selskabets almindelige aktivitetsudøvelse eller kontrol.
+60-1	Imidlertid	imidlertid	D-:----:--:u---	O	
+60-2	forholder	forholde	VF:----:sa:----	O	
+60-3	det	det	PP:s-un:--:-3n-	O	
+60-4	sig	sig	PP:#-u#:--:-3y-	O	
+60-5	sådan	sådan	D-:----:--:u---	O	
+60-6	,	,	ZD	O	
+60-7	at	at	CS:----:--:----	O	
+60-8	EU	EU	NP:siu#:--:----	O	
+60-9	-	-	ZH	O	
+60-10	domstolen	domstol	NC:sduc:--:----	O	
+60-11	i	i	T-:----:--:----	O	
+60-12	en	en	PI:s-uc:--:----	O	
+60-13	dom	dom	NC:siuc:--:----	O	
+60-14	fra	fra	T-:----:--:----	O	
+60-15	2008	2008	LC:--u-:--:----	O	
+60-16	har	have	VF:----:sa:----	O	
+60-17	bestemt	bestemme	VT:siu#:t-:----	O	
+60-18	,	,	ZD	O	
+60-19	at	at	CS:----:--:----	O	
+60-20	tekniske	teknisk	AC:p#u#:--:p---	O	
+60-21	og	og	CC:----:--:----	O	
+60-22	sikkerhedsmæssige	g	AC:p#u#:--:p---	O	
+60-23	problemer	problem	NC:piu#:--:----	O	
+60-24	ikke	ikke	D-:----:--:u---	O	
+60-25	isoleret	isolere	VT:siu#:t-:----	O	
+60-26	kan	kunne	VF:----:sa:----	O	
+60-27	anses	anse	VI:----:-p:----	O	
+60-28	som	som	US:----:--:----	O	
+60-29	usædvanlige	usædvanlig	AC:p#u#:--:p---	O	
+60-30	omstændigheder	omstændighed	NC:piu#:--:----	O	
+60-31	,	,	ZD	O	
+60-32	medmindre	medmindre	CS:----:--:----	O	
+60-33	fejlen	fejl	NC:sduc:--:----	O	
+60-34	skyldes	skylde	VF:----:sp:----	O	
+60-35	begivenheder	begivenhed	NC:piu#:--:----	O	
+60-36	,	,	ZD	O	
+60-37	der	der	US:----:--:----	O	
+60-38	ligger	ligge	VF:----:sa:----	O	
+60-39	uden	uden	D-:----:--:u---	O	
+60-40	for	for	T-:----:--:----	O	
+60-41	selskabets	selskab|selskab-4-4a|selskab-F-holde-med-selskab|selskab-1-1a-1b|selskab-1c|selskab-3|selskab-2-2a	NC:sdgn:--:----	B-selskab-4	
+60-42	almindelige	almindelig	AC:sdu#:--:p---	O	
+60-43	aktivitetsudøvelse	aktivitetsudøvelse	NC:siuc:--:----	O	
+60-44	eller	eller	CC:----:--:----	O	
+60-45	kontrol	kontrol	NC:siuc:--:----	O	
+60-46	.	.	ZP	O	
+
+#id=61
+#text=MedCathay Pacific fra Hongkong  på førstepladsen ligger tre asiatiske selskaber i toppen af den årlige World Airline Awards liste.
+61-1	Med	med	T-:----:--:----	O	
+61-2	Cathay	Cathay	NP:siu#:--:----	O	
+61-3	Pacific	Pacific	NP:siu#:--:----	O	
+61-4	fra	fra	T-:----:--:----	O	
+61-5	Hongkong	Hongkong	NP:siu#:--:----	O	
+61-6	på	på	T-:----:--:----	O	
+61-7	førstepladsen	førsteplads	NC:sduc:--:----	O	
+61-8	ligger	ligge	VF:----:sa:----	O	
+61-9	tre	tre	LC:--u-:--:----	O	
+61-10	asiatiske	asiatisk	AC:p#u#:--:p---	O	
+61-11	selskaber	selskab|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-1-1a-1b|selskab-1c|selskab-2-2a	NC:piu#:--:----	B-selskab-4	
+61-12	i	i	T-:----:--:----	O	
+61-13	toppen	top	NC:sduc:--:----	O	
+61-14	af	af	T-:----:--:----	O	
+61-15	den	den	PM:s-uc:--:----	O	
+61-16	årlige	årlig	AC:sdu#:--:p---	O	
+61-17	World	World	NP:siu#:--:----	O	
+61-18	Airline	Airline	NP:siu#:--:----	O	
+61-19	Awards	Awards	NP:sig#:--:----	O	
+61-20	liste	liste	NC:siuc:--:----	O	
+61-21	.	.	ZP	O	
+
+#id=62
+#text=Selskabet er især kendt for sin gode service om bord.
+62-1	Selskabet	selskab|selskab-F-holde-med-selskab|selskab-1c|selskab-3|selskab-4-4a|selskab-2-2a|selskab-1-1a-1b	NC:sdun:--:----	B-selskab-4	
+62-2	er	være	VF:----:sa:----	O	
+62-3	især	især	D-:----:--:u---	O	
+62-4	kendt	kende	VT:siu#:t-:----	O	
+62-5	for	for	T-:----:--:----	O	
+62-6	sin	sin	PO:s--c:--:-3ys	O	
+62-7	gode	god	AC:sdu#:--:p---	O	
+62-8	service	service	NC:siun:--:----	O	
+62-9	om	om	T-:----:--:----	O	
+62-10	bord	bord	NC:siun:--:----	O	
+62-11	.	.	ZP	O	
+
+#id=63
+#text="Ikkebare tilfredsstiller Cathay Pacific sine passagerer om bord på flyene, men tilbagemeldingerne om  selskabets lufthavnsoperationer i Hongkong spiller også en væsentlig rolle for selskabets succes", sagde Edward Plaisted, administrerende direktør for Skytrax, under prisoverrækkelsen i Hamburg.
+63-1	"	"	ZI	O	
+63-2	Ikke	ikke	D-:----:--:u---	O	
+63-3	bare	bare	D-:----:--:u---	O	
+63-4	tilfredsstiller	tilfredsstille	VF:----:sa:----	O	
+63-5	Cathay	Cathay	NP:siu#:--:----	O	
+63-6	Pacific	Pacific	NP:siu#:--:----	O	
+63-7	sine	sine	XY:----:--:----	O	
+63-8	passagerer	passager	NC:piu#:--:----	O	
+63-9	om	om	T-:----:--:----	O	
+63-10	bord	bord	NC:siun:--:----	O	
+63-11	på	på	T-:----:--:----	O	
+63-12	flyene	fly	NC:pdu#:--:----	O	
+63-13	,	,	ZD	O	
+63-14	men	men	CC:----:--:----	O	
+63-15	tilbagemeldingerne	tilbagemelding	NC:pdu#:--:----	O	
+63-16	om	om	T-:----:--:----	O	
+63-17	selskabets	selskab|selskab-F-holde-med-selskab|selskab-4-4a|selskab-1c|selskab-2-2a|selskab-3|selskab-1-1a-1b	NC:sdgn:--:----	B-selskab-4	
+63-18	lufthavnsoperationer	lufthavnsoperation	NC:piu#:--:----	O	
+63-19	i	i	T-:----:--:----	O	
+63-20	Hongkong	Hongkong	NP:siu#:--:----	O	
+63-21	spiller	spille	VF:----:sa:----	O	
+63-22	også	også	D-:----:--:u---	O	
+63-23	en	en	PI:s-uc:--:----	O	
+63-24	væsentlig	væsentlig	AC:siuc:--:p---	O	
+63-25	rolle	rolle	NC:siuc:--:----	O	
+63-26	for	for	T-:----:--:----	O	
+63-27	selskabets	selskab	NC:sdgn:--:----	O	
+63-28	succes	succes	NC:siuc:--:----	O	
+63-29	"	"	ZI	O	
+63-30	,	,	ZD	O	
+63-31	sagde	sige	VF:----:ta:----	O	
+63-32	Edward	Edward	NP:siu#:--:----	O	
+63-33	Plaisted	Plaisted	NP:siu#:--:----	O	
+63-34	,	,	ZD	O	
+63-35	administrerende	administrere	VP:##u#:s-:----	O	
+63-36	direktør	direktør	NC:siuc:--:----	O	
+63-37	for	for	T-:----:--:----	O	
+63-38	Skytrax	Skytrax	NP:siu#:--:----	O	
+63-39	,	,	ZD	O	
+63-40	under	under	T-:----:--:----	O	
+63-41	prisoverrækkelsen	prisoverrækkelse	NC:sduc:--:----	O	
+63-42	i	i	T-:----:--:----	O	
+63-43	Hamburg	Hamburg	NP:siu#:--:----	O	
+63-44	.	.	ZP	O	
+
+#id=64
+#text=Hverkenselskaber fra Europa eller Nordamerika fik plads på topti listen i årets Skytraxundersøgelse.
+64-1	Hverken	hverken	D-:----:--:u---	O	
+64-2	selskaber	selskab|selskab-F-holde-med-selskab|selskab-1c|selskab-3|selskab-4-4a|selskab-2-2a|selskab-1-1a-1b	NC:piu#:--:----	B-selskab-4	
+64-3	fra	fra	T-:----:--:----	O	
+64-4	Europa	Europa	NP:siu#:--:----	O	
+64-5	eller	eller	CC:----:--:----	O	
+64-6	Nordamerika	Nordamerika	NP:siu#:--:----	O	
+64-7	fik	få	VF:----:ta:----	O	
+64-8	plads	plads	NC:siuc:--:----	O	
+64-9	på	på	T-:----:--:----	O	
+64-10	topti	topti	NC:siuc:--:----	O	
+64-11	listen	list	NC:sduc:--:----	O	
+64-12	i	i	T-:----:--:----	O	
+64-13	årets	år	NC:sdgn:--:----	O	
+64-14	Skytraxundersøgelse	Skytraxundersøgelse	NP:siu#:--:----	O	
+64-15	.	.	ZP	O	
+
+#id=65
+#text=Virgin Atlantic Bedste transatlantiske selskab:
+65-1	Virgin	Virgin	NP:siu#:--:----	O	
+65-2	Atlantic	Atlantic	XY:----:--:----	O	
+65-3	Bedste	god	AC:§du§:--:s---	O	
+65-4	transatlantiske	transatlantisk	AC:sdu#:--:p---	O	
+65-5	selskab	selskab|selskab-1-1a-1b|selskab-1c|selskab-2-2a|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a	NC:siun:--:----	B-selskab-4	
+65-6	:	:	ZP	O	
+
+#id=66
+#text=British Airways Bedste transpacific selskab:
+66-1	British	British	NP:siu#:--:----	O	
+66-2	Airways	Airways	NP:sig#:--:----	O	
+66-3	Bedste	god	AC:§du§:--:s---	O	
+66-4	transpacific	transpacifiC	NC:siun:--:----	O	
+66-5	selskab	selskab|selskab-1c|selskab-3|selskab-4-4a|selskab-F-holde-med-selskab|selskab-2-2a|selskab-1-1a-1b	NC:siun:--:----	B-selskab-4	
+66-6	:	:	ZP	O	
+
+#id=67
+#text=Asiana Airlines Bedste europæiske selskab:
+67-1	Asiana	Asiana	NP:siu#:--:----	O	
+67-2	Airlines	Airlines	NP:sig#:--:----	O	
+67-3	Bedste	god	AC:§du§:--:s---	O	
+67-4	europæiske	europæisk	AC:sdu#:--:p---	O	
+67-5	selskab	selskab|selskab-F-holde-med-selskab|selskab-4-4a|selskab-1-1a-1b|selskab-1c|selskab-3|selskab-2-2a	NC:siun:--:----	B-selskab-4	
+67-6	:	:	ZP	O	
+
+#id=68
+#text=Swiss Int'l Air Lines Bedste mellemøstlige selskab:
+68-1	Swiss	Swiss	NP:siu#:--:----	O	
+68-2	Int	Int	NP:siu#:--:----	O	
+68-3	'	'	ZA	O	
+68-4	l	l	XF:----:--:----	O	
+68-5	Air	Air	XF:----:--:----	O	
+68-6	Lines	Line	NP:sig#:--:----	O	
+68-7	Bedste	god	AC:§du§:--:s---	O	
+68-8	mellemøstlige	mellemøstlig	AC:sdu#:--:p---	O	
+68-9	selskab	selskab|selskab-4-4a|selskab-F-holde-med-selskab|selskab-1-1a-1b|selskab-1c|selskab-3|selskab-2-2a	NC:siun:--:----	B-selskab-4	
+68-10	:	:	ZP	O	
+
+#id=69
+#text=Qatar Airways Bedste nordamerikanske selskab:
+69-1	Qatar	Qatar	NP:siu#:--:----	O	
+69-2	Airways	Airways	NP:sig#:--:----	O	
+69-3	Bedste	god	AC:§du§:--:s---	O	
+69-4	nordamerikanske	nordamerikansk	AC:sdu#:--:p---	O	
+69-5	selskab	selskab|selskab-2-2a|selskab-3|selskab-4-4a|selskab-1c|selskab-1-1a-1b|selskab-F-holde-med-selskab	NC:siun:--:----	B-selskab-4	
+69-6	:	:	ZP	O	
+
+#id=70
+#text=Hjælptil børnepasning, tryghed og selskab i alderdommen, tætte relationer, økonomi.
+70-1	Hjælp	hjælp	NC:siuc:--:----	O	
+70-2	til	til	T-:----:--:----	O	
+70-3	børnepasning	børnepasning	NC:siuc:--:----	O	
+70-4	,	,	ZD	O	
+70-5	tryghed	tryghed	NC:siuc:--:----	O	
+70-6	og	og	CC:----:--:----	O	
+70-7	selskab	selskab|selskab-3|selskab-4-4a|selskab-F-holde-med-selskab|selskab-2-2a|selskab-1c|selskab-1-1a-1b	NC:siun:--:----	B-selskab-4	
+70-8	i	i	T-:----:--:----	O	
+70-9	alderdommen	alderdom	NC:sduc:--:----	O	
+70-10	,	,	ZD	O	
+70-11	tætte	tæt	AC:p#u#:--:p---	O	
+70-12	relationer	relation	NC:piu#:--:----	O	
+70-13	,	,	ZD	O	
+70-14	økonomi	økonomi	NC:siuc:--:----	O	
+70-15	.	.	ZP	O	
+
+#id=71
+#text=Det lyder i sig selv vildt, men man kender det godt fra selskaber.
+71-1	Det	det	PP:s-un:--:-3n-	O	
+71-2	lyder	lyde	VF:----:sa:----	O	
+71-3	i	i	T-:----:--:----	O	
+71-4	sig	sig	PP:#-u#:--:-3y-	O	
+71-5	selv	selv	PM:#-u#:--:----	O	
+71-6	vildt	vild	AD:----:--:p---	O	
+71-7	,	,	ZD	O	
+71-8	men	men	CC:----:--:----	O	
+71-9	man	man	PI:#-uc:--:----	O	
+71-10	kender	kende	VF:----:sa:----	O	
+71-11	det	det	PP:s-un:--:-3n-	O	
+71-12	godt	god	AD:----:--:p---	O	
+71-13	fra	fra	T-:----:--:----	O	
+71-14	selskaber	selskab|selskab-2-2a|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-1c|selskab-1-1a-1b	NC:piu#:--:----	B-selskab-3	
+71-15	.	.	ZP	O	
+
+#id=72
+#text=AnnTabor er medlem af en række selskaber og foreninger inden for sit felt, herunder Dansk Selskab for Reproduktion og Fosterudvikling.
+72-1	Ann	Ann	NP:siu#:--:----	O	
+72-2	Tabor	Tabor	NP:siu#:--:----	O	
+72-3	er	være	VF:----:sa:----	O	
+72-4	medlem	medlem	NC:siun:--:----	O	
+72-5	af	af	T-:----:--:----	O	
+72-6	en	en	PI:s-uc:--:----	O	
+72-7	række	række	NC:siuc:--:----	O	
+72-8	selskaber	selskab|selskab-1-1a-1b|selskab-1c|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-2-2a	NC:piu#:--:----	B-selskab-5	
+72-9	og	og	CC:----:--:----	O	
+72-10	foreninger	forening	NC:piu#:--:----	O	
+72-11	inden	inden	T-:----:--:----	O	
+72-12	for	for	T-:----:--:----	O	
+72-13	sit	sin	PO:s--n:--:-3ys	O	
+72-14	felt	felt	NC:siun:--:----	O	
+72-15	,	,	ZD	O	
+72-16	herunder	herunder	D-:----:--:u---	O	
+72-17	Dansk	dansk	AC:siu§:--:p---	O	
+72-18	Selskab	selskab	NC:siun:--:----	O	
+72-19	for	for	T-:----:--:----	O	
+72-20	Reproduktion	reproduktion	NC:siuc:--:----	O	
+72-21	og	og	CC:----:--:----	O	
+72-22	Fosterudvikling	fosterudvikling	NC:siuc:--:----	O	
+72-23	.	.	ZP	O	
+
+#id=73
+#text=Hanvar i en periode formand for Dansk Flyvemedicinsk Selskab og 1991-94 for Danske Militærlæger.
+73-1	Han	han	PP:s-nc:--:-3n-	O	
+73-2	var	være	VF:----:ta:----	O	
+73-3	i	i	T-:----:--:----	O	
+73-4	en	en	PI:s-uc:--:----	O	
+73-5	periode	periode	NC:siuc:--:----	O	
+73-6	formand	formand	NC:siuc:--:----	O	
+73-7	for	for	T-:----:--:----	O	
+73-8	Dansk	dansk	AC:siu§:--:p---	O	
+73-9	Flyvemedicinsk	Flyvemedicinsk	NP:siu#:--:----	O	
+73-10	Selskab	selskab|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-1-1a-1b|selskab-1c|selskab-2-2a	NC:siun:--:----	B-selskab-5	
+73-11	og	og	CC:----:--:----	O	
+73-12	1991	1991	LW:----:--:----	O	
+73-13	-	-	ZH	O	
+73-14	94	94	LC:--u-:--:----	O	
+73-15	for	for	T-:----:--:----	O	
+73-16	Danske	dansk	AC:p#u#:--:p---	O	
+73-17	Militærlæger	militærlæge	NC:piu#:--:----	O	
+73-18	.	.	ZP	O	
+
+#id=74
+#text=DirektørWerner er fortsat aktiv i flere selskabers bestyrelse.
+74-1	Direktør	direktør	NC:siuc:--:----	O	
+74-2	Werner	Werner	NP:siu#:--:----	O	
+74-3	er	være	VF:----:sa:----	O	
+74-4	fortsat	fortsat	D-:----:--:u---	O	
+74-5	aktiv	aktiv	AC:siuc:--:p---	O	
+74-6	i	i	T-:----:--:----	O	
+74-7	flere	mange	AC:##u#:--:c---	O	
+74-8	selskabers	selskab|selskab-3|selskab-4-4a|selskab-F-holde-med-selskab|selskab-2-2a|selskab-1c|selskab-1-1a-1b	NC:pig#:--:----	B-selskab-4a	
+74-9	bestyrelse	bestyrelse	NC:siuc:--:----	O	
+74-10	.	.	ZP	O	
+
+#id=75
+#text=Selv synes jeg oftest, at mine sene aftener er for skønne til, at jeg frivilligt vil tilbringe dem i selskab med diverse mere eller mindre kendte og/eller relevante mennesker, der mener noget i øst  og vest om alt inden for kulturlivet.
+75-1	Selv	selv	D-:----:--:u---	O	
+75-2	synes	syne	VF:----:sp:----	O	
+75-3	jeg	jeg	PP:s-nc:--:-1n-	O	
+75-4	oftest	oftest	XY:----:--:----	O	
+75-5	,	,	ZD	O	
+75-6	at	at	CS:----:--:----	O	
+75-7	mine	mine	NC:siuc:--:----	O	
+75-8	sene	sen	AC:p#u#:--:p---	O	
+75-9	aftener	aften	NC:piu#:--:----	O	
+75-10	er	være	VF:----:sa:----	O	
+75-11	for	for	T-:----:--:----	O	
+75-12	skønne	skøn	AC:p#u#:--:p---	O	
+75-13	til	til	T-:----:--:----	O	
+75-14	,	,	ZD	O	
+75-15	at	at	CS:----:--:----	O	
+75-16	jeg	jeg	PP:s-nc:--:-1n-	O	
+75-17	frivilligt	frivillig	AD:----:--:p---	O	
+75-18	vil	ville	VF:----:sa:----	O	
+75-19	tilbringe	tilbringe	VI:----:-a:----	O	
+75-20	dem	de	PP:p-u#:--:-3n-	O	
+75-21	i	i	T-:----:--:----	O	
+75-22	selskab	selskab|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-1-1a-1b|selskab-1c|selskab-2-2a	NC:siun:--:----	O	
+75-23	med	med	T-:----:--:----	O	
+75-24	diverse	diverse	AC:§§u§:--:p---	O	
+75-25	mere	megen	AC:##u#:--:c---	O	
+75-26	eller	eller	CC:----:--:----	O	
+75-27	mindre	liden	AD:----:--:c---	O	
+75-28	kendte	kende	VP:p#u#:t-:----	O	
+75-29	og	og	CC:----:--:----	O	
+75-30	/	/	NC:siuc:--:----	O	
+75-31	eller	eller	CC:----:--:----	O	
+75-32	relevante	relevant	AC:p#u#:--:p---	O	
+75-33	mennesker	menneske	NC:piu#:--:----	O	
+75-34	,	,	ZD	O	
+75-35	der	der	US:----:--:----	O	
+75-36	mener	mene	VF:----:sa:----	O	
+75-37	noget	nogen	PI:s-un:--:----	O	
+75-38	i	i	T-:----:--:----	O	
+75-39	øst	øst	NC:§iu§:--:----	O	
+75-40	og	og	CC:----:--:----	O	
+75-41	vest	vest	NC:§iu§:--:----	O	
+75-42	om	om	T-:----:--:----	O	
+75-43	alt	al	PI:s-un:--:----	O	
+75-44	inden	inden	T-:----:--:----	O	
+75-45	for	for	T-:----:--:----	O	
+75-46	kulturlivet	kulturliv	NC:sdun:--:----	O	
+75-47	.	.	ZP	O	
+
+#id=76
+#text=De of-ficielle tal, rederiet i går fremlagde for en række centrale selskaber, viser et overskud på 1,0 mia. kr. efter skattebetaling, men Børsinformation skønner, at koncernens samlede indtjening vil vise sig at være næsten 1,7 mia. kr., når alle tal foreligger.
+76-1	De	de	NP:siu#:--:----	O	
+76-2	of	of	XF:----:--:----	O	
+76-3	-	-	ZH	O	
+76-4	ficielle	ficiel	NC:piu#:--:----	O	
+76-5	tal	tal	NC:piu#:--:----	O	
+76-6	,	,	ZD	O	
+76-7	rederiet	rederi	NC:sdun:--:----	O	
+76-8	i	i	T-:----:--:----	O	
+76-9	går	går	NC:§§u§:--:----	O	
+76-10	fremlagde	fremlagde	VF:----:ta:----	O	
+76-11	for	for	T-:----:--:----	O	
+76-12	en	en	PI:s-uc:--:----	O	
+76-13	række	række	NC:siuc:--:----	O	
+76-14	centrale	central	AC:p#u#:--:p---	O	
+76-15	selskaber	selskab|selskab-3|selskab-4-4a|selskab-F-holde-med-selskab|selskab-2-2a|selskab-1c|selskab-1-1a-1b	NC:piu#:--:----	B-selskab-4a	
+76-16	,	,	ZD	O	
+76-17	viser	vise	VF:----:sa:----	O	
+76-18	et	en	PI:s-un:--:----	O	
+76-19	overskud	overskud	NC:siun:--:----	O	
+76-20	på	på	T-:----:--:----	O	
+76-21	1	1	LC:--u-:--:----	O	
+76-22	,	,	ZD	O	
+76-23	0	0	LC:--u-:--:----	O	
+76-24	mia	mia	XS:----:--:----	O	
+76-25	.	.	ZP	O	
+76-26	kr	krone	NC:piu#:--:----	O	
+76-27	.	.	ZP	O	
+76-28	efter	efter	T-:----:--:----	O	
+76-29	skattebetaling	skattebetaling	NC:siuc:--:----	O	
+76-30	,	,	ZD	O	
+76-31	men	men	CC:----:--:----	O	
+76-32	Børsinformation	Børsinformation	NP:siu#:--:----	O	
+76-33	skønner	skønne	VF:----:sa:----	O	
+76-34	,	,	ZD	O	
+76-35	at	at	CS:----:--:----	O	
+76-36	koncernens	koncern	NC:sdgc:--:----	O	
+76-37	samlede	samle	VP:sdu#:t-:----	O	
+76-38	indtjening	indtjening	NC:siuc:--:----	O	
+76-39	vil	ville	VF:----:sa:----	O	
+76-40	vise	vise	VI:----:-a:----	O	
+76-41	sig	sig	PP:#-u#:--:-3y-	O	
+76-42	at	at	UI:----:--:----	O	
+76-43	være	være	VI:----:-a:----	O	
+76-44	næsten	næsten	D-:----:--:u---	O	
+76-45	1	1	LC:--u-:--:----	O	
+76-46	,	,	ZD	O	
+76-47	7	7	LC:--u-:--:----	O	
+76-48	mia	mia	XS:----:--:----	O	
+76-49	.	.	ZP	O	
+76-50	kr	krone	NC:piu#:--:----	O	
+76-51	.	.	ZP	O	
+76-52	,	,	ZD	O	
+76-53	når	når	CS:----:--:----	O	
+76-54	alle	al	PI:p-u#:--:----	O	
+76-55	tal	tal	NC:piu#:--:----	O	
+76-56	foreligger	foreligge	VF:----:sa:----	O	
+76-57	.	.	ZP	O	
+
+#id=77
+#text=Deteneste, der blev fremlagt tirsdag, var således nogle få tal for indtjeningen i D/S Svendborg og D/S 1912 - der er børsnoterede selskaber - samt nogle få tal for Tankog Ruteskibe I/S og Olie-og Gasaktivitet I/S.
+77-1	Det	den	PM:s-un:--:----	O	
+77-2	eneste	eneste	AC:§§u§:--:p---	O	
+77-3	,	,	ZD	O	
+77-4	der	der	US:----:--:----	O	
+77-5	blev	blive	VF:----:ta:----	O	
+77-6	fremlagt	fremlagt	VT:siu#:t-:----	O	
+77-7	tirsdag	tirsdag	NC:siuc:--:----	O	
+77-8	,	,	ZD	O	
+77-9	var	være	VF:----:ta:----	O	
+77-10	således	således	D-:----:--:u---	O	
+77-11	nogle	nogen	PI:p-u#:--:----	O	
+77-12	få	få	AC:p#u#:--:p---	O	
+77-13	tal	tal	NC:piu#:--:----	O	
+77-14	for	for	T-:----:--:----	O	
+77-15	indtjeningen	indtjening	NC:sduc:--:----	O	
+77-16	i	i	T-:----:--:----	O	
+77-17	D	d	NP:siu#:--:----	O	
+77-18	/	/	ZS	O	
+77-19	S	s	XS:----:--:----	O	
+77-20	Svendborg	Svendborg	NP:siu#:--:----	O	
+77-21	og	og	CC:----:--:----	O	
+77-22	D	d	XS:----:--:----	O	
+77-23	/	/	ZS	O	
+77-24	S	s	XS:----:--:----	O	
+77-25	1912	1912	LC:--u-:--:----	O	
+77-26	-	-	ZH	O	
+77-27	der	der	US:----:--:----	O	
+77-28	er	være	VF:----:sa:----	O	
+77-29	børsnoterede	børsnotere	----	O	
+77-30	selskaber	selskab|selskab-2-2a|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-1c|selskab-1-1a-1b	NC:piu#:--:----	B-selskab-4a	
+77-31	-	-	ZH	O	
+77-32	samt	samt	CC:----:--:----	O	
+77-33	nogle	nogen	PI:p-u#:--:----	O	
+77-34	få	få	AC:p#u#:--:p---	O	
+77-35	tal	tal	NC:piu#:--:----	O	
+77-36	for	for	T-:----:--:----	O	
+77-37	Tankog	Tankog	NP:siu#:--:----	O	
+77-38	Ruteskibe	Ruteskibe	NP:siu#:--:----	O	
+77-39	I	I	XS:----:--:----	O	
+77-40	/	/	ZS	O	
+77-41	S	s	XS:----:--:----	O	
+77-42	og	og	CC:----:--:----	O	
+77-43	Olie	olie	NW:----:--:----	O	
+77-44	-	-	ZH	O	
+77-45	og	og	CC:----:--:----	O	
+77-46	Gasaktivitet	Gasaktivitet	NP:siu#:--:----	O	
+77-47	I	I	XS:----:--:----	O	
+77-48	/	/	ZS	O	
+77-49	S	s	XS:----:--:----	O	
+77-50	.	.	ZP	O	
+
+#id=78
+#text=RASTLØSskubbede Pete Doherty sin spinkle krop i en løst hængende sweater rundt på scenen som søgte han efter selskab.
+78-1	RASTLØS	rastløs	AC:siuc:--:p---	O	
+78-2	skubbede	skubbe	VF:----:ta:----	O	
+78-3	Pete	Pete	NP:siu#:--:----	O	
+78-4	Doherty	Doherty	NP:siu#:--:----	O	
+78-5	sin	sin	XY:----:--:----	O	
+78-6	spinkle	spinkel	AC:sdu#:--:p---	O	
+78-7	krop	krop	NC:siuc:--:----	O	
+78-8	i	i	T-:----:--:----	O	
+78-9	en	en	PI:s-uc:--:----	O	
+78-10	løst	løs	AD:----:--:p---	O	
+78-11	hængende	hænge	VP:##u#:s-:----	O	
+78-12	sweater	sweater	NC:siuc:--:----	O	
+78-13	rundt	rundt	D-:----:--:u---	O	
+78-14	på	på	T-:----:--:----	O	
+78-15	scenen	scene	NC:sduc:--:----	O	
+78-16	som	som	US:----:--:----	O	
+78-17	søgte	søge	VF:----:ta:----	O	
+78-18	han	han	PP:s-nc:--:-3n-	O	
+78-19	efter	efter	T-:----:--:----	O	
+78-20	selskab	selskab|selskab-1-1a-1b|selskab-1c|selskab-3|selskab-4-4a|selskab-F-holde-med-selskab|selskab-2-2a	NC:siun:--:----	B-selskab-1	
+78-21	.	.	ZP	O	
+
+#id=79
+#text=Detvar en ren fornøjelse at opleve Pete Doherty i hans eget udsøgte musikalske selskab.
+79-1	Det	det	PP:s-un:--:-3n-	O	
+79-2	var	være	VF:----:ta:----	O	
+79-3	en	en	PI:s-uc:--:----	O	
+79-4	ren	ren	AC:siuc:--:p---	O	
+79-5	fornøjelse	fornøjelse	NC:siuc:--:----	O	
+79-6	at	at	UI:----:--:----	O	
+79-7	opleve	opleve	VI:----:-a:----	O	
+79-8	Pete	Pete	NP:siu#:--:----	O	
+79-9	Doherty	Doherty	NP:siu#:--:----	O	
+79-10	i	i	T-:----:--:----	O	
+79-11	hans	hans	PO:#--#:--:-3ns	O	
+79-12	eget	egen	AC:s§un:--:p---	O	
+79-13	udsøgte	udsøgt	AC:sdu#:--:p---	O	
+79-14	musikalske	musikalsk	AC:sdu#:--:p---	O	
+79-15	selskab	selskab|selskab-1-1a-1b|selskab-1c|selskab-2-2a|selskab-3|selskab-4-4a|selskab-F-holde-med-selskab	NC:siun:--:----	B-selskab-1c	
+79-16	.	.	ZP	O	
+
+#id=80
+#text=Abstinenserer et kvalificeret gæt bygget på de endeløse historier om sex, narko og rock'n'roll, der har placeret Pete Doherty i selskab med alle de andre selvdestruktive rockmyter.
+80-1	Abstinenser	abstinens	NC:piu#:--:----	O	
+80-2	er	være	VF:----:sa:----	O	
+80-3	et	en	PI:s-un:--:----	O	
+80-4	kvalificeret	kvalificere	VT:siu#:t-:----	O	
+80-5	gæt	gæt	NC:siun:--:----	O	
+80-6	bygget	bygge	VT:siu#:t-:----	O	
+80-7	på	på	T-:----:--:----	O	
+80-8	de	den	PM:p-u#:--:----	O	
+80-9	endeløse	endeløs	AC:p#u#:--:p---	O	
+80-10	historier	historie	NC:piu#:--:----	O	
+80-11	om	om	T-:----:--:----	O	
+80-12	sex	sex	NC:siuc:--:----	O	
+80-13	,	,	ZD	O	
+80-14	narko	narko	NC:siuc:--:----	O	
+80-15	og	og	:----	O	
+80-16	rock	rock	NC:siuc:--:----	O	
+80-17	'	'	ZA	O	
+80-18	n	and	XF:----:--:----	O	
+80-19	'	'	ZA	O	
+80-20	roll	roll	XF:----:--:----	O	
+80-21	,	,	ZD	O	
+80-22	der	der	US:----:--:----	O	
+80-23	har	have	VF:----:sa:----	O	
+80-24	placeret	placere	VT:siu#:t-:----	O	
+80-25	Pete	Pete	NP:siu#:--:----	O	
+80-26	Doherty	Doherty	NP:siu#:--:----	O	
+80-27	i	i	T-:----:--:----	O	
+80-28	selskab	selskab|selskab-F-holde-med-selskab|selskab-1c|selskab-3|selskab-4-4a|selskab-2-2a|selskab-1-1a-1b	NC:siun:--:----	B-selskab-1	
+80-29	med	med	T-:----:--:----	O	
+80-30	alle	al	PI:p-u#:--:----	O	
+80-31	de	den	PM:p-u#:--:----	O	
+80-32	andre	anden	PI:p-u#:--:----	O	
+80-33	selvdestruktive	selvdestruktiv	AC:p#u#:--:p---	O	
+80-34	rockmyter	rockmyte	NC:piu#:--:----	O	
+80-35	.	.	ZP	O	
+
+#id=81
+#text=Førstblev Pete smidt ud af bandet The Libertines for at bryde ind i sin vens lejlighed i jagt på stoffer, så fordærvede han supermodellen Kate Moss med kokain, og han blev endegyldigt en del af det dårlige selskab, da han sprøjtede heroin ind i armen på en bevidstløs pige for to år siden.
+81-1	Først	først	D-:----:--:u---	O	
+81-2	blev	blive	VF:----:ta:----	O	
+81-3	Pete	Pete	NP:siu#:--:----	O	
+81-4	smidt	smide	VT:siu#:t-:----	O	
+81-5	ud	ud	D-:----:--:u---	O	
+81-6	af	af	T-:----:--:----	O	
+81-7	bandet	band	NC:sdun:--:----	O	
+81-8	The	the	XF:----:--:----	O	
+81-9	Libertines	Libertines	NP:siu#:--:----	O	
+81-10	for	for	T-:----:--:----	O	
+81-11	at	at	UI:----:--:----	O	
+81-12	bryde	bryde	VI:----:-a:----	O	
+81-13	ind	ind	D-:----:--:u---	O	
+81-14	i	i	T-:----:--:----	O	
+81-15	sin	sin	PO:s--c:--:-3ys	O	
+81-16	vens	ven	NC:sigc:--:----	O	
+81-17	lejlighed	lejlighed	NC:siuc:--:----	O	
+81-18	i	i	T-:----:--:----	O	
+81-19	jagt	jagt	NC:siuc:--:----	O	
+81-20	på	på	T-:----:--:----	O	
+81-21	stoffer	stof	NC:piu#:--:----	O	
+81-22	,	,	ZD	O	
+81-23	så	så	D-:----:--:u---	O	
+81-24	fordærvede	fordærve	VF:----:ta:----	O	
+81-25	han	han	PP:s-nc:--:-3n-	O	
+81-26	supermodellen	supermodel	NC:sduc:--:----	O	
+81-27	Kate	Kate	NP:siu#:--:----	O	
+81-28	Moss	Moss	NP:siu#:--:----	O	
+81-29	med	med	T-:----:--:----	O	
+81-30	kokain	kokain	NC:siun:--:----	O	
+81-31	,	,	ZD	O	
+81-32	og	og	CC:----:--:----	O	
+81-33	han	han	PP:s-nc:--:-3n-	O	
+81-34	blev	blive	VF:----:ta:----	O	
+81-35	endegyldigt	endegyldig	AD:----:--:p---	O	
+81-36	en	en	PI:s-uc:--:----	O	
+81-37	del	del	NC:siuc:--:----	O	
+81-38	af	af	T-:----:--:----	O	
+81-39	det	den	PM:s-un:--:----	O	
+81-40	dårlige	dårlig	AC:sdu#:--:p---	O	
+81-41	selskab	selskab|selskab-2-2a|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-1-1a-1b|selskab-1c	NC:siun:--:----	B-selskab-1c	
+81-42	,	,	ZD	O	
+81-43	da	da	CS:----:--:----	O	
+81-44	han	han	PP:s-nc:--:-3n-	O	
+81-45	sprøjtede	sprøjte	VF:----:ta:----	O	
+81-46	heroin	heroin	NC:siun:--:----	O	
+81-47	ind	ind	D-:----:--:u---	O	
+81-48	i	i	T-:----:--:----	O	
+81-49	armen	arm	NC:sduc:--:----	O	
+81-50	på	på	T-:----:--:----	O	
+81-51	en	en	PI:s-uc:--:----	O	
+81-52	bevidstløs	bevidstløs	AC:siuc:--:p---	O	
+81-53	pige	pige	NC:siuc:--:----	O	
+81-54	for	for	T-:----:--:----	O	
+81-55	to	to	LC:--u-:--:----	O	
+81-56	år	år	NC:piu#:--:----	O	
+81-57	siden	siden	D-:----:--:u---	O	
+81-58	.	.	ZP	O	
+
+#id=82
+#text=I selskab med de mange andre danskere, der ikke skilter med det, men alligevel mener, at der er mere mellem himmel og jord, og salmerne er jo så dejlige, og hvad skal der ellers ske, når vi er døde..
+82-1	I	i	T-:----:--:----	O	
+82-2	selskab	selskab|selskab-1-1a-1b|selskab-1c|selskab-2-2a|selskab-3|selskab-4-4a|selskab-F-holde-med-selskab	NC:siun:--:----	B-selskab-1	
+82-3	med	med	T-:----:--:----	O	
+82-4	de	den	PM:p-u#:--:----	O	
+82-5	mange	mangen	AC:p#u#:--:p---	O	
+82-6	andre	anden	PI:p-u#:--:----	O	
+82-7	danskere	dansker	NC:piu#:--:----	O	
+82-8	,	,	ZD	O	
+82-9	der	der	US:----:--:----	O	
+82-10	ikke	ikke	D-:----:--:u---	O	
+82-11	skilter	skilte	VF:----:sa:----	O	
+82-12	med	med	T-:----:--:----	O	
+82-13	det	det	PP:s-un:--:-3n-	O	
+82-14	,	,	ZD	O	
+82-15	men	men	CC:----:--:----	O	
+82-16	alligevel	alligevel	D-:----:--:u---	O	
+82-17	mener	mene	sa:----	O	
+82-18	,	,	ZD	O	
+82-19	at	at	CS:----:--:----	O	
+82-20	der	der	US:----:--:----	O	
+82-21	er	være	VF:----:sa:----	O	
+82-22	mere	megen	AD:----:--:c---	O	
+82-23	mellem	mellem	T-:----:--:----	O	
+82-24	himmel	himmel	NC:siuc:--:----	O	
+82-25	og	og	CC:----:--:----	O	
+82-26	jord	jord	NC:siuc:--:----	O	
+82-27	,	,	ZD	O	
+82-28	og	og	CC:----:--:----	O	
+82-29	salmerne	salme	NC:pdu#:--:----	O	
+82-30	er	være	VF:----:sa:----	O	
+82-31	jo	jo	D-:----:--:u---	O	
+82-32	så	så	D-:----:--:u---	O	
+82-33	dejlige	dejlig	AC:p#u#:--:p---	O	
+82-34	,	,	ZD	O	
+82-35	og	og	CC:----:--:----	O	
+82-36	hvad	hvad	PR:s-u#:--:----	O	
+82-37	skal	skulle	VF:----:sa:----	O	
+82-38	der	der	US:----:--:----	O	
+82-39	ellers	ellers	D-:----:--:u---	O	
+82-40	ske	ske	VI:----:-a:----	O	
+82-41	,	,	ZD	O	
+82-42	når	når	CS:----:--:----	O	
+82-43	vi	vi	PP:p-nc:--:-1n-	O	
+82-44	er	være	VF:----:sa:----	O	
+82-45	døde	død	AC:p#u#:--:p---	O	
+82-46	.	.	ZP	O	
+82-47	.	.	ZP	O	
+
+#id=83
+#text=Det store laserchrome-farveprint viser Den Lille Havfrue i selskab med et spejl, hvori den landskendte skulptur spejler sig  som en anden Narcissus.
+83-1	Det	den	PM:s-un:--:----	O	
+83-2	store	stor	AC:sdu#:--:p---	O	
+83-3	laserchrome	laserChrome	XF:----:--:----	O	
+83-4	-	-	ZH	O	
+83-5	farveprint	farveprint	NC:piu#:--:----	O	
+83-6	viser	vise	VF:----:sa:----	O	
+83-7	Den	den	PP:s-uc:--:-3n-	O	
+83-8	Lille	lille	AC:siu§:--:p---	O	
+83-9	Havfrue	havfrue	NC:siuc:--:----	O	
+83-10	i	i	T-:----:--:----	O	
+83-11	selskab	selskab|selskab-1c|selskab-2-2a|selskab-3|selskab-4-4a|selskab-F-holde-med-selskab|selskab-1-1a-1b	NC:siun:--:----	B-selskab-1	
+83-12	med	med	T-:----:--:----	O	
+83-13	et	en	PI:s-un:--:----	O	
+83-14	spejl	spejl	NC:siun:--:----	O	
+83-15	,	,	ZD	O	
+83-16	hvori	hvori	D-:----:--:u---	O	
+83-17	den	den	PM:s-uc:--:----	O	
+83-18	landskendte	landskendt	AC:sdu#:--:p---	O	
+83-19	skulptur	skulptur	NC:siuc:--:----	O	
+83-20	spejler	spejle	VF:----:sa:----	O	
+83-21	sig	sig	PP:#-u#:--:-3y-	O	
+83-22	som	som	US:----:--:----	O	
+83-23	en	en	PI:s-uc:--:----	O	
+83-24	anden	anden	PI:s-uc:--:----	O	
+83-25	Narcissus	Narcissus	NP:siu#:--:----	O	
+83-26	.	.	ZP	O	
+
+#id=84
+#text=Da statens selskab Finansiel Stabilitet tog kontrollen over kriseramte Fionia Bank for nylig, sagde formanden, Henning Kruse:
+84-1	Da	da	CS:----:--:----	O	
+84-2	statens	stat	NC:sdgc:--:----	O	
+84-3	selskab	selskab|selskab-1c|selskab-3|selskab-4-4a|selskab-F-holde-med-selskab|selskab-2-2a|selskab-1-1a-1b	NC:siun:--:----	B-selskab-4	
+84-4	Finansiel	nansiel	AC:siuc:--:p---	O	
+84-5	Stabilitet	stabilitet	NC:siuc:--:----	O	
+84-6	tog	tage	VF:----:ta:----	O	
+84-7	kontrollen	kontrol	NC:sduc:--:----	O	
+84-8	over	over	D-:----:--:u---	O	
+84-9	kriseramte	kriseramme	VF:----:ta:----	O	
+84-10	Fionia	Fionia	NP:siu#:--:----	O	
+84-11	Bank	Bank	NP:siu#:--:----	O	
+84-12	for	for	T-:----:--:----	O	
+84-13	nylig	nylig	AD:----:--:p---	O	
+84-14	,	,	ZD	O	
+84-15	sagde	sige	VF:----:ta:----	O	
+84-16	formanden	formand	NC:sduc:--:----	O	
+84-17	,	,	ZD	O	
+84-18	Henning	Henning	NP:siu#:--:----	O	
+84-19	Kruse	Kruse	NP:siu#:--:----	O	
+84-20	:	:	ZP	O	
+
+#id=85
+#text=De voksede op i musikbranchen, men begyndte at distribuere film med deres selskab Miramax.
+85-1	De	de	PP:p-n#:--:-3n-	O	
+85-2	voksede	vokse	VF:----:ta:----	O	
+85-3	op	op	D-:----:--:u---	O	
+85-4	i	i	T-:----:--:----	O	
+85-5	musikbranchen	musikbranche	NC:sduc:--:----	O	
+85-6	,	,	ZD	O	
+85-7	men	men	CC:----:--:----	O	
+85-8	begyndte	begynde	VF:----:ta:----	O	
+85-9	at	at	UI:----:--:----	O	
+85-10	distribuere	distribuere	VI:----:-a:----	O	
+85-11	film	film	NC:siuc:--:----	O	
+85-12	med	med	T-:----:--:----	O	
+85-13	deres	deres	PO:#--#:--:-3np	O	
+85-14	selskab	selskab|selskab-1c|selskab-2-2a|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-1-1a-1b	NC:siun:--:----	B-selskab-4	
+85-15	Miramax	Miramax	NP:siu#:--:----	O	
+85-16	.	.	ZP	O	
+
+#id=86
+#text=humøret, en solid kunnen og pokkers godt selskab.
+86-1	humøret	humør	NC:sdun:--:----	O	
+86-2	,	,	ZD	O	
+86-3	en	en	PI:s-uc:--:----	O	
+86-4	solid	solid	AC:siuc:--:p---	O	
+86-5	kunnen	kunne	VG:siuc:--:----	O	
+86-6	og	og	CC:----:--:----	O	
+86-7	pokkers	pokkers	AC:§§u§:--:p---	O	
+86-8	godt	god	AD:----:--:p---	O	
+86-9	selskab	selskab|selskab-1c|selskab-2-2a|selskab-3|selskab-4-4a|selskab-F-holde-med-selskab|selskab-1-1a-1b	NC:siun:--:----	B-selskab-1	
+86-10	.	.	ZP	O	
+
+#id=87
+#text=t. er hun nr. 12, og i det skarpe selskab skal  hun ramme dagen for at få tilstrækkeligt med point til at nå finalen.
+87-1	t	tempore	XF:----:--:----	O	
+87-2	.	.	ZP	O	
+87-3	er	være	VF:----:sa:----	O	
+87-4	hun	hun	PP:s-nc:--:-3n-	O	
+87-5	nr	nummer	NC:siun:--:----	O	
+87-6	.	.	ZP	O	
+87-7	12	12	LC:--u-:--:----	O	
+87-8	,	,	ZD	O	
+87-9	og	og	CC:----:--:----	O	
+87-10	i	i	T-:----:--:----	O	
+87-11	det	den	PM:s-un:--:----	O	
+87-12	skarpe	skarp	AC:sdu#:--:p---	O	
+87-13	selskab	selskab|selskab-3|selskab-4-4a|selskab-F-holde-med-selskab|selskab-1-1a-1b|selskab-1c|selskab-2-2a	NC:siun:--:----	B-selskab-1c	
+87-14	skal	skulle	VF:----:sa:----	O	
+87-15	hun	hun	PP:s-nc:--:-3n-	O	
+87-16	ramme	ramme	VI:----:-a:----	O	
+87-17	dagen	dag	NC:sduc:--:----	O	
+87-18	for	for	T-:----:--:----	O	
+87-19	at	at	UI:----:--:----	O	
+87-20	få	få	VI:----:-a:----	O	
+87-21	tilstrækkeligt	tilstrækkelig	AD:----:--:p---	O	
+87-22	med	med	T-:----:--:----	O	
+87-23	point	point	NC:siun:--:----	O	
+87-24	til	til	T-:----:--:----	O	
+87-25	at	at	UI:----:--:----	O	
+87-26	nå	nå	VI:----:-a:----	O	
+87-27	finalen	finale	NC:sduc:--:----	O	
+87-28	.	.	ZP	O	
+
+#id=88
+#text=Detbetyder, man kan få dækket de  grå hår eller peppe håret op med lyse striber uden at være i selskab med stærke lugte og kemikalier i massevis.
+88-1	Det	det	PP:s-un:--:-3n-	O	
+88-2	betyder	betyde	VF:----:sa:----	O	
+88-3	,	,	ZD	O	
+88-4	man	man	PI:#-uc:--:----	O	
+88-5	kan	kunne	VF:----:sa:----	O	
+88-6	få	få	VI:----:-a:----	O	
+88-7	dækket	dække	VT:siu#:t-:----	O	
+88-8	de	den	PM:p-u#:--:----	O	
+88-9	grå	grå	AC:p#u#:--:p---	O	
+88-10	hår	hår	NC:piu#:--:----	O	
+88-11	eller	eller	CC:----:--:----	O	
+88-12	peppe	peppe	VI:----:-a:----	O	
+88-13	håret	håre	VT:siu#:t-:----	O	
+88-14	op	op	D-:----:--:u---	O	
+88-15	med	med	T-:----:--:----	O	
+88-16	lyse	lys	AC:p#u#:--:p---	O	
+88-17	striber	stribe	NC:piu#:--:----	O	
+88-18	uden	uden	T-:----:--:----	O	
+88-19	at	at	UI:----:--:----	O	
+88-20	være	være	VI:----:-a:----	O	
+88-21	i	i	T-:----:--:----	O	
+88-22	selskab	selskab|selskab-4-4a|selskab-F-holde-med-selskab|selskab-1-1a-1b|selskab-1c|selskab-3|selskab-2-2a	NC:siun:--:----	B-selskab-1b	
+88-23	med	med	T-:----:--:----	O	
+88-24	stærke	stærk	AC:p#u#:--:p---	O	
+88-25	lugte	lugt	NC:piu#:--:----	O	
+88-26	og	og	CC:----:--:----	O	
+88-27	kemikalier	kemikalie	NC:piu#:--:----	O	
+88-28	i	i	T-:----:--:----	O	
+88-29	massevis	massevis	D-:----:--:u---	O	
+88-30	.	.	ZP	O	
+
+#id=89
+#text="Vioplever, at de store multinationale selskaber ikke er villige til at producere produkter, som er sunde og gode.
+89-1	"	"	ZI	O	
+89-2	Vi	vi	PP:p-nc:--:-1n-	O	
+89-3	oplever	opleve	VF:----:sa:----	O	
+89-4	,	,	ZD	O	
+89-5	at	at	CS:----:--:----	O	
+89-6	de	den	PM:p-u#:--:----	O	
+89-7	store	stor	AC:p#u#:--:p---	O	
+89-8	multinationale	tinational	AC:p#u#:--:p---	O	
+89-9	selskaber	selskab|selskab-2-2a|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-1c|selskab-1-1a-1b	NC:piu#:--:----	B-selskab-4	
+89-10	ikke	ikke	D-:----:--:u---	O	
+89-11	er	være	VF:----:sa:----	O	
+89-12	villige	villig	AC:p#u#:--:p---	O	
+89-13	til	til	T-:----:--:----	O	
+89-14	at	at	UI:----:--:----	O	
+89-15	producere	producere	VI:----:-a:----	O	
+89-16	produkter	produkt	NC:piu#:--:----	O	
+89-17	,	,	ZD	O	
+89-18	som	som	US:----:--:----	O	
+89-19	er	være	VF:----:sa:----	O	
+89-20	sunde	sund	AC:p#u#:--:p---	O	
+89-21	og	og	CC:----:--:----	O	
+89-22	gode	god	AC:p#u#:--:p---	O	
+89-23	.	.	ZP	O	
+
+#id=90
+#text=Hveranden virksomhed havde fejl og mangler i årsregnskabet, da Fondsrådet undersøgte 33 børsnoterede selskabers regnskaber sidste år.
+90-1	Hver	hver	PI:s-uc:--:----	O	
+90-2	anden	anden	PI:s-uc:--:----	O	
+90-3	virksomhed	virksomhed	NC:siuc:--:----	O	
+90-4	havde	have	VF:----:ta:----	O	
+90-5	fejl	fejl	NC:piu#:--:----	O	
+90-6	og	og	CC:----:--:----	O	
+90-7	mangler	mangel	NC:piu#:--:----	O	
+90-8	i	i	T-:----:--:----	O	
+90-9	årsregnskabet	årsregnskab	NC:sdun:--:----	O	
+90-10	,	,	ZD	O	
+90-11	da	da	CS:----:--:----	O	
+90-12	Fondsrådet	Fondsrådet	NP:siu#:--:----	O	
+90-13	undersøgte	undersøge	VF:----:ta:----	O	
+90-14	33	33	LC:--u-:--:----	O	
+90-15	børsnoterede	børsnoteret	AC:p#u#:--:p---	O	
+90-16	selskabers	selskab|selskab-2-2a|selskab-3|selskab-4-4a|selskab-F-holde-med-selskab|selskab-1c|selskab-1-1a-1b	NC:pig#:--:----	B-selskab-4a	
+90-17	regnskaber	regnskab	NC:piu#:--:----	O	
+90-18	sidste	sidste	AC:§§u§:--:p---	O	
+90-19	år	år	NC:siun:--:----	O	
+90-20	.	.	ZP	O	
+
+#id=91
+#text= I et af de alvorlige eksempler havde selskabet opgjort tabene på sine udlån forkert, mens et andet havde tiet afgørende risici ved forretningen ihjel.
+91-1	I	i	T-:----:--:----	O	
+91-2	et	en	PI:s-un:--:----	O	
+91-3	af	af	T-:----:--:----	O	
+91-4	de	den	PM:p-u#:--:----	O	
+91-5	alvorlige	alvorlig	AC:p#u#:--:p---	O	
+91-6	eksempler	eksempel	NC:piu#:--:----	O	
+91-7	havde	have	VF:----:ta:----	O	
+91-8	selskabet	selskab|selskab-2-2a|selskab-3|selskab-4-4a|selskab-F-holde-med-selskab|selskab-1c|selskab-1-1a-1b	NC:sdun:--:----	B-selskab-4a	
+91-9	opgjort	opgøre	VT:siu#:t-:----	O	
+91-10	tabene	tab	NC:pdu#:--:----	O	
+91-11	på	på	T-:----:--:----	O	
+91-12	sine	sin	PO:p--#:--:-3ys	O	
+91-13	udlån	udlån	NC:piu#:--:----	O	
+91-14	forkert	forkert	AC:siu§:--:p---	O	
+91-15	,	,	ZD	O	
+91-16	mens	mens	CS:----:--:----	O	
+91-17	et	en	PI:s-un:--:----	O	
+91-18	andet	anden	PI:s-un:--:----	O	
+91-19	havde	have	VF:----:ta:----	O	
+91-20	tiet	tie	VT:siu#:t-:----	O	
+91-21	afgørende	afgørende	AC:§§u§:--:p---	O	
+91-22	risici	risiko	NC:piu#:--:----	O	
+91-23	ved	ved	T-:----:--:----	O	
+91-24	forretningen	forretning	NC:sduc:--:----	O	
+91-25	ihjel	ihjel	D-:----:--:u---	O	
+91-26	.	.	ZP	O	
+
+#id=92
+#text=Baglukkede døre, og i selskab med den anklagede Josef F., hørte nævningene en historie  om en ståldør, der trods Josef F.
+92-1	Bag	bag	T-:----:--:----	O	
+92-2	lukkede	lukket	AC:p#u#:--:p---	O	
+92-3	døre	dør	NC:piu#:--:----	O	
+92-4	,	,	ZD	O	
+92-5	og	og	CC:----:--:----	O	
+92-6	i	i	T-:----:--:----	O	
+92-7	selskab	selskab|selskab-2-2a|selskab-3|selskab-4-4a|selskab-F-holde-med-selskab|selskab-1c|selskab-1-1a-1b	NC:siun:--:----	O	
+92-8	med	med	T-:----:--:----	O	
+92-9	den	den	PM:s-uc:--:----	O	
+92-10	anklagede	anklage	VP:sdu#:t-:----	O	
+92-11	Josef	Josef	NP:siu#:--:----	O	
+92-12	F	F	NP:siu#:--:----	O	
+92-13	.	.	ZP	O	
+92-14	,	,	ZD	O	
+92-15	hørte	høre	VF:----:ta:----	O	
+92-16	nævningene	nævning	NC:pdu#:--:----	O	
+92-17	en	en	PI:s-uc:--:----	O	
+92-18	historie	historie	NC:siuc:--:----	O	
+92-19	om	om	T-:----:--:----	O	
+92-20	en	en	PI:s-uc:--:----	O	
+92-21	ståldør	ståldør	NC:siuc:--:----	O	
+92-22	,	,	ZD	O	
+92-23	der	der	US:----:--:----	O	
+92-24	trods	trods	T-:----:--:----	O	
+92-25	Josef	Josef	NP:siu#:--:----	O	
+92-26	F	F	NP:siu#:--:----	O	
+92-27	.	.	ZP	O	
+
+#id=93
+#text=...er en del af det multinationale selskab Samlerhuset Group, der  sælger traditionelle samlerobjekter i 12 europæiske lande med en omsætning på over 2milliarder kroner.
+93-1	.	.	LC:--u-:--:----	O	
+93-2	.	.	ZP	O	
+93-3	.	.	ZP	O	
+93-4	er	være	VF:----:sa:----	O	
+93-5	en	en	PI:s-uc:--:----	O	
+93-6	del	del	NC:siuc:--:----	O	
+93-7	af	af	T-:----:--:----	O	
+93-8	det	den	PM:s-un:--:----	O	
+93-9	multinationale	multinational	AC:sdu#:--:p---	O	
+93-10	selskab	selskab|selskab-1c|selskab-2-2a|selskab-3|selskab-F-holde-med-selskab|selskab-4-4a|selskab-1-1a-1b	NC:siun:--:----	B-selskab-4	
+93-11	Samlerhuset	Samlerhuset	NP:siu#:--:----	O	
+93-12	Group	Group	NP:siu#:--:----	O	
+93-13	,	,	ZD	O	
+93-14	der	der	US:----:--:----	O	
+93-15	sælger	sælge	VF:----:sa:----	O	
+93-16	traditionelle	traditionel	AC:p#u#:--:p---	O	
+93-17	samlerobjekter	samlerobjekt	NC:piu#:--:----	O	
+93-18	i	i	T-:----:--:----	O	
+93-19	12	12	LC:--u-:--:----	O	
+93-20	europæiske	europæisk	AC:p#u#:--:p---	O	
+93-21	lande	land	NC:piu#:--:----	O	
+93-22	med	med	T-:----:--:----	O	
+93-23	en	en	PI:s-uc:--:----	O	
+93-24	omsætning	omsætning	NC:siuc:--:----	O	
+93-25	på	på	T-:----:--:----	O	
+93-26	over	over	T-:----:--:----	O	
+93-27	2milliarder	2milliarder	NP:siu#:--:----	O	
+93-28	kroner	krone	VF:----:sa:----	O	
+93-29	.	.	ZP	O	
+
+#id=94
+#text=lavere i kurs 154 efter selskabets regnskab for tredje kvartal.
+94-1	lavere	lav	AC:##u#:--:c---	O	
+94-2	i	i	T-:----:--:----	O	
+94-3	kurs	kurs	NC:siuc:--:----	O	
+94-4	154	154	LC:--u-:--:----	O	
+94-5	efter	efter	T-:----:--:----	O	
+94-6	selskabets	selskab|selskab-1c|selskab-2-2a|b-3|selskab-4-4a|selskab-F-holde-med-selskab|selskab-1-1a-1b	NC:sdgn:--:----	B-selskab-4a	
+94-7	regnskab	regnskab	NC:siun:--:----	O	
+94-8	for	for	T-:----:--:----	O	
+94-9	tredje	tre	LO:--u#:--:----	O	
+94-10	kvartal	kvartal	NC:siun:--:----	O	
+94-11	.	.	ZP	O	
+
+#id=95
+#text=Han var formand for flere humanitære og kulturelle fonde og bestyrelser, hvoraf skal nævnes formand for Foreningen Norden på Frederiksberg, formand for Bakkehusmuseet, formand for bestyrelsen for Den selvejende institution, Teaterbygningen Frederiksberg Allé 57 (Betty Nansen Teatret), af bestyrelsen for og æresmedlem af Historisk-Topogra-fisk Selskab på Frederiksberg, medlem af  præsidiet for Udlandsdanskeres kulturelle samvirke (KUKS) og Poul Harris Fellow i Rotary og meget, meget mere.
+95-1	Han	han	PP:s-nc:--:-3n-	O	
+95-2	var	være	VF:----:ta:----	O	
+95-3	formand	formand	NC:siuc:--:----	O	
+95-4	for	for	T-:----:--:----	O	
+95-5	flere	mange	AC:##u#:--:c---	O	
+95-6	humanitære	humanitær	AC:p#u#:--:p---	O	
+95-7	og	og	CC:----:--:----	O	
+95-8	kulturelle	kulturel	AC:p#u#:--:p---	O	
+95-9	fonde	fond	NC:piu#:--:----	O	
+95-10	og	og	CC:----:--:----	O	
+95-11	bestyrelser	bestyrelse	NC:piu#:--:----	O	
+95-12	,	,	ZD	O	
+95-13	hvoraf	hvoraf	D-:----:--:u---	O	
+95-14	skal	skulle	VF:----:sa:----	O	
+95-15	nævnes	nævne	VI:----:-p:----	O	
+95-16	formand	formand	NC:siuc:--:----	O	
+95-17	for	for	T-:----:--:----	O	
+95-18	Foreningen	forening	NC:sduc:--:----	O	
+95-19	Norden	Norden	NP:siu#:--:----	O	
+95-20	på	på	T-:----:--:----	O	
+95-21	Frederiksberg	Frederiksberg	NP:siu#:--:----	O	
+95-22	,	,	ZD	O	
+95-23	formand	formand	NC:siuc:--:----	O	
+95-24	for	for	T-:----:--:----	O	
+95-25	Bakkehusmuseet	Bakkehusmuseet	NP:siu#:--:----	O	
+95-26	,	,	ZD	O	
+95-27	formand	formand	NC:siuc:--:----	O	
+95-28	for	for	T-:----:--:----	O	
+95-29	bestyrelsen	bestyrelse	NC:sduc:--:----	O	
+95-30	for	for	T-:----:--:----	O	
+95-31	Den	den	PM:s-uc:--:----	O	
+95-32	selvejende	selvejende	AC:§§u§:--:p---	O	
+95-33	institution	institution	NC:siuc:--:----	O	
+95-34	,	,	ZD	O	
+95-35	Teaterbygningen	teaterbygning	NC:sduc:--:----	O	
+95-36	Frederiksberg	Frederiksberg	NP:siu#:--:----	O	
+95-37	Allé	allé	NC:siuc:--:----	O	
+95-38	57	57	LC:--u-:--:----	O	
+95-39	(	(	ZD	O	
+95-40	Betty	Betty	NP:siu#:--:----	O	
+95-41	Nansen	Nansen	NP:siu#:--:----	O	
+95-42	Teatret	teater	NC:sdun:--:----	O	
+95-43	)	)	ZD	O	
+95-44	,	,	ZD	O	
+95-45	af	af	T-:----:--:----	O	
+95-46	bestyrelsen	bestyrelse	NC:sduc:--:----	O	
+95-47	for	for	T-:----:--:----	O	
+95-48	og	og	CC:----:--:----	O	
+95-49	æresmedlem	æresmedlem	NC:siun:--:----	O	
+95-50	af	af	T-:----:--:----	O	
+95-51	Historisk	historisk	AC:siu§:--:p---	O	
+95-52	-	-	ZH	O	
+95-53	Topogra	Topogra	NP:siu#:--:----	O	
+95-54	-	-	ZH	O	
+95-55	fisk	fisk	NC:siuc:--:----	O	
+95-56	Selskab	selskab|selskab-1-1a-1b|selskab-1c|selskab-2-2a|selskab-3|selskab-4-4a|selskab-F-holde-med-selskab	NC:siun:--:----	B-selskab-5	
+95-57	på	på	T-:----:--:----	O	
+95-58	Frederiksberg	Frederiksberg	NP:siu#:--:----	O	
+95-59	,	,	ZD	O	
+95-60	medlem	medlem	NC:siun:--:----	O	
+95-61	af	af	T-:----:--:----	O	
+95-62	præsidiet	præsidium	NC:sdun:--:----	O	
+95-63	for	for	T-:----:--:----	O	
+95-64	Udlandsdanskeres	udlandsdansker	NC:pig#:--:----	O	
+95-65	kulturelle	kulturel	AC:sdu#:--:p---	O	
+95-66	samvirke	samvirke	NC:siun:--:----	O	
+95-67	(	(	ZD	O	
+95-68	KUKS	kuk	NW:----:--:----	O	
+95-69	)	)	ZD	O	
+95-70	og	og	CC:----:--:----	O	
+95-71	Poul	Poul	NP:siu#:--:----	O	
+95-72	Harris	Harris	NP:siu#:--:----	O	
+95-73	Fellow	Fellow	NP:siu#:--:----	O	
+95-74	i	i	T-:----:--:----	O	
+95-75	Rotary	Rotary	NP:siu#:--:----	O	
+95-76	og	og	CC:----:--:----	O	
+95-77	meget	megen	AD:----:--:p---	O	
+95-78	,	,	ZD	O	
+95-79	meget	megen	AD:----:--:p---	O	
+95-80	mere	megen	AC:##u#:--:c---	O	
+95-81	.	.	ZP	O	
+
+#id=96
+#text=Når en række af de næstbedste danske golfspillere på torsdag i Colombia indleder sæsonen på Challenge Touren får de selskab af en 16-årig debutant.
+96-1	Når	når	CS:----:--:----	O	
+96-2	en	en	PI:s-uc:--:----	O	
+96-3	række	række	NC:siuc:--:----	O	
+96-4	af	af	T-:----:--:----	O	
+96-5	de	den	PM:p-u#:--:----	O	
+96-6	næstbedste	næstbedst	AC:p#u#:--:p---	O	
+96-7	danske	dansk	AC:p#u#:--:p---	O	
+96-8	golfspillere	golfspiller	NC:piu#:--:----	O	
+96-9	på	på	T-:----:--:----	O	
+96-10	torsdag	torsdag	NC:siuc:--:----	O	
+96-11	i	i	T-:----:--:----	O	
+96-12	Colombia	Colombia	NP:siu#:--:----	O	
+96-13	indleder	indlede	VF:----:sa:----	O	
+96-14	sæsonen	sæson	NC:sduc:--:----	O	
+96-15	på	på	T-:----:--:----	O	
+96-16	Challenge	Challenge	NP:siu#:--:----	O	
+96-17	Touren	Touren	NP:siu#:--:----	O	
+96-18	får	få	VF:----:sa:----	O	
+96-19	de	de	PP:p-n#:--:-3n-	O	
+96-20	selskab	selskab|selskab-1-1a-1b|selskab-1c|selskab-2-2a|selskab-3|selskab-4-4a|selskab-F-holde-med-selskab	NC:siun:--:----	B-selskab-1b	
+96-21	af	af	T-:----:--:----	O	
+96-22	en	en	PI:s-uc:--:----	O	
+96-23	16	16	LW:----:--:----	O	
+96-24	-	-	ZH	O	
+96-25	årig	årig	AC:siuc:--:p---	O	
+96-26	debutant	debutant	NC:siuc:--:----	O	
+96-27	.	.	ZP	O	
+
+#id=97
+#text=Debutantener i selskab med fire langt mere rutinerede landsmænd:
+97-1	Debutanten	debutant	NC:sduc:--:----	O	
+97-2	er	være	VF:----:sa:----	O	
+97-3	i	i	T-:----:--:----	O	
+97-4	selskab	selskab|selskab-F-holde-med-selskab|selskab-2-2a|selskab-3|selskab-4-4a|selskab-1-1a-1b|selskab-1c	NC:siun:--:----	B-selskab-1b	
+97-5	med	med	T-:----:--:----	O	
+97-6	fire	fire	LC:--u-:--:----	O	
+97-7	langt	lang	AD:----:--:p---	O	
+97-8	mere	megen	AD:----:--:c---	O	
+97-9	rutinerede	rutineret	AC:p#u#:--:p---	O	
+97-10	landsmænd	landsmænd	NC:piu#:--:----	O	
+97-11	:	:	ZP	O	
+
+#id=98
+#text=Etselskab havde ikke offentliggjort delårsrapport, et  andet havde undladt at oplyse om sit tab på udlån.
+98-1	Et	en	PI:s-un:--:----	O	
+98-2	selskab	selskab|selskab-1c|selskab-2-2a|selskab-3|selskab-4-4a|selskab-F-holde-med-selskab|selskab-1-1a-1b	NC:siun:--:----	B-selskab-4a	
+98-3	havde	have	VF:----:ta:----	O	
+98-4	ikke	ikke	D-:----:--:u---	O	
+98-5	offentliggjort	offentliggjort	VT:siu#:t-:----	O	
+98-6	delårsrapport	delårsrapport	NC:siuc:--:----	O	
+98-7	,	,	ZD	O	
+98-8	et	en	PI:s-un:--:----	O	
+98-9	andet	anden	PI:s-un:--:----	O	
+98-10	havde	have	VF:----:ta:----	O	
+98-11	undladt	undlade	VT:siu#:t-:----	O	
+98-12	at	at	UI:----:--:----	O	
+98-13	oplyse	oplyse	VI:----:-a:----	O	
+98-14	om	om	T-:----:--:----	O	
+98-15	sit	sin	PO:s--n:--:-3ys	O	
+98-16	tab	tab	NC:siun:--:----	O	
+98-17	på	på	T-:----:--:----	O	
+98-18	udlån	udlån	NC:siun:--:----	O	
+98-19	.	.	ZP	O	
+
+#id=99
+#text=Sådaner blot nogle af de fejl i årsregnskaberne fra danske børsnoterede selskaber, som Fondsrådet i 2008 fandt frem til gennem stikprøver.
+99-1	Sådan	sådan	D-:----:--:u---	O	
+99-2	er	være	VF:----:sa:----	O	
+99-3	blot	blot	D-:----:--:u---	O	
+99-4	nogle	nogen	PI:p-u#:--:----	O	
+99-5	af	af	T-:----:--:----	O	
+99-6	de	den	PM:p-u#:--:----	O	
+99-7	fejl	fejl	NC:piu#:--:----	O	
+99-8	i	i	T-:----:--:----	O	
+99-9	årsregnskaberne	årsregnskab	NC:pdu#:--:----	O	
+99-10	fra	fra	T-:----:--:----	O	
+99-11	danske	dansk	AC:p#u#:--:p---	O	
+99-12	børsnoterede	børsnoteret	AC:p#u#:--:p---	O	
+99-13	selskaber	selskab|selskab-3|selskab-4-4a|selskab-F-holde-med-selskab|selskab-1c|selskab-2-2a|selskab-1-1a-1b	NC:piu#:--:----	B-selskab-4a	
+99-14	,	,	ZD	O	
+99-15	som	som	US:----:--:----	O	
+99-16	Fondsrådet	Fondsrådet	NP:siu#:--:----	O	
+99-17	i	i	T-:----:--:----	O	
+99-18	2008	2008	LC:--u-:--:----	O	
+99-19	fandt	finde	VF:----:ta:----	O	
+99-20	frem	frem	D-:----:--:u---	O	
+99-21	til	til	D-:----:--:u---	O	
+99-22	gennem	gennem	T-:----:--:----	O	
+99-23	stikprøver	stikprøve	-:----	O	
+99-24	.	.	ZP	O	
+
+#id=100
+#text=Ialt var der fejl i næsten halvdelen af de 33 årsregnskaber, som blev undersøgt af Fondsrådet, der har til opgave at kontrollere børsnoterede selskaber.
+100-1	I	i	T-:----:--:----	O	
+100-2	alt	al	PI:s-un:--:----	O	
+100-3	var	være	VF:----:ta:----	O	
+100-4	der	der	US:----:--:----	O	
+100-5	fejl	fejl	NC:piu#:--:----	O	
+100-6	i	i	T-:----:--:----	O	
+100-7	næsten	næsten	D-:----:--:u---	O	
+100-8	halvdelen	halvdel	NC:sduc:--:----	O	
+100-9	af	af	T-:----:--:----	O	
+100-10	de	den	PM:p-u#:--:----	O	
+100-11	33	33	LC:--u-:--:----	O	
+100-12	årsregnskaber	årsregnskab	NC:piu#:--:----	O	
+100-13	,	,	ZD	O	
+100-14	som	som	US:----:--:----	O	
+100-15	blev	blive	VF:----:ta:----	O	
+100-16	undersøgt	undersøge	VT:siu#:t-:----	O	
+100-17	af	af	T-:----:--:----	O	
+100-18	Fondsrådet	Fondsrådet	NP:siu#:--:----	O	
+100-19	,	,	ZD	O	
+100-20	der	der	US:----:--:----	O	
+100-21	har	have	VF:----:sa:----	O	
+100-22	til	til	T-:----:--:----	O	
+100-23	opgave	opgave	NC:siuc:--:----	O	
+100-24	at	at	UI:----:--:----	O	
+100-25	kontrollere	kontrollere	VI:----:-a:----	O	
+100-26	børsnoterede	børsnoteret	AC:p#u#:--:p---	O	
+100-27	selskaber	selskab|selskab-F-holde-med-selskab|selskab-2-2a|selskab-3|selskab-4-4a|selskab-1-1a-1b|selskab-1c	NC:piu#:--:----	B-selskab-4a	
+100-28	.	.	ZP	O	
+
