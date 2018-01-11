@@ -1,0 +1,581 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Lexical | value # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Jeg følte mig i hvert fald i godt selskab med Willumsens arbejdspapirer og Herregården Odden, som er nyistandsat, var et meget charmerende bekendtskab.
+1-1	Jeg	jeg	PP:s-nc:--:-1n-	_	O	
+1-2	følte	føle	VF:----:ta:----	_	O	
+1-3	mig	jeg	PP:s-uc:--:-1#-	_	O	
+1-4	i	i	T-:----:--:----	_	O	
+1-5	hvert	hver	PI:s-un:--:----	_	O	
+1-6	fald	fald	NC:siun:--:----	_	O	
+1-7	i	i	T-:----:--:----	_	O	
+1-8	godt	god	AC:siun:--:p---	_	O	
+1-9	selskab	selskab|selskab-1c|selskab-1-1a-1b|selskab-2-2a|selskab-F-holde-med-selskab|selskab-4-4a|selskab-3	NC:siun:--:----	selskab-1-1a-1b	O	
+1-10	med	med	T-:----:--:----	_	O	
+1-11	Willumsens	Willumsen	NP:sig#:--:----	_	O	
+1-12	arbejdspapirer	arbejdspapir	NC:piu#:--:----	_	O	
+1-13	og	og	CC:----:--:----	_	O	
+1-14	Herregården	herregård	NC:sduc:--:----	_	O	
+1-15	Odden	od	NC:sduc:--:----	_	O	
+1-16	,	,	ZD	_	O	
+1-17	som	som	US:----:--:----	_	O	
+1-18	er	være	VF:----:sa:----	_	O	
+1-19	nyistandsat	istandsat	AD:----:--:p---	_	O	
+1-20	,	,	ZD	_	O	
+1-21	var	være	VF:----:ta:----	_	O	
+1-22	et	en	PI:s-un:--:----	_	O	
+1-23	meget	megen	AD:----:--:p---	_	O	
+1-24	charmerende	charmerende	AC:§§u§:--:p---	_	O	
+1-25	bekendtskab	bekendtskab	NC:siun:--:----	_	O	
+1-26	.	.	ZP	_	O	
+
+#id=2
+#text= I dag gjorde selskabet det.
+2-1	I	_	_	_	O	
+2-2	dag	_	_	_	O	
+2-3	gjorde	_	_	_	O	
+2-4	selskabet	_	_	selskab-1-1a-1b	O	
+2-5	det	_	_	_	O	
+2-6	.	_	_	_	O	
+
+#id=3
+#text=Men i dag fik jeg endelig igen snuppet en times tid i maskinernes selskab.
+3-1	Men	men	CC:----:--:----	_	O	
+3-2	i	i	T-:----:--:----	_	O	
+3-3	dag	dag	NC:siuc:--:----	_	O	
+3-4	fik	få	VF:----:ta:----	_	O	
+3-5	jeg	jeg	PP:s-nc:--:-1n-	_	O	
+3-6	endelig	endelig	D-:----:--:u---	_	O	
+3-7	igen	igen	D-:----:--:u---	_	O	
+3-8	snuppet	snuppe	VT:siu#:t-:----	_	O	
+3-9	en	en	PI:s-uc:--:----	_	O	
+3-10	times	time	NC:sigc:--:----	_	O	
+3-11	tid	tid	NC:siuc:--:----	_	O	
+3-12	i	i	T-:----:--:----	_	O	
+3-13	maskinernes	maskine	NC:pdg#:--:----	_	O	
+3-14	selskab	selskab|selskab-1c|selskab-1-1a-1b|selskab-F-holde-med-selskab|selskab-4-4a|selskab-3|selskab-2-2a	NC:siun:--:----	selskab-1-1a-1b	O	
+3-15	.	.	ZP	_	O	
+
+#id=4
+#text= Sådan halvanden time i maskinernes selskab blankpolerer godt nok den gode samvittighed.
+4-1	Sådan	sådan	D-:----:--:u---	_	O	
+4-2	halvanden	halvanden	AC:siuc:--:p---	_	O	
+4-3	time	time	NC:siuc:--:----	_	O	
+4-4	i	i	T-:----:--:----	_	O	
+4-5	maskinernes	maskine	NC:pdg#:--:----	_	O	
+4-6	selskab	selskab|selskab-1c|selskab-1-1a-1b|selskab-F-holde-med-selskab|selskab-4-4a|selskab-3|selskab-2-2a	NC:siun:--:----	selskab-1-1a-1b	O	
+4-7	blankpolerer	blankpolere	VF:----:sa:----	_	O	
+4-8	godt	god	AD:----:--:p---	_	O	
+4-9	nok	nok	D-:----:--:u---	_	O	
+4-10	den	den	PM:s-uc:--:----	_	O	
+4-11	gode	god	AC:sdu#:--:p---	_	O	
+4-12	samvittighed	samvittighed	NC:siuc:--:----	_	O	
+4-13	.	.	ZP	_	O	
+
+#id=5
+#text= De blev udløst af, at jeg fortalte, at det efterhånden mere er reglen end undtagelsen, at manden i mit liv og jeg må nøjes med hinandens selskab i weekenderne.
+5-1	De	de	PP:p-n#:--:-3n-	_	O	
+5-2	blev	blive	VF:----:ta:----	_	O	
+5-3	udløst	udløse	VT:siu#:t-:----	_	O	
+5-4	af	af	T-:----:--:----	_	O	
+5-5	,	,	ZD	_	O	
+5-6	at	at	CS:----:--:----	_	O	
+5-7	jeg	jeg	PP:s-nc:--:-1n-	_	O	
+5-8	fortalte	fortale	VF:----:ta:----	_	O	
+5-9	,	,	ZD	_	O	
+5-10	at	at	CS:----:--:----	_	O	
+5-11	det	det	PP:s-un:--:-3n-	_	O	
+5-12	efterhånden	en	D-:----:--:u---	_	O	
+5-13	mere	megen	AD:----:--:c---	_	O	
+5-14	er	være	VF:----:sa:----	_	O	
+5-15	reglen	regel	NC:sduc:--:----	_	O	
+5-16	end	end	CS:----:--:----	_	O	
+5-17	undtagelsen	undtagelse	NC:sduc:--:----	_	O	
+5-18	,	,	ZD	_	O	
+5-19	at	at	CS:----:--:----	_	O	
+5-20	manden	mand	NC:sduc:--:----	_	O	
+5-21	i	i	T-:----:--:----	_	O	
+5-22	mit	min	PO:s--n:--:-1ns	_	O	
+5-23	liv	liv	NC:siun:--:----	_	O	
+5-24	og	og	CC:----:--:----	_	O	
+5-25	jeg	jeg	PP:s-nc:--:-1n-	_	O	
+5-26	må	måtte	VF:----:sa:----	_	O	
+5-27	nøjes	nøje	VI:----:-p:----	_	O	
+5-28	med	med	T-:----:--:----	_	O	
+5-29	hinandens	hinandens	XY:----:--:----	_	O	
+5-30	selskab	selskab|selskab-1-1a-1b|selskab-2-2a|selskab-F-holde-med-selskab|selskab-4-4a|selskab-3|selskab-1c	NC:siun:--:----	selskab-1-1a-1b	O	
+5-31	i	i	T-:----:--:----	_	O	
+5-32	weekenderne	weekend	NC:pdu#:--:----	_	O	
+5-33	.	.	ZP	_	O	
+
+#id=6
+#text= Jeg holder så meget af ensomhed, at jeg har fravalgt et besøg hos min (dejlige) svigermor i det nordjyske til fordel for tre et halvt døgn i mit eget selskab (og kattenes, selvfølgelig).
+6-1	Jeg	jeg	PP:s-nc:--:-1n-	_	O	
+6-2	holder	holde	VF:----:sa:----	_	O	
+6-3	så	så	D-:----:--:u---	_	O	
+6-4	meget	megen	AD:----:--:p---	_	O	
+6-5	af	af	T-:----:--:----	_	O	
+6-6	ensomhed	ensomhed	NC:siuc:--:----	_	O	
+6-7	,	,	ZD	_	O	
+6-8	at	at	CS:----:--:----	_	O	
+6-9	jeg	jeg	PP:s-nc:--:-1n-	_	O	
+6-10	har	have	VF:----:sa:----	_	O	
+6-11	fravalgt	fravælge	VT:siu#:t-:----	_	O	
+6-12	et	en	----	_	O	
+6-13	besøg	besøg	NC:siun:--:----	_	O	
+6-14	hos	hos	T-:----:--:----	_	O	
+6-15	min	min	XY:----:--:----	_	O	
+6-16	(	(	ZD	_	O	
+6-17	dejlige	dejlig	AC:p#u#:--:p---	_	O	
+6-18	)	)	ZD	_	O	
+6-19	svigermor	svigermor	NC:siuc:--:----	_	O	
+6-20	i	i	T-:----:--:----	_	O	
+6-21	det	den	PM:s-un:--:----	_	O	
+6-22	nordjyske	nordjysk	AC:sdu#:--:p---	_	O	
+6-23	til	til	T-:----:--:----	_	O	
+6-24	fordel	fordel	NC:siuc:--:----	_	O	
+6-25	for	for	T-:----:--:----	_	O	
+6-26	tre	tre	LC:--u-:--:----	_	O	
+6-27	et	en	PI:s-un:--:----	_	O	
+6-28	halvt	halv	AC:siun:--:p---	_	O	
+6-29	døgn	døgn	NC:siun:--:----	_	O	
+6-30	i	i	T-:----:--:----	_	O	
+6-31	mit	min	PO:s--n:--:-1ns	_	O	
+6-32	eget	egen	AC:s§un:--:p---	_	O	
+6-33	selskab	selskab|selskab-F-holde-med-selskab|selskab-1-1a-1b|selskab-2-2a|selskab-1c|selskab-4-4a|selskab-3	NC:siun:--:----	selskab-1-1a-1b	O	
+6-34	(	(	ZD	_	O	
+6-35	og	og	CC:----:--:----	_	O	
+6-36	kattenes	kat	NC:pdg#:--:----	_	O	
+6-37	,	,	ZD	_	O	
+6-38	selvfølgelig	selvfølgelig	D-:----:--:u---	_	O	
+6-39	)	)	ZD	_	O	
+6-40	.	.	ZP	_	O	
+
+#id=7
+#text= Den lille time i selskab med en engageret ung guide blev bestemt besøgets højdepunkt.
+7-1	Den	den	PM:s-uc:--:----	_	O	
+7-2	lille	lille	AC:s§u§:--:p---	_	O	
+7-3	time	time	NC:siuc:--:----	_	O	
+7-4	i	i	T-:----:--:----	_	O	
+7-5	selskab	selskab|selskab-F-holde-med-selskab|selskab-4-4a|selskab-3|selskab-1-1a-1b|selskab-2-2a|selskab-1c	NC:siun:--:----	selskab-1-1a-1b	O	
+7-6	med	med	T-:----:--:----	_	O	
+7-7	en	en	PI:s-uc:--:----	_	O	
+7-8	engageret	engagere	VT:siu#:t-:----	_	O	
+7-9	ung	ung	AC:siuc:--:p---	_	O	
+7-10	guide	guide	NC:siuc:--:----	_	O	
+7-11	blev	blive	VF:----:ta:----	_	O	
+7-12	bestemt	bestemme	VT:siu#:t-:----	_	O	
+7-13	besøgets	besøg	NC:sdgn:--:----	_	O	
+7-14	højdepunkt	højdepunkt	NC:siun:--:----	_	O	
+7-15	.	.	ZP	_	O	
+
+#id=8
+#text=Der var et større selskab, der holdt fest på Skanderborg Vandrehjem i lørdags.
+8-1	Der	der	US:----:--:----	_	O	
+8-2	var	være	VF:----:ta:----	_	O	
+8-3	et	en	PI:s-un:--:----	_	O	
+8-4	større	stor	AC:##u#:--:c---	_	O	
+8-5	selskab	selskab|selskab-1-1a-1b|selskab-4-4a|selskab-F-holde-med-selskab|selskab-3|selskab-2-2a|selskab-1c	NC:siun:--:----	selskab-3	O	
+8-6	,	,	ZD	_	O	
+8-7	der	der	US:----:--:----	_	O	
+8-8	holdt	holde	VF:----:ta:----	_	O	
+8-9	fest	fest	NC:siuc:--:----	_	O	
+8-10	på	på	T-:----:--:----	_	O	
+8-11	Skanderborg	Skanderborg	NP:siu#:--:----	_	O	
+8-12	Vandrehjem	vandrehjem	NC:siun:--:----	_	O	
+8-13	i	i	T-:----:--:----	_	O	
+8-14	lørdags	lørdag	NC:sigc:--:----	_	O	
+8-15	.	.	ZP	_	O	
+
+#id=9
+#text=Så en steghed eftermiddag er blevet tilbragt i selskab med omkring 20 andre små selvstændige samt journalist og forfatter Karen Lumholt, der skulle inspirere os til at vækste fra biks til business.
+9-1	Så	så	D-:----:--:u---	_	O	
+9-2	en	en	PI:s-uc:--:----	_	O	
+9-3	steghed	steghed	AC:siuc:--:p---	_	O	
+9-4	eftermiddag	eftermiddag	NC:siuc:--:----	_	O	
+9-5	er	være	VF:----:sa:----	_	O	
+9-6	blevet	blive	VT:siu#:t-:----	_	O	
+9-7	tilbragt	tilbringe	VT:siu#:t-:----	_	O	
+9-8	i	i	T-:----:--:----	_	O	
+9-9	selskab	selskab|selskab-1-1a-1b|selskab-2-2a|selskab-F-holde-med-selskab|selskab-4-4a|selskab-3|selskab-1c	NC:siun:--:----	selskab-1-1a-1b	O	
+9-10	med	med	T-:----:--:----	_	O	
+9-11	omkring	omkring	T-:----:--:----	_	O	
+9-12	20	20	LC:--u-:--:----	_	O	
+9-13	andre	anden	PI:p-u#:--:----	_	O	
+9-14	små	lille	AC:p#u#:--:p---	_	O	
+9-15	selvstændige	selvstændig	AC:p#u#:--:p---	_	O	
+9-16	samt	samt	CC:----:--:----	_	O	
+9-17	journalist	journalist	NC:siuc:--:----	_	O	
+9-18	og	og	CC:----:--:----	_	O	
+9-19	forfatter	forfatte	VF:----:sa:----	_	O	
+9-20	Karen	Karen	NP:siu#:--:----	_	O	
+9-21	Lumholt	Lumholt	NP:siu#:--:----	_	O	
+9-22	,	,	ZD	_	O	
+9-23	der	der	US:----:--:----	_	O	
+9-24	skulle	skulle	VF:----:ta:----	_	O	
+9-25	inspirere	inspirere	VI:----:-a:----	_	O	
+9-26	os	vi	PP:p-uc:--:-1#-	_	O	
+9-27	til	til	T-:----:--:----	_	O	
+9-28	at	at	UI:----:--:----	_	O	
+9-29	vækste	vækste	VI:----:-a:----	_	O	
+9-30	fra	fra	T-:----:--:----	_	O	
+9-31	biks	biks	NC:siuc:--:----	_	O	
+9-32	til	til	T-:----:--:----	_	O	
+9-33	business	business	NC:siuc:--:----	_	O	
+9-34	.	.	ZP	_	O	
+
+#id=10
+#text= Så slemt, at jeg til sidst måtte overgive mig og overlade vores (overnattende) gæst kun til mandens selskab, mens jeg krøb i dynerne.
+10-1	Så	så	D-:----:--:u---	_	O	
+10-2	slemt	slem	AC:siun:--:p---	_	O	
+10-3	,	,	ZD	_	O	
+10-4	at	at	CS:----:--:----	_	O	
+10-5	jeg	jeg	PP:s-nc:--:-1n-	_	O	
+10-6	til	til	D-:----:--:u---	_	O	
+10-7	sidst	sidst	D-:----:--:u---	_	O	
+10-8	måtte	måtte	VF:----:ta:----	_	O	
+10-9	overgive	overgive	VI:----:-a:----	_	O	
+10-10	mig	jeg	PP:s-uc:--:-1#-	_	O	
+10-11	og	og	CC:----:--:----	_	O	
+10-12	overlade	overlade	VI:----:-a:----	_	O	
+10-13	vores	vores	XY:----:--:----	_	O	
+10-14	(	(	ZD	_	O	
+10-15	overnattende	overnatte	VP:##u#:s-:----	_	O	
+10-16	)	)	ZD	_	O	
+10-17	gæst	gæst	NC:siuc:--:----	_	O	
+10-18	kun	kun	D-:----:--:u---	_	O	
+10-19	til	til	T-:----:--:----	_	O	
+10-20	mandens	mand	NC:sdgc:--:----	_	O	
+10-21	selskab	selskab|selskab-4-4a|selskab-F-holde-med-selskab|selskab-3|selskab-1-1a-1b|selskab-2-2a|selskab-1c	NC:siun:--:----	selskab-1-1a-1b	O	
+10-22	,	,	ZD	_	O	
+10-23	mens	mens	CS:----:--:----	_	O	
+10-24	jeg	jeg	PP:s-nc:--:-1n-	_	O	
+10-25	krøb	krybe	VF:----:ta:----	_	O	
+10-26	i	i	--	_	O	
+10-27	dynerne	dyne	NC:pdu#:--:----	_	O	
+10-28	.	.	ZP	_	O	
+
+#id=11
+#text= Løvstikken kommer også nogen gange med i selskab med persille, når jeg laver pesto.
+11-1	Løvstikken	løvstikke	NC:sduc:--:----	_	O	
+11-2	kommer	komme	VF:----:sa:----	_	O	
+11-3	også	også	D-:----:--:u---	_	O	
+11-4	nogen	nogen	PI:s-uc:--:----	_	O	
+11-5	gange	gang	NC:piu#:--:----	_	O	
+11-6	med	med	T-:----:--:----	_	O	
+11-7	i	i	T-:----:--:----	_	O	
+11-8	selskab	selskab|selskab-4-4a|selskab-F-holde-med-selskab|selskab-3|selskab-1-1a-1b|selskab-2-2a|selskab-1c	NC:siun:--:----	selskab-1-1a-1b	O	
+11-9	med	med	T-:----:--:----	_	O	
+11-10	persille	persille	NC:siuc:--:----	_	O	
+11-11	,	,	ZD	_	O	
+11-12	når	når	CS:----:--:----	_	O	
+11-13	jeg	jeg	PP:s-nc:--:-1n-	_	O	
+11-14	laver	lave	VF:----:sa:----	_	O	
+11-15	pesto	pesto	NC:siuc:--:----	_	O	
+11-16	.	.	ZP	_	O	
+
+#id=12
+#text= Mæt af superb selskab, betænksom begavning (til både krop, ånd og hjem ) og lidt for meget af mine megamængder mad (der er dømt restegilde til familien i morgen!).
+12-1	Mæt	mæt	AC:siu§:--:p---	_	O	
+12-2	af	af	T-:----:--:----	_	O	
+12-3	superb	superb	AC:siuc:--:p---	_	O	
+12-4	selskab	selskab|selskab-F-holde-med-selskab|selskab-1c|selskab-1-1a-1b|selskab-2-2a|selskab-4-4a|selskab-3	NC:siun:--:----	selskab-3	O	
+12-5	,	,	ZD	_	O	
+12-6	betænksom	betænksom	AC:siuc:--:p---	_	O	
+12-7	begavning	begavningram	NC:siuc:--:----	_	O	
+12-8	(	(	ZD	_	O	
+12-9	til	til	CS:----:--:----	_	O	
+12-10	både	både	D-:----:--:u---	_	O	
+12-11	krop	krop	NC:siuc:--:----	_	O	
+12-12	,	,	ZD	_	O	
+12-13	ånd	ånd	NC:siuc:--:----	_	O	
+12-14	og	og	CC:----:--:----	_	O	
+12-15	hjem	hjem	D-:----:--:u---	_	O	
+12-16	)	)	ZD	_	O	
+12-17	og	og	CC:----:--:----	_	O	
+12-18	lidt	lidt	AD:----:--:p---	_	O	
+12-19	for	for	T-:----:--:----	_	O	
+12-20	meget	megen	AD:----:--:p---	_	O	
+12-21	af	af	T-:----:--:----	_	O	
+12-22	mine	min	PO:p--#:--:-1ns	_	O	
+12-23	megamængder	megamængde	NC:piu#:--:----	_	O	
+12-24	mad	mad	NC:siuc:--:----	_	O	
+12-25	(	(	ZD	_	O	
+12-26	der	der	US:----:--:----	_	O	
+12-27	er	være	VF:----:sa:----	_	O	
+12-28	dømt	dødsdømme	VT:siu#:t-:----	_	O	
+12-29	restegilde	restegilde	NC:siun:--:----	_	O	
+12-30	til	til	T-:----:--:----	_	O	
+12-31	familien	familie	NC:sduc:--:----	_	O	
+12-32	i	i	T-:----:--:----	_	O	
+12-33	morgen	morgen	NC:siuc:--:----	_	O	
+12-34	!	!	ZP	_	O	
+12-35	)	)	ZD	_	O	
+12-36	.	.	ZP	_	O	
+
+#id=13
+#text= Og tænk, både teenageren og manden i mit liv holdt mig med selskab!
+13-1	Og	og	CC:----:--:----	_	O	
+13-2	tænk	tænke	VM:----:--:----	_	O	
+13-3	,	,	ZD	_	O	
+13-4	både	både	D-:----:--:u---	_	O	
+13-5	teenageren	teenager	NC:sduc:--:----	_	O	
+13-6	og	og	CC:----:--:----	_	O	
+13-7	manden	mand	NC:sduc:--:----	_	O	
+13-8	i	i	T-:----:--:----	_	O	
+13-9	mit	min	PO:s--n:--:-1ns	_	O	
+13-10	liv	liv	NC:siun:--:----	_	O	
+13-11	holdt	holde	VF:----:ta:----	_	O	
+13-12	mig	jeg	PP:s-uc:--:-1#-	_	O	
+13-13	med	med	T-:----:--:----	_	O	
+13-14	selskab	selskab|selskab-2-2a|selskab-3|selskab-1c|selskab-1-1a-1b|selskab-4-4a|selskab-F-holde-med-selskab	NC:siun:--:----	selskab-F-holde-med-selskab	O	
+13-15	!	!	ZP	_	O	
+
+#id=14
+#text= Jeg føler mig i godt selskab hver gang.
+14-1	Jeg	jeg	PP:s-nc:--:-1n-	_	O	
+14-2	føler	føle	VF:----:sa:----	_	O	
+14-3	mig	jeg	PP:s-uc:--:-1#-	_	O	
+14-4	i	i	T-:----:--:----	_	O	
+14-5	godt	god	AC:siun:--:p---	_	O	
+14-6	selskab	selskab|selskab-4-4a|selskab-F-holde-med-selskab|selskab-2-2a|selskab-3|selskab-1c|selskab-1-1a-1b	NC:siun:--:----	selskab-1-1a-1b	O	
+14-7	hver	hver	PI:s-uc:--:----	_	O	
+14-8	gang	gang	NC:siuc:--:----	_	O	
+14-9	.	.	ZP	_	O	
+
+#id=15
+#text=Vi kom fredeligt og roligt ind i 2011, manden i mit liv og jeg, i gode genboers selskab, mens vores respektive døtre fyrede den af andre steder.
+15-1	Vi	vi	PP:p-nc:--:-1n-	_	O	
+15-2	kom	komme	VF:----:ta:----	_	O	
+15-3	fredeligt	fredelig	AD:----:--:p---	_	O	
+15-4	og	og	CC:----:--:----	_	O	
+15-5	roligt	rolig	AD:----:--:p---	_	O	
+15-6	ind	ind	D-:----:--:u---	_	O	
+15-7	i	i	T-:----:--:----	_	O	
+15-8	2011	2011	LC:--u-:--:----	_	O	
+15-9	,	,	ZD	_	O	
+15-10	manden	mand	NC:sduc:--:----	_	O	
+15-11	i	i	T-:----:--:----	_	O	
+15-12	mit	min	PO:s--n:--:-1ns	_	O	
+15-13	liv	liv	NC:siun:--:----	_	O	
+15-14	og	og	CC:----:--:----	_	O	
+15-15	jeg	jeg	PP:s-nc:--:-1n-	_	O	
+15-16	,	,	ZD	_	O	
+15-17	i	i	T-:----:--:----	_	O	
+15-18	gode	god	AC:p#u#:--:p---	_	O	
+15-19	genboers	genbo	NC:pig#:--:----	_	O	
+15-20	selskab	selskab|selskab-2-2a|selskab-4-4a|selskab-F-holde-med-selskab|selskab-3|selskab-1c|selskab-1-1a-1b	NC:siun:--:----	selskab-1-1a-1b	O	
+15-21	,	,	ZD	_	O	
+15-22	mens	mens	CS:----:--:----	_	O	
+15-23	vores	vores	PO:#--#:--:-1np	_	O	
+15-24	respektive	respektive	AC:§§u§:--:p---	_	O	
+15-25	døtre	datter	NC:piu#:--:----	_	O	
+15-26	fyrede	fyre	VF:----:ta:----	_	O	
+15-27	den	den	PP:s-uc:--:-3n-	_	O	
+15-28	af	af	T-:----:--:----	_	O	
+15-29	andre	anden	PI:p-u#:--:----	_	O	
+15-30	steder	sted	NC:piu#:--:----	_	O	
+15-31	.	.	ZP	_	O	
+
+#id=16
+#text= Men søvnen nægtede at genindfinde sig, og så er sådan en stille lørdag morgen i mit eget selskab nu slet ikke at foragte .
+16-1	Men	men	CC:----:--:----	_	O	
+16-2	søvnen	søvn	NC:sduc:--:----	_	O	
+16-3	nægtede	nægte	VF:----:ta:----	_	O	
+16-4	at	at	UI:----:--:----	_	O	
+16-5	genindfinde	de	VI:----:-a:----	_	O	
+16-6	sig	sig	PP:#-u#:--:-3y-	_	O	
+16-7	,	,	ZD	_	O	
+16-8	og	og	CC:----:--:----	_	O	
+16-9	så	så	D-:----:--:u---	_	O	
+16-10	er	være	VF:----:sa:----	_	O	
+16-11	sådan	sådan	D-:----:--:u---	_	O	
+16-12	en	en	PI:s-uc:--:----	_	O	
+16-13	stille	stille	AC:§§u§:--:p---	_	O	
+16-14	lørdag	lørdag	NC:siuc:--:----	_	O	
+16-15	morgen	morgen	NC:siuc:--:----	_	O	
+16-16	i	i	T-:----:--:----	_	O	
+16-17	mit	min	PO:s--n:--:-1ns	_	O	
+16-18	eget	egen	AC:s§un:--:p---	_	O	
+16-19	selskab	selskab|selskab-1c|selskab-1-1a-1b|selskab-2-2a|selskab-3|selskab-4-4a|selskab-F-holde-med-selskab	NC:siun:--:----	selskab-1-1a-1b	O	
+16-20	nu	nu	D-:----:--:u---	_	O	
+16-21	slet	slet	D-:----:--:u---	_	O	
+16-22	ikke	ikke	D-:----:--:u---	_	O	
+16-23	at	at	UI:----:--:----	_	O	
+16-24	foragte	foragte	VI:----:-a:----	_	O	
+16-25	.	.	ZP	_	O	
+
+#id=17
+#text= Jeg ville ikke  turde købe en flybillet af et selskab, der ikke kan stave til sit eget produkt! (måske er marketingmedarbejderen halvt svensk ).
+17-1	Jeg	jeg	PP:s-nc:--:-1n-	_	O	
+17-2	ville	ville	VF:----:ta:----	_	O	
+17-3	ikke	ikke	D-:----:--:u---	_	O	
+17-4	turde	turde	VF:----:ta:----	_	O	
+17-5	købe	købe	VI:----:-a:----	_	O	
+17-6	en	en	PI:s-uc:--:----	_	O	
+17-7	flybillet	flybillet	NC:siuc:--:----	_	O	
+17-8	af	af	T-:----:--:----	_	O	
+17-9	et	en	PI:s-un:--:----	_	O	
+17-10	selskab	selskab|selskab-4-4a|selskab-F-holde-med-selskab|selskab-3|selskab-1c|selskab-2-2a|selskab-1-1a-1b	NC:siun:--:----	selskab-4-4a	O	
+17-11	,	,	ZD	_	O	
+17-12	der	der	US:----:--:----	_	O	
+17-13	ikke	ikke	D-:----:--:u---	_	O	
+17-14	kan	kunne	VF:----:sa:----	_	O	
+17-15	stave	stave	VI:----:-a:----	_	O	
+17-16	til	til	T-:----:--:----	_	O	
+17-17	sit	sin	PO:s--n:--:-3ys	_	O	
+17-18	eget	egen	AC:s§un:--:p---	_	O	
+17-19	produkt	produkt	NC:siun:--:----	_	O	
+17-20	!	!	ZP	_	O	
+17-21	(	(	ZD	_	O	
+17-22	måske	måske	D-:----:--:u---	_	O	
+17-23	er	være	VF:----:sa:----	_	O	
+17-24	marketingmedarbejderen	marketingmedarbejder	NC:sduc:--:----	_	O	
+17-25	halvt	halv	AD:----:--:p---	_	O	
+17-26	svensk	svensk	AC:siu§:--:p---	_	O	
+17-27	)	)	ZD	_	O	
+17-28	.	.	ZP	_	O	
+
+#id=18
+#text=I den solforladte eftermiddag holdt teenageren og manden i mit liv mig med selskab på en tur til Slotshegnet, som breder sig ud fra Jægerspris Slot Frederik VII og Grevinde Danners gamle residens (hvis du aldrig har været der, kan jeg varmt anbefale et besøg på museet, som har åbent i sommerhalvåret).
+18-1	I	i	T-:----:--:----	_	O	
+18-2	den	den	PM:s-uc:--:----	_	O	
+18-3	solforladte	solforladt	AC:sdu#:--:p---	_	O	
+18-4	eftermiddag	eftermiddag	NC:siuc:--:----	_	O	
+18-5	holdt	holde	VF:----:ta:----	_	O	
+18-6	teenageren	teenager	NC:sduc:--:----	_	O	
+18-7	og	og	CC:----:--:----	_	O	
+18-8	manden	mand	NC:sduc:--:----	_	O	
+18-9	i	i	T-:----:--:----	_	O	
+18-10	mit	min	PO:s--n:--:-1ns	_	O	
+18-11	liv	liv	NC:siun:--:----	_	O	
+18-12	mig	mig	NC:siun:--:----	_	O	
+18-13	med	med	T-:----:--:----	_	O	
+18-14	selskab	selskab|selskab-4-4a|selskab-F-holde-med-selskab|selskab-2-2a|selskab-3|selskab-1c|selskab-1-1a-1b	NC:siun:--:----	selskab-F-holde-med-selskab	O	
+18-15	på	på	T-:----:--:----	_	O	
+18-16	en	en	PI:s-uc:--:----	_	O	
+18-17	tur	tur	NC:siuc:--:----	_	O	
+18-18	til	til	T-:----:--:----	_	O	
+18-19	Slotshegnet	Slotshegnet	NP:siu#:--:----	_	O	
+18-20	,	,	ZD	_	O	
+18-21	som	som	US:----:--:----	_	O	
+18-22	breder	brede	VF:----:sa:----	_	O	
+18-23	sig	sig	PP:#-u#:--:-3y-	_	O	
+18-24	ud	ud	D-:----:--:u---	_	O	
+18-25	fra	fra	T-:----:--:----	_	O	
+18-26	Jægerspris	Jægerspris	NP:sig#:--:----	_	O	
+18-27	Slot	slot	NC:siun:--:----	_	O	
+18-28	Frederik	Frederik	NP:siu#:--:----	_	O	
+18-29	VII	VII	LC:--u-:--:----	_	O	
+18-30	og	og	CC:----:--:----	_	O	
+18-31	Grevinde	grevinde	NC:siuc:--:----	_	O	
+18-32	Danners	Danners	NP:sig#:--:----	_	O	
+18-33	gamle	gammel	AC:sdu#:--:p---	_	O	
+18-34	residens	residens	NC:siuc:--:----	_	O	
+18-35	(	(	ZD	_	O	
+18-36	hvis	hvis	CS:----:--:----	_	O	
+18-37	du	du	PP:s-nc:--:-2n-	_	O	
+18-38	aldrig	aldrig	D-:----:--:u---	_	O	
+18-39	har	have	VF:----:sa:----	_	O	
+18-40	været	være	VT:siu#:t-:----	_	O	
+18-41	der	der	D-:----:--:u---	_	O	
+18-42	,	,	ZD	_	O	
+18-43	kan	kunne	VF:----:sa:----	_	O	
+18-44	jeg	jeg	PP:s-nc:--:-1n-	_	O	
+18-45	varmt	varm	AD:----:--:p---	_	O	
+18-46	anbefale	anbefale	VI:----:-a:----	_	O	
+18-47	et	en	PI:s-un:--:----	_	O	
+18-48	besøg	besøg	NC:siun:--:----	_	O	
+18-49	på	på	T-:----:--:----	_	O	
+18-50	museet	museum	NC:sdun:--:----	_	O	
+18-51	,	,	ZD	_	O	
+18-52	som	som	US:----:--:----	_	O	
+18-53	har	have	VF:----:sa:----	_	O	
+18-54	åbent	åben	AD:----:--:p---	_	O	
+18-55	i	i	T-:----:--:----	_	O	
+18-56	sommerhalvåret	sommerhalvår	NC:sdun:--:----	_	O	
+18-57	)	)	ZD	_	O	
+18-58	.	.	ZP	_	O	
+
+#id=19
+#text= Jeg trives i andres selskab, men har også et meget større behov end så mange andre for ensomhed og fordybelse.
+19-1	Jeg	jeg	PP:s-nc:--:-1n-	_	O	
+19-2	trives	trives	VF:----:sp:----	_	O	
+19-3	i	i	T-:----:--:----	_	O	
+19-4	andres	andres	XY:----:--:----	_	O	
+19-5	selskab	selskab|selskab-F-holde-med-selskab|selskab-1c|selskab-2-2a|selskab-3|selskab-4-4a|selskab-1-1a-1b	NC:siun:--:----	selskab-1-1a-1b	O	
+19-6	,	,	ZD	_	O	
+19-7	men	men	CC:----:--:----	_	O	
+19-8	har	have	VF:----:sa:----	_	O	
+19-9	også	også	D-:----:--:u---	_	O	
+19-10	et	en	PI:s-un:--:----	_	O	
+19-11	meget	megen	AD:----:--:p---	_	O	
+19-12	større	stor	AD:----:--:c---	_	O	
+19-13	behov	behov	D-:----:--:u---	_	O	
+19-14	end	end	CS:----:--:----	_	O	
+19-15	så	så	D-:----:--:u---	_	O	
+19-16	mange	mangen	AC:p#u#:--:p---	_	O	
+19-17	andre	anden	PI:p-u#:--:----	_	O	
+19-18	for	for	T-:----:--:----	_	O	
+19-19	ensomhed	ensomhed	NC:siuc:--:----	_	O	
+19-20	og	og	CC:----:--:----	_	O	
+19-21	fordybelse	fordybelse	NC:siuc:--:----	_	O	
+19-22	.	.	ZP	_	O	
+
+#id=20
+#text=Nu er det bare tid til ensomme timer i mit eget (behagelige ) selskab.
+20-1	Nu	nu	D-:----:--:u---	_	O	
+20-2	er	være	VF:----:sa:----	_	O	
+20-3	det	det	PP:s-un:--:-3n-	_	O	
+20-4	bare	bare	D-:----:--:u---	_	O	
+20-5	tid	tid	NC:siuc:--:----	_	O	
+20-6	til	til	T-:----:--:----	_	O	
+20-7	ensomme	ensom	AC:p#u#:--:p---	_	O	
+20-8	timer	time	NC:piu#:--:----	_	O	
+20-9	i	i	T-:----:--:----	_	O	
+20-10	mit	min	PO:s--n:--:-1ns	_	O	
+20-11	eget	egen	AC:s§un:--:p---	_	O	
+20-12	(	(	ZD	_	O	
+20-13	behagelige	behagelig	AC:p#u#:--:p---	_	O	
+20-14	)	)	ZD	_	O	
+20-15	selskab	selskab|selskab-4-4a|selskab-F-holde-med-selskab|selskab-2-2a|selskab-3|selskab-1c|selskab-1-1a-1b	NC:siun:--:----	selskab-1-1a-1b	O	
+20-16	.	.	ZP	_	O	
+
+#id=21
+#text= I dag gjorde selskabet det.
+21-1	I	i	T-:----:--:----	_	O	
+21-2	dag	dag	NC:siuc:--:----	_	B-noun.time	
+21-3	gjorde	gøre	VF:----:ta:----	_	B-verb.change|B-verb.act|B-verb.phenomenon|B-verb.creation	
+21-4	selskabet	selskab|selskab-3|selskab-4-4a|selskab-F-holde-med-selskab|selskab-1c|selskab-2-2a|selskab-1-1a-1b	NC:sdun:--:----	selskab-1-1a-1b	B-noun.institution|B-noun.person|B-noun.attribute|B-noun.act	
+21-5	det	det	XY:----:--:----	_	O	
+21-6	.	.	ZP	_	O	
+
+#id=22
+#text= I 1962 giftede hun sig med min far, som også var (og forblev) kontormand og forsikringsansat (dog i et andet selskab).
+22-1	I	i	T-:----:--:----	_	O	
+22-2	1962	1962	LC:--u-:--:----	_	O	
+22-3	giftede	gifte	VF:----:ta:----	_	O	
+22-4	hun	hun	PP:s-nc:--:-3n-	_	O	
+22-5	sig	sig	PP:#-u#:--:-3y-	_	O	
+22-6	med	med	T-:----:--:----	_	O	
+22-7	min	min	PO:s--c:--:-1ns	_	O	
+22-8	far	far	NC:siuc:--:----	_	O	
+22-9	,	,	ZD	_	O	
+22-10	som	som	US:----:--:----	_	O	
+22-11	også	også	D-:----:--:u---	_	O	
+22-12	var	være	VF:----:ta:----	_	O	
+22-13	(	(	ZD	_	O	
+22-14	og	og	CC:----:--:----	_	O	
+22-15	forblev	forblive	VF:----:ta:----	_	O	
+22-16	)	)	ZD	_	O	
+22-17	kontormand	kontormand	NC:siuc:--:----	_	O	
+22-18	og	og	CC:----:--:----	_	O	
+22-19	forsikringsansat	forsikringsansætte	VT:siu#:t-:----	_	O	
+22-20	(	(	ZD	_	O	
+22-21	dog	dog	D-:----:--:u---	_	O	
+22-22	i	i	T-:----:--:----	_	O	
+22-23	et	en	PI:s-un:--:----	_	O	
+22-24	andet	anden	PI:s-un:--:----	_	O	
+22-25	selskab	selskab|selskab-2-2a|selskab-3|selskab-4-4a|selskab-F-holde-med-selskab|selskab-1-1a-1b|selskab-1c	NC:siun:--:----	selskab-4-4a	O	
+22-26	)	)	ZD	_	O	
+22-27	.	.	ZP	_	O	
+

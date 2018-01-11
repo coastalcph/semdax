@@ -1,0 +1,227 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Le | value
+#id=1
+#text=Det = Slaget ved Sekigahara Kara:
+1-1	Det	den	PM:s-un:--:----	_	
+1-2	=	=	XS:----:--:----	_	
+1-3	Slaget	slag	NC:sdun:--:----	slag_2_2b_2c	
+1-4	ved	ved	T-:----:--:----	_	
+1-5	Sekigahara	Sekigahara	NP:siu#:--:----	_	
+1-6	Kara	Kara	NP:siu#:--:----	_	
+1-7	:	:	ZP	_	
+
+#id=2
+#text= I judo lærer du _ikke_ slag/ spark og parader.
+2-1	I	i	T-:----:--:----	_	
+2-2	judo	judo	NC:siuc:--:----	_	
+2-3	lærer	lære	VF:----:sa:----	_	
+2-4	du	du	PP:s-nc:--:-2n-	_	
+2-5	_ikke_	_ikke_	NC:piu#:--:----	_	
+2-6	slag	slag	NC:piu#:--:----	slag_1_1c	
+2-7	/	/	ZS	_	
+2-8	spark	spark	NC:siun:--:----	_	
+2-9	og	og	CC:----:--:----	_	
+2-10	parader	parade	NC:piu#:--:----	_	
+2-11	.	.	ZP	_	
+
+#id=3
+#text= Det er det store slag, som bagefter vil blive kaldt 'slaget ved Sekigahara'.
+3-1	Det	det	PP:s-un:--:-3n-	_	
+3-2	er	være	VF:----:sa:----	_	
+3-3	det	den	PM:s-un:--:----	_	
+3-4	store	stor	AC:sdu#:--:p---	_	
+3-5	slag	slag	NC:siun:--:----	slag_2_2b_2c	
+3-6	,	,	ZD	_	
+3-7	som	som	US:----:--:----	_	
+3-8	bagefter	bagefter	D-:----:--:u---	_	
+3-9	vil	ville	VF:----:sa:----	_	
+3-10	blive	blive	VI:----:-a:----	_	
+3-11	kaldt	kalde	VT:siu#:t-:----	_	
+3-12	'	'	XY:----:--:----	_	
+3-13	slaget	slag	NC:sdun:--:----	_	
+3-14	ved	ved	T-:----:--:----	_	
+3-15	Sekigahara	Sekigahara	NP:siu#:--:----	_	
+3-16	'	'	ZA	_	
+3-17	.	.	ZP	_	
+
+#id=4
+#text=Jeg vil også gerne slå et slag for Canada) og Belgien).
+4-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+4-2	vil	ville	VF:----:sa:----	_	
+4-3	også	også	D-:----:--:u---	_	
+4-4	gerne	gerne	D-:----:--:u---	_	
+4-5	slå	slå	VI:----:-a:----	_	
+4-6	et	en	PI:s-un:--:----	_	
+4-7	slag	slag	NC:siun:--:----	slag_F_slå et slag	
+4-8	for	for	T-:----:--:----	_	
+4-9	Canada	Canada	NP:siu#:--:----	_	
+4-10	)	)	ZD	_	
+4-11	og	og	CC:----:--:----	_	
+4-12	Belgien	Belgien	NP:siu#:--:----	_	
+4-13	)	)	ZD	_	
+4-14	.	.	ZP	_	
+
+#id=5
+#text= Det er dog i "Seiken Densetsu" en del mere turbaseret opbygget, idet at personerne og figurerne er tvunget til at lade op til hvert slag.
+5-1	Det	det	PP:s-un:--:-3n-	_	
+5-2	er	være	VF:----:sa:----	_	
+5-3	dog	dog	D-:----:--:u---	_	
+5-4	i	i	T-:----:--:----	_	
+5-5	"	"	ZI	_	
+5-6	Seiken	Seiken	NP:siu#:--:----	_	
+5-7	Densetsu	Densetsu	NP:siu#:--:----	_	
+5-8	"	"	ZI	_	
+5-9	en	en	PI:s-uc:--:----	_	
+5-10	del	del	NC:siuc:--:----	_	
+5-11	mere	megen	AD:----:--:c---	_	
+5-12	turbaseret	turbasere	VT:siu#:t-:----	_	
+5-13	opbygget	opbygge	VT:siu#:t-:----	_	
+5-14	,	,	ZD	_	
+5-15	idet	idet	CS:----:--:----	_	
+5-16	at	at	CS:----:--:----	_	
+5-17	personerne	person	NC:pdu#:--:----	_	
+5-18	og	og	CC:----:--:----	_	
+5-19	figurerne	figur	NC:pdu#:--:----	_	
+5-20	er	være	VF:----:sa:----	_	
+5-21	tvunget	tvinge	VT:siu#:t-:----	_	
+5-22	til	til	T-:----:--:----	_	
+5-23	at	at	UI:----:--:----	_	
+5-24	lade	lade	VI:----:-a:----	_	
+5-25	op	op	D-:----:--:u---	_	
+5-26	til	til	T-:----:--:----	_	
+5-27	hvert	hver	PI:s-un:--:----	_	
+5-28	slag	slag	NC:siun:--:----	slag_2_2b_2c	
+5-29	.	.	ZP	_	
+
+#id=6
+#text= Når det er sagt, så vil jeg da lige slå et slag for søgefunktionen på siden, den giver mulighed for at finde alle indlæg med relevans for søgeordet.
+6-1	Når	når	CS:----:--:----	_	
+6-2	det	det	PP:s-un:--:-3n-	_	
+6-3	er	være	VF:----:sa:----	_	
+6-4	sagt	sige	VT:siu#:t-:----	_	
+6-5	,	,	ZD	_	
+6-6	så	så	D-:----:--:u---	_	
+6-7	vil	ville	VF:----:sa:----	_	
+6-8	jeg	jeg	PP:s-nc:--:-1n-	_	
+6-9	da	da	D-:----:--:u---	_	
+6-10	lige	lige	D-:----:--:u---	_	
+6-11	slå	slå	VI:----:-a:----	_	
+6-12	et	en	PI:s-un:--:----	_	
+6-13	slag	slag	NC:siun:--:----	slag_F_slå et slag	
+6-14	for	for	T-:----:--:----	_	
+6-15	søgefunktionen	søgefunktion	NC:sduc:--:----	_	
+6-16	på	på	T-:----:--:----	_	
+6-17	siden	side	NC:sduc:--:----	_	
+6-18	,	,	ZD	_	
+6-19	den	den	PP:s-uc:--:-3n-	_	
+6-20	giver	give	VF:----:sa:----	_	
+6-21	mulighed	mulighed	NC:siuc:--:----	_	
+6-22	for	for	T-:----:--:----	_	
+6-23	at	at	UI:----:--:----	_	
+6-24	finde	finde	VI:----:-a:----	_	
+6-25	alle	al	PI:p-u#:--:----	_	
+6-26	indlæg	indlæg	NC:piu#:--:----	_	
+6-27	med	med	T-:----:--:----	_	
+6-28	relevans	relevans	NC:siuc:--:----	_	
+6-29	for	for	T-:----:--:----	_	
+6-30	søgeordet	søgeord	NC:sdun:--:----	_	
+6-31	.	.	ZP	_	
+
+#id=7
+#text= Jeg vil i den forbindelse også gerne slå et slag for søgefunktionen, som man bør bruge, hvis man søger noget specielt!
+7-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+7-2	vil	ville	VF:----:sa:----	_	
+7-3	i	i	T-:----:--:----	_	
+7-4	den	den	PM:s-uc:--:----	_	
+7-5	forbindelse	forbindelse	NC:siuc:--:----	_	
+7-6	også	også	D-:----:--:u---	_	
+7-7	gerne	gerne	D-:----:--:u---	_	
+7-8	slå	slå	VI:----:-a:----	_	
+7-9	et	en	PI:s-un:--:----	_	
+7-10	slag	slag	NC:siun:--:----	slag_F_slå et slag	
+7-11	for	for	T-:----:--:----	_	
+7-12	søgefunktionen	søgefunktion	NC:sduc:--:----	_	
+7-13	,	,	ZD	_	
+7-14	som	som	US:----:--:----	_	
+7-15	man	man	PI:#-uc:--:----	_	
+7-16	bør	burde	VF:----:sa:----	_	
+7-17	bruge	bruge	VI:----:-a:----	_	
+7-18	,	,	ZD	_	
+7-19	hvis	hvis	CS:----:--:----	_	
+7-20	man	man	PI:#-uc:--:----	_	
+7-21	søger	søge	VF:----:sa:----	_	
+7-22	noget	nogen	PI:s-un:--:----	_	
+7-23	specielt	speciel	AC:siun:--:p---	_	
+7-24	!	!	ZP	_	
+
+#id=8
+#text=Jeg vil godt slå et slag for et par manga fra den lidt ældre skuffe, især da vi primært har beskrevet nyere manga i Mangahjørnet.
+8-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+8-2	vil	ville	VF:----:sa:----	_	
+8-3	godt	god	AD:----:--:p---	_	
+8-4	slå	slå	VI:----:-a:----	_	
+8-5	et	en	PI:s-un:--:----	_	
+8-6	slag	slag	NC:siun:--:----	slag_F_slå et slag	
+8-7	for	for	T-:----:--:----	_	
+8-8	et	en	PI:s-un:--:----	_	
+8-9	par	par	NC:siun:--:----	_	
+8-10	manga	manganden	PI:s-un:--:----	_	
+8-11	fra	fra	T-:----:--:----	_	
+8-12	den	den	PM:s-uc:--:----	_	
+8-13	lidt	lidt	AD:----:--:p---	_	
+8-14	ældre	gammel	AC:##u#:--:c---	_	
+8-15	skuffe	skuffe	NC:siuc:--:----	_	
+8-16	,	,	ZD	_	
+8-17	især	især	D-:----:--:u---	_	
+8-18	da	da	CS:----:--:----	_	
+8-19	vi	vi	PP:p-nc:--:-1n-	_	
+8-20	primært	primær	AD:----:--:p---	_	
+8-21	har	have	VF:----:sa:----	_	
+8-22	beskrevet	beskrive	VT:siu#:t-:----	_	
+8-23	nyere	ny	AD:----:--:c---	_	
+8-24	manga	manganden	PI:s-un:--:----	_	
+8-25	i	i	T-:----:--:----	_	
+8-26	Mangahjørnet	Mangahjørnet	NP:siu#:--:----	_	
+8-27	.	.	ZP	_	
+
+#id=9
+#text= Derimod er der adskillige af den  slag spil som jeg godt kan lide, fordi det er let af finde spil som også har en handling (selv om der også her er mange der ikke har).
+9-1	Derimod	derimod	D-:----:--:u---	_	
+9-2	er	være	VF:----:sa:----	_	
+9-3	der	der	US:----:--:----	_	
+9-4	adskillige	adskillig	AC:p#u#:--:p---	_	
+9-5	af	af	T-:----:--:----	_	
+9-6	den	den	PP:s-uc:--:-3n-	_	
+9-7	slag	slag	NC:siun:--:----	_	
+9-8	spil	spil	NC:piu#:--:----	_	
+9-9	som	som	US:----:--:----	_	
+9-10	jeg	jeg	PP:s-nc:--:-1n-	_	
+9-11	godt	god	AD:----:--:p---	_	
+9-12	kan	kunne	VF:----:sa:----	_	
+9-13	lide	lide	VI:----:-a:----	_	
+9-14	,	,	ZD	_	
+9-15	fordi	fordi	CS:----:--:----	_	
+9-16	det	det	PP:s-un:--:-3n-	_	
+9-17	er	være	VF:----:sa:----	_	
+9-18	let	let	AD:----:--:p---	_	
+9-19	af	af	D-:----:--:u---	_	
+9-20	finde	finde	VI:----:-a:----	_	
+9-21	spil	spil	NC:piu#:--:----	_	
+9-22	som	som	US:----:--:----	_	
+9-23	også	også	D-:----:--:u---	_	
+9-24	har	have	VF:----:sa:----	_	
+9-25	en	en	PI:s-uc:--:----	_	
+9-26	handling	handling	NC:siuc:--:----	_	
+9-27	(	(	ZD	_	
+9-28	selv	selv	D-:----:--:u---	_	
+9-29	om	om	CS:----:--:----	_	
+9-30	der	der	US:----:--:----	_	
+9-31	også	også	D-:----:--:u---	_	
+9-32	her	her	D-:----:--:u---	_	
+9-33	er	være	VF:----:sa:----	_	
+9-34	mange	mangen	AC:p#u#:--:p---	_	
+9-35	der	der	US:----:--:----	_	
+9-36	ikke	ikke	D-:----:--:u---	_	
+9-37	har	have	sa:----	_	
+9-38	)	)	ZD	_	
+9-39	.	.	ZP	_	
+

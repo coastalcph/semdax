@@ -1,0 +1,64 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Lexicalsample | Tag
+#id=1
+#text=En anden ting er den måde skud blev animeret på.
+1-1	En	en	PI:s-uc:--:----	_	
+1-2	anden	anden	PI:s-uc:--:----	_	
+1-3	ting	ting	NC:siuc:--:----	_	
+1-4	er	være	VF:----:sa:----	_	
+1-5	den	den	PM:s-uc:--:----	_	
+1-6	måde	måde	NC:siuc:--:----	_	
+1-7	skud	skud	NC:siun:--:----	_	
+1-8	blev	blive	VF:----:ta:----	_	
+1-9	animeret	animere	VT:siu#:t-:----	_	
+1-10	på	på	T-:----:--:----	_	
+1-11	.	.	ZP	_	
+
+#id=2
+#text= Det nyeste skud på grenen er Hellsing, som jeg ikke allerede har beskrevet mit forhold til.
+2-1	Det	den	PM:s-un:--:----	_	
+2-2	nyeste	ny	AC:§du§:--:s---	_	
+2-3	skud	skud	NC:siun:--:----	skud_F_sidste-(seneste,-nyeste,-..)-skud-på-stammen	
+2-4	på	på	T-:----:--:----	_	
+2-5	grenen	gren	NC:sduc:--:----	_	
+2-6	er	være	VF:----:sa:----	_	
+2-7	Hellsing	Hellsing	NP:siu#:--:----	_	
+2-8	,	,	ZD	_	
+2-9	som	som	US:----:--:----	_	
+2-10	jeg	jeg	PP:s-nc:--:-1n-	_	
+2-11	ikke	ikke	D-:----:--:u---	_	
+2-12	allerede	allerede	D-:----:--:u---	_	
+2-13	har	ve	VF:----:sa:----	_	
+2-14	beskrevet	beskrive	VT:siu#:t-:----	_	
+2-15	mit	mit	XF:----:--:----	_	
+2-16	forhold	forhold	NC:siun:--:----	_	
+2-17	til	til	T-:----:--:----	_	
+2-18	.	.	ZP	_	
+
+#id=3
+#text= Seneste skud på stammen er Salsa, som jeg varmt kan anbefale, hvis man kan lide at svinge rundt med pigerne :lol:
+3-1	Seneste	Seneste	XY:----:--:----	_	
+3-2	skud	skud	NC:siun:--:----	skud_F_sidste-(seneste,-nyeste,-..)-skud-på-stammen	
+3-3	på	på	T-:----:--:----	_	
+3-4	stammen	stamme	NC:sduc:--:----	_	
+3-5	er	være	VF:----:sa:----	_	
+3-6	Salsa	Salsa	NP:siu#:--:----	_	
+3-7	,	,	ZD	_	
+3-8	som	som	US:----:--:----	_	
+3-9	jeg	jeg	PP:s-nc:--:-1n-	_	
+3-10	varmt	varm	AD:----:--:p---	_	
+3-11	kan	kunne	VF:----:sa:----	_	
+3-12	anbefale	anbefale	VI:----:-a:----	_	
+3-13	,	,	ZD	_	
+3-14	hvis	hvis	CS:----:--:----	_	
+3-15	man	man	PI:#-uc:--:----	_	
+3-16	kan	kunne	VF:----:sa:----	_	
+3-17	lide	lide	VI:----:-a:----	_	
+3-18	at	at	UI:----:--:----	_	
+3-19	svinge	svinge	VI:----:-a:----	_	
+3-20	rundt	rundt	D-:----:--:u---	_	
+3-21	med	med	T-:----:--:----	_	
+3-22	pigerne	pige	NC:pdu#:--:----	_	
+3-23	:	:	ZP	_	
+3-24	lol	lol	NC:siuc:--:----	_	
+3-25	:	:	ZP	_	
+

@@ -1,0 +1,1648 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Le | value
+#id=1
+#text=Sikke et skud.
+1-1	Sikke	sikken	AC:p#u#:--:p---	_	
+1-2	et	en	PI:s-un:--:----	_	
+1-3	skud	skud	NC:siun:--:----	skud_1_4	
+1-4	.	.	ZP	_	
+
+#id=2
+#text=Da to galninge i december affyrede 14 skud fra en maskinpistol mod et hus tilhørende Høje Taastrups viceborgmester Tina Marianne Jensen (V) var der tale om drabsforsøg.
+2-1	Da	da	CS:----:--:----	_	
+2-2	to	to	LC:--u-:--:----	_	
+2-3	galninge	galning	NC:piu#:--:----	_	
+2-4	i	i	T-:----:--:----	_	
+2-5	december	december	NC:siuc:--:----	_	
+2-6	affyrede	affyre	VF:----:ta:----	_	
+2-7	14	14	LC:--u-:--:----	_	
+2-8	skud	skud	NC:piu#:--:----	skud_3	
+2-9	fra	fra	T-:----:--:----	_	
+2-10	en	en	PI:s-uc:--:----	_	
+2-11	maskinpistol	maskinpistol	NC:siuc:--:----	_	
+2-12	mod	mod	T-:----:--:----	_	
+2-13	et	en	PI:s-un:--:----	_	
+2-14	hus	hus	NC:siun:--:----	_	
+2-15	tilhørende	tilhøre	VP:##u#:s-:----	_	
+2-16	Høje	høj	AC:sdu#:--:p---	_	
+2-17	Taastrups	Taastrup	NP:sig#:--:----	_	
+2-18	viceborgmester	viceborgmester	NC:siuc:--:----	_	
+2-19	Tina	Tina	NP:siu#:--:----	_	
+2-20	Marianne	Marianne	NP:siu#:--:----	_	
+2-21	Jensen	Jensen	NP:siu#:--:----	_	
+2-22	(	(	ZD	_	
+2-23	V	V	NP:siu#:--:----	_	
+2-24	)	)	ZD	_	
+2-25	var	være	VF:----:ta:----	_	
+2-26	der	der	US:----:--:----	_	
+2-27	tale	tale	NC:siuc:--:----	_	
+2-28	om	om	T-:----:--:----	_	
+2-29	drabsforsøg	drabsforsøg	NC:siun:--:----	_	
+2-30	.	.	ZP	_	
+
+#id=3
+#text=To af skuddene gik ind gennem et vindue, og projektilerne pløjede ind i væggen i det rum, hvor politikeren befandt sig.
+3-1	To	to	LC:--u-:--:----	_	
+3-2	af	af	T-:----:--:----	_	
+3-3	skuddene	skud	NC:pdu#:--:----	skud_2	
+3-4	gik	gå	VF:----:ta:----	_	
+3-5	ind	ind	D-:----:--:u---	_	
+3-6	gennem	gennem	T-:----:--:----	_	
+3-7	et	en	PI:s-un:--:----	_	
+3-8	vindue	vindue	NC:siun:--:----	_	
+3-9	,	,	ZD	_	
+3-10	og	og	CC:----:--:----	_	
+3-11	projektilerne	projektil	NC:pdu#:--:----	_	
+3-12	pløjede	pløje	ta:----	_	
+3-13	ind	ind	D-:----:--:u---	_	
+3-14	i	i	T-:----:--:----	_	
+3-15	væggen	væg	NC:sduc:--:----	_	
+3-16	i	i	T-:----:--:----	_	
+3-17	det	den	PM:s-un:--:----	_	
+3-18	rum	rum	NC:siun:--:----	_	
+3-19	,	,	ZD	_	
+3-20	hvor	hvor	D-:----:--:u---	_	
+3-21	politikeren	politiker	NC:sduc:--:----	_	
+3-22	befandt	befinde	VF:----:ta:----	_	
+3-23	sig	sig	PP:#-u#:--:-3y-	_	
+3-24	.	.	ZP	_	
+
+#id=4
+#text=To mål var sammen med  ni mislykkede skud resultatet på hans personlige bundlinje.
+4-1	To	to	LC:--u-:--:----	_	
+4-2	mål	mål	NC:piu#:--:----	_	
+4-3	var	være	VF:----:ta:----	_	
+4-4	sammen	sammen	D-:----:--:u---	_	
+4-5	med	med	T-:----:--:----	_	
+4-6	ni	ni	XY:----:--:----	_	
+4-7	mislykkede	mislykket	AC:sdu#:--:p---	_	
+4-8	skud	skud	NC:siun:--:----	skud_1_4	
+4-9	resultatet	resultat	NC:sdun:--:----	_	
+4-10	på	på	T-:----:--:----	_	
+4-11	hans	hans	PO:#--#:--:-3ns	_	
+4-12	personlige	personlig	du#:--:p---	_	
+4-13	bundlinje	bundlinje	NC:siuc:--:----	_	
+4-14	.	.	ZP	_	
+
+#id=5
+#text=De erkender, at de sammen med en tredje røver - som blev anholdt af guldsmeden efter et voldsomt slagsmål - havde planlagt røveriet og med pistoler var trængt ind i butikken, hvor de affyrede to løse skud, inden de tog to ure til en samlet værdi af 370.000 kr. fra den 67-årige ekspedient Margit Hansen - der er mor til ejeren.
+5-1	De	de	PP:p-n#:--:-3n-	_	
+5-2	erkender	erkende	VF:----:sa:----	_	
+5-3	,	,	ZD	_	
+5-4	at	at	CS:----:--:----	_	
+5-5	de	de	PP:p-n#:--:-3n-	_	
+5-6	sammen	sammen	D-:----:--:u---	_	
+5-7	med	med	T-:----:--:----	_	
+5-8	en	en	PI:s-uc:--:----	_	
+5-9	tredje	tre	LO:--u#:--:----	_	
+5-10	røver	røver	NW:----:--:----	_	
+5-11	-	-	ZH	_	
+5-12	som	som	US:----:--:----	_	
+5-13	blev	blive	VF:----:ta:----	_	
+5-14	anholdt	anholde	VT:siu#:t-:----	_	
+5-15	af	af	T-:----:--:----	_	
+5-16	guldsmeden	guldsmed	NC:sduc:--:----	_	
+5-17	efter	efter	T-:----:--:----	_	
+5-18	et	en	PI:s-un:--:----	_	
+5-19	voldsomt	voldsom	AC:siun:--:p---	_	
+5-20	slagsmål	slagsmål	NC:siun:--:----	_	
+5-21	-	-	NC:piu#:--:----	_	
+5-22	havde	have	VF:----:ta:----	_	
+5-23	planlagt	planlagt	VT:siu#:t-:----	_	
+5-24	røveriet	røveri	NC:sdun:--:----	_	
+5-25	og	og	CC:----:--:----	_	
+5-26	med	med	T-:----:--:----	_	
+5-27	pistoler	pistol	NC:piu#:--:----	_	
+5-28	var	være	VF:----:ta:----	_	
+5-29	trængt	trænge	VT:siu#:t-:----	_	
+5-30	ind	ind	D-:----:--:u---	_	
+5-31	i	i	T-:----:--:----	_	
+5-32	butikken	butik	NC:sduc:--:----	_	
+5-33	,	,	ZD	_	
+5-34	hvor	hvor	D-:----:--:u---	_	
+5-35	de	de	PP:p-n#:--:-3n-	_	
+5-36	affyrede	affyre	VF:----:ta:----	_	
+5-37	to	to	LC:--u-:--:----	_	
+5-38	løse	løs	AC:p#u#:--:p---	_	
+5-39	skud	skud	NC:piu#:--:----	skud_3	
+5-40	,	,	ZD	_	
+5-41	inden	inden	CS:----:--:----	_	
+5-42	de	de	PP:p-n#:--:-3n-	_	
+5-43	tog	tage	VF:----:ta:----	_	
+5-44	to	to	LC:--u-:--:----	_	
+5-45	ure	ur	NC:piu#:--:----	_	
+5-46	til	til	T-:----:--:----	_	
+5-47	en	en	PI:s-uc:--:----	_	
+5-48	samlet	samle	VT:siu#:t-:----	_	
+5-49	værdi	værdi	NC:siuc:--:----	_	
+5-50	af	af	T-:----:--:----	_	
+5-51	370	370	LC:--u-:--:----	_	
+5-52	.	.	ZP	_	
+5-53	000	000	LC:--u-:--:----	_	
+5-54	kr	krone	NC:piu#:--:----	_	
+5-55	.	.	ZP	_	
+5-56	fra	fra	T-:----:--:----	_	
+5-57	den	den	PM:s-uc:--:----	_	
+5-58	67	67	LW:----:--:----	_	
+5-59	-	-	ZH	_	
+5-60	årige	årig	AC:sdu#:--:p---	_	
+5-61	ekspedient	ekspedient	NC:siuc:--:----	_	
+5-62	Margit	Margit	NP:siu#:--:----	_	
+5-63	Hansen	Hansen	NW:----:--:----	_	
+5-64	-	-	ZH	_	
+5-65	der	der	US:----:--:----	_	
+5-66	er	være	VF:----:sa:----	_	
+5-67	mor	mor	NC:siuc:--:----	_	
+5-68	til	til	T-:----:--:----	_	
+5-69	ejeren	ejer	NC:sduc:--:----	_	
+5-70	.	.	ZP	_	
+
+#id=6
+#text=Det seneste skud på Apple-stammen er den nye Macbook Air - den slankeste indtil nu.
+6-1	Det	den	PM:s-un:--:----	_	
+6-2	seneste	sen	AC:§du§:--:s---	_	
+6-3	skud	skud	NC:siun:--:----	skud_F_sidste-(seneste,-nyeste,-..)-skud-på-stammen	
+6-4	på	på	T-:----:--:----	_	
+6-5	Apple	Apple	NW:----:--:----	_	
+6-6	-	-	ZH	_	
+6-7	stammen	stamme	NC:sduc:--:----	_	
+6-8	er	være	VF:----:sa:----	_	
+6-9	den	den	PM:s-uc:--:----	_	
+6-10	nye	ny	AC:sdu#:--:p---	_	
+6-11	Macbook	Macbook	NP:siu#:--:----	_	
+6-12	Air	Air	XF:----:--:----	_	
+6-13	-	-	NC:piu#:--:----	_	
+6-14	den	den	PM:s-uc:--:----	_	
+6-15	slankeste	slankeste	XY:----:--:----	_	
+6-16	indtil	indtil	T-:----:--:----	_	
+6-17	nu	nu	D-:----:--:u---	_	
+6-18	.	.	ZP	_	
+
+#id=7
+#text= Torben Hansen hørte to skud fra butikken og to voldsomme drøn, da de smadrede montrerne, hvor de stjal to ure til en pris af hhv. 144.000 og 225.000 kr., som de ikke slap væk med, da guldsmeden modigt kastede sig ind i kampen. - Min mor har det efter omstændighederne ganske godt.
+7-1	Torben	Torben	NP:siu#:--:----	_	
+7-2	Hansen	Hansen	NP:siu#:--:----	_	
+7-3	hørte	høre	VF:----:ta:----	_	
+7-4	to	to	LC:--u-:--:----	_	
+7-5	skud	skud	NC:piu#:--:----	skud_1_4	
+7-6	fra	fra	T-:----:--:----	_	
+7-7	butikken	butik	NC:sduc:--:----	_	
+7-8	og	og	CC:----:--:----	_	
+7-9	to	to	LC:--u-:--:----	_	
+7-10	voldsomme	voldsom	AC:p#u#:--:p---	_	
+7-11	drøn	drøn	NC:piu#:--:----	_	
+7-12	,	,	ZD	_	
+7-13	da	da	CS:----:--:----	_	
+7-14	de	de	PP:p-n#:--:-3n-	_	
+7-15	smadrede	smadre	VF:----:ta:----	_	
+7-16	montrerne	montre	NC:pdu#:--:----	_	
+7-17	,	,	ZD	_	
+7-18	hvor	hvor	D-:----:--:u---	_	
+7-19	de	de	PP:p-n#:--:-3n-	_	
+7-20	stjal	stjæle	VF:----:ta:----	_	
+7-21	to	to	LC:--u-:--:----	_	
+7-22	ure	ur	NC:piu#:--:----	_	
+7-23	til	til	T-:----:--:----	_	
+7-24	en	en	PI:s-uc:--:----	_	
+7-25	pris	pris	NC:siuc:--:----	_	
+7-26	af	af	T-:----:--:----	_	
+7-27	hhv	henholdsvis	D-:----:--:u---	_	
+7-28	.	.	ZP	_	
+7-29	144	144	LC:--u-:--:----	_	
+7-30	.	.	ZP	_	
+7-31	000	000	LC:--u-:--:----	_	
+7-32	og	og	CC:----:--:----	_	
+7-33	225	225	LC:--u-:--:----	_	
+7-34	.	.	ZP	_	
+7-35	000	000	LC:--u-:--:----	_	
+7-36	kr	krone	NC:piu#:--:----	_	
+7-37	.	.	ZP	_	
+7-38	,	,	ZD	_	
+7-39	som	som	US:----:--:----	_	
+7-40	de	de	PP:p-n#:--:-3n-	_	
+7-41	ikke	ikke	D-:----:--:u---	_	
+7-42	slap	slippe	VF:----:ta:----	_	
+7-43	væk	væk	D-:----:--:u---	_	
+7-44	med	med	T-:----:--:----	_	
+7-45	,	,	ZD	_	
+7-46	da	da	CS:----:--:----	_	
+7-47	guldsmeden	guldsmed	NC:sduc:--:----	_	
+7-48	modigt	modig	AD:----:--:p---	_	
+7-49	kastede	kaste	VF:----:ta:----	_	
+7-50	sig	sig	PP:#-u#:--:-3y-	_	
+7-51	ind	ind	D-:----:--:u---	_	
+7-52	i	i	T-:----:--:----	_	
+7-53	kampen	kamp	NC:sduc:--:----	_	
+7-54	.	.	ZP	_	
+7-55	-	-	ZH	_	
+7-56	Min	Min	XY:----:--:----	_	
+7-57	mor	mor	NC:siuc:--:----	_	
+7-58	har	have	VF:----:sa:----	_	
+7-59	det	det	PP:s-un:--:-3n-	_	
+7-60	efter	efter	T-:----:--:----	_	
+7-61	omstændighederne	omstændighed	NC:pdu#:--:----	_	
+7-62	ganske	ganske	D-:----:--:u---	_	
+7-63	godt	god	AD:----:--:p---	_	
+7-64	.	.	ZP	_	
+
+#id=8
+#text= Deivids reducering bragte godt nok ild på cigaretterne igen, men så trådte Kanoute til med et lækkert forwardmål, og da Christian Poulsen lige før pausefløjtet reddede Edus skud på selve målstregen, var roen genoprettet på tribunerne.
+8-1	Deivids	Deivids	NP:sig#:--:----	_	
+8-2	reducering	reducering	NC:siuc:--:----	_	
+8-3	bragte	bringe	VF:----:ta:----	_	
+8-4	godt	god	AD:----:--:p---	_	
+8-5	nok	nok	AC:§§u§:--:p---	_	
+8-6	ild	ild	NC:siuc:--:----	_	
+8-7	på	på	T-:----:--:----	_	
+8-8	cigaretterne	cigaret	NC:pdu#:--:----	_	
+8-9	igen	igen	D-:----:--:u---	_	
+8-10	,	,	ZD	_	
+8-11	men	men	CC:----:--:----	_	
+8-12	så	så	D-:----:--:u---	_	
+8-13	trådte	træde	VF:----:ta:----	_	
+8-14	Kanoute	Kanoute	NP:siu#:--:----	_	
+8-15	til	til	T-:----:--:----	_	
+8-16	med	med	T-:----:--:----	_	
+8-17	et	en	PI:s-un:--:----	_	
+8-18	lækkert	lækker	AC:siun:--:p---	_	
+8-19	forwardmål	forwardmål	NC:siun:--:----	_	
+8-20	,	,	ZD	_	
+8-21	og	og	CC:----:--:----	_	
+8-22	da	da	CS:----:--:----	_	
+8-23	Christian	Christian	NP:siu#:--:----	_	
+8-24	Poulsen	Poulsen	NP:siu#:--:----	_	
+8-25	lige	lige	D-:----:--:u---	_	
+8-26	før	før	T-:----:--:----	_	
+8-27	pausefløjtet	pausefløjt	NC:sdun:--:----	_	
+8-28	reddede	redde	VF:----:ta:----	_	
+8-29	Edus	Edus	NP:sig#:--:----	_	
+8-30	skud	skud	NC:siun:--:----	skud_1_4	
+8-31	på	på	T-:----:--:----	_	
+8-32	selve	selve	AC:§§u§:--:p---	_	
+8-33	målstregen	målstreg	NC:sduc:--:----	_	
+8-34	,	,	ZD	_	
+8-35	var	være	VF:----:ta:----	_	
+8-36	roen	ro	NC:sduc:--:----	_	
+8-37	genoprettet	genoprette	VT:siu#:t-:----	_	
+8-38	på	på	T-:----:--:----	_	
+8-39	tribunerne	tribun	NC:pdu#:--:----	_	
+8-40	.	.	ZP	_	
+
+#id=9
+#text=Der blev affyret to skud i butikken.
+9-1	Der	der	US:----:--:----	_	
+9-2	blev	blive	VF:----:ta:----	_	
+9-3	affyret	affyre	VT:siu#:t-:----	_	
+9-4	to	to	LC:--u-:--:----	_	
+9-5	skud	skud	NC:piu#:--:----	skud_3	
+9-6	i	i	T-:----:--:----	_	
+9-7	butikken	butik	NC:sduc:--:----	_	
+9-8	.	.	ZP	_	
+
+#id=10
+#text= Skyderiet fandt sted ved frokosttid, hvor mellem 10 og 15 mennesker befandt sig i restauranten, og skuddene fik kunderne til panisk at flygte ud af restauranten.
+10-1	Skyderiet	skyderi	NC:sdun:--:----	_	
+10-2	fandt	finde	VF:----:ta:----	_	
+10-3	sted	sted	NC:siun:--:----	_	
+10-4	ved	ved	T-:----:--:----	_	
+10-5	frokosttid	frokosttid	NC:siuc:--:----	_	
+10-6	,	,	ZD	_	
+10-7	hvor	hvor	D-:----:--:u---	_	
+10-8	mellem	mellem	T-:----:--:----	_	
+10-9	10	10	LC:--u-:--:----	_	
+10-10	og	og	CC:----:--:----	_	
+10-11	15	15	LC:--u-:--:----	_	
+10-12	mennesker	menneske	NC:piu#:--:----	_	
+10-13	befandt	befinde	VF:----:ta:----	_	
+10-14	sig	sig	PP:#-u#:--:-3y-	_	
+10-15	i	i	T-:----:--:----	_	
+10-16	restauranten	restaurant	NC:sduc:--:----	_	
+10-17	,	,	ZD	_	
+10-18	og	og	CC:----:--:----	_	
+10-19	skuddene	skud	NC:pdu#:--:----	skud_1_4	
+10-20	fik	få	VF:----:ta:----	_	
+10-21	kunderne	kunde	NC:pdu#:--:----	_	
+10-22	til	til	T-:----:--:----	_	
+10-23	panisk	panisk	AC:siu§:--:p---	_	
+10-24	at	at	UI:----:--:----	_	
+10-25	flygte	flygte	VI:----:-a:----	_	
+10-26	ud	ud	D-:----:--:u---	_	
+10-27	af	af	T-:----:--:----	_	
+10-28	restauranten	restaurant	NC:sduc:--:----	_	
+10-29	.	.	ZP	_	
+
+#id=11
+#text=skud på mål havde Herning i kampen mod Hvidovre, der kun behøvede 25 forsøg til at score sine fem mål
+11-1	skud	skud	NC:siun:--:----	skud_1_4	
+11-2	på	på	T-:----:--:----	_	
+11-3	mål	mål	NC:siun:--:----	_	
+11-4	havde	have	VF:----:ta:----	_	
+11-5	Herning	Herning	NP:siu#:--:----	_	
+11-6	i	i	T-:----:--:----	_	
+11-7	kampen	kamp	:sduc:--:----	_	
+11-8	mod	mod	T-:----:--:----	_	
+11-9	Hvidovre	Hvidovre	NP:siu#:--:----	_	
+11-10	,	,	ZD	_	
+11-11	der	der	US:----:--:----	_	
+11-12	kun	kun	D-:----:--:u---	_	
+11-13	behøvede	behøve	VF:----:ta:----	_	
+11-14	25	25	LC:--u-:--:----	_	
+11-15	forsøg	forsøg	NC:piu#:--:----	_	
+11-16	til	til	T-:----:--:----	_	
+11-17	at	at	UI:----:--:----	_	
+11-18	score	score	VI:----:-a:----	_	
+11-19	sine	sin	PO:p--#:--:-3ys	_	
+11-20	fem	fem	LC:--u-:--:----	_	
+11-21	mål	mål	NC:piu#:--:----	_	
+
+#id=12
+#text= Da de efter en halv times tid nærmede sig rækkehuset, hørte den yngste søn Danni to skud og løb hjem.
+12-1	Da	da	CS:----:--:----	_	
+12-2	de	de	PP:p-n#:--:-3n-	_	
+12-3	efter	efter	T-:----:--:----	_	
+12-4	en	en	PI:s-uc:--:----	_	
+12-5	halv	halv	AC:siuc:--:p---	_	
+12-6	times	time	NC:sigc:--:----	_	
+12-7	tid	tid	NC:siuc:--:----	_	
+12-8	nærmede	nærme	VF:----:ta:----	_	
+12-9	sig	sig	PP:#-u#:--:-3y-	_	
+12-10	rækkehuset	rækkehus	NC:sdun:--:----	_	
+12-11	,	,	ZD	_	
+12-12	hørte	høre	VF:----:ta:----	_	
+12-13	den	den	PM:s-uc:--:----	_	
+12-14	yngste	ung	AC:§du§:--:s---	_	
+12-15	søn	søn	NC:siuc:--:----	_	
+12-16	Danni	Danni	NP:siu#:--:----	_	
+12-17	to	to	LC:--u-:--:----	_	
+12-18	skud	skud	NC:piu#:--:----	skud_1_4	
+12-19	og	og	CC:----:--:----	_	
+12-20	løb	løbe	VF:----:ta:----	_	
+12-21	hjem	hjem	D-:----:--:u---	_	
+12-22	.	.	ZP	_	
+
+#id=13
+#text=Sønnerne  nåede hjem, netop da skuddene var faldet, og fik overmandet de tre overfaldsmænd, mens Tina og datteren Michelle ringede til politiet.
+13-1	Sønnerne	søn	NC:pdu#:--:----	_	
+13-2	nåede	nå	VF:----:ta:----	_	
+13-3	hjem	hjem	D-:----:--:u---	_	
+13-4	,	,	ZD	_	
+13-5	netop	netop	D-:----:--:u---	_	
+13-6	da	da	CS:----:--:----	_	
+13-7	skuddene	skud	NC:pdu#:--:----	skud_1_4	
+13-8	var	være	VF:----:ta:----	_	
+13-9	faldet	falde	VT:siu#:t-:----	_	
+13-10	,	,	ZD	_	
+13-11	og	og	CC:----:--:----	_	
+13-12	fik	få	VF:----:ta:----	_	
+13-13	overmandet	overmande	VT:siu#:t-:----	_	
+13-14	de	den	PM:p-u#:--:----	_	
+13-15	tre	tre	LC:--u-:--:----	_	
+13-16	overfaldsmænd	overfaldsmand	NC:piu#:--:----	_	
+13-17	,	,	ZD	_	
+13-18	mens	mens	CS:----:--:----	_	
+13-19	Tina	Tina	NP:siu#:--:----	_	
+13-20	og	og	CC:----:--:----	_	
+13-21	datteren	datter	NC:sduc:--:----	_	
+13-22	Michelle	Michelle	NP:siu#:--:----	_	
+13-23	ringede	ringe	VF:----:ta:----	_	
+13-24	til	til	T-:----:--:----	_	
+13-25	politiet	politi	NC:sdun:--:----	_	
+13-26	.	.	ZP	_	
+
+#id=14
+#text=Med sit mål bragte han New York Islanders foran 3-2 mod Philadelphia Flyers i tredje periode, men trods føringen og storspil af Islanders-målmand Wade Dubielewicz - der reddede 51 skud på mål - tabte newyorkerne.
+14-1	Med	med	T-:----:--:----	_	
+14-2	sit	sin	PO:s--n:--:-3ys	_	
+14-3	mål	mål	NC:siun:--:----	_	
+14-4	bragte	bringe	VF:----:ta:----	_	
+14-5	han	han	PP:s-nc:--:-3n-	_	
+14-6	New	New	NP:siu#:--:----	_	
+14-7	York	York	NP:siu#:--:----	_	
+14-8	Islanders	Islanders	NP:siu#:--:----	_	
+14-9	foran	foran	T-:----:--:----	_	
+14-10	3	3	LC:--u-:--:----	_	
+14-11	-	-	ZH	_	
+14-12	2	2	LC:--u-:--:----	_	
+14-13	mod	mod	T-:----:--:----	_	
+14-14	Philadelphia	Philadelphia	NP:siu#:--:----	_	
+14-15	Flyers	flyer	NC:piu#:--:----	_	
+14-16	i	i	T-:----:--:----	_	
+14-17	tredje	tre	LO:--u#:--:----	_	
+14-18	periode	periode	NC:siuc:--:----	_	
+14-19	,	,	ZD	_	
+14-20	men	men	CC:----:--:----	_	
+14-21	trods	trods	T-:----:--:----	_	
+14-22	føringen	føring	NC:sduc:--:----	_	
+14-23	og	og	CC:----:--:----	_	
+14-24	storspil	storspil	NC:siun:--:----	_	
+14-25	af	af	T-:----:--:----	_	
+14-26	Islanders	Islanders	NP:siu#:--:----	_	
+14-27	-	-	ZH	_	
+14-28	målmand	målmand	NC:siuc:--:----	_	
+14-29	Wade	Wade	NP:siu#:--:----	_	
+14-30	Dubielewicz	Dubielewicz	NP:siu#:--:----	_	
+14-31	-	-	ZH	_	
+14-32	der	der	US:----:--:----	_	
+14-33	reddede	redde	VF:----:ta:----	_	
+14-34	51	51	LC:--u-:--:----	_	
+14-35	skud	skud	NC:piu#:--:----	skud_1_4	
+14-36	på	på	T-:----:--:----	_	
+14-37	mål	mål	NC:siun:--:----	_	
+14-38	-	-	NC:piu#:--:----	_	
+14-39	tabte	tabe	VF:----:ta:----	_	
+14-40	newyorkerne	newyorker	NC:pdu#:--:----	_	
+14-41	.	.	ZP	_	
+
+#id=15
+#text=Derfor havde landsholdsbacken personligt svært ved at glæde sig over sæsonens bedste kamp, som var fejlfri indtil det sidste skud et minut før tid.
+15-1	Derfor	derfor	D-:----:--:u---	_	
+15-2	havde	have	VF:----:ta:----	_	
+15-3	landsholdsbacken	landsholdsback	NC:sduc:--:----	_	
+15-4	personligt	personlig	AD:----:--:p---	_	
+15-5	svært	svær	AC:siun:--:p---	_	
+15-6	ved	ved	T-:----:--:----	_	
+15-7	at	at	UI:----:--:----	_	
+15-8	glæde	glæde	VI:----:-a:----	_	
+15-9	sig	sig	PP:#-u#:--:-3y-	_	
+15-10	over	over	T-:----:--:----	_	
+15-11	sæsonens	sæson	NC:sdgc:--:----	_	
+15-12	bedste	god	AC:§du§:--:s---	_	
+15-13	kamp	kamp	NC:siuc:--:----	_	
+15-14	,	,	ZD	_	
+15-15	som	som	US:----:--:----	_	
+15-16	var	være	VF:----:ta:----	_	
+15-17	fejlfri	fejlfri	AC:siuc:--:p---	_	
+15-18	indtil	indtil	T-:----:--:----	_	
+15-19	det	den	PM:s-un:--:----	_	
+15-20	sidste	sidste	AC:§§u§:--:p---	_	
+15-21	skud	skud	NC:siun:--:----	skud_1_4	
+15-22	et	en	PI:s-un:--:----	_	
+15-23	minut	minut	NC:siun:--:----	_	
+15-24	før	før	T-:----:--:----	_	
+15-25	tid	tid	NC:siuc:--:----	_	
+15-26	.	.	ZP	_	
+
+#id=16
+#text= Vi kreerer de største chancer, mens de vel bare har to gode skud.
+16-1	Vi	vi	PP:p-nc:--:-1n-	_	
+16-2	kreerer	kreere	VF:----:sa:----	_	
+16-3	de	den	PM:p-u#:--:----	_	
+16-4	største	stor	AC:§du§:--:s---	_	
+16-5	chancer	chance	NC:piu#:--:----	_	
+16-6	,	,	ZD	_	
+16-7	mens	mens	CS:----:--:----	_	
+16-8	de	de	PP:p-n#:--:-3n-	_	
+16-9	vel	vel	D-:----:--:u---	_	
+16-10	bare	bare	D-:----:--:u---	_	
+16-11	har	have	VF:----:sa:----	_	
+16-12	to	to	LC:--u-:--:----	_	
+16-13	gode	god	AC:p#u#:--:p---	_	
+16-14	skud	skud	NC:piu#:--:----	skud_1_4	
+16-15	.	.	ZP	_	
+
+#id=17
+#text=Og på vanlig italiensk manér var det dommeren, der stod for skud, da den pressede træner Carlo Ancelotti bagefter skulle forklare 1-2-nederlaget til Atalanta.
+17-1	Og	og	CC:----:--:----	_	
+17-2	på	på	T-:----:--:----	_	
+17-3	vanlig	vanlig	AC:siuc:--:p---	_	
+17-4	italiensk	italiensk	AC:siu§:--:p---	_	
+17-5	manér	manér	NC:siuc:--:----	_	
+17-6	var	være	VF:----:ta:----	_	
+17-7	det	det	PP:s-un:--:-3n-	_	
+17-8	dommeren	dommer	NC:sduc:--:----	_	
+17-9	,	,	ZD	_	
+17-10	der	der	US:----:--:----	_	
+17-11	stod	stå	VF:----:ta:----	_	
+17-12	for	for	T-:----:--:----	_	
+17-13	skud	skud	NC:siun:--:----	skud_F_stå-for-skud	
+17-14	,	,	ZD	_	
+17-15	da	da	CS:----:--:----	_	
+17-16	den	den	PM:s-uc:--:----	_	
+17-17	pressede	presse	VP:sdu#:t-:----	_	
+17-18	træner	træne	VF:----:sa:----	_	
+17-19	Carlo	Carlo	NP:siu#:--:----	_	
+17-20	Ancelotti	Ancelotti	NP:siu#:--:----	_	
+17-21	bagefter	bagefter	D-:----:--:u---	_	
+17-22	skulle	skulle	VF:----:ta:----	_	
+17-23	forklare	forklare	VI:----:-a:----	_	
+17-24	1	1	LC:--u-:--:----	_	
+17-25	-	-	ZH	_	
+17-26	2	2	LW:----:--:----	_	
+17-27	-	-	ZH	_	
+17-28	nederlaget	nederlag	NC:sdun:--:----	_	
+17-29	til	til	T-:----:--:----	_	
+17-30	Atalanta	Atalanta	NP:siu#:--:----	_	
+17-31	.	.	ZP	_	
+
+#id=18
+#text= Manden tog et jagtgevær frem og affyrede skud op i luften og langs jorden.
+18-1	Manden	mand	NC:sduc:--:----	_	
+18-2	tog	tage	VF:----:ta:----	_	
+18-3	et	en	PI:s-un:--:----	_	
+18-4	jagtgevær	jagtgevær	NC:siun:--:----	_	
+18-5	frem	frem	D-:----:--:u---	_	
+18-6	og	og	CC:----:--:----	_	
+18-7	affyrede	affyre	VP:p#u#:t-:----	_	
+18-8	skud	skud	NC:piu#:--:----	skud_3	
+18-9	op	op	D-:----:--:u---	_	
+18-10	i	i	T-:----:--:----	_	
+18-11	luften	luft	NC:sduc:--:----	_	
+18-12	og	og	CC:----:--:----	_	
+18-13	langs	langs	T-:----:--:----	_	
+18-14	jorden	jord	NC:sduc:--:----	_	
+18-15	.	.	ZP	_	
+
+#id=19
+#text=Først med et par kontrollerede salver a fem-syv skud, men efter et klap på skulderen, får aftrækkeren et fast klem, og de sidste 25 skud flås ud af patronbæltet og smadrer fuldstændig målet synder og sammen.
+19-1	Først	først	D-:----:--:u---	_	
+19-2	med	med	T-:----:--:----	_	
+19-3	et	en	un:--:----	_	
+19-4	par	par	NC:siun:--:----	_	
+19-5	kontrollerede	kontrollere	VF:----:ta:----	_	
+19-6	salver	salve	NC:piu#:--:----	_	
+19-7	a	anden	PI:s-un:--:----	_	
+19-8	fem	fem	LW:----:--:----	_	
+19-9	-	-	ZH	_	
+19-10	syv	syv	LC:--u-:--:----	_	
+19-11	skud	skud	NC:piu#:--:----	_	
+19-12	,	,	ZD	_	
+19-13	men	men	CC:----:--:----	_	
+19-14	efter	efter	T-:----:--:----	_	
+19-15	et	en	PI:s-un:--:----	_	
+19-16	klap	klap	NC:siun:--:----	_	
+19-17	på	på	T-:----:--:----	_	
+19-18	skulderen	skulder	NC:sduc:--:----	_	
+19-19	,	,	ZD	_	
+19-20	får	få	VF:----:sa:----	_	
+19-21	aftrækkeren	aftrækker	NC:sduc:--:----	_	
+19-22	et	en	PI:s-un:--:----	_	
+19-23	fast	fast	AC:siu§:--:p---	_	
+19-24	klem	klem	NC:siun:--:----	_	
+19-25	,	,	ZD	_	
+19-26	og	og	CC:----:--:----	_	
+19-27	de	den	PM:p-u#:--:----	_	
+19-28	sidste	sidste	AC:§§u§:--:p---	_	
+19-29	25	25	LC:--u-:--:----	_	
+19-30	skud	skud	NC:piu#:--:----	skud_2	
+19-31	flås	flå	VF:----:sp:----	_	
+19-32	ud	ud	D-:----:--:u---	_	
+19-33	af	af	T-:----:--:----	_	
+19-34	patronbæltet	patronbælte	NC:sdun:--:----	_	
+19-35	og	og	CC:----:--:----	_	
+19-36	smadrer	smadre	VF:----:sa:----	_	
+19-37	fuldstændig	fuldstændig	AD:----:--:p---	_	
+19-38	målet	mål	NC:sdun:--:----	_	
+19-39	synder	synde	VF:----:sa:----	_	
+19-40	og	og	CC:----:--:----	_	
+19-41	sammen	sammen	D-:----:--:u---	_	
+19-42	.	.	ZP	_	
+
+#id=20
+#text=En SMG (submachine gun) som MP5, der bruger 9 mm patroner, koster små 200 kroner for 50 skud, mens en riffel som M4 eller AK47 koster 120 kroner for 25 skud.
+20-1	En	en	PI:s-uc:--:----	_	
+20-2	SMG	SMG	NP:siu#:--:----	_	
+20-3	(	(	ZD	_	
+20-4	submachine	submachin	PM:p-u#:--:----	_	
+20-5	gun	gun	NW:----:--:----	_	
+20-6	)	)	ZD	_	
+20-7	som	som	US:----:--:----	_	
+20-8	MP5	MP5	NP:siu#:--:----	_	
+20-9	,	,	ZD	_	
+20-10	der	der	US:----:--:----	_	
+20-11	bruger	bruge	VF:----:sa:----	_	
+20-12	9	9	LC:--u-:--:----	_	
+20-13	mm	millimeter	NC:piu#:--:----	_	
+20-14	patroner	patron	NC:piu#:--:----	_	
+20-15	,	,	ZD	_	
+20-16	koster	koste	VF:----:sa:----	_	
+20-17	små	lille	AC:p#u#:--:p---	_	
+20-18	200	200	LC:--u-:--:----	_	
+20-19	kroner	krone	NC:piu#:--:----	_	
+20-20	for	for	T-:----:--:----	_	
+20-21	50	50	LC:--u-:--:----	_	
+20-22	skud	skud	NC:piu#:--:----	_	
+20-23	,	,	ZD	_	
+20-24	mens	mens	CS:----:--:----	_	
+20-25	en	en	PI:s-uc:--:----	_	
+20-26	riffel	riffel	NC:siuc:--:----	_	
+20-27	som	som	US:----:--:----	_	
+20-28	M4	M4	NP:siu#:--:----	_	
+20-29	eller	eller	CC:----:--:----	_	
+20-30	AK47	AK47	NP:siu#:--:----	_	
+20-31	koster	koste	VF:----:sa:----	_	
+20-32	120	120	LC:--u-:--:----	_	
+20-33	kroner	krone	NC:piu#:--:----	_	
+20-34	for	for	T-:----:--:----	_	
+20-35	25	25	LC:--u-:--:----	_	
+20-36	skud	skud	NC:piu#:--:----	skud_2	
+20-37	.	.	ZP	_	
+
+#id=21
+#text= Jeg har det ikke rart med det, erkender Lars Olsen på  en dag, da de stribede medaljedrømme fik et ordentligt skud for boven.
+21-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+21-2	har	have	VF:----:sa:----	_	
+21-3	det	det	PP:s-un:--:-3n-	_	
+21-4	ikke	ikke	D-:----:--:u---	_	
+21-5	rart	rar	AD:----:--:p---	_	
+21-6	med	med	T-:----:--:----	_	
+21-7	det	det	PP:s-un:--:-3n-	_	
+21-8	,	,	ZD	_	
+21-9	erkender	erkende	VF:----:sa:----	_	
+21-10	Lars	Lars	NP:siu#:--:----	_	
+21-11	Olsen	Olsen	NP:siu#:--:----	_	
+21-12	på	på	T-:----:--:----	_	
+21-13	en	en	PI:s-uc:--:----	_	
+21-14	dag	dag	NC:siuc:--:----	_	
+21-15	,	,	ZD	_	
+21-16	da	da	CS:----:--:----	_	
+21-17	de	den	PM:p-u#:--:----	_	
+21-18	stribede	stribe	VP:p#u#:t-:----	_	
+21-19	medaljedrømme	medaljedrøm	NC:piu#:--:----	_	
+21-20	fik	få	VF:----:ta:----	_	
+21-21	et	en	PI:s-un:--:----	_	
+21-22	ordentligt	ordentlig	AC:siun:--:p---	_	
+21-23	skud	skud	NC:siun:--:----	skud_F_skud-for-boven	
+21-24	for	for	T-:----:--:----	_	
+21-25	boven	bov	NC:sduc:--:----	_	
+21-26	.	.	ZP	_	
+
+#id=22
+#text= Her var kampens store målskytte Lars Møller Madsen meget tæt på, men skuddet ramte denne gang 'kun' stolpen.
+22-1	Her	her	D-:----:--:u---	_	
+22-2	var	være	VF:----:ta:----	_	
+22-3	kampens	kamp	NC:sdgc:--:----	_	
+22-4	store	stor	AC:sdu#:--:p---	_	
+22-5	målskytte	målskytte	NC:siuc:--:----	_	
+22-6	Lars	Lars	NP:siu#:--:----	_	
+22-7	Møller	Møller	NP:siu#:--:----	_	
+22-8	Madsen	Madsen	NP:siu#:--:----	_	
+22-9	meget	megen	AD:----:--:p---	_	
+22-10	tæt	tæt	AD:----:--:p---	_	
+22-11	på	på	T-:----:--:----	_	
+22-12	,	,	ZD	_	
+22-13	men	men	CC:----:--:----	_	
+22-14	skuddet	skud	NC:sdun:--:----	skud_1_4	
+22-15	ramte	ramme	VF:----:ta:----	_	
+22-16	denne	denne	PM:s-uc:--:----	_	
+22-17	gang	gang	NC:siuc:--:----	_	
+22-18	'	'	ZA	_	
+22-19	kun	kun	D-:----:--:u---	_	
+22-20	'	'	ZA	_	
+22-21	stolpen	stolpe	NC:sduc:--:----	_	
+22-22	.	.	ZP	_	
+
+#id=23
+#text=Seneste skud på stammen er, at også Juventus er brændt varm på den danske Sevilla-spiller.
+23-1	Seneste	Seneste	XY:----:--:----	_	
+23-2	skud	skud	NC:siun:--:----	skud_F_sidste-(seneste,-nyeste,-..)-skud-på-stammen	
+23-3	på	på	T-:----:--:----	_	
+23-4	stammen	stamme	NC:sduc:--:----	_	
+23-5	er	være	VF:----:sa:----	_	
+23-6	,	,	ZD	_	
+23-7	at	at	CS:----:--:----	_	
+23-8	også	også	D-:----:--:u---	_	
+23-9	Juventus	Juventus	NP:siu#:--:----	_	
+23-10	er	være	VF:----:sa:----	_	
+23-11	brændt	brænde	VT:siu#:t-:----	_	
+23-12	varm	varm	AC:siuc:--:p---	_	
+23-13	på	på	T-:----:--:----	_	
+23-14	den	den	PM:s-uc:--:----	_	
+23-15	danske	dansk	AC:sdu#:--:p---	_	
+23-16	Sevilla	Sevilla	NW:----:--:----	_	
+23-17	-	-	ZH	_	
+23-18	spiller	spille	NC:piu#:--:----	_	
+23-19	.	.	ZP	_	
+
+#id=24
+#text= Michael Carrick trådte nærmest rundt i bolden på målstregen, før Sylvain Distin fik afværget, og Patrice Evra bragede et skud på stolpen.
+24-1	Michael	Michael	NP:siu#:--:----	_	
+24-2	Carrick	Carrick	NP:siu#:--:----	_	
+24-3	trådte	træde	VF:----:ta:----	_	
+24-4	nærmest	nær	AD:----:--:s---	_	
+24-5	rundt	rundt	D-:----:--:u---	_	
+24-6	i	i	T-:----:--:----	_	
+24-7	bolden	bold	NC:sduc:--:----	_	
+24-8	på	på	T-:----:--:----	_	
+24-9	målstregen	målstreg	NC:sduc:--:----	_	
+24-10	,	,	ZD	_	
+24-11	før	før	CS:----:--:----	_	
+24-12	Sylvain	Sylvain	NP:siu#:--:----	_	
+24-13	Distin	Distin	NP:siu#:--:----	_	
+24-14	fik	få	VF:----:ta:----	_	
+24-15	afværget	afværge	VT:siu#:t-:----	_	
+24-16	,	,	ZD	_	
+24-17	og	og	CC:----:--:----	_	
+24-18	Patrice	Patrice	NP:siu#:--:----	_	
+24-19	Evra	Evra	NP:siu#:--:----	_	
+24-20	bragede	brage	VF:----:ta:----	_	
+24-21	et	en	PI:s-un:--:----	_	
+24-22	skud	skud	NC:siun:--:----	skud_1_4	
+24-23	på	på	T-:----:--:----	_	
+24-24	stolpen	stolpe	NC:sduc:--:----	_	
+24-25	.	.	ZP	_	
+
+#id=25
+#text= Med 14 mål på 15 skud (det sidste ramte træværket, red.) tilsat mindst 10 assister var der Mikkelsaften et halvt år før kalenderen, 28. september.
+25-1	Med	med	T-:----:--:----	_	
+25-2	14	14	LC:--u-:--:----	_	
+25-3	mål	mål	NC:piu#:--:----	_	
+25-4	på	på	T-:----:--:----	_	
+25-5	15	15	LC:--u-:--:----	_	
+25-6	skud	skud	NC:piu#:--:----	skud_1_4	
+25-7	(	(	ZD	_	
+25-8	det	den	PM:s-un:--:----	_	
+25-9	sidste	sidste	AC:§§u§:--:p---	_	
+25-10	ramte	ramme	VF:----:ta:----	_	
+25-11	træværket	træværk	NC:sdun:--:----	_	
+25-12	,	,	ZD	_	
+25-13	red	ride	VF:----:ta:----	_	
+25-14	.	.	ZP	_	
+25-15	)	)	ZD	_	
+25-16	tilsat	tilsætte	VT:siu#:t-:----	_	
+25-17	mindst	liden	AD:----:--:s---	_	
+25-18	10	10	LC:--u-:--:----	_	
+25-19	assister	assister	XY:----:--:----	_	
+25-20	var	være	VF:----:ta:----	_	
+25-21	der	der	US:----:--:----	_	
+25-22	Mikkelsaften	Mikkelsaften	NP:siu#:--:----	_	
+25-23	et	en	PI:s-un:--:----	_	
+25-24	halvt	halv	AC:siun:--:p---	_	
+25-25	år	år	NC:siun:--:----	_	
+25-26	før	før	T-:----:--:----	_	
+25-27	kalenderen	kalender	NC:sduc:--:----	_	
+25-28	,	,	ZD	_	
+25-29	28	28	LC:--u-:--:----	_	
+25-30	.	.	ZP	_	
+25-31	september	september	NC:siuc:--:----	_	
+25-32	.	.	ZP	_	
+
+#id=26
+#text=Alaa Abu Dheim var chauffør og havde tit kørt ærinder til Markaz HaRav-seminaret, hvor han torsdag affyrede 500-600 skud mod forsvarsløse studerende.
+26-1	Alaa	Alaa	NP:siu#:--:----	_	
+26-2	Abu	Abu	NP:siu#:--:----	_	
+26-3	Dheim	Dheim	NP:siu#:--:----	_	
+26-4	var	være	VF:----:ta:----	_	
+26-5	chauffør	chauffør	NC:siuc:--:----	_	
+26-6	og	og	CC:----:--:----	_	
+26-7	havde	have	VF:----:ta:----	_	
+26-8	tit	tit	D-:----:--:u---	_	
+26-9	kørt	køre	VT:siu#:t-:----	_	
+26-10	ærinder	ærinde	NC:piu#:--:----	_	
+26-11	til	til	T-:----:--:----	_	
+26-12	Markaz	Markaz	NP:siu#:--:----	_	
+26-13	HaRav	HaRav	NP:siu#:--:----	_	
+26-14	-	-	ZH	_	
+26-15	seminaret	seminar	NC:sdun:--:----	_	
+26-16	,	,	ZD	_	
+26-17	hvor	hvor	D-:----:--:u---	_	
+26-18	han	han	PP:s-nc:--:-3n-	_	
+26-19	torsdag	torsdag	NC:siuc:--:----	_	
+26-20	affyrede	affyre	VF:----:ta:----	_	
+26-21	500	500	LC:--u-:--:----	_	
+26-22	-	-	ZH	_	
+26-23	600	600	LC:--u-:--:----	_	
+26-24	skud	skud	NC:piu#:--:----	skud_3	
+26-25	mod	mod	T-:----:--:----	_	
+26-26	forsvarsløse	forsvarsløs	AC:p#u#:--:p---	_	
+26-27	studerende	studerende	NC:p§uc:--:----	_	
+26-28	.	.	ZP	_	
+
+#id=27
+#text= Han affyrede 500-600 skud i løbet af cirka ti minutter, fortæller et øjenvidne.
+27-1	Han	han	PP:s-nc:--:-3n-	_	
+27-2	affyrede	affyre	VF:----:ta:----	_	
+27-3	500	500	LC:--u-:--:----	_	
+27-4	-	-	ZH	_	
+27-5	600	600	LC:--u-:--:----	_	
+27-6	skud	skud	NC:piu#:--:----	skud_3	
+27-7	i	i	T-:----:--:----	_	
+27-8	løbet	løb	NC:sdun:--:----	_	
+27-9	af	af	T-:----:--:----	_	
+27-10	cirka	cirka	D-:----:--:u---	_	
+27-11	ti	ti	LC:--u-:--:----	_	
+27-12	minutter	minut	NC:piu#:--:----	_	
+27-13	,	,	ZD	_	
+27-14	fortæller	fortælle	VF:----:sa:----	_	
+27-15	et	en	PI:s-un:--:----	_	
+27-16	øjenvidne	øjenvidne	NC:siun:--:----	_	
+27-17	.	.	ZP	_	
+
+#id=28
+#text=Så hvis jeg var dig, ville jeg stille og roligt begynde at tage nogle skud oppe i de højere levels for ca. 30 procent af bankrollen.
+28-1	Så	så	D-:----:--:u---	_	
+28-2	hvis	hvis	CS:----:--:----	_	
+28-3	jeg	jeg	PP:s-nc:--:-1n-	_	
+28-4	var	være	VF:----:ta:----	_	
+28-5	dig	dig	XY:----:--:----	_	
+28-6	,	,	ZD	_	
+28-7	ville	ville	VF:----:ta:----	_	
+28-8	jeg	jeg	PP:s-nc:--:-1n-	_	
+28-9	stille	stille	AD:----:--:p---	_	
+28-10	og	og	CC:----:--:----	_	
+28-11	roligt	rolig	AD:----:--:p---	_	
+28-12	begynde	begynde	VI:----:-a:----	_	
+28-13	at	at	UI:----:--:----	_	
+28-14	tage	tage	VI:----:-a:----	_	
+28-15	nogle	nogen	PI:p-u#:--:----	_	
+28-16	skud	skud	NC:piu#:--:----	skud_F_give-den/det-et-skud	
+28-17	oppe	oppe	D-:----:--:u---	_	
+28-18	i	i	T-:----:--:----	_	
+28-19	de	den	PM:p-u#:--:----	_	
+28-20	højere	høj	AC:##u#:--:c---	_	
+28-21	levels	level	NC:sign:--:----	_	
+28-22	for	for	---:--:----	_	
+28-23	ca	cirka	D-:----:--:u---	_	
+28-24	.	.	ZP	_	
+28-25	30	30	LC:--u-:--:----	_	
+28-26	procent	procent	NC:siuc:--:----	_	
+28-27	af	af	T-:----:--:----	_	
+28-28	bankrollen	bankrolle	NC:sduc:--:----	_	
+28-29	.	.	ZP	_	
+
+#id=29
+#text= Da han blev jaget ud over markerne, hørte han skud.
+29-1	Da	da	CS:----:--:----	_	
+29-2	han	han	PP:s-nc:--:-3n-	_	
+29-3	blev	blive	VF:----:ta:----	_	
+29-4	jaget	jage	VT:siu#:t-:----	_	
+29-5	ud	ud	D-:----:--:u---	_	
+29-6	over	over	T-:----:--:----	_	
+29-7	markerne	mark	NC:pdu#:--:----	_	
+29-8	,	,	ZD	_	
+29-9	hørte	høre	VF:----:ta:----	_	
+29-10	han	han	PP:s-nc:--:-3n-	_	
+29-11	skud	skud	NC:siun:--:----	skud_1a	
+29-12	.	.	ZP	_	
+
+#id=30
+#text= Adskillige skud blev affyret, hvoraf mindst et ramte Morten Krogh Jensen i baghovedet.
+30-1	Adskillige	adskillig	AC:p#u#:--:p---	_	
+30-2	skud	skud	NC:piu#:--:----	skud_3	
+30-3	blev	blive	VF:----:ta:----	_	
+30-4	affyret	affyre	VT:siu#:t-:----	_	
+30-5	,	,	ZD	_	
+30-6	hvoraf	hvoraf	D-:----:--:u---	_	
+30-7	mindst	liden	AD:----:--:s---	_	
+30-8	et	en	PI:s-un:--:----	_	
+30-9	ramte	ramme	VF:----:ta:----	_	
+30-10	Morten	Morten	NP:siu#:--:----	_	
+30-11	Krogh	Krogh	NP:siu#:--:----	_	
+30-12	Jensen	Jensen	NP:siu#:--:----	_	
+30-13	i	i	T-:----:--:----	_	
+30-14	baghovedet	baghoved	NC:sdun:--:----	_	
+30-15	.	.	ZP	_	
+
+#id=31
+#text=I går blev han dømt skyldig i vold af særlig farlig karakter for sidste år at fælde en ubevæbnet, fuld teenager med tre skud.
+31-1	I	i	T-:----:--:----	_	
+31-2	går	går	NC:§§u§:--:----	_	
+31-3	blev	blive	VF:----:ta:----	_	
+31-4	han	han	PP:s-nc:--:-3n-	_	
+31-5	dømt	dødsdømme	VT:siu#:t-:----	_	
+31-6	skyldig	skyldig	AC:siuc:--:p---	_	
+31-7	i	i	T-:----:--:----	_	
+31-8	vold	vold	NC:siuc:--:----	_	
+31-9	af	af	T-:----:--:----	_	
+31-10	særlig	særlig	AC:siuc:--:p---	_	
+31-11	farlig	farlig	AC:siuc:--:p---	_	
+31-12	karakter	karakter	NC:siuc:--:----	_	
+31-13	for	for	T-:----:--:----	_	
+31-14	sidste	sidste	AC:§§u§:--:p---	_	
+31-15	år	år	NC:siun:--:----	_	
+31-16	at	at	UI:----:--:----	_	
+31-17	fælde	fælde	VI:----:-a:----	_	
+31-18	en	en	PI:s-uc:--:----	_	
+31-19	ubevæbnet	ubevæbnet	AC:siuc:--:p---	_	
+31-20	,	,	ZD	_	
+31-21	fuld	fuld	AC:siuc:--:p---	_	
+31-22	teenager	teenager	NC:siuc:--:----	_	
+31-23	med	med	T-:----:--:----	_	
+31-24	tre	tre	LC:--u-:--:----	_	
+31-25	skud	skud	NC:piu#:--:----	skud_3	
+31-26	.	.	ZP	_	
+
+#id=32
+#text= Skuddet ramte voldsmanden i foden, og han blev senere dømt for vold mod politiet.
+32-1	Skuddet	skud	NC:sdun:--:----	skud_2	
+32-2	ramte	ramme	VF:----:ta:----	_	
+32-3	voldsmanden	voldsmand	NC:sduc:--:----	_	
+32-4	i	i	T-:----:--:----	_	
+32-5	foden	fod	NC:sduc:--:----	_	
+32-6	,	,	ZD	_	
+32-7	og	og	CC:----:--:----	_	
+32-8	han	han	PP:s-nc:--:-3n-	_	
+32-9	blev	blive	VF:----:ta:----	_	
+32-10	senere	sen	AD:----:--:c---	_	
+32-11	dømt	dødsdømme	VT:siu#:t-:----	_	
+32-12	for	for	T-:----:--:----	_	
+32-13	vold	vold	NC:siuc:--:----	_	
+32-14	mod	mod	T-:----:--:----	_	
+32-15	politiet	politi	NC:sdun:--:----	_	
+32-16	.	.	ZP	_	
+
+#id=33
+#text=Mikkeline Kierkgaard er det seneste skud på stammen af kendisser, der kaster sig ud i en opgave uden for deres eget felt.
+33-1	Mikkeline	Mikkeline	NP:siu#:--:----	_	
+33-2	Kierkgaard	Kierkgaard	NP:siu#:--:----	_	
+33-3	er	være	VF:----:sa:----	_	
+33-4	det	den	PM:s-un:--:----	_	
+33-5	seneste	sen	AC:§du§:--:s---	_	
+33-6	skud	skud	NC:siun:--:----	skud_F_sidste-(seneste,-nyeste,-..)-skud-på-stammen	
+33-7	på	på	T-:----:--:----	_	
+33-8	stammen	stamme	NC:sduc:--:----	_	
+33-9	af	af	T-:----:--:----	_	
+33-10	kendisser	kendis	NC:piu#:--:----	_	
+33-11	,	,	ZD	_	
+33-12	der	der	US:----:--:----	_	
+33-13	kaster	kaste	VF:----:sa:----	_	
+33-14	sig	sig	PP:#-u#:--:-3y-	_	
+33-15	ud	ud	D-:----:--:u---	_	
+33-16	i	i	T-:----:--:----	_	
+33-17	en	en	PI:s-uc:--:----	_	
+33-18	opgave	opgave	NC:siuc:--:----	_	
+33-19	uden	uden	D-:----:--:u---	_	
+33-20	for	for	T-:----:--:----	_	
+33-21	deres	deres	-:-3np	_	
+33-22	eget	egen	AC:s§un:--:p---	_	
+33-23	felt	felt	NC:siun:--:----	_	
+33-24	.	.	ZP	_	
+
+#id=34
+#text=Ved sidste års VM tog Bjørndalen netop guldet i denne disciplin, til trods for at han missede et enkelt skud og dermed måtte ud på en 150 meter lang ekstrarunde.
+34-1	Ved	ved	T-:----:--:----	_	
+34-2	sidste	sidste	AC:§§u§:--:p---	_	
+34-3	års	år	NC:sign:--:----	_	
+34-4	VM	VM	NP:siu#:--:----	_	
+34-5	tog	tage	VF:----:ta:----	_	
+34-6	Bjørndalen	Bjørndalen	NP:siu#:--:----	_	
+34-7	netop	netop	D-:----:--:u---	_	
+34-8	guldet	guld	NC:sdun:--:----	_	
+34-9	i	i	T-:----:--:----	_	
+34-10	denne	denne	PM:s-uc:--:----	_	
+34-11	disciplin	disciplin	NC:siuc:--:----	_	
+34-12	,	,	ZD	_	
+34-13	til	til	T-:----:--:----	_	
+34-14	trods	trods	NC:siuc:--:----	_	
+34-15	for	for	T-:----:--:----	_	
+34-16	at	at	CS:----:--:----	_	
+34-17	han	han	PP:s-nc:--:-3n-	_	
+34-18	missede	misse	VF:----:ta:----	_	
+34-19	et	en	PI:s-un:--:----	_	
+34-20	enkelt	enkelt	AC:siu§:--:p---	_	
+34-21	skud	skud	NC:siun:--:----	skud_1_4	
+34-22	og	og	CC:----:--:----	_	
+34-23	dermed	dermed	D-:----:--:u---	_	
+34-24	måtte	måtte	VF:----:ta:----	_	
+34-25	ud	ud	D-:----:--:u---	_	
+34-26	på	på	T-:----:--:----	_	
+34-27	en	en	PI:s-uc:--:----	_	
+34-28	150	150	LC:--u-:--:----	_	
+34-29	meter	meter	NC:piu#:--:----	_	
+34-30	lang	lang	AC:siuc:--:p---	_	
+34-31	ekstrarunde	ekstrarunde	NC:siuc:--:----	_	
+34-32	.	.	ZP	_	
+
+#id=35
+#text=Var det skuddene eller bomben, der dræbte Benazir Bhutto?
+35-1	Var	være	VF:----:ta:----	_	
+35-2	det	det	PP:s-un:--:-3n-	_	
+35-3	skuddene	skud	NC:pdu#:--:----	skud_1_4	
+35-4	eller	eller	CC:----:--:----	_	
+35-5	bomben	bombe	NC:sduc:--:----	_	
+35-6	,	,	ZD	_	
+35-7	der	der	US:----:--:----	_	
+35-8	dræbte	dræbe	VF:----:ta:----	_	
+35-9	Benazir	Benazir	NP:siu#:--:----	_	
+35-10	Bhutto	Bhutto	NP:siu#:--:----	_	
+35-11	?	?	ZQ	_	
+
+#id=36
+#text=Halvdelen af skuddene skal affyres stående,
+36-1	Halvdelen	halvdel	NC:sduc:--:----	_	
+36-2	af	af	T-:----:--:----	_	
+36-3	skuddene	skud	NC:pdu#:--:----	skud_1_4	
+36-4	skal	skulle	VF:----:sa:----	_	
+36-5	affyres	affyre	VI:----:-p:----	_	
+36-6	stående	stående	AD:----:--:p---	_	
+36-7	,	,	ZD	_	
+
+#id=37
+#text=Læger kæmpede i nat med at redde en ung mands liv på Rigshospitalet, mens to andre mænd lå hårdt sårede på Hvidovre Hospital i København, efter at de alle tre i aftes ved 19.30-tiden blev ramt af skud under tumult i en lejlighed på Carl Jacobsens Vej i Valby.
+37-1	Læger	læge	NC:piu#:--:----	_	
+37-2	kæmpede	kæmpe	VF:----:ta:----	_	
+37-3	i	i	T-:----:--:----	_	
+37-4	nat	nat	NC:siuc:--:----	_	
+37-5	med	med	T-:----:--:----	_	
+37-6	at	at	UI:----:--:----	_	
+37-7	redde	redde	VI:----:-a:----	_	
+37-8	en	en	PI:s-uc:--:----	_	
+37-9	ung	ung	AC:siuc:--:p---	_	
+37-10	mands	mand	NC:sigc:--:----	_	
+37-11	liv	liv	NC:siun:--:----	_	
+37-12	på	på	T-:----:--:----	_	
+37-13	Rigshospitalet	rigshospital	NC:sdun:--:----	_	
+37-14	,	,	ZD	_	
+37-15	mens	mens	CS:----:--:----	_	
+37-16	to	to	LC:--u-:--:----	_	
+37-17	andre	anden	PI:p-u#:--:----	_	
+37-18	mænd	mand	NC:piu#:--:----	_	
+37-19	lå	ligge	VF:----:ta:----	_	
+37-20	hårdt	hård	AD:----:--:p---	_	
+37-21	sårede	såre	VF:----:ta:----	_	
+37-22	på	på	T-:----:--:----	_	
+37-23	Hvidovre	Hvidovre	NP:siu#:--:----	_	
+37-24	Hospital	Hospital	NP:siu#:--:----	_	
+37-25	i	i	T-:----:--:----	_	
+37-26	København	København	NP:siu#:--:----	_	
+37-27	,	,	ZD	_	
+37-28	efter	efter	CS:----:--:----	_	
+37-29	at	at	CS:----:--:----	_	
+37-30	de	den	PM:p-u#:--:----	_	
+37-31	alle	al	PI:p-u#:--:----	_	
+37-32	tre	tre	LC:--u-:--:----	_	
+37-33	i	i	T-:----:--:----	_	
+37-34	aftes	aften	NC:sifc:--:----	_	
+37-35	ved	ved	T-:----:--:----	_	
+37-36	19	19	LC:--u-:--:----	_	
+37-37	.	.	ZP	_	
+37-38	30	30	LC:--u-:--:----	_	
+37-39	-	-	ZH	_	
+37-40	tiden	tid	NC:sduc:--:----	_	
+37-41	blev	blive	VF:----:ta:----	_	
+37-42	ramt	ramme	VT:siu#:t-:----	_	
+37-43	af	af	T-:----:--:----	_	
+37-44	skud	skud	-:----	skud_3	
+37-45	under	under	T-:----:--:----	_	
+37-46	tumult	tumult	NC:siuc:--:----	_	
+37-47	i	i	T-:----:--:----	_	
+37-48	en	en	PI:s-uc:--:----	_	
+37-49	lejlighed	lejlighed	NC:siuc:--:----	_	
+37-50	på	på	T-:----:--:----	_	
+37-51	Carl	Carl	NP:siu#:--:----	_	
+37-52	Jacobsens	Jacobsen	NP:sig#:--:----	_	
+37-53	Vej	vej	NC:siuc:--:----	_	
+37-54	i	i	T-:----:--:----	_	
+37-55	Valby	Valby	NP:siu#:--:----	_	
+37-56	.	.	ZP	_	
+
+#id=38
+#text= Desuden blev der affyret adskillige skud, hvor mange har vi heller ikke tal på, siger Bogs-Grarup.
+38-1	Desuden	desuden	D-:----:--:u---	_	
+38-2	blev	blive	VF:----:ta:----	_	
+38-3	der	der	US:----:--:----	_	
+38-4	affyret	affyre	VT:siu#:t-:----	_	
+38-5	adskillige	adskillig	AC:p#u#:--:p---	_	
+38-6	skud	skud	NC:piu#:--:----	skud_3	
+38-7	,	,	ZD	_	
+38-8	hvor	hvor	D-:----:--:u---	_	
+38-9	mange	mangen	AC:p#u#:--:p---	_	
+38-10	har	have	VF:----:sa:----	_	
+38-11	vi	vi	PP:p-nc:--:-1n-	_	
+38-12	heller	heller	--	_	
+38-13	ikke	ikke	D-:----:--:u---	_	
+38-14	tal	tal	NC:siun:--:----	_	
+38-15	på	på	T-:----:--:----	_	
+38-16	,	,	ZD	_	
+38-17	siger	siger	XY:----:--:----	_	
+38-18	Bogs	bog	NC:sigc:--:----	_	
+38-19	-	-	ZH	_	
+38-20	Grarup	Grarup	NP:siu#:--:----	_	
+38-21	.	.	ZP	_	
+
+#id=39
+#text=Victoria har da også allerede sørget for den vigtigste tilbehør til det næste skud på Beckham-stammen:
+39-1	Victoria	Victoria	NP:siu#:--:----	_	
+39-2	har	have	VF:----:sa:----	_	
+39-3	da	da	D-:----:--:u---	_	
+39-4	også	også	D-:----:--:u---	_	
+39-5	allerede	allerede	D-:----:--:u---	_	
+39-6	sørget	sørge	VT:siu#:t-:----	_	
+39-7	for	for	T-:----:--:----	_	
+39-8	den	den	PM:s-uc:--:----	_	
+39-9	vigtigste	vigtig	AC:§du§:--:s---	_	
+39-10	tilbehør	tilbehør	NC:siun:--:----	_	
+39-11	til	til	T-:----:--:----	_	
+39-12	det	den	PM:s-un:--:----	_	
+39-13	næste	næste	AC:§§u§:--:p---	_	
+39-14	skud	skud	NC:siun:--:----	skud_F_sidste-(seneste,-nyeste,-..)-skud-på-stammen	
+39-15	på	på	T-:----:--:----	_	
+39-16	Beckham	Beckham	NP:siu#:--:----	_	
+39-17	-	-	ZH	_	
+39-18	stammen	stamme	NC:sduc:--:----	_	
+39-19	:	:	ZP	_	
+
+#id=40
+#text=Flere mænd, der tirsdag aften var indblandede i et skudopgør i Valby, søgte muligvis hævn for drabet på en 21-årig mand, der blev myrdet med skud i december.
+40-1	Flere	mange	AC:##u#:--:c---	_	
+40-2	mænd	mand	NC:piu#:--:----	_	
+40-3	,	,	ZD	_	
+40-4	der	der	US:----:--:----	_	
+40-5	tirsdag	tirsdag	NC:siuc:--:----	_	
+40-6	aften	aften	NC:siuc:--:----	_	
+40-7	var	være	VF:----:ta:----	_	
+40-8	indblandede	indblande	VP:p#u#:t-:----	_	
+40-9	i	i	T-:----:--:----	_	
+40-10	et	en	PI:s-un:--:----	_	
+40-11	skudopgør	skudopgør	NC:siun:--:----	_	
+40-12	i	i	T-:----:--:----	_	
+40-13	Valby	Valby	NP:siu#:--:----	_	
+40-14	,	,	ZD	_	
+40-15	søgte	søge	VF:----:ta:----	_	
+40-16	muligvis	muligvis	D-:----:--:u---	_	
+40-17	hævn	hævn	NC:siuc:--:----	_	
+40-18	for	for	T-:----:--:----	_	
+40-19	drabet	drab	NC:sdun:--:----	_	
+40-20	på	på	T-:----:--:----	_	
+40-21	en	en	PI:s-uc:--:----	_	
+40-22	21	21	LW:----:--:----	_	
+40-23	-	-	ZH	_	
+40-24	årig	årig	AC:siuc:--:p---	_	
+40-25	mand	mand	NC:siuc:--:----	_	
+40-26	,	,	ZD	_	
+40-27	der	der	US:----:--:----	_	
+40-28	blev	blive	VF:----:ta:----	_	
+40-29	myrdet	myrde	VT:siu#:t-:----	_	
+40-30	med	med	T-:----:--:----	_	
+40-31	skud	skud	NC:siun:--:----	skud_3	
+40-32	i	i	T-:----:--:----	_	
+40-33	december	december	NC:siuc:--:----	_	
+40-34	.	.	ZP	_	
+
+#id=41
+#text= Hussain blev tilsyneladende tilfældigt offer for skuddene.
+41-1	Hussain	Hussain	NP:siu#:--:----	_	
+41-2	blev	blive	VF:----:ta:----	_	
+41-3	tilsyneladende	tilsyneladende	AD:----:--:p---	_	
+41-4	tilfældigt	tilfældig	AC:siun:--:p---	_	
+41-5	offer	offer	NC:siun:--:----	_	
+41-6	for	for	T-:----:--:----	_	
+41-7	skuddene	skud	NC:pdu#:--:----	skud_1_4	
+41-8	.	.	ZP	_	
+
+#id=42
+#text=Den 81-årige Playboy-konge Hugh Hefner vil for alt i verden bevise, at han stadig har 'skud i bøssen'.
+42-1	Den	den	PM:s-uc:--:----	_	
+42-2	81	81	LW:----:--:----	_	
+42-3	-	-	ZH	_	
+42-4	årige	årig	AC:sdu#:--:p---	_	
+42-5	Playboy	playboy	NW:----:--:----	_	
+42-6	-	-	ZH	_	
+42-7	konge	konge	NC:siuc:--:----	_	
+42-8	Hugh	Hugh	NP:siu#:--:----	_	
+42-9	Hefner	Hefner	NP:siu#:--:----	_	
+42-10	vil	ville	VF:----:sa:----	_	
+42-11	for	for	T-:----:--:----	_	
+42-12	alt	al	PI:s-un:--:----	_	
+42-13	i	i	T-:----:--:----	_	
+42-14	verden	verden	NC:siuc:--:----	_	
+42-15	bevise	bevise	VI:----:-a:----	_	
+42-16	,	,	ZD	_	
+42-17	at	at	CS:----:--:----	_	
+42-18	han	han	PP:s-nc:--:-3n-	_	
+42-19	stadig	stadig	D-:----:--:u---	_	
+42-20	har	have	VF:----:sa:----	_	
+42-21	'	'	ZA	_	
+42-22	skud	skud	NC:siun:--:----	skud_2	
+42-23	i	i	T-:----:--:----	_	
+42-24	bøssen	bøsse	NW:----:--:----	_	
+42-25	'	'	ZA	_	
+42-26	.	.	ZP	_	
+
+#id=43
+#text=Fem kvinder er dræbt af skud i en modeforretning i et butikscenter i Tinley Park, en forstad til Chicago.
+43-1	Fem	fem	LC:--u-:--:----	_	
+43-2	kvinder	kvinde	NC:piu#:--:----	_	
+43-3	er	være	VF:----:sa:----	_	
+43-4	dræbt	dræbe	VT:siu#:t-:----	_	
+43-5	af	af	T-:----:--:----	_	
+43-6	skud	skud	NC:siun:--:----	skud_2	
+43-7	i	i	T-:----:--:----	_	
+43-8	en	en	PI:s-uc:--:----	_	
+43-9	modeforretning	modeforretning	NC:siuc:--:----	_	
+43-10	i	i	T-:----:--:----	_	
+43-11	et	en	PI:s-un:--:----	_	
+43-12	butikscenter	butikscenter	NC:siun:--:----	_	
+43-13	i	i	T-:----:--:----	_	
+43-14	Tinley	Tinley	NP:siu#:--:----	_	
+43-15	Park	Park	NP:siu#:--:----	_	
+43-16	,	,	ZD	_	
+43-17	en	en	PI:s-uc:--:----	_	
+43-18	forstad	forstad	NC:siuc:--:----	_	
+43-19	til	til	T-:----:--:----	_	
+43-20	Chicago	Chicago	NP:siu#:--:----	_	
+43-21	.	.	ZP	_	
+
+#id=44
+#text= Politiet mener, at skuddene blev affyret under et mislykket røveri.
+44-1	Politiet	politi	NC:sdun:--:----	_	
+44-2	mener	mene	VF:----:sa:----	_	
+44-3	,	,	ZD	_	
+44-4	at	at	CS:----:--:----	_	
+44-5	skuddene	skud	NC:pdu#:--:----	skud_1_4	
+44-6	blev	blive	VF:----:ta:----	_	
+44-7	affyret	affyre	VT:siu#:t-:----	_	
+44-8	under	under	T-:----:--:----	_	
+44-9	et	en	PI:s-un:--:----	_	
+44-10	mislykket	mislykket	AC:siun:--:p---	_	
+44-11	røveri	røveri	NC:siun:--:----	_	
+44-12	.	.	ZP	_	
+
+#id=45
+#text=For nogle uger siden dyttede en ung kvinde af en BMW på Vester Søgade i København, hvorpå føreren trak op på siden af hende, og en passager på bagsædet af BMW'en trak en pistol og affyrede et skud, der passerede ind gennem den ene siderude og ud ad den anden  få centimeter fra hendes ansigt.
+45-1	For	for	CC:----:--:----	_	
+45-2	nogle	nogen	PI:p-u#:--:----	_	
+45-3	uger	uge	NC:piu#:--:----	_	
+45-4	siden	siden	D-:----:--:u---	_	
+45-5	dyttede	dytte	VF:----:ta:----	_	
+45-6	en	en	PI:s-uc:--:----	_	
+45-7	ung	ung	AC:siuc:--:p---	_	
+45-8	kvinde	kvinde	NC:siuc:--:----	_	
+45-9	af	af	T-:----:--:----	_	
+45-10	en	en	PI:s-uc:--:----	_	
+45-11	BMW	BMW	NP:siu#:--:----	_	
+45-12	på	på	T-:----:--:----	_	
+45-13	Vester	Vester	NP:siu#:--:----	_	
+45-14	Søgade	Søgade	NP:siu#:--:----	_	
+45-15	i	i	T-:----:--:----	_	
+45-16	København	København	NP:siu#:--:----	_	
+45-17	,	,	ZD	_	
+45-18	hvorpå	hvorpå	D-:----:--:u---	_	
+45-19	føreren	fører	NC:sduc:--:----	_	
+45-20	trak	trække	VF:----:ta:----	_	
+45-21	op	op	D-:----:--:u---	_	
+45-22	på	på	T-:----:--:----	_	
+45-23	siden	side	NC:sduc:--:----	_	
+45-24	af	af	T-:----:--:----	_	
+45-25	hende	hun	PP:s-uc:--:-3n-	_	
+45-26	,	,	ZD	_	
+45-27	og	og	CC:----:--:----	_	
+45-28	en	en	PI:s-uc:--:----	_	
+45-29	passager	passager	NC:siuc:--:----	_	
+45-30	på	på	T-:----:--:----	_	
+45-31	bagsædet	bagsæde	NC:sdun:--:----	_	
+45-32	af	af	T-:----:--:----	_	
+45-33	BMW	BMW	NP:siu#:--:----	_	
+45-34	'	'	ZA	_	
+45-35	en	@en	MN:sduc:--:----	_	
+45-36	trak	trække	VF:----:ta:----	_	
+45-37	en	en	PI:s-uc:--:----	_	
+45-38	pistol	pistol	NC:siuc:--:----	_	
+45-39	og	og	CC:----:--:----	_	
+45-40	affyrede	affyre	VF:----:ta:----	_	
+45-41	et	en	PI:s-un:--:----	_	
+45-42	skud	skud	siun:--:----	skud_2	
+45-43	,	,	ZD	_	
+45-44	der	der	US:----:--:----	_	
+45-45	passerede	passere	VF:----:ta:----	_	
+45-46	ind	ind	D-:----:--:u---	_	
+45-47	gennem	gennem	T-:----:--:----	_	
+45-48	den	den	PM:s-uc:--:----	_	
+45-49	ene	ene	AC:§§u§:--:p---	_	
+45-50	siderude	siderude	NC:siuc:--:----	_	
+45-51	og	og	CC:----:--:----	_	
+45-52	ud	ud	D-:----:--:u---	_	
+45-53	ad	ad	T-:----:--:----	_	
+45-54	den	den	PM:s-uc:--:----	_	
+45-55	anden	anden	PI:s-uc:--:----	_	
+45-56	få	få	AC:p#u#:--:p---	_	
+45-57	centimeter	centimeter	NC:piu#:--:----	_	
+45-58	fra	fra	T-:----:--:----	_	
+45-59	hendes	hendes	PO:#--#:--:-3ns	_	
+45-60	ansigt	ansigt	NC:siun:--:----	_	
+45-61	.	.	ZP	_	
+
+#id=46
+#text=Østjyllands Politi rykkede talstærkt ud, da et skænderi mellem to indvandrergrupper i det vestlige Århus i går eftermiddag kulminerede med affyring af to skarpe skud fra en ni-millimeter pistol.
+46-1	Østjyllands	Østjyllands	NP:sig#:--:----	_	
+46-2	Politi	politi	NC:siun:--:----	_	
+46-3	rykkede	rykke	VF:----:ta:----	_	
+46-4	talstærkt	talstærk	AD:----:--:p---	_	
+46-5	ud	ud	:----:--:u---	_	
+46-6	,	,	ZD	_	
+46-7	da	da	CS:----:--:----	_	
+46-8	et	en	PI:s-un:--:----	_	
+46-9	skænderi	skænderi	NC:siun:--:----	_	
+46-10	mellem	mellem	T-:----:--:----	_	
+46-11	to	to	LC:--u-:--:----	_	
+46-12	indvandrergrupper	indvandrergruppe	NC:piu#:--:----	_	
+46-13	i	i	T-:----:--:----	_	
+46-14	det	den	PM:s-un:--:----	_	
+46-15	vestlige	vestlig	AC:sdu#:--:p---	_	
+46-16	Århus	Århus	NP:siu#:--:----	_	
+46-17	i	i	T-:----:--:----	_	
+46-18	går	går	NC:§§u§:--:----	_	
+46-19	eftermiddag	eftermiddag	NC:siuc:--:----	_	
+46-20	kulminerede	kulminere	VF:----:ta:----	_	
+46-21	med	med	T-:----:--:----	_	
+46-22	affyring	affyring	NC:siuc:--:----	_	
+46-23	af	af	T-:----:--:----	_	
+46-24	to	to	LC:--u-:--:----	_	
+46-25	skarpe	skarp	AC:p#u#:--:p---	_	
+46-26	skud	skud	NC:piu#:--:----	skud_F_skarpt-skud	
+46-27	fra	fra	T-:----:--:----	_	
+46-28	en	en	PI:s-uc:--:----	_	
+46-29	ni	ni	LW:----:--:----	_	
+46-30	-	-	ZH	_	
+46-31	millimeter	millimeter	NC:piu#:--:----	_	
+46-32	pistol	pistol	NC:siuc:--:----	_	
+46-33	.	.	ZP	_	
+
+#id=47
+#text= Så bliver der plads til skuddet.
+47-1	Så	så	D-:----:--:u---	_	
+47-2	bliver	blive	VF:----:sa:----	_	
+47-3	der	der	US:----:--:----	_	
+47-4	plads	plads	NC:siuc:--:----	_	
+47-5	til	til	T-:----:--:----	_	
+47-6	skuddet	skud	NC:sdun:--:----	skud_5	
+47-7	.	.	ZP	_	
+
+#id=48
+#text=Heldigvis blev den dansk-islandske spiller reddet af Lars Møller Madsens sidste skud og kastede sig lettet over holdkammeraten efter sejren.
+48-1	Heldigvis	heldigvis	D-:----:--:u---	_	
+48-2	blev	blive	VF:----:ta:----	_	
+48-3	den	den	PM:s-uc:--:----	_	
+48-4	dansk	dansk	NW:----:--:----	_	
+48-5	-	-	ZH	_	
+48-6	islandske	islandsk	AC:p#u#:--:p---	_	
+48-7	spiller	spille	NC:piu#:--:----	_	
+48-8	reddet	redde	VT:siu#:t-:----	_	
+48-9	af	af	T-:----:--:----	_	
+48-10	Lars	Lars	NP:siu#:--:----	_	
+48-11	Møller	Møller	NP:siu#:--:----	_	
+48-12	Madsens	Madsen	NP:sig#:--:----	_	
+48-13	sidste	sidste	AC:§§u§:--:p---	_	
+48-14	skud	skud	NC:siun:--:----	skud_1_4	
+48-15	og	og	CC:----:--:----	_	
+48-16	kastede	kaste	VF:----:ta:----	_	
+48-17	sig	sig	PP:#-u#:--:-3y-	_	
+48-18	lettet	lette	VT:siu#:t-:----	_	
+48-19	over	over	T-:----:--:----	_	
+48-20	holdkammeraten	holdkammerat	NC:sduc:--:----	_	
+48-21	efter	efter	T-:----:--:----	_	
+48-22	sejren	sejr	NC:sduc:--:----	_	
+48-23	.	.	ZP	_	
+
+#id=49
+#text= Michael siger, han er svensk-polsk-serbisk inspireret, mens jeg nok har skelet meget til den serbiske oprejste stil - men ikke på alle skud.
+49-1	Michael	Michael	NP:siu#:--:----	_	
+49-2	siger	sige	VF:----:sa:----	_	
+49-3	,	,	ZD	_	
+49-4	han	han	PP:s-nc:--:-3n-	_	
+49-5	er	være	VF:----:sa:----	_	
+49-6	svensk	svensk	AC:siu§:--:p---	_	
+49-7	-	-	ZH	_	
+49-8	polsk	polsk	AW:----:--:----	_	
+49-9	-	-	ZH	_	
+49-10	serbisk	serbisk	AC:siu§:--:p---	_	
+49-11	inspireret	inspirere	VT:siu#:t-:----	_	
+49-12	,	,	ZD	_	
+49-13	mens	mens	CS:----:--:----	_	
+49-14	jeg	jeg	PP:s-nc:--:-1n-	_	
+49-15	nok	nok	--:u---	_	
+49-16	har	have	VF:----:sa:----	_	
+49-17	skelet	skelet	NP:sig#:--:----	_	
+49-18	meget	megen	AD:----:--:p---	_	
+49-19	til	til	T-:----:--:----	_	
+49-20	den	den	PM:s-uc:--:----	_	
+49-21	serbiske	serbisk	AC:sdu#:--:p---	_	
+49-22	oprejste	oprejst	AC:sdu#:--:p---	_	
+49-23	stil	stil	NW:----:--:----	_	
+49-24	-	-	ZH	_	
+49-25	men	men	CC:----:--:----	_	
+49-26	ikke	ikke	D-:----:--:u---	_	
+49-27	på	på	T-:----:--:----	_	
+49-28	alle	al	PI:p-u#:--:----	_	
+49-29	skud	skud	NC:piu#:--:----	skud_1_4	
+49-30	.	.	ZP	_	
+
+#id=50
+#text=- Victoria har stået for skud fra visse berømtheder i årenes løb, så det er helt naturligt, at hun ikke ønsker at se dem ved koncerterne, siger en kilde.
+50-1	-	-	NC:piu#:--:----	_	
+50-2	Victoria	Victoria	NP:siu#:--:----	_	
+50-3	har	have	VF:----:sa:----	_	
+50-4	stået	stå	VT:siu#:t-:----	_	
+50-5	for	for	T-:----:--:----	_	
+50-6	skud	skud	NC:siun:--:----	_	
+50-7	fra	fra	T-:----:--:----	_	
+50-8	visse	vis	AC:p#u#:--:p---	_	
+50-9	berømtheder	berømthed	NC:piu#:--:----	_	
+50-10	i	i	T-:----:--:----	_	
+50-11	årenes	år	NC:pdg#:--:----	_	
+50-12	løb	løb	NC:siun:--:----	_	
+50-13	,	,	ZD	_	
+50-14	så	så	CS:----:--:----	_	
+50-15	det	det	PP:s-un:--:-3n-	_	
+50-16	er	være	VF:----:sa:----	_	
+50-17	helt	hel	AD:----:--:p---	_	
+50-18	naturligt	naturlig	AC:siun:--:p---	_	
+50-19	,	,	ZD	_	
+50-20	at	at	CS:----:--:----	_	
+50-21	hun	hun	PP:s-nc:--:-3n-	_	
+50-22	ikke	ikke	D-:----:--:u---	_	
+50-23	ønsker	ønske	VF:----:sa:----	_	
+50-24	at	at	UI:----:--:----	_	
+50-25	se	se	VI:----:-a:----	_	
+50-26	dem	de	PP:p-u#:--:-3n-	_	
+50-27	ved	ved	T-:----:--:----	_	
+50-28	koncerterne	koncert	NC:pdu#:--:----	_	
+50-29	,	,	ZD	_	
+50-30	siger	sige	VF:----:sa:----	_	
+50-31	en	en	PI:s-uc:--:----	_	
+50-32	kilde	kilde	NC:siuc:--:----	_	
+50-33	.	.	ZP	_	
+
+#id=51
+#text= Spænding var der til sidste sekund, da Ikast-keeper Camilla Eriksen snuppede et Horsens-skud og dermed sikrede sejren på ét mål.
+51-1	Spænding	spænding	NC:siuc:--:----	_	
+51-2	var	være	VF:----:ta:----	_	
+51-3	der	der	US:----:--:----	_	
+51-4	til	til	T-:----:--:----	_	
+51-5	sidste	sidste	AC:§§u§:--:p---	_	
+51-6	sekund	sekund	NC:siun:--:----	_	
+51-7	,	,	ZD	_	
+51-8	da	da	CS:----:--:----	_	
+51-9	Ikast	Ikast	NW:----:--:----	_	
+51-10	-	-	ZH	_	
+51-11	keeper	keeper	NC:siuc:--:----	_	
+51-12	Camilla	Camilla	NP:siu#:--:----	_	
+51-13	Eriksen	Eriksen	NP:siu#:--:----	_	
+51-14	snuppede	snuppe	VF:----:ta:----	_	
+51-15	et	en	PI:s-un:--:----	_	
+51-16	Horsens	Horsens	NW:----:--:----	_	
+51-17	-	-	ZH	_	
+51-18	skud	skud	NC:siun:--:----	skud_1_4	
+51-19	og	og	CC:----:--:----	_	
+51-20	dermed	dermed	D-:----:--:u---	_	
+51-21	sikrede	sikre	VF:----:ta:----	_	
+51-22	sejren	sejr	NC:sduc:--:----	_	
+51-23	på	på	T-:----:--:----	_	
+51-24	ét	en	PI:s-un:--:----	_	
+51-25	mål	mål	NC:siun:--:----	_	
+51-26	.	.	ZP	_	
+
+#id=52
+#text=Og endelig var det Gerrard, der - mens en fortvivlet manager Rafael Benítez forsøgte sig med panikindskiftninger af Crouch og Kuyt - viste gennembrudskraft med først et skud og dernæst selv-opfølgning på riposten.
+52-1	Og	og	CC:----:--:----	_	
+52-2	endelig	endelig	D-:----:--:u---	_	
+52-3	var	være	VF:----:ta:----	_	
+52-4	det	det	PP:s-un:--:-3n-	_	
+52-5	Gerrard	Gerrard	NP:siu#:--:----	_	
+52-6	,	,	ZD	_	
+52-7	der	der	US:----:--:----	_	
+52-8	-	-	NC:piu#:--:----	_	
+52-9	mens	mens	CS:----:--:----	_	
+52-10	en	en	PI:s-uc:--:----	_	
+52-11	fortvivlet	fortvivlet	AC:siu§:--:p---	_	
+52-12	manager	manager	NC:siuc:--:----	_	
+52-13	Rafael	Rafael	NP:siu#:--:----	_	
+52-14	Benítez	Benítez	NP:siu#:--:----	_	
+52-15	forsøgte	forsøge	VF:----:ta:----	_	
+52-16	sig	sig	PP:#-u#:--:-3y-	_	
+52-17	med	med	T-:----:--:----	_	
+52-18	panikindskiftninger	panikindskiftning	NC:piu#:--:----	_	
+52-19	af	af	T-:----:--:----	_	
+52-20	Crouch	Crouch	NP:siu#:--:----	_	
+52-21	og	og	CC:----:--:----	_	
+52-22	Kuyt	Kuyt	NP:siu#:--:----	_	
+52-23	-	-	--	_	
+52-24	viste	vise	VF:----:ta:----	_	
+52-25	gennembrudskraft	gennembrudskraft	NC:siuc:--:----	_	
+52-26	med	med	T-:----:--:----	_	
+52-27	først	først	D-:----:--:u---	_	
+52-28	et	en	PI:s-un:--:----	_	
+52-29	skud	skud	NC:siun:--:----	skud_1_4	
+52-30	og	og	CC:----:--:----	_	
+52-31	dernæst	dernæst	D-:----:--:u---	_	
+52-32	selv	selv	D-:----:--:u---	_	
+52-33	-	-	NC:piu#:--:----	_	
+52-34	opfølgning	opfølgning	NC:siuc:--:----	_	
+52-35	på	på	T-:----:--:----	_	
+52-36	riposten	ripost	NC:sduc:--:----	_	
+52-37	.	.	ZP	_	
+
+#id=53
+#text=En herlig hælaflevering, som dannede optakten til kollega Teves scoring, var det bedste fra portugiserens fødder, men ellers virkede han spilletræt efter det udmarvende jule- og nytårsprogram med fire kampe på 12 dage, og både et hovedstød og skud fra få meters afstand kunne  han ikke få over stregen.
+53-1	En	en	PI:s-uc:--:----	_	
+53-2	herlig	herlig	AC:siuc:--:p---	_	
+53-3	hælaflevering	hælaflevering	NC:siuc:--:----	_	
+53-4	,	,	ZD	_	
+53-5	som	som	US:----:--:----	_	
+53-6	dannede	danne	VF:----:ta:----	_	
+53-7	optakten	optakt	NC:sduc:--:----	_	
+53-8	til	til	T-:----:--:----	_	
+53-9	kollega	llega	NC:siuc:--:----	_	
+53-10	Teves	Teves	NP:sig#:--:----	_	
+53-11	scoring	scoring	NC:siuc:--:----	_	
+53-12	,	,	ZD	_	
+53-13	var	være	VF:----:ta:----	_	
+53-14	det	den	PM:s-un:--:----	_	
+53-15	bedste	god	AC:§du§:--:s---	_	
+53-16	fra	fra	T-:----:--:----	_	
+53-17	portugiserens	portugiser	NC:sdgc:--:----	_	
+53-18	fødder	fod	NC:piu#:--:----	_	
+53-19	,	,	ZD	_	
+53-20	men	men	CC:----:--:----	_	
+53-21	ellers	ellers	D-:----:--:u---	_	
+53-22	virkede	virke	VF:----:ta:----	_	
+53-23	han	han	PP:s-nc:--:-3n-	_	
+53-24	spilletræt	spilletræt	AD:----:--:p---	_	
+53-25	efter	efter	T-:----:--:----	_	
+53-26	det	den	PM:s-un:--:----	_	
+53-27	udmarvende	udmarve	VP:##u#:s-:----	_	
+53-28	jule	jul	NW:----:--:----	_	
+53-29	-	-	ZH	_	
+53-30	og	og	CC:----:--:----	_	
+53-31	nytårsprogram	nytårsprogram	NC:siun:--:----	_	
+53-32	med	med	T-:----:--:----	_	
+53-33	fire	fire	LC:--u-:--:----	_	
+53-34	kampe	kamp	NC:piu#:--:----	_	
+53-35	på	på	T-:----:--:----	_	
+53-36	12	12	LC:--u-:--:----	_	
+53-37	dage	dag	NC:piu#:--:----	_	
+53-38	,	,	ZD	_	
+53-39	og	og	CC:----:--:----	_	
+53-40	både	både	D-:----:--:u---	_	
+53-41	et	en	PI:s-un:--:----	_	
+53-42	hovedstød	hovedstød	NC:siun:--:----	_	
+53-43	og	og	CC:----:--:----	_	
+53-44	skud	skud	NC:siun:--:----	skud_1_4	
+53-45	fra	fra	T-:----:--:----	_	
+53-46	få	få	AC:p#u#:--:p---	_	
+53-47	meters	meter	NC:pig#:--:----	_	
+53-48	afstand	afstand	NC:siuc:--:----	_	
+53-49	kunne	kunne	VF:----:ta:----	_	
+53-50	han	han	PP:s-nc:--:-3n-	_	
+53-51	ikke	ikke	D-:----:--:u---	_	
+53-52	få	få	VI:----:-a:----	_	
+53-53	over	over	T-:----:--:----	_	
+53-54	stregen	streg	NC:sduc:--:----	_	
+53-55	.	.	ZP	_	
+
+#id=54
+#text=- Vi er kun påvirket ud fra den betragtning, at vi ikke kan forlade vores  hus, samt at vi naturligvis af og til kan høre skud eller en helikopter, der kommer over himlen.
+54-1	-	-	NC:piu#:--:----	_	
+54-2	Vi	VI	LC:--u-:--:----	_	
+54-3	er	være	VF:----:sa:----	_	
+54-4	kun	kun	D-:----:--:u---	_	
+54-5	påvirket	påvirke	VT:siu#:t-:----	_	
+54-6	ud	ud	D-:----:--:u---	_	
+54-7	fra	fra	T-:----:--:----	_	
+54-8	den	den	PM:s-uc:--:----	_	
+54-9	betragtning	betragtning	NC:siuc:--:----	_	
+54-10	,	,	ZD	_	
+54-11	at	at	CS:----:--:----	_	
+54-12	vi	vi	PP:p-nc:--:-1n-	_	
+54-13	ikke	ikke	D-:----:--:u---	_	
+54-14	kan	kunne	VF:----:sa:----	_	
+54-15	forlade	forlade	VI:----:-a:----	_	
+54-16	vores	vores	PO:#--#:--:-1np	_	
+54-17	hus	hus	NC:siun:--:----	_	
+54-18	,	,	ZD	_	
+54-19	samt	samt	CC:----:--:----	_	
+54-20	at	at	CS:----:--:----	_	
+54-21	vi	vi	PP:p-nc:--:-1n-	_	
+54-22	naturligvis	naturligvis	D-:----:--:u---	_	
+54-23	af	af	T-:----:--:----	_	
+54-24	og	og	CC:----:--:----	_	
+54-25	til	til	D-:----:--:u---	_	
+54-26	kan	kunne	VF:----:sa:----	_	
+54-27	høre	høre	VI:----:-a:----	_	
+54-28	skud	skud	NC:siun:--:----	skud_1_4	
+54-29	eller	eller	CC:----:--:----	_	
+54-30	en	en	PI:s-uc:--:----	_	
+54-31	helikopter	helikopter	NC:siuc:--:----	_	
+54-32	,	,	ZD	_	
+54-33	der	der	US:----:--:----	_	
+54-34	kommer	komme	VF:----:sa:----	_	
+54-35	over	over	T-:----:--:----	_	
+54-36	himlen	himmel	NC:sduc:--:----	_	
+54-37	.	.	ZP	_	
+
+#id=55
+#text= Den viser, at en glatbarberet pistolmand retter sin pistol mod Benazir Bhutto og affyrer tre skud, inden en selvmordsbombe dræber alle omkringstående.
+55-1	Den	den	PP:s-uc:--:-3n-	_	
+55-2	viser	vise	VF:----:sa:----	_	
+55-3	,	,	ZD	_	
+55-4	at	at	CS:----:--:----	_	
+55-5	en	en	PI:s-uc:--:----	_	
+55-6	glatbarberet	glatbarberet	AC:siuc:--:p---	_	
+55-7	pistolmand	pistolmand	NC:siuc:--:----	_	
+55-8	retter	rette	VF:----:sa:----	_	
+55-9	sin	sin	PO:s--c:--:-3ys	_	
+55-10	pistol	pistol	NC:siuc:--:----	_	
+55-11	mod	mod	T-:----:--:----	_	
+55-12	Benazir	Benazir	NP:siu#:--:----	_	
+55-13	Bhutto	Bhutto	NP:siu#:--:----	_	
+55-14	og	og	CC:----:--:----	_	
+55-15	affyrer	affyre	sa:----	_	
+55-16	tre	tre	LC:--u-:--:----	_	
+55-17	skud	skud	NC:piu#:--:----	skud_2	
+55-18	,	,	ZD	_	
+55-19	inden	inden	CS:----:--:----	_	
+55-20	en	en	PI:s-uc:--:----	_	
+55-21	selvmordsbombe	selvmordsbombe	NC:siuc:--:----	_	
+55-22	dræber	dræbe	VF:----:sa:----	_	
+55-23	alle	al	PI:p-u#:--:----	_	
+55-24	omkringstående	omkringstående	AD:----:--:p---	_	
+55-25	.	.	ZP	_	
+
