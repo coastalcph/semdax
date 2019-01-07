@@ -1,0 +1,223 @@
+# newdoc id = DDT-1547.tsv
+# sent_id = 1
+# text =  Han spiller fem roller i succesforestillingen" Hamlet" på Betty Nansen Teatret på Frederiksberg:
+1	Han	han	PRON		
+2	spiller	spille	VERB		verb.act
+3	fem	fem	NUM		
+4	roller	rolle	NOUN		noun.attribute
+5	i	i	ADP		
+6	succesforestillingen	succesforestilling	NOUN		noun.communication
+7	"	"	PUNCT		
+8	Hamlet	hamlet	PROPN		noun.communication
+9	"	"	PUNCT		
+10	på	på	ADP		
+11	Betty	betty	PROPN		noun.building
+12	Nansen	nansen	PROPN		noun.building
+13	Teatret	teater	NOUN		noun.building
+14	på	på	ADP		
+15	Frederiksberg	frederiksberg	PROPN		noun.location
+16	:	:	PUNCT		
+
+# newdoc id = DDT-1547.tsv
+# sent_id = 2
+# text =  Han er vagt, skuespiller, kaptajn, lig ( uden replikker) og Fortinbras.
+1	Han	han	PRON		
+2	er	være	AUX		verb.stative
+3	vagt	vagt	NOUN		noun.person
+4	,	,	PUNCT		
+5	skuespiller	skuespiller	NOUN		noun.person
+6	,	,	PUNCT		
+7	kaptajn	kaptajn	NOUN		noun.person
+8	,	,	PUNCT		
+9	lig	lig	NOUN		noun.person
+10	(	(	PUNCT		
+11	uden	uden	ADP		
+12	replikker	replik	NOUN		noun.communication
+13	)	)	PUNCT		
+14	og	og	CCONJ		
+15	Fortinbras	fortinbras	PROPN		noun.person
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1547.tsv
+# sent_id = 3
+# text =  31/2 times forestilling seks gange om ugen, og pr. gang er der omkring 100 kroner i lommen til ham selv.
+1	31/2	31/2	ADV		
+2	times	times	ADJ		noun.time
+3	forestilling	forestilling	NOUN		noun.communication
+4	seks	seks	NUM		
+5	gange	gang	NOUN		noun.time
+6	om	om	ADP		
+7	ugen	uge	NOUN		noun.time
+8	,	,	PUNCT		
+9	og	og	CCONJ		
+10	pr.	pr.	ADP		
+11	gang	gang	NOUN		noun.time
+12	er	være	AUX		verb.stative
+13	der	der	ADV		
+14	omkring	omkring	ADP		
+15	100	100	NUM		
+16	kroner	krone	NOUN		noun.quantity
+17	i	i	ADP		
+18	lommen	lomme	NOUN		noun.container
+19	til	til	ADP		
+20	ham	han	PRON		
+21	selv	selv	PRON		
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1547.tsv
+# sent_id = 4
+# text =  Henrik Fiig, 27, går på fjerde og sidste år på teaterskolen i København, og hans engagement i" Hamlet" kan nærmest betragtes som en slags praktikplads.
+1	Henrik	henrik	PROPN		noun.person
+2	Fiig	fiig	PROPN		noun.person
+3	,	,	PUNCT		
+4	27	27	PRON		
+5	,	,	PUNCT		
+6	går	gå	VERB		verb.act
+7	på	på	ADP		
+8	fjerde	fjerde	ADJ		
+9	og	og	CCONJ		
+10	sidste	sidste	ADJ		adj.time
+11	år	år	NOUN		noun.time
+12	på	på	ADP		
+13	teaterskolen	teaterskole	NOUN		noun.institution
+14	i	i	ADP		
+15	København	københavn	PROPN		noun.location
+16	,	,	PUNCT		
+17	og	og	CCONJ		
+18	hans	hans	DET		
+19	engagement	engagement	NOUN		noun.act
+20	i	i	ADP		
+21	"	"	PUNCT		
+22	Hamlet	hamlet	PROPN		noun.communication
+23	"	"	PUNCT		
+24	kan	kunne	AUX		
+25	nærmest	nær	ADV		
+26	betragtes	betragte	VERB		verb.cognition
+27	som	som	ADP		
+28	en	en	DET		
+29	slags	slags	NOUN		noun.abstract
+30	praktikplads	praktikplads	NOUN		noun.abstract
+31	.	.	PUNCT		
+
+# newdoc id = DDT-1547.tsv
+# sent_id = 5
+# text =  Det er hans første rigtige teaterrolle.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	hans	hans	DET		
+4	første	først	ADJ		adj.time
+5	rigtige	rigtig	ADJ		adj.all
+6	teaterrolle	teaterrol	NOUN		noun.attribute
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1547.tsv
+# sent_id = 6
+# text =  Henrik er fuld af energi, men optagelsen på teaterskolen blev smertefuld for ham.
+1	Henrik	henrik	PROPN		noun.person
+2	er	være	AUX		verb.stative
+3	fuld	fuld	ADJ		adj.all
+4	af	af	ADP		
+5	energi	energi	NOUN		noun.feeling
+6	,	,	PUNCT		
+7	men	men	CCONJ		
+8	optagelsen	optagelse	NOUN		noun.act
+9	på	på	ADP		
+10	teaterskolen	teaterskole	NOUN		noun.institution
+11	blev	blive	AUX		verb.stative
+12	smertefuld	smertefuld	ADJ		adj.all
+13	for	for	ADP		
+14	ham	han	PRON		
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1547.tsv
+# sent_id = 7
+# text = " Jeg havde på det tidspunkt en kæreste, som jeg havde boet sammen med i to år, men det forhold gik i vasken, da jeg begyndte på skolen.
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	havde	have	VERB		verb.possession
+4	på	på	ADP		
+5	det	det	DET		
+6	tidspunkt	tidspunkt	NOUN		noun.time
+7	en	en	DET		
+8	kæreste	kæreste	NOUN		noun.person
+9	,	,	PUNCT		
+10	som	som	ADP		
+11	jeg	jeg	PRON		
+12	havde	have	AUX		
+13	boet	bo	VERB		verb.stative
+14	sammen	sammen	ADV		
+15	med	med	ADP		
+16	i	i	ADP		
+17	to	to	NUM		
+18	år	år	NOUN		noun.time
+19	,	,	PUNCT		
+20	men	men	CCONJ		
+21	det	det	DET		
+22	forhold	forhold	NOUN		noun.relation
+23	gik	gå	VERB		verb.change
+24	i	i	ADP		verb.COLL
+25	vasken	vask	NOUN		verb.COLL
+26	,	,	PUNCT		
+27	da	da	SCONJ		
+28	jeg	jeg	PRON		
+29	begyndte	begynde	VERB		verb.aspectual
+30	på	på	ADP		
+31	skolen	skole	NOUN		noun.institution
+32	.	.	PUNCT		
+
+# newdoc id = DDT-1547.tsv
+# sent_id = 8
+# text =  Jeg blev forvirret, da alle mulighederne på skolen åbnede sig for mig.
+1	Jeg	jeg	PRON		
+2	blev	blive	AUX		verb.stative
+3	forvirret	forvirre	VERB		adj.mental
+4	,	,	PUNCT		
+5	da	da	SCONJ		
+6	alle	al	ADJ		
+7	mulighederne	mulighed	NOUN		noun.abstract
+8	på	på	ADP		
+9	skolen	skole	NOUN		noun.institution
+10	åbnede	åbne	VERB		verb.phenomenon
+11	sig	sig	PRON		
+12	for	for	ADP		
+13	mig	jeg	PRON		
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1547.tsv
+# sent_id = 9
+# text =  Der blev afprøvet en masse ting.
+1	Der	der	ADV		
+2	blev	blive	AUX		
+3	afprøvet	afprøve	VERB		verb.act
+4	en	en	DET		
+5	masse	masse	NOUN		noun.quantity
+6	ting	ting	NOUN		noun.abstract
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1547.tsv
+# sent_id = 10
+# text =  Man skulle lære sig selv at kende, og det var så tidskrævende, at det ikke gik med et parforhold."
+1	Man	man	PRON		
+2	skulle	skulle	AUX		
+3	lære	lære	VERB		verb.cognition
+4	sig	sig	PRON		
+5	selv	selv	PRON		
+6	at	at	PART		
+7	kende	kende	VERB		verb.cognition
+8	,	,	PUNCT		
+9	og	og	CCONJ		
+10	det	det	PRON		
+11	var	være	AUX		verb.stative
+12	så	så	ADV		
+13	tidskrævende	tidskrævende	ADJ		adj.all
+14	,	,	PUNCT		
+15	at	at	SCONJ		
+16	det	det	PRON		
+17	ikke	ikke	ADV		
+18	gik	gå	VERB		verb.phenomenon
+19	med	med	ADP		
+20	et	en	DET		
+21	parforhold	parforhold	NOUN		noun.relation
+22	.	.	PUNCT		
+23	"	"	PUNCT		
+

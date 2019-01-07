@@ -1,0 +1,229 @@
+# newdoc id = DDT-1406.tsv
+# sent_id = 1
+# text = " Vi tar' en tysker frem, vi tar' en tysker tilbage, vi tar' en tysker frem, åååårrr så ryster vi ham lidt!"
+1	"	"	PUNCT		
+2	Vi	vi	PRON		
+3	tar'	tar'	VERB		verb.motion
+4	en	en	DET		
+5	tysker	tysker	NOUN		noun.person
+6	frem	frem	ADV		
+7	,	,	PUNCT		
+8	vi	vi	PRON		
+9	tar'	tar'	VERB		verb.motion
+10	en	en	DET		
+11	tysker	tysker	NOUN		noun.person
+12	tilbage	tilbage	ADV		
+13	,	,	PUNCT		
+14	vi	vi	PRON		
+15	tar'	tar'	VERB		verb.motion
+16	en	en	DET		
+17	tysker	tysker	NOUN		noun.person
+18	frem	frem	ADV		
+19	,	,	PUNCT		
+20	åååårrr	åååårrr	INTJ		
+21	så	så	ADV		
+22	ryster	ryste	VERB		verb.motion
+23	vi	vi	PRON		
+24	ham	han	PRON		
+25	lidt	lidt	ADV		
+26	!	!	PUNCT		
+27	"	"	PUNCT		
+
+# newdoc id = DDT-1406.tsv
+# sent_id = 2
+# text =  Og rystede, det var tyskerne.
+1	Og	og	CCONJ		
+2	rystede	ryste	VERB		adj.mental
+3	,	,	PUNCT		
+4	det	det	PRON		
+5	var	være	AUX		verb.stative
+6	tyskerne	tysker	NOUN		noun.person
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1406.tsv
+# sent_id = 3
+# text =  Og det var ikke kun dem på banen:
+1	Og	og	CCONJ		
+2	det	det	PRON		
+3	var	være	AUX		verb.stative
+4	ikke	ikke	ADV		
+5	kun	kun	ADV		
+6	dem	de	PRON		
+7	på	på	ADP		
+8	banen	bane	NOUN		noun.location
+9	:	:	PUNCT		
+
+# newdoc id = DDT-1406.tsv
+# sent_id = 4
+# text = " Jeg har aldrig set Hamburg så tom, der er ingen mennesker på gaden her efter kampen.
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	har	have	AUX		
+4	aldrig	aldrig	ADV		
+5	set	se	VERB		verb.phenomenon
+6	Hamburg	hamburg	PROPN		noun.location
+7	så	så	ADV		
+8	tom	tom	ADV		adj.phys
+9	,	,	PUNCT		
+10	der	der	ADV		
+11	er	være	VERB		verb.stative
+12	ingen	ingen	DET		
+13	mennesker	menneske	NOUN		noun.person
+14	på	på	ADP		
+15	gaden	gade	NOUN		noun.location
+16	her	her	ADV		
+17	efter	efter	ADP		
+18	kampen	kamp	NOUN		noun.act
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1406.tsv
+# sent_id = 5
+# text =  Men vi må jo ønske jer til lykke med en fantastisk sejr," lød det i_går_aftes nedtrykt fra Harold Richard, sportsjournalist på Tysklands største avis, Bild, før det var hans tunge pligt at fylde sin avis med det største tyske nederlag i sportsmands minde.
+1	Men	men	CCONJ		
+2	vi	vi	PRON		
+3	må	måtte	AUX		
+4	jo	jo	ADV		
+5	ønske	ønske	VERB		verb.communication
+6	jer	i	PRON		
+7	til	til	ADP		
+8	lykke	lykke	NOUN		
+9	med	med	ADP		
+10	en	en	DET		
+11	fantastisk	fantastisk	ADJ		adj.all
+12	sejr	sejr	NOUN		noun.act
+13	,	,	PUNCT		
+14	"	"	PUNCT		
+15	lød	lyde	VERB		verb.communication
+16	det	det	PRON		
+17	i_går_aftes	i_går_aft	ADV		noun.time
+18	nedtrykt	nedtrykt	ADJ		
+19	fra	fra	ADP		
+20	Harold	harold	PROPN		noun.person
+21	Richard	richard	PROPN		noun.person
+22	,	,	PUNCT		
+23	sportsjournalist	sportsjournalist	NOUN		noun.person
+24	på	på	ADP		
+25	Tysklands	tysklands	PROPN		noun.institution
+26	største	stor	ADJ		adj.all
+27	avis	avis	NOUN		noun.communication
+28	,	,	PUNCT		
+29	Bild	bild	PROPN		noun.communication
+30	,	,	PUNCT		
+31	før	føre	SCONJ		
+32	det	det	PRON		
+33	var	være	AUX		
+34	hans	hans	DET		
+35	tunge	tung	ADJ		adj.all
+36	pligt	pligt	NOUN		noun.act
+37	at	at	PART		
+38	fylde	fylde	VERB		verb.creation
+39	sin	sin	DET		
+40	avis	avis	NOUN		noun.communication
+41	med	med	ADP		
+42	det	det	DET		
+43	største	stor	ADJ		adj.all
+44	tyske	tysk	ADJ		adj.social
+45	nederlag	nederlag	NOUN		noun.abstract
+46	i	i	ADP		
+47	sportsmands	sportsmand	NOUN		noun.person
+48	minde	minde	NOUN		noun.cognition
+49	.	.	PUNCT		
+
+# newdoc id = DDT-1406.tsv
+# sent_id = 6
+# text =  Det var ellers Bild, som dagen før EM-finalekampen over hele forsiden skrev:" Undskyld danskere, men i_dag tager vi sejren":
+1	Det	det	PRON		
+2	var	være	AUX		verb.stative
+3	ellers	ellers	ADV		
+4	Bild	bild	PROPN		noun.communication
+5	,	,	PUNCT		
+6	som	som	PRON		
+7	dagen	dag	NOUN		noun.time
+8	før	før	ADP		
+9	EM-finalekampen	em-finalekamp	NOUN		noun.event
+10	over	over	ADP		
+11	hele	hel	ADJ		adj.phys
+12	forsiden	forside	NOUN		noun.communication
+13	skrev	skrive	VERB		verb.creation
+14	:	:	PUNCT		
+15	"	"	PUNCT		
+16	Undskyld	undskylde	VERB		
+17	danskere	dansker	NOUN		noun.person
+18	,	,	PUNCT		
+19	men	men	CCONJ		
+20	i_dag	i_dag	NOUN		noun.time
+21	tager	tage	VERB		verb.possession
+22	vi	vi	PRON		
+23	sejren	sejr	NOUN		noun.act
+24	"	"	PUNCT		
+25	:	:	PUNCT		
+
+# newdoc id = DDT-1406.tsv
+# sent_id = 7
+# text = " Ja, det skrev vi... Nu må vi skrive til lykke.
+1	"	"	PUNCT		
+2	Ja	ja	INTJ		
+3	,	,	PUNCT		
+4	det	det	PRON		
+5	skrev	skrive	VERB		verb.communication
+6	vi	vi	PRON		
+7	...	...	PUNCT		
+8	Nu	nu	ADV		
+9	må	måtte	AUX		
+10	vi	vi	PRON		
+11	skrive	skrive	VERB		verb.communication
+12	til	til	ADP		
+13	lykke	lykke	NOUN		
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1406.tsv
+# sent_id = 8
+# text =  For én gangs skyld løb vores held ud, og vi bøjer os for jeres kvalitetsspil.
+1	For	for	ADP		
+2	én	én	DET		
+3	gangs	gang	ADJ		noun.abstract
+4	skyld	skyld	NOUN		noun.abstract
+5	løb	løbe	VERB		verb.phenomenon
+6	vores	vores	DET		
+7	held	held	NOUN		noun.phenomenon
+8	ud	ud	ADV		verb.PARTICLE
+9	,	,	PUNCT		
+10	og	og	CCONJ		
+11	vi	vi	PRON		
+12	bøjer	bøje	VERB		verb.motion
+13	os	vi	PRON		verb.REFLPRON
+14	for	for	ADP		
+15	jeres	jeres	DET		
+16	kvalitetsspil	kvalitetsspil	NOUN		noun.act
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1406.tsv
+# sent_id = 9
+# text =  Det var sporten, der vandt i_aften.
+1	Det	det	PRON		
+2	var	være	AUX		verb.stative
+3	sporten	sport	NOUN		noun.abstract
+4	,	,	PUNCT		
+5	der	der	PRON		
+6	vandt	vinde	VERB		verb.competition
+7	i_aften	i_aft	NOUN		noun.time
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1406.tsv
+# sent_id = 10
+# text =  Det tyske landshold spillede uden kvalitet i alle kampe undtagen kampen mod Sverige.
+1	Det	det	DET		
+2	tyske	tysk	ADJ		adj.social
+3	landshold	landshold	NOUN		noun.person
+4	spillede	spille	VERB		verb.competition
+5	uden	uden	ADP		
+6	kvalitet	kvalitet	NOUN		noun.attribute
+7	i	i	ADP		
+8	alle	al	ADJ		
+9	kampe	kamp	NOUN		noun.act
+10	undtagen	undtagen	ADP		
+11	kampen	kamp	NOUN		noun.act
+12	mod	mod	ADP		
+13	Sverige	sverige	PROPN		noun.institution
+14	.	.	PUNCT		
+

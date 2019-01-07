@@ -1,0 +1,230 @@
+# newdoc id = DDT-1350.tsv
+# sent_id = 1
+# text =  Og Hans musiksmag er de gode, gamle som Elvis og Tom Jones.
+1	Og	og	CCONJ		
+2	Hans	hans	DET		
+3	musiksmag	musiksmag	NOUN		noun.attribute
+4	er	være	AUX		verb.stative
+5	de	den	DET		
+6	gode	god	ADJ		adj.all
+7	,	,	PUNCT		
+8	gamle	gammel	ADJ		adj.time
+9	som	som	ADP		
+10	Elvis	elvis	PROPN		noun.communication
+11	og	og	CCONJ		
+12	Tom	tom	PROPN		noun.communication
+13	Jones	jones	PROPN		noun.communication
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1350.tsv
+# sent_id = 2
+# text = " Jeg forsøger altid at slå et smut til Vegas, når Tom optræder," fortæller han.
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	forsøger	forsøge	VERB		verb.act
+4	altid	altid	ADV		
+5	at	at	PART		
+6	slå	slå	VERB		verb.motion
+7	et	en	DET		verb.COLL
+8	smut	smut	NOUN		verb.COLL
+9	til	til	ADP		verb.COLL
+10	Vegas	vegas	PROPN		noun.location
+11	,	,	PUNCT		
+12	når	når	SCONJ		
+13	Tom	tom	PROPN		noun.person
+14	optræder	optræde	VERB		verb.act
+15	,	,	PUNCT		
+16	"	"	PUNCT		
+17	fortæller	fortælle	VERB		verb.communication
+18	han	han	PRON		
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1350.tsv
+# sent_id = 3
+# text = " Tom er bare cool, så ham vil jeg se.
+1	"	"	PUNCT		
+2	Tom	tom	PROPN		noun.person
+3	er	være	AUX		verb.stative
+4	bare	bare	ADV		
+5	cool	cool	ADJ		adj.all
+6	,	,	PUNCT		
+7	så	så	SCONJ		
+8	ham	han	PRON		
+9	vil	ville	AUX		
+10	jeg	jeg	PRON		
+11	se	se	VERB		verb.perception
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1350.tsv
+# sent_id = 4
+# text =  Han var Elvis' yndlingssanger, så kom ikke her!"
+1	Han	han	PRON		
+2	var	være	AUX		verb.stative
+3	Elvis'	elvis'	PROPN		noun.person
+4	yndlingssanger	yndlingssang	NOUN		noun.person
+5	,	,	PUNCT		
+6	så	så	ADV		
+7	kom	komme	VERB		verb.motion
+8	ikke	ikke	ADV		
+9	her	her	ADV		
+10	!	!	PUNCT		
+11	"	"	PUNCT		
+
+# newdoc id = DDT-1350.tsv
+# sent_id = 5
+# text =  Jason synes ikke altid, det er skægt at være berømt.
+1	Jason	jason	PROPN		
+2	synes	synes	VERB		verb.cognition
+3	ikke	ikke	ADV		
+4	altid	altid	ADV		
+5	,	,	PUNCT		
+6	det	det	PRON		
+7	er	være	AUX		verb.stative
+8	skægt	skæg	ADJ		adj.mental
+9	at	at	PART		
+10	være	være	AUX		verb.stative
+11	berømt	berømt	ADJ		adj.social
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1350.tsv
+# sent_id = 6
+# text = " Det værste er at blive forfulgt at teenage-piger.
+1	"	"	PUNCT		
+2	Det	det	DET		
+3	værste	værst	ADJ		adj.all
+4	er	være	VERB		verb.stative
+5	at	at	PART		
+6	blive	blive	AUX		
+7	forfulgt	forfølge	VERB		verb.act
+8	at	at	SCONJ		
+9	teenage-piger	teenage-p	NOUN		noun.person
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1350.tsv
+# sent_id = 7
+# text =  Hvis du bare skal skrive et par autografer, er det fint, men at blive jagtet ned ad gaden af dem er bare ikke sagen.
+1	Hvis	hvis	SCONJ		
+2	du	du	PRON		
+3	bare	bare	ADV		
+4	skal	skulle	AUX		
+5	skrive	skrive	VERB		verb.creation
+6	et	en	DET		
+7	par	par	NOUN		noun.quantity
+8	autografer	autograf	NOUN		noun.communication
+9	,	,	PUNCT		
+10	er	være	AUX		verb.stative
+11	det	det	PRON		
+12	fint	fin	ADJ		adj.all
+13	,	,	PUNCT		
+14	men	men	CCONJ		
+15	at	at	PART		
+16	blive	blive	AUX		
+17	jagtet	jagte	VERB		verb.motion
+18	ned	ned	ADV		
+19	ad	ad	ADP		
+20	gaden	gade	NOUN		noun.location
+21	af	af	ADP		
+22	dem	de	PRON		
+23	er	være	AUX		verb.stative
+24	bare	bare	ADV		
+25	ikke	ikke	ADV		
+26	sagen	sag	NOUN		adj.all
+27	.	.	PUNCT		
+
+# newdoc id = DDT-1350.tsv
+# sent_id = 8
+# text =  Det er lyden, der er værst- lyden af de trampende fødder, der bare bliver højere og højere..."
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	lyden	lyde	NOUN		noun.phenomenon
+4	,	,	PUNCT		
+5	der	der	PRON		
+6	er	være	AUX		verb.stative
+7	værst	værst	ADJ		adj.all
+8	-	-	PUNCT		
+9	lyden	lyde	NOUN		noun.phenomenon
+10	af	af	ADP		
+11	de	den	DET		
+12	trampende	trampe	VERB		adj.all
+13	fødder	fod	NOUN		noun.body
+14	,	,	PUNCT		
+15	der	der	PRON		
+16	bare	bare	ADV		
+17	bliver	blive	AUX		verb.change
+18	højere	høj	ADJ		adj.all
+19	og	og	CCONJ		
+20	højere	høj	ADJ		adj.all
+21	...	...	PUNCT		
+22	"	"	PUNCT		
+
+# newdoc id = DDT-1350.tsv
+# sent_id = 9
+# text =  I Beverly må skuespillerne foregå de ungdommelige seere med et godt eksempel- ingen stoffer, druk og sexorgier, tak.
+1	I	i	ADP		
+2	Beverly	beverly	PROPN		noun.location
+3	må	måtte	AUX		
+4	skuespillerne	skuespiller	NOUN		noun.person
+5	foregå	foregå	VERB		verb.act
+6	de	den	DET		
+7	ungdommelige	ungdommelig	ADJ		adj.mental
+8	seere	seer	NOUN		noun.person
+9	med	med	ADP		
+10	et	en	DET		
+11	godt	god	ADJ		adj.all
+12	eksempel	eksempel	NOUN		noun.abstract
+13	-	-	PUNCT		
+14	ingen	ingen	DET		
+15	stoffer	stof	NOUN		noun.substance
+16	,	,	PUNCT		
+17	druk	druk	NOUN		noun.act
+18	og	og	CCONJ		
+19	sexorgier	sexorgie	NOUN		noun.event
+20	,	,	PUNCT		
+21	tak	tak	NOUN		
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1350.tsv
+# sent_id = 10
+# text =  Men privat er Jason Priestley absolut ingen duksedreng.
+1	Men	men	CCONJ		
+2	privat	privat	ADV		adj.all
+3	er	være	AUX		verb.stative
+4	Jason	jason	PROPN		noun.person
+5	Priestley	priestley	PROPN		noun.person
+6	absolut	absolut	ADV		
+7	ingen	ingen	DET		
+8	duksedreng	duksedreng	NOUN		noun.person
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1350.tsv
+# sent_id = 11
+# text =  Han både ryger, drikker og bander.
+1	Han	han	PRON		
+2	både	både	ADV		
+3	ryger	ryge	VERB		verb.act
+4	,	,	PUNCT		
+5	drikker	drikke	VERB		verb.act
+6	og	og	CCONJ		
+7	bander	bande	NOUN		verb.act
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1350.tsv
+# sent_id = 12
+# text =  Men det får de tilbedende damer ikke at vide- medmindre en ond journalist sladrer...
+1	Men	men	CCONJ		
+2	det	det	PRON		
+3	får	få	VERB		verb.phenomenon
+4	de	den	DET		
+5	tilbedende	tilbede	VERB		adj.all
+6	damer	dame	NOUN		noun.person
+7	ikke	ikke	ADV		
+8	at	at	PART		
+9	vide	vide	VERB		verb.cognition
+10	-	-	PUNCT		
+11	medmindre	medmindre	SCONJ		
+12	en	en	DET		
+13	ond	ond	ADJ		adj.all
+14	journalist	journalist	NOUN		noun.person
+15	sladrer	sladre	VERB		verb.communication
+16	...	...	PUNCT		
+

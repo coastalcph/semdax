@@ -1,0 +1,261 @@
+# newdoc id = DDT-1365.tsv
+# sent_id = 1
+# text =  Det har altid overrasket folk syd for grænsen, at man i Danmark kunne gennemføre en meget kort valgkamp.
+1	Det	det	PRON		
+2	har	have	AUX		
+3	altid	altid	ADV		
+4	overrasket	overraske	VERB		verb.cognition
+5	folk	folk	NOUN		noun.person
+6	syd	syd	ADV		
+7	for	for	ADP		
+8	grænsen	grænse	NOUN		noun.location
+9	,	,	PUNCT		
+10	at	at	SCONJ		
+11	man	man	PRON		
+12	i	i	ADP		
+13	Danmark	danmark	PROPN		noun.location
+14	kunne	kunne	AUX		
+15	gennemføre	gennemføre	VERB		verb.act
+16	en	en	DET		
+17	meget	megen	ADV		
+18	kort	kort	ADJ		adj.time
+19	valgkamp	valgkamp	NOUN		noun.act
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1365.tsv
+# sent_id = 2
+# text =  Tre uger efter, at statsministeren har udskrevet valget, kan det gennemføres.
+1	Tre	tre	ADJ		
+2	uger	uge	NOUN		noun.time
+3	efter	efter	ADP		
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	statsministeren	statsminister	NOUN		noun.person
+7	har	have	AUX		
+8	udskrevet	udskrive	VERB		verb.aspectual
+9	valget	valg	NOUN		noun.event
+10	,	,	PUNCT		
+11	kan	kunne	AUX		
+12	det	det	PRON		
+13	gennemføres	gennemføre	VERB		verb.act
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1365.tsv
+# sent_id = 3
+# text =  I Slesvig-Holsten skal vi bruge 70-90 dage for blot at klare de formelle ting.
+1	I	i	ADP		
+2	Slesvig-Holsten	slesvig-holsten	PROPN		noun.location
+3	skal	skulle	AUX		
+4	vi	vi	PRON		
+5	bruge	bruge	VERB		verb.act
+6	70-90	70-90	NUM		
+7	dage	dag	NOUN		noun.time
+8	for	for	ADP		
+9	blot	blot	ADV		
+10	at	at	PART		
+11	klare	klare	VERB		verb.act
+12	de	den	DET		
+13	formelle	formel	ADJ		adj.all
+14	ting	ting	NOUN		noun.abstract
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1365.tsv
+# sent_id = 4
+# text =  En valgkamp føres derfor over en lang tid.
+1	En	en	DET		
+2	valgkamp	valgkamp	NOUN		noun.act
+3	føres	føre	VERB		verb.act
+4	derfor	derfor	ADV		
+5	over	over	ADP		
+6	en	en	DET		
+7	lang	lang	ADJ		adj.phys
+8	tid	tid	NOUN		noun.time
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1365.tsv
+# sent_id = 5
+# text =  Den nuværende sluttede allerede i august 1991.
+1	Den	den	DET		
+2	nuværende	nuværende	ADJ		adj.time
+3	sluttede	slutte	VERB		verb.aspectual
+4	allerede	allerede	ADV		
+5	i	i	ADP		
+6	august	august	NOUN		noun.time
+7	1991	1991	NUM		noun.time
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1365.tsv
+# sent_id = 6
+# text =  En anden overraskelse er ligeledes radioens og TVs valgudsendelser.
+1	En	en	DET		
+2	anden	anden	DET		
+3	overraskelse	overraskelse	NOUN		noun.feeling
+4	er	være	AUX		verb.stative
+5	ligeledes	ligeledes	ADV		
+6	radioens	radio	NOUN		noun.institution
+7	og	og	CCONJ		
+8	TVs	tvs	PROPN		noun.institution
+9	valgudsendelser	valgudsendelse	NOUN		noun.communication
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1365.tsv
+# sent_id = 7
+# text =  Dette, at hvert parti får samme sendetid i TV og radio, forstår flertallet af vore tyske medborgere slet ikke.
+1	Dette	denne	PRON		
+2	,	,	PUNCT		
+3	at	at	SCONJ		
+4	hvert	hver	PRON		
+5	parti	parti	NOUN		noun.institution
+6	får	få	VERB		verb.possession
+7	samme	samme	ADJ		
+8	sendetid	sendetid	NOUN		noun.time
+9	i	i	ADP		
+10	TV	tv	NOUN		noun.artifact
+11	og	og	CCONJ		
+12	radio	radio	NOUN		noun.artifact
+13	,	,	PUNCT		
+14	forstår	forstå	VERB		verb.cognition
+15	flertallet	flertal	NOUN		noun.person
+16	af	af	ADP		
+17	vore	vor	DET		
+18	tyske	tysk	ADJ		adj.social
+19	medborgere	medborger	NOUN		noun.person
+20	slet	slet	ADV		
+21	ikke	ikke	ADV		
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1365.tsv
+# sent_id = 8
+# text =  Minut- eller sekunddemokrati bliver dette hånligt kaldt.
+1	Minut-	minut-	NOUN		noun.abstract
+2	eller	eller	CCONJ		noun.abstract
+3	sekunddemokrati	sekunddemokrati	NOUN		noun.abstract
+4	bliver	blive	AUX		verb.stative
+5	dette	denne	PRON		
+6	hånligt	hånlig	ADV		
+7	kaldt	kalde	VERB		verb.communication
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1365.tsv
+# sent_id = 9
+# text =  Udtryk jeg i_øvrigt også har hørt nord for grænsen.
+1	Udtryk	udtryk	NOUN		noun.communication
+2	jeg	jeg	PRON		
+3	i_øvrigt	i_øvr	ADV		
+4	også	også	ADV		
+5	har	have	AUX		
+6	hørt	høre	VERB		verb.perception
+7	nord	nord	ADV		noun.location
+8	for	for	ADP		
+9	grænsen	grænse	NOUN		noun.location
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1365.tsv
+# sent_id = 10
+# text =  Jeg holder imidlertid af dette princip.
+1	Jeg	jeg	PRON		
+2	holder	holde	VERB		verb.emotion
+3	imidlertid	imidlertid	ADV		
+4	af	af	ADP		verb.PARTICLE
+5	dette	denne	DET		
+6	princip	princip	NOUN		noun.cognition
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1365.tsv
+# sent_id = 11
+# text =  Hvert parti, der opstiller, skal have samme chance, hvad enten det er et helt nyt parti, der aldrig har været repræsenteret i parlamentet, eller det er landets største parti eller regeringspartiet.
+1	Hvert	hver	PRON		
+2	parti	parti	NOUN		noun.person
+3	,	,	PUNCT		
+4	der	der	PRON		
+5	opstiller	opstille	VERB		verb.act
+6	,	,	PUNCT		
+7	skal	skulle	AUX		
+8	have	have	VERB		verb.possession
+9	samme	samme	ADJ		
+10	chance	chance	NOUN		noun.abstract
+11	,	,	PUNCT		
+12	hvad	hvad	PRON		
+13	enten	enten	SCONJ		
+14	det	det	PRON		
+15	er	være	AUX		verb.stative
+16	et	en	DET		
+17	helt	helt	ADV		
+18	nyt	ny	ADJ		adj.time
+19	parti	parti	NOUN		noun.person
+20	,	,	PUNCT		
+21	der	der	PRON		
+22	aldrig	aldrig	ADV		
+23	har	have	AUX		
+24	været	være	AUX		
+25	repræsenteret	repræsentere	VERB		verb.stative
+26	i	i	ADP		
+27	parlamentet	parlament	NOUN		noun.building
+28	,	,	PUNCT		
+29	eller	eller	CCONJ		
+30	det	det	PRON		
+31	er	være	AUX		verb.stative
+32	landets	land	ADV		noun.person
+33	største	stor	ADJ		adj.phys
+34	parti	parti	NOUN		noun.person
+35	eller	eller	CCONJ		
+36	regeringspartiet	regeringsparti	NOUN		noun.person
+37	.	.	PUNCT		
+
+# newdoc id = DDT-1365.tsv
+# sent_id = 12
+# text =  Her møder jeg hård modstand hos de store tyske partier, både hos CDU og SPD.
+1	Her	her	ADV		
+2	møder	møde	VERB		verb.social
+3	jeg	jeg	PRON		
+4	hård	hård	ADJ		adj.phys
+5	modstand	modstand	NOUN		noun.act
+6	hos	hos	ADP		
+7	de	den	DET		
+8	store	stor	ADJ		adj.phys
+9	tyske	tysk	ADJ		adj.social
+10	partier	parti	NOUN		noun.person
+11	,	,	PUNCT		
+12	både	både	ADV		
+13	hos	hos	ADP		
+14	CDU	cdu	PROPN		noun.institution
+15	og	og	CCONJ		
+16	SPD	spd	PROPN		noun.institution
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1365.tsv
+# sent_id = 13
+# text =  Styrkeforholdet må være det afgørende, siger de begge.
+1	Styrkeforholdet	styrkeforhold	NOUN		noun.relation
+2	må	måtte	AUX		
+3	være	være	AUX		verb.stative
+4	det	det	DET		
+5	afgørende	afgørende	ADJ		adj.all
+6	,	,	PUNCT		
+7	siger	sige	VERB		verb.communication
+8	de	den	PRON		
+9	begge	begge	PRON		
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1365.tsv
+# sent_id = 14
+# text =  Det største parti må have de fleste udsendelser før et valg, og det mindste de færreste.
+1	Det	det	DET		
+2	største	stor	ADJ		adj.phys
+3	parti	parti	NOUN		noun.person
+4	må	måtte	AUX		
+5	have	have	VERB		verb.possession
+6	de	den	DET		
+7	fleste	mangen	ADJ		
+8	udsendelser	udsendelse	NOUN		noun.communication
+9	før	før	ADP		
+10	et	en	DET		
+11	valg	valg	NOUN		noun.event
+12	,	,	PUNCT		
+13	og	og	CCONJ		
+14	det	det	DET		
+15	mindste	lille	ADJ		noun.person
+16	de	den	DET		
+17	færreste	få	ADJ		noun.communication
+18	.	.	PUNCT		
+

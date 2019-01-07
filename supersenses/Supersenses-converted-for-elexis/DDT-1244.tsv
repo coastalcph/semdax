@@ -1,0 +1,237 @@
+# newdoc id = DDT-1244.tsv
+# sent_id = 1
+# text = " Den går lige præcis der, hvor politiske dispositioner træffes af private årsager," mener Tage Kaarsted.
+1	"	"	PUNCT		
+2	Den	den	PRON		
+3	går	gå	VERB		verb.stative
+4	lige	lige	ADV		
+5	præcis	præcis	ADV		
+6	der	der	ADV		
+7	,	,	PUNCT		
+8	hvor	hvor	ADV		
+9	politiske	politisk	ADJ		adj.social
+10	dispositioner	disposition	NOUN		noun.communication
+11	træffes	træffes	VERB		verb.cognition
+12	af	af	ADP		
+13	private	privat	ADJ		adj.social
+14	årsager	årsag	NOUN		noun.motive
+15	,	,	PUNCT		
+16	"	"	PUNCT		
+17	mener	mene	VERB		verb.emotion
+18	Tage	tage	PROPN		noun.person
+19	Kaarsted	kaarsted	PROPN		noun.person
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1244.tsv
+# sent_id = 2
+# text = " Så løftes det private ud af privatlivets fred.
+1	"	"	PUNCT		
+2	Så	så	ADV		
+3	løftes	løfte	VERB		verb.motion
+4	det	det	DET		
+5	private	privat	ADJ		adj.social
+6	ud	ud	ADV		
+7	af	af	ADP		
+8	privatlivets	privatliv	ADJ		noun.phenomenon
+9	fred	fred	NOUN		noun.attribute
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1244.tsv
+# sent_id = 3
+# text =  Hvis en statsminister er maniodepressiv ( det var Viggo Kampmann), har det historisk relevans, fordi man gå ud fra, at en mand, der lider af en alvorlig sindssygdom, ikke i alle situationer er forretningsduelig.
+1	Hvis	hvis	SCONJ		
+2	en	en	DET		
+3	statsminister	statsminister	NOUN		noun.person
+4	er	være	AUX		verb.stative
+5	maniodepressiv	maniodepressiv	ADJ		adj.mental
+6	(	(	PUNCT		
+7	det	det	PRON		
+8	var	være	AUX		verb.stative
+9	Viggo	viggo	PROPN		noun.person
+10	Kampmann	kampmann	PROPN		noun.person
+11	)	)	PUNCT		
+12	,	,	PUNCT		
+13	har	have	VERB		verb.stative
+14	det	det	DET		
+15	historisk	historisk	ADJ		adj.social
+16	relevans	relevans	NOUN		noun.cognition
+17	,	,	PUNCT		
+18	fordi	fordi	SCONJ		
+19	man	man	PRON		
+20	gå	gå	VERB		verb.cognition
+21	ud	ud	ADV		verb.COLL
+22	fra	fra	ADP		verb.COLL
+23	,	,	PUNCT		
+24	at	at	SCONJ		
+25	en	en	DET		
+26	mand	mand	NOUN		noun.person
+27	,	,	PUNCT		
+28	der	der	PRON		
+29	lider	lide	VERB		verb.phenomenon
+30	af	af	ADP		
+31	en	en	DET		
+32	alvorlig	alvorlig	ADJ		adj.all
+33	sindssygdom	sindssygdom	NOUN		noun.disease
+34	,	,	PUNCT		
+35	ikke	ikke	ADV		
+36	i	i	ADP		
+37	alle	al	ADJ		
+38	situationer	situation	NOUN		noun.abstract
+39	er	være	AUX		verb.stative
+40	forretningsduelig	forretningsdu	ADJ		adj.mental
+41	.	.	PUNCT		
+
+# newdoc id = DDT-1244.tsv
+# sent_id = 4
+# text =  Men det skal dokumenteres, at det har spillet en rolle.
+1	Men	men	CCONJ		
+2	det	det	PRON		
+3	skal	skulle	AUX		
+4	dokumenteres	dokumentere	VERB		verb.communication
+5	,	,	PUNCT		
+6	at	at	SCONJ		
+7	det	det	PRON		
+8	har	have	AUX		
+9	spillet	spille	VERB		verb.phenomenon
+10	en	en	DET		verb.COLL
+11	rolle	rolle	NOUN		verb.COLL
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1244.tsv
+# sent_id = 5
+# text =  Det er forskellen på journalistik og samtidshistorie."
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	forskellen	forskel	NOUN		noun.abstract
+4	på	på	ADP		
+5	journalistik	journalistik	NOUN		noun.domain
+6	og	og	CCONJ		
+7	samtidshistorie	samtidshistorie	NOUN		noun.domain
+8	.	.	PUNCT		
+9	"	"	PUNCT		
+
+# newdoc id = DDT-1244.tsv
+# sent_id = 6
+# text =  Kampmann var maniodepressiv
+1	Kampmann	kampmann	PROPN		noun.person
+2	var	være	AUX		verb.stative
+3	maniodepressiv	maniodepressiv	ADJ		adj.mental
+
+# newdoc id = DDT-1244.tsv
+# sent_id = 7
+# text =  Historikeren, lektor dr.phil. Henrik S. Nissen, der selv har gjort en hæderkronet indsats for at aflive vrøvl og myter i besættelsestidshistorien, f.eks. Rostock-myten, siger rent ud, at" folk, der tager et offentligt embede, må finde sig i, at deres handlinger bliver beskrevet.
+1	Historikeren	historiker	NOUN		noun.person
+2	,	,	PUNCT		
+3	lektor	lektor	NOUN		noun.person
+4	dr.phil.	dr.phil.	ADV		noun.person
+5	Henrik	henrik	PROPN		noun.person
+6	S.	s.	PROPN		noun.person
+7	Nissen	nissen	PROPN		noun.person
+8	,	,	PUNCT		
+9	der	der	PRON		
+10	selv	selv	PRON		
+11	har	have	AUX		
+12	gjort	gøre	VERB		verb.act
+13	en	en	DET		
+14	hæderkronet	hæderkronet	ADJ		adj.social
+15	indsats	indsats	NOUN		noun.act
+16	for	for	ADP		
+17	at	at	PART		
+18	aflive	aflive	VERB		verb.change
+19	vrøvl	vrøvle	ADJ		noun.communication
+20	og	og	CCONJ		
+21	myter	myte	NOUN		noun.communication
+22	i	i	ADP		
+23	besættelsestidshistorien	besættelsestidshistori	NOUN		noun.time
+24	,	,	PUNCT		
+25	f.eks.	f.eks.	ADV		
+26	Rostock-myten	rostock-myt	NOUN		noun.communication
+27	,	,	PUNCT		
+28	siger	sige	VERB		verb.communication
+29	rent	ren	ADV		
+30	ud	ud	ADV		
+31	,	,	PUNCT		
+32	at	at	SCONJ		
+33	"	"	PUNCT		
+34	folk	folk	NOUN		noun.person
+35	,	,	PUNCT		
+36	der	der	PRON		
+37	tager	tage	VERB		verb.act
+38	et	en	DET		
+39	offentligt	offentlig	ADJ		adj.social
+40	embede	embede	NOUN		noun.act
+41	,	,	PUNCT		
+42	må	måtte	AUX		
+43	finde	finde	VERB		verb.cognition
+44	sig	sig	PRON		verb.REFLPRON
+45	i	i	ADP		verb.COLL
+46	,	,	PUNCT		
+47	at	at	SCONJ		
+48	deres	deres	DET		
+49	handlinger	handling	NOUN		noun.act
+50	bliver	blive	AUX		
+51	beskrevet	beskrive	VERB		verb.communication
+52	.	.	PUNCT		
+
+# newdoc id = DDT-1244.tsv
+# sent_id = 8
+# text =  I Hækkerup-sagen sidder man med spørgsmålet: Hvorfor i alverden blev de streger slået sådan?
+1	I	i	ADP		
+2	Hækkerup-sagen	hækkerup-sag	NOUN		noun.abstract
+3	sidder	sidde	VERB		verb.stative
+4	man	man	PRON		
+5	med	med	ADP		
+6	spørgsmålet	spørgsmål	NOUN		noun.communication
+7	:	:	PUNCT		
+8	Hvorfor	hvorfor	ADV		
+9	i	i	ADP		
+10	alverden	alverden	NOUN		
+11	blev	blive	AUX		
+12	de	den	DET		
+13	streger	streg	NOUN		noun.shape
+14	slået	slå	VERB		verb.creation
+15	sådan	sådan	ADV		
+16	?	?	PUNCT		
+
+# newdoc id = DDT-1244.tsv
+# sent_id = 9
+# text =  Blev de det, fordi ministeren ikke var ædru, så kan man ikke gå forbi det.
+1	Blev	blive	VERB		verb.stative
+2	de	den	PRON		
+3	det	det	PRON		
+4	,	,	PUNCT		
+5	fordi	fordi	SCONJ		
+6	ministeren	minister	NOUN		noun.person
+7	ikke	ikke	ADV		
+8	var	være	AUX		verb.stative
+9	ædru	ædru	ADJ		adj.all
+10	,	,	PUNCT		
+11	så	så	ADV		
+12	kan	kunne	AUX		
+13	man	man	PRON		
+14	ikke	ikke	ADV		
+15	gå	gå	VERB		verb.act
+16	forbi	forbi	ADV		
+17	det	det	PRON		
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1244.tsv
+# sent_id = 10
+# text =  Grænsen ligger der, hvor man efterspørger en forklaring, der ellers ikke kan gives.
+1	Grænsen	grænse	NOUN		noun.abstract
+2	ligger	ligge	VERB		verb.stative
+3	der	der	ADV		
+4	,	,	PUNCT		
+5	hvor	hvor	ADV		
+6	man	man	PRON		
+7	efterspørger	efterspørge	VERB		verb.cognition
+8	en	en	DET		
+9	forklaring	forklaring	NOUN		noun.communication
+10	,	,	PUNCT		
+11	der	der	PRON		
+12	ellers	ellers	ADV		
+13	ikke	ikke	ADV		
+14	kan	kunne	AUX		
+15	gives	give	VERB		verb.communication
+16	.	.	PUNCT		
+

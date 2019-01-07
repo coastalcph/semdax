@@ -1,0 +1,223 @@
+# newdoc id = DDT-1508.tsv
+# sent_id = 1
+# text = " Da Lady Pamela Colin Campbell skrev sin bog om Diana, tog alle det som en" god sag".
+1	"	"	PUNCT		
+2	Da	da	SCONJ		
+3	Lady	lady	PROPN		noun.person
+4	Pamela	pamela	PROPN		noun.person
+5	Colin	colin	PROPN		noun.person
+6	Campbell	campbell	PROPN		noun.person
+7	skrev	skrive	VERB		verb.creation
+8	sin	sin	DET		
+9	bog	bog	NOUN		noun.communication
+10	om	om	ADP		
+11	Diana	diana	PROPN		noun.person
+12	,	,	PUNCT		
+13	tog	toge	VERB		verb.cognition
+14	alle	al	ADJ		
+15	det	det	PRON		
+16	som	som	ADP		
+17	en	en	DET		
+18	"	"	PUNCT		
+19	god	god	ADJ		adj.all
+20	sag	sag	NOUN		noun.abstract
+21	"	"	PUNCT		
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1508.tsv
+# sent_id = 2
+# text =  Diana blev heglet lidt igennem som en ret uskadelig, skæg pige, der ikke havde nemt ved at tænke selv, og det hyggede mange sig ved.
+1	Diana	diana	PROPN		noun.person
+2	blev	blive	AUX		
+3	heglet	hegl	VERB		verb.communication
+4	lidt	lidt	ADV		
+5	igennem	igennem	ADV		verb.COLL
+6	som	som	ADP		
+7	en	en	DET		
+8	ret	ret	ADV		
+9	uskadelig	uskadelig	ADJ		adj.all
+10	,	,	PUNCT		
+11	skæg	skæg	ADJ		adj.all
+12	pige	pige	NOUN		noun.person
+13	,	,	PUNCT		
+14	der	der	PRON		
+15	ikke	ikke	ADV		
+16	havde	have	VERB		verb.cognition
+17	nemt	nem	ADV		
+18	ved	ved	ADP		verb.COLL
+19	at	at	PART		
+20	tænke	tænke	VERB		verb.cognition
+21	selv	selv	PRON		
+22	,	,	PUNCT		
+23	og	og	CCONJ		
+24	det	det	PRON		
+25	hyggede	hygge	VERB		verb.cognition
+26	mange	mangen	ADJ		
+27	sig	sig	PRON		verb.REFLPRON
+28	ved	ved	ADP		
+29	.	.	PUNCT		
+
+# newdoc id = DDT-1508.tsv
+# sent_id = 3
+# text =  Da Andrew Morton fik sin" Diana- Her True Story" på gaden tre måneder senere, fik tonen pludselig en anden lyd.
+1	Da	da	SCONJ		
+2	Andrew	andrew	PROPN		noun.person
+3	Morton	morton	PROPN		noun.person
+4	fik	få	VERB		verb.possession
+5	sin	sin	DET		
+6	"	"	PUNCT		
+7	Diana	diana	PROPN		noun.communication
+8	-	-	PUNCT		noun.communication
+9	Her	her	PROPN		noun.communication
+10	True	true	PROPN		noun.communication
+11	Story	story	PROPN		noun.communication
+12	"	"	PUNCT		
+13	på	på	ADP		verb.COLL
+14	gaden	gade	NOUN		verb.COLL
+15	tre	tre	NUM		
+16	måneder	måned	NOUN		noun.time
+17	senere	sen	ADV		
+18	,	,	PUNCT		
+19	fik	få	VERB		verb.phenomenon
+20	tonen	tone	NOUN		noun.phenomenon
+21	pludselig	pludselig	ADV		
+22	en	en	DET		
+23	anden	anden	DET		
+24	lyd	lyd	NOUN		noun.phenomenon
+25	.	.	PUNCT		
+
+# newdoc id = DDT-1508.tsv
+# sent_id = 4
+# text =  I den bog udtalte navngivne såvel som anonyme venner sig om Charles og fik ham til at fremstå som en slem tåbe, som Diana var led og ked af, og så var det Buckingham-mafiaen gik til modangreb," siger en nær ven af både prins Charles og Diana til B.T..
+1	I	i	ADP		
+2	den	den	DET		
+3	bog	bog	NOUN		noun.communication
+4	udtalte	udtale	VERB		verb.communication
+5	navngivne	navngivet	ADJ		adj.all
+6	såvel	såvel	ADV		
+7	som	som	ADP		
+8	anonyme	anonym	ADJ		adj.all
+9	venner	ven	NOUN		noun.person
+10	sig	sig	PRON		
+11	om	om	ADP		
+12	Charles	charles	PROPN		noun.person
+13	og	og	CCONJ		
+14	fik	få	VERB		verb.act
+15	ham	han	PRON		
+16	til	til	ADP		verb.PARTICLE
+17	at	at	PART		
+18	fremstå	fremstå	VERB		verb.phenomenon
+19	som	som	ADP		
+20	en	en	DET		
+21	slem	slem	ADJ		adj.all
+22	tåbe	tåbe	NOUN		noun.person
+23	,	,	PUNCT		
+24	som	som	ADP		
+25	Diana	diana	PROPN		noun.person
+26	var	være	AUX		verb.stative
+27	led	led	ADJ		adj.mental
+28	og	og	CCONJ		
+29	ked	ked	ADJ		adj.mental
+30	af	af	ADP		
+31	,	,	PUNCT		
+32	og	og	CCONJ		
+33	så	så	ADV		
+34	var	være	AUX		verb.stative
+35	det	det	PRON		
+36	Buckingham-mafiaen	buckingham-mafia	NOUN		noun.person
+37	gik	gå	VERB		verb.act
+38	til	til	ADP		
+39	modangreb	modangreb	NOUN		noun.act
+40	,	,	PUNCT		
+41	"	"	PUNCT		
+42	siger	sige	VERB		verb.communication
+43	en	en	DET		
+44	nær	nær	ADJ		adj.mental
+45	ven	ven	NOUN		noun.person
+46	af	af	ADP		
+47	både	både	ADV		
+48	prins	prins	NOUN		noun.person
+49	Charles	charles	PROPN		noun.person
+50	og	og	CCONJ		
+51	Diana	diana	PROPN		noun.person
+52	til	til	ADP		
+53	B.T.	b.t.	PROPN		noun.person
+54	.	.	PUNCT		
+
+# newdoc id = DDT-1508.tsv
+# sent_id = 5
+# text =  PERSONLIGE BREVE STJÅLET
+1	PERSONLIGE	personlig	ADJ		adj.all
+2	BREVE	brev	NOUN		noun.communication
+3	STJÅLET	stjæle	VERB		verb.act
+
+# newdoc id = DDT-1508.tsv
+# sent_id = 6
+# text =  Nye" afsløringer" omkring Dianas mere-end-venskab med en anden af husets venner, Major Hewitt, er nyeste" hit".
+1	Nye	ny	ADJ		adj.time
+2	"	"	PUNCT		
+3	afsløringer	afsløring	NOUN		noun.communication
+4	"	"	PUNCT		
+5	omkring	omkring	ADP		
+6	Dianas	dianas	PROPN		noun.person
+7	mere-end-venskab	mere-end-venskab	NOUN		noun.relation
+8	med	med	ADP		
+9	en	en	PRON		
+10	anden	anden	PRON		
+11	af	af	ADP		
+12	husets	hus	DET		noun.person
+13	venner	ven	NOUN		noun.person
+14	,	,	PUNCT		
+15	Major	major	NOUN		noun.person
+16	Hewitt	hewitt	PROPN		noun.person
+17	,	,	PUNCT		
+18	er	være	AUX		
+19	nyeste	ny	ADJ		adj.time
+20	"	"	PUNCT		
+21	hit	hit	NOUN		noun.abstract
+22	"	"	PUNCT		
+23	.	.	PUNCT		
+
+# newdoc id = DDT-1508.tsv
+# sent_id = 7
+# text =  Major Hewitt og Diana kender hinanden godt, bl.a. fordi han har spillet med på prins Charles polo-hold, og da han blev sendt ned til Golf-krigen, lovede både prins Charles og Diana at skrive til ham.
+1	Major	major	NOUN		noun.person
+2	Hewitt	hewitt	PROPN		noun.person
+3	og	og	CCONJ		
+4	Diana	diana	PROPN		noun.person
+5	kender	kende	VERB		verb.cognition
+6	hinanden	hinanden	PRON		
+7	godt	godte	ADV		
+8	,	,	PUNCT		
+9	bl.a.	bl.a.	ADV		
+10	fordi	fordi	SCONJ		
+11	han	han	PRON		
+12	har	have	AUX		
+13	spillet	spille	VERB		verb.act
+14	med	med	ADV		
+15	på	på	ADP		
+16	prins	prins	NOUN		noun.person
+17	Charles	charles	PROPN		noun.person
+18	polo-hold	polo-hold	NOUN		noun.person
+19	,	,	PUNCT		
+20	og	og	CCONJ		
+21	da	da	SCONJ		
+22	han	han	PRON		
+23	blev	blive	AUX		
+24	sendt	sende	VERB		verb.motion
+25	ned	ned	ADV		
+26	til	til	ADP		
+27	Golf-krigen	golf-kr	NOUN		noun.location
+28	,	,	PUNCT		
+29	lovede	love	VERB		verb.communication
+30	både	både	ADV		
+31	prins	prins	NOUN		noun.person
+32	Charles	charles	PROPN		noun.person
+33	og	og	CCONJ		
+34	Diana	diana	PROPN		noun.person
+35	at	at	PART		
+36	skrive	skrive	VERB		verb.communication
+37	til	til	ADP		
+38	ham	han	PRON		
+39	.	.	PUNCT		
+

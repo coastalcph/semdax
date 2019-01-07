@@ -1,0 +1,237 @@
+# newdoc id = DDT-1328.tsv
+# sent_id = 1
+# text =  Michael:" Ja, for jeg forstår stadig ikke, hvordan i himlens navn de kunne stemme os ned på en tredjesidste plads.
+1	Michael	michael	PROPN		noun.person
+2	:	:	PUNCT		
+3	"	"	PUNCT		
+4	Ja	ja	INTJ		
+5	,	,	PUNCT		
+6	for	for	CCONJ		
+7	jeg	jeg	PRON		
+8	forstår	forstå	VERB		verb.cognition
+9	stadig	stadig	ADV		
+10	ikke	ikke	ADV		
+11	,	,	PUNCT		
+12	hvordan	hvordan	ADV		
+13	i	i	ADP		
+14	himlens	himmel	NOUN		
+15	navn	navn	NOUN		
+16	de	den	PRON		
+17	kunne	kunne	AUX		
+18	stemme	stemme	VERB		verb.act
+19	os	vi	PRON		
+20	ned	ned	ADV		verb.COLL
+21	på	på	ADP		
+22	en	en	DET		
+23	tredjesidste	tredjesidste	ADJ		adj.all
+24	plads	plads	NOUN		noun.relation
+25	.	.	PUNCT		
+
+# newdoc id = DDT-1328.tsv
+# sent_id = 2
+# text =  Var vi blevet nummer fem-seks stykker, så lad gå- osse selv_om vi jo næsten troede, vi skulle vinde.
+1	Var	være	AUX		
+2	vi	vi	PRON		
+3	blevet	blive	AUX		verb.stative
+4	nummer	nummer	VERB		
+5	fem-seks	fem-sek	ADJ		
+6	stykker	stykke	NOUN		noun.quantity
+7	,	,	PUNCT		
+8	så	så	SCONJ		
+9	lad	lad	NOUN		verb.phenomenon
+10	gå	gå	VERB		verb.COLL
+11	-	-	PUNCT		
+12	osse	oss	ADJ		
+13	selv_om	selv_om	NOUN		
+14	vi	vi	PRON		
+15	jo	jo	ADV		
+16	næsten	næsten	ADV		
+17	troede	tro	VERB		verb.cognition
+18	,	,	PUNCT		
+19	vi	vi	PRON		
+20	skulle	skulle	AUX		
+21	vinde	vinde	VERB		verb.competition
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1328.tsv
+# sent_id = 3
+# text =  Vi lærte nogle ting dernede, som jeg håber DR også har taget ved lære af.
+1	Vi	vi	PRON		
+2	lærte	lære	VERB		verb.cognition
+3	nogle	nogen	DET		
+4	ting	ting	NOUN		noun.abstract
+5	dernede	dernede	ADV		
+6	,	,	PUNCT		
+7	som	som	ADP		
+8	jeg	jeg	PRON		
+9	håber	håbe	VERB		verb.cognition
+10	DR	dr	PROPN		noun.institution
+11	også	også	ADV		
+12	har	have	AUX		
+13	taget	tage	VERB		verb.cognition
+14	ved	ved	ADP		verb.COLL
+15	lære	lære	NOUN		verb.COLL
+16	af	af	ADP		
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1328.tsv
+# sent_id = 4
+# text =  Blandt_andet skal man lave en fed video med super-lyd til præsentationsprogrammerne.
+1	Blandt_andet	blandt_and	NOUN		
+2	skal	skulle	AUX		
+3	man	man	PRON		
+4	lave	lave	VERB		verb.creation
+5	en	en	DET		
+6	fed	fed	ADJ		adj.phys
+7	video	video	NOUN		noun.communication
+8	med	med	ADP		
+9	super-lyd	super-lyd	NOUN		noun.attribute
+10	til	til	ADP		
+11	præsentationsprogrammerne	præsentationsprogram	NOUN		noun.communication
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1328.tsv
+# sent_id = 5
+# text =  Vi sendte en kopi fra finalen i Århus, og det lød så ækelt- ushh!
+1	Vi	vi	PRON		
+2	sendte	sende	VERB		verb.act
+3	en	en	DET		
+4	kopi	kopi	NOUN		noun.artifact
+5	fra	fra	ADP		
+6	finalen	finale	NOUN		noun.event
+7	i	i	ADP		
+8	Århus	århus	PROPN		noun.location
+9	,	,	PUNCT		
+10	og	og	CCONJ		
+11	det	det	PRON		
+12	lød	lyde	VERB		verb.perception
+13	så	så	ADV		
+14	ækelt	ækel	ADV		adj.phys
+15	-	-	PUNCT		
+16	ushh	ush	NOUN		
+17	!	!	PUNCT		
+
+# newdoc id = DDT-1328.tsv
+# sent_id = 6
+# text =  Det tabte vi meget på."
+1	Det	det	PRON		
+2	tabte	tabe	VERB		verb.competition
+3	vi	vi	PRON		
+4	meget	megen	ADV		
+5	på	på	ADP		
+6	.	.	PUNCT		
+7	"	"	PUNCT		
+
+# newdoc id = DDT-1328.tsv
+# sent_id = 7
+# text =  Anders:" Og så må DR lære, at det ikke kan nytte noget bare at stille op med en god melodi, en god solist og et dygtigt kor.
+1	Anders	anders	PROPN		noun.person
+2	:	:	PUNCT		
+3	"	"	PUNCT		
+4	Og	og	CCONJ		
+5	så	så	ADV		
+6	må	måtte	AUX		
+7	DR	dr	PROPN		noun.institution
+8	lære	lære	VERB		verb.cognition
+9	,	,	PUNCT		
+10	at	at	SCONJ		
+11	det	det	PRON		
+12	ikke	ikke	ADV		
+13	kan	kunne	AUX		
+14	nytte	nytte	VERB		verb.phenomenon
+15	noget	nogen	PRON		
+16	bare	bare	ADV		
+17	at	at	PART		
+18	stille	stille	VERB		verb.motion
+19	op	op	ADV		verb.PARTICLE
+20	med	med	ADP		
+21	en	en	DET		
+22	god	god	ADJ		adj.all
+23	melodi	melodi	NOUN		noun.communication
+24	,	,	PUNCT		
+25	en	en	DET		
+26	god	god	ADJ		adj.all
+27	solist	solist	NOUN		noun.person
+28	og	og	CCONJ		
+29	et	en	DET		
+30	dygtigt	dygtig	ADJ		adj.all
+31	kor	kor	NOUN		noun.person
+32	.	.	PUNCT		
+
+# newdoc id = DDT-1328.tsv
+# sent_id = 8
+# text =  Varen skal sælges, koldt og kynisk.
+1	Varen	vare	NOUN		noun.artifact
+2	skal	skulle	AUX		
+3	sælges	sælge	VERB		verb.possession
+4	,	,	PUNCT		
+5	koldt	kold	ADV		
+6	og	og	CCONJ		
+7	kynisk	kynisk	ADV		
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1328.tsv
+# sent_id = 9
+# text =  Svenskerne var helt utrolige.
+1	Svenskerne	svensker	NOUN		noun.person
+2	var	være	AUX		verb.stative
+3	helt	helt	ADV		
+4	utrolige	utrolig	ADJ		adj.mental
+5	.	.	PUNCT		
+
+# newdoc id = DDT-1328.tsv
+# sent_id = 10
+# text =  Hele holdet i designede Carola-jakker, cocktail-parties, der væltede alt, og en producer, som havde hele kamera-gangen klar i mindste detalje til det italienske TV.
+1	Hele	hel	ADJ		
+2	holdet	hold	NOUN		noun.person
+3	i	i	ADP		
+4	designede	designe	VERB		verb.creation
+5	Carola-jakker	carola-jak	NOUN		noun.artifact
+6	,	,	PUNCT		
+7	cocktail-parties	cocktail-parti	NOUN		noun.event
+8	,	,	PUNCT		
+9	der	der	PRON		
+10	væltede	vælte	VERB		verb.competition
+11	alt	al	ADJ		
+12	,	,	PUNCT		
+13	og	og	CCONJ		
+14	en	en	DET		
+15	producer	producer	NOUN		noun.person
+16	,	,	PUNCT		
+17	som	som	PRON		
+18	havde	have	AUX		verb.stative
+19	hele	hel	ADJ		adj.phys
+20	kamera-gangen	kamera-gang	NOUN		noun.artifact
+21	klar	klar	ADJ		adj.all
+22	i	i	ADP		
+23	mindste	lille	ADJ		adj.phys
+24	detalje	detalje	NOUN		noun.abstract
+25	til	til	ADP		
+26	det	det	DET		
+27	italienske	italiensk	ADJ		adj.social
+28	TV	tv	NOUN		noun.communication
+29	.	.	PUNCT		
+
+# newdoc id = DDT-1328.tsv
+# sent_id = 11
+# text =  Sådan.
+1	Sådan	sådan	ADV		
+2	.	.	PUNCT		
+
+# newdoc id = DDT-1328.tsv
+# sent_id = 12
+# text =  Ingen fejl.
+1	Ingen	ingen	DET		
+2	fejl	fejl	NOUN		noun.attribute
+3	.	.	PUNCT		
+
+# newdoc id = DDT-1328.tsv
+# sent_id = 13
+# text =  Og se bare resultatet."
+1	Og	og	CCONJ		
+2	se	se	VERB		verb.perception
+3	bare	bare	ADV		
+4	resultatet	resultat	NOUN		noun.abstract
+5	.	.	PUNCT		
+6	"	"	PUNCT		
+

@@ -1,0 +1,230 @@
+# newdoc id = DDT-1386.tsv
+# sent_id = 1
+# text =  FORFÆRDELIG BANGE
+1	FORFÆRDELIG	forfærdelig	ADV		
+2	BANGE	bange	ADJ		adj.mental
+
+# newdoc id = DDT-1386.tsv
+# sent_id = 2
+# text = " Det er så uhyggeligt, at det ikke er til at forstå," siger en mor til to, som bor i Tronneallé-kvarteret.
+1	"	"	PUNCT		
+2	Det	det	PRON		
+3	er	være	AUX		verb.stative
+4	så	så	ADV		
+5	uhyggeligt	uhyggelig	ADJ		adj.all
+6	,	,	PUNCT		
+7	at	at	SCONJ		
+8	det	det	PRON		
+9	ikke	ikke	ADV		
+10	er	være	VERB		verb.stative
+11	til	til	ADP		
+12	at	at	PART		
+13	forstå	forstå	VERB		verb.cognition
+14	,	,	PUNCT		
+15	"	"	PUNCT		
+16	siger	sige	VERB		verb.communication
+17	en	en	DET		
+18	mor	mor	NOUN		noun.person
+19	til	til	ADP		
+20	to	to	NOUN		
+21	,	,	PUNCT		
+22	som	som	PRON		
+23	bor	bore	VERB		verb.stative
+24	i	i	ADP		
+25	Tronneallé-kvarteret	tronneallé-kvart	NOUN		noun.location
+26	.	.	PUNCT		
+
+# newdoc id = DDT-1386.tsv
+# sent_id = 3
+# text = " Min egen søn på syv er forfærdelig bange for den pågældende dreng.
+1	"	"	PUNCT		
+2	Min	min	DET		
+3	egen	egen	ADJ		adj.all
+4	søn	søn	NOUN		noun.person
+5	på	på	ADP		
+6	syv	syv	NOUN		
+7	er	være	AUX		verb.stative
+8	forfærdelig	forfærdelig	ADV		
+9	bange	bange	ADJ		adj.mental
+10	for	for	ADP		
+11	den	den	DET		
+12	pågældende	pågældende	ADJ		adj.all
+13	dreng	dreng	NOUN		noun.person
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1386.tsv
+# sent_id = 4
+# text =  Han tør ikke gå alene til bussen.
+1	Han	han	PRON		
+2	tør	tørre	AUX		verb.emotion
+3	ikke	ikke	ADV		
+4	gå	gå	VERB		verb.motion
+5	alene	alene	ADV		
+6	til	til	ADP		
+7	bussen	bus	NOUN		noun.vehicle
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1386.tsv
+# sent_id = 5
+# text =  Vi er flere, som næsten ikke har turdet sende børnene ud at lege af samme grund.
+1	Vi	vi	PRON		
+2	er	være	AUX		
+3	flere	flere	ADJ		
+4	,	,	PUNCT		
+5	som	som	PRON		
+6	næsten	næsten	ADV		
+7	ikke	ikke	ADV		
+8	har	have	AUX		
+9	turdet	turde	AUX		
+10	sende	sende	VERB		
+11	børnene	barn	NOUN		
+12	ud	ud	ADV		
+13	at	at	PART		
+14	lege	lege	VERB		
+15	af	af	ADP		
+16	samme	samme	ADJ		
+17	grund	grund	NOUN		
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1386.tsv
+# sent_id = 6
+# text =  Der er også nogle, som har truet med at flytte, ja én beboer er flyttet af samme grund."
+1	Der	der	ADV		
+2	er	være	VERB		verb.stative
+3	også	også	ADV		
+4	nogle	nogen	PRON		
+5	,	,	PUNCT		
+6	som	som	PRON		
+7	har	have	AUX		
+8	truet	true	VERB		verb.communication
+9	med	med	ADP		
+10	at	at	PART		
+11	flytte	flytte	VERB		verb.motion
+12	,	,	PUNCT		
+13	ja	ja	INTJ		
+14	én	én	DET		
+15	beboer	beboer	NOUN		noun.person
+16	er	være	AUX		
+17	flyttet	flytte	VERB		verb.motion
+18	af	af	ADP		
+19	samme	samme	ADJ		adj.all
+20	grund	grund	NOUN		noun.cognition
+21	.	.	PUNCT		
+22	"	"	PUNCT		
+
+# newdoc id = DDT-1386.tsv
+# sent_id = 7
+# text =  Det formodes, at den 11-årige har leget i sandkassen med den lille Stewart lige før, det uhyggelige kvæleroverfald skete.
+1	Det	det	PRON		
+2	formodes	formode	VERB		verb.cognition
+3	,	,	PUNCT		
+4	at	at	SCONJ		
+5	den	den	DET		
+6	11-årige	11-år	ADJ		adj.time
+7	har	have	AUX		
+8	leget	lege	VERB		verb.act
+9	i	i	ADP		
+10	sandkassen	sandkasse	NOUN		noun.container
+11	med	med	ADP		
+12	den	den	DET		
+13	lille	lille	ADJ		adj.phys
+14	Stewart	stewart	PROPN		noun.person
+15	lige	lige	ADV		
+16	før	føre	SCONJ		
+17	,	,	PUNCT		
+18	det	det	DET		
+19	uhyggelige	uhyggelig	ADJ		adj.all
+20	kvæleroverfald	kvæleroverfald	NOUN		noun.act
+21	skete	ske	VERB		verb.phenomenon
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1386.tsv
+# sent_id = 8
+# text =  Yderligere formodes han at have set sit snit til at få den to-årige væk derfra- og et par hundrede meter hen til et græsareal med forholdsvis højt græs bag bebyggelsen.
+1	Yderligere	yderlig	ADV		
+2	formodes	formode	VERB		verb.cognition
+3	han	han	PRON		
+4	at	at	PART		
+5	have	have	AUX		
+6	set	se	VERB		verb.cognition
+7	sit	sin	DET		verb.COLL
+8	snit	snit	NOUN		verb.COLL
+9	til	til	ADP		
+10	at	at	PART		
+11	få	få	VERB		verb.phenomenon
+12	den	den	DET		
+13	to-årige	to-år	ADJ		adj.time
+14	væk	væk	ADV		
+15	derfra	derfra	ADV		
+16	-	-	PUNCT		
+17	og	og	CCONJ		
+18	et	en	DET		
+19	par	par	NOUN		noun.quantity
+20	hundrede	hundrede	NOUN		
+21	meter	meter	NOUN		noun.quantity
+22	hen	hen	ADV		
+23	til	til	ADP		
+24	et	en	DET		
+25	græsareal	græsareal	NOUN		noun.location
+26	med	med	ADP		
+27	forholdsvis	forholdsvis	ADV		
+28	højt	høj	ADJ		adj.phys
+29	græs	græs	NOUN		noun.plant
+30	bag	bag	ADP		
+31	bebyggelsen	bebyggelse	NOUN		noun.building
+32	.	.	PUNCT		
+
+# newdoc id = DDT-1386.tsv
+# sent_id = 9
+# text =  Men det benægter han.
+1	Men	men	CCONJ		
+2	det	det	PRON		
+3	benægter	benægte	VERB		verb.communication
+4	han	han	PRON		
+5	.	.	PUNCT		
+
+# newdoc id = DDT-1386.tsv
+# sent_id = 10
+# text =  Tilsyneladende har ingen set de to børn gå hen til stedet, hvor Stewart blev forsøgt kvalt; men kort efter blev den rolige middagsstilhed brudt af løbende skridt, chokerede udbrud og hvinende ambulancehorn, da Falck blev tilkaldt.
+1	Tilsyneladende	tilsyneladende	ADV		
+2	har	have	AUX		
+3	ingen	ingen	PRON		
+4	set	se	VERB		verb.perception
+5	de	den	DET		
+6	to	to	NUM		
+7	børn	barn	NOUN		noun.person
+8	gå	gå	VERB		verb.motion
+9	hen	hen	ADV		
+10	til	til	ADP		
+11	stedet	sted	NOUN		noun.location
+12	,	,	PUNCT		
+13	hvor	hvor	ADV		
+14	Stewart	stewart	PROPN		noun.person
+15	blev	blive	AUX		
+16	forsøgt	forsøge	VERB		verb.act
+17	kvalt	kvæle	VERB		verb.act
+18	;	;	PUNCT		
+19	men	men	CCONJ		
+20	kort	korte	ADV		adj.time
+21	efter	efter	ADV		
+22	blev	blive	AUX		
+23	den	den	DET		
+24	rolige	rolig	ADJ		adj.all
+25	middagsstilhed	middagsstil	NOUN		noun.phenomenon
+26	brudt	bryde	VERB		verb.phenomenon
+27	af	af	ADP		
+28	løbende	løbe	VERB		adj.phys
+29	skridt	skridt	NOUN		noun.act
+30	,	,	PUNCT		
+31	chokerede	chokere	VERB		adj.all
+32	udbrud	udbrud	NOUN		noun.communication
+33	og	og	CCONJ		
+34	hvinende	hvine	VERB		adj.phys
+35	ambulancehorn	ambulancehorn	NOUN		noun.artifact
+36	,	,	PUNCT		
+37	da	da	SCONJ		
+38	Falck	falck	PROPN		noun.person
+39	blev	blive	AUX		
+40	tilkaldt	tilkalde	VERB		verb.communication
+41	.	.	PUNCT		
+

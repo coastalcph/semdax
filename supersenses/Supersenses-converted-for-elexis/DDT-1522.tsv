@@ -1,0 +1,253 @@
+# newdoc id = DDT-1522.tsv
+# sent_id = 1
+# text =  Men som tiden går, forsvinder forelskelsen, og dagligdagen bringer større eller mindre overraskelser.
+1	Men	men	CCONJ		
+2	som	som	ADP		
+3	tiden	tid	NOUN		noun.time
+4	går	gå	VERB		verb.phenomenon
+5	,	,	PUNCT		
+6	forsvinder	forsvinde	VERB		verb.phenomenon
+7	forelskelsen	forelskelse	NOUN		noun.feeling
+8	,	,	PUNCT		
+9	og	og	CCONJ		
+10	dagligdagen	dagligdag	NOUN		noun.abstract
+11	bringer	bringe	VERB		verb.phenomenon
+12	større	stor	ADJ		adj.all
+13	eller	eller	CCONJ		
+14	mindre	lille	ADJ		adj.all
+15	overraskelser	overraskelse	NOUN		noun.abstract
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1522.tsv
+# sent_id = 2
+# text =  Nogen kan man lære at leve med, andre ikke.
+1	Nogen	nogen	PRON		
+2	kan	kunne	AUX		
+3	man	man	PRON		
+4	lære	lære	VERB		verb.cognition
+5	at	at	PART		
+6	leve	leve	VERB		verb.phenomenon
+7	med	med	ADP		
+8	,	,	PUNCT		
+9	andre	anden	PRON		
+10	ikke	ikke	ADV		
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1522.tsv
+# sent_id = 3
+# text =  Sådan er det også med Parken.
+1	Sådan	sådan	ADV		
+2	er	være	AUX		verb.stative
+3	det	det	PRON		
+4	også	også	ADV		
+5	med	med	ADP		
+6	Parken	park	NOUN		noun.building
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1522.tsv
+# sent_id = 4
+# text =  Parken har fejl og mangler, som fodbold-publikummet hverken kan eller vil leve med.
+1	Parken	park	NOUN		noun.building
+2	har	have	AUX		
+3	fejl	fejl	NOUN		noun.attribute
+4	og	og	CCONJ		
+5	mangler	mangel	NOUN		noun.attribute
+6	,	,	PUNCT		
+7	som	som	ADP		
+8	fodbold-publikummet	fodbold-publikum	NOUN		noun.person
+9	hverken	hverken	ADV		
+10	kan	kunne	AUX		
+11	eller	eller	CCONJ		
+12	vil	ville	AUX		
+13	leve	leve	VERB		verb.cognition
+14	med	med	ADP		verb.COLL
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1522.tsv
+# sent_id = 5
+# text =  Det kan godt være, der ikke er 117 fejl, men der er i_hvert_fald disse her:
+1	Det	det	PRON		
+2	kan	kunne	AUX		
+3	godt	godte	ADV		
+4	være	være	AUX		verb.stative
+5	,	,	PUNCT		
+6	der	der	PRON		
+7	ikke	ikke	ADV		
+8	er	være	AUX		verb.stative
+9	117	117	ADJ		
+10	fejl	fejl	NOUN		noun.attribute
+11	,	,	PUNCT		
+12	men	men	CCONJ		
+13	der	der	ADV		
+14	er	være	AUX		verb.stative
+15	i_hvert_fald	i_hvert_fald	ADJ		
+16	disse	denne	DET		
+17	her	her	ADV		
+18	:	:	PUNCT		
+
+# newdoc id = DDT-1522.tsv
+# sent_id = 6
+# text = 1.
+1	1	1	PUNCT		
+2	.	.	PUNCT		
+
+# newdoc id = DDT-1522.tsv
+# sent_id = 7
+# text =  Bygherren Baltica Finans og arkitekt Gert Andersson har glemt den detalje at bygge billet-kontorer.
+1	Bygherren	bygherre	NOUN		noun.person
+2	Baltica	baltica	PROPN		noun.person
+3	Finans	finans	PROPN		noun.person
+4	og	og	CCONJ		
+5	arkitekt	arkitekt	NOUN		noun.person
+6	Gert	gert	PROPN		noun.person
+7	Andersson	andersson	PROPN		noun.person
+8	har	have	AUX		
+9	glemt	glemme	VERB		verb.cognition
+10	den	den	DET		
+11	detalje	detalje	NOUN		noun.abstract
+12	at	at	PART		
+13	bygge	bygge	VERB		verb.creation
+14	billet-kontorer	billet-kontor	NOUN		noun.building
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1522.tsv
+# sent_id = 8
+# text =  Til landskampe har tilskuerne sædvanligvis bestilt og købt billet lang tid i forvejen.
+1	Til	til	ADP		
+2	landskampe	landskamp	NOUN		noun.event
+3	har	have	AUX		
+4	tilskuerne	tilskuer	NOUN		noun.person
+5	sædvanligvis	sædvanligvis	ADV		
+6	bestilt	bestille	VERB		verb.possession
+7	og	og	CCONJ		
+8	købt	købe	VERB		verb.possession
+9	billet	billet	NOUN		noun.artifact
+10	lang	lang	ADJ		adj.time
+11	tid	tid	NOUN		noun.time
+12	i	i	ADP		
+13	forvejen	forvejen	NOUN		
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1522.tsv
+# sent_id = 9
+# text =  Men til FC Københavns kampe er billetsalget en katastrofe.
+1	Men	men	CCONJ		
+2	til	til	ADP		
+3	FC	fc	PROPN		noun.institution
+4	Københavns	københavns	PROPN		noun.institution
+5	kampe	kamp	NOUN		noun.event
+6	er	være	AUX		
+7	billetsalget	billetsalg	NOUN		noun.act
+8	en	en	DET		
+9	katastrofe	katastrofe	NOUN		noun.phenomenon
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1522.tsv
+# sent_id = 10
+# text =  Køerne er så lange, at mange er gået igen.
+1	Køerne	kø	NOUN		noun.person
+2	er	være	AUX		verb.stative
+3	så	så	ADV		
+4	lange	lang	ADJ		adj.phys
+5	,	,	PUNCT		
+6	at	at	SCONJ		
+7	mange	mangen	ADJ		
+8	er	være	AUX		
+9	gået	gå	VERB		verb.motion
+10	igen	igen	ADV		
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1522.tsv
+# sent_id = 11
+# text =  Andre er kommet så sent ind i Parken, at de er gået glip af adskillige mål.
+1	Andre	anden	PRON		
+2	er	være	AUX		
+3	kommet	komme	VERB		verb.motion
+4	så	så	ADV		
+5	sent	sen	ADV		
+6	ind	ind	ADV		
+7	i	i	ADP		
+8	Parken	park	NOUN		noun.building
+9	,	,	PUNCT		
+10	at	at	SCONJ		
+11	de	den	PRON		
+12	er	være	AUX		
+13	gået	gå	VERB		verb.phenomenon
+14	glip	glip	NOUN		verb.COLL
+15	af	af	ADP		
+16	adskillige	adskillig	ADJ		adj.all
+17	mål	mål	NOUN		noun.act
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1522.tsv
+# sent_id = 12
+# text =  2.
+1	2	2	ADV		
+2	.	.	PUNCT		
+
+# newdoc id = DDT-1522.tsv
+# sent_id = 13
+# text =  Sikkerhedshegnet omkring banen er konstrueret så dårligt, at flere hundrede mennesker ikke kan se for den store stål-konstruktion, der sidder lige i øjen-højde.
+1	Sikkerhedshegnet	sikkerhedshegn	NOUN		noun.artifact
+2	omkring	omkring	ADP		
+3	banen	bane	NOUN		noun.location
+4	er	være	AUX		
+5	konstrueret	konstruere	VERB		verb.creation
+6	så	så	ADV		
+7	dårligt	dårlig	ADV		
+8	,	,	PUNCT		
+9	at	at	SCONJ		
+10	flere	flere	ADJ		
+11	hundrede	hundrede	NOUN		noun.quantity
+12	mennesker	menneske	NOUN		noun.person
+13	ikke	ikke	ADV		
+14	kan	kunne	AUX		
+15	se	se	VERB		verb.perception
+16	for	for	ADP		
+17	den	den	DET		
+18	store	stor	ADJ		adj.phys
+19	stål-konstruktion	stål-konstruktion	NOUN		noun.artifact
+20	,	,	PUNCT		
+21	der	der	PRON		
+22	sidder	sidde	VERB		verb.stative
+23	lige	lige	ADV		
+24	i	i	ADP		
+25	øjen-højde	øjen-højd	NOUN		noun.location
+26	.	.	PUNCT		
+
+# newdoc id = DDT-1522.tsv
+# sent_id = 14
+# text =  3.
+1	3	3	ADJ		
+2	.	.	PUNCT		
+
+# newdoc id = DDT-1522.tsv
+# sent_id = 15
+# text =  Det samme gælder for adskillige pladser på C-tribunen, modsat hovedtribunen, hvor flere rækker ikke kan se ordentligt for stå-gelændere og stænger ved nedgangene.
+1	Det	det	DET		
+2	samme	samme	ADJ		
+3	gælder	gælde	VERB		verb.stative
+4	for	for	ADP		
+5	adskillige	adskillig	ADJ		adj.all
+6	pladser	plads	NOUN		noun.artifact
+7	på	på	ADP		
+8	C-tribunen	c-tribun	NOUN		noun.building
+9	,	,	PUNCT		
+10	modsat	modsætte	DET		
+11	hovedtribunen	hovedtribun	NOUN		noun.building
+12	,	,	PUNCT		
+13	hvor	hvor	ADV		
+14	flere	flere	ADJ		
+15	rækker	række	NOUN		noun.person
+16	ikke	ikke	ADV		
+17	kan	kunne	AUX		
+18	se	se	VERB		verb.perception
+19	ordentligt	ordentlig	ADV		
+20	for	for	ADP		
+21	stå-gelændere	stå-gelænd	NOUN		noun.artifact
+22	og	og	CCONJ		
+23	stænger	stænge	NOUN		noun.artifact
+24	ved	ved	ADP		
+25	nedgangene	nedgang	NOUN		noun.location
+26	.	.	PUNCT		
+

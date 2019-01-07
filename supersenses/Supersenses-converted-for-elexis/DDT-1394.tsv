@@ -1,0 +1,206 @@
+# newdoc id = DDT-1394.tsv
+# sent_id = 1
+# text =  Fem hundrede meter fra hjemmet blev Munni ramt bagfra af en personbil ført af en 30-årig kvindelig bilist.
+1	Fem	fem	ADJ		
+2	hundrede	hundrede	NOUN		
+3	meter	meter	NOUN		noun.quantity
+4	fra	fra	ADP		
+5	hjemmet	hjem	NOUN		noun.building
+6	blev	blive	AUX		
+7	Munni	munni	PROPN		noun.person
+8	ramt	ramme	VERB		verb.contact
+9	bagfra	bagfra	ADV		
+10	af	af	ADP		
+11	en	en	DET		
+12	personbil	personbil	NOUN		noun.vehicle
+13	ført	føre	VERB		verb.act
+14	af	af	ADP		
+15	en	en	DET		
+16	30-årig	30-år	ADJ		adj.time
+17	kvindelig	kvindelig	ADJ		adj.phys
+18	bilist	bilist	NOUN		noun.person
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1394.tsv
+# sent_id = 2
+# text =  Den 15-årige pige kørte fuldkommen korrekt langs den hvide stribe i vejbanens højre kant.
+1	Den	den	DET		
+2	15-årige	15-år	ADJ		adj.time
+3	pige	pige	NOUN		noun.person
+4	kørte	køre	VERB		verb.motion
+5	fuldkommen	fuldkommen	ADV		
+6	korrekt	korrekt	ADV		
+7	langs	langs	ADP		
+8	den	den	DET		
+9	hvide	hvid	ADJ		adj.phys
+10	stribe	stribe	NOUN		noun.shape
+11	i	i	ADP		
+12	vejbanens	vejbane	NOUN		noun.artifact
+13	højre	højre	ADJ		adj.phys
+14	kant	kant	NOUN		noun.artifact
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1394.tsv
+# sent_id = 3
+# text =  Alligevel kørte den 30-årige kvinde fra området sin Toyota Carina frontalt ind i cyklisten, der blev slynget op mod forruden og var dræbt på stedet.
+1	Alligevel	alligevel	ADV		
+2	kørte	køre	VERB		verb.motion
+3	den	den	DET		
+4	30-årige	30-år	ADJ		adj.time
+5	kvinde	kvinde	NOUN		noun.person
+6	fra	fra	ADP		
+7	området	område	NOUN		noun.location
+8	sin	sin	DET		
+9	Toyota	toyota	PROPN		noun.vehicle
+10	Carina	carina	PROPN		noun.vehicle
+11	frontalt	frontal	ADV		
+12	ind	ind	ADV		
+13	i	i	ADP		
+14	cyklisten	cyklist	NOUN		noun.person
+15	,	,	PUNCT		
+16	der	der	PRON		
+17	blev	blive	AUX		
+18	slynget	slynge	VERB		verb.motion
+19	op	op	ADV		
+20	mod	mod	ADP		
+21	forruden	forrude	NOUN		noun.artifact
+22	og	og	CCONJ		
+23	var	være	AUX		verb.social|B-verb.stative
+24	dræbt	dræbe	VERB		adj.phys
+25	på	på	ADP		
+26	stedet	sted	NOUN		
+27	.	.	PUNCT		
+
+# newdoc id = DDT-1394.tsv
+# sent_id = 4
+# text =  UOPMÆRKSOM
+1	UOPMÆRKSOM	uopmærksom	ADJ		adj.mental
+
+# newdoc id = DDT-1394.tsv
+# sent_id = 5
+# text =  Den kvindelige bilist kunne ikke umiddelbart give politiet nogen præcis forklaring på, hvordan hun kunne overse den cyklende pige på det helt lige stykke vej.
+1	Den	den	DET		
+2	kvindelige	kvindelig	ADJ		adj.phys
+3	bilist	bilist	NOUN		noun.person
+4	kunne	kunne	AUX		
+5	ikke	ikke	ADV		
+6	umiddelbart	umiddelbar	ADV		
+7	give	give	VERB		verb.communication
+8	politiet	politi	NOUN		noun.person
+9	nogen	nogen	DET		
+10	præcis	præcis	ADJ		adj.all
+11	forklaring	forklaring	NOUN		noun.communication
+12	på	på	ADP		
+13	,	,	PUNCT		
+14	hvordan	hvordan	ADV		
+15	hun	hun	PRON		
+16	kunne	kunne	AUX		
+17	overse	overse	VERB		verb.phenomenon
+18	den	den	DET		
+19	cyklende	cykle	VERB		adj.phys
+20	pige	pige	NOUN		noun.person
+21	på	på	ADP		
+22	det	det	DET		
+23	helt	helt	ADV		
+24	lige	lige	ADV		adj.phys
+25	stykke	stykke	NOUN		noun.quantity
+26	vej	vej	NOUN		noun.artifact
+27	.	.	PUNCT		
+
+# newdoc id = DDT-1394.tsv
+# sent_id = 6
+# text =  Men hun indrømmer, at hun i samme øjeblik som ulykken skete, havde sin opmærksomhed rettet mod en have på hendes venstre side.
+1	Men	men	CCONJ		
+2	hun	hun	PRON		
+3	indrømmer	indrømme	VERB		verb.communication
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	hun	hun	PRON		
+7	i	i	ADP		
+8	samme	samme	ADJ		adj.all
+9	øjeblik	øjeblik	NOUN		noun.time
+10	som	som	ADP		
+11	ulykken	ulykke	NOUN		noun.phenomenon
+12	skete	ske	VERB		verb.phenomenon
+13	,	,	PUNCT		
+14	havde	have	AUX		
+15	sin	sin	DET		
+16	opmærksomhed	opmærksomhed	NOUN		noun.cognition
+17	rettet	rette	VERB		verb.phenomenon
+18	mod	mod	ADP		
+19	en	en	DET		
+20	have	have	NOUN		noun.location
+21	på	på	ADP		
+22	hendes	hendes	DET		
+23	venstre	venstre	ADJ		adj.phys
+24	side	side	NOUN		noun.location
+25	.	.	PUNCT		
+
+# newdoc id = DDT-1394.tsv
+# sent_id = 7
+# text =  Haven er godt kendt i området for sin meget flotte anlæggelse, og netop nu står påskeliljerne i fuld flor.
+1	Haven	have	NOUN		noun.location
+2	er	være	AUX		verb.stative
+3	godt	godte	ADV		
+4	kendt	kende	ADJ		adj.social
+5	i	i	ADP		
+6	området	område	NOUN		noun.location
+7	for	for	ADP		
+8	sin	sin	DET		
+9	meget	megen	ADV		
+10	flotte	flot	ADJ		adj.phys
+11	anlæggelse	anlæggelse	NOUN		noun.act
+12	,	,	PUNCT		
+13	og	og	CCONJ		
+14	netop	netop	ADV		
+15	nu	nu	ADV		
+16	står	stå	VERB		verb.stative
+17	påskeliljerne	påskelilje	NOUN		noun.plant
+18	i	i	ADP		
+19	fuld	fuld	ADJ		adj.all
+20	flor	flor	NOUN		noun.phenomenon
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1394.tsv
+# sent_id = 8
+# text =  Sekunder før sammenstødet var Munni blevet overhalet af skoleinspektøren på Centralskolen, som i en henkastet bemærkning sagde, at nu måtte de vist sætte farten lidt op for at komme frem, inden klokken ringede i skolegården.
+1	Sekunder	sekund	NOUN		noun.time
+2	før	før	ADP		
+3	sammenstødet	sammenstød	NOUN		noun.act
+4	var	være	AUX		
+5	Munni	munni	PROPN		noun.person
+6	blevet	blive	AUX		
+7	overhalet	overhale	VERB		verb.stative
+8	af	af	ADP		
+9	skoleinspektøren	skoleinspektør	NOUN		noun.person
+10	på	på	ADP		
+11	Centralskolen	centralskole	NOUN		noun.institution
+12	,	,	PUNCT		
+13	som	som	PRON		
+14	i	i	ADP		
+15	en	en	DET		
+16	henkastet	henkaste	VERB		adj.all
+17	bemærkning	bemærkning	NOUN		noun.communication
+18	sagde	sige	VERB		verb.communication
+19	,	,	PUNCT		
+20	at	at	SCONJ		
+21	nu	nu	ADV		
+22	måtte	måtte	AUX		
+23	de	den	PRON		
+24	vist	vist	ADV		
+25	sætte	sætte	VERB		verb.change
+26	farten	fart	NOUN		noun.phenomenon
+27	lidt	lidt	ADV		
+28	op	op	ADV		verb.PARTICLE
+29	for	for	ADP		
+30	at	at	PART		
+31	komme	komme	VERB		verb.motion
+32	frem	frem	ADV		verb.COLL
+33	,	,	PUNCT		
+34	inden	inden	SCONJ		
+35	klokken	klokke	NOUN		noun.artifact
+36	ringede	ringe	VERB		verb.phenomenon
+37	i	i	ADP		
+38	skolegården	skolegård	NOUN		noun.location
+39	.	.	PUNCT		
+

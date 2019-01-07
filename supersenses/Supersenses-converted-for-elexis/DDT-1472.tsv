@@ -1,0 +1,210 @@
+# newdoc id = DDT-1472.tsv
+# sent_id = 1
+# text =  RALLY-RUTEN
+1	RALLY-RUTEN	rally-rut	NOUN		noun.location
+
+# newdoc id = DDT-1472.tsv
+# sent_id = 2
+# text =  Et halvt år efter aflysningen stod René Metge på køleren af en tilsølet Land Rover, som nu har været brugt til planlægning af fire langdistance-raids, og stirrede ud over et vidtstrakt landskab, som indgår i hans transcontinentale rallyrute.
+1	Et	en	DET		
+2	halvt	halv	ADJ		adj.all
+3	år	år	NOUN		noun.time
+4	efter	efter	ADP		
+5	aflysningen	aflysning	NOUN		noun.act
+6	stod	stå	VERB		verb.stative
+7	René	rené	PROPN		noun.person
+8	Metge	metge	PROPN		noun.person
+9	på	på	ADP		
+10	køleren	køler	NOUN		noun.artifact
+11	af	af	ADP		
+12	en	en	DET		
+13	tilsølet	tilsøle	NOUN		adj.phys
+14	Land	land	PROPN		noun.vehicle
+15	Rover	rover	PROPN		noun.vehicle
+16	,	,	PUNCT		
+17	som	som	PRON		
+18	nu	nu	ADV		
+19	har	have	AUX		
+20	været	være	AUX		
+21	brugt	bruge	VERB		verb.act
+22	til	til	ADP		
+23	planlægning	planlægning	NOUN		noun.cognition
+24	af	af	ADP		
+25	fire	fire	ADJ		
+26	langdistance-raids	langdistance-raid	NOUN		noun.event
+27	,	,	PUNCT		
+28	og	og	CCONJ		
+29	stirrede	stirre	VERB		verb.perception
+30	ud	ud	ADV		
+31	over	over	ADP		
+32	et	en	DET		
+33	vidtstrakt	vidtstrakt	NOUN		adj.all
+34	landskab	landskab	NOUN		noun.plant
+35	,	,	PUNCT		
+36	som	som	PRON		
+37	indgår	indgå	VERB		verb.stative
+38	i	i	ADP		
+39	hans	hans	DET		
+40	transcontinentale	transcontinental	ADJ		adj.all
+41	rallyrute	rallyrut	NOUN		noun.location
+42	.	.	PUNCT		
+
+# newdoc id = DDT-1472.tsv
+# sent_id = 3
+# text =  Han pegede ud over de forblæste græstoppe på vidderne i de tidligere Sovjetrepublikker Uzbekistan og Kazakstan- mindre end 350 km fra den afghanske grænse.
+1	Han	han	PRON		
+2	pegede	pege	VERB		verb.act
+3	ud	ud	ADV		
+4	over	over	ADP		
+5	de	den	DET		
+6	forblæste	forblæst	ADJ		adj.all
+7	græstoppe	græstop	NOUN		noun.plant
+8	på	på	ADP		
+9	vidderne	vidde	NOUN		noun.location
+10	i	i	ADP		
+11	de	den	DET		
+12	tidligere	tidlig	ADJ		adj.time
+13	Sovjetrepublikker	sovjetrepublikker	PROPN		noun.location
+14	Uzbekistan	uzbekistan	PROPN		noun.location
+15	og	og	CCONJ		
+16	Kazakstan	kazakstan	PROPN		noun.location
+17	-	-	PUNCT		
+18	mindre	lille	ADJ		
+19	end	ende	ADP		
+20	350	350	NUM		
+21	km	km	NOUN		
+22	fra	fra	ADP		
+23	den	den	DET		
+24	afghanske	afghansk	ADJ		adj.social
+25	grænse	grænse	NOUN		noun.location
+26	.	.	PUNCT		
+
+# newdoc id = DDT-1472.tsv
+# sent_id = 4
+# text =  Og han virkede meget fortrolig med terrænet, som han har lært at kende gennem fire års grundig planlægning og rekognoscering.
+1	Og	og	CCONJ		
+2	han	han	PRON		
+3	virkede	virke	VERB		verb.phenomenon
+4	meget	megen	ADV		
+5	fortrolig	fortrolig	ADJ		adj.mental
+6	med	med	ADP		
+7	terrænet	terræn	NOUN		noun.phenomenon
+8	,	,	PUNCT		
+9	som	som	PRON		
+10	han	han	PRON		
+11	har	have	AUX		
+12	lært	lære	VERB		verb.cognition
+13	at	at	PART		
+14	kende	kende	VERB		verb.cognition
+15	gennem	gennem	ADP		
+16	fire	fire	ADJ		
+17	års	år	NOUN		noun.time
+18	grundig	grundig	ADJ		adj.all
+19	planlægning	planlægning	NOUN		noun.cognition
+20	og	og	CCONJ		
+21	rekognoscering	rekognoscering	NOUN		noun.act
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1472.tsv
+# sent_id = 5
+# text =  Han kikkede på sit krøllede og slidte landkort, hoppede ind i Land Roveren og snuppede radiotelefonen:
+1	Han	han	PRON		
+2	kikkede	kikke	VERB		verb.perception
+3	på	på	ADP		
+4	sit	sin	DET		
+5	krøllede	krølle	VERB		adj.phys
+6	og	og	CCONJ		
+7	slidte	slide	ADJ		adj.phys
+8	landkort	landkort	NOUN		noun.artifact
+9	,	,	PUNCT		
+10	hoppede	hoppe	VERB		verb.motion
+11	ind	ind	ADV		
+12	i	i	ADP		
+13	Land	land	PROPN		noun.vehicle
+14	Roveren	rov	NOUN		noun.vehicle
+15	og	og	CCONJ		
+16	snuppede	snuppe	VERB		verb.possession
+17	radiotelefonen	radiotelefon	NOUN		noun.artifact
+18	:	:	PUNCT		
+
+# newdoc id = DDT-1472.tsv
+# sent_id = 6
+# text = " Sasha, jeg tror vi skal lægge kursen lidt mere mod venstre," sagde han på gebrokkent engelsk.
+1	"	"	PUNCT		
+2	Sasha	sasha	PROPN		noun.person
+3	,	,	PUNCT		
+4	jeg	jeg	PRON		
+5	tror	tro	VERB		verb.cognition
+6	vi	vi	PRON		
+7	skal	skulle	AUX		
+8	lægge	lægge	VERB		verb.act
+9	kursen	kurs	NOUN		noun.motive
+10	lidt	lidt	ADV		
+11	mere	mere	ADV		
+12	mod	mod	ADP		
+13	venstre	venstre	ADJ		noun.location
+14	,	,	PUNCT		
+15	"	"	PUNCT		
+16	sagde	sige	VERB		verb.communication
+17	han	han	PRON		
+18	på	på	ADP		
+19	gebrokkent	gebrokken	ADJ		adj.all
+20	engelsk	engelsk	NOUN		noun.communication
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1472.tsv
+# sent_id = 7
+# text =  Sasha Rusinov er tidligere læge og Metges højrehånd.
+1	Sasha	sasha	PROPN		noun.person
+2	Rusinov	rusinov	PROPN		noun.person
+3	er	være	AUX		verb.stative
+4	tidligere	tidlig	ADJ		adj.time
+5	læge	læge	NOUN		noun.person
+6	og	og	CCONJ		
+7	Metges	metges	PROPN		noun.person
+8	højrehånd	højrehånd	NOUN		noun.person
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1472.tsv
+# sent_id = 8
+# text =  Med en sær blanding af franske og engelske brokker svarede han fra sin bil længere borte:
+1	Med	med	ADP		
+2	en	en	DET		
+3	sær	sær	ADJ		adj.all
+4	blanding	blanding	NOUN		noun.abstract
+5	af	af	ADP		
+6	franske	fransk	ADJ		adj.social
+7	og	og	CCONJ		
+8	engelske	engelsk	ADJ		adj.social
+9	brokker	brokke	NOUN		noun.communication
+10	svarede	svare	VERB		verb.communication
+11	han	han	PRON		
+12	fra	fra	ADP		
+13	sin	sin	DET		
+14	bil	bil	NOUN		noun.vehicle
+15	længere	lang	ADV		
+16	borte	borte	ADV		
+17	:	:	PUNCT		
+
+# newdoc id = DDT-1472.tsv
+# sent_id = 9
+# text = " Nej Renney, jeg tror det er bedre at holde en lille smule mod højre."
+1	"	"	PUNCT		
+2	Nej	nej	INTJ		
+3	Renney	renney	PROPN		noun.person
+4	,	,	PUNCT		
+5	jeg	jeg	PRON		
+6	tror	tro	VERB		verb.cognition
+7	det	det	PRON		
+8	er	være	AUX		verb.stative
+9	bedre	god	ADJ		adj.all
+10	at	at	PART		
+11	holde	holde	VERB		verb.motion
+12	en	en	DET		
+13	lille	lille	ADJ		adj.phys
+14	smule	smule	NOUN		noun.quantity
+15	mod	mod	ADP		
+16	højre	højre	ADJ		
+17	.	.	PUNCT		
+18	"	"	PUNCT		
+

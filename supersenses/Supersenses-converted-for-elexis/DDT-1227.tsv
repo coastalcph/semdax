@@ -1,0 +1,218 @@
+# newdoc id = DDT-1227.tsv
+# sent_id = 1
+# text = " Men Færøerne tilhører dog det danske rigsfællesskab," siger Erik Hjorth Nielsen.
+1	"	"	PUNCT		
+2	Men	men	CCONJ		
+3	Færøerne	færøerne	PROPN		noun.institution
+4	tilhører	tilhøre	VERB		verb.stative
+5	dog	dog	ADV		
+6	det	det	DET		
+7	danske	dansk	ADJ		adj.social
+8	rigsfællesskab	rigsfællesskab	NOUN		noun.institution
+9	,	,	PUNCT		
+10	"	"	PUNCT		
+11	siger	sige	VERB		verb.communication
+12	Erik	erik	PROPN		noun.person
+13	Hjorth	hjorth	PROPN		noun.person
+14	Nielsen	nielsen	PROPN		noun.person
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1227.tsv
+# sent_id = 2
+# text = " Jeg føler mig yderst uretfærdigt behandlet, og den nye ordning vil få den konsekvens, at danske illustratorer fremover vil være langt mindre villige til at arbejde med udenlandske værker."
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	føler	føle	VERB		verb.emotion
+4	mig	jeg	PRON		
+5	yderst	yderst	ADV		
+6	uretfærdigt	uretfærdig	ADV		
+7	behandlet	behandle	VERB		adj.social
+8	,	,	PUNCT		
+9	og	og	CCONJ		
+10	den	den	DET		
+11	nye	ny	ADJ		adj.time
+12	ordning	ordning	NOUN		noun.abstract
+13	vil	ville	AUX		
+14	få	få	VERB		verb.phenomenon
+15	den	den	DET		
+16	konsekvens	konsekvens	NOUN		noun.phenomenon
+17	,	,	PUNCT		
+18	at	at	SCONJ		
+19	danske	dansk	ADJ		adj.social
+20	illustratorer	illustrator	NOUN		noun.person
+21	fremover	fremover	ADV		
+22	vil	ville	AUX		
+23	være	være	AUX		verb.stative
+24	langt	lang	ADV		
+25	mindre	lille	ADV		adj.all
+26	villige	villig	ADJ		adj.mental
+27	til	til	ADP		
+28	at	at	PART		
+29	arbejde	arbejde	VERB		verb.act
+30	med	med	ADP		
+31	udenlandske	udenlandsk	ADJ		adj.social
+32	værker	værk	NOUN		noun.artifact
+33	.	.	PUNCT		
+34	"	"	PUNCT		
+
+# newdoc id = DDT-1227.tsv
+# sent_id = 3
+# text =  Karen Merete Bennike har skrevet fire populære lærebøger i spansk og fransk for gymasierne.
+1	Karen	karen	PROPN		noun.person
+2	Merete	merete	PROPN		noun.person
+3	Bennike	bennike	PROPN		noun.person
+4	har	have	AUX		
+5	skrevet	skrive	VERB		verb.creation
+6	fire	fire	NUM		
+7	populære	populær	ADJ		
+8	lærebøger	lærebog	NOUN		noun.communication
+9	i	i	ADP		
+10	spansk	spansk	NOUN		noun.domain
+11	og	og	CCONJ		
+12	fransk	fransk	NOUN		noun.domain
+13	for	for	ADP		
+14	gymasierne	gymasi	NOUN		noun.institution
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1227.tsv
+# sent_id = 4
+# text = " Men nu får jeg ikke en krone, selv_om jeg er dansker og skriver for danskere.
+1	"	"	PUNCT		
+2	Men	men	CCONJ		
+3	nu	nu	ADV		
+4	får	få	VERB		verb.possession
+5	jeg	jeg	PRON		
+6	ikke	ikke	ADV		
+7	en	en	DET		
+8	krone	krone	NOUN		noun.artifact
+9	,	,	PUNCT		
+10	selv_om	selv_om	SCONJ		
+11	jeg	jeg	PRON		
+12	er	være	AUX		verb.stative
+13	dansker	dansker	NOUN		noun.person
+14	og	og	CCONJ		
+15	skriver	skrive	VERB		verb.creation
+16	for	for	ADP		
+17	danskere	dansker	NOUN		noun.person
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1227.tsv
+# sent_id = 5
+# text =  Jeg føler mig ualmindeligt uretfærdigt behandlet og undrer mig over, hvorfor det lige præcis er mig, som skal rammes," siger hun.
+1	Jeg	jeg	PRON		
+2	føler	føle	VERB		verb.emotion
+3	mig	jeg	PRON		
+4	ualmindeligt	ualmindelig	ADV		
+5	uretfærdigt	uretfærdig	ADV		
+6	behandlet	behandle	VERB		adj.social
+7	og	og	CCONJ		
+8	undrer	undre	VERB		verb.cognition
+9	mig	jeg	PRON		
+10	over	over	ADP		
+11	,	,	PUNCT		
+12	hvorfor	hvorfor	ADV		
+13	det	det	PRON		
+14	lige	lige	ADV		
+15	præcis	præcis	ADV		
+16	er	være	AUX		verb.stative
+17	mig	jeg	PRON		
+18	,	,	PUNCT		
+19	som	som	PRON		
+20	skal	skulle	AUX		verb.phenomenon
+21	rammes	ramme	VERB		
+22	,	,	PUNCT		
+23	"	"	PUNCT		
+24	siger	sige	VERB		verb.communication
+25	hun	hun	PRON		
+26	.	.	PUNCT		
+
+# newdoc id = DDT-1227.tsv
+# sent_id = 6
+# text =  Ifølge Statens Bibliotekstjeneste, der administrerer bibliotekspengene, bliver" over en snes" danske illustratorer ramt af den nye lov, ligesom adskillige forfattere til lærebøger i fremmedsprog fremover må affinde sig med en stærkt reduceret indtægt.
+1	Ifølge	ifølge	ADP		
+2	Statens	stat	NOUN		noun.institution
+3	Bibliotekstjeneste	bibliotekstjeneste	NOUN		noun.institution
+4	,	,	PUNCT		
+5	der	der	PRON		
+6	administrerer	administrere	VERB		verb.act
+7	bibliotekspengene	bibliotekspenge	NOUN		noun.artifact
+8	,	,	PUNCT		
+9	bliver	blive	AUX		verb.stative
+10	"	"	PUNCT		
+11	over	over	ADP		
+12	en	en	DET		
+13	snes	snes	NOUN		noun.quantity
+14	"	"	PUNCT		
+15	danske	dansk	ADJ		adj.social
+16	illustratorer	illustrator	NOUN		noun.person
+17	ramt	ramme	VERB		verb.phenomenon
+18	af	af	ADP		
+19	den	den	DET		
+20	nye	ny	ADJ		adj.time
+21	lov	lov	NOUN		noun.abstract
+22	,	,	PUNCT		
+23	ligesom	ligesom	SCONJ		
+24	adskillige	adskillig	ADJ		adj.phys
+25	forfattere	forfatter	NOUN		noun.person
+26	til	til	ADP		
+27	lærebøger	lærebog	NOUN		noun.communication
+28	i	i	ADP		
+29	fremmedsprog	fremmedsprog	NOUN		noun.domain
+30	fremover	fremover	ADV		
+31	må	måtte	AUX		
+32	affinde	affinde	VERB		verb.cognition
+33	sig	sig	PRON		
+34	med	med	ADP		
+35	en	en	DET		
+36	stærkt	stærk	ADV		
+37	reduceret	reducere	VERB		adj.all
+38	indtægt	indtægt	NOUN		noun.quantity
+39	.	.	PUNCT		
+
+# newdoc id = DDT-1227.tsv
+# sent_id = 7
+# text = " Hvis der er tale om en dansk bog med lidt fremmedsprog i, så kan den godt få del i bibliotekspengene, men deciderede lærebøger i fremmedsprog kan ikke komme i betragtning," siger bibliotekskonsulent Anna Johansen, Statens Bibliotekstjeneste.
+1	"	"	PUNCT		
+2	Hvis	hvis	SCONJ		
+3	der	der	ADV		
+4	er	være	VERB		verb.stative
+5	tale	tale	NOUN		noun.communication
+6	om	om	ADP		
+7	en	en	DET		
+8	dansk	dansk	ADJ		adj.social
+9	bog	bog	NOUN		noun.communication
+10	med	med	ADP		
+11	lidt	lidt	ADJ		adj.all
+12	fremmedsprog	fremmedsprog	NOUN		noun.communication
+13	i	i	ADP		
+14	,	,	PUNCT		
+15	så	så	ADV		
+16	kan	kunne	AUX		
+17	den	den	PRON		
+18	godt	godte	ADV		
+19	få	få	VERB		verb.possession
+20	del	del	NOUN		noun.relation
+21	i	i	ADP		
+22	bibliotekspengene	bibliotekspenge	NOUN		noun.artifact
+23	,	,	PUNCT		
+24	men	men	CCONJ		
+25	deciderede	decideret	ADJ		adj.all
+26	lærebøger	lærebog	NOUN		noun.communication
+27	i	i	ADP		
+28	fremmedsprog	fremmedsprog	NOUN		noun.communication
+29	kan	kunne	AUX		
+30	ikke	ikke	ADV		
+31	komme	komme	VERB		verb.phenomenon
+32	i	i	ADP		
+33	betragtning	betragtning	NOUN		noun.cognition
+34	,	,	PUNCT		
+35	"	"	PUNCT		
+36	siger	sige	VERB		verb.communication
+37	bibliotekskonsulent	bibliotekskonsulent	NOUN		noun.person
+38	Anna	anna	PROPN		noun.person
+39	Johansen	johansen	PROPN		noun.person
+40	,	,	PUNCT		
+41	Statens	stat	NOUN		noun.institution
+42	Bibliotekstjeneste	bibliotekstjeneste	NOUN		noun.institution
+43	.	.	PUNCT		
+

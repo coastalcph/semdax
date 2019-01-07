@@ -1,0 +1,231 @@
+# newdoc id = DDT-1429.tsv
+# sent_id = 1
+# text =  Nye i BTCC
+1	Nye	ny	ADJ		adj.time
+2	i	i	ADP		
+3	BTCC	btcc	PROPN		noun.institution
+
+# newdoc id = DDT-1429.tsv
+# sent_id = 2
+# text =  Ford, Volkswagen og Renault ventes at engagere sig i britisk standardvogns racing i 1993.
+1	Ford	ford	PROPN		noun.institution
+2	,	,	PUNCT		
+3	Volkswagen	volkswagen	PROPN		noun.institution
+4	og	og	CCONJ		
+5	Renault	renault	PROPN		noun.institution
+6	ventes	vente	VERB		verb.cognition
+7	at	at	PART		
+8	engagere	engagere	VERB		verb.act
+9	sig	sig	PRON		verb.REFLPRON
+10	i	i	ADP		
+11	britisk	britisk	ADJ		adj.social
+12	standardvogns	standardvogn	NOUN		noun.act
+13	racing	racing	X		noun.act
+14	i	i	ADP		
+15	1993	1993	NUM		noun.time
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1429.tsv
+# sent_id = 3
+# text =  I forvejen er BMW, Toyota, Vauxhall, Peugeot, Mazda og Nissan involveret i BTCC-serien, som Thorkild Thyrring nu har lagt bag sig efter fejltagelsen med Andy_Rouse-teamet.
+1	I	i	ADP		
+2	forvejen	forvejen	NOUN		
+3	er	være	AUX		
+4	BMW	bmw	PROPN		noun.institution
+5	,	,	PUNCT		
+6	Toyota	toyota	PROPN		noun.institution
+7	,	,	PUNCT		
+8	Vauxhall	vauxhall	PROPN		noun.institution
+9	,	,	PUNCT		
+10	Peugeot	peugeot	PROPN		noun.institution
+11	,	,	PUNCT		
+12	Mazda	mazda	PROPN		noun.institution
+13	og	og	CCONJ		
+14	Nissan	nissan	PROPN		noun.institution
+15	involveret	involvere	VERB		verb.stative
+16	i	i	ADP		
+17	BTCC-serien	btcc-seri	NOUN		noun.group
+18	,	,	PUNCT		
+19	som	som	PRON		
+20	Thorkild	thorkild	PROPN		noun.person
+21	Thyrring	thyrring	PROPN		noun.person
+22	nu	nu	ADV		
+23	har	have	AUX		
+24	lagt	lægge	VERB		verb.aspectual
+25	bag	bag	ADP		verb.COLL
+26	sig	sig	PRON		verb.REFLPRON
+27	efter	efter	ADP		
+28	fejltagelsen	fejltagelse	NOUN		noun.act
+29	med	med	ADP		
+30	Andy_Rouse-teamet	andy_rouse-team	NOUN		noun.person
+31	.	.	PUNCT		
+
+# newdoc id = DDT-1429.tsv
+# sent_id = 4
+# text =  Audi, som fornylig trak sig ud af den tyske Gruppe_A-serie efter kontroverser omkring en ny krumtapaksel i teamets V8'ere, har meddelt sine kørere- Stuck, Jelinski og Biela- at de skal" klappe hesten", og det er af iagttagere tolket på den måde, at Audi vender tilbage i 1993 og derfor har bedt kørerne om ikke at engagere sig til anden side.
+1	Audi	audi	PROPN		noun.institution
+2	,	,	PUNCT		
+3	som	som	PRON		
+4	fornylig	forny	ADV		
+5	trak	trække	VERB		verb.act
+6	sig	sig	PRON		verb.REFLPRON
+7	ud	ud	ADV		verb.PARTICLE
+8	af	af	ADP		
+9	den	den	DET		
+10	tyske	tysk	ADJ		adj.social
+11	Gruppe_A-serie	gruppe_a-seri	NOUN		noun.group
+12	efter	efter	ADP		
+13	kontroverser	kontrovers	NOUN		noun.event
+14	omkring	omkring	ADP		
+15	en	en	DET		
+16	ny	ny	ADJ		adj.time
+17	krumtapaksel	krumtapaksel	NOUN		noun.artifact
+18	i	i	ADP		
+19	teamets	team	NOUN		noun.person
+20	V8'ere	v8'er	NOUN		noun.vehicle
+21	,	,	PUNCT		
+22	har	have	AUX		
+23	meddelt	meddele	VERB		verb.communication
+24	sine	sin	DET		
+25	kørere	kører	NOUN		noun.person
+26	-	-	PUNCT		
+27	Stuck	stuck	PROPN		noun.person
+28	,	,	PUNCT		
+29	Jelinski	jelinski	PROPN		noun.person
+30	og	og	CCONJ		
+31	Biela	biela	PROPN		noun.person
+32	-	-	PUNCT		
+33	at	at	SCONJ		
+34	de	den	PRON		
+35	skal	skulle	AUX		
+36	"	"	PUNCT		
+37	klappe	klappe	VERB		verb.emotion
+38	hesten	hest	NOUN		verb.COLL
+39	"	"	PUNCT		
+40	,	,	PUNCT		
+41	og	og	CCONJ		
+42	det	det	PRON		
+43	er	være	AUX		verb.stative
+44	af	af	ADP		
+45	iagttagere	iagttager	NOUN		noun.person
+46	tolket	tolke	VERB		verb.cognition
+47	på	på	ADP		
+48	den	den	DET		
+49	måde	måde	NOUN		noun.abstract
+50	,	,	PUNCT		
+51	at	at	SCONJ		
+52	Audi	audi	PROPN		noun.institution
+53	vender	vende	VERB		verb.act
+54	tilbage	tilbage	ADV		verb.COLL
+55	i	i	ADP		
+56	1993	1993	X		noun.time
+57	og	og	CCONJ		
+58	derfor	derfor	ADV		
+59	har	have	AUX		
+60	bedt	bede	VERB		verb.communication
+61	kørerne	kører	NOUN		noun.person
+62	om	om	ADP		
+63	ikke	ikke	ADV		
+64	at	at	PART		
+65	engagere	engagere	VERB		verb.change
+66	sig	sig	PRON		verb.REFLPRON
+67	til	til	ADP		
+68	anden	anden	DET		
+69	side	side	NOUN		noun.person
+70	.	.	PUNCT		
+
+# newdoc id = DDT-1429.tsv
+# sent_id = 5
+# text =  2.690 km pr. l.
+1	2.690	2.690	NUM		
+2	km	km	NOUN		
+3	pr.	pr.	ADP		
+4	l.	l.	NOUN		
+
+# newdoc id = DDT-1429.tsv
+# sent_id = 6
+# text =  En bil bygget af franske studerende kunne ruinere benzinselskaberne, hvis den blev sat i masseproduktion.
+1	En	en	DET		
+2	bil	bil	NOUN		noun.vehicle
+3	bygget	bygge	VERB		verb.creation
+4	af	af	ADP		
+5	franske	fransk	ADJ		adj.social
+6	studerende	studerende	NOUN		noun.person
+7	kunne	kunne	AUX		
+8	ruinere	ruinere	VERB		verb.change
+9	benzinselskaberne	benzinselskab	NOUN		noun.institution
+10	,	,	PUNCT		
+11	hvis	hvis	SCONJ		
+12	den	den	PRON		
+13	blev	blive	AUX		
+14	sat	sætte	VERB		verb.aspectual
+15	i	i	ADP		
+16	masseproduktion	masseproduktion	NOUN		noun.act
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1429.tsv
+# sent_id = 7
+# text =  Bilen kan køre lige over 2.690 km på en liter benzin, hvilket er verdensrekord.
+1	Bilen	bil	NOUN		noun.vehicle
+2	kan	kunne	AUX		
+3	køre	køre	VERB		verb.motion
+4	lige	lige	ADV		
+5	over	over	ADP		
+6	2.690	2.690	NUM		
+7	km	km	NOUN		
+8	på	på	ADP		
+9	en	en	DET		
+10	liter	liter	NOUN		noun.quantity
+11	benzin	benzin	NOUN		noun.substance
+12	,	,	PUNCT		
+13	hvilket	hvilken	PRON		
+14	er	være	AUX		verb.stative
+15	verdensrekord	verdensrekord	NOUN		noun.attribute
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1429.tsv
+# sent_id = 8
+# text =  Den enestående bil vandt i denne specielle disciplin i konkurrence med 73 andre specialbyggede biler på Silverstone-banen i Storbritannien.
+1	Den	den	DET		
+2	enestående	enestående	ADJ		adj.all
+3	bil	bil	NOUN		noun.vehicle
+4	vandt	vinde	VERB		verb.competition
+5	i	i	ADP		
+6	denne	denne	DET		
+7	specielle	speciel	ADJ		adj.all
+8	disciplin	disciplin	NOUN		noun.domain
+9	i	i	ADP		
+10	konkurrence	konkurrence	NOUN		noun.event
+11	med	med	ADP		
+12	73	73	NUM		
+13	andre	anden	DET		
+14	specialbyggede	specialbygget	ADJ		adj.phys
+15	biler	bil	NOUN		noun.vehicle
+16	på	på	ADP		
+17	Silverstone-banen	silverstone-ban	NOUN		noun.building
+18	i	i	ADP		
+19	Storbritannien	storbritannien	PROPN		noun.location
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1429.tsv
+# sent_id = 9
+# text =  Den tidligere rekord var fra 1988, hvor en japansk-bygget bil kørte 2.270 km på en liter.
+1	Den	den	DET		
+2	tidligere	tidlig	ADJ		adj.time
+3	rekord	rekord	NOUN		noun.attribute
+4	var	være	AUX		verb.stative
+5	fra	fra	ADP		
+6	1988	1988	NUM		noun.time
+7	,	,	PUNCT		
+8	hvor	hvor	ADV		
+9	en	en	DET		
+10	japansk-bygget	japansk-byg	ADJ		adj.phys
+11	bil	bil	NOUN		noun.vehicle
+12	kørte	køre	VERB		verb.motion
+13	2.270	2.270	NUM		
+14	km	km	NOUN		
+15	på	på	ADP		
+16	en	en	DET		
+17	liter	liter	NOUN		noun.quantity
+18	.	.	PUNCT		
+

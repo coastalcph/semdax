@@ -1,0 +1,211 @@
+# newdoc id = DDT-1495.tsv
+# sent_id = 1
+# text =  Den kriseramte storklub slipper ganske vist for flere Interbank, men Brøndby må alligevel lægge ryg til endnu mere bank...!
+1	Den	den	DET		
+2	kriseramte	kriseramt	ADJ		adj.all
+3	storklub	storklub	NOUN		noun.person
+4	slipper	slippe	VERB		verb.phenomenon
+5	ganske	ganske	ADV		
+6	vist	vist	ADV		
+7	for	for	ADP		verb.COLL
+8	flere	flere	ADJ		
+9	Interbank	interbank	PROPN		noun.act
+10	,	,	PUNCT		
+11	men	men	CCONJ		
+12	Brøndby	brøndby	PROPN		noun.person
+13	må	måtte	AUX		
+14	alligevel	alligevel	ADV		
+15	lægge	lægge	VERB		verb.act
+16	ryg	ryg	NOUN		noun.body
+17	til	til	ADP		
+18	endnu	endnu	ADV		
+19	mere	mere	ADJ		
+20	bank	bank	NOUN		noun.act
+21	...	...	PUNCT		
+22	!	!	PUNCT		
+
+# newdoc id = DDT-1495.tsv
+# sent_id = 2
+# text =  B.T. kan i_dag lette på sløret for en af de andre store" Lego-klodser" i kriseplanen, der trods løfter om det modsatte forbliver mørklagt weekenden over.
+1	B.T.	b.t.	PROPN		noun.institution
+2	kan	kunne	AUX		
+3	i_dag	i_dag	NOUN		noun.time
+4	lette	lette	VERB		verb.motion
+5	på	på	ADP		
+6	sløret	slør	NOUN		noun.artifact
+7	for	for	ADP		
+8	en	en	PRON		
+9	af	af	ADP		
+10	de	den	DET		
+11	andre	anden	DET		
+12	store	stor	ADJ		adj.phys
+13	"	"	PUNCT		
+14	Lego-klodser	lego-klods	NOUN		noun.artifact
+15	"	"	PUNCT		
+16	i	i	ADP		
+17	kriseplanen	kriseplan	NOUN		noun.cognition
+18	,	,	PUNCT		
+19	der	der	PRON		
+20	trods	trods	ADP		
+21	løfter	løfter	NOUN		noun.communication
+22	om	om	ADP		
+23	det	det	DET		
+24	modsatte	modsat	ADJ		adj.all
+25	forbliver	forblive	VERB		verb.stative
+26	mørklagt	mørklægge	VERB		adj.all
+27	weekenden	weekend	NOUN		noun.time
+28	over	over	ADP		
+29	.	.	PUNCT		
+
+# newdoc id = DDT-1495.tsv
+# sent_id = 3
+# text =  Situationen er, at Brøndbyernes IF i denne krise-sommer har oparbejdet en mildest talt betragtelig milliongæld til sine bankforbindelser, Unibank og Den Danske Bank.
+1	Situationen	situation	NOUN		noun.state
+2	er	være	VERB		verb.stative
+3	,	,	PUNCT		
+4	at	at	SCONJ		
+5	Brøndbyernes	brøndbyernes	PROPN		noun.person
+6	IF	if	PROPN		noun.institution
+7	i	i	ADP		
+8	denne	denne	DET		
+9	krise-sommer	krise-som	NOUN		noun.time
+10	har	have	AUX		
+11	oparbejdet	oparbejde	VERB		verb.act
+12	en	en	DET		
+13	mildest	mild	ADV		
+14	talt	tælle	VERB		
+15	betragtelig	betragtelig	ADJ		adj.all
+16	milliongæld	milliongæld	NOUN		noun.quantity
+17	til	til	ADP		
+18	sine	sin	DET		
+19	bankforbindelser	bankforbindelse	NOUN		noun.person
+20	,	,	PUNCT		
+21	Unibank	unibank	PROPN		noun.institution
+22	og	og	CCONJ		
+23	Den	den	DET		noun.institution
+24	Danske	dansk	ADJ		noun.institution
+25	Bank	bank	NOUN		noun.institution
+26	.	.	PUNCT		
+
+# newdoc id = DDT-1495.tsv
+# sent_id = 4
+# text =  Ifølge fortrolige oplysninger til B.T. skal Brøndbys aktuelle gæld til den ene af bankerne tangere hele 20 mill. kr., mens den anden skal have et lavere, men alligevel væsentligt millionbeløb til_gode hos den blågule eks-mesterklub.
+1	Ifølge	ifølge	ADP		
+2	fortrolige	fortrolig	ADJ		adj.social
+3	oplysninger	oplysning	NOUN		noun.communication
+4	til	til	ADP		
+5	B.T.	b.t.	PROPN		noun.institution
+6	skal	skulle	AUX		
+7	Brøndbys	brøndby	DET		noun.institution
+8	aktuelle	aktuel	ADJ		adj.time
+9	gæld	gæld	NOUN		noun.quantity
+10	til	til	ADP		
+11	den	den	DET		
+12	ene	ene	ADJ		
+13	af	af	ADP		
+14	bankerne	banke	NOUN		noun.institution
+15	tangere	tangere	NOUN		verb.stative
+16	hele	hel	ADJ		
+17	20	20	NUM		
+18	mill.	mill.	NOUN		noun.quantity
+19	kr.	kr.	NOUN		noun.quantity
+20	,	,	PUNCT		
+21	mens	mens	SCONJ		
+22	den	den	PRON		
+23	anden	anden	PRON		
+24	skal	skulle	AUX		
+25	have	have	VERB		verb.possession
+26	et	en	DET		
+27	lavere	lav	ADJ		adj.all
+28	,	,	PUNCT		
+29	men	men	CCONJ		
+30	alligevel	alligevel	ADV		
+31	væsentligt	væsentlig	ADJ		adj.all
+32	millionbeløb	millionbeløb	NOUN		noun.quantity
+33	til_gode	til_god	ADV		
+34	hos	hos	ADP		
+35	den	den	DET		
+36	blågule	blågul	ADJ		adj.phys
+37	eks-mesterklub	eks-mesterklub	NOUN		noun.institution
+38	.	.	PUNCT		
+
+# newdoc id = DDT-1495.tsv
+# sent_id = 5
+# text =  NYE AKTIER
+1	NYE	ny	ADJ		adj.time
+2	AKTIER	aktie	NOUN		noun.artifact
+
+# newdoc id = DDT-1495.tsv
+# sent_id = 6
+# text =  De to storbanker tilhører i parantes bemærket Brøndbys øverste sponsorluftlag: Unibank som eurosponsor og Den Danske Bank som medlem i den såkaldte" Exclusive Club".
+1	De	den	DET		
+2	to	to	ADJ		
+3	storbanker	storbank	NOUN		noun.institution
+4	tilhører	tilhøre	VERB		verb.stative
+5	i	i	ADP		
+6	parantes	parant	NOUN		noun.communication
+7	bemærket	bemærke	VERB		verb.communication
+8	Brøndbys	brøndby	DET		noun.institution
+9	øverste	øverst	ADJ		adj.all
+10	sponsorluftlag	sponsorluftlag	NOUN		noun.abstract
+11	:	:	PUNCT		
+12	Unibank	unibank	PROPN		noun.institution
+13	som	som	ADP		
+14	eurosponsor	eurosponsor	NOUN		noun.person
+15	og	og	CCONJ		
+16	Den	den	DET		noun.institution
+17	Danske	dansk	ADJ		noun.institution
+18	Bank	bank	NOUN		noun.institution
+19	som	som	ADP		
+20	medlem	medlem	NOUN		noun.relation
+21	i	i	ADP		
+22	den	den	DET		
+23	såkaldte	såkaldt	ADJ		adj.all
+24	"	"	PUNCT		
+25	Exclusive	exclusive	PROPN		noun.institution
+26	Club	club	PROPN		noun.institution
+27	"	"	PUNCT		
+28	.	.	PUNCT		
+
+# newdoc id = DDT-1495.tsv
+# sent_id = 7
+# text =  Begge de to bankers økonomiske" engagement" i Brøndby er for nærværende så eksklusivt, at de- qua konkursbegæringer- begge den dag i_går i praksis kunne have sparket Brøndby langt ud af dansk topfodbold.
+1	Begge	begge	DET		
+2	de	den	DET		
+3	to	to	NUM		
+4	bankers	banke	NOUN		noun.institution
+5	økonomiske	økonomisk	ADJ		adj.all
+6	"	"	PUNCT		
+7	engagement	engagement	NOUN		noun.relation
+8	"	"	PUNCT		
+9	i	i	ADP		
+10	Brøndby	brøndby	PROPN		noun.institution
+11	er	være	AUX		
+12	for	for	ADP		
+13	nærværende	nærværende	ADJ		
+14	så	så	ADV		
+15	eksklusivt	eksklusiv	ADJ		adj.social
+16	,	,	PUNCT		
+17	at	at	SCONJ		
+18	de	den	PRON		
+19	-	-	PUNCT		
+20	qua	qua	VERB		
+21	konkursbegæringer	konkursbegæring	NOUN		noun.communication
+22	-	-	PUNCT		
+23	begge	begge	PRON		
+24	den	den	DET		
+25	dag	dag	NOUN		noun.time
+26	i_går	i_går	NOUN		noun.time
+27	i	i	ADP		
+28	praksis	praksis	NOUN		
+29	kunne	kunne	AUX		
+30	have	have	AUX		
+31	sparket	sparke	VERB		verb.motion
+32	Brøndby	brøndby	PROPN		noun.institution
+33	langt	lang	ADV		
+34	ud	ud	ADV		
+35	af	af	ADP		
+36	dansk	dansk	ADJ		adj.social
+37	topfodbold	topfodbold	NOUN		noun.institution
+38	.	.	PUNCT		
+

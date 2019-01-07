@@ -1,0 +1,267 @@
+# newdoc id = DDT-1410.tsv
+# sent_id = 1
+# text =  Men rastløsheden skyldes snarere de 150 pressefolk uden for hotellet.
+1	Men	men	CCONJ		
+2	rastløsheden	rastløshed	NOUN		noun.feeling
+3	skyldes	skyldes	VERB		verb.phenomenon
+4	snarere	snarere	ADV		
+5	de	den	DET		
+6	150	150	NUM		
+7	pressefolk	pressefolk	NOUN		noun.person
+8	uden	uden	ADV		
+9	for	for	ADP		
+10	hotellet	hotel	NOUN		noun.building
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1410.tsv
+# sent_id = 2
+# text =  Om et øjeblik slippes de ind.
+1	Om	om	ADP		
+2	et	en	DET		
+3	øjeblik	øjeblik	NOUN		noun.time
+4	slippes	slippe	VERB		verb.act
+5	de	den	PRON		
+6	ind	ind	ADV		
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1410.tsv
+# sent_id = 3
+# text =  Marco van Basten, af mange udråbt til verdens bedste og mest komplette angriber, ved, hvad der venter.
+1	Marco	marco	PROPN		noun.person
+2	van	van	PROPN		noun.person
+3	Basten	basten	PROPN		noun.person
+4	,	,	PUNCT		
+5	af	af	ADP		
+6	mange	mangen	ADJ		
+7	udråbt	udråbe	VERB		verb.communication
+8	til	til	ADP		
+9	verdens	verden	NOUN		noun.location
+10	bedste	god	ADJ		adj.all
+11	og	og	CCONJ		
+12	mest	megen	ADV		
+13	komplette	komplet	ADJ		adj.all
+14	angriber	angriber	NOUN		noun.person
+15	,	,	PUNCT		
+16	ved	vide	VERB		verb.cognition
+17	,	,	PUNCT		
+18	hvad	hvad	PRON		
+19	der	der	ADV		
+20	venter	vente	VERB		verb.stative
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1410.tsv
+# sent_id = 4
+# text =  Så sker det.
+1	Så	så	ADV		
+2	sker	ske	VERB		verb.phenomenon
+3	det	det	PRON		
+4	.	.	PUNCT		
+
+# newdoc id = DDT-1410.tsv
+# sent_id = 5
+# text =  Hoteldøren åbnes.
+1	Hoteldøren	hoteldør	NOUN		noun.artifact
+2	åbnes	åbne	VERB		verb.motion
+3	.	.	PUNCT		
+
+# newdoc id = DDT-1410.tsv
+# sent_id = 6
+# text =  Verdens-pressen bestormer den 27-årige målkonge.
+1	Verdens-pressen	verdens-pres	NOUN		noun.person
+2	bestormer	bestorme	VERB		verb.communication
+3	den	den	DET		
+4	27-årige	27-år	ADJ		adj.time
+5	målkonge	målkonge	NOUN		noun.person
+6	.	.	PUNCT		
+
+# newdoc id = DDT-1410.tsv
+# sent_id = 7
+# text =  Alle vil vide alt forud for Hollands EM-semifinale mod Danmark.
+1	Alle	al	ADJ		
+2	vil	ville	AUX		
+3	vide	vide	VERB		verb.cognition
+4	alt	al	ADJ		
+5	forud	forud	ADV		
+6	for	for	ADP		
+7	Hollands	holland	DET		noun.institution
+8	EM-semifinale	em-semifinal	NOUN		noun.event
+9	mod	mod	ADP		
+10	Danmark	danmark	PROPN		noun.institution
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1410.tsv
+# sent_id = 8
+# text =  AFSLAPPET
+1	AFSLAPPET	afslappet	ADJ		adj.all
+
+# newdoc id = DDT-1410.tsv
+# sent_id = 9
+# text =  Marco van Basten i afslappet påklædning, grå T-shirt med blå mønstre, sorte shorts samt bare tæer i badetøfler, flader ud i en dyb lænestol, alt_imens han får stukket en halv snes mikrofoner op foran ansigtet, og kameraerne snurrer.
+1	Marco	marco	PROPN		noun.person
+2	van	van	PROPN		noun.person
+3	Basten	basten	PROPN		noun.person
+4	i	i	ADP		
+5	afslappet	afslappet	ADJ		adj.all
+6	påklædning	påklædning	NOUN		noun.artifact
+7	,	,	PUNCT		
+8	grå	grå	ADJ		adj.phys
+9	T-shirt	t-shirt	NOUN		noun.artifact
+10	med	med	ADP		
+11	blå	blå	ADJ		adj.phys
+12	mønstre	mønster	NOUN		noun.shape
+13	,	,	PUNCT		
+14	sorte	sort	ADJ		adj.phys
+15	shorts	shorts	NOUN		noun.artifact
+16	samt	samt	CCONJ		
+17	bare	bar	ADJ		adj.phys
+18	tæer	tå	NOUN		noun.body
+19	i	i	ADP		
+20	badetøfler	badetøfl	NOUN		noun.artifact
+21	,	,	PUNCT		
+22	flader	flade	VERB		verb.stative
+23	ud	ud	ADV		verb.COLL
+24	i	i	ADP		
+25	en	en	DET		
+26	dyb	dyb	ADJ		adj.phys
+27	lænestol	lænestol	NOUN		noun.artifact
+28	,	,	PUNCT		
+29	alt_imens	alt_im	SCONJ		
+30	han	han	PRON		
+31	får	få	VERB		
+32	stukket	stikke	VERB		verb.motion
+33	en	en	DET		
+34	halv	halv	ADJ		
+35	snes	snes	NOUN		noun.quantity
+36	mikrofoner	mikrofon	NOUN		noun.artifact
+37	op	op	ADV		
+38	foran	foran	ADP		
+39	ansigtet	ansigt	NOUN		noun.body
+40	,	,	PUNCT		
+41	og	og	CCONJ		
+42	kameraerne	kamera	NOUN		noun.artifact
+43	snurrer	snurre	VERB		verb.phenomenon
+44	.	.	PUNCT		
+
+# newdoc id = DDT-1410.tsv
+# sent_id = 10
+# text =  Man noterer sig straks, at de største er de nemmeste i sportens verden.
+1	Man	man	PRON		
+2	noterer	notere	VERB		verb.cognition
+3	sig	sig	PRON		verb.REFLPRON
+4	straks	straks	ADV		
+5	,	,	PUNCT		
+6	at	at	SCONJ		
+7	de	den	DET		
+8	største	stor	ADJ		adj.phys
+9	er	være	AUX		verb.stative
+10	de	den	DET		
+11	nemmeste	nem	ADJ		adj.all
+12	i	i	ADP		
+13	sportens	sport	NOUN		noun.domain
+14	verden	verden	NOUN		noun.abstract
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1410.tsv
+# sent_id = 11
+# text =  Verdensstjernen besvarer høfligt alverdens spørgsmål med engleagtig tålmodighed.
+1	Verdensstjernen	verdensstjerne	NOUN		noun.person
+2	besvarer	besvare	VERB		verb.communication
+3	høfligt	høflig	ADV		
+4	alverdens	alverden	ADJ		noun.quantity
+5	spørgsmål	spørgsmål	NOUN		noun.communication
+6	med	med	ADP		
+7	engleagtig	engleag	ADJ		adj.all
+8	tålmodighed	tålmodighed	NOUN		noun.attribute
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1410.tsv
+# sent_id = 12
+# text =  På flamsk, på tysk, på engelsk, på italiensk, på svensk.
+1	På	på	ADP		
+2	flamsk	flamsk	NOUN		noun.cognition|B-noun.communication
+3	,	,	PUNCT		
+4	på	på	ADP		
+5	tysk	tysk	NOUN		noun.communication
+6	,	,	PUNCT		
+7	på	på	ADP		
+8	engelsk	engelsk	NOUN		noun.communication
+9	,	,	PUNCT		
+10	på	på	ADP		
+11	italiensk	italiensk	NOUN		noun.communication
+12	,	,	PUNCT		
+13	på	på	ADP		
+14	svensk	svensk	NOUN		noun.communication
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1410.tsv
+# sent_id = 13
+# text =  Og på dansk...
+1	Og	og	CCONJ		
+2	på	på	ADP		
+3	dansk	dansk	ADJ		noun.communication
+4	...	...	PUNCT		
+
+# newdoc id = DDT-1410.tsv
+# sent_id = 14
+# text =  Marco, lige et spørgsmål fra en dansk journalist?
+1	Marco	marco	PROPN		noun.person
+2	,	,	PUNCT		
+3	lige	lige	ADV		
+4	et	en	DET		
+5	spørgsmål	spørgsmål	NOUN		noun.communication
+6	fra	fra	ADP		
+7	en	en	DET		
+8	dansk	dansk	ADJ		adj.social
+9	journalist	journalist	NOUN		noun.person
+10	?	?	PUNCT		
+
+# newdoc id = DDT-1410.tsv
+# sent_id = 15
+# text = " Du er velkommen," siger han imødekommende."
+1	"	"	PUNCT		
+2	Du	du	PRON		
+3	er	være	AUX		verb.stative
+4	velkommen	velkommen	ADJ		adj.all
+5	,	,	PUNCT		
+6	"	"	PUNCT		
+7	siger	sige	VERB		verb.communication
+8	han	han	PRON		
+9	imødekommende	imødekomme	ADJ		
+10	.	.	PUNCT		
+11	"	"	PUNCT		
+
+# newdoc id = DDT-1410.tsv
+# sent_id = 16
+# text =  Hvordan vurderer du det danske landsholds styrke?
+1	Hvordan	hvordan	ADV		
+2	vurderer	vurdere	VERB		verb.cognition
+3	du	du	PRON		
+4	det	det	DET		
+5	danske	dansk	ADJ		adj.social
+6	landsholds	landshold	ADJ		noun.person
+7	styrke	styrke	NOUN		noun.phenomenon
+8	?	?	PUNCT		
+
+# newdoc id = DDT-1410.tsv
+# sent_id = 17
+# text = " Danmark har et godt kollektiv.
+1	"	"	PUNCT		
+2	Danmark	danmark	PROPN		noun.person
+3	har	have	AUX		verb.phenomenon
+4	et	en	DET		
+5	godt	god	ADJ		adj.all
+6	kollektiv	kollektiv	NOUN		noun.person
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1410.tsv
+# sent_id = 18
+# text =  Jeg fornemmer, at spillerne står sammen.
+1	Jeg	jeg	PRON		
+2	fornemmer	fornemme	VERB		verb.emotion
+3	,	,	PUNCT		
+4	at	at	SCONJ		
+5	spillerne	spiller	NOUN		noun.person
+6	står	stå	VERB		verb.emotion
+7	sammen	sammen	ADV		verb.COLL
+8	.	.	PUNCT		
+

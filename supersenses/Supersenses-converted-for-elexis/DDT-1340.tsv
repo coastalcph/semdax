@@ -1,0 +1,217 @@
+# newdoc id = DDT-1340.tsv
+# sent_id = 1
+# text =  TILKNAPPET
+1	TILKNAPPET	tilknappet	ADJ		adj.all
+
+# newdoc id = DDT-1340.tsv
+# sent_id = 2
+# text =  Vinteren har været barsk og drøj for Brøndby-ledelsens ellers så velplejede image.
+1	Vinteren	vinter	NOUN		noun.time
+2	har	have	AUX		
+3	været	være	AUX		verb.stative
+4	barsk	barsk	ADJ		adj.all
+5	og	og	CCONJ		
+6	drøj	drøj	ADJ		adj.phys
+7	for	for	ADP		
+8	Brøndby-ledelsens	brøndby-led	NOUN		noun.institution
+9	ellers	ellers	ADV		
+10	så	så	ADV		
+11	velplejede	velplejet	ADJ		adj.all
+12	image	image	NOUN		noun.attribute
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1340.tsv
+# sent_id = 3
+# text =  Efter at Bjerregaard havde fået udtalt, at sportsjournalister ikke er så gode til at læse fodbold-finanstal, begyndte dagbladet Børsen at tackle mesterklubben.
+1	Efter	efter	ADP		
+2	at	at	SCONJ		
+3	Bjerregaard	bjerregaard	PROPN		noun.person
+4	havde	have	AUX		
+5	fået	få	VERB		verb.phenomenon
+6	udtalt	udtale	VERB		verb.communication
+7	,	,	PUNCT		
+8	at	at	SCONJ		
+9	sportsjournalister	sportsjournalist	NOUN		noun.person
+10	ikke	ikke	ADV		
+11	er	være	AUX		verb.stative
+12	så	så	ADV		
+13	gode	god	ADJ		adj.all
+14	til	til	ADP		
+15	at	at	PART		
+16	læse	læse	VERB		verb.cognition
+17	fodbold-finanstal	fodbold-finanstal	NOUN		noun.artifact
+18	,	,	PUNCT		
+19	begyndte	begynde	VERB		verb.aspectual
+20	dagbladet	dagblad	NOUN		noun.communication
+21	Børsen	børs	NOUN		noun.communication
+22	at	at	PART		
+23	tackle	tackle	VERB		verb.act
+24	mesterklubben	mesterklub	NOUN		noun.person
+25	.	.	PUNCT		
+
+# newdoc id = DDT-1340.tsv
+# sent_id = 4
+# text =  Senest har Børsen gravet så dybt i klubøkonomien, at den frygter for Brøndbys InterBank-ruin og for klubbens troværdighed.
+1	Senest	sen	ADV		adj.time
+2	har	have	AUX		
+3	Børsen	børs	NOUN		noun.institution
+4	gravet	grave	VERB		verb.act
+5	så	så	ADV		
+6	dybt	dyb	ADV		
+7	i	i	ADP		
+8	klubøkonomien	klubøkonomi	NOUN		noun.attribute
+9	,	,	PUNCT		
+10	at	at	SCONJ		
+11	den	den	PRON		
+12	frygter	frygte	VERB		verb.emotion
+13	for	for	ADP		
+14	Brøndbys	brøndby	DET		noun.institution
+15	InterBank-ruin	interbank-ruin	NOUN		noun.attribute
+16	og	og	CCONJ		
+17	for	for	ADP		
+18	klubbens	klub	ADJ		noun.institution
+19	troværdighed	troværdighed	NOUN		noun.attribute
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1340.tsv
+# sent_id = 5
+# text =  Også Bjerregaards komplicerede private spekulationer i og omkring Brøndby IF er blevet hudflettet på en lidet flatterende måde.
+1	Også	også	ADV		
+2	Bjerregaards	bjerregaards	PROPN		noun.person
+3	komplicerede	kompliceret	ADJ		adj.all
+4	private	privat	ADJ		adj.all
+5	spekulationer	spekulation	NOUN		noun.cognition
+6	i	i	ADP		
+7	og	og	CCONJ		
+8	omkring	omkring	ADP		
+9	Brøndby	brøndby	PROPN		noun.institution
+10	IF	if	PROPN		noun.institution
+11	er	være	AUX		
+12	blevet	blive	AUX		
+13	hudflettet	hudflette	VERB		verb.act
+14	på	på	ADP		
+15	en	en	DET		
+16	lidet	liden	ADV		
+17	flatterende	flatterende	ADJ		adj.all
+18	måde	måde	NOUN		noun.abstract
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1340.tsv
+# sent_id = 6
+# text =  Højfinansernes tidsalder i Brøndby IF har forvandlet en tidligere så åbenhjertig fodboldklub til en tavs, tilknappet erhvervsvirksomhed, der døgnet rundt vogter mistænksomt over sin store bankhemmelighed.
+1	Højfinansernes	højfinans	VERB		noun.abstract
+2	tidsalder	tidsalder	NOUN		noun.time
+3	i	i	ADP		
+4	Brøndby	brøndby	PROPN		noun.institution
+5	IF	if	PROPN		noun.institution
+6	har	have	AUX		
+7	forvandlet	forvandle	VERB		verb.change
+8	en	en	DET		
+9	tidligere	tidlig	ADV		
+10	så	så	ADV		
+11	åbenhjertig	åbenhjertig	ADJ		adj.all
+12	fodboldklub	fodboldklub	NOUN		noun.person
+13	til	til	ADP		
+14	en	en	DET		
+15	tavs	tavs	ADJ		adj.all
+16	,	,	PUNCT		
+17	tilknappet	tilknappet	ADJ		adj.all
+18	erhvervsvirksomhed	erhvervsvirksomhed	NOUN		noun.institution
+19	,	,	PUNCT		
+20	der	der	PRON		
+21	døgnet	døgn	NOUN		noun.time
+22	rundt	rund	ADV		
+23	vogter	vogte	VERB		verb.act
+24	mistænksomt	mistænksom	ADV		
+25	over	over	ADP		
+26	sin	sin	DET		
+27	store	stor	ADJ		adj.phys
+28	bankhemmelighed	bankhem	NOUN		noun.abstract
+29	.	.	PUNCT		
+
+# newdoc id = DDT-1340.tsv
+# sent_id = 7
+# text =  Præcis som Morten Olsen før hver Superliga-kamp våger og vogter over sin startopstilling til almindelig undren og irritation for Brøndbys tilskuer-kunder.
+1	Præcis	præcis	ADV		
+2	som	som	ADP		
+3	Morten	morten	PROPN		noun.person
+4	Olsen	olsen	PROPN		noun.person
+5	før	føre	SCONJ		
+6	hver	hver	PRON		
+7	Superliga-kamp	superliga-kamp	NOUN		noun.event
+8	våger	våge	VERB		verb.act
+9	og	og	CCONJ		
+10	vogter	vogte	VERB		verb.act
+11	over	over	ADP		
+12	sin	sin	DET		
+13	startopstilling	startopstilling	NOUN		noun.abstract
+14	til	til	ADP		
+15	almindelig	almindelig	ADJ		adj.all
+16	undren	undren	NOUN		noun.feeling
+17	og	og	CCONJ		
+18	irritation	irritation	NOUN		noun.feeling
+19	for	for	ADP		
+20	Brøndbys	brøndby	DET		noun.institution
+21	tilskuer-kunder	tilskuer-kund	NOUN		noun.person
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1340.tsv
+# sent_id = 8
+# text =  TROVÆRDIGHED
+1	TROVÆRDIGHED	troværdighed	NOUN		noun.attribute
+
+# newdoc id = DDT-1340.tsv
+# sent_id = 9
+# text =  Brøndby er blevet den lukkede klub, der spekulerer stort uden for banen og småt indenfor.
+1	Brøndby	brøndby	PROPN		noun.institution
+2	er	være	AUX		
+3	blevet	blive	AUX		verb.change
+4	den	den	DET		
+5	lukkede	lukke	VERB		adj.all
+6	klub	klub	NOUN		noun.institution
+7	,	,	PUNCT		
+8	der	der	PRON		
+9	spekulerer	spekulere	VERB		verb.cognition
+10	stort	stor	ADV		
+11	uden	uden	ADV		
+12	for	for	ADP		
+13	banen	bane	NOUN		noun.location
+14	og	og	CCONJ		
+15	småt	småt	ADV		
+16	indenfor	indenfor	ADV		
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1340.tsv
+# sent_id = 10
+# text =  Sidste uges juridisk pletfri, men moralsk diskutable" magtovertagelse" af Per Pedersen styrker næppe Brøndbys trængte image, men vil uvægerlig skærpe mistilliden til den blågule Superliga-supermagt.
+1	Sidste	sidste	ADJ		adj.time
+2	uges	uge	NOUN		noun.time
+3	juridisk	juridisk	ADV		
+4	pletfri	pletfri	ADJ		adj.social
+5	,	,	PUNCT		
+6	men	men	CCONJ		
+7	moralsk	moralsk	ADV		
+8	diskutable	diskutabel	ADJ		adj.social
+9	"	"	PUNCT		
+10	magtovertagelse	magtovertagelse	NOUN		noun.act
+11	"	"	PUNCT		
+12	af	af	ADP		
+13	Per	per	PROPN		noun.person
+14	Pedersen	pedersen	PROPN		noun.person
+15	styrker	styrke	VERB		verb.change
+16	næppe	næppe	ADV		
+17	Brøndbys	brøndbys	PROPN		noun.institution
+18	trængte	trænge	VERB		adj.all
+19	image	image	NOUN		noun.attribute
+20	,	,	PUNCT		
+21	men	men	CCONJ		
+22	vil	ville	AUX		
+23	uvægerlig	uvægerlig	ADV		
+24	skærpe	skærpe	VERB		verb.change
+25	mistilliden	mistillid	NOUN		noun.feeling
+26	til	til	ADP		
+27	den	den	DET		
+28	blågule	blågul	ADJ		adj.phys
+29	Superliga-supermagt	superliga-supermag	NOUN		noun.institution
+30	.	.	PUNCT		
+

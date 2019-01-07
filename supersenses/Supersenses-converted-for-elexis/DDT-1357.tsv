@@ -1,0 +1,252 @@
+# newdoc id = DDT-1357.tsv
+# sent_id = 1
+# text = " Afghanerne er en fantastisk folk.
+1	"	"	PUNCT		
+2	Afghanerne	afghaner	NOUN		noun.person
+3	er	være	AUX		verb.stative
+4	en	en	DET		
+5	fantastisk	fantastisk	ADJ		adj.all
+6	folk	folk	NOUN		noun.group
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1357.tsv
+# sent_id = 2
+# text =  Smukke, stærke og ikke til at knække.
+1	Smukke	smuk	ADJ		adj.phys
+2	,	,	PUNCT		
+3	stærke	stærk	ADJ		adj.phys
+4	og	og	CCONJ		
+5	ikke	ikke	ADV		
+6	til	til	ADP		
+7	at	at	PART		
+8	knække	knække	VERB		verb.change
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1357.tsv
+# sent_id = 3
+# text =  At de lemlæstede børn og voksne efter få dage formår at smile og pjatte.
+1	At	at	SCONJ		
+2	de	den	DET		
+3	lemlæstede	lemlæste	VERB		adj.phys
+4	børn	barn	NOUN		noun.person
+5	og	og	CCONJ		
+6	voksne	voksen	ADJ		noun.person
+7	efter	efter	ADP		
+8	få	få	ADJ		
+9	dage	dag	NOUN		noun.time
+10	formår	formå	VERB		verb.stative
+11	at	at	PART		
+12	smile	smile	VERB		verb.body
+13	og	og	CCONJ		
+14	pjatte	pjatte	VERB		verb.act
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1357.tsv
+# sent_id = 4
+# text =  At få livsviljen og optimismen tilbage.
+1	At	at	PART		
+2	få	få	VERB		verb.possession
+3	livsviljen	livsvilje	NOUN		noun.attribute
+4	og	og	CCONJ		
+5	optimismen	optimisme	NOUN		noun.attribute
+6	tilbage	tilbage	ADV		
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1357.tsv
+# sent_id = 5
+# text =  Det er utroligt.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	utroligt	utrolig	ADV		adj.mental
+4	.	.	PUNCT		
+
+# newdoc id = DDT-1357.tsv
+# sent_id = 6
+# text =  Derfor elsker jeg at arbejde her- at gøre en indsats."
+1	Derfor	derfor	ADV		
+2	elsker	elske	VERB		verb.emotion
+3	jeg	jeg	PRON		
+4	at	at	PART		
+5	arbejde	arbejde	VERB		verb.act
+6	her	her	ADV		
+7	-	-	PUNCT		
+8	at	at	PART		
+9	gøre	gøre	VERB		verb.act
+10	en	en	DET		
+11	indsats	indsats	NOUN		noun.act
+12	.	.	PUNCT		
+13	"	"	PUNCT		
+
+# newdoc id = DDT-1357.tsv
+# sent_id = 7
+# text =  Der er langt fra den støvede Kabul-forstad Karte Seh med de lave lerhuse og de høje bjerge til hjemmet ved Holbæk, hvor kæresten Holger venter.
+1	Der	der	ADV		
+2	er	være	VERB		verb.stative
+3	langt	lang	ADV		
+4	fra	fra	ADP		
+5	den	den	DET		
+6	støvede	støvet	ADJ		adj.phys
+7	Kabul-forstad	kabul-forstad	NOUN		noun.location
+8	Karte	karte	PROPN		noun.location
+9	Seh	seh	PROPN		noun.location
+10	med	med	ADP		
+11	de	den	DET		
+12	lave	lav	ADJ		adj.phys
+13	lerhuse	lerhus	NOUN		noun.building
+14	og	og	CCONJ		
+15	de	den	DET		
+16	høje	høj	ADJ		adj.phys
+17	bjerge	bjerg	NOUN		noun.object
+18	til	til	ADP		
+19	hjemmet	hjem	NOUN		noun.building
+20	ved	ved	ADP		
+21	Holbæk	holbæk	PROPN		noun.location
+22	,	,	PUNCT		
+23	hvor	hvor	ADV		
+24	kæresten	kæreste	NOUN		noun.person
+25	Holger	holger	PROPN		noun.person
+26	venter	vente	VERB		verb.stative
+27	.	.	PUNCT		
+
+# newdoc id = DDT-1357.tsv
+# sent_id = 8
+# text = " Kors, hvor jeg savner ham."
+1	"	"	PUNCT		
+2	Kors	kors	NOUN		
+3	,	,	PUNCT		
+4	hvor	hvor	ADV		
+5	jeg	jeg	PRON		
+6	savner	savne	VERB		verb.emotion
+7	ham	han	PRON		
+8	.	.	PUNCT		
+9	"	"	PUNCT		
+
+# newdoc id = DDT-1357.tsv
+# sent_id = 9
+# text =  Et par timer senere, kort før klokken seks morgen, står hendes danske kollega Anne-Mette Larsen op.
+1	Et	en	DET		
+2	par	par	NOUN		noun.quantity
+3	timer	timer	NOUN		noun.time
+4	senere	sen	ADV		
+5	,	,	PUNCT		
+6	kort	korte	ADV		
+7	før	før	ADP		
+8	klokken	klokke	NOUN		
+9	seks	seks	NUM		
+10	morgen	morgen	NOUN		noun.time
+11	,	,	PUNCT		
+12	står	stå	VERB		verb.act
+13	hendes	hendes	DET		
+14	danske	dansk	ADJ		adj.social
+15	kollega	kollega	NOUN		noun.person
+16	Anne-Mette	anne-mette	PROPN		noun.person
+17	Larsen	larsen	PROPN		noun.person
+18	op	op	ADV		verb.PARTICLE
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1357.tsv
+# sent_id = 10
+# text =  Kikker ud ad vinduet mod de snedækkede Hindu Kush bjerge.
+1	Kikker	kikker	NOUN		verb.perception
+2	ud	ud	ADV		
+3	ad	ad	ADP		
+4	vinduet	vindue	NOUN		noun.artifact
+5	mod	mod	ADP		
+6	de	den	DET		
+7	snedækkede	snedækket	ADJ		adj.phys
+8	Hindu	hindu	PROPN		noun.object
+9	Kush	kush	PROPN		noun.object
+10	bjerge	bjerg	NOUN		noun.object
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1357.tsv
+# sent_id = 11
+# text = " Øv.
+1	"	"	PUNCT		
+2	Øv	øv	INTJ		
+3	.	.	PUNCT		
+
+# newdoc id = DDT-1357.tsv
+# sent_id = 12
+# text =  Solen skinner."
+1	Solen	sol	NOUN		noun.object
+2	skinner	skinne	VERB		verb.phenomenon
+3	.	.	PUNCT		
+4	"	"	PUNCT		
+
+# newdoc id = DDT-1357.tsv
+# sent_id = 13
+# text =  Når solen skinner leger børnene i markerne og grøftekanterne.
+1	Når	når	SCONJ		
+2	solen	sol	NOUN		noun.object
+3	skinner	skinne	VERB		verb.phenomenon
+4	leger	legere	VERB		verb.act
+5	børnene	barn	NOUN		noun.person
+6	i	i	ADP		
+7	markerne	mark	NOUN		noun.location
+8	og	og	CCONJ		
+9	grøftekanterne	grøftekant	NOUN		noun.location
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1357.tsv
+# sent_id = 14
+# text =  Kravler rundt på bjergsiderne.
+1	Kravler	kravle	VERB		verb.motion
+2	rundt	rund	ADV		
+3	på	på	ADP		
+4	bjergsiderne	bjergside	NOUN		noun.location
+5	.	.	PUNCT		
+
+# newdoc id = DDT-1357.tsv
+# sent_id = 15
+# text =  Når foråret bryder frem går kvinderne i markerne.
+1	Når	når	SCONJ		
+2	foråret	forår	NOUN		noun.time
+3	bryder	bryde	VERB		verb.aspectual
+4	frem	frem	ADV		verb.PARTICLE
+5	går	gå	VERB		verb.motion
+6	kvinderne	kvinde	NOUN		noun.person
+7	i	i	ADP		
+8	markerne	mark	NOUN		noun.location
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1357.tsv
+# sent_id = 16
+# text =  Alle andre steder på jordkloden en dejlig dag.
+1	Alle	al	ADJ		
+2	andre	anden	DET		
+3	steder	sted	NOUN		noun.location
+4	på	på	ADP		
+5	jordkloden	jordklode	NOUN		noun.object
+6	en	en	DET		
+7	dejlig	dejlig	ADJ		adj.all
+8	dag	dag	NOUN		noun.time
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1357.tsv
+# sent_id = 17
+# text =  I Afghanistan en dag hvor børn og kvinder går spidsrod mellem mindst 20 millioner landminer, der er spredt over hele landet.
+1	I	i	ADP		
+2	Afghanistan	afghanistan	PROPN		noun.location
+3	en	en	DET		
+4	dag	dag	NOUN		noun.time
+5	hvor	hvor	ADV		
+6	børn	barn	NOUN		noun.person
+7	og	og	CCONJ		
+8	kvinder	kvinde	NOUN		noun.person
+9	går	gå	VERB		verb.motion
+10	spidsrod	spidsrod	NOUN		
+11	mellem	mellem	ADP		
+12	mindst	lille	ADV		
+13	20	20	NUM		
+14	millioner	million	NOUN		noun.quantity
+15	landminer	landmine	NOUN		noun.artifact
+16	,	,	PUNCT		
+17	der	der	PRON		
+18	er	være	VERB		
+19	spredt	sprede	ADJ		verb.phenomenon
+20	over	over	ADP		
+21	hele	hel	ADJ		adj.phys
+22	landet	land	NOUN		noun.location
+23	.	.	PUNCT		
+

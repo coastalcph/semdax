@@ -1,0 +1,250 @@
+# newdoc id = DDT-1414.tsv
+# sent_id = 1
+# text =  Sagen vakte stor opsigt, da mormoderen og børnene, første gang de var på flugt sammen, blev anholdt ved en større politiaktion på Djursland.
+1	Sagen	sag	NOUN		noun.abstract
+2	vakte	vakt	VERB		verb.phenomenon
+3	stor	stor	ADJ		adj.all
+4	opsigt	opsigt	NOUN		noun.phenomenon
+5	,	,	PUNCT		
+6	da	da	SCONJ		
+7	mormoderen	mormoder	NOUN		noun.person
+8	og	og	CCONJ		
+9	børnene	barn	NOUN		noun.person
+10	,	,	PUNCT		
+11	første	først	ADJ		adj.time
+12	gang	gang	NOUN		noun.abstract
+13	de	den	PRON		
+14	var	være	VERB		verb.stative
+15	på	på	ADP		
+16	flugt	flugt	NOUN		noun.act
+17	sammen	sammen	ADV		
+18	,	,	PUNCT		
+19	blev	blive	AUX		
+20	anholdt	anholde	VERB		verb.act
+21	ved	ved	ADP		
+22	en	en	DET		
+23	større	stor	ADJ		adj.all
+24	politiaktion	politiaktion	NOUN		noun.act
+25	på	på	ADP		
+26	Djursland	djursland	PROPN		noun.location
+27	.	.	PUNCT		
+
+# newdoc id = DDT-1414.tsv
+# sent_id = 2
+# text =  Med ved anholdelsen var medarbejdere fra Søllerød Kommune.
+1	Med	med	ADV		
+2	ved	ved	ADP		
+3	anholdelsen	anholdelse	NOUN		noun.act
+4	var	være	AUX		verb.stative
+5	medarbejdere	medarbejder	NOUN		noun.person
+6	fra	fra	ADP		
+7	Søllerød	søllerød	PROPN		noun.institution
+8	Kommune	kommune	NOUN		noun.institution
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1414.tsv
+# sent_id = 3
+# text =  En ukendt havde fortalt de sociale myndigheder om, hvor de skjulte sig.
+1	En	en	DET		
+2	ukendt	ukendt	ADJ		adj.all
+3	havde	have	AUX		
+4	fortalt	fortælle	VERB		verb.communication
+5	de	den	DET		
+6	sociale	social	ADJ		adj.social
+7	myndigheder	myndighed	NOUN		noun.institution
+8	om	om	ADP		
+9	,	,	PUNCT		
+10	hvor	hvor	ADV		
+11	de	den	PRON		
+12	skjulte	skjule	VERB		verb.stative
+13	sig	sig	PRON		
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1414.tsv
+# sent_id = 4
+# text =  Men ugen efter fjernede mormoderen og hendes advokat igen børnene fra Bagsværd Observationshjem, og siden har de været godt skjult.
+1	Men	men	CCONJ		
+2	ugen	uge	NOUN		noun.time
+3	efter	efter	ADP		
+4	fjernede	fjerne	VERB		verb.motion
+5	mormoderen	mormoder	NOUN		noun.person
+6	og	og	CCONJ		
+7	hendes	hendes	DET		
+8	advokat	advokat	NOUN		noun.person
+9	igen	igen	ADV		
+10	børnene	barn	NOUN		noun.person
+11	fra	fra	ADP		
+12	Bagsværd	bagsværd	PROPN		noun.institution
+13	Observationshjem	observationshjem	PROPN		noun.institution
+14	,	,	PUNCT		
+15	og	og	CCONJ		
+16	siden	siden	ADV		
+17	har	have	AUX		
+18	de	den	PRON		
+19	været	være	AUX		verb.stative
+20	godt	god	ADJ		
+21	skjult	skjule	NOUN		adj.all
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1414.tsv
+# sent_id = 5
+# text =  Mens mormoderen gemte sig, lykkedes det hende sammen med sin advokat, Holger Lindholt, København, at få overført forældreretten til sig ved en beslutning i Københavns Overpræsidium.
+1	Mens	mens	SCONJ		
+2	mormoderen	mormoder	NOUN		noun.person
+3	gemte	gemme	VERB		verb.stative
+4	sig	sig	PRON		
+5	,	,	PUNCT		
+6	lykkedes	lykkes	VERB		verb.phenomenon
+7	det	det	PRON		
+8	hende	hun	PRON		
+9	sammen	sammen	ADV		
+10	med	med	ADP		
+11	sin	sin	DET		
+12	advokat	advokat	NOUN		noun.person
+13	,	,	PUNCT		
+14	Holger	holger	PROPN		noun.person
+15	Lindholt	lindholt	PROPN		noun.person
+16	,	,	PUNCT		
+17	København	københavn	PROPN		noun.location
+18	,	,	PUNCT		
+19	at	at	PART		
+20	få	få	VERB		
+21	overført	overføre	VERB		verb.act
+22	forældreretten	forældreret	NOUN		noun.cognition
+23	til	til	ADP		
+24	sig	sig	PRON		
+25	ved	ved	ADP		
+26	en	en	DET		
+27	beslutning	beslutning	NOUN		noun.communication
+28	i	i	ADP		
+29	Københavns	københavns	PROPN		noun.institution
+30	Overpræsidium	overpræsidium	NOUN		noun.institution
+31	.	.	PUNCT		
+
+# newdoc id = DDT-1414.tsv
+# sent_id = 6
+# text =  SEJR FOR ALLE MORMØDRE
+1	SEJR	sejr	NOUN		noun.cognition
+2	FOR	for	ADP		
+3	ALLE	al	ADJ		
+4	MORMØDRE	mormor	NOUN		noun.person
+
+# newdoc id = DDT-1414.tsv
+# sent_id = 7
+# text =  Inge Daugaards advokat, Holger Lindholt:" Denne afgørelse er simpelthen en sejr for alle Danmarks mormødre.
+1	Inge	inge	PROPN		noun.person
+2	Daugaards	daugaards	PROPN		noun.person
+3	advokat	advokat	NOUN		noun.person
+4	,	,	PUNCT		
+5	Holger	holger	PROPN		noun.person
+6	Lindholt	lindholt	PROPN		noun.person
+7	:	:	PUNCT		
+8	"	"	PUNCT		
+9	Denne	denne	DET		
+10	afgørelse	afgørelse	NOUN		noun.cognition
+11	er	være	AUX		verb.stative
+12	simpelthen	simpelthen	ADV		
+13	en	en	DET		
+14	sejr	sejr	NOUN		noun.cognition
+15	for	for	ADP		
+16	alle	al	ADJ		
+17	Danmarks	danmarks	PROPN		noun.institution
+18	mormødre	mormor	NOUN		noun.person
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1414.tsv
+# sent_id = 8
+# text =  Den viser, at man sagtens kan tage hånd om sine børnebørn, selv_om man er oppe i årene.
+1	Den	den	PRON		
+2	viser	visere	VERB		verb.phenomenon
+3	,	,	PUNCT		
+4	at	at	SCONJ		
+5	man	man	PRON		
+6	sagtens	sagtens	ADV		
+7	kan	kunne	AUX		
+8	tage	tage	VERB		verb.act
+9	hånd	hånd	NOUN		verb.COLL
+10	om	om	ADP		
+11	sine	sin	DET		
+12	børnebørn	barnebarn	NOUN		noun.person
+13	,	,	PUNCT		
+14	selv_om	selv_om	SCONJ		
+15	man	man	PRON		
+16	er	være	AUX		verb.stative
+17	oppe	oppe	ADV		
+18	i	i	ADP		
+19	årene	år	NOUN		noun.time
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1414.tsv
+# sent_id = 9
+# text =  Det handler alene om kærlighed.
+1	Det	det	PRON		
+2	handler	handle	VERB		verb.phenomenon
+3	alene	alene	ADV		
+4	om	om	ADP		
+5	kærlighed	kærlighed	NOUN		noun.feeling
+6	.	.	PUNCT		
+
+# newdoc id = DDT-1414.tsv
+# sent_id = 10
+# text =  De to børn elsker deres mormor over alt i verden.
+1	De	den	DET		
+2	to	to	ADJ		
+3	børn	barn	NOUN		noun.person
+4	elsker	elske	VERB		verb.emotion
+5	deres	deres	DET		
+6	mormor	mormor	NOUN		noun.person
+7	over	over	ADP		
+8	alt	al	ADJ		
+9	i	i	ADP		
+10	verden	verden	NOUN		noun.location
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1414.tsv
+# sent_id = 11
+# text =  Og jeg kan garantere for, at hun kan klare det.
+1	Og	og	CCONJ		
+2	jeg	jeg	PRON		
+3	kan	kunne	AUX		
+4	garantere	garantere	VERB		verb.communication
+5	for	for	ADP		
+6	,	,	PUNCT		
+7	at	at	SCONJ		
+8	hun	hun	PRON		
+9	kan	kunne	AUX		
+10	klare	klare	VERB		verb.act
+11	det	det	PRON		
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1414.tsv
+# sent_id = 12
+# text =  Hun har en sjælsstyrke og en varme, man kun sjældent møder.
+1	Hun	hun	PRON		
+2	har	have	VERB		verb.phenomenon
+3	en	en	DET		
+4	sjælsstyrke	sjælsstyrke	NOUN		noun.attribute
+5	og	og	CCONJ		
+6	en	en	DET		
+7	varme	varme	NOUN		noun.attribute
+8	,	,	PUNCT		
+9	man	man	PRON		
+10	kun	kun	ADV		
+11	sjældent	sjælden	ADV		
+12	møder	møde	VERB		verb.perception
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1414.tsv
+# sent_id = 13
+# text =  De børn vil få en god opvækst hos hende.
+1	De	den	DET		
+2	børn	barn	NOUN		noun.person
+3	vil	ville	AUX		
+4	få	få	VERB		verb.phenomenon
+5	en	en	DET		
+6	god	god	ADJ		adj.all
+7	opvækst	opvækst	NOUN		noun.phenomenon
+8	hos	hos	ADP		
+9	hende	hun	PRON		
+10	.	.	PUNCT		
+

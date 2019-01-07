@@ -1,0 +1,205 @@
+# newdoc id = DDT-1426.tsv
+# sent_id = 1
+# text =  Lige i denne situation er det serberne, der er den store skurk, men i denne utroligt beskidte krig foretager alle sider uhyrligheder.
+1	Lige	lige	ADV		
+2	i	i	ADP		
+3	denne	denne	DET		
+4	situation	situation	NOUN		noun.state
+5	er	være	AUX		verb.stative
+6	det	det	DET		
+7	serberne	serber	NOUN		noun.person
+8	,	,	PUNCT		
+9	der	der	PRON		
+10	er	være	AUX		verb.stative
+11	den	den	DET		
+12	store	stor	ADJ		adj.phys
+13	skurk	skurk	NOUN		noun.person
+14	,	,	PUNCT		
+15	men	men	CCONJ		
+16	i	i	ADP		
+17	denne	denne	DET		
+18	utroligt	utrolig	ADV		
+19	beskidte	beskidt	ADJ		adj.social
+20	krig	krig	NOUN		noun.event
+21	foretager	foretage	VERB		verb.act
+22	alle	al	ADJ		
+23	sider	side	NOUN		noun.person
+24	uhyrligheder	uhyrlighed	NOUN		noun.act
+25	.	.	PUNCT		
+
+# newdoc id = DDT-1426.tsv
+# sent_id = 2
+# text = " Vi hører meget om Sarajevo, man skal bare ikke glemme, at der foregår lige så hårde kampe mange andre steder," siger chefen for den danske FN-styrke Dancon, oberst Jørgen Bjerregaard Nielsen, der har hovedkvarter i byen Kostajnica.
+1	"	"	PUNCT		
+2	Vi	vi	PRON		
+3	hører	høre	VERB		verb.perception
+4	meget	megen	ADV		
+5	om	om	ADP		
+6	Sarajevo	sarajevo	PROPN		noun.location
+7	,	,	PUNCT		
+8	man	man	PRON		
+9	skal	skulle	AUX		
+10	bare	bare	ADV		
+11	ikke	ikke	ADV		
+12	glemme	glemme	VERB		verb.cognition
+13	,	,	PUNCT		
+14	at	at	SCONJ		
+15	der	der	ADV		
+16	foregår	foregå	VERB		verb.act
+17	lige	lige	ADV		
+18	så	så	ADV		
+19	hårde	hård	ADJ		adj.phys
+20	kampe	kamp	NOUN		noun.event
+21	mange	mangen	ADJ		
+22	andre	anden	DET		
+23	steder	sted	NOUN		noun.location
+24	,	,	PUNCT		
+25	"	"	PUNCT		
+26	siger	sige	VERB		verb.communication
+27	chefen	chef	NOUN		noun.person
+28	for	for	ADP		
+29	den	den	DET		
+30	danske	dansk	ADJ		adj.social
+31	FN-styrke	fn-styrk	NOUN		noun.person
+32	Dancon	dancon	PROPN		noun.person
+33	,	,	PUNCT		
+34	oberst	oberst	NOUN		noun.person
+35	Jørgen	jørgen	PROPN		noun.person
+36	Bjerregaard	bjerregaard	PROPN		noun.person
+37	Nielsen	nielsen	PROPN		noun.person
+38	,	,	PUNCT		
+39	der	der	PRON		
+40	har	have	VERB		verb.phenomenon
+41	hovedkvarter	hovedkvarter	NOUN		noun.building
+42	i	i	ADP		
+43	byen	by	NOUN		noun.location
+44	Kostajnica	kostajnica	PROPN		noun.location
+45	.	.	PUNCT		
+
+# newdoc id = DDT-1426.tsv
+# sent_id = 3
+# text =  Intens skydning ovre fra den bosniske side af floden fortæller sammen med ligene, der flyder ned ad Una, om hårde kampe, men sikker viden er en mangelvare hernede.
+1	Intens	intens	ADJ		
+2	skydning	skydning	NOUN		noun.act
+3	ovre	ovre	ADV		
+4	fra	fra	ADP		
+5	den	den	DET		
+6	bosniske	bosnisk	ADJ		adj.social
+7	side	side	NOUN		noun.person
+8	af	af	ADP		
+9	floden	flod	NOUN		noun.object
+10	fortæller	fortælle	VERB		verb.communication
+11	sammen	sammen	ADV		
+12	med	med	ADP		
+13	ligene	lig	NOUN		noun.object
+14	,	,	PUNCT		
+15	der	der	PRON		
+16	flyder	flyde	VERB		verb.motion
+17	ned	ned	ADV		verb.PARTICLE
+18	ad	ad	ADP		
+19	Una	una	PROPN		noun.object
+20	,	,	PUNCT		
+21	om	om	SCONJ		
+22	hårde	hård	ADJ		adj.phys
+23	kampe	kamp	NOUN		noun.event
+24	,	,	PUNCT		
+25	men	men	CCONJ		
+26	sikker	sikker	ADJ		adj.all
+27	viden	viden	NOUN		noun.cognition
+28	er	være	AUX		verb.stative
+29	en	en	DET		
+30	mangelvare	mangelvare	NOUN		noun.abstract
+31	hernede	hernede	ADV		
+32	.	.	PUNCT		
+
+# newdoc id = DDT-1426.tsv
+# sent_id = 4
+# text =  Som i alle andre krige har sandheden været det første offer.
+1	Som	som	ADP		
+2	i	i	ADP		
+3	alle	al	ADJ		
+4	andre	anden	DET		
+5	krige	krig	NOUN		noun.event
+6	har	have	AUX		
+7	sandheden	sandhed	NOUN		noun.abstract
+8	været	være	AUX		verb.stative
+9	det	det	DET		
+10	første	først	ADJ		adj.all
+11	offer	offer	NOUN		noun.person
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1426.tsv
+# sent_id = 5
+# text =  FN kan ikke komme derover, og at rejse derover som dansk reporter, er at bede om at blive arresteret som spion.
+1	FN	fn	PROPN		noun.institution
+2	kan	kunne	AUX		
+3	ikke	ikke	ADV		
+4	komme	komme	VERB		verb.motion
+5	derover	derover	ADV		
+6	,	,	PUNCT		
+7	og	og	CCONJ		
+8	at	at	PART		
+9	rejse	rejse	VERB		verb.motion
+10	derover	derover	ADV		
+11	som	som	ADP		
+12	dansk	dansk	ADJ		adj.social
+13	reporter	reporter	NOUN		noun.person
+14	,	,	PUNCT		
+15	er	være	VERB		verb.stative
+16	at	at	PART		
+17	bede	bede	VERB		verb.communication
+18	om	om	ADP		
+19	at	at	PART		
+20	blive	blive	AUX		
+21	arresteret	arrestere	VERB		verb.act
+22	som	som	ADP		
+23	spion	spion	NOUN		noun.person
+24	.	.	PUNCT		
+
+# newdoc id = DDT-1426.tsv
+# sent_id = 6
+# text =  Men det er sikkert, at mange muslimer er drevet sammen i interneringslejre, men de skulle ikke være de dødslejre, som man oprindelig frygtede.
+1	Men	men	CCONJ		
+2	det	det	PRON		
+3	er	være	AUX		verb.stative
+4	sikkert	sikker	ADJ		adj.all
+5	,	,	PUNCT		
+6	at	at	SCONJ		
+7	mange	mangen	ADJ		
+8	muslimer	muslim	NOUN		noun.person
+9	er	være	AUX		
+10	drevet	drive	VERB		verb.motion
+11	sammen	sammen	ADV		verb.PARTICLE
+12	i	i	ADP		
+13	interneringslejre	interneringslejr	NOUN		noun.building
+14	,	,	PUNCT		
+15	men	men	CCONJ		
+16	de	den	PRON		
+17	skulle	skulle	AUX		
+18	ikke	ikke	ADV		
+19	være	være	AUX		verb.stative
+20	de	den	DET		
+21	dødslejre	dødslejr	NOUN		noun.building
+22	,	,	PUNCT		
+23	som	som	PRON		
+24	man	man	PRON		
+25	oprindelig	oprindelig	ADV		
+26	frygtede	frygte	VERB		verb.emotion
+27	.	.	PUNCT		
+
+# newdoc id = DDT-1426.tsv
+# sent_id = 7
+# text =  De kan imidlertid hurtigt blive, hvad de endnu ikke er.
+1	De	den	PRON		
+2	kan	kunne	AUX		
+3	imidlertid	imidlertid	ADV		
+4	hurtigt	hurtig	ADV		
+5	blive	blive	VERB		verb.change
+6	,	,	PUNCT		
+7	hvad	hvad	PRON		
+8	de	den	PRON		
+9	endnu	endnu	ADV		
+10	ikke	ikke	ADV		
+11	er	være	VERB		verb.stative
+12	.	.	PUNCT		
+

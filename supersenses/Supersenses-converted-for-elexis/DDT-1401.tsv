@@ -1,0 +1,223 @@
+# newdoc id = DDT-1401.tsv
+# sent_id = 1
+# text = " Vi har netop valgt Jette Dreyer Hughes' bureau, fordi hun er uddannet psykolog.
+1	"	"	PUNCT		
+2	Vi	vi	PRON		
+3	har	have	AUX		
+4	netop	netop	ADV		
+5	valgt	vælge	VERB		verb.cognition
+6	Jette	jette	PROPN		noun.person
+7	Dreyer	dreyer	PROPN		noun.person
+8	Hughes'	hughes'	PROPN		noun.person
+9	bureau	bureau	NOUN		noun.institution
+10	,	,	PUNCT		
+11	fordi	fordi	SCONJ		
+12	hun	hun	PRON		
+13	er	være	AUX		verb.stative
+14	uddannet	uddanne	VERB		adj.all
+15	psykolog	psykolog	NOUN		noun.person
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1401.tsv
+# sent_id = 2
+# text =  Vi troede dermed, at hun var specielt seriøs.
+1	Vi	vi	PRON		
+2	troede	tro	VERB		verb.cognition
+3	dermed	dermed	ADV		
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	hun	hun	PRON		
+7	var	være	VERB		verb.stative
+8	specielt	speciel	ADV		
+9	seriøs	seriøs	ADJ		adj.mental
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1401.tsv
+# sent_id = 3
+# text =  Men i virkeligheden misbruger hun efter min mening sin uddannelse som psykolog til bare at malke folk for penge.
+1	Men	men	CCONJ		
+2	i	i	ADP		
+3	virkeligheden	virkelighed	NOUN		noun.abstract
+4	misbruger	misbruge	VERB		verb.social
+5	hun	hun	PRON		
+6	efter	efter	ADP		
+7	min	min	DET		
+8	mening	mening	NOUN		noun.cognition
+9	sin	sin	DET		
+10	uddannelse	uddannelse	NOUN		noun.act
+11	som	som	ADP		
+12	psykolog	psykolog	NOUN		noun.person
+13	til	til	ADP		
+14	bare	bare	ADV		
+15	at	at	PART		
+16	malke	malke	VERB		verb.act
+17	folk	folk	NOUN		noun.person
+18	for	for	ADP		
+19	penge	penge	NOUN		noun.artifact
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1401.tsv
+# sent_id = 4
+# text =  Der er kun én af de kvinder, jeg kender, der fik kontakt til en ligestillet person.
+1	Der	der	ADV		
+2	er	være	VERB		verb.stative
+3	kun	kun	ADV		
+4	én	én	PRON		
+5	af	af	ADP		
+6	de	den	DET		
+7	kvinder	kvinde	NOUN		noun.person
+8	,	,	PUNCT		
+9	jeg	jeg	PRON		
+10	kender	kende	VERB		verb.cognition
+11	,	,	PUNCT		
+12	der	der	PRON		
+13	fik	få	VERB		verb.act
+14	kontakt	kontakt	NOUN		noun.relation
+15	til	til	ADP		
+16	en	en	DET		
+17	ligestillet	ligestillet	ADJ		adj.all
+18	person	person	NOUN		noun.person
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1401.tsv
+# sent_id = 5
+# text =  De passede så bare ikke sammen, da det kom til stykket.
+1	De	den	PRON		
+2	passede	passe	VERB		verb.stative
+3	så	så	ADV		
+4	bare	bare	ADV		
+5	ikke	ikke	ADV		
+6	sammen	sammen	ADV		verb.COLL
+7	,	,	PUNCT		
+8	da	da	SCONJ		
+9	det	det	PRON		
+10	kom	komme	VERB		verb.phenomenon
+11	til	til	ADP		verb.COLL
+12	stykket	stykke	NOUN		verb.COLL
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1401.tsv
+# sent_id = 6
+# text =  De fire kvinder har slet ikke hørt noget fra hende i et år, mens de to andre har fået en kontaktadresse hver, som slet ikke stemte overens med deres ønsker til en mand.
+1	De	den	DET		
+2	fire	fire	ADJ		
+3	kvinder	kvinde	NOUN		noun.person
+4	har	have	AUX		
+5	slet	slet	ADV		
+6	ikke	ikke	ADV		
+7	hørt	høre	VERB		verb.communication
+8	noget	nogen	PRON		
+9	fra	fra	ADP		
+10	hende	hun	PRON		
+11	i	i	ADP		
+12	et	en	DET		
+13	år	år	NOUN		noun.time
+14	,	,	PUNCT		
+15	mens	mens	SCONJ		
+16	de	den	PRON		
+17	to	to	VERB		
+18	andre	anden	PRON		
+19	har	have	AUX		
+20	fået	få	VERB		verb.possession
+21	en	en	DET		
+22	kontaktadresse	kontaktadres	NOUN		noun.communication
+23	hver	hver	PRON		
+24	,	,	PUNCT		
+25	som	som	PRON		
+26	slet	slet	ADV		
+27	ikke	ikke	ADV		
+28	stemte	stemme	VERB		verb.stative
+29	overens	overens	ADV		verb.COLL
+30	med	med	ADP		
+31	deres	deres	DET		
+32	ønsker	ønske	NOUN		noun.feeling
+33	til	til	ADP		
+34	en	en	DET		
+35	mand	mand	NOUN		noun.person
+36	.	.	PUNCT		
+
+# newdoc id = DDT-1401.tsv
+# sent_id = 7
+# text =  En af mine veninder lagde ikke skjul på, at hun ville have en intelligent og velhavende mand, da hun var til samtale hos Jette Dreyer.
+1	En	en	PRON		
+2	af	af	ADP		
+3	mine	mine	DET		
+4	veninder	veninde	NOUN		noun.person
+5	lagde	lægge	VERB		verb.communication
+6	ikke	ikke	ADV		
+7	skjul	skjul	NOUN		verb.COLL
+8	på	på	ADP		verb.COLL
+9	,	,	PUNCT		
+10	at	at	SCONJ		
+11	hun	hun	PRON		
+12	ville	ville	AUX		
+13	have	have	VERB		verb.possession
+14	en	en	DET		
+15	intelligent	intelligent	ADJ		adj.mental
+16	og	og	CCONJ		
+17	velhavende	velhavende	ADJ		adj.all
+18	mand	mand	NOUN		noun.person
+19	,	,	PUNCT		
+20	da	da	SCONJ		
+21	hun	hun	PRON		
+22	var	være	VERB		verb.stative
+23	til	til	ADP		
+24	samtale	samtale	NOUN		noun.communication
+25	hos	hos	ADP		
+26	Jette	jette	PROPN		noun.person
+27	Dreyer	dreyer	PROPN		noun.person
+28	.	.	PUNCT		
+
+# newdoc id = DDT-1401.tsv
+# sent_id = 8
+# text =  En uge efter blev hun ringet op med det glade budskab:" Jeg har den helt rigtige mand til dig: En bankdirektør i Rungsted.
+1	En	en	DET		
+2	uge	uge	NOUN		noun.time
+3	efter	efter	ADV		
+4	blev	blive	AUX		
+5	hun	hun	PRON		
+6	ringet	ringe	VERB		verb.communication
+7	op	op	ADV		verb.PARTICLE
+8	med	med	ADP		
+9	det	det	DET		
+10	glade	glad	ADJ		adj.all
+11	budskab	budskab	NOUN		noun.communication
+12	:	:	PUNCT		
+13	"	"	PUNCT		
+14	Jeg	jeg	PRON		
+15	har	have	AUX		verb.stative
+16	den	den	DET		
+17	helt	helt	ADV		
+18	rigtige	rigtig	ADJ		adj.all
+19	mand	mand	NOUN		noun.person
+20	til	til	ADP		
+21	dig	du	PRON		
+22	:	:	PUNCT		
+23	En	en	DET		
+24	bankdirektør	bankdirektør	NOUN		noun.person
+25	i	i	ADP		
+26	Rungsted	rungsted	PROPN		noun.location
+27	.	.	PUNCT		
+
+# newdoc id = DDT-1401.tsv
+# sent_id = 9
+# text =  Der er kun én hindring.
+1	Der	der	ADV		
+2	er	være	VERB		verb.stative
+3	kun	kun	ADV		
+4	én	én	DET		
+5	hindring	hindring	NOUN		noun.abstract
+6	.	.	PUNCT		
+
+# newdoc id = DDT-1401.tsv
+# sent_id = 10
+# text =  Han elsker stadig sin tidligere kone".
+1	Han	han	PRON		
+2	elsker	elske	VERB		verb.emotion
+3	stadig	stadig	ADV		
+4	sin	sin	DET		
+5	tidligere	tidlig	ADJ		adj.time
+6	kone	kone	NOUN		noun.person
+7	"	"	PUNCT		
+8	.	.	PUNCT		
+

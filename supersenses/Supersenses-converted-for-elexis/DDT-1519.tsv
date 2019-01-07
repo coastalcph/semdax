@@ -1,0 +1,232 @@
+# newdoc id = DDT-1519.tsv
+# sent_id = 1
+# text = " Personalet måtte vække ham i mandskabsrummet, og toget, der senere forulykkede i Næstved, kørte fra Nykøbing F. med nogle minutters forsinkelse."
+1	"	"	PUNCT		
+2	Personalet	personale	NOUN		noun.person
+3	måtte	måtte	AUX		
+4	vække	vække	VERB		verb.act
+5	ham	han	PRON		
+6	i	i	ADP		
+7	mandskabsrummet	mandskabsrum	NOUN		noun.building
+8	,	,	PUNCT		
+9	og	og	CCONJ		
+10	toget	tog	NOUN		noun.vehicle
+11	,	,	PUNCT		
+12	der	der	PRON		
+13	senere	sen	ADV		
+14	forulykkede	forulykke	VERB		verb.phenomenon
+15	i	i	ADP		
+16	Næstved	næstved	PROPN		noun.location
+17	,	,	PUNCT		
+18	kørte	køre	VERB		verb.motion
+19	fra	fra	ADP		
+20	Nykøbing	nykøbing	PROPN		noun.location
+21	F.	f.	PROPN		noun.location
+22	med	med	ADP		
+23	nogle	nogen	DET		
+24	minutters	minut	NOUN		noun.time
+25	forsinkelse	forsinkelse	NOUN		noun.time
+26	.	.	PUNCT		
+27	"	"	PUNCT		
+
+# newdoc id = DDT-1519.tsv
+# sent_id = 2
+# text =  Trafikchefen erkender også, at havarigruppens rapport viser, at lokoføreren på gifttoget var dobbeltjobber i stor stil.
+1	Trafikchefen	trafikchef	NOUN		noun.person
+2	erkender	erkende	VERB		verb.cognition
+3	også	også	ADV		
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	havarigruppens	havarigruppe	NOUN		noun.person
+7	rapport	rapport	NOUN		noun.communication
+8	viser	visere	VERB		verb.communication
+9	,	,	PUNCT		
+10	at	at	SCONJ		
+11	lokoføreren	lokofører	NOUN		noun.person
+12	på	på	ADP		
+13	gifttoget	gifttog	NOUN		noun.vehicle
+14	var	være	AUX		verb.stative
+15	dobbeltjobber	dobbeltjob	NOUN		noun.person
+16	i	i	ADP		
+17	stor	stor	ADJ		
+18	stil	stil	NOUN		
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1519.tsv
+# sent_id = 3
+# text = " Dobbeltjobbet er kommet frem i forbindelse med havarigruppens arbejde, men jeg vil gerne understrege, at havarigruppen ikke mener, at loko-førerens dobbeltbeskæftigelse har haft nogen som helst indflydelse på togkollisionen i Næstved," siger Henrik Nørgaard.
+1	"	"	PUNCT		
+2	Dobbeltjobbet	dobbeltjob	NOUN		noun.act
+3	er	være	AUX		
+4	kommet	komme	VERB		verb.phenomenon
+5	frem	frem	ADV		verb.COLL
+6	i	i	ADP		
+7	forbindelse	forbindelse	NOUN		noun.phenomenon
+8	med	med	ADP		
+9	havarigruppens	havarigruppe	NOUN		noun.person
+10	arbejde	arbejde	NOUN		noun.act
+11	,	,	PUNCT		
+12	men	men	CCONJ		
+13	jeg	jeg	PRON		
+14	vil	ville	AUX		
+15	gerne	gerne	ADV		
+16	understrege	understrege	VERB		verb.communication
+17	,	,	PUNCT		
+18	at	at	SCONJ		
+19	havarigruppen	havarigruppe	NOUN		noun.person
+20	ikke	ikke	ADV		
+21	mener	mene	VERB		verb.cognition
+22	,	,	PUNCT		
+23	at	at	SCONJ		
+24	loko-førerens	loko-før	NOUN		noun.person
+25	dobbeltbeskæftigelse	dobbeltbeskæftig	NOUN		noun.act
+26	har	have	AUX		
+27	haft	have	VERB		verb.stative
+28	nogen	nogen	DET		
+29	som	som	ADP		
+30	helst	helst	ADV		
+31	indflydelse	indflydelse	NOUN		noun.abstract
+32	på	på	ADP		
+33	togkollisionen	togkollision	NOUN		noun.phenomenon
+34	i	i	ADP		
+35	Næstved	næstved	PROPN		noun.location
+36	,	,	PUNCT		
+37	"	"	PUNCT		
+38	siger	sige	VERB		verb.communication
+39	Henrik	henrik	PROPN		noun.person
+40	Nørgaard	nørgaard	PROPN		noun.person
+41	.	.	PUNCT		
+
+# newdoc id = DDT-1519.tsv
+# sent_id = 4
+# text =  DEN SKYLDIGE
+1	DEN	den	DET		
+2	SKYLDIGE	skyldig	ADJ		adj.all
+
+# newdoc id = DDT-1519.tsv
+# sent_id = 5
+# text =  DSBs egne undersøgelser, som politimester J. P. Clausen, Næstved, modtog resultatet af i_går, udpeger loko-føreren som den skyldige i togkollisionen på Næstved Station tidligt om morgenen den 25. september.
+1	DSBs	dsbs	PROPN		noun.institution
+2	egne	egen	ADJ		
+3	undersøgelser	undersøgelse	NOUN		noun.act
+4	,	,	PUNCT		
+5	som	som	ADP		
+6	politimester	politimester	NOUN		noun.person
+7	J.	j.	PROPN		noun.person
+8	P.	p.	PROPN		noun.person
+9	Clausen	clausen	PROPN		noun.person
+10	,	,	PUNCT		
+11	Næstved	næstved	PROPN		noun.location
+12	,	,	PUNCT		
+13	modtog	modtage	VERB		verb.possession
+14	resultatet	resultat	NOUN		noun.abstract
+15	af	af	ADP		
+16	i_går	i_går	NOUN		noun.time
+17	,	,	PUNCT		
+18	udpeger	udpege	VERB		verb.communication
+19	loko-føreren	loko-før	NOUN		noun.person
+20	som	som	ADP		
+21	den	den	DET		
+22	skyldige	skyldig	ADJ		adj.all
+23	i	i	ADP		
+24	togkollisionen	togkollision	NOUN		noun.phenomenon
+25	på	på	ADP		
+26	Næstved	næstved	PROPN		noun.location
+27	Station	station	NOUN		noun.location
+28	tidligt	tidlig	ADV		
+29	om	om	ADP		
+30	morgenen	morgen	NOUN		noun.time
+31	den	den	DET		
+32	25.	25.	ADJ		
+33	september	september	NOUN		noun.time
+34	.	.	PUNCT		
+
+# newdoc id = DDT-1519.tsv
+# sent_id = 6
+# text =  En kollision, der var tæt på at få katastrofale følger, fordi en tankvogn med giftstoffet acrylonitril sprang læk.
+1	En	en	DET		
+2	kollision	kollision	NOUN		noun.phenomenon
+3	,	,	PUNCT		
+4	der	der	ADV		
+5	var	være	AUX		verb.stative
+6	tæt	tætte	ADV		
+7	på	på	ADP		
+8	at	at	PART		
+9	få	få	VERB		verb.phenomenon
+10	katastrofale	katastrofal	ADJ		adj.all
+11	følger	følge	NOUN		noun.phenomenon
+12	,	,	PUNCT		
+13	fordi	fordi	SCONJ		
+14	en	en	DET		
+15	tankvogn	tankvogn	NOUN		noun.vehicle
+16	med	med	ADP		
+17	giftstoffet	giftstof	NOUN		noun.substance
+18	acrylonitril	acrylonitril	X		noun.substance
+19	sprang	springe	VERB		verb.phenomenon
+20	læk	læk	NOUN		verb.COLL
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1519.tsv
+# sent_id = 7
+# text =  Al toggang til og fra Næstved måtte indstilles i de tidlige morgentimer, og i_alt 26 personer kom på hospitalet.
+1	Al	al	ADJ		
+2	toggang	toggang	NOUN		noun.act
+3	til	til	ADP		
+4	og	og	CCONJ		
+5	fra	fra	ADP		
+6	Næstved	næstved	PROPN		noun.location
+7	måtte	måtte	AUX		
+8	indstilles	indstille	VERB		verb.act
+9	i	i	ADP		
+10	de	den	DET		
+11	tidlige	tidlig	ADJ		adj.time
+12	morgentimer	morgentime	NOUN		noun.time
+13	,	,	PUNCT		
+14	og	og	CCONJ		
+15	i_alt	i_alt	ADV		
+16	26	26	ADJ		
+17	personer	person	NOUN		noun.person
+18	kom	komme	VERB		verb.motion
+19	på	på	ADP		
+20	hospitalet	hospital	NOUN		noun.building
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1519.tsv
+# sent_id = 8
+# text =  Herunder syv politifolk, som var tæt på den lækkede tankvogn, indtil det gik op for brandinspektør Svend Åge Jensen, at det var livsfarligt stof, der sivede ud og forurenede jernbaneterrænet.
+1	Herunder	herunder	ADV		
+2	syv	syv	ADJ		
+3	politifolk	politifolk	NOUN		noun.person
+4	,	,	PUNCT		
+5	som	som	PRON		
+6	var	være	AUX		verb.stative
+7	tæt	tætte	ADV		
+8	på	på	ADP		
+9	den	den	DET		
+10	lækkede	lække	VERB		adj.phys
+11	tankvogn	tankvogn	NOUN		noun.vehicle
+12	,	,	PUNCT		
+13	indtil	indtil	SCONJ		
+14	det	det	PRON		
+15	gik	gå	VERB		verb.cognition
+16	op	op	ADV		verb.COLL
+17	for	for	ADP		verb.COLL
+18	brandinspektør	brandinspektør	NOUN		noun.person
+19	Svend	svend	PROPN		noun.person
+20	Åge	åge	PROPN		noun.person
+21	Jensen	jensen	PROPN		noun.person
+22	,	,	PUNCT		
+23	at	at	SCONJ		
+24	det	det	PRON		
+25	var	være	AUX		verb.stative
+26	livsfarligt	livsfarlig	ADJ		adj.all
+27	stof	stof	NOUN		noun.substance
+28	,	,	PUNCT		
+29	der	der	PRON		
+30	sivede	sive	VERB		verb.motion
+31	ud	ud	ADV		
+32	og	og	CCONJ		
+33	forurenede	forurene	VERB		verb.phenomenon
+34	jernbaneterrænet	jernbaneterræn	NOUN		noun.location
+35	.	.	PUNCT		
+

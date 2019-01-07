@@ -1,0 +1,249 @@
+# newdoc id = DDT-1251.tsv
+# sent_id = 1
+# text =  Kurset, som kombinerer tre sanser: syns-, høre- og følesansen, udbydes normalt på Tasteskolen i København, og her har 24 dansklærere fra gymnasiet fået undervisning siden foråret.
+1	Kurset	kursus	NOUN		noun.event
+2	,	,	PUNCT		
+3	som	som	PRON		
+4	kombinerer	kombinere	VERB		verb.phenomenon
+5	tre	tre	ADJ		
+6	sanser	sans	NOUN		noun.phenomenon
+7	:	:	PUNCT		
+8	syns-	syns-	X		noun.phenomenon
+9	,	,	PUNCT		
+10	høre-	høre-	NOUN		noun.phenomenon
+11	og	og	CCONJ		
+12	følesansen	følesans	NOUN		noun.phenomenon
+13	,	,	PUNCT		
+14	udbydes	udbyde	VERB		verb.stative
+15	normalt	normal	ADV		
+16	på	på	ADP		
+17	Tasteskolen	tasteskol	NOUN		noun.building
+18	i	i	ADP		
+19	København	københavn	PROPN		noun.location
+20	,	,	PUNCT		
+21	og	og	CCONJ		
+22	her	her	ADV		
+23	har	have	AUX		
+24	24	24	ADJ		
+25	dansklærere	dansklærer	NOUN		noun.person
+26	fra	fra	ADP		
+27	gymnasiet	gymnasium	NOUN		noun.institution
+28	fået	få	VERB		verb.phenomenon
+29	undervisning	undervisning	NOUN		noun.communication
+30	siden	siden	ADP		
+31	foråret	forår	NOUN		noun.time
+32	.	.	PUNCT		
+
+# newdoc id = DDT-1251.tsv
+# sent_id = 2
+# text =  Nu videregiver de talenterne til eleverne- som er vilde med det.
+1	Nu	nu	ADV		
+2	videregiver	videregive	VERB		verb.communication
+3	de	den	PRON		
+4	talenterne	talent	NOUN		noun.attribute
+5	til	til	ADP		
+6	eleverne	elev	NOUN		noun.person
+7	-	-	PUNCT		
+8	som	som	ADP		
+9	er	være	AUX		verb.stative
+10	vilde	vild	ADJ		adj.mental
+11	med	med	ADP		
+12	det	det	PRON		
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1251.tsv
+# sent_id = 3
+# text = " Når man begynder at kunne det, er det bare vildt morsomt.
+1	"	"	PUNCT		
+2	Når	når	SCONJ		
+3	man	man	PRON		
+4	begynder	begynde	VERB		verb.aspectual
+5	at	at	PART		
+6	kunne	kunne	AUX		
+7	det	det	PRON		
+8	,	,	PUNCT		
+9	er	være	AUX		verb.stative
+10	det	det	PRON		
+11	bare	bare	ADV		
+12	vildt	vildt	ADV		
+13	morsomt	morsom	ADJ		adj.mental
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1251.tsv
+# sent_id = 4
+# text =  Det er meget nemmere og hurtigere at skrive med ti fingre end med to," mener Filip Willemoes.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	meget	megen	ADV		
+4	nemmere	nem	ADJ		adj.all
+5	og	og	CCONJ		
+6	hurtigere	hurtig	ADJ		adj.all
+7	at	at	PART		
+8	skrive	skrive	VERB		verb.creation
+9	med	med	ADP		
+10	ti	tie	ADJ		
+11	fingre	finger	NOUN		noun.body
+12	end	ende	ADP		
+13	med	med	ADP		
+14	to	to	NOUN		
+15	,	,	PUNCT		
+16	"	"	PUNCT		
+17	mener	mene	VERB		verb.cognition
+18	Filip	filip	PROPN		noun.person
+19	Willemoes	willemoes	PROPN		noun.person
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1251.tsv
+# sent_id = 5
+# text =  Han er en af" eksperterne" fra 4. klasse, der allerede har overstået de obligatoriske 25 timers undervisning.
+1	Han	han	PRON		
+2	er	være	AUX		verb.stative
+3	en	en	PRON		
+4	af	af	ADP		
+5	"	"	PUNCT		
+6	eksperterne	ekspert	NOUN		noun.person
+7	"	"	PUNCT		
+8	fra	fra	ADP		
+9	4.	4.	ADJ		
+10	klasse	klasse	NOUN		noun.relation
+11	,	,	PUNCT		
+12	der	der	PRON		
+13	allerede	allerede	ADV		
+14	har	have	AUX		
+15	overstået	overstå	VERB		verb.act
+16	de	den	DET		
+17	obligatoriske	obligatorisk	ADJ		adj.all
+18	25	25	DET		
+19	timers	timer	NOUN		noun.time
+20	undervisning	undervisning	NOUN		noun.communication
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1251.tsv
+# sent_id = 6
+# text = " Jeg tænkte, at det her lærer jeg bare ikke.
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	tænkte	tænke	VERB		verb.cognition
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	det	det	PRON		
+7	her	her	ADV		
+8	lærer	lære	VERB		verb.cognition
+9	jeg	jeg	PRON		
+10	bare	bare	ADV		
+11	ikke	ikke	ADV		
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1251.tsv
+# sent_id = 7
+# text =  Jeg opgav næsten på forhånd, men efter en uge gik det bedre," supplerer Ulrik Holst Hansen; og Marie Louise Løvgren sender en taknemmelig tanke til" benzinen"- det slik, som lærerne delte ud for at holde modet oppe.
+1	Jeg	jeg	PRON		
+2	opgav	opgive	VERB		verb.act
+3	næsten	næsten	ADV		
+4	på	på	ADP		
+5	forhånd	forhånd	NOUN		
+6	,	,	PUNCT		
+7	men	men	CCONJ		
+8	efter	efter	ADP		
+9	en	en	DET		
+10	uge	uge	NOUN		noun.time
+11	gik	gå	VERB		verb.stative
+12	det	det	PRON		
+13	bedre	god	ADV		
+14	,	,	PUNCT		
+15	"	"	PUNCT		
+16	supplerer	supplere	VERB		verb.communication
+17	Ulrik	ulrik	PROPN		noun.person
+18	Holst	holst	PROPN		noun.person
+19	Hansen	hansen	PROPN		noun.person
+20	;	;	PUNCT		
+21	og	og	CCONJ		
+22	Marie	marie	PROPN		noun.person
+23	Louise	louise	PROPN		noun.person
+24	Løvgren	løvgren	PROPN		noun.person
+25	sender	sende	VERB		verb.cognition
+26	en	en	DET		
+27	taknemmelig	taknemmelig	ADJ		adj.mental
+28	tanke	tanke	NOUN		noun.cognition
+29	til	til	ADP		
+30	"	"	PUNCT		
+31	benzinen	benzin	NOUN		noun.food
+32	"	"	PUNCT		
+33	-	-	PUNCT		
+34	det	det	DET		
+35	slik	slik	NOUN		noun.food
+36	,	,	PUNCT		
+37	som	som	ADP		
+38	lærerne	lærer	NOUN		noun.person
+39	delte	dele	VERB		verb.possession
+40	ud	ud	ADV		verb.PARTICLE
+41	for	for	ADP		
+42	at	at	PART		
+43	holde	holde	VERB		verb.stative
+44	modet	mod	NOUN		noun.feeling
+45	oppe	oppe	ADV		
+46	.	.	PUNCT		
+
+# newdoc id = DDT-1251.tsv
+# sent_id = 8
+# text =  Lidt forkælelse skulle der være plads til, for" man får kuk i hovedet" af at sidde fra otte til elleve hver morgen i to uger og bare taste de samme bogstav- og talremser.
+1	Lidt	lidt	ADJ		
+2	forkælelse	forkælelse	NOUN		noun.phenomenon
+3	skulle	skulle	AUX		
+4	der	der	ADV		
+5	være	være	VERB		verb.stative
+6	plads	plads	NOUN		noun.abstract
+7	til	til	ADP		
+8	,	,	PUNCT		
+9	for	for	CCONJ		
+10	"	"	PUNCT		
+11	man	man	PRON		
+12	får	få	VERB		verb.possession
+13	kuk	kuk	NOUN		noun.phenomenon
+14	i	i	ADP		
+15	hovedet	hovede	NOUN		noun.body
+16	"	"	PUNCT		
+17	af	af	ADP		
+18	at	at	PART		
+19	sidde	sidde	VERB		verb.stative
+20	fra	fra	ADP		
+21	otte	otte	NOUN		
+22	til	til	ADP		
+23	elleve	elleve	NOUN		
+24	hver	hver	PRON		
+25	morgen	morgen	NOUN		noun.time
+26	i	i	ADP		
+27	to	to	NUM		
+28	uger	uge	NOUN		noun.time
+29	og	og	CCONJ		
+30	bare	bare	ADV		
+31	taste	taste	VERB		verb.contact
+32	de	den	DET		
+33	samme	samme	ADJ		adj.phys
+34	bogstav-	bogstav-	NOUN		noun.artifact
+35	og	og	CCONJ		
+36	talremser	talrems	NOUN		noun.artifact
+37	.	.	PUNCT		
+
+# newdoc id = DDT-1251.tsv
+# sent_id = 9
+# text =  Til gengæld er det nu sjovt at sidde og skrive på maskine derhjemme, siger de samstemmende.
+1	Til	til	ADP		
+2	gengæld	gengæld	NOUN		
+3	er	være	AUX		verb.stative
+4	det	det	PRON		
+5	nu	nu	ADV		
+6	sjovt	sjov	ADJ		adj.mental
+7	at	at	PART		
+8	sidde	sidde	VERB		verb.stative
+9	og	og	CCONJ		
+10	skrive	skrive	VERB		verb.creation
+11	på	på	ADP		
+12	maskine	maskine	NOUN		noun.artifact
+13	derhjemme	derhjemme	ADV		
+14	,	,	PUNCT		
+15	siger	sige	VERB		verb.communication
+16	de	den	PRON		
+17	samstemmende	samstemme	VERB		adj.phys
+18	.	.	PUNCT		
+

@@ -1,0 +1,227 @@
+# newdoc id = DDT-1546.tsv
+# sent_id = 1
+# text =  Hun fortæller også, at hun ikke sov den første nat efter ankomsten.
+1	Hun	hun	PRON		
+2	fortæller	fortælle	VERB		verb.communication
+3	også	også	ADV		
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	hun	hun	PRON		
+7	ikke	ikke	ADV		
+8	sov	sove	VERB		verb.phenomenon
+9	den	den	DET		
+10	første	først	ADJ		adj.time
+11	nat	nat	NOUN		noun.time
+12	efter	efter	ADP		
+13	ankomsten	ankomst	NOUN		noun.act
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1546.tsv
+# sent_id = 2
+# text = " Hver gang jeg lukkede øjnene, så jeg grædende børn, sultne børn, døende børn og døde børn.
+1	"	"	PUNCT		
+2	Hver	hver	PRON		
+3	gang	gang	NOUN		noun.abstract
+4	jeg	jeg	PRON		
+5	lukkede	lukke	VERB		verb.act
+6	øjnene	øje	NOUN		noun.body
+7	,	,	PUNCT		
+8	så	så	SCONJ		verb.perception
+9	jeg	jeg	PRON		
+10	grædende	græde	VERB		adj.phys
+11	børn	barn	NOUN		noun.person
+12	,	,	PUNCT		
+13	sultne	sulten	ADJ		adj.phys
+14	børn	barn	NOUN		noun.person
+15	,	,	PUNCT		
+16	døende	dø	VERB		adj.phys
+17	børn	barn	NOUN		noun.person
+18	og	og	CCONJ		
+19	døde	død	ADJ		adj.phys
+20	børn	barn	NOUN		noun.person
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1546.tsv
+# sent_id = 3
+# text =  Dette er noget, der aldrig forlader mig.
+1	Dette	denne	PRON		
+2	er	være	AUX		verb.stative
+3	noget	nogen	PRON		
+4	,	,	PUNCT		
+5	der	der	PRON		
+6	aldrig	aldrig	ADV		
+7	forlader	forlade	VERB		verb.phenomenon
+8	mig	jeg	PRON		
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1546.tsv
+# sent_id = 4
+# text =  Og hele mit liv vil jeg spørge mig selv og andre: Jamen gjorde vi nok," siger Sophia Loren.
+1	Og	og	CCONJ		
+2	hele	hel	ADJ		adj.time
+3	mit	min	DET		
+4	liv	liv	NOUN		noun.time
+5	vil	ville	AUX		
+6	jeg	jeg	PRON		
+7	spørge	spørge	VERB		verb.communication
+8	mig	jeg	PRON		
+9	selv	selv	PRON		
+10	og	og	CCONJ		
+11	andre	anden	PRON		
+12	:	:	PUNCT		
+13	Jamen	jamen	CCONJ		
+14	gjorde	gøre	VERB		verb.act
+15	vi	vi	PRON		
+16	nok	nok	ADV		
+17	,	,	PUNCT		
+18	"	"	PUNCT		
+19	siger	sige	VERB		verb.communication
+20	Sophia	sophia	PROPN		noun.person
+21	Loren	loren	PROPN		noun.person
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1546.tsv
+# sent_id = 5
+# text =  Hun var på de seks døgn rundt i fem lejre, og hvert sted snakkede hun med ledere og gik ind i arbejdet med at dele de sparsomme madrationer ud, made børnene og være med til at rydde op og få både de syge børn og voksne i lejrene vasket og givet medicin.
+1	Hun	hun	PRON		
+2	var	være	VERB		verb.motion
+3	på	på	ADP		
+4	de	den	DET		
+5	seks	seks	ADJ		
+6	døgn	døgn	NOUN		noun.time
+7	rundt	rund	ADV		verb.COLL
+8	i	i	ADP		
+9	fem	fem	ADJ		
+10	lejre	lejr	NOUN		noun.building
+11	,	,	PUNCT		
+12	og	og	CCONJ		
+13	hvert	hver	PRON		
+14	sted	sted	NOUN		noun.location
+15	snakkede	snakke	VERB		verb.communication
+16	hun	hun	PRON		
+17	med	med	ADP		
+18	ledere	leder	NOUN		noun.person
+19	og	og	CCONJ		
+20	gik	gå	VERB		verb.act
+21	ind	ind	ADV		verb.COLL
+22	i	i	ADP		verb.COLL
+23	arbejdet	arbejde	NOUN		noun.act
+24	med	med	ADP		
+25	at	at	PART		
+26	dele	dele	VERB		verb.possession
+27	de	den	DET		
+28	sparsomme	sparsom	ADJ		adj.all
+29	madrationer	madration	NOUN		noun.food
+30	ud	ud	ADV		verb.PARTICLE
+31	,	,	PUNCT		
+32	made	made	VERB		verb.act
+33	børnene	barn	NOUN		noun.person
+34	og	og	CCONJ		
+35	være	være	AUX		verb.stative
+36	med	med	ADV		verb.COLL
+37	til	til	ADP		verb.COLL
+38	at	at	PART		
+39	rydde	rydde	VERB		verb.act
+40	op	op	ADV		verb.PARTICLE
+41	og	og	CCONJ		
+42	få	få	VERB		
+43	både	både	ADV		
+44	de	den	DET		
+45	syge	syg	ADJ		adj.all
+46	børn	barn	NOUN		noun.person
+47	og	og	CCONJ		
+48	voksne	voksen	ADJ		noun.person
+49	i	i	ADP		
+50	lejrene	lejr	NOUN		noun.building
+51	vasket	vaske	VERB		verb.act
+52	og	og	CCONJ		
+53	givet	give	VERB		verb.possession
+54	medicin	medicin	NOUN		noun.substance
+55	.	.	PUNCT		
+
+# newdoc id = DDT-1546.tsv
+# sent_id = 6
+# text =  DET NYTTER
+1	DET	det	PRON		
+2	NYTTER	nytte	VERB		verb.phenomenon
+
+# newdoc id = DDT-1546.tsv
+# sent_id = 7
+# text = " Fortæl alle, der vil høre og læse det- hjælpen er ikke formålsløs.
+1	"	"	PUNCT		
+2	Fortæl	fortælle	VERB		verb.communication
+3	alle	al	ADJ		
+4	,	,	PUNCT		
+5	der	der	PRON		
+6	vil	ville	AUX		
+7	høre	høre	VERB		verb.communication
+8	og	og	CCONJ		
+9	læse	læse	VERB		verb.cognition
+10	det	det	PRON		
+11	-	-	PUNCT		
+12	hjælpen	hjælp	NOUN		noun.act
+13	er	være	AUX		verb.stative
+14	ikke	ikke	ADV		
+15	formålsløs	formålsløs	ADJ		adj.all
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1546.tsv
+# sent_id = 8
+# text =  Den er måske langsom, men alt- selv en dansk krone- er bedre end ingenting, når de gives til hjælpearbejdet," siger Sophia Loren.
+1	Den	den	PRON		
+2	er	være	AUX		verb.stative
+3	måske	måske	ADV		
+4	langsom	langsom	ADJ		adj.all
+5	,	,	PUNCT		
+6	men	men	CCONJ		
+7	alt	al	ADJ		
+8	-	-	PUNCT		
+9	selv	selv	PRON		
+10	en	en	DET		
+11	dansk	dansk	ADJ		adj.social
+12	krone	krone	NOUN		noun.quantity
+13	-	-	PUNCT		
+14	er	være	AUX		verb.stative
+15	bedre	god	ADJ		adj.all
+16	end	ende	ADP		
+17	ingenting	ingenting	PRON		
+18	,	,	PUNCT		
+19	når	når	SCONJ		
+20	de	den	PRON		
+21	gives	give	VERB		verb.possession
+22	til	til	ADP		
+23	hjælpearbejdet	hjælpearbejde	NOUN		noun.act
+24	,	,	PUNCT		
+25	"	"	PUNCT		
+26	siger	sige	VERB		verb.communication
+27	Sophia	sophia	PROPN		noun.person
+28	Loren	loren	PROPN		noun.person
+29	.	.	PUNCT		
+
+# newdoc id = DDT-1546.tsv
+# sent_id = 9
+# text =  Hun indrømmer, at hun var meget rystet over og totalt uforberedt på den kontrast, der findes i det hungerhærgede land.
+1	Hun	hun	PRON		
+2	indrømmer	indrømme	VERB		verb.communication
+3	,	,	PUNCT		
+4	at	at	SCONJ		
+5	hun	hun	PRON		
+6	var	være	VERB		verb.stative
+7	meget	megen	ADV		
+8	rystet	ryste	VERB		adj.mental
+9	over	over	ADP		
+10	og	og	CCONJ		
+11	totalt	total	ADV		
+12	uforberedt	uforberedt	ADJ		adj.mental
+13	på	på	ADP		
+14	den	den	DET		
+15	kontrast	kontrast	NOUN		noun.relation
+16	,	,	PUNCT		
+17	der	der	PRON		
+18	findes	findes	VERB		verb.stative
+19	i	i	ADP		
+20	det	det	DET		
+21	hungerhærgede	hungerhærged	ADJ		adj.all
+22	land	land	NOUN		noun.location
+23	.	.	PUNCT		
+

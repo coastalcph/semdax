@@ -1,0 +1,221 @@
+# newdoc id = DDT-1333.tsv
+# sent_id = 1
+# text =  Fundet af en halv snes nåle i kroppen på en to-årig pige har fået personalet på Roskilde Amtssygehus til at slå alarm til politiet.
+1	Fundet	finde	VERB		noun.event
+2	af	af	ADP		
+3	en	en	DET		
+4	halv	halv	ADJ		
+5	snes	snes	NOUN		noun.quantity
+6	nåle	nål	NOUN		noun.artifact
+7	i	i	ADP		
+8	kroppen	krop	NOUN		noun.body
+9	på	på	ADP		
+10	en	en	DET		
+11	to-årig	to-år	ADJ		adj.time
+12	pige	pige	NOUN		noun.person
+13	har	have	AUX		
+14	fået	få	VERB		verb.phenomenon
+15	personalet	personale	NOUN		noun.person
+16	på	på	ADP		
+17	Roskilde	roskilde	PROPN		noun.institution
+18	Amtssygehus	amtssygehus	NOUN		noun.institution
+19	til	til	ADP		
+20	at	at	PART		
+21	slå	slå	VERB		verb.act
+22	alarm	alarm	NOUN		verb.COLL
+23	til	til	ADP		
+24	politiet	politi	NOUN		noun.institution
+25	.	.	PUNCT		
+
+# newdoc id = DDT-1333.tsv
+# sent_id = 2
+# text =  Røntgenfotografier af den lille piges krop afslørede, at hun var blevet brugt som levende nålepude og blandt_andet havde nåle i lungerne.
+1	Røntgenfotografier	røntgenfotografi	NOUN		noun.artifact
+2	af	af	ADP		
+3	den	den	DET		
+4	lille	lille	ADJ		adj.phys
+5	piges	pige	ADJ		noun.person
+6	krop	krop	NOUN		noun.body
+7	afslørede	afsløre	VERB		verb.act
+8	,	,	PUNCT		
+9	at	at	SCONJ		
+10	hun	hun	PRON		
+11	var	være	AUX		
+12	blevet	blive	AUX		
+13	brugt	bruge	VERB		verb.act
+14	som	som	ADP		
+15	levende	levende	ADJ		adj.phys
+16	nålepude	nålepude	NOUN		noun.artifact
+17	og	og	CCONJ		
+18	blandt_andet	blandt_and	NOUN		
+19	havde	have	VERB		verb.phenomenon
+20	nåle	nål	NOUN		noun.artifact
+21	i	i	ADP		
+22	lungerne	lunge	NOUN		noun.body
+23	.	.	PUNCT		
+
+# newdoc id = DDT-1333.tsv
+# sent_id = 3
+# text = " Det er en mystisk sag, hvor de små nåle er stukket ind i pigens hals, håndled, på kroppen og i knæet," oplyser kriminalinspektør Jørgen Juul, Roskilde.
+1	"	"	PUNCT		
+2	Det	det	PRON		
+3	er	være	AUX		verb.stative
+4	en	en	DET		
+5	mystisk	mystisk	ADJ		adj.all
+6	sag	sag	NOUN		noun.cognition
+7	,	,	PUNCT		
+8	hvor	hvor	ADV		
+9	de	den	DET		
+10	små	lille	ADJ		adj.phys
+11	nåle	nål	NOUN		noun.artifact
+12	er	være	AUX		
+13	stukket	stikke	VERB		verb.act
+14	ind	ind	ADV		verb.PARTICLE
+15	i	i	ADP		
+16	pigens	pige	NOUN		noun.person
+17	hals	hals	NOUN		noun.body
+18	,	,	PUNCT		
+19	håndled	håndled	NOUN		noun.body
+20	,	,	PUNCT		
+21	på	på	ADP		
+22	kroppen	krop	NOUN		noun.body
+23	og	og	CCONJ		
+24	i	i	ADP		
+25	knæet	knæ	NOUN		noun.body
+26	,	,	PUNCT		
+27	"	"	PUNCT		
+28	oplyser	oplyse	VERB		verb.communication
+29	kriminalinspektør	kriminalinspektør	NOUN		noun.person
+30	Jørgen	jørgen	PROPN		noun.person
+31	Juul	juul	PROPN		noun.person
+32	,	,	PUNCT		
+33	Roskilde	roskilde	PROPN		noun.location
+34	.	.	PUNCT		
+
+# newdoc id = DDT-1333.tsv
+# sent_id = 4
+# text =  WEEKEND-BESØG
+1	WEEKEND-BESØG	weekend-besøg	NOUN		noun.act
+
+# newdoc id = DDT-1333.tsv
+# sent_id = 5
+# text =  Kriminalpolitiet efterforsker den uhyggelige affære som en sag om grov børnemishandling.
+1	Kriminalpolitiet	kriminalpoliti	NOUN		noun.person
+2	efterforsker	efterforske	VERB		verb.act
+3	den	den	DET		
+4	uhyggelige	uhyggelig	ADJ		adj.all
+5	affære	affære	NOUN		noun.act
+6	som	som	ADP		
+7	en	en	DET		
+8	sag	sag	NOUN		noun.cognition
+9	om	om	ADP		
+10	grov	grov	ADJ		adj.phys
+11	børnemishandling	børnemishandling	NOUN		noun.act
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1333.tsv
+# sent_id = 6
+# text =  Endnu ved man ikke, hvem der har pint den lille pige.
+1	Endnu	endnu	ADV		
+2	ved	vide	VERB		verb.cognition
+3	man	man	PRON		
+4	ikke	ikke	ADV		
+5	,	,	PUNCT		
+6	hvem	hvem	PRON		
+7	der	der	ADV		
+8	har	have	AUX		
+9	pint	pine	VERB		verb.act
+10	den	den	DET		
+11	lille	lille	ADJ		adj.phys
+12	pige	pige	NOUN		noun.person
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1333.tsv
+# sent_id = 7
+# text =  ved at stikke nåle i hende.
+1	ved	ved	ADP		
+2	at	at	PART		
+3	stikke	stikke	VERB		verb.act
+4	nåle	nål	NOUN		noun.artifact
+5	i	i	ADP		
+6	hende	hun	PRON		
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1333.tsv
+# sent_id = 8
+# text = " Men det er næppe den to-årige, der selv har stukket nålene ind i sin krop.
+1	"	"	PUNCT		
+2	Men	men	CCONJ		
+3	det	det	PRON		
+4	er	være	AUX		verb.stative
+5	næppe	næppe	ADV		
+6	den	den	DET		
+7	to-årige	to-år	ADJ		noun.person
+8	,	,	PUNCT		
+9	der	der	PRON		
+10	selv	selv	PRON		
+11	har	have	AUX		
+12	stukket	stikke	VERB		verb.act
+13	nålene	nål	NOUN		noun.artifact
+14	ind	ind	ADV		
+15	i	i	ADP		
+16	sin	sin	DET		
+17	krop	krop	NOUN		noun.body
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1333.tsv
+# sent_id = 9
+# text =  Det tror vi i_hvert_fald ikke på," forsikrer kriminalinspektøren.
+1	Det	det	PRON		
+2	tror	tro	VERB		verb.cognition
+3	vi	vi	PRON		
+4	i_hvert_fald	i_hvert_fald	ADV		
+5	ikke	ikke	ADV		
+6	på	på	ADP		
+7	,	,	PUNCT		
+8	"	"	PUNCT		
+9	forsikrer	forsikre	VERB		verb.communication
+10	kriminalinspektøren	kriminalinspektør	NOUN		noun.person
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1333.tsv
+# sent_id = 10
+# text = " Vi afhører den begrænsede personkreds omkring pigen og ved, at pigen har været på weekend-besøg hos sin biologiske far.
+1	"	"	PUNCT		
+2	Vi	vi	PRON		
+3	afhører	afhøre	VERB		verb.act
+4	den	den	DET		
+5	begrænsede	begrænse	VERB		adj.all
+6	personkreds	personkreds	NOUN		noun.person
+7	omkring	omkring	ADP		
+8	pigen	pige	NOUN		noun.person
+9	og	og	CCONJ		
+10	ved	vide	VERB		verb.cognition
+11	,	,	PUNCT		
+12	at	at	SCONJ		
+13	pigen	pige	NOUN		noun.person
+14	har	have	AUX		
+15	været	være	VERB		verb.stative
+16	på	på	ADP		
+17	weekend-besøg	weekend-besøg	NOUN		noun.event
+18	hos	hos	ADP		
+19	sin	sin	DET		
+20	biologiske	biologisk	ADJ		adj.phys
+21	far	far	NOUN		noun.person
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1333.tsv
+# sent_id = 11
+# text =  Ellers bor hun hos moderen.
+1	Ellers	ellers	ADV		
+2	bor	bore	VERB		verb.stative
+3	hun	hun	PRON		
+4	hos	hos	ADP		
+5	moderen	moder	NOUN		noun.person
+6	.	.	PUNCT		
+
+# newdoc id = DDT-1333.tsv
+# sent_id = 12
+# text =  AFHØRT
+1	AFHØRT	afhøre	VERB		adj.all
+

@@ -1,0 +1,232 @@
+# newdoc id = DDT-1493.tsv
+# sent_id = 1
+# text =  Familien Knudsen i landsbyen Akkerup ved Assens var lamslåede øjenvidner til en tragisk flyulykke søndag middag, hvor tre omkom.
+1	Familien	familie	NOUN		noun.person
+2	Knudsen	knudsen	PROPN		noun.person
+3	i	i	ADP		
+4	landsbyen	landsby	NOUN		noun.location
+5	Akkerup	akkerup	PROPN		noun.location
+6	ved	ved	ADP		
+7	Assens	assens	PROPN		noun.location
+8	var	være	AUX		verb.stative
+9	lamslåede	lamslå	ADJ		adj.mental
+10	øjenvidner	øjenvidne	NOUN		noun.person
+11	til	til	ADP		
+12	en	en	DET		
+13	tragisk	tragisk	ADJ		adj.all
+14	flyulykke	flyulykke	NOUN		noun.phenomenon
+15	søndag	søndag	NOUN		noun.time
+16	middag	middag	NOUN		noun.time
+17	,	,	PUNCT		
+18	hvor	hvor	ADV		
+19	tre	tre	NOUN		
+20	omkom	omkomme	VERB		verb.phenomenon
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1493.tsv
+# sent_id = 2
+# text =  De dræbte er den 42-årige Palle Kreiberg-Nielsen, Tommerup, og Kim Scavenius Johnsen, 32, Tommerup, samt Palle Kreiberg-Nielsens veninde, Inger Agnes Mandrup Flindtgaard, 54, Slangerup.
+1	De	den	PRON		
+2	dræbte	dræbe	VERB		adj.phys
+3	er	være	AUX		verb.stative
+4	den	den	DET		
+5	42-årige	42-år	ADJ		adj.time
+6	Palle	palle	PROPN		noun.person
+7	Kreiberg-Nielsen	kreiberg-nielsen	PROPN		noun.person
+8	,	,	PUNCT		
+9	Tommerup	tommerup	PROPN		noun.location
+10	,	,	PUNCT		
+11	og	og	CCONJ		
+12	Kim	kim	PROPN		noun.person
+13	Scavenius	scavenius	PROPN		noun.person
+14	Johnsen	johnsen	PROPN		noun.person
+15	,	,	PUNCT		
+16	32	32	PRON		
+17	,	,	PUNCT		
+18	Tommerup	tommerup	PROPN		noun.location
+19	,	,	PUNCT		
+20	samt	samt	CCONJ		
+21	Palle	palle	PROPN		noun.person
+22	Kreiberg-Nielsens	kreiberg-nielsens	PROPN		noun.person
+23	veninde	veninde	NOUN		noun.person
+24	,	,	PUNCT		
+25	Inger	inger	PROPN		noun.person
+26	Agnes	agnes	PROPN		noun.person
+27	Mandrup	mandrup	PROPN		noun.person
+28	Flindtgaard	flindtgaard	PROPN		noun.person
+29	,	,	PUNCT		
+30	54	54	PRON		
+31	,	,	PUNCT		
+32	Slangerup	slangerup	PROPN		noun.location
+33	.	.	PUNCT		
+
+# newdoc id = DDT-1493.tsv
+# sent_id = 3
+# text =  Palle Kreiberg var lærer, men i sin fritid arbejdede han som luftfotograf med firmanavnet Gy-Kort.
+1	Palle	palle	PROPN		noun.person
+2	Kreiberg	kreiberg	PROPN		noun.person
+3	var	være	AUX		verb.stative
+4	lærer	lærer	NOUN		noun.person
+5	,	,	PUNCT		
+6	men	men	CCONJ		
+7	i	i	ADP		
+8	sin	sin	DET		
+9	fritid	fritid	NOUN		noun.time
+10	arbejdede	arbejde	VERB		verb.social
+11	han	han	PRON		
+12	som	som	ADP		
+13	luftfotograf	luftfotograf	NOUN		noun.person
+14	med	med	ADP		
+15	firmanavnet	firmanavn	NOUN		noun.attribute
+16	Gy-Kort	gy-kort	PROPN		noun.communication
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1493.tsv
+# sent_id = 4
+# text =  I_lørdags ringede han til Birthe Knudsen, 40, der kendte Palle Kreiberg en smule gennem sit virke som kunstner.
+1	I_lørdags	i_lørdag	NOUN		noun.time
+2	ringede	ringe	VERB		verb.communication
+3	han	han	PRON		
+4	til	til	ADP		
+5	Birthe	birthe	PROPN		noun.person
+6	Knudsen	knudsen	PROPN		noun.person
+7	,	,	PUNCT		
+8	40	40	NUM		
+9	,	,	PUNCT		
+10	der	der	PRON		
+11	kendte	kende	VERB		verb.cognition
+12	Palle	palle	PROPN		noun.person
+13	Kreiberg	kreiberg	PROPN		noun.person
+14	en	en	DET		
+15	smule	smule	NOUN		noun.quantity
+16	gennem	gennem	ADP		
+17	sit	sin	DET		
+18	virke	virke	NOUN		noun.act
+19	som	som	ADP		
+20	kunstner	kunstner	NOUN		noun.person
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1493.tsv
+# sent_id = 5
+# text =  Palle Kreiberg spurgte, om hun var interesseret i et billede af sit barndomshjem, og da hun svarede bekræftende, aftalte de, at flyet skulle komme forbi søndag ved frokosttid.
+1	Palle	palle	PROPN		noun.person
+2	Kreiberg	kreiberg	PROPN		noun.person
+3	spurgte	spørge	VERB		verb.communication
+4	,	,	PUNCT		
+5	om	om	SCONJ		
+6	hun	hun	PRON		
+7	var	være	AUX		verb.stative
+8	interesseret	interessere	VERB		adj.mental
+9	i	i	ADP		
+10	et	en	DET		
+11	billede	billede	NOUN		noun.object
+12	af	af	ADP		
+13	sit	sin	DET		
+14	barndomshjem	barndomshjem	NOUN		noun.building
+15	,	,	PUNCT		
+16	og	og	CCONJ		
+17	da	da	SCONJ		
+18	hun	hun	PRON		
+19	svarede	svare	VERB		verb.communication
+20	bekræftende	bekræfte	VERB		adj.all
+21	,	,	PUNCT		
+22	aftalte	aftælle	VERB		verb.communication
+23	de	den	PRON		
+24	,	,	PUNCT		
+25	at	at	SCONJ		
+26	flyet	fly	NOUN		noun.vehicle
+27	skulle	skulle	AUX		
+28	komme	komme	VERB		verb.motion
+29	forbi	forbi	ADV		verb.COLL
+30	søndag	søndag	NOUN		noun.time
+31	ved	ved	ADP		
+32	frokosttid	frokosttid	NOUN		noun.time
+33	.	.	PUNCT		
+
+# newdoc id = DDT-1493.tsv
+# sent_id = 6
+# text = " Jeg stod i en bæk og vaskede mine støvler efter noget havearbejde, da jeg så maskinen komme.
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	stod	stå	VERB		verb.stative
+4	i	i	ADP		
+5	en	en	DET		
+6	bæk	bæk	NOUN		noun.location
+7	og	og	CCONJ		
+8	vaskede	vaske	VERB		verb.contact
+9	mine	mine	DET		
+10	støvler	støvle	NOUN		noun.artifact
+11	efter	efter	ADP		
+12	noget	nogen	DET		
+13	havearbejde	havearbejde	NOUN		noun.act
+14	,	,	PUNCT		
+15	da	da	SCONJ		
+16	jeg	jeg	PRON		
+17	så	så	VERB		verb.perception
+18	maskinen	maskine	NOUN		noun.vehicle
+19	komme	komme	VERB		verb.motion
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1493.tsv
+# sent_id = 7
+# text =  Det er utroligt, at de kan flyve så lavt og så langsomt, tænkte jeg," fortæller Christian Knudsen, 71, pensioneret ingeniør.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	utroligt	utrolig	ADJ		adj.all
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	de	den	PRON		
+7	kan	kunne	AUX		
+8	flyve	flyve	VERB		verb.motion
+9	så	så	ADV		
+10	lavt	lav	ADV		adj.phys
+11	og	og	CCONJ		
+12	så	så	ADV		
+13	langsomt	langsom	ADV		adj.phys
+14	,	,	PUNCT		
+15	tænkte	tænke	VERB		verb.cognition
+16	jeg	jeg	PRON		
+17	,	,	PUNCT		
+18	"	"	PUNCT		
+19	fortæller	fortælle	VERB		verb.communication
+20	Christian	christian	PROPN		noun.person
+21	Knudsen	knudsen	PROPN		noun.person
+22	,	,	PUNCT		
+23	71	71	PRON		
+24	,	,	PUNCT		
+25	pensioneret	pensionere	VERB		adj.social
+26	ingeniør	ingeniør	NOUN		noun.person
+27	.	.	PUNCT		
+
+# newdoc id = DDT-1493.tsv
+# sent_id = 8
+# text =  KURS MOD BUSKE
+1	KURS	kurs	NOUN		noun.location
+2	MOD	mod	ADP		
+3	BUSKE	busk	NOUN		noun.plant
+
+# newdoc id = DDT-1493.tsv
+# sent_id = 9
+# text =  Det et-motorede Cessna 172 fly med plads til fire personer havde da retning mod en række fire meter høje buske.
+1	Det	det	DET		
+2	et-motorede	et-motored	ADJ		adj.phys
+3	Cessna	cessna	PROPN		noun.vehicle
+4	172	172	ADJ		noun.vehicle
+5	fly	fly	NOUN		noun.vehicle
+6	med	med	ADP		
+7	plads	plads	NOUN		noun.location
+8	til	til	ADP		
+9	fire	fire	ADJ		
+10	personer	person	NOUN		noun.person
+11	havde	have	VERB		verb.phenomenon
+12	da	da	ADV		
+13	retning	retning	NOUN		noun.location
+14	mod	mod	ADP		
+15	en	en	DET		
+16	række	række	NOUN		noun.group
+17	fire	fire	ADJ		
+18	meter	meter	NOUN		noun.quantity
+19	høje	høj	ADJ		adj.phys
+20	buske	busk	NOUN		noun.plant
+21	.	.	PUNCT		
+

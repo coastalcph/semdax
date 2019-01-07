@@ -1,0 +1,237 @@
+# newdoc id = DDT-1548.tsv
+# sent_id = 1
+# text = " Jeg elsker TV-reklamer.
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	elsker	elske	VERB		verb.emotion
+4	TV-reklamer	tv-reklame	NOUN		noun.communication
+5	.	.	PUNCT		
+
+# newdoc id = DDT-1548.tsv
+# sent_id = 2
+# text =  Men alle ved jo, at når Superbrugsen har en slagvare med tre bøffer for 45 kr., så er det i sidste ende forbrugerne selv, der betaler for det gode tilbud.
+1	Men	men	CCONJ		
+2	alle	al	ADJ		
+3	ved	ved	ADP		verb.cognition
+4	jo	jo	NOUN		
+5	,	,	PUNCT		
+6	at	at	SCONJ		
+7	når	når	SCONJ		
+8	Superbrugsen	superbrugs	NOUN		noun.institution
+9	har	have	VERB		
+10	en	en	DET		
+11	slagvare	slagvare	NOUN		noun.artifact
+12	med	med	ADP		
+13	tre	tre	NUM		
+14	bøffer	bøf	NOUN		noun.food
+15	for	for	ADP		
+16	45	45	NUM		
+17	kr.	kr.	NOUN		noun.quantity
+18	,	,	PUNCT		
+19	så	så	ADV		
+20	er	være	AUX		verb.stative
+21	det	det	PRON		
+22	i	i	ADP		
+23	sidste	sidste	ADJ		
+24	ende	ende	NOUN		
+25	forbrugerne	forbruger	NOUN		noun.person
+26	selv	selv	PRON		
+27	,	,	PUNCT		
+28	der	der	PRON		
+29	betaler	betale	VERB		verb.possession
+30	for	for	ADP		
+31	det	det	DET		
+32	gode	god	ADJ		adj.all
+33	tilbud	tilbud	NOUN		noun.possession
+34	.	.	PUNCT		
+
+# newdoc id = DDT-1548.tsv
+# sent_id = 3
+# text =  Forbrugerne er ikke dumme."
+1	Forbrugerne	forbruger	NOUN		noun.person
+2	er	være	AUX		verb.stative
+3	ikke	ikke	ADV		
+4	dumme	dum	ADJ		adj.mental
+5	.	.	PUNCT		
+6	"	"	PUNCT		
+
+# newdoc id = DDT-1548.tsv
+# sent_id = 4
+# text =  KNAPT BUDGET
+1	KNAPT	knap	ADJ		adj.all
+2	BUDGET	budget	NOUN		noun.quantity
+
+# newdoc id = DDT-1548.tsv
+# sent_id = 5
+# text =  Som forbruger er også Peter Gren Larsens budget knapt.
+1	Som	som	ADP		
+2	forbruger	forbruger	NOUN		noun.person
+3	er	være	AUX		verb.stative
+4	også	også	ADV		
+5	Peter	peter	PROPN		noun.person
+6	Gren	gren	PROPN		noun.person
+7	Larsens	larsens	PROPN		noun.person
+8	budget	budget	NOUN		noun.quantity
+9	knapt	knap	ADJ		adj.all
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1548.tsv
+# sent_id = 6
+# text =  For en ung freelancer med købemani, er kreditten kort.
+1	For	for	ADP		
+2	en	en	DET		
+3	ung	ung	ADJ		adj.time
+4	freelancer	freelancer	NOUN		noun.person
+5	med	med	ADP		
+6	købemani	købemani	NOUN		noun.feeling
+7	,	,	PUNCT		
+8	er	være	AUX		
+9	kreditten	kredit	NOUN		noun.possession
+10	kort	kort	ADJ		adj.all
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1548.tsv
+# sent_id = 7
+# text =  Og han har indset, at den bliver endnu kortere, når han og kæresten Cecilie Olrik til marts bliver forældre.
+1	Og	og	CCONJ		
+2	han	han	PRON		
+3	har	have	AUX		
+4	indset	indse	VERB		verb.cognition
+5	,	,	PUNCT		
+6	at	at	SCONJ		
+7	den	den	PRON		
+8	bliver	blive	AUX		verb.stative
+9	endnu	endnu	ADV		
+10	kortere	kort	ADJ		adj.all
+11	,	,	PUNCT		
+12	når	når	SCONJ		
+13	han	han	PRON		
+14	og	og	CCONJ		
+15	kæresten	kæreste	NOUN		noun.person
+16	Cecilie	cecilie	PROPN		noun.person
+17	Olrik	olrik	PROPN		noun.person
+18	til	til	ADP		
+19	marts	marts	NOUN		noun.time
+20	bliver	blive	AUX		verb.stative
+21	forældre	forældre	NOUN		noun.person
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1548.tsv
+# sent_id = 8
+# text =  Hans debut inden for filmbranchen led en krank skæbne.
+1	Hans	hans	DET		
+2	debut	debut	NOUN		noun.act
+3	inden	inden	ADV		
+4	for	for	ADP		
+5	filmbranchen	filmbranche	NOUN		noun.domain
+6	led	lide	VERB		verb.phenomenon
+7	en	en	DET		
+8	krank	krank	ADJ		adj.all
+9	skæbne	skæbne	NOUN		noun.abstract
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1548.tsv
+# sent_id = 9
+# text =  Filmen" Terrorboy II" blev til i 1982 og er utvivlsomt den danske kultfilm, som er blevet set af færrest.
+1	Filmen	film	NOUN		noun.communication
+2	"	"	PUNCT		
+3	Terrorboy	terrorboy	PROPN		noun.communication
+4	II	ii	PROPN		noun.communication
+5	"	"	PUNCT		
+6	blev	blive	AUX		verb.creation
+7	til	til	ADV		verb.PARTICLE
+8	i	i	ADP		
+9	1982	1982	NOUN		noun.time
+10	og	og	CCONJ		
+11	er	være	AUX		verb.stative
+12	utvivlsomt	utvivlsom	ADV		
+13	den	den	DET		
+14	danske	dansk	ADJ		adj.social
+15	kultfilm	kultfilm	NOUN		noun.communication
+16	,	,	PUNCT		
+17	som	som	PRON		
+18	er	være	AUX		
+19	blevet	blive	AUX		
+20	set	se	VERB		verb.perception
+21	af	af	ADP		
+22	færrest	få	ADJ		adj.phys
+23	.	.	PUNCT		
+
+# newdoc id = DDT-1548.tsv
+# sent_id = 10
+# text = " Der findes heldigvis kun en kopi, og den er låst væk på et hemmeligt sted," fortæller Peter Gren Larsen, som fik alle vennerne til at agere skuespillere i den film, han helst ikke vil mindes om.
+1	"	"	PUNCT		
+2	Der	der	PRON		
+3	findes	findes	VERB		verb.stative
+4	heldigvis	heldigvis	ADV		
+5	kun	kun	ADV		
+6	en	en	DET		
+7	kopi	kopi	NOUN		noun.artifact
+8	,	,	PUNCT		
+9	og	og	CCONJ		
+10	den	den	PRON		
+11	er	være	AUX		
+12	låst	låse	VERB		verb.act
+13	væk	væk	ADV		verb.PARTICLE
+14	på	på	ADP		
+15	et	en	DET		
+16	hemmeligt	hemmelig	ADJ		adj.all
+17	sted	sted	NOUN		noun.location
+18	,	,	PUNCT		
+19	"	"	PUNCT		
+20	fortæller	fortælle	VERB		verb.communication
+21	Peter	peter	PROPN		noun.person
+22	Gren	gren	PROPN		noun.person
+23	Larsen	larsen	PROPN		noun.person
+24	,	,	PUNCT		
+25	som	som	PRON		
+26	fik	få	VERB		verb.act
+27	alle	al	ADJ		
+28	vennerne	ven	NOUN		noun.person
+29	til	til	ADP		verb.PARTICLE
+30	at	at	PART		
+31	agere	agere	VERB		verb.act
+32	skuespillere	skuespiller	NOUN		noun.person
+33	i	i	ADP		
+34	den	den	DET		
+35	film	film	NOUN		noun.communication
+36	,	,	PUNCT		
+37	han	han	PRON		
+38	helst	helst	ADV		
+39	ikke	ikke	ADV		
+40	vil	ville	AUX		
+41	mindes	mindes	VERB		verb.communication
+42	om	om	ADP		verb.PARTICLE
+43	.	.	PUNCT		
+
+# newdoc id = DDT-1548.tsv
+# sent_id = 11
+# text =  Siden den katastrofale entré i den glamorøse film-verden har den 29-årige Peter Gren Larsen fået mere skik på sine drømme om at lave TV og film.
+1	Siden	siden	ADP		
+2	den	den	DET		
+3	katastrofale	katastrofal	ADJ		adj.all
+4	entré	entré	NOUN		noun.act
+5	i	i	ADP		
+6	den	den	DET		
+7	glamorøse	glamorøs	ADJ		adj.all
+8	film-verden	film-verd	NOUN		noun.domain
+9	har	have	AUX		
+10	den	den	DET		
+11	29-årige	29-år	ADJ		adj.time
+12	Peter	peter	PROPN		noun.person
+13	Gren	gren	PROPN		noun.person
+14	Larsen	larsen	PROPN		noun.person
+15	fået	få	VERB		verb.change
+16	mere	mere	ADJ		
+17	skik	skik	NOUN		verb.COLL
+18	på	på	ADP		verb.COLL
+19	sine	sin	DET		
+20	drømme	drøm	NOUN		noun.cognition
+21	om	om	ADP		
+22	at	at	PART		
+23	lave	lave	VERB		verb.creation
+24	TV	tv	NOUN		noun.communication
+25	og	og	CCONJ		
+26	film	film	NOUN		noun.communication
+27	.	.	PUNCT		
+

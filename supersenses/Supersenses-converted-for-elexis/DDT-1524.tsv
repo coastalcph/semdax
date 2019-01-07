@@ -1,0 +1,238 @@
+# newdoc id = DDT-1524.tsv
+# sent_id = 1
+# text =  Året efter blev jeg fodboldlærling i Arsenal, og så havde jeg fundet min løbebane."
+1	Året	år	NOUN		noun.time
+2	efter	efter	ADV		
+3	blev	blive	AUX		verb.stative
+4	jeg	jeg	PRON		
+5	fodboldlærling	fodboldlærling	NOUN		noun.person
+6	i	i	ADP		
+7	Arsenal	arsenal	PROPN		noun.institution
+8	,	,	PUNCT		
+9	og	og	CCONJ		
+10	så	så	ADV		
+11	havde	have	AUX		
+12	jeg	jeg	PRON		
+13	fundet	finde	VERB		verb.cognition
+14	min	min	DET		
+15	løbebane	løbebane	NOUN		noun.abstract
+16	.	.	PUNCT		
+17	"	"	PUNCT		
+
+# newdoc id = DDT-1524.tsv
+# sent_id = 2
+# text =  Han fik debut mod Island i maj 1986.
+1	Han	han	PRON		
+2	fik	få	VERB		verb.phenomenon
+3	debut	debut	NOUN		noun.act
+4	mod	mod	ADP		
+5	Island	island	PROPN		
+6	i	i	ADP		
+7	maj	maj	NOUN		noun.time
+8	1986	1986	NUM		noun.time
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1524.tsv
+# sent_id = 3
+# text =  I sommeren 1990 skiftede han fra Arsenal til Manchester City.
+1	I	i	ADP		
+2	sommeren	sommer	NOUN		noun.time
+3	1990	1990	NUM		noun.time
+4	skiftede	skifte	VERB		verb.act
+5	han	han	PRON		
+6	fra	fra	ADP		
+7	Arsenal	arsenal	PROPN		noun.institution
+8	til	til	ADP		
+9	Manchester	manchester	PROPN		noun.institution
+10	City	city	PROPN		noun.institution
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1524.tsv
+# sent_id = 4
+# text = " Jeg er meget glad for at være i City og har forlænget min kontrakt til sommeren 1997."
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	er	være	AUX		verb.emotion
+4	meget	megen	ADV		
+5	glad	glad	ADJ		verb.COLL
+6	for	for	ADP		verb.COLL
+7	at	at	PART		
+8	være	være	AUX		verb.stative
+9	i	i	ADP		
+10	City	city	PROPN		noun.institution
+11	og	og	CCONJ		
+12	har	have	AUX		
+13	forlænget	forlænge	VERB		verb.change
+14	min	min	DET		
+15	kontrakt	kontrakt	NOUN		noun.communication
+16	til	til	ADP		
+17	sommeren	sommer	NOUN		noun.time
+18	1997	1997	NUM		noun.time
+19	.	.	PUNCT		
+20	"	"	PUNCT		
+
+# newdoc id = DDT-1524.tsv
+# sent_id = 5
+# text =  Partnerskabet med den veltrimmede veteran, 34-årige John Aldridge fra Tranmere, har skaffet flere betydningsfulde irske mål.
+1	Partnerskabet	partnerskab	NOUN		noun.relation
+2	med	med	ADP		
+3	den	den	DET		
+4	veltrimmede	veltrimmet	ADJ		adj.phys
+5	veteran	veteran	NOUN		noun.person
+6	,	,	PUNCT		
+7	34-årige	34-år	ADJ		adj.time
+8	John	john	PROPN		noun.person
+9	Aldridge	aldridge	PROPN		noun.person
+10	fra	fra	ADP		
+11	Tranmere	tranmere	PROPN		noun.institution
+12	,	,	PUNCT		
+13	har	have	AUX		
+14	skaffet	skaffe	VERB		verb.act
+15	flere	flere	ADJ		
+16	betydningsfulde	betydningsfuld	ADJ		adj.all
+17	irske	irsk	ADJ		adj.social
+18	mål	mål	NOUN		noun.act
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1524.tsv
+# sent_id = 6
+# text =  KENDER SIT JOB
+1	KENDER	kende	VERB		verb.cognition
+2	SIT	sin	DET		
+3	JOB	job	NOUN		noun.act
+
+# newdoc id = DDT-1524.tsv
+# sent_id = 7
+# text = " Jeg kender mit job sammen med John.
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	kender	kende	VERB		verb.cognition
+4	mit	min	DET		
+5	job	job	NOUN		noun.act
+6	sammen	sammen	ADV		
+7	med	med	ADP		
+8	John	john	PROPN		noun.person
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1524.tsv
+# sent_id = 8
+# text =  Vi forstår hinanden godt, og jeg nyder at heade ham fri til scoring.
+1	Vi	vi	PRON		
+2	forstår	forstå	VERB		verb.cognition
+3	hinanden	hinanden	PRON		
+4	godt	godte	ADV		
+5	,	,	PUNCT		
+6	og	og	CCONJ		
+7	jeg	jeg	PRON		
+8	nyder	nyde	VERB		verb.emotion
+9	at	at	PART		
+10	heade	heade	VERB		verb.act
+11	ham	han	PRON		
+12	fri	fri	ADJ		
+13	til	til	ADP		
+14	scoring	scoring	NOUN		noun.act
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1524.tsv
+# sent_id = 9
+# text =  Mod Danmark bliver det formentlig Torben Piechnik fra Liverpool og mig, der skal slås.
+1	Mod	mod	ADP		
+2	Danmark	danmark	PROPN		noun.institution
+3	bliver	blive	AUX		verb.stative
+4	det	det	PRON		
+5	formentlig	formentlig	ADV		
+6	Torben	torben	PROPN		noun.person
+7	Piechnik	piechnik	PROPN		noun.person
+8	fra	fra	ADP		
+9	Liverpool	liverpool	PROPN		noun.institution
+10	og	og	CCONJ		
+11	mig	jeg	PRON		
+12	,	,	PUNCT		
+13	der	der	PRON		
+14	skal	skulle	AUX		
+15	slås	slås	VERB		verb.act
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1524.tsv
+# sent_id = 10
+# text =  Jeg har aldrig mødt ham før, kun set ham spille i TV-kampe.
+1	Jeg	jeg	PRON		
+2	har	have	AUX		
+3	aldrig	aldrig	ADV		
+4	mødt	møde	VERB		verb.social
+5	ham	han	PRON		
+6	før	før	ADV		
+7	,	,	PUNCT		
+8	kun	kun	ADV		
+9	set	se	VERB		verb.perception
+10	ham	han	PRON		
+11	spille	spille	VERB		verb.act
+12	i	i	ADP		
+13	TV-kampe	tv-kamp	NOUN		noun.act
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1524.tsv
+# sent_id = 11
+# text =  Han havde en uheldig debutkamp, 2-4 mod Aston Villa, men siden har han udmærket sig med solidt spil.
+1	Han	han	PRON		
+2	havde	have	VERB		verb.phenomenon
+3	en	en	DET		
+4	uheldig	uheldig	ADJ		adj.all
+5	debutkamp	debutkamp	NOUN		noun.act
+6	,	,	PUNCT		
+7	2-4	2-4	X		
+8	mod	mod	ADP		
+9	Aston	aston	PROPN		noun.institution
+10	Villa	villa	NOUN		noun.institution
+11	,	,	PUNCT		
+12	men	men	CCONJ		
+13	siden	siden	ADV		
+14	har	have	AUX		
+15	han	han	PRON		
+16	udmærket	udmærke	VERB		verb.act
+17	sig	sig	PRON		verb.REFLPRON
+18	med	med	ADP		
+19	solidt	solid	ADJ		adj.all
+20	spil	spil	NOUN		noun.act
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1524.tsv
+# sent_id = 12
+# text =  Det er værd at bemærke, at Liverpools forsvar er blevet mere stabilt efter Piechniks entre".
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	værd	værd	ADJ		adj.all
+4	at	at	PART		
+5	bemærke	bemærke	VERB		verb.cognition
+6	,	,	PUNCT		
+7	at	at	SCONJ		
+8	Liverpools	liverpools	PROPN		noun.institution
+9	forsvar	forsvar	NOUN		noun.act
+10	er	være	AUX		
+11	blevet	blive	AUX		verb.stative
+12	mere	mere	ADV		
+13	stabilt	stabil	ADJ		adj.all
+14	efter	efter	ADP		
+15	Piechniks	piechniks	PROPN		noun.person
+16	entre	entre	NOUN		noun.act
+17	"	"	PUNCT		
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1524.tsv
+# sent_id = 13
+# text =  Hele Irland håber, at Quinns udtørrede målstrøm begynder at risle igen i_aften.
+1	Hele	hel	ADJ		
+2	Irland	irland	PROPN		noun.person
+3	håber	håbe	VERB		verb.emotion
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	Quinns	quinns	PROPN		noun.person
+7	udtørrede	udtørre	VERB		adj.phys
+8	målstrøm	målstrøm	NOUN		noun.phenomenon
+9	begynder	begynde	VERB		verb.aspectual
+10	at	at	PART		
+11	risle	risle	VERB		verb.motion
+12	igen	igen	ADV		
+13	i_aften	i_aft	NOUN		noun.time
+14	.	.	PUNCT		
+

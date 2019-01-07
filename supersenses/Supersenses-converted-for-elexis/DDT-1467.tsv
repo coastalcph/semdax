@@ -1,0 +1,216 @@
+# newdoc id = DDT-1467.tsv
+# sent_id = 1
+# text =  Tillid søges.
+1	Tillid	tillid	NOUN		noun.feeling
+2	søges	søge	VERB		verb.cognition
+3	.	.	PUNCT		
+
+# newdoc id = DDT-1467.tsv
+# sent_id = 2
+# text =  Så enkelt kan Unibanks problem formuleres, og i et forsøg på at få skabt tillid blev Unibanks direktør, 52-årige Steen Rasborg i_går fyret med en afskedsgave på ca. ni millioner kroner.
+1	Så	så	ADV		
+2	enkelt	enkelt	ADJ		
+3	kan	kunne	AUX		
+4	Unibanks	unibanks	PROPN		noun.institution
+5	problem	problem	NOUN		noun.cognition
+6	formuleres	formulere	VERB		verb.communication
+7	,	,	PUNCT		
+8	og	og	CCONJ		
+9	i	i	ADP		
+10	et	en	DET		
+11	forsøg	forsøg	NOUN		noun.act
+12	på	på	ADP		
+13	at	at	PART		
+14	få	få	VERB		verb.phenomenon
+15	skabt	skabe	VERB		verb.creation
+16	tillid	tillid	NOUN		noun.feeling
+17	blev	blive	AUX		
+18	Unibanks	unibanks	PROPN		noun.institution
+19	direktør	direktør	NOUN		noun.person
+20	,	,	PUNCT		
+21	52-årige	52-år	ADJ		adj.time
+22	Steen	steen	PROPN		noun.person
+23	Rasborg	rasborg	PROPN		noun.person
+24	i_går	i_går	NOUN		noun.time
+25	fyret	fyre	VERB		verb.act
+26	med	med	ADP		
+27	en	en	DET		
+28	afskedsgave	afskedsgave	NOUN		noun.artifact
+29	på	på	ADP		
+30	ca.	ca.	ADV		
+31	ni	ni	ADJ		
+32	millioner	million	NOUN		noun.quantity
+33	kroner	krone	NOUN		noun.artifact
+34	.	.	PUNCT		
+
+# newdoc id = DDT-1467.tsv
+# sent_id = 3
+# text =  Unibank har brug for kundernes tillid.
+1	Unibank	unibank	PROPN		noun.institution
+2	har	have	VERB		
+3	brug	brug	NOUN		verb.phenomenon
+4	for	for	ADP		
+5	kundernes	kunde	NOUN		noun.person
+6	tillid	tillid	NOUN		noun.feeling
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1467.tsv
+# sent_id = 4
+# text =  Unibanks bestyrelsesformand Hugo Schrøder udtrykker det således over for B.T.:
+1	Unibanks	unibanks	PROPN		noun.institution
+2	bestyrelsesformand	bestyrelsesformand	NOUN		noun.person
+3	Hugo	hugo	PROPN		noun.person
+4	Schrøder	schrøder	PROPN		noun.person
+5	udtrykker	udtrykke	VERB		verb.communication
+6	det	det	PRON		
+7	således	således	ADV		
+8	over	over	ADV		
+9	for	for	ADP		
+10	B.T.	b.t.	PROPN		noun.institution
+11	:	:	PUNCT		
+
+# newdoc id = DDT-1467.tsv
+# sent_id = 5
+# text = " I de seneste fem meddelelser til offentligheden er vi hver gang kommet ud med tal, som efterfølgende har vist sig at være for optimistiske.
+1	"	"	PUNCT		
+2	I	i	ADP		
+3	de	den	DET		
+4	seneste	sen	ADJ		adj.time
+5	fem	fem	ADJ		
+6	meddelelser	meddelelse	NOUN		noun.communication
+7	til	til	ADP		
+8	offentligheden	offentlighed	NOUN		noun.person
+9	er	være	AUX		
+10	vi	vi	PRON		
+11	hver	hver	PRON		
+12	gang	gang	NOUN		noun.abstract
+13	kommet	komme	VERB		verb.communication
+14	ud	ud	ADV		verb.PARTICLE
+15	med	med	ADP		
+16	tal	tal	NOUN		noun.communication
+17	,	,	PUNCT		
+18	som	som	PRON		
+19	efterfølgende	efterfølge	ADV		
+20	har	have	AUX		
+21	vist	vise	VERB		verb.phenomenon
+22	sig	sig	PRON		verb.REFLPRON
+23	at	at	PART		
+24	være	være	AUX		verb.stative
+25	for	for	ADV		
+26	optimistiske	optimistisk	ADJ		adj.mental
+27	.	.	PUNCT		
+
+# newdoc id = DDT-1467.tsv
+# sent_id = 6
+# text =  Noget sådant er naturligvis ikke fremmende for tillid og troværdighed."
+1	Noget	nogen	DET		
+2	sådant	sådan	ADJ		
+3	er	være	AUX		verb.stative
+4	naturligvis	naturligvis	ADV		
+5	ikke	ikke	ADV		
+6	fremmende	fremme	VERB		adj.all
+7	for	for	ADP		
+8	tillid	tillid	NOUN		noun.feeling
+9	og	og	CCONJ		
+10	troværdighed	troværdighed	NOUN		noun.attribute
+11	.	.	PUNCT		
+12	"	"	PUNCT		
+
+# newdoc id = DDT-1467.tsv
+# sent_id = 7
+# text =  Også på Københavns Fondbørs har Unibank brug for tillid.
+1	Også	også	ADV		
+2	på	på	ADP		
+3	Københavns	københavns	PROPN		noun.institution
+4	Fondbørs	fondbør	NOUN		noun.institution
+5	har	have	VERB		
+6	Unibank	unibank	PROPN		noun.institution
+7	brug	brug	NOUN		verb.phenomenon
+8	for	for	ADP		
+9	tillid	tillid	NOUN		noun.feeling
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1467.tsv
+# sent_id = 8
+# text =  Aktien blev i_aftes noteret på sit næstlaveste niveau, nemlig på kurs 156.
+1	Aktien	aktie	NOUN		noun.artifact
+2	blev	blive	AUX		
+3	i_aftes	i_aft	VERB		noun.time
+4	noteret	notere	VERB		verb.act
+5	på	på	ADP		
+6	sit	sin	DET		
+7	næstlaveste	næstlavest	ADJ		adj.all
+8	niveau	niveau	NOUN		noun.relation
+9	,	,	PUNCT		
+10	nemlig	nemlig	ADV		
+11	på	på	ADP		
+12	kurs	kurs	NOUN		noun.abstract
+13	156	156	PRON		
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1467.tsv
+# sent_id = 9
+# text =  Og i udlandet blev der reageret med mistillid.
+1	Og	og	CCONJ		
+2	i	i	ADP		
+3	udlandet	udland	NOUN		noun.location
+4	blev	blive	AUX		
+5	der	der	ADV		
+6	reageret	reagere	VERB		verb.emotion
+7	med	med	ADP		
+8	mistillid	mistillid	NOUN		noun.feeling
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1467.tsv
+# sent_id = 10
+# text =  Unibank er sat på observationslisten af kreditvurderingsinstituttet Moody i New York.
+1	Unibank	unibank	PROPN		noun.institution
+2	er	være	AUX		
+3	sat	sætte	VERB		verb.act
+4	på	på	ADP		
+5	observationslisten	observationslist	NOUN		noun.communication
+6	af	af	ADP		
+7	kreditvurderingsinstituttet	kreditvurderingsinstitut	NOUN		noun.institution
+8	Moody	moody	PROPN		noun.institution
+9	i	i	ADP		
+10	New	new	PROPN		noun.location
+11	York	york	PROPN		noun.location
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1467.tsv
+# sent_id = 11
+# text =  Unibank ligger i forvejen på laveste karakter i bedste gruppe, men risikerer nu at rykke ned i 2. division, hvad angår bankens værdipapirer med en løbetid på over et år.
+1	Unibank	unibank	PROPN		noun.institution
+2	ligger	ligge	VERB		verb.stative
+3	i	i	ADP		
+4	forvejen	forvejen	NOUN		
+5	på	på	ADP		
+6	laveste	lav	ADJ		adj.all
+7	karakter	karakter	NOUN		noun.attribute
+8	i	i	ADP		
+9	bedste	god	ADJ		adj.all
+10	gruppe	gruppe	NOUN		noun.group
+11	,	,	PUNCT		
+12	men	men	CCONJ		
+13	risikerer	risikere	VERB		verb.act
+14	nu	nu	ADV		
+15	at	at	PART		
+16	rykke	rykke	VERB		verb.motion
+17	ned	ned	ADV		verb.PARTICLE
+18	i	i	ADP		
+19	2.	2.	ADJ		
+20	division	division	NOUN		noun.relation
+21	,	,	PUNCT		
+22	hvad	hvad	PRON		
+23	angår	angå	VERB		verb.stative
+24	bankens	banken	ADJ		noun.institution
+25	værdipapirer	værdipapir	NOUN		noun.communication
+26	med	med	ADP		
+27	en	en	DET		
+28	løbetid	løbetid	NOUN		noun.time
+29	på	på	ADP		
+30	over	over	ADP		
+31	et	en	DET		
+32	år	år	NOUN		noun.time
+33	.	.	PUNCT		
+

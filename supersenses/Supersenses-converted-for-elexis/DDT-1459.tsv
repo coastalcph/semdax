@@ -1,0 +1,252 @@
+# newdoc id = DDT-1459.tsv
+# sent_id = 1
+# text =  JACOB ASBÆK er ugens glade mand.
+1	JACOB	jacob	PROPN		noun.person
+2	ASBÆK	asbæk	PROPN		noun.person
+3	er	være	AUX		verb.stative
+4	ugens	uge	ADV		noun.time
+5	glade	glad	ADJ		adj.mental
+6	mand	mand	NOUN		noun.person
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1459.tsv
+# sent_id = 2
+# text =  Her med sine med sine sønner, PILOU, 10 år, MARTIN, 17 år, og THOMAS, 19 år.
+1	Her	her	ADV		
+2	med	med	ADP		
+3	sine	sin	PRON		
+4	med	med	ADP		
+5	sine	sin	DET		
+6	sønner	søn	NOUN		noun.person
+7	,	,	PUNCT		
+8	PILOU	pilou	PROPN		noun.person
+9	,	,	PUNCT		
+10	10	10	NUM		
+11	år	år	NOUN		noun.time
+12	,	,	PUNCT		
+13	MARTIN	martin	PROPN		noun.person
+14	,	,	PUNCT		
+15	17	17	DET		
+16	år	år	NOUN		noun.time
+17	,	,	PUNCT		
+18	og	og	CCONJ		
+19	THOMAS	thomas	PROPN		noun.person
+20	,	,	PUNCT		
+21	19	19	DET		
+22	år	år	NOUN		noun.time
+23	.	.	PUNCT		
+
+# newdoc id = DDT-1459.tsv
+# sent_id = 3
+# text =  Asbæk har netop af de spanske myndigheder fået tilladelse til at bygge et 7.000 etagekvm. stort kulturcenter på Mallorca.
+1	Asbæk	asbæk	PROPN		noun.person
+2	har	have	AUX		
+3	netop	netop	ADV		
+4	af	af	ADP		
+5	de	den	DET		
+6	spanske	spansk	ADJ		adj.social
+7	myndigheder	myndighed	NOUN		noun.institution
+8	fået	få	VERB		verb.possession
+9	tilladelse	tilladelse	NOUN		noun.abstract
+10	til	til	ADP		
+11	at	at	PART		
+12	bygge	bygge	VERB		verb.creation
+13	et	en	DET		
+14	7.000	7.000	NUM		
+15	etagekvm.	etagekvm.	NOUN		
+16	stort	stor	ADJ		adj.phys
+17	kulturcenter	kulturcenter	NOUN		noun.building
+18	på	på	ADP		
+19	Mallorca	mallorca	PROPN		noun.location
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1459.tsv
+# sent_id = 4
+# text =  Byggeriet er budgetteret til 100 millioner kroner.
+1	Byggeriet	byggeri	NOUN		noun.act
+2	er	være	AUX		
+3	budgetteret	budgettere	VERB		verb.cognition
+4	til	til	ADP		
+5	100	100	NUM		
+6	millioner	million	NOUN		noun.quantity
+7	kroner	krone	NOUN		noun.artifact
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1459.tsv
+# sent_id = 5
+# text =  LILLE PALLE, t.h., som har succes på Bakkens friluftsscene, kom med kindkys og en rød rose til kollegaen, bakkesangerinde TOVE PEDERSEN, da hun blev hædret med Bakkens Oscar, et stort og fornemt Bjørn_Wiinblad-fad.
+1	LILLE	lille	ADJ		noun.person
+2	PALLE	palle	PROPN		noun.person
+3	,	,	PUNCT		
+4	t.h.	t.h.	ADV		
+5	,	,	PUNCT		
+6	som	som	PRON		
+7	har	have	VERB		verb.possession
+8	succes	succes	NOUN		noun.abstract
+9	på	på	ADP		
+10	Bakkens	bakke	DET		noun.institution
+11	friluftsscene	friluftsscene	NOUN		noun.building
+12	,	,	PUNCT		
+13	kom	komme	VERB		verb.motion
+14	med	med	ADP		
+15	kindkys	kindkys	NOUN		noun.act
+16	og	og	CCONJ		
+17	en	en	DET		
+18	rød	rød	ADJ		adj.phys
+19	rose	rose	NOUN		noun.plant
+20	til	til	ADP		
+21	kollegaen	kollega	NOUN		noun.person
+22	,	,	PUNCT		
+23	bakkesangerinde	bakkesangerind	NOUN		noun.person
+24	TOVE	tove	PROPN		noun.person
+25	PEDERSEN	pedersen	PROPN		noun.person
+26	,	,	PUNCT		
+27	da	da	SCONJ		
+28	hun	hun	PRON		
+29	blev	blive	AUX		
+30	hædret	hædre	VERB		verb.act
+31	med	med	ADP		
+32	Bakkens	bakke	NOUN		noun.institution
+33	Oscar	oscar	PROPN		noun.artifact
+34	,	,	PUNCT		
+35	et	en	DET		
+36	stort	stor	ADJ		adj.phys
+37	og	og	CCONJ		
+38	fornemt	fornem	ADJ		adj.all
+39	Bjørn_Wiinblad-fad	bjørn_wiinblad-fad	NOUN		noun.artifact
+40	.	.	PUNCT		
+
+# newdoc id = DDT-1459.tsv
+# sent_id = 6
+# text =  Hun fik også et kys af sin mand, CHRISTIAN, som gerne opkaldte en rose," Flittig Tove", efter sin viv.
+1	Hun	hun	PRON		
+2	fik	få	VERB		verb.possession
+3	også	også	ADV		
+4	et	en	DET		
+5	kys	kys	NOUN		noun.act
+6	af	af	ADP		
+7	sin	sin	DET		
+8	mand	mand	NOUN		noun.person
+9	,	,	PUNCT		
+10	CHRISTIAN	christian	PROPN		noun.person
+11	,	,	PUNCT		
+12	som	som	PRON		
+13	gerne	gerne	ADV		
+14	opkaldte	opkalde	VERB		verb.communication
+15	en	en	DET		
+16	rose	rose	NOUN		noun.plant
+17	,	,	PUNCT		
+18	"	"	PUNCT		
+19	Flittig	flittig	ADJ		noun.plant
+20	Tove	tove	PROPN		noun.plant
+21	"	"	PUNCT		
+22	,	,	PUNCT		
+23	efter	efter	ADP		
+24	sin	sin	DET		
+25	viv	viv	NOUN		noun.person
+26	.	.	PUNCT		
+
+# newdoc id = DDT-1459.tsv
+# sent_id = 7
+# text =  At Tove er flittig, er en kendt sag.
+1	At	at	SCONJ		
+2	Tove	tove	PROPN		noun.person
+3	er	være	AUX		verb.stative
+4	flittig	flittig	ADJ		adj.mental
+5	,	,	PUNCT		
+6	er	være	AUX		verb.stative
+7	en	en	DET		
+8	kendt	kende	ADJ		adj.all
+9	sag	sag	NOUN		noun.abstract
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1459.tsv
+# sent_id = 8
+# text =  Ikke alene synger hun i Bakkens Hvile.
+1	Ikke	ikke	ADV		
+2	alene	alene	ADV		
+3	synger	synge	VERB		verb.act
+4	hun	hun	PRON		
+5	i	i	ADP		
+6	Bakkens	bakke	NOUN		noun.institution
+7	Hvile	hvile	NOUN		noun.building
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1459.tsv
+# sent_id = 9
+# text =  Hun serverer også hos bakkerestauratør BENT AXEL HASEBART, og de seneste år har hun skrevet tre bøger.
+1	Hun	hun	PRON		
+2	serverer	servere	VERB		verb.act
+3	også	også	ADV		
+4	hos	hos	ADP		
+5	bakkerestauratør	bakkerestauratør	NOUN		noun.person
+6	BENT	bent	PROPN		noun.person
+7	AXEL	axel	PROPN		noun.person
+8	HASEBART	hasebart	PROPN		noun.person
+9	,	,	PUNCT		
+10	og	og	CCONJ		
+11	de	den	DET		
+12	seneste	sen	ADJ		adj.time
+13	år	år	NOUN		noun.time
+14	har	have	AUX		
+15	hun	hun	PRON		
+16	skrevet	skrive	VERB		verb.creation
+17	tre	tre	NUM		
+18	bøger	bog	NOUN		noun.communication
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1459.tsv
+# sent_id = 10
+# text =  Alle som én er en hyldest til Bakken.
+1	Alle	al	ADJ		
+2	som	som	ADP		
+3	én	én	PRON		
+4	er	være	AUX		verb.stative
+5	en	en	DET		
+6	hyldest	hyldest	NOUN		noun.act
+7	til	til	ADP		
+8	Bakken	bakke	NOUN		noun.institution
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1459.tsv
+# sent_id = 11
+# text =  Hendes mand Christian Pedersen, tapperileder på Bryggerierne, røber, at Tove er så flittig, at hun kan finde på at stå op midt om natten, arbejde en times tid og så sove videre.
+1	Hendes	hendes	DET		
+2	mand	mand	NOUN		noun.person
+3	Christian	christian	PROPN		noun.person
+4	Pedersen	pedersen	PROPN		noun.person
+5	,	,	PUNCT		
+6	tapperileder	tapperiled	NOUN		noun.person
+7	på	på	ADP		
+8	Bryggerierne	bryggeri	NOUN		noun.institution
+9	,	,	PUNCT		
+10	røber	røbe	VERB		verb.communication
+11	,	,	PUNCT		
+12	at	at	SCONJ		
+13	Tove	tove	PROPN		noun.person
+14	er	være	AUX		verb.stative
+15	så	så	ADV		
+16	flittig	flittig	ADJ		adj.mental
+17	,	,	PUNCT		
+18	at	at	SCONJ		
+19	hun	hun	PRON		
+20	kan	kunne	AUX		
+21	finde	finde	VERB		verb.cognition
+22	på	på	ADP		verb.PARTICLE
+23	at	at	PART		
+24	stå	stå	VERB		verb.motion
+25	op	op	ADV		verb.PARTICLE
+26	midt	midt	ADV		
+27	om	om	ADP		
+28	natten	nat	NOUN		noun.time
+29	,	,	PUNCT		
+30	arbejde	arbejde	VERB		verb.act
+31	en	en	DET		
+32	times	times	ADJ		noun.time
+33	tid	tid	NOUN		noun.time
+34	og	og	CCONJ		
+35	så	så	ADV		
+36	sove	sove	VERB		verb.phenomenon
+37	videre	videre	ADV		
+38	.	.	PUNCT		
+

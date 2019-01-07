@@ -1,0 +1,225 @@
+# newdoc id = DDT-1488.tsv
+# sent_id = 1
+# text = " På baggrund af pigens langvarige ophold i hjemmet finder forvaltningen ikke, at der bør foretages videre i sagen, og forvaltningen finder heller ikke, at der er grundlag for en ophævelse af plejeforholdet nu."
+1	"	"	PUNCT		
+2	På	på	ADP		
+3	baggrund	baggrund	NOUN		noun.abstract
+4	af	af	ADP		
+5	pigens	pige	NOUN		noun.person
+6	langvarige	langvarig	ADJ		adj.time
+7	ophold	ophold	NOUN		noun.state
+8	i	i	ADP		
+9	hjemmet	hjem	NOUN		noun.building
+10	finder	finde	VERB		verb.cognition
+11	forvaltningen	forvaltning	NOUN		noun.person
+12	ikke	ikke	ADV		
+13	,	,	PUNCT		
+14	at	at	SCONJ		
+15	der	der	ADV		
+16	bør	burde	AUX		
+17	foretages	foretage	VERB		verb.act
+18	videre	videre	ADV		
+19	i	i	ADP		
+20	sagen	sag	NOUN		noun.abstract
+21	,	,	PUNCT		
+22	og	og	CCONJ		
+23	forvaltningen	forvaltning	NOUN		noun.person
+24	finder	finde	VERB		verb.cognition
+25	heller	heller	ADV		
+26	ikke	ikke	ADV		
+27	,	,	PUNCT		
+28	at	at	SCONJ		
+29	der	der	ADV		
+30	er	være	VERB		verb.stative
+31	grundlag	grundlag	NOUN		noun.abstract
+32	for	for	ADP		
+33	en	en	DET		
+34	ophævelse	ophævelse	NOUN		noun.act
+35	af	af	ADP		
+36	plejeforholdet	plejeforhold	NOUN		noun.relation
+37	nu	nu	ADV		
+38	.	.	PUNCT		
+39	"	"	PUNCT		
+
+# newdoc id = DDT-1488.tsv
+# sent_id = 2
+# text =  Herning Kommunes socialudvalg tiltræder indstillingen, der meddeles Mona Lisa i et brev.
+1	Herning	herning	PROPN		noun.institution
+2	Kommunes	kommune	ADJ		noun.institution
+3	socialudvalg	socialudvalg	NOUN		noun.person
+4	tiltræder	tiltræde	VERB		verb.communication
+5	indstillingen	indstilling	NOUN		noun.cognition
+6	,	,	PUNCT		
+7	der	der	PRON		
+8	meddeles	meddele	VERB		verb.communication
+9	Mona	mona	PROPN		noun.person
+10	Lisa	lisa	PROPN		noun.person
+11	i	i	ADP		
+12	et	en	DET		
+13	brev	brev	NOUN		noun.communication
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1488.tsv
+# sent_id = 3
+# text =  Familien får lov til at leve i fred, men myndighederne vil gerne have kastet jord over sagen.
+1	Familien	familie	NOUN		noun.person
+2	får	få	VERB		verb.communication
+3	lov	lov	NOUN		verb.COLL
+4	til	til	ADP		
+5	at	at	PART		
+6	leve	leve	VERB		verb.phenomenon
+7	i	i	ADP		
+8	fred	fred	NOUN		
+9	,	,	PUNCT		
+10	men	men	CCONJ		
+11	myndighederne	myndighed	NOUN		noun.institution
+12	vil	ville	AUX		
+13	gerne	gerne	ADV		
+14	have	have	AUX		
+15	kastet	kaste	VERB		verb.motion
+16	jord	jord	NOUN		noun.object
+17	over	over	ADP		
+18	sagen	sag	NOUN		noun.abstract
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1488.tsv
+# sent_id = 4
+# text =  I flere måneder nægter man at give familien aktindsigt i sagen.
+1	I	i	ADP		
+2	flere	flere	ADJ		
+3	måneder	måned	NOUN		noun.time
+4	nægter	nægte	VERB		verb.communication
+5	man	man	PRON		
+6	at	at	PART		
+7	give	give	VERB		verb.possession
+8	familien	familie	NOUN		noun.person
+9	aktindsigt	aktindsigt	NOUN		noun.cognition
+10	i	i	ADP		
+11	sagen	sag	NOUN		noun.abstract
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1488.tsv
+# sent_id = 5
+# text =  Efter juridisk tovtrækkeri udleveres papirerne, og Herning Kommune betaler familiens advokatudgifter, da Merete Haugaard truer med at gå til pressen.
+1	Efter	efter	ADP		
+2	juridisk	juridisk	ADJ		adj.social
+3	tovtrækkeri	tovtrækkeri	NOUN		noun.act
+4	udleveres	udlevere	VERB		verb.possession
+5	papirerne	papir	NOUN		noun.communication
+6	,	,	PUNCT		
+7	og	og	CCONJ		
+8	Herning	herning	PROPN		noun.institution
+9	Kommune	kommune	NOUN		noun.institution
+10	betaler	betale	VERB		verb.possession
+11	familiens	familie	DET		noun.person
+12	advokatudgifter	advokatudgift	NOUN		noun.quantity
+13	,	,	PUNCT		
+14	da	da	SCONJ		
+15	Merete	merete	PROPN		noun.person
+16	Haugaard	haugaard	PROPN		noun.person
+17	truer	true	VERB		verb.communication
+18	med	med	ADP		
+19	at	at	PART		
+20	gå	gå	VERB		verb.act
+21	til	til	ADP		
+22	pressen	presse	NOUN		noun.person
+23	.	.	PUNCT		
+
+# newdoc id = DDT-1488.tsv
+# sent_id = 6
+# text =  Den 9. maj 1990 registrerer Herning Kommune på Mona Lisas sagsmappe, at kommunen har betalt 10.000 kr. for psykologsamtaler til Mona Lisa.
+1	Den	den	DET		
+2	9.	9.	ADJ		
+3	maj	maj	NOUN		noun.time
+4	1990	1990	NUM		noun.time
+5	registrerer	registrere	VERB		verb.act
+6	Herning	herning	PROPN		noun.institution
+7	Kommune	kommune	NOUN		noun.institution
+8	på	på	ADP		
+9	Mona	mona	PROPN		noun.person
+10	Lisas	lisas	PROPN		noun.person
+11	sagsmappe	sagsmappe	NOUN		noun.communication
+12	,	,	PUNCT		
+13	at	at	SCONJ		
+14	kommunen	kommune	NOUN		noun.institution
+15	har	have	AUX		
+16	betalt	betale	VERB		verb.possession
+17	10.000	10.000	NUM		
+18	kr.	kr.	NOUN		noun.quantity
+19	for	for	ADP		
+20	psykologsamtaler	psykologsamtal	NOUN		noun.communication
+21	til	til	ADP		
+22	Mona	mona	PROPN		noun.person
+23	Lisa	lisa	PROPN		noun.person
+24	.	.	PUNCT		
+
+# newdoc id = DDT-1488.tsv
+# sent_id = 7
+# text =  Den kidnapningslignende aktion er betalt.
+1	Den	den	DET		
+2	kidnapningslignende	kidnapningslign	ADJ		adj.all
+3	aktion	aktion	NOUN		noun.act
+4	er	være	AUX		
+5	betalt	betale	VERB		verb.possession
+6	.	.	PUNCT		
+
+# newdoc id = DDT-1488.tsv
+# sent_id = 8
+# text =  B.T. har bedt psykolog Sine Diemar om nogle uddybende kommentarer, men hun ønsker hverken at høre artiklen eller fremkommme med udtalelser.
+1	B.T.	b.t.	PROPN		noun.person
+2	har	have	AUX		
+3	bedt	bede	VERB		verb.communication
+4	psykolog	psykolog	NOUN		noun.person
+5	Sine	sine	PROPN		noun.person
+6	Diemar	diemar	PROPN		noun.person
+7	om	om	ADP		
+8	nogle	nogen	DET		
+9	uddybende	uddybe	VERB		adj.all
+10	kommentarer	kommentar	NOUN		noun.communication
+11	,	,	PUNCT		
+12	men	men	CCONJ		
+13	hun	hun	PRON		
+14	ønsker	ønske	VERB		verb.cognition
+15	hverken	hverken	ADV		
+16	at	at	PART		
+17	høre	høre	VERB		verb.perception
+18	artiklen	artikel	NOUN		noun.communication
+19	eller	eller	CCONJ		
+20	fremkommme	fremkomm	NOUN		verb.act
+21	med	med	ADP		
+22	udtalelser	udtalelse	NOUN		noun.communication
+23	.	.	PUNCT		
+
+# newdoc id = DDT-1488.tsv
+# sent_id = 9
+# text =  B.T. har forelagt artiklen for advokat J. Quade Andersen, Herning, der med sin indgriben forhindrede, at Mona Lisa blev fjernet fra sin far og mor.
+1	B.T.	b.t.	PROPN		noun.person
+2	har	have	AUX		
+3	forelagt	forelægge	VERB		verb.possession
+4	artiklen	artikel	NOUN		noun.communication
+5	for	for	ADP		
+6	advokat	advokat	NOUN		noun.person
+7	J.	j.	PROPN		noun.person
+8	Quade	quade	PROPN		noun.person
+9	Andersen	andersen	PROPN		noun.person
+10	,	,	PUNCT		
+11	Herning	herning	PROPN		noun.location
+12	,	,	PUNCT		
+13	der	der	PRON		
+14	med	med	ADP		
+15	sin	sin	DET		
+16	indgriben	indgriben	NOUN		noun.act
+17	forhindrede	forhindre	VERB		verb.phenomenon
+18	,	,	PUNCT		
+19	at	at	SCONJ		
+20	Mona	mona	PROPN		noun.person
+21	Lisa	lisa	PROPN		noun.person
+22	blev	blive	AUX		
+23	fjernet	fjerne	VERB		verb.motion
+24	fra	fra	ADP		
+25	sin	sin	DET		
+26	far	far	NOUN		noun.person
+27	og	og	CCONJ		
+28	mor	mor	NOUN		noun.person
+29	.	.	PUNCT		
+

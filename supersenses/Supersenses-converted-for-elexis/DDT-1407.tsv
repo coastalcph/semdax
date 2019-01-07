@@ -1,0 +1,239 @@
+# newdoc id = DDT-1407.tsv
+# sent_id = 1
+# text =  Ifølge Eilif Larsen skal de skadede fodboldspillere hurtigt op af sengen for at begynde genoptræningen.
+1	Ifølge	ifølge	ADP		
+2	Eilif	eilif	PROPN		noun.person
+3	Larsen	larsen	PROPN		noun.person
+4	skal	skulle	AUX		
+5	de	den	DET		
+6	skadede	skade	VERB		adj.phys
+7	fodboldspillere	fodboldspiller	NOUN		noun.person
+8	hurtigt	hurtig	ADV		
+9	op	op	ADV		
+10	af	af	ADP		
+11	sengen	seng	NOUN		noun.artifact
+12	for	for	ADP		
+13	at	at	PART		
+14	begynde	begynde	VERB		verb.aspectual
+15	genoptræningen	genoptræning	NOUN		noun.act
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1407.tsv
+# sent_id = 2
+# text = " Alt går forløbig efter planen, selv_om der endnu ikke har været tid til genoptræning.
+1	"	"	PUNCT		
+2	Alt	al	ADJ		
+3	går	gå	VERB		verb.phenomenon
+4	forløbig	forløb	ADV		
+5	efter	efter	ADP		
+6	planen	plan	NOUN		noun.cognition
+7	,	,	PUNCT		
+8	selv_om	selv_om	NOUN		
+9	der	der	ADV		
+10	endnu	endnu	ADV		
+11	ikke	ikke	ADV		
+12	har	have	AUX		
+13	været	være	VERB		verb.stative
+14	tid	tid	NOUN		noun.time
+15	til	til	ADP		
+16	genoptræning	genoptræning	NOUN		noun.act
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1407.tsv
+# sent_id = 3
+# text =  Henrik Andersen trænger fortsat til hvile, men han har det betydeligt bedre," siger Eilif Larsen til B.T..
+1	Henrik	henrik	PROPN		noun.person
+2	Andersen	andersen	PROPN		noun.person
+3	trænger	trænge	VERB		verb.emotion
+4	fortsat	fortsætte	ADV		
+5	til	til	ADP		
+6	hvile	hvile	NOUN		noun.act
+7	,	,	PUNCT		
+8	men	men	CCONJ		
+9	han	han	PRON		
+10	har	have	AUX		verb.emotion
+11	det	det	PRON		verb.COLL
+12	betydeligt	betydelig	ADV		
+13	bedre	god	ADJ		adj.all
+14	,	,	PUNCT		
+15	"	"	PUNCT		
+16	siger	sige	VERB		verb.communication
+17	Eilif	eilif	PROPN		noun.person
+18	Larsen	larsen	PROPN		noun.person
+19	til	til	ADP		
+20	B.T.	b.t.	PROPN		noun.communication
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1407.tsv
+# sent_id = 4
+# text =  Telefonerne har kimet på den lille sygestue i Brøndby.
+1	Telefonerne	telefon	NOUN		noun.communication
+2	har	have	AUX		
+3	kimet	kime	VERB		verb.phenomenon
+4	på	på	ADP		
+5	den	den	DET		
+6	lille	lille	ADJ		adj.phys
+7	sygestue	sygestue	NOUN		noun.building
+8	i	i	ADP		
+9	Brøndby	brøndby	PROPN		noun.location
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1407.tsv
+# sent_id = 5
+# text =  Alle vil høre, hvordan den skadede fodboldspiller har det.
+1	Alle	al	ADJ		
+2	vil	ville	AUX		
+3	høre	høre	VERB		verb.communication
+4	,	,	PUNCT		
+5	hvordan	hvordan	ADV		
+6	den	den	DET		
+7	skadede	skade	ADJ		adj.phys
+8	fodboldspiller	fodboldspiller	NOUN		noun.person
+9	har	have	VERB		verb.emotion
+10	det	det	PRON		verb.COLL
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1407.tsv
+# sent_id = 6
+# text =  Henrik Andersen, der de første dage havde problemer med at sove, er dødtræt.
+1	Henrik	henrik	PROPN		noun.person
+2	Andersen	andersen	PROPN		noun.person
+3	,	,	PUNCT		
+4	der	der	PRON		
+5	de	den	DET		
+6	første	først	ADJ		adj.time
+7	dage	dag	NOUN		noun.time
+8	havde	have	VERB		verb.cognition
+9	problemer	problem	NOUN		noun.abstract
+10	med	med	ADP		
+11	at	at	PART		
+12	sove	sove	VERB		verb.phenomenon
+13	,	,	PUNCT		
+14	er	være	AUX		verb.stative
+15	dødtræt	dødtræt	ADJ		adj.phys
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1407.tsv
+# sent_id = 7
+# text = " Det er ikke overdrevet, hvis telefonen ringer 50 gange i timen.
+1	"	"	PUNCT		
+2	Det	det	PRON		
+3	er	være	AUX		verb.stative
+4	ikke	ikke	ADV		
+5	overdrevet	overdrive	ADJ		adj.all
+6	,	,	PUNCT		
+7	hvis	hvis	SCONJ		
+8	telefonen	telefon	NOUN		noun.communication
+9	ringer	ringe	VERB		verb.phenomenon
+10	50	50	NUM		
+11	gange	gang	NOUN		noun.quantity
+12	i	i	ADP		
+13	timen	time	NOUN		noun.time
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1407.tsv
+# sent_id = 8
+# text =  Henrik er frisket betydeligt op, og han har fået hvilet lidt, da han fik en pause fra telefonen," siger Henrik Andersens lillebror Kristian.
+1	Henrik	henrik	PROPN		noun.person
+2	er	være	AUX		
+3	frisket	friske	VERB		verb.change
+4	betydeligt	betydelig	ADV		
+5	op	op	ADV		verb.PARTICLE
+6	,	,	PUNCT		
+7	og	og	CCONJ		
+8	han	han	PRON		
+9	har	have	AUX		
+10	fået	få	VERB		
+11	hvilet	hvile	VERB		verb.phenomenon
+12	lidt	lidt	ADV		
+13	,	,	PUNCT		
+14	da	da	SCONJ		
+15	han	han	PRON		
+16	fik	få	VERB		verb.phenomenon
+17	en	en	DET		
+18	pause	pause	NOUN		noun.time
+19	fra	fra	ADP		
+20	telefonen	telefon	NOUN		noun.communication
+21	,	,	PUNCT		
+22	"	"	PUNCT		
+23	siger	sige	VERB		verb.communication
+24	Henrik	henrik	PROPN		noun.person
+25	Andersens	andersens	PROPN		noun.person
+26	lillebror	lillebror	NOUN		noun.person
+27	Kristian	kristian	PROPN		noun.person
+28	.	.	PUNCT		
+
+# newdoc id = DDT-1407.tsv
+# sent_id = 9
+# text =  STOR MEDFØLELSE
+1	STOR	stor	ADJ		adj.all
+2	MEDFØLELSE	medfølelse	NOUN		noun.feeling
+
+# newdoc id = DDT-1407.tsv
+# sent_id = 10
+# text =  Torsdag aften tilbragte den 26-årige fodboldspiller sammen med sin belgiske hustru Fabienne.
+1	Torsdag	torsdag	NOUN		noun.time
+2	aften	aften	NOUN		noun.time
+3	tilbragte	tilbringe	VERB		verb.stative
+4	den	den	DET		
+5	26-årige	26-år	ADJ		adj.time
+6	fodboldspiller	fodboldspiller	NOUN		noun.person
+7	sammen	sammen	ADV		
+8	med	med	ADP		
+9	sin	sin	DET		
+10	belgiske	belgisk	ADJ		adj.social
+11	hustru	hustru	NOUN		noun.person
+12	Fabienne	fabienne	PROPN		noun.person
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1407.tsv
+# sent_id = 11
+# text =  Tidligere på dagen havde han fået et lille fjernsyn og en video installeret på sygestuen, så han kunne se resten af semifinalekampen mod Holland.
+1	Tidligere	tidlig	ADV		
+2	på	på	ADP		
+3	dagen	dag	NOUN		noun.time
+4	havde	have	AUX		
+5	han	han	PRON		
+6	fået	få	VERB		
+7	et	en	DET		
+8	lille	lille	ADJ		adj.phys
+9	fjernsyn	fjernsyn	NOUN		noun.artifact
+10	og	og	CCONJ		
+11	en	en	DET		
+12	video	video	NOUN		noun.artifact
+13	installeret	installere	VERB		verb.act
+14	på	på	ADP		
+15	sygestuen	sygestue	NOUN		noun.building
+16	,	,	PUNCT		
+17	så	så	SCONJ		
+18	han	han	PRON		
+19	kunne	kunne	AUX		
+20	se	se	VERB		verb.act
+21	resten	rest	NOUN		noun.relation
+22	af	af	ADP		
+23	semifinalekampen	semifinalekamp	NOUN		noun.act
+24	mod	mod	ADP		
+25	Holland	holland	PROPN		noun.person
+26	.	.	PUNCT		
+
+# newdoc id = DDT-1407.tsv
+# sent_id = 12
+# text =  Blandt fodboldspillerne i den fysisk krævende EM-turnering er der stor professionel medfølelse med den uheldige sportsmand.
+1	Blandt	blandt	ADP		
+2	fodboldspillerne	fodboldspiller	NOUN		noun.person
+3	i	i	ADP		
+4	den	den	DET		
+5	fysisk	fysisk	ADV		
+6	krævende	kræve	ADJ		adj.phys
+7	EM-turnering	em-turnering	NOUN		noun.event
+8	er	være	VERB		
+9	der	der	ADV		
+10	stor	stor	ADJ		adj.all
+11	professionel	professionel	ADJ		adj.all
+12	medfølelse	medfølelse	NOUN		noun.feeling
+13	med	med	ADP		
+14	den	den	DET		
+15	uheldige	uheldig	ADJ		adj.all
+16	sportsmand	sportsmand	NOUN		noun.person
+17	.	.	PUNCT		
+

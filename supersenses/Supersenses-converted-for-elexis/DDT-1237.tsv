@@ -1,0 +1,231 @@
+# newdoc id = DDT-1237.tsv
+# sent_id = 1
+# text =  Man indkvarteres i hytter med fire ferieboligeri hver og maksimalt seks personer i hver bolig.
+1	Man	man	PRON		
+2	indkvarteres	indkvartere	VERB		verb.act
+3	i	i	ADP		
+4	hytter	hytte	NOUN		noun.building
+5	med	med	ADP		
+6	fire	fire	NUM		
+7	ferieboligeri	ferieboligeri	NOUN		noun.building
+8	hver	hver	PRON		
+9	og	og	CCONJ		
+10	maksimalt	maksimal	ADV		adj.all
+11	seks	seks	ADJ		
+12	personer	person	NOUN		noun.person
+13	i	i	ADP		
+14	hver	hver	PRON		
+15	bolig	bolig	NOUN		noun.building
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1237.tsv
+# sent_id = 2
+# text =  Priser fra 1.095 kr. og med i prisen er bus fra Fyn og Jylland, overfart Frederikshavn-Göteborg, bus til Branäs og dansk skiguide.
+1	Priser	prise	NOUN		noun.quantity
+2	fra	fra	ADP		
+3	1.095	1.095	NUM		
+4	kr.	kr.	NOUN		noun.artifact
+5	og	og	CCONJ		
+6	med	med	ADV		
+7	i	i	ADP		
+8	prisen	prise	NOUN		noun.quantity
+9	er	være	AUX		verb.stative
+10	bus	bus	NOUN		noun.vehicle
+11	fra	fra	ADP		
+12	Fyn	fyn	PROPN		noun.location
+13	og	og	CCONJ		
+14	Jylland	jylland	PROPN		noun.location
+15	,	,	PUNCT		
+16	overfart	overfart	NOUN		noun.act
+17	Frederikshavn-Göteborg	frederikshavn-göteborg	X		noun.location
+18	,	,	PUNCT		
+19	bus	bus	NOUN		noun.vehicle
+20	til	til	ADP		
+21	Branäs	branäs	PROPN		noun.location
+22	og	og	CCONJ		
+23	dansk	dansk	ADJ		adj.social
+24	skiguide	skiguid	NOUN		noun.person
+25	.	.	PUNCT		
+
+# newdoc id = DDT-1237.tsv
+# sent_id = 3
+# text =  Jul i Norge
+1	Jul	jul	NOUN		noun.time
+2	i	i	ADP		
+3	Norge	norge	PROPN		noun.location
+
+# newdoc id = DDT-1237.tsv
+# sent_id = 4
+# text =  Traditionen tro har Norsk Rejsebureau jule- og nytårsrejser til Norge.
+1	Traditionen	tradition	NOUN		noun.abstract
+2	tro	tro	VERB		adj.mental
+3	har	have	VERB		verb.stative
+4	Norsk	norsk	ADJ		noun.institution
+5	Rejsebureau	rejsebureau	NOUN		noun.institution
+6	jule-	jule-	X		noun.act
+7	og	og	CCONJ		
+8	nytårsrejser	nytårsrejs	NOUN		noun.act
+9	til	til	ADP		
+10	Norge	norge	PROPN		noun.location
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1237.tsv
+# sent_id = 5
+# text =  Til Gausdal Høifjellshotell og til Kampsæter og Ruten Fjellstue.
+1	Til	til	ADP		
+2	Gausdal	gausdal	PROPN		noun.building
+3	Høifjellshotell	høifjellshotell	PROPN		noun.building
+4	og	og	CCONJ		
+5	til	til	ADP		
+6	Kampsæter	kampsæter	PROPN		noun.location
+7	og	og	CCONJ		
+8	Ruten	ruten	PROPN		noun.building
+9	Fjellstue	fjellstue	PROPN		noun.building
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1237.tsv
+# sent_id = 6
+# text =  Rejserne er med DFDS til Oslo og med bus derfra til Guldbrandsdalen.
+1	Rejserne	rejse	NOUN		noun.act
+2	er	være	AUX		verb.stative
+3	med	med	ADP		
+4	DFDS	dfds	PROPN		noun.institution
+5	til	til	ADP		
+6	Oslo	oslo	PROPN		noun.location
+7	og	og	CCONJ		
+8	med	med	ADP		
+9	bus	bus	NOUN		noun.vehicle
+10	derfra	derfra	ADV		
+11	til	til	ADP		
+12	Guldbrandsdalen	guldbrandsdalen	PROPN		noun.location
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1237.tsv
+# sent_id = 7
+# text =  Rejsen plus fem dage med fuldpension i juleugen på Gausdal koster 4.415 kr. for en voksen i dobbeltværelse med bad og toilet.
+1	Rejsen	rejsen	NOUN		noun.act
+2	plus	plusse	ADV		
+3	fem	fem	ADJ		
+4	dage	dag	NOUN		noun.time
+5	med	med	ADP		
+6	fuldpension	fuldpension	NOUN		noun.abstract
+7	i	i	ADP		
+8	juleugen	juleuge	NOUN		noun.time
+9	på	på	ADP		
+10	Gausdal	gausdal	PROPN		noun.building
+11	koster	koste	VERB		verb.stative
+12	4.415	4.415	ADJ		
+13	kr.	kr.	NOUN		noun.artifact
+14	for	for	ADP		
+15	en	en	DET		
+16	voksen	voksen	ADJ		noun.person
+17	i	i	ADP		
+18	dobbeltværelse	dobbeltværelse	NOUN		noun.building
+19	med	med	ADP		
+20	bad	bad	NOUN		noun.artifact
+21	og	og	CCONJ		
+22	toilet	toilet	NOUN		noun.artifact
+23	.	.	PUNCT		
+
+# newdoc id = DDT-1237.tsv
+# sent_id = 8
+# text =  Børn under 16. år pr. en voksen i dobbeltværelset koster 450 kr..
+1	Børn	barn	NOUN		noun.person
+2	under	under	ADP		
+3	16.	16.	ADJ		
+4	år	år	NOUN		noun.time
+5	pr.	pr.	ADP		
+6	en	en	DET		
+7	voksen	voksen	ADJ		noun.person
+8	i	i	ADP		
+9	dobbeltværelset	dobbeltværelse	NOUN		noun.building
+10	koster	koste	VERB		verb.stative
+11	450	450	NUM		
+12	kr.	kr.	NOUN		noun.artifact
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1237.tsv
+# sent_id = 9
+# text =  Det kan blive billigere, hvis man f.eks. bor i tre- eller firekøjers kahytter på båden, og dyrere, hvis man f.eks. vil bo i hotellets luksusafdeling.
+1	Det	det	PRON		
+2	kan	kunne	AUX		
+3	blive	blive	AUX		verb.stative
+4	billigere	billig	ADJ		adj.all
+5	,	,	PUNCT		
+6	hvis	hvis	SCONJ		
+7	man	man	PRON		noun.act
+8	f.eks.	f.eks.	ADV		noun.act
+9	bor	bore	VERB		verb.stative
+10	i	i	ADP		
+11	tre-	tre-	X		
+12	eller	eller	CCONJ		
+13	firekøjers	firekøj	VERB		adj.phys
+14	kahytter	kahyt	NOUN		noun.building
+15	på	på	ADP		
+16	båden	både	NOUN		noun.vehicle
+17	,	,	PUNCT		
+18	og	og	CCONJ		
+19	dyrere	dyr	ADJ		adj.all
+20	,	,	PUNCT		
+21	hvis	hvis	SCONJ		
+22	man	man	PRON		
+23	f.eks.	f.eks.	ADV		
+24	vil	ville	AUX		
+25	bo	bo	VERB		verb.stative
+26	i	i	ADP		
+27	hotellets	hotel	NOUN		noun.building
+28	luksusafdeling	luksusafdeling	NOUN		noun.relation
+29	.	.	PUNCT		
+
+# newdoc id = DDT-1237.tsv
+# sent_id = 10
+# text =  Til Alperne i egen bil
+1	Til	til	ADP		
+2	Alperne	alperne	PROPN		noun.location
+3	i	i	ADP		
+4	egen	egen	ADJ		
+5	bil	bil	NOUN		noun.vehicle
+
+# newdoc id = DDT-1237.tsv
+# sent_id = 11
+# text =  Foretrækker man selv at køre på skiferie, så formidler Dansk Fri Ferie, Valby, en række lejligheder i de kendte, men også i de mindre kendte skisportssteder i Østrig, Frankrig, Schweiz og Italien.
+1	Foretrækker	foretrække	VERB		verb.cognition
+2	man	man	PRON		
+3	selv	selv	PRON		
+4	at	at	PART		
+5	køre	køre	VERB		verb.motion
+6	på	på	ADP		
+7	skiferie	skiferi	NOUN		noun.act
+8	,	,	PUNCT		
+9	så	så	ADV		
+10	formidler	formidle	VERB		verb.act
+11	Dansk	dansk	ADJ		noun.institution
+12	Fri	fri	ADJ		noun.institution
+13	Ferie	ferie	NOUN		noun.institution
+14	,	,	PUNCT		
+15	Valby	valby	PROPN		noun.location
+16	,	,	PUNCT		
+17	en	en	DET		
+18	række	række	NOUN		noun.quantity
+19	lejligheder	lejlighed	NOUN		noun.building
+20	i	i	ADP		
+21	de	den	DET		
+22	kendte	kende	ADJ		adj.social
+23	,	,	PUNCT		
+24	men	men	CCONJ		
+25	også	også	ADV		
+26	i	i	ADP		
+27	de	den	DET		
+28	mindre	lille	ADV		
+29	kendte	kende	ADJ		adj.social
+30	skisportssteder	skisportssted	NOUN		noun.location
+31	i	i	ADP		
+32	Østrig	østrig	PROPN		noun.location
+33	,	,	PUNCT		
+34	Frankrig	frankrig	PROPN		noun.location
+35	,	,	PUNCT		
+36	Schweiz	schweiz	PROPN		noun.location
+37	og	og	CCONJ		
+38	Italien	italien	PROPN		noun.location
+39	.	.	PUNCT		
+

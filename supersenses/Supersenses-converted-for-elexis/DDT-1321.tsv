@@ -1,0 +1,214 @@
+# newdoc id = DDT-1321.tsv
+# sent_id = 1
+# text = " Jeg synes, det er flot, at Stefan Rasmussen får denne fornemme udmærkelse for sin indsats.
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	synes	synes	VERB		verb.cognition
+4	,	,	PUNCT		
+5	det	det	PRON		
+6	er	være	AUX		verb.stative
+7	flot	flot	ADJ		adj.all
+8	,	,	PUNCT		
+9	at	at	SCONJ		
+10	Stefan	stefan	PROPN		noun.person
+11	Rasmussen	rasmussen	PROPN		noun.person
+12	får	få	VERB		verb.possession
+13	denne	denne	DET		
+14	fornemme	fornem	ADJ		adj.all
+15	udmærkelse	udmærkelse	NOUN		noun.abstract
+16	for	for	ADP		
+17	sin	sin	DET		
+18	indsats	indsats	NOUN		noun.act
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1321.tsv
+# sent_id = 2
+# text =  Det er absolut noget at være stolt over," siger formanden for Dansk Pilotforening, Eigil Kragh.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	absolut	absolut	ADV		
+4	noget	nogen	PRON		
+5	at	at	PART		
+6	være	være	AUX		verb.stative
+7	stolt	stolt	ADJ		adj.mental
+8	over	over	ADP		
+9	,	,	PUNCT		
+10	"	"	PUNCT		
+11	siger	sige	VERB		verb.communication
+12	formanden	formand	NOUN		noun.person
+13	for	for	ADP		
+14	Dansk	dansk	ADJ		noun.institution
+15	Pilotforening	pilotforening	NOUN		noun.institution
+16	,	,	PUNCT		
+17	Eigil	eigil	PROPN		noun.person
+18	Kragh	kragh	PROPN		noun.person
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1321.tsv
+# sent_id = 3
+# text =  Prisen for Stefan Rasmussens flotte indsats ved nødlandingen er dog, at han med stor sandsynlighed aldrig kommer til at sidde ved roret i et cockpit mere, fordi han ikke føler sig parat til igen at tage ansvaret for flypassagerer.
+1	Prisen	prise	NOUN		noun.artifact
+2	for	for	ADP		
+3	Stefan	stefan	PROPN		noun.person
+4	Rasmussens	rasmussens	PROPN		noun.person
+5	flotte	flot	ADJ		adj.all
+6	indsats	indsats	NOUN		noun.act
+7	ved	ved	ADP		
+8	nødlandingen	nødlanding	NOUN		noun.act
+9	er	være	AUX		verb.stative
+10	dog	dog	ADV		
+11	,	,	PUNCT		
+12	at	at	SCONJ		
+13	han	han	PRON		
+14	med	med	ADP		
+15	stor	stor	ADJ		
+16	sandsynlighed	sandsynlighed	NOUN		
+17	aldrig	aldrig	ADV		
+18	kommer	komme	VERB		verb.phenomenon
+19	til	til	ADP		verb.PARTICLE
+20	at	at	PART		
+21	sidde	sidde	VERB		verb.stative
+22	ved	ved	ADP		
+23	roret	ror	NOUN		noun.artifact
+24	i	i	ADP		
+25	et	en	DET		
+26	cockpit	cockpit	NOUN		noun.artifact
+27	mere	mere	ADV		
+28	,	,	PUNCT		
+29	fordi	fordi	SCONJ		
+30	han	han	PRON		
+31	ikke	ikke	ADV		
+32	føler	føle	VERB		verb.emotion
+33	sig	sig	PRON		verb.REFLPRON
+34	parat	parat	ADJ		adj.all
+35	til	til	ADP		
+36	igen	igen	ADV		
+37	at	at	PART		
+38	tage	tage	VERB		verb.act
+39	ansvaret	ansvar	NOUN		verb.COLL
+40	for	for	ADP		
+41	flypassagerer	flypassager	NOUN		noun.person
+42	.	.	PUNCT		
+
+# newdoc id = DDT-1321.tsv
+# sent_id = 4
+# text =  Men det behøver Stefan Rasmussen ikke ærgre sig økonomisk over.
+1	Men	men	CCONJ		
+2	det	det	PRON		
+3	behøver	behøve	VERB		verb.phenomenon
+4	Stefan	stefan	PROPN		noun.person
+5	Rasmussen	rasmussen	PROPN		noun.person
+6	ikke	ikke	ADV		
+7	ærgre	ærgre	VERB		verb.emotion
+8	sig	sig	PRON		verb.REFLPRON
+9	økonomisk	økonomisk	ADV		
+10	over	over	ADP		
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1321.tsv
+# sent_id = 5
+# text =  Han er nemlig- ligesom alle andre SAS-piloter- dækket ind af forsikringer, og det er ikke småpenge, Stefan Rasmussen kan se frem til, hvis hans flycertifikat bliver inddraget af de danske luftfartsmyndigheder.
+1	Han	han	PRON		
+2	er	være	AUX		verb.stative
+3	nemlig	nemlig	ADV		
+4	-	-	PUNCT		
+5	ligesom	ligesom	SCONJ		
+6	alle	al	ADJ		
+7	andre	anden	DET		
+8	SAS-piloter	sas-pilot	NOUN		noun.person
+9	-	-	PUNCT		
+10	dækket	dække	VERB		verb.act
+11	ind	ind	ADV		verb.PARTICLE
+12	af	af	ADP		
+13	forsikringer	forsikring	NOUN		noun.abstract
+14	,	,	PUNCT		
+15	og	og	CCONJ		
+16	det	det	PRON		
+17	er	være	AUX		verb.stative
+18	ikke	ikke	ADV		
+19	småpenge	småpenge	NOUN		noun.artifact
+20	,	,	PUNCT		
+21	Stefan	stefan	PROPN		noun.person
+22	Rasmussen	rasmussen	PROPN		noun.person
+23	kan	kunne	AUX		
+24	se	se	VERB		verb.cognition
+25	frem	frem	ADV		verb.PARTICLE
+26	til	til	ADP		
+27	,	,	PUNCT		
+28	hvis	hvis	SCONJ		
+29	hans	hans	DET		
+30	flycertifikat	flycertifikat	NOUN		noun.communication
+31	bliver	blive	AUX		
+32	inddraget	inddrage	VERB		verb.possession
+33	af	af	ADP		
+34	de	den	DET		
+35	danske	dansk	ADJ		adj.social
+36	luftfartsmyndigheder	luftfartsmynd	NOUN		noun.institution
+37	.	.	PUNCT		
+
+# newdoc id = DDT-1321.tsv
+# sent_id = 6
+# text =  CERTIFIKATET FORSIKRET
+1	CERTIFIKATET	certifikat	NOUN		noun.communication
+2	FORSIKRET	forsikre	VERB		verb.act
+
+# newdoc id = DDT-1321.tsv
+# sent_id = 7
+# text =  For det første får han en halv million kroner i en engangssum, fordi han er dækket ind under det, der hedder" loss of license" ( tab af certifikat).
+1	For	for	ADP		
+2	det	det	DET		
+3	første	først	ADJ		adj.all
+4	får	få	VERB		verb.possession
+5	han	han	PRON		
+6	en	en	DET		
+7	halv	halv	ADJ		adj.phys
+8	million	million	NOUN		noun.quantity
+9	kroner	krone	NOUN		noun.artifact
+10	i	i	ADP		
+11	en	en	DET		
+12	engangssum	engangssum	NOUN		noun.possession
+13	,	,	PUNCT		
+14	fordi	fordi	SCONJ		
+15	han	han	PRON		
+16	er	være	AUX		verb.stative
+17	dækket	dække	VERB		adj.all
+18	ind	ind	ADV		adj.all
+19	under	under	ADP		
+20	det	det	PRON		
+21	,	,	PUNCT		
+22	der	der	PRON		
+23	hedder	hedde	VERB		
+24	"	"	PUNCT		
+25	loss	loss	X		noun.abstract
+26	of	of	X		noun.abstract
+27	license	license	X		noun.abstract
+28	"	"	PUNCT		
+29	(	(	PUNCT		
+30	tab	tab	NOUN		verb.possession
+31	af	af	ADP		
+32	certifikat	certifikat	NOUN		noun.communication
+33	)	)	PUNCT		
+34	.	.	PUNCT		
+
+# newdoc id = DDT-1321.tsv
+# sent_id = 8
+# text =  Denne engangssum kommer til udbetaling hos enhver dansk SAS-pilot, der mister sit certifikat af medicinske grunde.
+1	Denne	denne	DET		
+2	engangssum	engangssum	NOUN		noun.possession
+3	kommer	komme	VERB		
+4	til	til	ADP		
+5	udbetaling	udbetaling	NOUN		noun.act
+6	hos	hos	ADP		
+7	enhver	enhver	DET		
+8	dansk	dansk	ADJ		adj.social
+9	SAS-pilot	sas-pilot	NOUN		noun.person
+10	,	,	PUNCT		
+11	der	der	PRON		
+12	mister	miste	VERB		verb.possession
+13	sit	sin	DET		
+14	certifikat	certifikat	NOUN		noun.communication
+15	af	af	ADP		
+16	medicinske	medicinsk	ADJ		adj.phys
+17	grunde	grund	NOUN		noun.motive
+18	.	.	PUNCT		
+

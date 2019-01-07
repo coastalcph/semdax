@@ -1,0 +1,193 @@
+# newdoc id = DDT-1339.tsv
+# sent_id = 1
+# text =  Udelukkes kan det imidlertid ikke, at omstillingsprocessen fra boblende europæisk eufori til flad dansk flegma, vil volde spillerne betydeligt større problemer, end 3'erne måske umiddelbart forestiller sig.
+1	Udelukkes	udelukke	VERB		verb.cognition
+2	kan	kunne	AUX		
+3	det	det	PRON		
+4	imidlertid	imidlertid	ADV		
+5	ikke	ikke	ADV		
+6	,	,	PUNCT		
+7	at	at	SCONJ		
+8	omstillingsprocessen	omstillingsproces	NOUN		noun.act
+9	fra	fra	ADP		
+10	boblende	boble	VERB		adj.all
+11	europæisk	europæisk	ADJ		adj.social
+12	eufori	eufori	NOUN		noun.feeling
+13	til	til	ADP		
+14	flad	flad	ADJ		adj.all
+15	dansk	dansk	ADJ		adj.social
+16	flegma	flegma	NOUN		noun.feeling
+17	,	,	PUNCT		
+18	vil	ville	AUX		
+19	volde	volde	VERB		verb.phenomenon
+20	spillerne	spiller	NOUN		noun.person
+21	betydeligt	betydelig	ADV		
+22	større	stor	ADJ		
+23	problemer	problem	NOUN		noun.phenomenon
+24	,	,	PUNCT		
+25	end	ende	ADP		
+26	3'erne	3'ern	NOUN		noun.person
+27	måske	måske	ADV		
+28	umiddelbart	umiddelbar	ADV		
+29	forestiller	forestille	VERB		verb.cognition
+30	sig	sig	PRON		verb.REFLPRON
+31	.	.	PUNCT		
+
+# newdoc id = DDT-1339.tsv
+# sent_id = 2
+# text =  I den forbindelse er det værd at erindre om, at de feterede, københavnske UEFA Cup heltes koncentration, mod og mentale styrke i efterårets Superliga-grundspil slet ikke levede op til de samme spilleres præstationer på internationalt plan.
+1	I	i	ADP		
+2	den	den	DET		
+3	forbindelse	forbindelse	NOUN		
+4	er	være	AUX		verb.stative
+5	det	det	PRON		
+6	værd	værd	ADJ		adj.all
+7	at	at	PART		
+8	erindre	erindre	VERB		verb.cognition
+9	om	om	ADP		
+10	,	,	PUNCT		
+11	at	at	SCONJ		
+12	de	den	PRON		
+13	feterede	fetere	VERB		adj.all
+14	,	,	PUNCT		
+15	københavnske	københavnsk	ADJ		adj.social
+16	UEFA	uefa	PROPN		noun.person
+17	Cup	cup	NOUN		noun.person
+18	heltes	helt	VERB		noun.person
+19	koncentration	koncentration	NOUN		noun.cognition
+20	,	,	PUNCT		
+21	mod	mod	NOUN		noun.feeling
+22	og	og	CCONJ		
+23	mentale	mental	ADJ		adj.mental
+24	styrke	styrke	NOUN		noun.attribute
+25	i	i	ADP		
+26	efterårets	efterår	NOUN		noun.time
+27	Superliga-grundspil	superliga-grundspil	NOUN		noun.event
+28	slet	slet	ADV		
+29	ikke	ikke	ADV		
+30	levede	leve	VERB		verb.act
+31	op	op	ADV		verb.PARTICLE
+32	til	til	ADP		
+33	de	den	DET		
+34	samme	samme	ADJ		
+35	spilleres	spiller	VERB		noun.person
+36	præstationer	præstation	NOUN		noun.act
+37	på	på	ADP		
+38	internationalt	international	ADJ		adj.social
+39	plan	plan	NOUN		noun.relation
+40	.	.	PUNCT		
+
+# newdoc id = DDT-1339.tsv
+# sent_id = 3
+# text =  Går man bag kulisserne i B1903 forekommer revnerne i den blankpolerede, udadvendte facade endog at være endnu mere iøjnefaldende.
+1	Går	gå	VERB		verb.act
+2	man	man	PRON		
+3	bag	bag	ADP		
+4	kulisserne	kulisse	NOUN		noun.artifact
+5	i	i	ADP		
+6	B1903	b1903	PROPN		noun.person
+7	forekommer	forekomme	VERB		verb.phenomenon
+8	revnerne	revne	NOUN		noun.attribute
+9	i	i	ADP		
+10	den	den	DET		
+11	blankpolerede	blankpoleret	ADJ		adj.phys
+12	,	,	PUNCT		
+13	udadvendte	udadvendt	ADJ		adj.social
+14	facade	facade	NOUN		noun.attribute
+15	endog	endog	ADV		
+16	at	at	PART		
+17	være	være	AUX		verb.stative
+18	endnu	endnu	ADV		
+19	mere	mere	ADV		
+20	iøjnefaldende	iøjnefaldende	ADJ		adj.phys
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1339.tsv
+# sent_id = 4
+# text =  Dispositionerne omkring placering af træningslejren i Paris, valget af middelmådige sparringspartnere op til den første kamp mod AC Torino og en farceagtige benyttelse- eller mangel på samme- af lejesvenden Ole Kjær, har unægtelig båret mere præg af amatørisme og discountløsninger, end af målrettet, sportslig professionalisme.
+1	Dispositionerne	disposition	NOUN		noun.cognition
+2	omkring	omkring	ADP		
+3	placering	placering	NOUN		noun.act
+4	af	af	ADP		
+5	træningslejren	træningslejr	NOUN		noun.location
+6	i	i	ADP		
+7	Paris	paris	PROPN		noun.location
+8	,	,	PUNCT		
+9	valget	valg	NOUN		noun.cognition
+10	af	af	ADP		
+11	middelmådige	middelmådig	ADJ		adj.all
+12	sparringspartnere	sparringspartner	NOUN		noun.person
+13	op	op	ADV		
+14	til	til	ADP		
+15	den	den	DET		
+16	første	først	ADJ		adj.all
+17	kamp	kamp	NOUN		noun.event
+18	mod	mod	ADP		
+19	AC	ac	PROPN		noun.person
+20	Torino	torino	PROPN		noun.person
+21	og	og	CCONJ		
+22	en	en	DET		
+23	farceagtige	farceagtig	ADJ		adj.all
+24	benyttelse	benyttelse	NOUN		noun.act
+25	-	-	PUNCT		
+26	eller	eller	CCONJ		
+27	mangel	mangel	NOUN		
+28	på	på	ADP		
+29	samme	samme	ADJ		
+30	-	-	PUNCT		
+31	af	af	ADP		
+32	lejesvenden	lejesvend	NOUN		noun.person
+33	Ole	ole	PROPN		noun.person
+34	Kjær	kjær	PROPN		noun.person
+35	,	,	PUNCT		
+36	har	have	AUX		
+37	unægtelig	unægtelig	ADV		
+38	båret	bære	VERB		verb.phenomenon
+39	mere	mere	ADJ		
+40	præg	præg	NOUN		verb.COLL
+41	af	af	ADP		
+42	amatørisme	amatørisme	NOUN		noun.attribute
+43	og	og	CCONJ		
+44	discountløsninger	discountløsning	NOUN		noun.act
+45	,	,	PUNCT		
+46	end	ende	ADP		
+47	af	af	ADP		
+48	målrettet	målrettet	ADJ		adj.mental
+49	,	,	PUNCT		
+50	sportslig	sportslig	ADJ		adj.all
+51	professionalisme	professionalisme	NOUN		noun.attribute
+52	.	.	PUNCT		
+
+# newdoc id = DDT-1339.tsv
+# sent_id = 5
+# text =  Det har været og er forsat B.T.s klare holdning, som nok så mange akademisk, udglattende forklaringer, udsendt fra den officielle førerbunker på Lyngbyvejen ikke ændrer.
+1	Det	det	PRON		
+2	har	have	AUX		
+3	været	være	AUX		verb.stative
+4	og	og	CCONJ		
+5	er	være	VERB		verb.stative
+6	forsat	forsat	X		
+7	B.T.s	b.t.s	PROPN		noun.communication
+8	klare	klar	ADJ		adj.all
+9	holdning	holdning	NOUN		noun.cognition
+10	,	,	PUNCT		
+11	som	som	PRON		
+12	nok	nok	ADV		
+13	så	så	ADV		
+14	mange	mangen	ADJ		
+15	akademisk	akademisk	ADV		adj.all
+16	,	,	PUNCT		
+17	udglattende	udglatte	VERB		adj.all
+18	forklaringer	forklaring	NOUN		noun.communication
+19	,	,	PUNCT		
+20	udsendt	udsende	VERB		verb.act
+21	fra	fra	ADP		
+22	den	den	DET		
+23	officielle	officiel	ADJ		adj.all
+24	førerbunker	førerbunker	NOUN		noun.institution
+25	på	på	ADP		
+26	Lyngbyvejen	lyngbyvejen	PROPN		noun.location
+27	ikke	ikke	ADV		
+28	ændrer	ændre	VERB		verb.change
+29	.	.	PUNCT		
+

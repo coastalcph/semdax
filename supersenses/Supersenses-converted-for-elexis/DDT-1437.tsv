@@ -1,0 +1,250 @@
+# newdoc id = DDT-1437.tsv
+# sent_id = 1
+# text =  Det tyske Transall fly taxier ind på stand-pladsen- vi skal med det en halv time efter.
+1	Det	det	DET		
+2	tyske	tysk	ADJ		adj.social
+3	Transall	transall	PROPN		noun.vehicle
+4	fly	fly	NOUN		noun.vehicle
+5	taxier	taxie	VERB		verb.motion
+6	ind	ind	ADV		
+7	på	på	ADP		
+8	stand-pladsen	stand-plads	NOUN		noun.location
+9	-	-	PUNCT		
+10	vi	vi	PRON		
+11	skal	skulle	AUX		verb.motion
+12	med	med	ADP		verb.PARTICLE
+13	det	det	DET		
+14	en	en	DET		
+15	halv	halv	ADJ		adj.phys
+16	time	time	NOUN		noun.time
+17	efter	efter	ADV		
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1437.tsv
+# sent_id = 2
+# text =  Ud af flyet springer en ung kvinde, korthåret, cowboybukser, små sandaler, i slutningen af tyverne.
+1	Ud	ud	ADV		
+2	af	af	ADP		
+3	flyet	fly	NOUN		noun.vehicle
+4	springer	springe	VERB		verb.motion
+5	en	en	DET		
+6	ung	ung	ADJ		adj.phys
+7	kvinde	kvinde	NOUN		noun.person
+8	,	,	PUNCT		
+9	korthåret	korthåret	ADJ		adj.phys
+10	,	,	PUNCT		
+11	cowboybukser	cowboybukser	NOUN		noun.artifact
+12	,	,	PUNCT		
+13	små	lille	ADJ		adj.phys
+14	sandaler	sandal	NOUN		noun.artifact
+15	,	,	PUNCT		
+16	i	i	ADP		
+17	slutningen	slutning	NOUN		noun.time
+18	af	af	ADP		
+19	tyverne	tyver	NOUN		noun.time
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1437.tsv
+# sent_id = 3
+# text =  Hun var på lynbesøg i den belejrede hovedstad og følger med i flyet hjem.
+1	Hun	hun	PRON		
+2	var	være	VERB		verb.stative
+3	på	på	ADP		
+4	lynbesøg	lynbesøg	NOUN		noun.act
+5	i	i	ADP		
+6	den	den	DET		
+7	belejrede	belejre	ADJ		adj.all
+8	hovedstad	hovedstad	NOUN		noun.location
+9	og	og	CCONJ		
+10	følger	følge	VERB		verb.motion
+11	med	med	ADV		verb.PARTICLE
+12	i	i	ADP		
+13	flyet	fly	NOUN		noun.vehicle
+14	hjem	hjem	ADV		
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1437.tsv
+# sent_id = 4
+# text =  Enhver, der har forsøgt at gennemføre en samtale i lastrummet på sådan en tyksak af et fly, kender betingelserne.
+1	Enhver	enhver	PRON		
+2	,	,	PUNCT		
+3	der	der	PRON		
+4	har	have	AUX		
+5	forsøgt	forsøge	VERB		verb.act
+6	at	at	PART		
+7	gennemføre	gennemføre	VERB		verb.act
+8	en	en	DET		
+9	samtale	samtale	NOUN		noun.communication
+10	i	i	ADP		
+11	lastrummet	lastrum	NOUN		noun.building
+12	på	på	ADP		
+13	sådan	sådan	ADJ		
+14	en	en	DET		
+15	tyksak	tyksak	NOUN		noun.person
+16	af	af	ADP		
+17	et	en	DET		
+18	fly	fly	NOUN		noun.vehicle
+19	,	,	PUNCT		
+20	kender	kende	VERB		verb.cognition
+21	betingelserne	betingelse	NOUN		noun.abstract
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1437.tsv
+# sent_id = 5
+# text =  Flyet er kun nødtørftigt isoleret.
+1	Flyet	fly	NOUN		noun.vehicle
+2	er	være	AUX		verb.stative
+3	kun	kun	ADV		
+4	nødtørftigt	nødtørftig	ADV		
+5	isoleret	isolere	VERB		adj.all
+6	.	.	PUNCT		
+
+# newdoc id = DDT-1437.tsv
+# sent_id = 6
+# text =  Det er militæret- det her- ikke nogen business-class.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	militæret	militær	NOUN		noun.institution
+4	-	-	PUNCT		
+5	det	det	PRON		
+6	her	her	ADV		
+7	-	-	PUNCT		
+8	ikke	ikke	ADV		
+9	nogen	nogen	DET		
+10	business-class	business-clas	NOUN		noun.domain
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1437.tsv
+# sent_id = 7
+# text =  Halvt råbende spørger hun, hvad jeg mener om krigen i Bosnien.
+1	Halvt	halv	ADV		adj.all
+2	råbende	råbe	VERB		adj.all
+3	spørger	spørge	VERB		verb.communication
+4	hun	hun	PRON		
+5	,	,	PUNCT		
+6	hvad	hvad	PRON		
+7	jeg	jeg	PRON		
+8	mener	mene	VERB		verb.cognition
+9	om	om	ADP		
+10	krigen	krig	NOUN		noun.state
+11	i	i	ADP		
+12	Bosnien	bosnien	PROPN		noun.location
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1437.tsv
+# sent_id = 8
+# text =  Jeg svarer, at alle parter har blod på hænderne- at man som udenforstående skal vare sig for at vælge side.
+1	Jeg	jeg	PRON		
+2	svarer	svare	VERB		verb.communication
+3	,	,	PUNCT		
+4	at	at	SCONJ		
+5	alle	al	ADJ		
+6	parter	part	NOUN		noun.relation
+7	har	have	VERB		verb.phenomenon
+8	blod	blod	NOUN		noun.substance
+9	på	på	ADP		
+10	hænderne	hånd	NOUN		noun.body
+11	-	-	PUNCT		
+12	at	at	SCONJ		
+13	man	man	PRON		
+14	som	som	ADP		
+15	udenforstående	udenforstående	ADJ		noun.person
+16	skal	skulle	AUX		
+17	vare	vare	VERB		verb.cognition
+18	sig	sig	PRON		verb.REFLPRON
+19	for	for	ADP		
+20	at	at	PART		
+21	vælge	vælge	VERB		verb.cognition
+22	side	side	NOUN		noun.relation
+23	.	.	PUNCT		
+
+# newdoc id = DDT-1437.tsv
+# sent_id = 9
+# text =  Men at det virker som_om, Kroatien og Serbien er ved at dele landet mellem sig.
+1	Men	men	CCONJ		
+2	at	at	SCONJ		
+3	det	det	PRON		
+4	virker	virke	VERB		verb.phenomenon
+5	som_om	som_om	NOUN		
+6	,	,	PUNCT		
+7	Kroatien	kroatien	PROPN		noun.person
+8	og	og	CCONJ		
+9	Serbien	serbien	PROPN		noun.person
+10	er	være	VERB		verb.stative
+11	ved	ved	ADP		verb.PARTICLE
+12	at	at	PART		
+13	dele	dele	VERB		verb.change
+14	landet	land	NOUN		noun.location
+15	mellem	mellem	ADP		
+16	sig	sig	PRON		
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1437.tsv
+# sent_id = 10
+# text =  Uden tanke for den store muslimske befolkning.
+1	Uden	uden	ADP		
+2	tanke	tanke	NOUN		noun.cognition
+3	for	for	ADP		
+4	den	den	DET		
+5	store	stor	ADJ		adj.phys
+6	muslimske	muslimsk	ADJ		adj.social
+7	befolkning	befolkning	NOUN		noun.person
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1437.tsv
+# sent_id = 11
+# text = " Du kender ikke muslimerne.
+1	"	"	PUNCT		
+2	Du	du	PRON		
+3	kender	kende	VERB		verb.cognition
+4	ikke	ikke	ADV		
+5	muslimerne	muslim	NOUN		noun.person
+6	.	.	PUNCT		
+
+# newdoc id = DDT-1437.tsv
+# sent_id = 12
+# text =  Det er fantastisk.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	fantastisk	fantastisk	ADJ		adj.all
+4	.	.	PUNCT		
+
+# newdoc id = DDT-1437.tsv
+# sent_id = 13
+# text =  De lyver én lige op i ansigtet, selv_om det er indlysende, at de gør det.
+1	De	den	PRON		
+2	lyver	lyve	VERB		verb.communication
+3	én	én	PRON		
+4	lige	lige	ADV		
+5	op	op	ADV		
+6	i	i	ADP		
+7	ansigtet	ansigt	NOUN		noun.body
+8	,	,	PUNCT		
+9	selv_om	selv_om	CCONJ		
+10	det	det	PRON		
+11	er	være	AUX		verb.stative
+12	indlysende	indlysende	ADJ		adj.mental
+13	,	,	PUNCT		
+14	at	at	SCONJ		
+15	de	den	PRON		
+16	gør	gøre	VERB		verb.act
+17	det	det	PRON		
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1437.tsv
+# sent_id = 14
+# text =  Det er, som_om det er en del af deres kultur."
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	,	,	PUNCT		
+4	som_om	som_om	CCONJ		
+5	det	det	PRON		
+6	er	være	AUX		verb.stative
+7	en	en	DET		
+8	del	del	NOUN		noun.quantity
+9	af	af	ADP		
+10	deres	deres	DET		
+11	kultur	kultur	NOUN		noun.attribute
+12	.	.	PUNCT		
+13	"	"	PUNCT		
+

@@ -1,0 +1,236 @@
+# newdoc id = DDT-1465.tsv
+# sent_id = 1
+# text =  Formanden for Folketingets sundhedsudvalg, fremskridtsmanden Jan Køpke Christensen, sagde i_går, at hans parti, når Folketinget igen mødes, vil fremsætte et forslag om, at der i den danske straffelov indsættes en paragraf, der" klart og tydeligt ulovliggør, at HIV-smittede personer bevidst smitter andre."
+1	Formanden	formand	NOUN		noun.person
+2	for	for	ADP		
+3	Folketingets	folketing	NOUN		noun.institution
+4	sundhedsudvalg	sundhedsudvalg	NOUN		noun.institution
+5	,	,	PUNCT		
+6	fremskridtsmanden	fremskridtsmand	NOUN		noun.person
+7	Jan	jan	PROPN		noun.person
+8	Køpke	køpke	PROPN		noun.person
+9	Christensen	christensen	PROPN		noun.person
+10	,	,	PUNCT		
+11	sagde	sige	VERB		verb.communication
+12	i_går	i_går	NOUN		noun.time
+13	,	,	PUNCT		
+14	at	at	SCONJ		
+15	hans	hans	DET		
+16	parti	parti	NOUN		noun.person
+17	,	,	PUNCT		
+18	når	når	SCONJ		
+19	Folketinget	folketing	NOUN		noun.institution
+20	igen	igen	ADV		
+21	mødes	mødes	VERB		verb.act
+22	,	,	PUNCT		
+23	vil	ville	AUX		
+24	fremsætte	fremsætte	VERB		verb.communication
+25	et	en	DET		
+26	forslag	forslag	NOUN		noun.communication
+27	om	om	ADP		
+28	,	,	PUNCT		
+29	at	at	SCONJ		
+30	der	der	ADV		
+31	i	i	ADP		
+32	den	den	DET		
+33	danske	dansk	ADJ		adj.social
+34	straffelov	straffelov	NOUN		noun.abstract
+35	indsættes	indsætte	VERB		verb.act
+36	en	en	DET		
+37	paragraf	paragraf	NOUN		noun.communication
+38	,	,	PUNCT		
+39	der	der	PRON		
+40	"	"	PUNCT		
+41	klart	klar	ADV		
+42	og	og	CCONJ		
+43	tydeligt	tydelig	ADV		
+44	ulovliggør	ulovliggør	VERB		verb.act
+45	,	,	PUNCT		
+46	at	at	SCONJ		
+47	HIV-smittede	hiv-smittet	ADJ		adj.phys
+48	personer	person	NOUN		noun.person
+49	bevidst	bevidst	ADV		
+50	smitter	smitte	VERB		verb.phenomenon
+51	andre	anden	PRON		
+52	.	.	PUNCT		
+53	"	"	PUNCT		
+
+# newdoc id = DDT-1465.tsv
+# sent_id = 2
+# text =  Jan Købke Christensen henviser til den 34-årige haitianer, der er sigtet for bevidst at have smittet andre med HIV.
+1	Jan	jan	PROPN		noun.person
+2	Købke	købke	PROPN		noun.person
+3	Christensen	christensen	PROPN		noun.person
+4	henviser	henvise	VERB		verb.communication
+5	til	til	ADP		
+6	den	den	DET		
+7	34-årige	34-år	ADJ		adj.time
+8	haitianer	haitianer	NOUN		noun.person
+9	,	,	PUNCT		
+10	der	der	PRON		
+11	er	være	AUX		
+12	sigtet	sigte	VERB		verb.act
+13	for	for	ADP		
+14	bevidst	bevidst	ADJ		
+15	at	at	PART		
+16	have	have	AUX		
+17	smittet	smitte	VERB		verb.phenomenon
+18	andre	anden	PRON		
+19	med	med	ADP		
+20	HIV	hiv	PROPN		noun.disease
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1465.tsv
+# sent_id = 3
+# text =  NÆPPE FLERTAL
+1	NÆPPE	næppe	ADV		
+2	FLERTAL	flertal	NOUN		noun.state
+
+# newdoc id = DDT-1465.tsv
+# sent_id = 4
+# text =  Men umiddelbart ser det ikke ud til, at der kan samles flertal for forslaget i Folketinget.
+1	Men	men	CCONJ		
+2	umiddelbart	umiddelbar	ADV		
+3	ser	se	VERB		verb.phenomenon
+4	det	det	PRON		
+5	ikke	ikke	ADV		
+6	ud	ud	ADV		
+7	til	til	ADP		
+8	,	,	PUNCT		
+9	at	at	SCONJ		
+10	der	der	ADV		
+11	kan	kunne	AUX		
+12	samles	samle	VERB		verb.act
+13	flertal	flertal	NOUN		noun.state
+14	for	for	ADP		
+15	forslaget	forslag	NOUN		noun.communication
+16	i	i	ADP		
+17	Folketinget	folketing	NOUN		noun.institution
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1465.tsv
+# sent_id = 5
+# text = " Vi vil afvente dommen mod den sigtede haitianer," siger Elisabeth Arnold.
+1	"	"	PUNCT		
+2	Vi	vi	PRON		
+3	vil	ville	AUX		
+4	afvente	afvente	VERB		verb.stative
+5	dommen	dom	NOUN		noun.cognition
+6	mod	mod	ADP		
+7	den	den	DET		
+8	sigtede	sigte	VERB		adj.all
+9	haitianer	haitianer	NOUN		noun.person
+10	,	,	PUNCT		
+11	"	"	PUNCT		
+12	siger	sige	VERB		verb.communication
+13	Elisabeth	elisabeth	PROPN		noun.person
+14	Arnold	arnold	PROPN		noun.person
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1465.tsv
+# sent_id = 6
+# text = " Der er jo ikke noget, der tyder på, at han ikke kan dømmes ifølge de to paragraffer, han er sigtet efter.
+1	"	"	PUNCT		
+2	Der	der	PRON		
+3	er	være	VERB		verb.stative
+4	jo	jo	ADV		
+5	ikke	ikke	ADV		
+6	noget	nogen	PRON		
+7	,	,	PUNCT		
+8	der	der	PRON		
+9	tyder	tyde	VERB		verb.phenomenon
+10	på	på	ADP		
+11	,	,	PUNCT		
+12	at	at	SCONJ		
+13	han	han	PRON		
+14	ikke	ikke	ADV		
+15	kan	kunne	AUX		
+16	dømmes	dømme	VERB		verb.cognition
+17	ifølge	ifølge	ADP		
+18	de	den	DET		
+19	to	to	NUM		
+20	paragraffer	paragraf	NOUN		noun.communication
+21	,	,	PUNCT		
+22	han	han	PRON		
+23	er	være	AUX		
+24	sigtet	sigte	VERB		verb.act
+25	efter	efter	ADP		
+26	.	.	PUNCT		
+
+# newdoc id = DDT-1465.tsv
+# sent_id = 7
+# text =  Nemlig at han forsætligt udøver legemsbeskadigelse mod andre og bringer andres liv i fare.
+1	Nemlig	nemlig	ADV		
+2	at	at	SCONJ		
+3	han	han	PRON		
+4	forsætligt	forsætlig	ADV		
+5	udøver	udøve	VERB		verb.act
+6	legemsbeskadigelse	legemsbeskadig	NOUN		noun.act
+7	mod	mod	ADP		
+8	andre	anden	PRON		
+9	og	og	CCONJ		
+10	bringer	bringe	VERB		verb.act
+11	andres	anden	DET		
+12	liv	liv	NOUN		noun.state
+13	i	i	ADP		
+14	fare	fare	NOUN		noun.state
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1465.tsv
+# sent_id = 8
+# text =  Dømmes han, vil en ændring af straffeloven være unødvendig, men frikendes han, vil det måske være relevant.
+1	Dømmes	dømme	VERB		verb.cognition
+2	han	han	PRON		
+3	,	,	PUNCT		
+4	vil	ville	AUX		
+5	en	en	DET		
+6	ændring	ændring	NOUN		noun.act
+7	af	af	ADP		
+8	straffeloven	straffelov	NOUN		noun.abstract
+9	være	være	AUX		verb.stative
+10	unødvendig	unødvendig	ADJ		adj.all
+11	,	,	PUNCT		
+12	men	men	CCONJ		
+13	frikendes	frikende	VERB		verb.cognition
+14	han	han	PRON		
+15	,	,	PUNCT		
+16	vil	ville	AUX		
+17	det	det	PRON		
+18	måske	måske	ADV		
+19	være	være	AUX		verb.stative
+20	relevant	relevant	ADJ		adj.all
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1465.tsv
+# sent_id = 9
+# text =  Men min holdning er, at det vil være langt mere effektivt, hvis lægerne offentligt erklærer, at de vil bryde tavshedspligten," siger Elisabeth Arnold.
+1	Men	men	CCONJ		
+2	min	min	DET		
+3	holdning	holdning	NOUN		noun.cognition
+4	er	være	VERB		verb.stative
+5	,	,	PUNCT		
+6	at	at	SCONJ		
+7	det	det	PRON		
+8	vil	ville	AUX		
+9	være	være	AUX		verb.stative
+10	langt	lang	ADV		
+11	mere	mere	ADV		
+12	effektivt	effektiv	ADJ		adj.all
+13	,	,	PUNCT		
+14	hvis	hvis	SCONJ		
+15	lægerne	læge	NOUN		noun.person
+16	offentligt	offentlig	ADV		
+17	erklærer	erklære	VERB		verb.communication
+18	,	,	PUNCT		
+19	at	at	SCONJ		
+20	de	den	PRON		
+21	vil	ville	AUX		
+22	bryde	bryde	VERB		verb.act
+23	tavshedspligten	tavshedspligt	NOUN		noun.abstract
+24	,	,	PUNCT		
+25	"	"	PUNCT		
+26	siger	sige	VERB		verb.communication
+27	Elisabeth	elisabeth	PROPN		noun.person
+28	Arnold	arnold	PROPN		noun.person
+29	.	.	PUNCT		
+

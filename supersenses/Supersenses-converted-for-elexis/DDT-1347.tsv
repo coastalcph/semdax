@@ -1,0 +1,223 @@
+# newdoc id = DDT-1347.tsv
+# sent_id = 1
+# text =  EF-landene har, som det må være Pia Kjærsgaard bekendt, i flere år samarbejdet om indvandrings- og asylpolitikken, og samarbejdet har bl.a. resulteret i EF-asylkonventionen, der fastlægger, hvilken stat der er ansvarlig for behandlingen af en asylansøgning, der indgives i et EF-medlemsland.
+1	EF-landene	ef-land	NOUN		noun.person
+2	har	have	VERB		
+3	,	,	PUNCT		
+4	som	som	ADP		
+5	det	det	PRON		
+6	må	måtte	AUX		
+7	være	være	AUX		verb.stative
+8	Pia	pia	PROPN		noun.person
+9	Kjærsgaard	kjærsgaard	PROPN		noun.person
+10	bekendt	bekende	VERB		adj.mental
+11	,	,	PUNCT		
+12	i	i	ADP		
+13	flere	flere	ADJ		
+14	år	år	NOUN		
+15	samarbejdet	samarbejde	VERB		verb.act
+16	om	om	ADP		
+17	indvandrings-	indvandrings-	X		noun.abstract
+18	og	og	CCONJ		
+19	asylpolitikken	asylpolitik	NOUN		noun.abstract
+20	,	,	PUNCT		
+21	og	og	CCONJ		
+22	samarbejdet	samarbejde	NOUN		noun.act
+23	har	have	AUX		
+24	bl.a.	bl.a.	ADV		
+25	resulteret	resultere	VERB		verb.phenomenon
+26	i	i	ADP		
+27	EF-asylkonventionen	ef-asylkonvention	NOUN		noun.act
+28	,	,	PUNCT		
+29	der	der	PRON		
+30	fastlægger	fastlægge	VERB		verb.cognition
+31	,	,	PUNCT		
+32	hvilken	hvilken	PRON		
+33	stat	stat	NOUN		noun.institution
+34	der	der	ADV		
+35	er	være	AUX		
+36	ansvarlig	ansvarlig	ADJ		adj.social
+37	for	for	ADP		
+38	behandlingen	behandling	NOUN		noun.act
+39	af	af	ADP		
+40	en	en	DET		
+41	asylansøgning	asylansøgning	NOUN		noun.communication
+42	,	,	PUNCT		
+43	der	der	PRON		
+44	indgives	indgive	VERB		verb.possession
+45	i	i	ADP		
+46	et	en	DET		
+47	EF-medlemsland	ef-medlemsland	NOUN		noun.location
+48	.	.	PUNCT		
+
+# newdoc id = DDT-1347.tsv
+# sent_id = 2
+# text =  Når konventionen træder i kraft, vil man f.eks. kunne forhindre, at asylansøgere indgiver ansøgning i flere lande samtidig, idet ansøgningen kun behandles af ét land.
+1	Når	når	SCONJ		
+2	konventionen	konvention	NOUN		noun.cognition
+3	træder	træde	VERB		verb.aspectual
+4	i	i	ADP		verb.COLL
+5	kraft	kraft	NOUN		verb.COLL
+6	,	,	PUNCT		
+7	vil	ville	AUX		
+8	man	man	PRON		
+9	f.eks.	f.eks.	ADV		
+10	kunne	kunne	AUX		
+11	forhindre	forhindre	VERB		verb.act
+12	,	,	PUNCT		
+13	at	at	SCONJ		
+14	asylansøgere	asylansøger	NOUN		noun.person
+15	indgiver	indgive	VERB		verb.possession
+16	ansøgning	ansøgning	NOUN		noun.communication
+17	i	i	ADP		
+18	flere	flere	ADJ		
+19	lande	land	NOUN		noun.location
+20	samtidig	samtidig	ADV		
+21	,	,	PUNCT		
+22	idet	idet	SCONJ		
+23	ansøgningen	ansøgning	NOUN		noun.communication
+24	kun	kun	ADV		
+25	behandles	behandle	VERB		verb.act
+26	af	af	ADP		
+27	ét	ét	DET		
+28	land	land	NOUN		noun.person
+29	.	.	PUNCT		
+
+# newdoc id = DDT-1347.tsv
+# sent_id = 3
+# text =  Det betyder, at en asylansøger, der først har indgivet sin ansøgning i f.eks. Portugal eller Spanien, ikke som hævdet af Pia Kjærsgaard blot kan vælge at tage til Danmark og få en asylansøgning behandlet her.
+1	Det	det	PRON		
+2	betyder	betyde	VERB		verb.stative
+3	,	,	PUNCT		
+4	at	at	SCONJ		
+5	en	en	DET		
+6	asylansøger	asylansøger	NOUN		noun.person
+7	,	,	PUNCT		
+8	der	der	PRON		
+9	først	først	ADV		
+10	har	have	AUX		
+11	indgivet	indgive	VERB		verb.possession
+12	sin	sin	DET		
+13	ansøgning	ansøgning	NOUN		noun.communication
+14	i	i	ADP		
+15	f.eks.	f.eks.	ADV		
+16	Portugal	portugal	PROPN		noun.location
+17	eller	eller	CCONJ		
+18	Spanien	spanien	PROPN		noun.location
+19	,	,	PUNCT		
+20	ikke	ikke	ADV		
+21	som	som	ADP		
+22	hævdet	hævde	VERB		verb.communication
+23	af	af	ADP		
+24	Pia	pia	PROPN		noun.person
+25	Kjærsgaard	kjærsgaard	PROPN		noun.person
+26	blot	blot	ADV		
+27	kan	kunne	AUX		
+28	vælge	vælge	VERB		verb.cognition
+29	at	at	PART		
+30	tage	tage	VERB		verb.motion
+31	til	til	ADP		
+32	Danmark	danmark	PROPN		noun.location
+33	og	og	CCONJ		
+34	få	få	VERB		verb.phenomenon
+35	en	en	DET		
+36	asylansøgning	asylansøgning	NOUN		noun.communication
+37	behandlet	behandle	VERB		verb.act
+38	her	her	ADV		
+39	.	.	PUNCT		
+
+# newdoc id = DDT-1347.tsv
+# sent_id = 4
+# text =  DET bliver resultatet af den konvention, som EF-landene har udarbejdet som led i samarbejdet om immigrations- og asylområdet.
+1	DET	det	PRON		
+2	bliver	blive	AUX		verb.change
+3	resultatet	resultat	NOUN		noun.phenomenon
+4	af	af	ADP		
+5	den	den	DET		
+6	konvention	konvention	NOUN		noun.cognition
+7	,	,	PUNCT		
+8	som	som	ADP		
+9	EF-landene	ef-land	NOUN		noun.institution
+10	har	have	AUX		
+11	udarbejdet	udarbejde	VERB		verb.creation
+12	som	som	ADP		
+13	led	led	NOUN		noun.relation
+14	i	i	ADP		
+15	samarbejdet	samarbejde	NOUN		noun.act
+16	om	om	ADP		
+17	immigrations-	immigrations-	X		noun.domain
+18	og	og	CCONJ		
+19	asylområdet	asylområde	NOUN		noun.domain
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1347.tsv
+# sent_id = 5
+# text =  Men det har intet med Unionstraktaten at gøre.
+1	Men	men	CCONJ		
+2	det	det	PRON		
+3	har	have	AUX		verb.stative
+4	intet	ingen	PRON		
+5	med	med	ADP		
+6	Unionstraktaten	unionstraktat	NOUN		noun.abstract
+7	at	at	PART		
+8	gøre	gøre	VERB		
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1347.tsv
+# sent_id = 6
+# text =  Det nye i Unionstraktaten er, at det allerede eksisterende samarbejde om immigrations- og asylpolitikken finder en plads inden for traktatens rammer.
+1	Det	det	DET		
+2	nye	ny	ADJ		adj.time
+3	i	i	ADP		
+4	Unionstraktaten	unionstraktat	NOUN		noun.abstract
+5	er	være	VERB		verb.stative
+6	,	,	PUNCT		
+7	at	at	SCONJ		
+8	det	det	PRON		
+9	allerede	allerede	ADV		
+10	eksisterende	eksistere	VERB		adj.time
+11	samarbejde	samarbejde	NOUN		noun.act
+12	om	om	ADP		
+13	immigrations-	immigrations-	X		noun.abstract
+14	og	og	CCONJ		
+15	asylpolitikken	asylpolitik	NOUN		noun.abstract
+16	finder	finde	VERB		verb.phenomenon
+17	en	en	DET		
+18	plads	plads	NOUN		noun.abstract
+19	inden	inden	ADV		
+20	for	for	ADP		
+21	traktatens	traktat	NOUN		noun.abstract
+22	rammer	ramme	NOUN		noun.container
+23	.	.	PUNCT		
+
+# newdoc id = DDT-1347.tsv
+# sent_id = 7
+# text =  Der er stadig tale om et mellemstatsligt samarbejde, men EF-landene har nu ønsket at medtage dette spørgsmål i traktaten som et spørgsmål af fælles interesse.
+1	Der	der	ADV		
+2	er	være	VERB		verb.stative
+3	stadig	stadig	ADV		
+4	tale	tale	NOUN		noun.communication
+5	om	om	ADP		
+6	et	en	DET		
+7	mellemstatsligt	mellemstatslig	ADJ		adj.all
+8	samarbejde	samarbejde	NOUN		noun.act
+9	,	,	PUNCT		
+10	men	men	CCONJ		
+11	EF-landene	ef-land	NOUN		noun.institution
+12	har	have	AUX		
+13	nu	nu	ADV		
+14	ønsket	ønske	VERB		verb.cognition
+15	at	at	PART		
+16	medtage	medtage	VERB		verb.act
+17	dette	denne	DET		
+18	spørgsmål	spørgsmål	NOUN		noun.cognition
+19	i	i	ADP		
+20	traktaten	traktat	NOUN		noun.abstract
+21	som	som	ADP		
+22	et	en	DET		
+23	spørgsmål	spørgsmål	NOUN		noun.cognition
+24	af	af	ADP		
+25	fælles	fælles	ADJ		adj.social
+26	interesse	interesse	NOUN		noun.cognition
+27	.	.	PUNCT		
+

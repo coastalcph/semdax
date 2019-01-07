@@ -1,0 +1,215 @@
+# newdoc id = DDT-1383.tsv
+# sent_id = 1
+# text =  PÅ de fleste uddannelsesinstitutioner er aktivitetskontrollen let at foretage fra uddannelsens start.
+1	PÅ	på	ADP		
+2	de	den	DET		
+3	fleste	mangen	ADJ		
+4	uddannelsesinstitutioner	uddannelsesinstitution	NOUN		noun.institution
+5	er	være	AUX		verb.stative
+6	aktivitetskontrollen	aktivitetskontrol	NOUN		noun.act
+7	let	let	ADJ		
+8	at	at	PART		
+9	foretage	foretage	VERB		verb.act
+10	fra	fra	ADP		
+11	uddannelsens	uddannelse	NOUN		noun.act
+12	start	start	NOUN		noun.time
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1383.tsv
+# sent_id = 2
+# text =  Deltager en elev i undervisning, opgaver og prøver, er man aktiv.
+1	Deltager	deltage	VERB		verb.act
+2	en	en	DET		
+3	elev	elev	NOUN		noun.person
+4	i	i	ADP		
+5	undervisning	undervisning	NOUN		noun.communication
+6	,	,	PUNCT		
+7	opgaver	opgave	NOUN		noun.communication
+8	og	og	CCONJ		
+9	prøver	prøve	VERB		noun.act
+10	,	,	PUNCT		
+11	er	være	AUX		verb.stative
+12	man	man	PRON		
+13	aktiv	aktiv	ADJ		adj.all
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1383.tsv
+# sent_id = 3
+# text =  Hvis ikke, er man inaktiv.
+1	Hvis	hvis	SCONJ		
+2	ikke	ikke	ADV		
+3	,	,	PUNCT		
+4	er	være	AUX		verb.stative
+5	man	man	PRON		
+6	inaktiv	inaktiv	ADJ		adj.all
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1383.tsv
+# sent_id = 4
+# text =  HVOR der ikke er mødepligt, vil der som regel være opgaver og lignende, der muliggør en studieaktivitetskontrol, og deleksaminer er der jo i alle uddannelser.
+1	HVOR	hvor	ADV		
+2	der	der	ADV		
+3	ikke	ikke	ADV		
+4	er	være	VERB		verb.stative
+5	mødepligt	mødepligt	NOUN		noun.cognition
+6	,	,	PUNCT		
+7	vil	ville	AUX		
+8	der	der	ADV		
+9	som	som	ADP		
+10	regel	regel	NOUN		
+11	være	være	AUX		verb.stative
+12	opgaver	opgave	NOUN		noun.communication
+13	og	og	CCONJ		
+14	lignende	ligne	VERB		adj.all
+15	,	,	PUNCT		
+16	der	der	PRON		
+17	muliggør	muliggøre	VERB		verb.stative
+18	en	en	DET		
+19	studieaktivitetskontrol	studieaktivitetskontrol	NOUN		noun.act
+20	,	,	PUNCT		
+21	og	og	CCONJ		
+22	deleksaminer	deleksamin	NOUN		noun.act
+23	er	være	VERB		verb.stative
+24	der	der	ADV		
+25	jo	jo	ADV		
+26	i	i	ADP		
+27	alle	al	ADJ		
+28	uddannelser	uddannelse	NOUN		noun.act
+29	.	.	PUNCT		
+
+# newdoc id = DDT-1383.tsv
+# sent_id = 5
+# text =  Studieaktivitetskontrollen ligger på uddannelsesinstitutionerne.
+1	Studieaktivitetskontrollen	studieaktivitetskontrol	NOUN		noun.act
+2	ligger	ligge	VERB		verb.stative
+3	på	på	ADP		
+4	uddannelsesinstitutionerne	uddannelsesinstitution	NOUN		noun.institution
+5	.	.	PUNCT		
+
+# newdoc id = DDT-1383.tsv
+# sent_id = 6
+# text =  Jeg har ingen grund til at tro, at institutionerne ikke tager denne opgave alvorligt.
+1	Jeg	jeg	PRON		
+2	har	have	VERB		verb.cognition
+3	ingen	ingen	DET		
+4	grund	grund	NOUN		noun.abstract
+5	til	til	ADP		
+6	at	at	PART		
+7	tro	tro	VERB		verb.cognition
+8	,	,	PUNCT		
+9	at	at	SCONJ		
+10	institutionerne	institution	NOUN		noun.institution
+11	ikke	ikke	ADV		
+12	tager	tage	VERB		verb.cognition
+13	denne	denne	DET		
+14	opgave	opgave	NOUN		noun.communication
+15	alvorligt	alvorlig	ADV		
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1383.tsv
+# sent_id = 7
+# text =  En mulighed for snyd kan i sagens natur ligge i uddannelsens første år.
+1	En	en	DET		
+2	mulighed	mulighed	NOUN		noun.abstract
+3	for	for	ADP		
+4	snyd	snyd	NOUN		noun.act
+5	kan	kunne	AUX		
+6	i	i	ADP		
+7	sagens	sag	NOUN		noun.abstract
+8	natur	natur	NOUN		noun.attribute
+9	ligge	ligge	VERB		verb.stative
+10	i	i	ADP		
+11	uddannelsens	uddannelse	NOUN		noun.act
+12	første	først	ADJ		adj.time
+13	år	år	NOUN		noun.time
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1383.tsv
+# sent_id = 8
+# text =  Jeg vil derfor indføre en bestemmelse om, at institutionerne skal gennemføre første aktivitetskontrol senest 6 måneder efter uddannelsens start.
+1	Jeg	jeg	PRON		
+2	vil	ville	AUX		
+3	derfor	derfor	ADV		
+4	indføre	indføre	VERB		verb.act
+5	en	en	DET		
+6	bestemmelse	bestemmelse	NOUN		noun.cognition
+7	om	om	ADP		
+8	,	,	PUNCT		
+9	at	at	SCONJ		
+10	institutionerne	institution	NOUN		noun.institution
+11	skal	skulle	AUX		
+12	gennemføre	gennemføre	VERB		verb.act
+13	første	først	ADJ		adj.time
+14	aktivitetskontrol	aktivitetskontrol	NOUN		noun.act
+15	senest	sen	ADV		
+16	6	6	ADJ		
+17	måneder	måned	NOUN		noun.time
+18	efter	efter	ADP		
+19	uddannelsens	uddannelse	NOUN		noun.act
+20	start	start	NOUN		noun.time
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1383.tsv
+# sent_id = 9
+# text =  JENS Sandfeld Søndergaard hævder, at SU-reglerne er så lempelige, at man kan få fra 3.198 kr. til 38.376 kr. om året uden at vise sig på uddannelsesstedet og uden at åbne en bog.
+1	JENS	jens	PROPN		noun.person
+2	Sandfeld	sandfeld	PROPN		noun.person
+3	Søndergaard	søndergaard	PROPN		noun.person
+4	hævder	hævde	VERB		verb.communication
+5	,	,	PUNCT		
+6	at	at	SCONJ		
+7	SU-reglerne	su-regel	NOUN		noun.cognition
+8	er	være	AUX		verb.stative
+9	så	så	ADV		
+10	lempelige	lempelig	ADJ		adj.all
+11	,	,	PUNCT		
+12	at	at	SCONJ		
+13	man	man	PRON		
+14	kan	kunne	AUX		
+15	få	få	VERB		verb.possession
+16	fra	fra	ADP		
+17	3.198	3.198	ADJ		
+18	kr.	kr.	NOUN		noun.quantity
+19	til	til	ADP		
+20	38.376	38.376	ADJ		
+21	kr.	kr.	NOUN		noun.quantity
+22	om	om	ADP		
+23	året	år	NOUN		noun.time
+24	uden	uden	ADP		
+25	at	at	PART		
+26	vise	vise	VERB		verb.act
+27	sig	sig	PRON		
+28	på	på	ADP		
+29	uddannelsesstedet	uddannelsessted	NOUN		noun.building
+30	og	og	CCONJ		
+31	uden	uden	ADP		
+32	at	at	PART		
+33	åbne	åbne	VERB		verb.motion
+34	en	en	DET		
+35	bog	bog	NOUN		noun.artifact
+36	.	.	PUNCT		
+
+# newdoc id = DDT-1383.tsv
+# sent_id = 10
+# text =  Som eksempel anføres, at hvis en person tjener 300.000 kr., kan vedkommende få uddannelsesstøtte i én måned.
+1	Som	som	ADP		
+2	eksempel	eksempel	NOUN		noun.communication
+3	anføres	anføre	VERB		verb.communication
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	hvis	hvis	SCONJ		
+7	en	en	DET		
+8	person	person	NOUN		noun.person
+9	tjener	tjene	VERB		verb.possession
+10	300.000	300.000	NUM		
+11	kr.	kr.	NOUN		noun.quantity
+12	,	,	PUNCT		
+13	kan	kunne	AUX		
+14	vedkommende	vedkommende	NOUN		noun.person
+15	få	få	VERB		verb.possession
+16	uddannelsesstøtte	uddannelsesstøtte	NOUN		noun.possession
+17	i	i	ADP		
+18	én	én	DET		
+19	måned	måned	NOUN		noun.time
+20	.	.	PUNCT		
+

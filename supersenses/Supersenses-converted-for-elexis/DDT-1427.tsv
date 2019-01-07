@@ -1,0 +1,215 @@
+# newdoc id = DDT-1427.tsv
+# sent_id = 1
+# text =  ANTHONY HOPKINS er ikke kun ond og grusom.
+1	ANTHONY	anthony	PROPN		noun.person
+2	HOPKINS	hopkins	PROPN		noun.person
+3	er	være	AUX		verb.stative
+4	ikke	ikke	ADV		
+5	kun	kun	ADV		
+6	ond	ond	ADJ		adj.mental
+7	og	og	CCONJ		
+8	grusom	grusom	ADJ		adj.mental
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1427.tsv
+# sent_id = 2
+# text =  Han kan også spille the good guy.
+1	Han	han	PRON		
+2	kan	kunne	AUX		
+3	også	også	ADV		
+4	spille	spille	VERB		verb.act
+5	the	the	X		noun.person
+6	good	good	X		noun.person
+7	guy	guy	X		noun.person
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1427.tsv
+# sent_id = 3
+# text =  Det beviser han i FRANCIS FORD COPPOLAS nye film om Dracula, hvor HOPKINS spiller helten Van Helsing, der skal få bugt med udyret.
+1	Det	det	PRON		
+2	beviser	bevise	VERB		verb.communication
+3	han	han	PRON		
+4	i	i	ADP		
+5	FRANCIS	francis	PROPN		noun.person
+6	FORD	ford	PROPN		noun.person
+7	COPPOLAS	coppolas	PROPN		noun.person
+8	nye	ny	ADJ		adj.time
+9	film	film	NOUN		noun.artifact
+10	om	om	ADP		
+11	Dracula	dracula	PROPN		noun.person
+12	,	,	PUNCT		
+13	hvor	hvor	ADV		
+14	HOPKINS	hopkins	PROPN		noun.person
+15	spiller	spille	VERB		verb.act
+16	helten	helt	NOUN		noun.person
+17	Van	van	PROPN		noun.person
+18	Helsing	helsing	PROPN		noun.person
+19	,	,	PUNCT		
+20	der	der	PRON		
+21	skal	skulle	AUX		
+22	få	få	VERB		verb.act
+23	bugt	bugt	NOUN		verb.COLL
+24	med	med	ADP		
+25	udyret	udyr	NOUN		noun.animal
+26	.	.	PUNCT		
+
+# newdoc id = DDT-1427.tsv
+# sent_id = 4
+# text =  Apropos udyr, så har den engelske skuespiller jo også fået bugt med sit eget, alkoholen.
+1	Apropos	apropos	VERB		
+2	udyr	udyr	NOUN		noun.animal
+3	,	,	PUNCT		
+4	så	så	ADV		
+5	har	have	AUX		
+6	den	den	DET		
+7	engelske	engelsk	ADJ		adj.social
+8	skuespiller	skuespiller	NOUN		noun.person
+9	jo	jo	ADV		
+10	også	også	ADV		
+11	fået	få	VERB		verb.act
+12	bugt	bugt	NOUN		verb.COLL
+13	med	med	ADP		
+14	sit	sin	DET		
+15	eget	egen	ADJ		noun.abstract
+16	,	,	PUNCT		
+17	alkoholen	alkohol	NOUN		noun.food
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1427.tsv
+# sent_id = 5
+# text =  Men inden det lykkedes, var han så langt ude, at han nogle morgener vågnede og intet ku' huske fra nattens strabadser.
+1	Men	men	CCONJ		
+2	inden	inden	SCONJ		
+3	det	det	PRON		
+4	lykkedes	lykkes	VERB		verb.aspectual
+5	,	,	PUNCT		
+6	var	være	AUX		verb.stative
+7	han	han	PRON		
+8	så	så	ADV		
+9	langt	lang	ADV		
+10	ude	ude	ADV		
+11	,	,	PUNCT		
+12	at	at	SCONJ		
+13	han	han	PRON		
+14	nogle	nogen	DET		
+15	morgener	morgen	NOUN		noun.time
+16	vågnede	vågne	VERB		verb.change
+17	og	og	CCONJ		
+18	intet	ingen	PRON		
+19	ku'	ku'	AUX		
+20	huske	huske	VERB		verb.cognition
+21	fra	fra	ADP		
+22	nattens	nat	NOUN		noun.time
+23	strabadser	strabadser	NOUN		noun.act
+24	.	.	PUNCT		
+
+# newdoc id = DDT-1427.tsv
+# sent_id = 6
+# text = " Jeg ku' blive i tvivl, om jeg havde myrdet nogen i nattens løb, og var nødt til at gå ud og checke bilen for at se, om der var blod," fortæller HOPKINS.
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	ku'	ku'	AUX		
+4	blive	blive	VERB		verb.change
+5	i	i	ADP		
+6	tvivl	tvivl	NOUN		noun.cognition
+7	,	,	PUNCT		
+8	om	om	SCONJ		
+9	jeg	jeg	PRON		
+10	havde	have	AUX		
+11	myrdet	myrde	VERB		verb.act
+12	nogen	nogen	PRON		
+13	i	i	ADP		
+14	nattens	nat	NOUN		noun.time
+15	løb	løb	NOUN		noun.event
+16	,	,	PUNCT		
+17	og	og	CCONJ		
+18	var	være	AUX		verb.stative
+19	nødt	nødt	ADJ		
+20	til	til	ADP		
+21	at	at	PART		
+22	gå	gå	VERB		verb.motion
+23	ud	ud	ADV		verb.PARTICLE
+24	og	og	CCONJ		
+25	checke	checke	VERB		verb.perception
+26	bilen	bil	NOUN		noun.vehicle
+27	for	for	ADP		
+28	at	at	PART		
+29	se	se	VERB		verb.perception
+30	,	,	PUNCT		
+31	om	om	SCONJ		
+32	der	der	ADV		
+33	var	være	VERB		verb.stative
+34	blod	blod	NOUN		noun.substance
+35	,	,	PUNCT		
+36	"	"	PUNCT		
+37	fortæller	fortælle	VERB		verb.communication
+38	HOPKINS	hopkins	PROPN		noun.person
+39	.	.	PUNCT		
+
+# newdoc id = DDT-1427.tsv
+# sent_id = 7
+# text =  STEVEN SPIELBERG måtte iscenesætte sit eget private eventyr her for_nylig.
+1	STEVEN	steven	PROPN		noun.person
+2	SPIELBERG	spielberg	PROPN		noun.person
+3	måtte	måtte	AUX		
+4	iscenesætte	iscenesætte	VERB		verb.act
+5	sit	sin	DET		
+6	eget	egen	ADJ		
+7	private	privat	ADJ		adj.all
+8	eventyr	eventyr	NOUN		noun.event
+9	her	her	ADV		
+10	for_nylig	for_ny	ADJ		
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1427.tsv
+# sent_id = 8
+# text =  Hans 23-årige nevø Christopher var nemlig forsvundet under en vandretur i Los Angeles National Forest, og da det lokale politi måtte opgive efter to dage, satte SPIELBERG selv to helikoptere på i jagten.
+1	Hans	hans	DET		
+2	23-årige	23-år	ADJ		adj.time
+3	nevø	nevø	NOUN		noun.person
+4	Christopher	christopher	PROPN		noun.person
+5	var	være	AUX		
+6	nemlig	nemlig	ADV		
+7	forsvundet	forsvinde	VERB		verb.phenomenon
+8	under	under	ADP		
+9	en	en	DET		
+10	vandretur	vandretur	NOUN		noun.event
+11	i	i	ADP		
+12	Los	los	PROPN		noun.location
+13	Angeles	angeles	PROPN		noun.location
+14	National	national	PROPN		noun.location
+15	Forest	forest	PROPN		noun.location
+16	,	,	PUNCT		
+17	og	og	CCONJ		
+18	da	da	SCONJ		
+19	det	det	DET		
+20	lokale	lokal	ADJ		adj.social
+21	politi	politi	NOUN		noun.institution
+22	måtte	måtte	AUX		
+23	opgive	opgive	VERB		verb.aspectual
+24	efter	efter	ADP		
+25	to	to	NUM		
+26	dage	dag	NOUN		noun.time
+27	,	,	PUNCT		
+28	satte	sætte	VERB		verb.aspectual
+29	SPIELBERG	spielberg	PROPN		noun.person
+30	selv	selv	PRON		
+31	to	to	VERB		
+32	helikoptere	helikopter	NOUN		noun.vehicle
+33	på	på	ADV		verb.COLL
+34	i	i	ADP		
+35	jagten	jagt	NOUN		noun.act
+36	.	.	PUNCT		
+
+# newdoc id = DDT-1427.tsv
+# sent_id = 9
+# text =  Nevøen blev fundet efter et par timer.
+1	Nevøen	nevø	NOUN		noun.person
+2	blev	blive	AUX		
+3	fundet	finde	VERB		verb.phenomenon
+4	efter	efter	ADP		
+5	et	en	DET		
+6	par	par	NOUN		noun.quantity
+7	timer	timer	NOUN		noun.time
+8	.	.	PUNCT		
+

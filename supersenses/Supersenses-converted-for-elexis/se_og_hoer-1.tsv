@@ -1,0 +1,2325 @@
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 1
+# text =  Men senest har han været i rampelyset for sin grove optræden i" Til middag hos...", hvorfra han blev fyret efter to programmer.
+1	Men	men	CCONJ		
+2	senest	sen	ADV		adj.time
+3	har	have	AUX		
+4	han	han	PRON		
+5	været	være	VERB		verb.stative
+6	i	i	ADP		
+7	rampelyset	rampelys	NOUN		noun.cognition
+8	for	for	ADP		
+9	sin	sin	DET		
+10	grove	grov	ADJ		adj.all
+11	optræden	optræden	NOUN		noun.act
+12	i	i	ADP		
+13	"	"	PUNCT		
+14	Til	til	ADP		noun.communication
+15	middag	middag	NOUN		noun.communication
+16	hos	hos	ADP		noun.communication
+17	.	.	PUNCT		noun.communication
+18	.	.	PUNCT		noun.communication
+19	.	.	PUNCT		noun.communication
+20	"	"	PUNCT		
+21	,	,	PUNCT		
+22	hvorfra	hvorfra	ADV		
+23	han	han	PRON		
+24	blev	blive	AUX		
+25	fyret	fyre	VERB		verb.social
+26	efter	efter	ADP		
+27	to	to	NUM		
+28	programmer	program	NOUN		noun.communication
+29	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 2
+# text =  Oddset- baben Janni Christensen har sammen med Danske Spil været i Sydafrika for at besøge de smukke og luksuriøse omgivelser
+1	Oddset	odds	NOUN		noun.person
+2	-	-	PUNCT		noun.person
+3	baben	bab	NOUN		noun.person
+4	Janni	janni	PROPN		noun.person
+5	Christensen	christensen	PROPN		noun.person
+6	har	have	AUX		
+7	sammen	sammen	ADV		
+8	med	med	ADP		
+9	Danske	dansk	ADJ		noun.institution
+10	Spil	spil	NOUN		noun.institution
+11	været	være	VERB		verb.stative
+12	i	i	ADP		
+13	Sydafrika	sydafrika	PROPN		noun.location
+14	for	for	ADP		
+15	at	at	PART		
+16	besøge	besøge	VERB		verb.social
+17	de	den	DET		
+18	smukke	smuk	ADJ		adj.phys
+19	og	og	CCONJ		
+20	luksuriøse	luksuriøs	ADJ		adj.all
+21	omgivelser	omgivelser	NOUN		noun.location
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 3
+# text =  Lingerifirmaet Triumph stillede forleden en række næsten bare piger på parade i London for at gøre opmærksom på, at de har nogle af verdens mest solgte produkter til de intime dele.
+1	Lingerifirmaet	lingerifirmaet	PROPN		noun.person
+2	Triumph	triumph	PROPN		noun.person
+3	stillede	stille	VERB		verb.act
+4	forleden	forleden	ADV		
+5	en	en	DET		
+6	række	række	NOUN		noun.shape
+7	næsten	næsten	ADV		
+8	bare	bare	ADV		adj.phys
+9	piger	pige	NOUN		noun.person
+10	på	på	ADP		
+11	parade	parade	NOUN		noun.act
+12	i	i	ADP		
+13	London	london	PROPN		noun.location
+14	for	for	ADP		
+15	at	at	PART		
+16	gøre	gøre	VERB		verb.communication
+17	opmærksom	opmærksom	ADJ		verb.COLL
+18	på	på	ADP		
+19	,	,	PUNCT		
+20	at	at	SCONJ		
+21	de	den	PRON		
+22	har	have	AUX		verb.possession
+23	nogle	nogen	PRON		
+24	af	af	ADP		
+25	verdens	verden	NOUN		noun.institution
+26	mest	megen	ADV		
+27	solgte	sælge	VERB		verb.possession
+28	produkter	produkt	NOUN		noun.artifact
+29	til	til	ADP		
+30	de	den	DET		
+31	intime	intim	ADJ		adj.all
+32	dele	del	NOUN		noun.body
+33	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 4
+# text =  Fest, druk og byture Livret:
+1	Fest	fest	NOUN		noun.act
+2	,	,	PUNCT		
+3	druk	druk	NOUN		noun.act
+4	og	og	CCONJ		
+5	byture	bytur	NOUN		noun.event
+6	Livret	livret	VERB		noun.food
+7	:	:	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 5
+# text =  Bagefter afholdes nytårskur for det diplomatiske korps på Christiansborg.
+1	Bagefter	bagefter	ADV		
+2	afholdes	afholde	VERB		verb.social
+3	nytårskur	nytårskur	NOUN		noun.act
+4	for	for	ADP		
+5	det	det	DET		
+6	diplomatiske	diplomatisk	ADJ		adj.social
+7	korps	korps	NOUN		noun.person
+8	på	på	ADP		
+9	Christiansborg	christiansborg	PROPN		noun.location
+10	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 6
+# text =  Stjernerne funklede om kap, da årets amerikanske musikstatuetter blev uddelt i glimmerbyen Los Angeles.
+1	Stjernerne	stjerne	NOUN		noun.person
+2	funklede	funkle	VERB		verb.stative
+3	om	om	ADP		
+4	kap	kap	NOUN		
+5	,	,	PUNCT		
+6	da	da	SCONJ		
+7	årets	år	NOUN		noun.time
+8	amerikanske	amerikansk	ADJ		adj.social
+9	musikstatuetter	musikstatuet	NOUN		noun.artifact
+10	blev	blive	AUX		
+11	uddelt	uddele	VERB		verb.possession
+12	i	i	ADP		
+13	glimmerbyen	glimmerby	NOUN		noun.location
+14	Los	los	PROPN		noun.location
+15	Angeles	angeles	PROPN		noun.location
+16	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 7
+# text =  Er den fra Vestjylland?- Ja, det er den faktisk.
+1	Er	være	AUX		verb.social
+2	den	den	PRON		
+3	fra	fra	ADP		
+4	Vestjylland	vestjylland	PROPN		noun.location
+5	?	?	PUNCT		
+6	-	-	PUNCT		
+7	Ja	ja	INTJ		
+8	,	,	PUNCT		
+9	det	det	PRON		
+10	er	være	AUX		verb.stative
+11	den	den	PRON		
+12	faktisk	faktisk	ADV		
+13	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 8
+# text =  Foto:
+1	Foto	foto	NOUN		
+2	:	:	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 9
+# text =  28- årige Martin Axelgaard er godt på vej til at blive en vaskeægte rockstjerne.
+1	28	28	ADV		adj.time
+2	-	-	PUNCT		adj.time
+3	årige	årig	ADJ		adj.time
+4	Martin	martin	PROPN		noun.person
+5	Axelgaard	axelgaard	PROPN		noun.person
+6	er	være	AUX		verb.change
+7	godt	godte	ADV		
+8	på	på	ADP		verb.COLL
+9	vej	vej	NOUN		verb.COLL
+10	til	til	ADP		
+11	at	at	PART		
+12	blive	blive	AUX		verb.change
+13	en	en	DET		
+14	vaskeægte	vaskeægte	ADJ		adj.all
+15	rockstjerne	rockstjerne	NOUN		noun.person
+16	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 10
+# text =  Da han begyndte at gå flere etager op ad trapper, så han lys for enden af tunnelen.
+1	Da	da	SCONJ		
+2	han	han	PRON		
+3	begyndte	begynde	VERB		verb.aspectual
+4	at	at	PART		
+5	gå	gå	VERB		verb.motion
+6	flere	flere	ADJ		
+7	etager	etage	NOUN		noun.building
+8	op	op	ADV		
+9	ad	ad	ADP		
+10	trapper	trappe	NOUN		noun.artifact
+11	,	,	PUNCT		
+12	så	så	SCONJ		verb.perception
+13	han	han	PRON		
+14	lys	lys	ADJ		noun.phenomenon
+15	for	for	ADP		
+16	enden	ende	NOUN		noun.relation
+17	af	af	ADP		
+18	tunnelen	tunnel	NOUN		noun.building
+19	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 11
+# text =  Anurag Bishnoi er endnu en gang tilfreds med sit arbejde:- Alle tre er sunde børn.
+1	Anurag	anurag	PROPN		noun.person
+2	Bishnoi	bishnoi	PROPN		noun.person
+3	er	være	AUX		verb.stative
+4	endnu	endnu	ADV		
+5	en	en	DET		
+6	gang	gang	NOUN		noun.time
+7	tilfreds	tilfreds	ADJ		adj.mental
+8	med	med	ADP		
+9	sit	sin	DET		
+10	arbejde	arbejde	NOUN		noun.act
+11	:	:	PUNCT		
+12	-	-	PUNCT		
+13	Alle	al	ADJ		
+14	tre	tre	NOUN		
+15	er	være	AUX		verb.stative
+16	sunde	sund	ADJ		adj.all
+17	børn	barn	NOUN		noun.person
+18	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 12
+# text = - veltalende nordjyde, har sammen med journalistkollegaen Søren Kaster ramt en guldåre.
+1	-	-	PUNCT		
+2	veltalende	veltalende	ADJ		adj.all
+3	nordjyde	nordjyd	NOUN		noun.person
+4	,	,	PUNCT		
+5	har	have	AUX		
+6	sammen	sammen	ADV		
+7	med	med	ADP		
+8	journalistkollegaen	journalistkollega	NOUN		noun.person
+9	Søren	søren	PROPN		noun.person
+10	Kaster	kaster	PROPN		noun.person
+11	ramt	ramme	VERB		verb.cognition
+12	en	en	DET		
+13	guldåre	guldåre	NOUN		noun.abstract
+14	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 13
+# text =  efte rtrag tet skuespiller, kan ikke nøjes med at h øste hæder herhjemme.
+1	efte	eft	ADJ		adj.social
+2	rtrag	rtrag	NOUN		adj.social
+3	tet	tet	ADP		adj.social
+4	skuespiller	skuespiller	NOUN		noun.person
+5	,	,	PUNCT		
+6	kan	kunne	AUX		
+7	ikke	ikke	ADV		
+8	nøjes	nøjes	VERB		verb.cognition
+9	med	med	ADP		
+10	at	at	PART		
+11	h	h	VERB		verb.social
+12	øste	øse	ADJ		verb.social
+13	hæder	hæder	NOUN		noun.cognition
+14	herhjemme	herhjemme	ADV		noun.location
+15	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 14
+# text =  Privat er han udstyret med et dårligt sovehjerte og stresser helt vildt over at t ale i telefon.
+1	Privat	privat	ADV		adj.social
+2	er	være	AUX		
+3	han	han	PRON		
+4	udstyret	udstyre	VERB		verb.possession
+5	med	med	ADP		
+6	et	en	DET		
+7	dårligt	dårlig	ADJ		adj.all
+8	sovehjerte	sovehjerte	NOUN		noun.abstract
+9	og	og	CCONJ		
+10	stresser	stresse	NOUN		verb.emotion
+11	helt	helt	ADV		
+12	vildt	vildt	ADV		
+13	over	over	ADP		
+14	at	at	PART		
+15	t	t	VERB		verb.communication
+16	ale	ale	ADV		verb.communication
+17	i	i	ADP		verb.COLL
+18	telefon	telefon	NOUN		verb.COLL
+19	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 15
+# text =  Der er tale om otte programmer med ca. 200 sketcher under fællestitlen" Store Stygge Ulfshow", og de bliver sendt i det nye år.
+1	Der	der	ADV		
+2	er	være	VERB		verb.stative
+3	tale	tale	NOUN		verb.communication
+4	om	om	ADP		
+5	otte	otte	NUM		
+6	programmer	program	NOUN		noun.communication
+7	med	med	ADP		
+8	ca	ca	NOUN		
+9	.	.	PUNCT		
+10	200	200	NUM		
+11	sketcher	sketch	NOUN		noun.communication
+12	under	under	ADP		
+13	fællestitlen	fællestitel	NOUN		noun.communication
+14	"	"	PUNCT		
+15	Store	stor	ADJ		noun.communication
+16	Stygge	stygge	PROPN		noun.communication
+17	Ulfshow	ulfshow	PROPN		noun.communication
+18	"	"	PUNCT		
+19	,	,	PUNCT		
+20	og	og	CCONJ		
+21	de	den	PRON		
+22	bliver	blive	AUX		
+23	sendt	sende	VERB		verb.communication
+24	i	i	ADP		
+25	det	det	DET		
+26	nye	ny	ADJ		adj.time
+27	år	år	NOUN		noun.time
+28	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 16
+# text =  Hun er mor til en søn og farmor til to teenagebørn.
+1	Hun	hun	PRON		
+2	er	være	AUX		verb.stative
+3	mor	mor	NOUN		noun.person
+4	til	til	ADP		
+5	en	en	DET		
+6	søn	søn	NOUN		noun.person
+7	og	og	CCONJ		
+8	farmor	farmor	NOUN		noun.person
+9	til	til	ADP		
+10	to	to	NUM		
+11	teenagebørn	teenagebørn	NOUN		noun.person
+12	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 17
+# text =  Vandmanden Kæreste:
+1	Vandmanden	vandmand	DET		noun.person
+2	Kæreste	kæreste	NOUN		noun.person
+3	:	:	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 18
+# text =  Det skaber dog en del forviklinger og skepsis.
+1	Det	det	PRON		
+2	skaber	skabe	VERB		verb.creation
+3	dog	dog	ADV		
+4	en	en	DET		
+5	del	del	NOUN		noun.quantity
+6	forviklinger	forvikling	NOUN		noun.state
+7	og	og	CCONJ		
+8	skepsis	skepsis	NOUN		noun.cognition
+9	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 19
+# text =  Sidste år blev uret Big Ben lavet i strå, og denne gang har han og personalet kreeret en ti meter høj statue, der forestiller en lækat.
+1	Sidste	sidste	ADJ		adj.time
+2	år	år	NOUN		noun.time
+3	blev	blive	AUX		
+4	uret	uret	NOUN		noun.artifact
+5	Big	big	PROPN		noun.artifact
+6	Ben	ben	PROPN		noun.artifact
+7	lavet	lave	VERB		verb.creation
+8	i	i	ADP		
+9	strå	strå	NOUN		noun.plant
+10	,	,	PUNCT		
+11	og	og	CCONJ		
+12	denne	denne	DET		
+13	gang	gang	NOUN		noun.time
+14	har	have	AUX		
+15	han	han	PRON		
+16	og	og	CCONJ		
+17	personalet	personale	NOUN		noun.person
+18	kreeret	kreere	VERB		verb.creation
+19	en	en	DET		
+20	ti	tie	ADJ		
+21	meter	meter	NOUN		noun.quantity
+22	høj	høj	ADJ		adj.phys
+23	statue	statue	NOUN		noun.artifact
+24	,	,	PUNCT		
+25	der	der	PRON		
+26	forestiller	forestille	VERB		verb.stative
+27	en	en	DET		
+28	lækat	lækat	NOUN		noun.animal
+29	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 20
+# text = - våd kronprinsesse, trodsede regnen, da hun i weekenden deltog i Børnestafetten i Fælledparken, København.
+1	-	-	PUNCT		
+2	våd	våd	ADJ		adj.phys
+3	kronprinsesse	kronprinsesse	NOUN		noun.person
+4	,	,	PUNCT		
+5	trodsede	trodse	VERB		verb.act
+6	regnen	regn	NOUN		noun.phenomenon
+7	,	,	PUNCT		
+8	da	da	SCONJ		
+9	hun	hun	PRON		
+10	i	i	ADP		
+11	weekenden	weekend	NOUN		noun.time
+12	deltog	deltage	VERB		verb.social
+13	i	i	ADP		
+14	Børnestafetten	børnestafet	NOUN		noun.act
+15	i	i	ADP		
+16	Fælledparken	fælledpark	NOUN		noun.location
+17	,	,	PUNCT		
+18	København	københavn	PROPN		noun.location
+19	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 21
+# text =  Det var måske derfor, hun i sin enorme brandert søgte tilflugt på dametoilettet.
+1	Det	det	PRON		
+2	var	være	AUX		verb.stative
+3	måske	måske	ADV		
+4	derfor	derfor	ADV		
+5	,	,	PUNCT		
+6	hun	hun	PRON		
+7	i	i	ADP		
+8	sin	sin	DET		
+9	enorme	enorm	ADJ		adj.all
+10	brandert	brandert	NOUN		noun.state
+11	søgte	søge	VERB		verb.motion
+12	tilflugt	tilflugt	ADV		verb.COLL
+13	på	på	ADP		
+14	dametoilettet	dametoilet	NOUN		
+15	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 22
+# text =  Heldigvis er kærligheden mere end gengældt, afslører Anders.
+1	Heldigvis	heldigvis	ADV		
+2	er	være	AUX		verb.stative
+3	kærligheden	kærlighed	NOUN		noun.feeling
+4	mere	mere	ADJ		
+5	end	ende	ADP		
+6	gengældt	gengælde	NOUN		verb.cognition
+7	,	,	PUNCT		
+8	afslører	afsløre	VERB		verb.communication
+9	Anders	anders	PROPN		noun.person
+10	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 23
+# text =  Claus havde dog overskud til at hilse med knus og kram på de mennesker, der kom forbi hans bord, som var fyldt med lækre drikkevarer.
+1	Claus	claus	PROPN		noun.person
+2	havde	have	AUX		verb.cognition
+3	dog	dog	ADV		
+4	overskud	overskud	VERB		noun.cognition
+5	til	til	ADP		
+6	at	at	PART		
+7	hilse	hilse	VERB		verb.communication
+8	med	med	ADP		
+9	knus	knus	NOUN		noun.act
+10	og	og	CCONJ		
+11	kram	kram	NOUN		noun.act
+12	på	på	ADP		
+13	de	den	DET		
+14	mennesker	menneske	NOUN		noun.person
+15	,	,	PUNCT		
+16	der	der	PRON		
+17	kom	komme	VERB		verb.motion
+18	forbi	forbi	ADV		
+19	hans	hans	DET		
+20	bord	bord	NOUN		noun.artifact
+21	,	,	PUNCT		
+22	som	som	PRON		
+23	var	være	AUX		
+24	fyldt	fylde	VERB		verb.stative
+25	med	med	ADP		
+26	lækre	lækker	ADJ		adj.all
+27	drikkevarer	drikkevarer	NOUN		noun.food
+28	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 24
+# text = - garvet revyskuespiller, har fået en ny hofte.
+1	-	-	PUNCT		
+2	garvet	garvet	ADJ		adj.all
+3	revyskuespiller	revyskuespiller	NOUN		noun.person
+4	,	,	PUNCT		
+5	har	have	AUX		
+6	fået	få	VERB		verb.possession
+7	en	en	DET		
+8	ny	ny	ADJ		adj.time
+9	hofte	hofte	NOUN		noun.body
+10	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 25
+# text =  Mange af sexologens nærmeste har tabt kampen mod den frygtede sygdom.
+1	Mange	mangen	ADJ		
+2	af	af	ADP		
+3	sexologens	sexolog	NOUN		noun.person
+4	nærmeste	nær	ADJ		adj.mental
+5	har	have	AUX		
+6	tabt	tabe	VERB		verb.competition
+7	kampen	kamp	NOUN		noun.act
+8	mod	mod	ADP		
+9	den	den	DET		
+10	frygtede	frygte	VERB		adj.all
+11	sygdom	sygdom	NOUN		noun.disease
+12	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 26
+# text = - travl" Vild med dans"- deltager, nåede også forbi det velbesøgte Royal Copenhagen til Per Hillos fe rnisering i K øbenhavn.
+1	-	-	PUNCT		
+2	travl	travl	ADJ		adj.all
+3	"	"	PUNCT		noun.person
+4	Vild	vild	PROPN		noun.person
+5	med	med	ADP		noun.person
+6	dans	dans	NOUN		noun.person
+7	"	"	PUNCT		noun.person
+8	-	-	PUNCT		noun.person
+9	deltager	deltage	VERB		noun.person
+10	,	,	PUNCT		
+11	nåede	nå	VERB		verb.motion
+12	også	også	ADV		
+13	forbi	forbi	ADP		
+14	det	det	DET		
+15	velbesøgte	velbesøgt	ADJ		adj.social
+16	Royal	royal	PROPN		noun.institution
+17	Copenhagen	copenhagen	PROPN		noun.institution
+18	til	til	ADP		
+19	Per	per	PROPN		noun.person
+20	Hillos	hillos	PROPN		noun.person
+21	fe	fe	VERB		noun.event
+22	rnisering	rnisering	NOUN		noun.event
+23	i	i	ADP		
+24	K	k	PROPN		noun.location
+25	øbenhavn	øbenhavn	NOUN		noun.location
+26	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 27
+# text = - gravid TVAvært, får masser af plads til sin og kæresten Michael Christiansens baby til august, idet parret har købt en 280 kvadratmeter stor lejlighed på Østerbro til 6, 5 millioner kr.
+1	-	-	PUNCT		
+2	gravid	gravid	VERB		adj.phys
+3	TVAvært	tvavært	PROPN		noun.person
+4	,	,	PUNCT		
+5	får	få	VERB		verb.change
+6	masser	masse	NOUN		noun.quantity
+7	af	af	ADP		
+8	plads	plads	NOUN		noun.quantity
+9	til	til	ADP		
+10	sin	sin	DET		
+11	og	og	CCONJ		
+12	kæresten	kæreste	NOUN		noun.person
+13	Michael	michael	PROPN		noun.person
+14	Christiansens	christiansens	PROPN		noun.person
+15	baby	baby	NOUN		noun.person
+16	til	til	ADP		
+17	august	august	NOUN		noun.time
+18	,	,	PUNCT		
+19	idet	idet	SCONJ		
+20	parret	par	NOUN		noun.person
+21	har	have	AUX		
+22	købt	købe	VERB		verb.possession
+23	en	en	DET		
+24	280	280	NUM		
+25	kvadratmeter	kvadratmeter	NOUN		noun.quantity
+26	stor	stor	ADJ		adj.phys
+27	lejlighed	lejlighed	NOUN		noun.building
+28	på	på	ADP		
+29	Østerbro	østerbro	PROPN		noun.location
+30	til	til	ADP		
+31	6	6	NOUN		
+32	,	,	PUNCT		
+33	5	5	ADJ		
+34	millioner	million	NOUN		noun.quantity
+35	kr	kr	NOUN		noun.quantity
+36	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 28
+# text =  Den hemmelige stjerne chokerede alle, da det i foråret 2004 pludselig kom frem, at den dengang 35- årige skuespiller var gravid.
+1	Den	den	DET		
+2	hemmelige	hemmelig	ADJ		adj.social
+3	stjerne	stjerne	NOUN		noun.person
+4	chokerede	chokere	VERB		verb.social
+5	alle	al	ADJ		
+6	,	,	PUNCT		
+7	da	da	SCONJ		
+8	det	det	PRON		
+9	i	i	ADP		
+10	foråret	forår	NOUN		noun.time
+11	2004	2004	NUM		
+12	pludselig	pludselig	ADV		
+13	kom	komme	VERB		verb.communication
+14	frem	frem	ADV		verb.PARTICLE
+15	,	,	PUNCT		
+16	at	at	SCONJ		
+17	den	den	DET		
+18	dengang	dengang	ADV		
+19	35	35	ADV		adj.time
+20	-	-	PUNCT		adj.time
+21	årige	årig	ADJ		adj.time
+22	skuespiller	skuespiller	NOUN		noun.person
+23	var	være	AUX		
+24	gravid	gravid	ADJ		adj.phys
+25	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 29
+# text =  Alverdens pangeksperimenter med garnet sikrer stjernerne lidt ekstra opmærksomhed, og der er ingen grænser for, hvor langt de vil gå for at tiltrække fotograferne.
+1	Alverdens	alverden	ADJ		
+2	pangeksperimenter	pangeksperiment	NOUN		noun.act
+3	med	med	ADP		
+4	garnet	garn	NOUN		noun.artifact
+5	sikrer	sikre	VERB		verb.stative
+6	stjernerne	stjerne	NOUN		noun.person
+7	lidt	lidt	ADV		
+8	ekstra	ekstra	ADJ		
+9	opmærksomhed	opmærksomhed	NOUN		noun.cognition
+10	,	,	PUNCT		
+11	og	og	CCONJ		
+12	der	der	ADV		
+13	er	være	VERB		verb.stative
+14	ingen	ingen	DET		
+15	grænser	grænse	NOUN		noun.attribute
+16	for	for	ADP		
+17	,	,	PUNCT		
+18	hvor	hvor	ADV		
+19	langt	lang	ADV		
+20	de	den	PRON		
+21	vil	ville	AUX		verb.cognition
+22	gå	gå	VERB		verb.social
+23	for	for	ADP		
+24	at	at	PART		
+25	tiltrække	tiltrække	VERB		verb.social
+26	fotograferne	fotograf	NOUN		noun.person
+27	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 30
+# text =  68- årige Har Parkash, eller Mr.
+1	68	68	ADV		adj.time
+2	-	-	PUNCT		adj.time
+3	årige	årig	ADJ		adj.time
+4	Har	har	PROPN		noun.person
+5	Parkash	parkash	PROPN		noun.person
+6	,	,	PUNCT		
+7	eller	eller	CCONJ		
+8	Mr	mr	PROPN		
+9	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 31
+# text = - superslank TVbaronesse, folder sig ud i det nyeste nummer af magasinet BRUDEN.
+1	-	-	PUNCT		
+2	superslank	superslank	VERB		adj.phys
+3	TVbaronesse	tvbaronesse	PROPN		noun.person
+4	,	,	PUNCT		
+5	folder	folde	VERB		verb.act
+6	sig	sig	PRON		verb.REFLPRON
+7	ud	ud	ADV		verb.PARTICLE
+8	i	i	ADP		
+9	det	det	DET		
+10	nyeste	ny	ADJ		adj.time
+11	nummer	nummer	NOUN		noun.communication
+12	af	af	ADP		
+13	magasinet	magasin	NOUN		noun.communication
+14	BRUDEN	brud	NOUN		noun.communication
+15	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 32
+# text = - pålidelig skuespiller, har ikke for vane at aflyse et arrangement, hvor han har meldt sin ankomst.
+1	-	-	PUNCT		
+2	pålidelig	pålidelig	ADJ		adj.social
+3	skuespiller	skuespiller	NOUN		noun.person
+4	,	,	PUNCT		
+5	har	have	AUX		verb.cognition
+6	ikke	ikke	ADV		
+7	for	for	ADP		verb.COLL
+8	vane	vane	NOUN		verb.COLL
+9	at	at	PART		
+10	aflyse	aflyse	VERB		verb.communication
+11	et	en	DET		
+12	arrangement	arrangement	NOUN		noun.event
+13	,	,	PUNCT		
+14	hvor	hvor	ADV		
+15	han	han	PRON		
+16	har	have	AUX		
+17	meldt	melde	VERB		verb.communication
+18	sin	sin	DET		
+19	ankomst	ankomst	NOUN		noun.act
+20	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 33
+# text =  Det er første gang, dronningen og prinsen besøger Færøerne, siden de lagde vejen forbi i 2005 sammen med Mary og Frederik.
+1	Det	det	PRON		
+2	er	være	AUX		
+3	første	først	ADJ		adj.time
+4	gang	gang	NOUN		noun.time
+5	,	,	PUNCT		
+6	dronningen	dronning	NOUN		noun.person
+7	og	og	CCONJ		
+8	prinsen	prins	NOUN		noun.person
+9	besøger	besøge	VERB		verb.social
+10	Færøerne	færøerne	PROPN		noun.institution
+11	,	,	PUNCT		
+12	siden	siden	SCONJ		
+13	de	den	PRON		
+14	lagde	lægge	VERB		verb.motion
+15	vejen	vej	NOUN		verb.COLL
+16	forbi	forbi	ADV		verb.COLL
+17	i	i	ADP		
+18	2005	2005	NUM		noun.time
+19	sammen	sammen	ADV		
+20	med	med	ADP		
+21	Mary	mary	PROPN		noun.person
+22	og	og	CCONJ		
+23	Frederik	frederik	PROPN		noun.person
+24	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 34
+# text =  Den inkarnerede FCK- fan Dan Rachlin ville hellere i biffen end at fejre sit favoritholds mesterskabsfest i Parken
+1	Den	den	DET		
+2	inkarnerede	inkarneret	ADJ		adj.mental
+3	FCK	fck	PROPN		noun.person
+4	-	-	PUNCT		noun.person
+5	fan	fan	VERB		noun.person
+6	Dan	dan	PROPN		noun.person
+7	Rachlin	rachlin	PROPN		noun.person
+8	ville	ville	AUX		verb.emotion
+9	hellere	hellere	ADV		
+10	i	i	ADP		
+11	biffen	bif	NOUN		noun.building
+12	end	ende	ADP		
+13	at	at	PART		
+14	fejre	fejre	VERB		verb.social
+15	sit	sin	DET		
+16	favoritholds	favorithold	ADJ		noun.person
+17	mesterskabsfest	mesterskabsfest	NOUN		noun.event
+18	i	i	ADP		
+19	Parken	park	NOUN		noun.building
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 35
+# text =  Stine, som er smukkere end nogensinde, ønsker ikke at fortælle SE og HØR, hvad vægttabet skyldes, og præcis hvor mange kilo der er røget.
+1	Stine	stine	PROPN		noun.person
+2	,	,	PUNCT		
+3	som	som	PRON		
+4	er	være	AUX		verb.stative
+5	smukkere	smuk	ADJ		adj.phys
+6	end	ende	ADP		
+7	nogensinde	nogensinde	PRON		
+8	,	,	PUNCT		
+9	ønsker	ønske	VERB		verb.emotion
+10	ikke	ikke	ADV		
+11	at	at	PART		
+12	fortælle	fortælle	VERB		verb.communication
+13	SE	se	PROPN		noun.communication
+14	og	og	CCONJ		noun.communication
+15	HØR	hør	PROPN		noun.communication
+16	,	,	PUNCT		
+17	hvad	hvad	PRON		
+18	vægttabet	vægttab	NOUN		noun.act
+19	skyldes	skyldes	VERB		verb.stative
+20	,	,	PUNCT		
+21	og	og	CCONJ		
+22	præcis	præcis	ADV		
+23	hvor	hvor	ADV		
+24	mange	mangen	ADJ		
+25	kilo	kilo	NOUN		noun.quantity
+26	der	der	ADV		
+27	er	være	AUX		
+28	røget	røge	VERB		verb.motion
+29	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 36
+# text =  Det er traditionelt herovre, forklarer han.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	traditionelt	traditionel	ADV		adj.social
+4	herovre	herovre	ADV		
+5	,	,	PUNCT		
+6	forklarer	forklare	VERB		verb.communication
+7	han	han	PRON		
+8	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 37
+# text =  Også produktionsleder Lotte Lindegaard fra produktionsselskabet STV får røde ører.
+1	Også	også	ADV		
+2	produktionsleder	produktionsleder	NOUN		noun.person
+3	Lotte	lotte	PROPN		noun.person
+4	Lindegaard	lindegaard	PROPN		noun.person
+5	fra	fra	ADP		
+6	produktionsselskabet	produktionsselskab	NOUN		noun.institution
+7	STV	stv	PROPN		noun.institution
+8	får	få	VERB		
+9	røde	rød	ADJ		adj.phys
+10	ører	øre	NOUN		noun.body
+11	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 38
+# text =  I sidste uge blev det store prestigebyggeri i Dubai endelig indviet med et flot fyrværkeri.
+1	I	i	ADP		
+2	sidste	sidste	ADJ		adj.time
+3	uge	uge	NOUN		noun.time
+4	blev	blive	AUX		
+5	det	det	DET		
+6	store	stor	ADJ		adj.phys
+7	prestigebyggeri	prestigebyggeri	NOUN		noun.building
+8	i	i	ADP		
+9	Dubai	dubai	PROPN		noun.location
+10	endelig	endelig	ADV		
+11	indviet	indvie	VERB		verb.social
+12	med	med	ADP		
+13	et	en	DET		
+14	flot	flot	ADJ		adj.all
+15	fyrværkeri	fyrværkeri	NOUN		noun.artifact
+16	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 39
+# text =  Hvis man stod øverst, gjaldt det om at holde tungen lige i munden og håbe på, at de nederste holdkammerater kunne holde balancen.
+1	Hvis	hvis	SCONJ		
+2	man	man	PRON		
+3	stod	stå	VERB		verb.stative
+4	øverst	øverst	ADV		
+5	,	,	PUNCT		
+6	gjaldt	gælde	VERB		verb.stative
+7	det	det	PRON		
+8	om	om	ADP		verb.COLL
+9	at	at	PART		
+10	holde	holde	VERB		verb.stative
+11	tungen	tunge	NOUN		noun.body
+12	lige	lige	ADV		adj.phys
+13	i	i	ADP		
+14	munden	mund	NOUN		noun.body
+15	og	og	CCONJ		
+16	håbe	håbe	VERB		verb.emotion
+17	på	på	ADP		
+18	,	,	PUNCT		
+19	at	at	SCONJ		
+20	de	den	DET		
+21	nederste	nederst	ADJ		
+22	holdkammerater	holdkammerat	NOUN		noun.person
+23	kunne	kunne	AUX		
+24	holde	holde	VERB		verb.stative
+25	balancen	balance	NOUN		noun.state
+26	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 40
+# text = - Jeg har virkelig arbejdet på at få Jannis ja i flere år, og det lykkedes først at komme i bukserne på hende for et par måneder siden, sagde den åbenhjertige charlatan.
+1	-	-	PUNCT		
+2	Jeg	jeg	PRON		
+3	har	have	AUX		
+4	virkelig	virkelig	ADV		
+5	arbejdet	arbejde	VERB		verb.social
+6	på	på	ADP		
+7	at	at	PART		
+8	få	få	VERB		verb.possession
+9	Jannis	jannis	DET		noun.person
+10	ja	ja	NOUN		
+11	i	i	ADP		
+12	flere	flere	ADJ		
+13	år	år	NOUN		noun.time
+14	,	,	PUNCT		
+15	og	og	CCONJ		
+16	det	det	PRON		
+17	lykkedes	lykkes	VERB		verb.social
+18	først	først	ADV		
+19	at	at	PART		
+20	komme	komme	VERB		verb.social
+21	i	i	ADP		verb.COLL
+22	bukserne	bukser	NOUN		verb.COLL
+23	på	på	ADP		verb.COLL
+24	hende	hun	PRON		
+25	for	for	ADP		
+26	et	en	DET		
+27	par	par	NOUN		noun.quantity
+28	måneder	måned	NOUN		noun.time
+29	siden	siden	ADV		
+30	,	,	PUNCT		
+31	sagde	sige	VERB		verb.communication
+32	den	den	DET		
+33	åbenhjertige	åbenhjertig	ADJ		adj.mental
+34	charlatan	charlatan	NOUN		noun.person
+35	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 41
+# text =  Entertaineren fik en havetraktor i fællesgave af vennerne, så han kunne runde det skarpe hjørne med stil.
+1	Entertaineren	entertainer	NOUN		noun.person
+2	fik	få	VERB		verb.possession
+3	en	en	DET		
+4	havetraktor	havetraktor	NOUN		noun.vehicle
+5	i	i	ADP		
+6	fællesgave	fællesgav	NOUN		noun.possession
+7	af	af	ADP		
+8	vennerne	ven	NOUN		noun.person
+9	,	,	PUNCT		
+10	så	så	SCONJ		
+11	han	han	PRON		
+12	kunne	kunne	AUX		
+13	runde	runde	VERB		verb.motion
+14	det	det	DET		
+15	skarpe	skarp	ADJ		adj.phys
+16	hjørne	hjørne	NOUN		noun.location
+17	med	med	ADP		
+18	stil	stil	NOUN		noun.attribute
+19	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 42
+# text =  I hvert fald har det ene rykket sig, så selv om det kun er et år siden, hun sidst fik forlygterne ordnet, må hun nu under kniven igen.
+1	I	i	ADP		
+2	hvert	hver	DET		
+3	fald	fald	NOUN		
+4	har	have	AUX		
+5	det	det	DET		
+6	ene	ene	ADJ		
+7	rykket	rykke	VERB		verb.motion
+8	sig	sig	PRON		
+9	,	,	PUNCT		
+10	så	så	ADV		
+11	selv	selv	ADV		
+12	om	om	ADP		
+13	det	det	PRON		
+14	kun	kun	ADV		
+15	er	være	AUX		verb.stative
+16	et	en	DET		
+17	år	år	NOUN		noun.time
+18	siden	siden	ADV		
+19	,	,	PUNCT		
+20	hun	hun	PRON		
+21	sidst	sidst	ADV		
+22	fik	få	VERB		
+23	forlygterne	forlygte	NOUN		noun.body
+24	ordnet	ordne	NOUN		verb.change
+25	,	,	PUNCT		
+26	må	måtte	AUX		
+27	hun	hun	PRON		
+28	nu	nu	ADV		
+29	under	under	ADP		
+30	kniven	kniv	NOUN		noun.artifact
+31	igen	igen	ADV		
+32	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 43
+# text =  Det bliver en super aften, og jeg glæder mig rigtigt meget.
+1	Det	det	PRON		
+2	bliver	blive	AUX		verb.stative
+3	en	en	DET		
+4	super	super	ADJ		adj.all
+5	aften	aften	NOUN		noun.time
+6	,	,	PUNCT		
+7	og	og	CCONJ		
+8	jeg	jeg	PRON		
+9	glæder	glæde	VERB		verb.emotion
+10	mig	jeg	PRON		verb.REFLPRON
+11	rigtigt	rigtig	ADV		
+12	meget	megen	ADV		
+13	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 44
+# text =  Det var en rødkindet Michèle Bellaiche, som måtte se, hvordan Robbie Williams åbnede bukserne, hev ned i Calvin K lein- boksershortsene og blottede sin behårede numse under interviewet til" Go' aften Danmark".
+1	Det	det	PRON		
+2	var	være	AUX		verb.stative
+3	en	en	DET		
+4	rødkindet	rødkindet	NOUN		adj.phys
+5	Michèle	michèle	PROPN		noun.person
+6	Bellaiche	bellaiche	PROPN		noun.person
+7	,	,	PUNCT		
+8	som	som	PRON		
+9	måtte	måtte	AUX		
+10	se	se	VERB		verb.perception
+11	,	,	PUNCT		
+12	hvordan	hvordan	ADV		
+13	Robbie	robbie	PROPN		noun.person
+14	Williams	williams	PROPN		noun.person
+15	åbnede	åbne	VERB		verb.act
+16	bukserne	bukser	NOUN		noun.artifact
+17	,	,	PUNCT		
+18	hev	hive	VERB		verb.motion
+19	ned	ned	ADV		verb.PARTICLE
+20	i	i	ADP		
+21	Calvin	calvin	PROPN		noun.artifact
+22	K	k	PROPN		noun.artifact
+23	lein	lein	NOUN		noun.artifact
+24	-	-	PUNCT		noun.artifact
+25	boksershortsene	boksershorts	NOUN		noun.artifact
+26	og	og	CCONJ		
+27	blottede	blotte	VERB		verb.act
+28	sin	sin	DET		
+29	behårede	behåret	ADJ		adj.phys
+30	numse	numse	NOUN		noun.body
+31	under	under	ADP		
+32	interviewet	interview	NOUN		noun.communication
+33	til	til	ADP		
+34	"	"	PUNCT		
+35	Go	go	PROPN		noun.communication
+36	'	'	PUNCT		noun.communication
+37	aften	aften	NOUN		noun.communication
+38	Danmark	danmark	PROPN		noun.communication
+39	"	"	PUNCT		
+40	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 45
+# text = - laber tennisgodte, hygger sig rigtig i fritiden efter sæsonafslutningen.
+1	-	-	PUNCT		
+2	laber	laber	VERB		adj.all
+3	tennisgodte	tennisgod	NOUN		noun.person
+4	,	,	PUNCT		
+5	hygger	hygge	VERB		verb.social
+6	sig	sig	PRON		verb.REFLPRON
+7	rigtig	rigtig	ADV		
+8	i	i	ADP		
+9	fritiden	fritid	NOUN		noun.time
+10	efter	efter	ADP		
+11	sæsonafslutningen	sæsonafslutning	NOUN		noun.time
+12	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 46
+# text =  Fra onsdag spiller hun hovedrollen i Det Ny Teaters opsæt ning af Disneys filmklassiker" Mary Poppins".
+1	Fra	fra	ADP		
+2	onsdag	onsdag	NOUN		noun.time
+3	spiller	spille	VERB		verb.act
+4	hun	hun	PRON		
+5	hovedrollen	hovedrolle	NOUN		noun.person
+6	i	i	ADP		
+7	Det	det	DET		noun.person
+8	Ny	ny	ADJ		noun.person
+9	Teaters	teater	NOUN		noun.person
+10	opsæt	opsætte	ADJ		noun.act
+11	ning	ning	NOUN		noun.act
+12	af	af	ADP		
+13	Disneys	disneys	PROPN		noun.person
+14	filmklassiker	filmklassik	NOUN		noun.communication
+15	"	"	PUNCT		
+16	Mary	mary	PROPN		noun.communication
+17	Poppins	poppins	PROPN		noun.communication
+18	"	"	PUNCT		
+19	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 47
+# text =  Til sidst måtte Karina presse sig helt ind til Kurt og placere hans hænder på sine hofter.
+1	Til	til	ADP		
+2	sidst	sidst	ADV		
+3	måtte	måtte	AUX		verb.emotion
+4	Karina	karina	PROPN		noun.person
+5	presse	presse	VERB		verb.motion
+6	sig	sig	PRON		
+7	helt	helt	ADV		
+8	ind	ind	ADV		
+9	til	til	ADP		
+10	Kurt	kurt	PROPN		noun.person
+11	og	og	CCONJ		
+12	placere	placere	VERB		verb.motion
+13	hans	hans	DET		
+14	hænder	hånd	NOUN		noun.body
+15	på	på	ADP		
+16	sine	sin	DET		
+17	hofter	hofte	NOUN		noun.body
+18	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 48
+# text =  De danske darlings græd som pisket i nederlagets stund.
+1	De	den	DET		
+2	danske	dansk	ADJ		adj.social
+3	darlings	darling	NOUN		noun.person
+4	græd	græde	VERB		verb.body
+5	som	som	ADP		
+6	pisket	piske	VERB		verb.contact
+7	i	i	ADP		
+8	nederlagets	nederlag	NOUN		noun.act
+9	stund	stund	NOUN		noun.time
+10	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 49
+# text =  I sidste uge viste han den frem til Fords årlige messe i Californien.
+1	I	i	ADP		
+2	sidste	sidste	ADJ		adj.time
+3	uge	uge	NOUN		noun.time
+4	viste	vise	VERB		verb.social
+5	han	han	PRON		
+6	den	den	PRON		
+7	frem	frem	ADV		verb.COLL
+8	til	til	ADP		
+9	Fords	fords	PROPN		noun.person
+10	årlige	årlig	ADJ		adj.time
+11	messe	messe	NOUN		noun.event
+12	i	i	ADP		
+13	Californien	californien	PROPN		noun.location
+14	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 50
+# text = - pensioneret muskelbundt, stævner forsikringsselskabet Aros, fordi han endnu ikke har fået de 2, 5 millioner kr. udbetalt, som han føler sig berettiget til.- Arbejdsskadestyrelsen mener, jeg har mistet 65 procent af min erhvervsevne, men forsikringsselskabet holder på pengene, selv om de skulle være betalt den 26. december, siger George.
+1	-	-	PUNCT		
+2	pensioneret	pensionere	VERB		adj.social
+3	muskelbundt	muskelbundt	NOUN		noun.person
+4	,	,	PUNCT		
+5	stævner	stævne	NOUN		verb.social
+6	forsikringsselskabet	forsikringsselskab	NOUN		noun.institution
+7	Aros	aros	PROPN		noun.institution
+8	,	,	PUNCT		
+9	fordi	fordi	SCONJ		
+10	han	han	PRON		
+11	endnu	endnu	ADV		
+12	ikke	ikke	ADV		
+13	har	have	AUX		
+14	fået	få	VERB		
+15	de	den	DET		
+16	2	2	NUM		
+17	,	,	PUNCT		
+18	5	5	ADJ		
+19	millioner	million	NOUN		noun.quantity
+20	kr	kr	NOUN		
+21	.	.	PUNCT		noun.quantity
+22	udbetalt	udbetale	VERB		verb.possession
+23	,	,	PUNCT		
+24	som	som	PRON		
+25	han	han	PRON		
+26	føler	føle	VERB		verb.emotion
+27	sig	sig	PRON		verb.REFLPRON
+28	berettiget	berettige	VERB		adj.social
+29	til	til	ADP		
+30	.	.	PUNCT		
+31	-	-	PUNCT		
+32	Arbejdsskadestyrelsen	arbejdsskadestyrelsen	PROPN		noun.person
+33	mener	mene	VERB		verb.cognition
+34	,	,	PUNCT		
+35	jeg	jeg	PRON		
+36	har	have	AUX		
+37	mistet	miste	VERB		verb.social
+38	65	65	NUM		
+39	procent	procent	NOUN		noun.quantity
+40	af	af	ADP		
+41	min	min	DET		
+42	erhvervsevne	erhvervsevne	NOUN		noun.attribute
+43	,	,	PUNCT		
+44	men	men	CCONJ		
+45	forsikringsselskabet	forsikringsselskab	NOUN		noun.person
+46	holder	holde	VERB		verb.stative
+47	på	på	ADP		
+48	pengene	penge	NOUN		noun.artifact
+49	,	,	PUNCT		
+50	selv	selv	ADV		
+51	om	om	ADP		
+52	de	den	PRON		
+53	skulle	skulle	AUX		
+54	være	være	AUX		
+55	betalt	betale	VERB		verb.possession
+56	den	den	PRON		
+57	26	26	ADV		
+58	.	.	PUNCT		
+59	december	december	NOUN		noun.time
+60	,	,	PUNCT		
+61	siger	sige	VERB		verb.communication
+62	George	george	PROPN		noun.person
+63	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 51
+# text =  Ved ettiden begyndte deltagerne at sive.
+1	Ved	ved	ADP		
+2	ettiden	ettiden	NOUN		noun.time
+3	begyndte	begynde	VERB		verb.aspectual
+4	deltagerne	deltager	NOUN		noun.person
+5	at	at	PART		
+6	sive	sive	VERB		verb.motion
+7	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 52
+# text =  Den snart 50- årige entertainer kom i godt humør til sin premierer- ligesom alle gæsterne.
+1	Den	den	DET		
+2	snart	snart	ADV		
+3	50	50	NUM		adj.time
+4	-	-	PUNCT		adj.time
+5	årige	årig	ADJ		adj.time
+6	entertainer	entertainer	NOUN		noun.person
+7	kom	komme	VERB		verb.change
+8	i	i	ADP		
+9	godt	god	ADJ		adj.all
+10	humør	humør	NOUN		noun.feeling
+11	til	til	ADP		
+12	sin	sin	DET		
+13	premierer	premiere	NOUN		noun.event
+14	-	-	PUNCT		
+15	ligesom	ligesom	SCONJ		
+16	alle	al	ADJ		
+17	gæsterne	gæst	NOUN		noun.person
+18	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 53
+# text =  Tia Carrere er vokset op på Hawaii sammen med sin mor og sine to søskende.
+1	Tia	tia	PROPN		noun.person
+2	Carrere	carrere	PROPN		noun.person
+3	er	være	AUX		
+4	vokset	vokse	VERB		verb.social
+5	op	op	ADV		verb.PARTICLE
+6	på	på	ADP		
+7	Hawaii	hawaii	PROPN		noun.location
+8	sammen	sammen	ADV		
+9	med	med	ADP		
+10	sin	sin	DET		
+11	mor	mor	NOUN		noun.person
+12	og	og	CCONJ		
+13	sine	sin	DET		
+14	to	to	ADJ		
+15	søskende	søskende	NOUN		noun.person
+16	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 54
+# text =  Hun mente, at hun var bedre og flottere til den, fortæller Ciano.
+1	Hun	hun	PRON		
+2	mente	mene	VERB		verb.cognition
+3	,	,	PUNCT		
+4	at	at	SCONJ		
+5	hun	hun	PRON		
+6	var	være	AUX		verb.stative
+7	bedre	god	ADJ		adj.all
+8	og	og	CCONJ		
+9	flottere	flot	VERB		adj.phys
+10	til	til	ADP		
+11	den	den	PRON		
+12	,	,	PUNCT		
+13	fortæller	fortælle	VERB		verb.communication
+14	Ciano	ciano	NOUN		noun.person
+15	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 55
+# text =  Til gengæld frydede Casper Christensen sig over, at han og fru Iben ikke var blevet opfordret til at betale.
+1	Til	til	ADP		
+2	gengæld	gengæld	NOUN		
+3	frydede	fryde	VERB		verb.emotion
+4	Casper	casper	PROPN		noun.person
+5	Christensen	christensen	PROPN		noun.person
+6	sig	sig	PRON		verb.REFLPRON
+7	over	over	ADP		
+8	,	,	PUNCT		
+9	at	at	SCONJ		
+10	han	han	PRON		
+11	og	og	CCONJ		
+12	fru	fru	X		noun.person
+13	Iben	iben	PROPN		noun.person
+14	ikke	ikke	ADV		
+15	var	være	AUX		
+16	blevet	blive	AUX		
+17	opfordret	opfordre	VERB		verb.communication
+18	til	til	ADP		
+19	at	at	PART		
+20	betale	betale	VERB		verb.possession
+21	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 56
+# text =  Føreren af bilen her kørte ved et uheld ud over skrænten på Fredensbro og ned i vandet.
+1	Føreren	fører	NOUN		noun.person
+2	af	af	ADP		
+3	bilen	bil	NOUN		noun.vehicle
+4	her	her	ADV		
+5	kørte	køre	VERB		verb.motion
+6	ved	ved	ADP		
+7	et	en	DET		
+8	uheld	uheld	NOUN		noun.act
+9	ud	ud	ADV		
+10	over	over	ADP		
+11	skrænten	skrænt	NOUN		noun.location
+12	på	på	ADP		
+13	Fredensbro	fredensbro	PROPN		noun.location
+14	og	og	CCONJ		
+15	ned	ned	ADV		
+16	i	i	ADP		
+17	vandet	vand	NOUN		noun.location
+18	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 57
+# text =  Han prøver at løfte en squash, der måske vejer mere, end han selv gør- nemlig hele 50 kilo.
+1	Han	han	PRON		
+2	prøver	prøve	VERB		verb.act
+3	at	at	PART		
+4	løfte	løfte	VERB		verb.motion
+5	en	en	DET		
+6	squash	squash	NOUN		noun.plant
+7	,	,	PUNCT		
+8	der	der	PRON		
+9	måske	måske	ADV		
+10	vejer	veje	VERB		verb.stative
+11	mere	mere	ADV		
+12	,	,	PUNCT		
+13	end	ende	ADP		
+14	han	han	PRON		
+15	selv	selv	PRON		
+16	gør	gøre	VERB		verb.stative
+17	-	-	PUNCT		
+18	nemlig	nemlig	ADV		
+19	hele	hel	ADJ		adj.all
+20	50	50	NUM		
+21	kilo	kilo	NOUN		noun.quantity
+22	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 58
+# text = - laber musicalstjerne, får nu chancen for at v ise sin frække side.
+1	-	-	PUNCT		
+2	laber	laber	VERB		adj.all
+3	musicalstjerne	musicalstj	NOUN		noun.person
+4	,	,	PUNCT		
+5	får	få	VERB		verb.stative
+6	nu	nu	ADV		
+7	chancen	chance	NOUN		noun.state
+8	for	for	ADP		
+9	at	at	PART		
+10	v	v	VERB		verb.perception
+11	ise	ise	X		verb.perception
+12	sin	sin	DET		
+13	frække	fræk	ADJ		adj.all
+14	side	side	NOUN		noun.attribute
+15	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 59
+# text =  Penge, som han netop har overrakt Børnecancerfonden ved en ceremoni på Torvet i Ringe.
+1	Penge	penge	NOUN		noun.artifact
+2	,	,	PUNCT		
+3	som	som	PRON		
+4	han	han	PRON		
+5	netop	netop	ADV		
+6	har	have	AUX		
+7	overrakt	overrække	VERB		verb.possession
+8	Børnecancerfonden	børnecancerfond	NOUN		noun.person
+9	ved	ved	ADP		
+10	en	en	DET		
+11	ceremoni	ceremoni	NOUN		noun.event
+12	på	på	ADP		
+13	Torvet	torvet	PROPN		noun.location
+14	i	i	ADP		
+15	Ringe	ringe	PROPN		noun.location
+16	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 60
+# text =  Københavns Metro var ikke med på listen, og det havde nok også været en kold fornøjelse.
+1	Københavns	københavns	PROPN		noun.institution
+2	Metro	metro	NOUN		noun.institution
+3	var	være	AUX		verb.stative
+4	ikke	ikke	ADV		
+5	med	med	ADV		
+6	på	på	ADP		
+7	listen	listen	NOUN		noun.cognition
+8	,	,	PUNCT		
+9	og	og	CCONJ		
+10	det	det	PRON		
+11	havde	have	AUX		
+12	nok	nok	ADV		
+13	også	også	ADV		
+14	været	være	AUX		verb.stative
+15	en	en	DET		
+16	kold	kold	ADJ		adj.phys
+17	fornøjelse	fornøjelse	NOUN		noun.act
+18	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 61
+# text =  Reportage:
+1	Reportage	reportage	NOUN		noun.communication
+2	:	:	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 62
+# text =  Jeg danser hele tiden og hører altid vild musik.
+1	Jeg	jeg	PRON		
+2	danser	danse	VERB		verb.motion
+3	hele	hel	ADJ		adj.all
+4	tiden	tid	NOUN		noun.time
+5	og	og	CCONJ		
+6	hører	høre	VERB		verb.perception
+7	altid	altid	ADV		
+8	vild	vild	ADJ		adj.all
+9	musik	musik	NOUN		noun.communication
+10	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 63
+# text =  Men det vakte dog en del opsigt, at hun strippede på landets nationalscene, når de fleste dengang mest kendte hende som den pæne pige i film som" Charles' tante" ( 1959) og" Baronessen fra benzintanken" ( 1960).
+1	Men	men	CCONJ		
+2	det	det	PRON		
+3	vakte	vakt	VERB		verb.social
+4	dog	dog	ADV		
+5	en	en	DET		
+6	del	del	NOUN		
+7	opsigt	opsigt	NOUN		verb.COLL
+8	,	,	PUNCT		
+9	at	at	SCONJ		
+10	hun	hun	PRON		
+11	strippede	strippe	VERB		verb.body
+12	på	på	ADP		
+13	landets	land	NOUN		noun.institution
+14	nationalscene	nationalscene	NOUN		noun.building
+15	,	,	PUNCT		
+16	når	når	SCONJ		
+17	de	den	DET		
+18	fleste	mangen	ADJ		
+19	dengang	dengang	NOUN		
+20	mest	megen	ADV		
+21	kendte	kende	VERB		verb.cognition
+22	hende	hun	PRON		
+23	som	som	ADP		
+24	den	den	DET		
+25	pæne	pæn	ADJ		adj.all
+26	pige	pige	NOUN		noun.person
+27	i	i	ADP		
+28	film	film	NOUN		noun.communication
+29	som	som	ADP		
+30	"	"	PUNCT		
+31	Charles	charles	PROPN		noun.communication
+32	'	'	PUNCT		noun.communication
+33	tante	tante	NOUN		noun.communication
+34	"	"	PUNCT		
+35	(	(	PUNCT		
+36	1959	1959	NUM		noun.time
+37	)	)	PUNCT		
+38	og	og	CCONJ		
+39	"	"	PUNCT		
+40	Baronessen	baronesse	NOUN		noun.communication
+41	fra	fra	ADP		noun.communication
+42	benzintanken	benzintank	NOUN		noun.communication
+43	"	"	PUNCT		
+44	(	(	PUNCT		
+45	1960	1960	NUM		noun.time
+46	)	)	PUNCT		
+47	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 64
+# text = - flittig eks- videnskabsminister, har stillet en gratis bus til rådighed for sine jyske venner og familie fra Herning- Ikast- egnen, så de kan være med til hans 60- års fødselsdag fredag den 27. august.
+1	-	-	PUNCT		
+2	flittig	flittig	ADJ		adj.all
+3	eks	ekse	NOUN		noun.person
+4	-	-	PUNCT		noun.person
+5	videnskabsminister	videnskabsminist	NOUN		noun.person
+6	,	,	PUNCT		
+7	har	have	AUX		
+8	stillet	stille	VERB		verb.possession
+9	en	en	DET		
+10	gratis	gratis	ADJ		adj.all
+11	bus	bus	NOUN		noun.vehicle
+12	til	til	ADP		verb.COLL
+13	rådighed	rådighed	NOUN		verb.COLL
+14	for	for	ADP		
+15	sine	sin	DET		
+16	jyske	jysk	ADJ		adj.social
+17	venner	ven	NOUN		noun.person
+18	og	og	CCONJ		
+19	familie	familie	NOUN		noun.person
+20	fra	fra	ADP		
+21	Herning	herning	PROPN		noun.location
+22	-	-	PUNCT		noun.location
+23	Ikast	ikast	PROPN		noun.location
+24	-	-	PUNCT		noun.location
+25	egnen	egn	NOUN		noun.location
+26	,	,	PUNCT		
+27	så	så	SCONJ		
+28	de	den	PRON		
+29	kan	kunne	AUX		
+30	være	være	AUX		verb.social
+31	med	med	ADV		verb.PARTICLE
+32	til	til	ADP		
+33	hans	hans	DET		
+34	60	60	NUM		
+35	-	-	PUNCT		
+36	års	år	DET		noun.time
+37	fødselsdag	fødselsdag	NOUN		noun.event
+38	fredag	fredag	NOUN		noun.time
+39	den	den	PRON		
+40	27	27	ADV		
+41	.	.	PUNCT		
+42	august	august	NOUN		noun.time
+43	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 65
+# text =  1 Supersmukke Fergie kunne ikke lade være med at vise formerne frem på den røde løber..
+1	1	1	ADP		
+2	Supersmukke	supersmukke	PROPN		adj.phys
+3	Fergie	fergie	PROPN		noun.person
+4	kunne	kunne	AUX		
+5	ikke	ikke	ADV		
+6	lade	lade	VERB		verb.cognition
+7	være	være	AUX		verb.PARTICLE
+8	med	med	ADP		
+9	at	at	PART		
+10	vise	vise	VERB		verb.social
+11	formerne	former	NOUN		noun.body
+12	frem	frem	ADV		verb.PARTICLE
+13	på	på	ADP		
+14	den	den	DET		noun.location
+15	røde	rød	ADJ		noun.location
+16	løber	løber	NOUN		noun.location
+17	.	.	PUNCT		
+18	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 66
+# text =  Hvorfor kan en computer så være hunkøn?
+1	Hvorfor	hvorfor	ADV		
+2	kan	kunne	AUX		
+3	en	en	DET		
+4	computer	computer	NOUN		noun.artifact
+5	så	så	ADV		
+6	være	være	AUX		verb.stative
+7	hunkøn	hunkøn	NOUN		noun.attribute
+8	?	?	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 67
+# text =  Den asiatiske tiger er egentlig ved at uddø, men den slags er der jo råd for.
+1	Den	den	DET		
+2	asiatiske	asiatisk	ADJ		adj.social
+3	tiger	tiger	NOUN		noun.animal
+4	er	være	AUX		verb.aspectual
+5	egentlig	egentlig	ADV		
+6	ved	ved	ADP		verb.COLL
+7	at	at	PART		verb.COLL
+8	uddø	uddø	VERB		verb.change
+9	,	,	PUNCT		
+10	men	men	CCONJ		
+11	den	den	DET		
+12	slags	slags	NOUN		noun.cognition
+13	er	være	AUX		verb.stative
+14	der	der	ADV		
+15	jo	jo	ADV		
+16	råd	råd	NOUN		noun.cognition
+17	for	for	ADP		
+18	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 68
+# text =  Flemming Østergaard foretrak at beholde armene om livet på Sofie frem for at bruge dem til at slæbe golfkøller.
+1	Flemming	flemming	PROPN		noun.person
+2	Østergaard	østergaard	PROPN		noun.person
+3	foretrak	foretrække	ADP		verb.cognition
+4	at	at	PART		
+5	beholde	beholde	VERB		verb.stative
+6	armene	arm	NOUN		noun.body
+7	om	om	ADP		
+8	livet	liv	NOUN		noun.body
+9	på	på	ADP		
+10	Sofie	sofie	PROPN		noun.person
+11	frem	frem	ADV		
+12	for	for	ADP		
+13	at	at	PART		
+14	bruge	bruge	VERB		verb.act
+15	dem	de	PRON		
+16	til	til	ADP		
+17	at	at	PART		
+18	slæbe	slæbe	VERB		verb.motion
+19	golfkøller	golfkølle	NOUN		noun.artifact
+20	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 69
+# text =  Filmen dyster om prisen New Talent Grand PIX på film- lmfestivalen CPH PIX 2010, der afholdes i festivalen København fra den 15. til den 25. april.
+1	Filmen	film	NOUN		noun.communication
+2	dyster	dyster	ADV		verb.competition
+3	om	om	ADP		
+4	prisen	prise	NOUN		noun.communication
+5	New	new	PROPN		noun.communication
+6	Talent	talent	PROPN		noun.communication
+7	Grand	grand	PROPN		noun.communication
+8	PIX	pix	PROPN		noun.communication
+9	på	på	ADP		
+10	film	film	NOUN		noun.event
+11	-	-	PUNCT		noun.event
+12	lmfestivalen	lmfestival	NOUN		noun.event
+13	CPH	cph	PROPN		noun.event
+14	PIX	pix	PROPN		noun.event
+15	2010	2010	NUM		noun.event
+16	,	,	PUNCT		
+17	der	der	PRON		
+18	afholdes	afholde	VERB		verb.social
+19	i	i	ADP		
+20	festivalen	festival	NOUN		
+21	København	københavn	PROPN		noun.location
+22	fra	fra	ADP		
+23	den	den	DET		
+24	15	15	ADV		
+25	.	.	PUNCT		
+26	til	til	ADP		
+27	den	den	DET		
+28	25	25	ADJ		
+29	.	.	PUNCT		
+30	april	april	NOUN		noun.time
+31	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 70
+# text =  Er blevet bortført på Sardinien, anholdt af politiet og var engang på ferie ene kvinde med 98 mænd.
+1	Er	være	AUX		
+2	blevet	blive	AUX		
+3	bortført	bortføre	VERB		verb.motion
+4	på	på	ADP		
+5	Sardinien	sardinien	PROPN		noun.location
+6	,	,	PUNCT		
+7	anholdt	anholde	VERB		verb.communication
+8	af	af	ADP		
+9	politiet	politi	NOUN		noun.person
+10	og	og	CCONJ		
+11	var	være	VERB		verb.stative
+12	engang	engang	ADV		
+13	på	på	ADP		verb.COLL
+14	ferie	ferie	NOUN		verb.COLL
+15	ene	ene	ADJ		
+16	kvinde	kvinde	NOUN		noun.person
+17	med	med	ADP		
+18	98	98	ADJ		
+19	mænd	mand	NOUN		noun.person
+20	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 71
+# text =  Mine venner og kæreste Livret:
+1	Mine	mine	DET		
+2	venner	ven	NOUN		noun.person
+3	og	og	CCONJ		
+4	kæreste	kær	ADJ		noun.person
+5	Livret	livret	NOUN		noun.food
+6	:	:	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 72
+# text =  og Der var ingen hakken i snakken, måske skyldtes den nyvundne selvtillid kronpr insens nye seje manchetknapkronprinsens nye seje manchetknapper, per, der ellers mest lignede nogle, man kunne at se til en børnefødkunne forvente at se til en børnefødselsdag. selsdag.
+1	og	og	CCONJ		
+2	Der	der	ADV		
+3	var	være	VERB		verb.stative
+4	ingen	ingen	DET		
+5	hakken	hakken	NOUN		noun.act
+6	i	i	ADP		
+7	snakken	snakken	NOUN		noun.communication
+8	,	,	PUNCT		
+9	måske	måske	ADV		
+10	skyldtes	skyldes	VERB		verb.stative
+11	den	den	DET		
+12	nyvundne	nyvundn	ADJ		adj.all
+13	selvtillid	selvtillid	NOUN		noun.feeling
+14	kronpr	kronpr	VERB		noun.person
+15	insens	ins	NOUN		noun.person
+16	nye	ny	ADJ		adj.time
+17	seje	sej	ADJ		adj.all
+18	manchetknapkronprinsens	manchetknapkronprins	NOUN		
+19	nye	ny	ADJ		
+20	seje	sej	ADJ		
+21	manchetknapper	manchetknap	NOUN		noun.artifact
+22	,	,	PUNCT		
+23	per	per	PRON		
+24	,	,	PUNCT		
+25	der	der	ADV		
+26	ellers	ellers	ADV		
+27	mest	megen	ADV		
+28	lignede	ligne	VERB		verb.cognition
+29	nogle	nogen	PRON		
+30	,	,	PUNCT		
+31	man	man	PRON		
+32	kunne	kunne	AUX		
+33	at	at	PART		
+34	se	se	VERB		
+35	til	til	ADP		
+36	en	en	DET		
+37	børnefødkunne	børnefødkun	NOUN		
+38	forvente	forvente	VERB		verb.cognition
+39	at	at	PART		
+40	se	se	VERB		verb.perception
+41	til	til	ADP		
+42	en	en	DET		
+43	børnefødselsdag	børnefødselsdag	NOUN		noun.event
+44	.	.	PUNCT		
+45	selsdag	selsdag	NOUN		
+46	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 73
+# text =  Finn Nielsen er oprindelig udlært tøjhandler, men har både danset ballet og været fynsk mester i dans.
+1	Finn	finn	PROPN		noun.person
+2	Nielsen	nielsen	PROPN		noun.person
+3	er	være	AUX		
+4	oprindelig	oprindelig	ADV		adj.all
+5	udlært	udlært	ADJ		
+6	tøjhandler	tøjhandl	NOUN		noun.person
+7	,	,	PUNCT		
+8	men	men	CCONJ		
+9	har	have	VERB		
+10	både	både	ADV		
+11	danset	danse	VERB		verb.act
+12	ballet	ballet	NOUN		verb.COLL
+13	og	og	CCONJ		
+14	været	være	AUX		verb.stative
+15	fynsk	fynsk	ADJ		adj.social
+16	mester	mester	NOUN		noun.person
+17	i	i	ADP		
+18	dans	dans	NOUN		noun.act
+19	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 74
+# text =  Evakostume Mit idol:
+1	Evakostume	evakostume	PROPN		noun.body
+2	Mit	min	DET		
+3	idol	idol	NOUN		noun.person
+4	:	:	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 75
+# text =  Foto:
+1	Foto	foto	NOUN		
+2	:	:	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 76
+# text =  For det er en hård tid, de går i møde!.
+1	For	for	ADP		
+2	det	det	PRON		
+3	er	være	AUX		verb.stative
+4	en	en	DET		
+5	hård	hård	ADJ		adj.social
+6	tid	tid	NOUN		noun.time
+7	,	,	PUNCT		
+8	de	den	PRON		
+9	går	gå	VERB		verb.motion
+10	i	i	ADP		verb.COLL
+11	møde	møde	NOUN		verb.COLL
+12	!	!	PUNCT		
+13	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 77
+# text =  Kun en uge efter deres første møde blev den 11- årige pige gravid.
+1	Kun	kun	ADV		
+2	en	en	DET		
+3	uge	uge	NOUN		noun.time
+4	efter	efter	ADP		
+5	deres	deres	DET		
+6	første	først	ADJ		adj.time
+7	møde	møde	NOUN		noun.act
+8	blev	blive	AUX		verb.change
+9	den	den	DET		
+10	11	11	ADV		adj.time
+11	-	-	PUNCT		adj.time
+12	årige	årig	ADJ		adj.time
+13	pige	pige	NOUN		noun.person
+14	gravid	gravid	VERB		adj.phys
+15	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 78
+# text =  Her fik hun en 4.- plads.
+1	Her	her	ADV		
+2	fik	få	VERB		verb.competition
+3	hun	hun	PRON		
+4	en	en	DET		
+5	4	4	ADJ		noun.communication
+6	.	.	PUNCT		noun.communication
+7	-	-	PUNCT		noun.communication
+8	plads	plads	NOUN		noun.communication
+9	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 79
+# text =  Chanée & n' evergreen var i Oslo i næsten to uger, men efter den første uge dukkede kæresterne op.
+1	Chanée	chanée	PROPN		noun.person
+2	&	&	CCONJ		
+3	n	n	X		noun.person
+4	'	'	PUNCT		noun.person
+5	evergreen	evergreen	ADV		noun.person
+6	var	være	AUX		verb.stative
+7	i	i	ADP		
+8	Oslo	oslo	PROPN		noun.location
+9	i	i	ADP		
+10	næsten	næsten	ADV		
+11	to	to	NUM		
+12	uger	uge	NOUN		noun.time
+13	,	,	PUNCT		
+14	men	men	CCONJ		
+15	efter	efter	ADP		
+16	den	den	DET		
+17	første	først	ADJ		adj.time
+18	uge	uge	NOUN		noun.time
+19	dukkede	dukke	VERB		verb.motion
+20	kæresterne	kæreste	NOUN		noun.person
+21	op	op	ADV		verb.PARTICLE
+22	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 80
+# text =  Brødrene Mads og Lars Mikkelsen tog deres teenagebørn med til den glamourøse prisuddeling og lokkede dem efterfølgende med til den våde efterfest.
+1	Brødrene	brødrene	PROPN		noun.person
+2	Mads	mads	PROPN		noun.person
+3	og	og	CCONJ		
+4	Lars	lars	PROPN		noun.person
+5	Mikkelsen	mikkelsen	PROPN		noun.person
+6	tog	toge	VERB		verb.social
+7	deres	deres	DET		
+8	teenagebørn	teenagebørn	NOUN		noun.person
+9	med	med	ADV		
+10	til	til	ADP		
+11	den	den	DET		
+12	glamourøse	glamourøs	ADJ		adj.all
+13	prisuddeling	prisuddeling	NOUN		noun.event
+14	og	og	CCONJ		
+15	lokkede	lokke	VERB		verb.communication
+16	dem	de	PRON		
+17	efterfølgende	efterfølge	ADV		
+18	med	med	ADV		
+19	til	til	ADP		
+20	den	den	DET		
+21	våde	våd	ADJ		adj.all
+22	efterfest	efterfest	NOUN		noun.event
+23	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 81
+# text =  Hun tændte ikke videre på fulderikkerne, så en af realityveteranens venner måtte lige markere ved at råbe:" Kan du ikke se, at det er Sonny fra Robinson?".
+1	Hun	hun	PRON		
+2	tændte	tænde	VERB		verb.cognition
+3	ikke	ikke	ADV		
+4	videre	videre	ADV		
+5	på	på	ADP		
+6	fulderikkerne	fulderik	NOUN		noun.person
+7	,	,	PUNCT		
+8	så	så	SCONJ		
+9	en	en	PRON		
+10	af	af	ADP		
+11	realityveteranens	realityveteran	NOUN		noun.person
+12	venner	ven	NOUN		noun.person
+13	måtte	måtte	AUX		verb.emotion
+14	lige	lige	ADV		
+15	markere	markere	VERB		verb.communication
+16	ved	ved	ADP		
+17	at	at	PART		
+18	råbe	råbe	VERB		verb.communication
+19	:	:	PUNCT		
+20	"	"	PUNCT		
+21	Kan	kunne	AUX		
+22	du	du	PRON		
+23	ikke	ikke	ADV		
+24	se	se	VERB		verb.perception
+25	,	,	PUNCT		
+26	at	at	SCONJ		
+27	det	det	PRON		
+28	er	være	AUX		
+29	Sonny	sonny	PROPN		noun.person
+30	fra	fra	ADP		
+31	Robinson	robinson	PROPN		noun.communication
+32	?	?	PUNCT		
+33	"	"	PUNCT		
+34	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 82
+# text = - Det gør man på kirkekontoret, og det er bare en formssag, siger advokat Rita Simonsen fra Odense.
+1	-	-	PUNCT		
+2	Det	det	PRON		
+3	gør	gøre	VERB		verb.act
+4	man	man	PRON		
+5	på	på	ADP		
+6	kirkekontoret	kirkekontor	NOUN		noun.building
+7	,	,	PUNCT		
+8	og	og	CCONJ		
+9	det	det	PRON		
+10	er	være	AUX		verb.stative
+11	bare	bare	ADV		
+12	en	en	DET		
+13	formssag	formssag	NOUN		noun.cognition
+14	,	,	PUNCT		
+15	siger	sige	VERB		verb.communication
+16	advokat	advokat	NOUN		noun.person
+17	Rita	rita	PROPN		noun.person
+18	Simonsen	simonsen	PROPN		noun.person
+19	fra	fra	ADP		
+20	Odense	odense	PROPN		noun.location
+21	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 83
+# text =  Tårerne trillede ned ad kinderne på dem begge, og den ellers så rå rockmor knugede sig ind til sine nærmeste for derpå at stikke armen ind i rustvognen og røre sin mors kiste en sidste gang.
+1	Tårerne	tåre	NOUN		noun.body
+2	trillede	trille	VERB		verb.motion
+3	ned	ned	ADV		
+4	ad	ad	ADP		
+5	kinderne	kind	NOUN		noun.body
+6	på	på	ADP		
+7	dem	de	PRON		
+8	begge	begge	PRON		
+9	,	,	PUNCT		
+10	og	og	CCONJ		
+11	den	den	PRON		
+12	ellers	ellers	ADV		
+13	så	så	ADV		
+14	rå	rå	ADJ		adj.all
+15	rockmor	rockmor	NOUN		noun.person
+16	knugede	knuge	VERB		verb.contact
+17	sig	sig	PRON		
+18	ind	ind	ADV		
+19	til	til	ADP		
+20	sine	sin	DET		
+21	nærmeste	nær	ADJ		
+22	for	for	ADP		
+23	derpå	derpå	ADV		
+24	at	at	PART		
+25	stikke	stikke	VERB		verb.motion
+26	armen	arm	NOUN		noun.body
+27	ind	ind	ADV		
+28	i	i	ADP		
+29	rustvognen	rustvogn	NOUN		noun.vehicle
+30	og	og	CCONJ		
+31	røre	røre	VERB		verb.contact
+32	sin	sin	DET		
+33	mors	morse	ADJ		noun.person
+34	kiste	kiste	NOUN		noun.container
+35	en	en	DET		
+36	sidste	sidste	ADJ		adj.time
+37	gang	gang	NOUN		noun.time
+38	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 84
+# text =  i 1984, hvor fodboldmålmanden Ole Qvist sagde stop på den flere måder.
+1	i	i	ADP		
+2	1984	1984	NOUN		noun.time
+3	,	,	PUNCT		
+4	hvor	hvor	ADV		
+5	fodboldmålmanden	fodboldmålmand	NOUN		noun.person
+6	Ole	ole	PROPN		noun.person
+7	Qvist	qvist	PROPN		noun.person
+8	sagde	sige	VERB		verb.communication
+9	stop	stop	NOUN		
+10	på	på	ADP		
+11	den	den	DET		
+12	flere	flere	ADJ		
+13	måder	måde	NOUN		
+14	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 85
+# text = - pensioneret fodboldlegende med bopæl i Spanien, tog langt væk fra Europa i årets sidste dage.
+1	-	-	PUNCT		
+2	pensioneret	pensionere	VERB		adj.social
+3	fodboldlegende	fodboldleg	NOUN		noun.person
+4	med	med	ADP		
+5	bopæl	bopæl	NOUN		noun.location
+6	i	i	ADP		
+7	Spanien	spanien	PROPN		noun.location
+8	,	,	PUNCT		
+9	tog	toge	VERB		verb.motion
+10	langt	lang	ADV		
+11	væk	væk	ADV		
+12	fra	fra	ADP		
+13	Europa	europa	PROPN		noun.location
+14	i	i	ADP		
+15	årets	år	NOUN		noun.time
+16	sidste	sidste	ADJ		adj.time
+17	dage	dag	NOUN		noun.time
+18	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 86
+# text =  Hans far, den berømte østrigske skiløber Ernst Hinterseer, der også var hans træner, havde tårnhøje forventninger til sønnen, som imidlertid ikke kunne leve op til de høje krav.
+1	Hans	hans	DET		
+2	far	far	NOUN		noun.person
+3	,	,	PUNCT		
+4	den	den	DET		
+5	berømte	berømt	ADJ		adj.social
+6	østrigske	østrigsk	ADJ		adj.social
+7	skiløber	skiløber	NOUN		noun.person
+8	Ernst	ernst	PROPN		noun.person
+9	Hinterseer	hinterseer	PROPN		noun.person
+10	,	,	PUNCT		
+11	der	der	ADV		
+12	også	også	ADV		
+13	var	være	AUX		verb.stative
+14	hans	hans	DET		
+15	træner	træner	NOUN		noun.person
+16	,	,	PUNCT		
+17	havde	have	AUX		
+18	tårnhøje	tårnhøj	ADJ		
+19	forventninger	forventning	NOUN		noun.cognition
+20	til	til	ADP		
+21	sønnen	søn	NOUN		noun.person
+22	,	,	PUNCT		
+23	som	som	PRON		
+24	imidlertid	imidlertid	ADV		
+25	ikke	ikke	ADV		
+26	kunne	kunne	AUX		verb.social
+27	leve	leve	VERB		verb.cognition
+28	op	op	ADV		verb.PARTICLE
+29	til	til	ADP		verb.COLL
+30	de	den	DET		
+31	høje	høj	ADJ		adj.all
+32	krav	krav	NOUN		noun.cognition
+33	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 87
+# text =  SBSTV.
+1	SBSTV	sbstv	NOUN		
+2	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 88
+# text =  Den labre skuespiller har ingen kæreste og bor fortsat alene i lejligheden i West Hollywood.
+1	Den	den	DET		
+2	labre	laber	ADJ		adj.all
+3	skuespiller	skuespiller	NOUN		noun.person
+4	har	have	VERB		
+5	ingen	ingen	DET		
+6	kæreste	kæreste	NOUN		noun.person
+7	og	og	CCONJ		
+8	bor	bore	VERB		verb.stative
+9	fortsat	fortsætte	ADV		
+10	alene	alene	ADV		adj.social
+11	i	i	ADP		
+12	lejligheden	lejlighed	NOUN		noun.building
+13	i	i	ADP		
+14	West	west	PROPN		noun.location
+15	Hollywood	hollywood	PROPN		noun.location
+16	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 89
+# text =  Pangs mor påstår, at datteren lider af en genetisk fejl, men lægerne i lokalområdet kan ikke se, at Pang skulle fejle noget som helst.
+1	Pangs	pangs	PROPN		noun.person
+2	mor	mor	NOUN		noun.person
+3	påstår	påstå	VERB		verb.communication
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	datteren	datter	NOUN		noun.person
+7	lider	lide	VERB		verb.emotion
+8	af	af	ADP		
+9	en	en	DET		
+10	genetisk	genetisk	ADJ		adj.phys
+11	fejl	fejl	NOUN		noun.attribute
+12	,	,	PUNCT		
+13	men	men	CCONJ		
+14	lægerne	læge	NOUN		noun.person
+15	i	i	ADP		
+16	lokalområdet	lokalområde	NOUN		noun.location
+17	kan	kunne	AUX		
+18	ikke	ikke	ADV		
+19	se	se	VERB		verb.perception
+20	,	,	PUNCT		
+21	at	at	SCONJ		
+22	Pang	pang	PROPN		noun.person
+23	skulle	skulle	AUX		
+24	fejle	fejle	VERB		verb.stative
+25	noget	nogen	PRON		
+26	som	som	ADP		
+27	helst	helst	ADV		
+28	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 90
+# text =  & Mrs.
+1	&	&	CCONJ		
+2	Mrs	mrs	PROPN		noun.person
+3	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 91
+# text =  Førstepræmien er fire billetter til Parken den 22. maj samt overnatning på Hotel Scandic for to voksne og to børn ( under 13 år) inklusive morgenmad- dog med forbehold for fuldt bookede hoteller.
+1	Førstepræmien	førstepræmien	PROPN		noun.communication
+2	er	være	AUX		
+3	fire	fire	ADJ		
+4	billetter	billet	NOUN		noun.communication
+5	til	til	ADP		
+6	Parken	park	NOUN		noun.building
+7	den	den	PRON		
+8	22	22	ADV		
+9	.	.	PUNCT		
+10	maj	maj	NOUN		noun.time
+11	samt	samt	CCONJ		
+12	overnatning	overnatning	NOUN		noun.act
+13	på	på	ADP		
+14	Hotel	hotel	NOUN		noun.building
+15	Scandic	scandic	PROPN		noun.building
+16	for	for	ADP		
+17	to	to	NUM		
+18	voksne	voksen	ADJ		noun.person
+19	og	og	CCONJ		
+20	to	to	NUM		
+21	børn	barn	NOUN		noun.person
+22	(	(	PUNCT		
+23	under	under	ADP		
+24	13	13	DET		
+25	år	år	NOUN		noun.time
+26	)	)	PUNCT		
+27	inklusive	inklusive	ADP		
+28	morgenmad	morgenmad	NOUN		noun.food
+29	-	-	PUNCT		
+30	dog	dog	ADV		
+31	med	med	ADP		
+32	forbehold	forbehold	NOUN		noun.cognition
+33	for	for	ADP		
+34	fuldt	fuld	ADV		
+35	bookede	booke	VERB		verb.social
+36	hoteller	hotel	NOUN		noun.building
+37	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 92
+# text =  Glæden ville ingen ende tage, da Copenhagen Drummers løb med den velfortjente sejr.
+1	Glæden	glæde	NOUN		noun.feeling
+2	ville	ville	AUX		
+3	ingen	ingen	DET		
+4	ende	ende	NOUN		verb.change
+5	tage	tage	VERB		
+6	,	,	PUNCT		
+7	da	da	SCONJ		
+8	Copenhagen	copenhagen	PROPN		noun.person
+9	Drummers	drummers	PROPN		noun.person
+10	løb	løb	NOUN		verb.competition
+11	med	med	ADP		
+12	den	den	DET		
+13	velfortjente	velfortjent	ADJ		adj.social
+14	sejr	sejr	NOUN		noun.cognition
+15	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 93
+# text =  Måske er det rockinteressen, der gør, at Mogensen udtaler sig på engelsk, da SE og HØR beder om hans kommentar til forholdet.
+1	Måske	måske	ADV		
+2	er	være	AUX		verb.stative
+3	det	det	PRON		
+4	rockinteressen	rockinteres	NOUN		noun.cognition
+5	,	,	PUNCT		
+6	der	der	PRON		
+7	gør	gøre	VERB		verb.cognition
+8	,	,	PUNCT		
+9	at	at	SCONJ		
+10	Mogensen	mogensen	PROPN		noun.person
+11	udtaler	udtale	VERB		verb.communication
+12	sig	sig	PRON		verb.REFLPRON
+13	på	på	ADP		
+14	engelsk	engelsk	NOUN		noun.communication
+15	,	,	PUNCT		
+16	da	da	SCONJ		
+17	SE	se	PROPN		noun.person
+18	og	og	CCONJ		noun.person
+19	HØR	hør	PROPN		noun.person
+20	beder	bede	VERB		verb.communication
+21	om	om	ADP		
+22	hans	hans	DET		
+23	kommentar	kommentar	NOUN		noun.communication
+24	til	til	ADP		
+25	forholdet	forhold	NOUN		noun.relation
+26	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 94
+# text = - Kemien er ganske enkelt gået op i en højere enhed mellem os, fortæller de.
+1	-	-	PUNCT		
+2	Kemien	kemi	NOUN		noun.feeling
+3	er	være	AUX		
+4	ganske	ganske	ADV		
+5	enkelt	enkelt	ADJ		adj.all
+6	gået	gå	VERB		verb.change
+7	op	op	ADV		verb.COLL
+8	i	i	ADP		verb.COLL
+9	en	en	DET		verb.COLL
+10	højere	høj	ADJ		verb.COLL
+11	enhed	enhed	NOUN		verb.COLL
+12	mellem	mellem	ADP		
+13	os	vi	PRON		
+14	,	,	PUNCT		
+15	fortæller	fortælle	VERB		verb.communication
+16	de	den	PRON		
+17	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 95
+# text =  Supersangerinden Medina og hendes kæreste kunne ikke holde fingrene fra hinanden, da de ankom til det enorme talentbrag i Parken.
+1	Supersangerinden	supersangerind	NOUN		noun.person
+2	Medina	medina	PROPN		noun.person
+3	og	og	CCONJ		
+4	hendes	hendes	DET		
+5	kæreste	kæreste	NOUN		noun.person
+6	kunne	kunne	AUX		verb.emotion
+7	ikke	ikke	ADV		
+8	holde	holde	VERB		verb.stative
+9	fingrene	finger	NOUN		noun.body
+10	fra	fra	ADP		
+11	hinanden	hinanden	PRON		
+12	,	,	PUNCT		
+13	da	da	SCONJ		
+14	de	den	PRON		
+15	ankom	ankomme	VERB		verb.motion
+16	til	til	ADP		
+17	det	det	DET		
+18	enorme	enorm	ADJ		adj.all
+19	talentbrag	talentbrag	NOUN		noun.event
+20	i	i	ADP		
+21	Parken	park	NOUN		noun.building
+22	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 96
+# text =  VICA ApS"- et andet Mads Mikkelsen- firma, der fungerer som moderselskab.
+1	VICA	vica	PROPN		noun.institution
+2	ApS	aps	PROPN		noun.institution
+3	"	"	PUNCT		
+4	-	-	PUNCT		
+5	et	en	DET		
+6	andet	anden	DET		
+7	Mads	mads	PROPN		noun.institution
+8	Mikkelsen	mikkelsen	PROPN		noun.institution
+9	-	-	PUNCT		noun.institution
+10	firma	firma	NOUN		noun.institution
+11	,	,	PUNCT		
+12	der	der	PRON		
+13	fungerer	fungere	VERB		verb.stative
+14	som	som	ADP		
+15	moderselskab	moderselskab	NOUN		noun.institution
+16	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 97
+# text =  SYDNEY:
+1	SYDNEY	sydney	PROPN		
+2	:	:	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 98
+# text =  Når Hella Joof, Jokeren og Nikolaj Koppel på fredag toner frem på skærmen, er det tredje og sidste gang, de sætter jagten ind på den bedste blandt Danmarks talenter
+1	Når	når	SCONJ		
+2	Hella	hella	PROPN		noun.person
+3	Joof	joof	PROPN		noun.person
+4	,	,	PUNCT		
+5	Jokeren	jokeren	PROPN		noun.person
+6	og	og	CCONJ		
+7	Nikolaj	nikolaj	PROPN		noun.person
+8	Koppel	koppel	PROPN		noun.person
+9	på	på	ADP		
+10	fredag	fredag	NOUN		noun.time
+11	toner	toner	NOUN		verb.motion
+12	frem	frem	ADV		verb.COLL
+13	på	på	ADP		
+14	skærmen	skærm	NOUN		noun.artifact
+15	,	,	PUNCT		
+16	er	være	AUX		
+17	det	det	PRON		
+18	tredje	tredje	ADJ		
+19	og	og	CCONJ		
+20	sidste	sidste	ADJ		adj.time
+21	gang	gang	NOUN		noun.time
+22	,	,	PUNCT		
+23	de	den	PRON		
+24	sætter	sætte	VERB		verb.aspectual
+25	jagten	jagt	NOUN		noun.cognition
+26	ind	ind	ADV		verb.PARTICLE
+27	på	på	ADP		
+28	den	den	DET		
+29	bedste	god	ADJ		adj.all
+30	blandt	blandt	ADP		
+31	Danmarks	danmarks	PROPN		noun.institution
+32	talenter	talent	NOUN		noun.person
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 99
+# text = - Jamen vi skal hygge os derhjemme med børnene.
+1	-	-	PUNCT		
+2	Jamen	jamen	CCONJ		
+3	vi	vi	PRON		
+4	skal	skulle	AUX		
+5	hygge	hygge	VERB		verb.social
+6	os	vi	PRON		
+7	derhjemme	derhjemme	ADV		
+8	med	med	ADP		
+9	børnene	barn	NOUN		noun.person
+10	.	.	PUNCT		
+
+# newdoc id = se_og_hoer-1.tsv
+# sent_id = 100
+# text = - Ingen af Marias nærmeste har i disse dage- forståeligt nok- overskud til at tale om det forfærdeligt tragiske, der er sket.
+1	-	-	PUNCT		
+2	Ingen	ingen	PRON		
+3	af	af	ADP		
+4	Marias	maria	DET		noun.person
+5	nærmeste	nær	ADJ		
+6	har	have	VERB		verb.cognition
+7	i	i	ADP		
+8	disse	denne	DET		
+9	dage	dag	NOUN		noun.time
+10	-	-	PUNCT		
+11	forståeligt	forståelig	ADJ		adj.all
+12	nok	nok	ADV		
+13	-	-	PUNCT		
+14	overskud	overskud	NOUN		noun.cognition
+15	til	til	ADP		
+16	at	at	PART		
+17	tale	tale	VERB		verb.communication
+18	om	om	ADP		
+19	det	det	DET		
+20	forfærdeligt	forfærdelig	ADJ		
+21	tragiske	tragisk	ADJ		adj.all
+22	,	,	PUNCT		
+23	der	der	PRON		
+24	er	være	AUX		
+25	sket	ske	VERB		verb.act
+26	.	.	PUNCT		
+

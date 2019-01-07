@@ -1,0 +1,217 @@
+# newdoc id = DDT-1439.tsv
+# sent_id = 1
+# text =  BEGYNDTE MED BEATLES
+1	BEGYNDTE	begynde	VERB		verb.aspectual
+2	MED	med	ADP		
+3	BEATLES	beatles	PROPN		noun.communication
+
+# newdoc id = DDT-1439.tsv
+# sent_id = 2
+# text = " Realistisk set er det en mindre del af min karriere- tiden bliver mest brugt på mine egne koncerter og plader, men de andre får al publicityen ( latter).
+1	"	"	PUNCT		
+2	Realistisk	realistisk	ADV		
+3	set	se	VERB		verb.cognition
+4	er	være	AUX		verb.stative
+5	det	det	PRON		
+6	en	en	DET		
+7	mindre	lille	ADJ		adj.phys
+8	del	del	NOUN		noun.relation
+9	af	af	ADP		
+10	min	min	DET		
+11	karriere	karriere	NOUN		noun.attribute
+12	-	-	PUNCT		
+13	tiden	tid	NOUN		noun.time
+14	bliver	blive	AUX		verb.stative
+15	mest	megen	ADV		
+16	brugt	bruge	VERB		verb.act
+17	på	på	ADP		
+18	mine	mine	DET		
+19	egne	egen	ADJ		
+20	koncerter	koncert	NOUN		noun.event
+21	og	og	CCONJ		
+22	plader	plade	NOUN		noun.artifact
+23	,	,	PUNCT		
+24	men	men	CCONJ		
+25	de	den	PRON		
+26	andre	anden	PRON		
+27	får	få	VERB		verb.possession
+28	al	al	ADJ		
+29	publicityen	publicity	NOUN		noun.communication
+30	(	(	PUNCT		
+31	latter	latter	NOUN		noun.act
+32	)	)	PUNCT		
+33	.	.	PUNCT		
+
+# newdoc id = DDT-1439.tsv
+# sent_id = 3
+# text =  Bortset_fra det spiller jeg ikke med de mennesker, fordi de er berømte, men fordi jeg elsker deres musik."
+1	Bortset_fra	bortset_fra	NOUN		
+2	det	det	PRON		
+3	spiller	spille	VERB		verb.act
+4	jeg	jeg	PRON		
+5	ikke	ikke	ADV		
+6	med	med	ADP		
+7	de	den	DET		
+8	mennesker	menneske	NOUN		noun.person
+9	,	,	PUNCT		
+10	fordi	fordi	SCONJ		
+11	de	den	PRON		
+12	er	være	AUX		verb.stative
+13	berømte	berømt	ADJ		adj.social
+14	,	,	PUNCT		
+15	men	men	CCONJ		
+16	fordi	fordi	SCONJ		
+17	jeg	jeg	PRON		
+18	elsker	elske	VERB		verb.emotion
+19	deres	deres	DET		
+20	musik	musik	NOUN		noun.communication
+21	.	.	PUNCT		
+22	"	"	PUNCT		
+
+# newdoc id = DDT-1439.tsv
+# sent_id = 4
+# text =  Og Lofgren er meget beæret over at spille med Ringo, der i_årevis spillede- nogle ville sige forsøgte at spille- trommer hos de dér fire fra Liverpool.
+1	Og	og	CCONJ		
+2	Lofgren	lofgren	PROPN		noun.person
+3	er	være	VERB		verb.stative
+4	meget	megen	ADV		
+5	beæret	beære	VERB		adj.all
+6	over	over	ADP		
+7	at	at	PART		
+8	spille	spille	VERB		verb.act
+9	med	med	ADP		
+10	Ringo	ringo	PROPN		noun.person
+11	,	,	PUNCT		
+12	der	der	PRON		
+13	i_årevis	i_årevis	ADV		noun.time
+14	spillede	spille	VERB		verb.act
+15	-	-	PUNCT		
+16	nogle	nogen	PRON		
+17	ville	ville	AUX		
+18	sige	sige	VERB		verb.communication
+19	forsøgte	forsøge	VERB		verb.act
+20	at	at	PART		
+21	spille	spille	VERB		verb.act
+22	-	-	PUNCT		
+23	trommer	tromme	NOUN		noun.artifact
+24	hos	hos	ADP		
+25	de	den	DET		
+26	dér	dér	ADV		
+27	fire	fire	NOUN		
+28	fra	fra	ADP		
+29	Liverpool	liverpool	PROPN		noun.location
+30	.	.	PUNCT		
+
+# newdoc id = DDT-1439.tsv
+# sent_id = 5
+# text = " Det var Beatles, der satte mig i_gang i rockmusikken, og jeg syntes stadigvæk i_dag, at Beatles' samlede produktion er det bedste musik, der nogensinde er lavet," siger Nils Lofgren.
+1	"	"	PUNCT		
+2	Det	det	PRON		
+3	var	være	AUX		verb.stative
+4	Beatles	beatles	PROPN		noun.communication
+5	,	,	PUNCT		
+6	der	der	PRON		
+7	satte	sætte	VERB		verb.aspectual
+8	mig	jeg	PRON		
+9	i_gang	i_gang	ADV		verb.PARTICLE
+10	i	i	ADP		
+11	rockmusikken	rockmusik	NOUN		noun.domain
+12	,	,	PUNCT		
+13	og	og	CCONJ		
+14	jeg	jeg	PRON		
+15	syntes	synes	VERB		verb.cognition
+16	stadigvæk	stadigvæk	ADV		
+17	i_dag	i_dag	NOUN		noun.time
+18	,	,	PUNCT		
+19	at	at	SCONJ		
+20	Beatles'	beatles'	PROPN		noun.communication
+21	samlede	samle	VERB		adj.all
+22	produktion	produktion	NOUN		noun.communication
+23	er	være	AUX		verb.stative
+24	det	det	DET		
+25	bedste	god	ADJ		adj.all
+26	musik	musik	NOUN		noun.communication
+27	,	,	PUNCT		
+28	der	der	PRON		
+29	nogensinde	nogensinde	ADV		
+30	er	være	AUX		
+31	lavet	lave	VERB		verb.creation
+32	,	,	PUNCT		
+33	"	"	PUNCT		
+34	siger	sige	VERB		verb.communication
+35	Nils	nils	PROPN		noun.person
+36	Lofgren	lofgren	PROPN		noun.person
+37	.	.	PUNCT		
+
+# newdoc id = DDT-1439.tsv
+# sent_id = 6
+# text =  Det kan meget vel være, men ikke_desto_mindre er det alt for overset, at Nils Lofgren solo laver nogle glimrende rockplader.
+1	Det	det	PRON		
+2	kan	kunne	AUX		
+3	meget	megen	ADV		
+4	vel	vel	ADV		
+5	være	være	AUX		verb.stative
+6	,	,	PUNCT		
+7	men	men	CCONJ		
+8	ikke_desto_mindre	ikke_desto_mindr	ADV		
+9	er	være	AUX		verb.stative
+10	det	det	PRON		
+11	alt	alt	ADV		
+12	for	for	ADV		
+13	overset	overse	VERB		adj.all
+14	,	,	PUNCT		
+15	at	at	SCONJ		
+16	Nils	nils	PROPN		noun.communication
+17	Lofgren	lofgren	PROPN		noun.communication
+18	solo	solo	ADV		noun.communication
+19	laver	lave	VERB		verb.creation
+20	nogle	nogen	DET		
+21	glimrende	glimrende	ADJ		adj.all
+22	rockplader	rockplad	NOUN		noun.artifact
+23	.	.	PUNCT		
+
+# newdoc id = DDT-1439.tsv
+# sent_id = 7
+# text =  En ny og fremragende én af slagsen-" Crooked Line"- er netop udkommet.
+1	En	en	DET		
+2	ny	ny	ADJ		adj.time
+3	og	og	CCONJ		
+4	fremragende	fremragende	VERB		adj.all
+5	én	én	PRON		
+6	af	af	ADP		
+7	slagsen	slags	NOUN		noun.abstract
+8	-	-	PUNCT		
+9	"	"	PUNCT		
+10	Crooked	crooked	PROPN		noun.communication
+11	Line	line	PROPN		noun.communication
+12	"	"	PUNCT		
+13	-	-	PUNCT		
+14	er	være	AUX		
+15	netop	netop	ADV		
+16	udkommet	udkomme	VERB		verb.communication
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1439.tsv
+# sent_id = 8
+# text =  Jordnær rock'n'roll på den gammeldaws facon- ikke ulig John Mellencamps" Whenever We Wanted" fra sidste år.
+1	Jordnær	jordnær	ADJ		noun.domain
+2	rock'n'roll	rock'n'roll	X		noun.domain
+3	på	på	ADP		
+4	den	den	DET		
+5	gammeldaws	gammeldaws	ADJ		adj.social
+6	facon	facon	NOUN		noun.abstract
+7	-	-	PUNCT		
+8	ikke	ikke	ADV		
+9	ulig	ulig	ADV		adj.all
+10	John	john	PROPN		noun.person
+11	Mellencamps	mellencamps	PROPN		noun.person
+12	"	"	PUNCT		
+13	Whenever	whenever	PROPN		noun.communication
+14	We	we	PROPN		noun.communication
+15	Wanted	wanted	PROPN		noun.communication
+16	"	"	PUNCT		
+17	fra	fra	ADP		
+18	sidste	sidste	ADJ		adj.time
+19	år	år	NOUN		noun.time
+20	.	.	PUNCT		
+

@@ -1,0 +1,267 @@
+# newdoc id = DDT-1385.tsv
+# sent_id = 1
+# text =  ODENSE: Det gik helt grassat for OB i det fynske lokalopgør.
+1	ODENSE	odense	PROPN		noun.location
+2	:	:	PUNCT		
+3	Det	det	PRON		
+4	gik	gå	VERB		verb.phenomenon
+5	helt	helt	ADV		
+6	grassat	grassat	ADV		verb.COLL
+7	for	for	ADP		
+8	OB	ob	PROPN		noun.institution
+9	i	i	ADP		
+10	det	det	DET		
+11	fynske	fynsk	ADJ		adj.social
+12	lokalopgør	lokalopgør	NOUN		noun.act
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1385.tsv
+# sent_id = 2
+# text =  Landsholdsspilleren, Lars Elstrup, og Jens Madsen blev udvist.
+1	Landsholdsspilleren	landsholdsspiller	NOUN		noun.person
+2	,	,	PUNCT		
+3	Lars	lars	PROPN		noun.person
+4	Elstrup	elstrup	PROPN		noun.person
+5	,	,	PUNCT		
+6	og	og	CCONJ		
+7	Jens	jens	PROPN		noun.person
+8	Madsen	madsen	PROPN		noun.person
+9	blev	blive	AUX		
+10	udvist	udvise	VERB		verb.act
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1385.tsv
+# sent_id = 3
+# text =  De mest rabiate tilhængere kunne heller ikke styre sig.
+1	De	den	DET		
+2	mest	megen	ADV		
+3	rabiate	rabiat	ADJ		adj.all
+4	tilhængere	tilhænger	NOUN		noun.person
+5	kunne	kunne	AUX		
+6	heller	heller	ADV		
+7	ikke	ikke	ADV		
+8	styre	styre	VERB		verb.cognition
+9	sig	sig	PRON		verb.REFLPRON
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1385.tsv
+# sent_id = 4
+# text =  Dommeren, Villy Nielsen, måtte have beskyttelse af kontrollører for at slippe fri af truende OB-fans ved pausen og efter kampen.
+1	Dommeren	dommer	NOUN		noun.person
+2	,	,	PUNCT		
+3	Villy	villy	PROPN		noun.person
+4	Nielsen	nielsen	PROPN		noun.person
+5	,	,	PUNCT		
+6	måtte	måtte	AUX		
+7	have	have	VERB		verb.stative
+8	beskyttelse	beskyttelse	NOUN		noun.act
+9	af	af	ADP		
+10	kontrollører	kontrollør	NOUN		noun.person
+11	for	for	ADP		
+12	at	at	PART		
+13	slippe	slippe	VERB		verb.act
+14	fri	fri	ADJ		verb.COLL
+15	af	af	ADP		
+16	truende	true	VERB		adj.phys
+17	OB-fans	ob-fan	NOUN		noun.person
+18	ved	ved	ADP		
+19	pausen	pause	NOUN		noun.time
+20	og	og	CCONJ		
+21	efter	efter	ADP		
+22	kampen	kamp	NOUN		noun.event
+23	.	.	PUNCT		
+
+# newdoc id = DDT-1385.tsv
+# sent_id = 5
+# text = " Sorte svin, sorte svin," skreg omkring 30 fanatikere, mens kontrollørerne dannede kæde, så ingen slap igennem.
+1	"	"	PUNCT		
+2	Sorte	sort	ADJ		adj.phys
+3	svin	svin	NOUN		noun.animal
+4	,	,	PUNCT		
+5	sorte	sort	ADJ		adj.phys
+6	svin	svin	NOUN		noun.animal
+7	,	,	PUNCT		
+8	"	"	PUNCT		
+9	skreg	skrige	VERB		verb.communication
+10	omkring	omkring	ADP		
+11	30	30	NUM		
+12	fanatikere	fanatiker	NOUN		noun.person
+13	,	,	PUNCT		
+14	mens	mens	SCONJ		
+15	kontrollørerne	kontrollør	NOUN		noun.person
+16	dannede	danne	VERB		verb.act
+17	kæde	kæde	NOUN		noun.shape
+18	,	,	PUNCT		
+19	så	så	SCONJ		
+20	ingen	ingen	PRON		
+21	slap	slippe	VERB		verb.motion
+22	igennem	igennem	ADV		
+23	.	.	PUNCT		
+
+# newdoc id = DDT-1385.tsv
+# sent_id = 6
+# text =  OB havde vundet rub og stub, syv sejre i træk, men i_går styrtede det hele sammen.
+1	OB	ob	PROPN		noun.person
+2	havde	have	AUX		
+3	vundet	vinde	VERB		verb.competition
+4	rub	rub	NOUN		noun.abstract
+5	og	og	CCONJ		
+6	stub	stub	NOUN		noun.abstract
+7	,	,	PUNCT		
+8	syv	syv	ADJ		
+9	sejre	sejr	NOUN		noun.act
+10	i	i	ADP		
+11	træk	træk	NOUN		noun.time
+12	,	,	PUNCT		
+13	men	men	CCONJ		
+14	i_går	i_går	ADV		noun.time
+15	styrtede	styrte	VERB		verb.phenomenon
+16	det	det	DET		
+17	hele	hel	ADJ		
+18	sammen	sammen	ADV		verb.COLL
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1385.tsv
+# sent_id = 7
+# text = " De striv'de" fik rø'e tæsk og rø'e kort.
+1	"	"	PUNCT		
+2	De	den	PRON		noun.person
+3	striv'de	striv'de	X		noun.person
+4	"	"	PUNCT		
+5	fik	få	VERB		verb.phenomenon
+6	rø'e	rø'e	X		adj.phys
+7	tæsk	tæsk	NOUN		noun.act
+8	og	og	CCONJ		
+9	rø'e	rø'e	X		adj.phys
+10	kort	korte	ADV		noun.communication
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1385.tsv
+# sent_id = 8
+# text =  En grusom aften for OB.
+1	En	en	DET		
+2	grusom	grusom	ADJ		adj.all
+3	aften	aften	NOUN		noun.time
+4	for	for	ADP		
+5	OB	ob	PROPN		noun.institution
+6	.	.	PUNCT		
+
+# newdoc id = DDT-1385.tsv
+# sent_id = 9
+# text =  Jens Madsens udvisning i det 43. minut var diskutabel.
+1	Jens	jens	PROPN		noun.person
+2	Madsens	madsens	PROPN		noun.person
+3	udvisning	udvisning	NOUN		noun.act
+4	i	i	ADP		
+5	det	det	DET		
+6	43.	43.	ADJ		
+7	minut	minut	NOUN		noun.time
+8	var	være	AUX		verb.stative
+9	diskutabel	diskutabel	ADJ		adj.all
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1385.tsv
+# sent_id = 10
+# text =  Det lignede mere et hændeligt sammenstød end en bevidst handling, den såkaldte nødbremse, da OBeren stoppede Lars Larsen lige uden for feltet.
+1	Det	det	PRON		
+2	lignede	ligne	VERB		verb.stative
+3	mere	mere	ADV		
+4	et	en	DET		
+5	hændeligt	hændelig	ADJ		adj.all
+6	sammenstød	sammenstød	NOUN		noun.act
+7	end	ende	ADP		
+8	en	en	DET		
+9	bevidst	bevidst	ADJ		adj.mental
+10	handling	handling	NOUN		noun.act
+11	,	,	PUNCT		
+12	den	den	DET		
+13	såkaldte	såkaldt	ADJ		adj.all
+14	nødbremse	nødbremse	NOUN		noun.artifact
+15	,	,	PUNCT		
+16	da	da	SCONJ		
+17	OBeren	ober	NOUN		noun.person
+18	stoppede	stoppe	VERB		verb.act
+19	Lars	lars	PROPN		noun.person
+20	Larsen	larsen	PROPN		noun.person
+21	lige	lige	ADV		
+22	uden	uden	ADV		
+23	for	for	ADP		
+24	feltet	felt	NOUN		noun.location
+25	.	.	PUNCT		
+
+# newdoc id = DDT-1385.tsv
+# sent_id = 11
+# text = " Lars kantede sig ind foran mig.
+1	"	"	PUNCT		
+2	Lars	lars	PROPN		noun.person
+3	kantede	kante	VERB		verb.motion
+4	sig	sig	PRON		
+5	ind	ind	ADV		
+6	foran	foran	ADP		
+7	mig	jeg	PRON		
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1385.tsv
+# sent_id = 12
+# text =  Jeg kunne ikke undgå at ramme ham.
+1	Jeg	jeg	PRON		
+2	kunne	kunne	AUX		
+3	ikke	ikke	ADV		
+4	undgå	undgå	VERB		verb.act
+5	at	at	PART		
+6	ramme	ramme	VERB		verb.contact
+7	ham	han	PRON		
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1385.tsv
+# sent_id = 13
+# text =  Ingen af os rørte i_øvrigt bolden," forklarede Jens Madsen.
+1	Ingen	ingen	PRON		
+2	af	af	ADP		
+3	os	vi	PRON		
+4	rørte	røre	VERB		verb.contact
+5	i_øvrigt	i_øvr	ADJ		
+6	bolden	bold	NOUN		noun.artifact
+7	,	,	PUNCT		
+8	"	"	PUNCT		
+9	forklarede	forklare	VERB		verb.communication
+10	Jens	jens	PROPN		noun.person
+11	Madsen	madsen	PROPN		noun.person
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1385.tsv
+# sent_id = 14
+# text =  Til gengæld var der ingen tvivl om, at Lars Elstrup forløb sig.
+1	Til	til	ADP		
+2	gengæld	gengæld	NOUN		
+3	var	være	VERB		verb.stative
+4	der	der	ADV		
+5	ingen	ingen	DET		
+6	tvivl	tvivl	NOUN		noun.cognition
+7	om	om	ADP		
+8	,	,	PUNCT		
+9	at	at	SCONJ		
+10	Lars	lars	PROPN		noun.person
+11	Elstrup	elstrup	PROPN		noun.person
+12	forløb	forløbe	VERB		verb.cognition
+13	sig	sig	PRON		verb.REFLPRON
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1385.tsv
+# sent_id = 15
+# text =  Han sparkede B1909s Ole Juel ned som en hævnakt 20 minutter før tid.
+1	Han	han	PRON		
+2	sparkede	sparke	VERB		verb.contact
+3	B1909s	b1909s	PROPN		noun.institution
+4	Ole	ole	PROPN		noun.person
+5	Juel	juel	PROPN		noun.person
+6	ned	ned	ADV		verb.COLL
+7	som	som	ADP		
+8	en	en	DET		
+9	hævnakt	hævnakt	NOUN		noun.act
+10	20	20	NUM		
+11	minutter	minut	NOUN		noun.time
+12	før	før	ADP		
+13	tid	tid	NOUN		noun.time
+14	.	.	PUNCT		
+

@@ -1,0 +1,196 @@
+# newdoc id = DDT-1229.tsv
+# sent_id = 1
+# text =  Karadzic sagde, at den forestående, strenge vinter samt indbyrdes aftaler mellem de velbevæbnede serbiske og kroatiske minoritetsgrupper på bekostning af muslimerne ville fremskynde en afslutning på konflikten.
+1	Karadzic	karadzic	PROPN		noun.person
+2	sagde	sige	VERB		verb.communication
+3	,	,	PUNCT		
+4	at	at	SCONJ		
+5	den	den	DET		
+6	forestående	forestående	ADJ		adj.time
+7	,	,	PUNCT		
+8	strenge	streng	ADJ		adj.phys
+9	vinter	vinter	NOUN		noun.time
+10	samt	samt	CCONJ		
+11	indbyrdes	indbyrdes	ADJ		adj.social
+12	aftaler	aftale	NOUN		noun.communication
+13	mellem	mellem	ADP		
+14	de	den	DET		
+15	velbevæbnede	velbevæbned	ADJ		adj.phys
+16	serbiske	serbisk	ADJ		adj.social
+17	og	og	CCONJ		
+18	kroatiske	kroatisk	ADJ		adj.social
+19	minoritetsgrupper	minoritetsgruppe	NOUN		noun.person
+20	på	på	ADP		
+21	bekostning	bekostning	NOUN		noun.abstract
+22	af	af	ADP		
+23	muslimerne	muslim	NOUN		noun.person
+24	ville	ville	AUX		
+25	fremskynde	fremskynde	VERB		verb.change
+26	en	en	DET		
+27	afslutning	afslutning	NOUN		noun.act
+28	på	på	ADP		
+29	konflikten	konflikt	NOUN		noun.state
+30	.	.	PUNCT		
+
+# newdoc id = DDT-1229.tsv
+# sent_id = 2
+# text =  Sarajevo Radio meddelte, at den muslimsk-kontrollerede by Gradacac i det nordlige Bosnien-Hercegovina i løbet af dagen blev udsat for et serbisk infanteriangreb.
+1	Sarajevo	sarajevo	PROPN		noun.communication
+2	Radio	radio	NOUN		noun.communication
+3	meddelte	meddele	VERB		verb.communication
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	den	den	DET		
+7	muslimsk-kontrollerede	muslimsk-kontrol	ADJ		adj.social
+8	by	by	NOUN		noun.location
+9	Gradacac	gradacac	PROPN		noun.location
+10	i	i	ADP		
+11	det	det	DET		
+12	nordlige	nordlig	ADJ		adj.phys
+13	Bosnien-Hercegovina	bosnien-hercegovina	PROPN		noun.location
+14	i	i	ADP		
+15	løbet	løb	NOUN		
+16	af	af	ADP		
+17	dagen	dag	NOUN		noun.time
+18	blev	blive	AUX		
+19	udsat	udsætte	VERB		verb.phenomenon
+20	for	for	ADP		
+21	et	en	DET		
+22	serbisk	serbisk	ADJ		adj.social
+23	infanteriangreb	infanteriangreb	NOUN		noun.act
+24	.	.	PUNCT		
+
+# newdoc id = DDT-1229.tsv
+# sent_id = 3
+# text =  Angrebet kom efter, at byen natten igennem var blevet ramt af 400 raketter.
+1	Angrebet	angreb	NOUN		noun.act
+2	kom	komme	VERB		verb.phenomenon
+3	efter	efter	ADP		
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	byen	by	NOUN		noun.location
+7	natten	nat	NOUN		noun.time
+8	igennem	igennem	ADV		
+9	var	være	AUX		
+10	blevet	blive	AUX		
+11	ramt	ramme	VERB		adj.phys
+12	af	af	ADP		
+13	400	400	NUM		
+14	raketter	raket	NOUN		noun.artifact
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1229.tsv
+# sent_id = 4
+# text =  Ifølge radioen satte de serbiske styrker også en offensiv ind mod Tuzla, Olovo, Tesanj og Travnik- alle byer i et muslimsk-kontrolleret område i det nordlige Bosnien-Hercegovina, der skrumper ind dag for dag.
+1	Ifølge	ifølge	ADP		
+2	radioen	radio	NOUN		noun.communication
+3	satte	sætte	VERB		verb.act
+4	de	den	DET		
+5	serbiske	serbisk	ADJ		adj.social
+6	styrker	styrke	NOUN		noun.person
+7	også	også	ADV		
+8	en	en	DET		
+9	offensiv	offensiv	NOUN		noun.act
+10	ind	ind	ADV		verb.COLL
+11	mod	mod	ADP		
+12	Tuzla	tuzla	PROPN		noun.location
+13	,	,	PUNCT		
+14	Olovo	olovo	PROPN		noun.location
+15	,	,	PUNCT		
+16	Tesanj	tesanj	PROPN		noun.location
+17	og	og	CCONJ		
+18	Travnik	travnik	PROPN		noun.location
+19	-	-	PUNCT		
+20	alle	al	ADJ		
+21	byer	by	NOUN		noun.location
+22	i	i	ADP		
+23	et	en	DET		
+24	muslimsk-kontrolleret	muslimsk-kontrol	ADJ		adj.social
+25	område	område	NOUN		noun.location
+26	i	i	ADP		
+27	det	det	DET		
+28	nordlige	nordlig	ADJ		adj.phys
+29	Bosnien-Hercegovina	bosnien-hercegovina	PROPN		noun.location
+30	,	,	PUNCT		
+31	der	der	PRON		
+32	skrumper	skrumpe	VERB		verb.change
+33	ind	ind	ADV		
+34	dag	dag	NOUN		noun.time
+35	for	for	ADP		
+36	dag	dag	NOUN		noun.time
+37	.	.	PUNCT		
+
+# newdoc id = DDT-1229.tsv
+# sent_id = 5
+# text =  Travnik, hvor flere tusinde flygtninge har søgt ly, blev i løbet af onsdagen udsat for intensiv artilleribeskydning, oplyste radioen.
+1	Travnik	travnik	PROPN		noun.location
+2	,	,	PUNCT		
+3	hvor	hvor	ADV		
+4	flere	flere	ADJ		adj.all
+5	tusinde	tusinde	NOUN		noun.quantity
+6	flygtninge	flygtning	NOUN		noun.person
+7	har	have	AUX		
+8	søgt	søge	VERB		verb.act
+9	ly	ly	NOUN		noun.abstract
+10	,	,	PUNCT		
+11	blev	blive	AUX		
+12	i	i	ADP		
+13	løbet	løb	NOUN		
+14	af	af	ADP		
+15	onsdagen	onsdag	NOUN		noun.time
+16	udsat	udsætte	VERB		verb.phenomenon
+17	for	for	ADP		
+18	intensiv	intensiv	ADJ		adj.all
+19	artilleribeskydning	artilleribeskydning	NOUN		noun.act
+20	,	,	PUNCT		
+21	oplyste	oplyse	VERB		verb.communication
+22	radioen	radio	NOUN		noun.communication
+23	.	.	PUNCT		
+
+# newdoc id = DDT-1229.tsv
+# sent_id = 6
+# text =  Fornyet blokade
+1	Fornyet	forny	VERB		adj.all
+2	blokade	blokade	NOUN		noun.act
+
+# newdoc id = DDT-1229.tsv
+# sent_id = 7
+# text =  I Bruxelles besluttede NATOambassadører onsdag at bede organisationens militære planlæggere om at lave et udkast til en stramning af blokaden mod Rest-Jugoslavien, der beskyldes for at holde krigen i_gang ved de fortsatte landerobringer i Bosnien.
+1	I	i	ADP		
+2	Bruxelles	bruxelles	PROPN		noun.location
+3	besluttede	beslutte	VERB		verb.cognition
+4	NATOambassadører	natoambassadør	NOUN		noun.person
+5	onsdag	onsdag	NOUN		noun.time
+6	at	at	PART		
+7	bede	bede	VERB		verb.communication
+8	organisationens	organisation	NOUN		noun.institution
+9	militære	militær	ADJ		adj.all
+10	planlæggere	planlægger	NOUN		noun.person
+11	om	om	ADP		
+12	at	at	PART		
+13	lave	lave	VERB		verb.creation
+14	et	en	DET		
+15	udkast	udkast	NOUN		noun.communication
+16	til	til	ADP		
+17	en	en	DET		
+18	stramning	stramning	NOUN		noun.act
+19	af	af	ADP		
+20	blokaden	blokade	NOUN		noun.act
+21	mod	mod	ADP		
+22	Rest-Jugoslavien	rest-jugoslavien	PROPN		noun.institution
+23	,	,	PUNCT		
+24	der	der	PRON		
+25	beskyldes	beskylde	VERB		verb.communication
+26	for	for	ADP		
+27	at	at	PART		
+28	holde	holde	VERB		verb.act
+29	krigen	krig	NOUN		noun.act
+30	i_gang	i_gang	ADV		verb.COLL
+31	ved	ved	ADP		
+32	de	den	DET		
+33	fortsatte	fortsætte	VERB		adj.all
+34	landerobringer	landerobring	NOUN		noun.act
+35	i	i	ADP		
+36	Bosnien	bosnien	PROPN		noun.location
+37	.	.	PUNCT		
+

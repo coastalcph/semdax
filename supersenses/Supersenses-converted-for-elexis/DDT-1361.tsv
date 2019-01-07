@@ -1,0 +1,215 @@
+# newdoc id = DDT-1361.tsv
+# sent_id = 1
+# text =  Jeg synes, det er alt for enkelt og for dumsmart at skyde skylden på Richard Møller Nielsen.
+1	Jeg	jeg	PRON		
+2	synes	synes	VERB		verb.cognition
+3	,	,	PUNCT		
+4	det	det	PRON		
+5	er	være	AUX		verb.stative
+6	alt	al	ADJ		
+7	for	for	ADV		
+8	enkelt	enkelt	ADJ		adj.all
+9	og	og	CCONJ		
+10	for	for	ADP		
+11	dumsmart	dumsmart	ADJ		adj.mental
+12	at	at	PART		
+13	skyde	skyde	VERB		verb.act
+14	skylden	skyld	NOUN		noun.feeling
+15	på	på	ADP		
+16	Richard	richard	PROPN		noun.person
+17	Møller	møller	PROPN		noun.person
+18	Nielsen	nielsen	PROPN		noun.person
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1361.tsv
+# sent_id = 2
+# text =  Det er altså ikke ham, der spiller kampene.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	altså	altså	ADV		
+4	ikke	ikke	ADV		
+5	ham	han	PRON		
+6	,	,	PUNCT		
+7	der	der	PRON		
+8	spiller	spille	VERB		verb.act
+9	kampene	kamp	NOUN		noun.event
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1361.tsv
+# sent_id = 3
+# text =  Sandheden er- naturligvis- at vi ikke råder over samme spillerstab som i firserne.
+1	Sandheden	sandhed	NOUN		noun.abstract
+2	er	være	AUX		verb.stative
+3	-	-	PUNCT		
+4	naturligvis	naturligvis	ADV		
+5	-	-	PUNCT		
+6	at	at	SCONJ		
+7	vi	vi	PRON		
+8	ikke	ikke	ADV		
+9	råder	råde	VERB		verb.possession
+10	over	over	ADP		verb.COLL
+11	samme	samme	ADJ		
+12	spillerstab	spillerstab	NOUN		noun.person
+13	som	som	ADP		
+14	i	i	ADP		
+15	firserne	firser	NOUN		noun.time
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1361.tsv
+# sent_id = 4
+# text =  Oven i købet har Ricardo det problem, at han i forårets tre testkampe ikke disponerer over de olympiske spillere fra U-21 holdet.
+1	Oven	oven	ADV		
+2	i	i	ADP		
+3	købet	køb	NOUN		noun.possession
+4	har	have	VERB		verb.phenomenon
+5	Ricardo	ricardo	PROPN		noun.person
+6	det	det	DET		
+7	problem	problem	NOUN		noun.state
+8	,	,	PUNCT		
+9	at	at	SCONJ		
+10	han	han	PRON		
+11	i	i	ADP		
+12	forårets	forår	NOUN		noun.time
+13	tre	tre	NUM		
+14	testkampe	testkamp	NOUN		noun.event
+15	ikke	ikke	ADV		
+16	disponerer	disponere	VERB		verb.act
+17	over	over	ADP		
+18	de	den	DET		
+19	olympiske	olympisk	ADJ		adj.all
+20	spillere	spiller	NOUN		noun.person
+21	fra	fra	ADP		
+22	U-21	u-21	X		noun.person
+23	holdet	hold	NOUN		noun.person
+24	.	.	PUNCT		
+
+# newdoc id = DDT-1361.tsv
+# sent_id = 5
+# text =  Fremtids-folkenes succes blokerer for en oplagt mulighed til at gå nye veje og prøve nye spillere før efterårets VM-kampe.
+1	Fremtids-folkenes	fremtids-folk	NOUN		noun.person
+2	succes	succes	NOUN		noun.attribute
+3	blokerer	blokere	VERB		verb.act
+4	for	for	ADP		
+5	en	en	DET		
+6	oplagt	oplagt	ADJ		adj.mental
+7	mulighed	mulighed	NOUN		noun.event
+8	til	til	ADP		
+9	at	at	PART		
+10	gå	gå	VERB		verb.change
+11	nye	ny	ADJ		verb.COLL
+12	veje	vej	NOUN		verb.COLL
+13	og	og	CCONJ		
+14	prøve	prøve	VERB		verb.act
+15	nye	ny	ADJ		adj.time
+16	spillere	spiller	NOUN		noun.person
+17	før	før	ADP		
+18	efterårets	efterår	NOUN		noun.time
+19	VM-kampe	vm-kamp	NOUN		noun.event
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1361.tsv
+# sent_id = 6
+# text =  INGEN VM-BILLET
+1	INGEN	ingen	DET		
+2	VM-BILLET	vm-bil	NOUN		noun.artifact
+
+# newdoc id = DDT-1361.tsv
+# sent_id = 7
+# text =  Det, vi så i Ankara, varsler ingen VM-billet til Danmark i USA om to år.
+1	Det	det	PRON		
+2	,	,	PUNCT		
+3	vi	vi	PRON		
+4	så	så	ADV		verb.perception
+5	i	i	ADP		
+6	Ankara	ankara	PROPN		noun.location
+7	,	,	PUNCT		
+8	varsler	varsle	VERB		verb.communication
+9	ingen	ingen	DET		
+10	VM-billet	vm-bil	NOUN		noun.abstract
+11	til	til	ADP		
+12	Danmark	danmark	PROPN		noun.institution
+13	i	i	ADP		
+14	USA	usa	PROPN		noun.location
+15	om	om	ADP		
+16	to	to	NUM		
+17	år	år	NOUN		noun.time
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1361.tsv
+# sent_id = 8
+# text =  Vi tabte til et middelmådigt landshold, der har fået klø i_læssevis de sidste to år.
+1	Vi	vi	PRON		
+2	tabte	tabe	VERB		verb.competition
+3	til	til	ADP		
+4	et	en	DET		
+5	middelmådigt	middelmådig	ADJ		adj.all
+6	landshold	landshold	NOUN		noun.person
+7	,	,	PUNCT		
+8	der	der	PRON		
+9	har	have	AUX		
+10	fået	få	VERB		verb.phenomenon
+11	klø	klø	NOUN		noun.act
+12	i_læssevis	i_læssevis	ADV		noun.quantity
+13	de	den	DET		
+14	sidste	sidste	ADJ		
+15	to	to	NOUN		
+16	år	år	NOUN		noun.time
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1361.tsv
+# sent_id = 9
+# text =  Kampen afslørede med røntgen-blik, hvor vigtige Peter Schmeichel, Flemming Povlsen, Kim Vilfort og Kim Christofte er for Danmark.
+1	Kampen	kamp	NOUN		noun.event
+2	afslørede	afsløre	VERB		verb.act
+3	med	med	ADP		
+4	røntgen-blik	røntgen-blik	NOUN		noun.attribute
+5	,	,	PUNCT		
+6	hvor	hvor	ADV		
+7	vigtige	vigtig	ADJ		adj.all
+8	Peter	peter	PROPN		noun.person
+9	Schmeichel	schmeichel	PROPN		noun.person
+10	,	,	PUNCT		
+11	Flemming	flemming	PROPN		noun.person
+12	Povlsen	povlsen	PROPN		noun.person
+13	,	,	PUNCT		
+14	Kim	kim	PROPN		noun.person
+15	Vilfort	vilfort	PROPN		noun.person
+16	og	og	CCONJ		
+17	Kim	kim	PROPN		noun.person
+18	Christofte	christofte	PROPN		noun.person
+19	er	være	AUX		verb.stative
+20	for	for	ADP		
+21	Danmark	danmark	PROPN		noun.institution
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1361.tsv
+# sent_id = 10
+# text =  Kun Henrik Andersen trak sig tilbage med et uplettet visitkort.
+1	Kun	kun	ADV		
+2	Henrik	henrik	PROPN		noun.person
+3	Andersen	andersen	PROPN		noun.person
+4	trak	trække	VERB		verb.act
+5	sig	sig	PRON		verb.REFLPRON
+6	tilbage	tilbage	ADV		verb.PARTICLE
+7	med	med	ADP		
+8	et	en	DET		
+9	uplettet	uplettet	ADJ		adj.all
+10	visitkort	visitkort	NOUN		noun.communication
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1361.tsv
+# sent_id = 11
+# text =  Han sørgede for friske fremstød, han turde og kunne noget.
+1	Han	han	PRON		
+2	sørgede	sørge	VERB		verb.act
+3	for	for	ADP		
+4	friske	frisk	ADJ		adj.mental
+5	fremstød	fremstød	NOUN		noun.act
+6	,	,	PUNCT		
+7	han	han	PRON		
+8	turde	turde	AUX		verb.emotion
+9	og	og	CCONJ		
+10	kunne	kunne	AUX		
+11	noget	nogen	PRON		
+12	.	.	PUNCT		
+

@@ -1,0 +1,217 @@
+# newdoc id = DDT-1514.tsv
+# sent_id = 1
+# text = " Okay, vi mødes kl. 14 i_morgen det sædvanlige sted."
+1	"	"	PUNCT		
+2	Okay	okay	INTJ		
+3	,	,	PUNCT		
+4	vi	vi	PRON		
+5	mødes	mødes	VERB		verb.social
+6	kl.	kl.	NOUN		
+7	14	14	NUM		
+8	i_morgen	i_morg	NOUN		noun.time
+9	det	det	DET		
+10	sædvanlige	sædvanlig	ADJ		adj.all
+11	sted	sted	NOUN		noun.location
+12	.	.	PUNCT		
+13	"	"	PUNCT		
+
+# newdoc id = DDT-1514.tsv
+# sent_id = 2
+# text =  Kryptiske, aflyttede telefonsamtaler og møder på værtshuse mellem gamle, kriminelle bekendte drejede sig ifølge den narko-tiltalte" Lonne", Leon Erling Fristrup Jensen, 44, kun om at skaffe ham en pølsevogn og en stadeplads!
+1	Kryptiske	kryptisk	ADJ		adj.all
+2	,	,	PUNCT		
+3	aflyttede	aflytte	VERB		adj.all
+4	telefonsamtaler	telefonsamtale	NOUN		noun.communication
+5	og	og	CCONJ		
+6	møder	møde	NOUN		noun.act
+7	på	på	ADP		
+8	værtshuse	værtshus	NOUN		noun.building
+9	mellem	mellem	ADP		
+10	gamle	gammel	ADJ		adj.time
+11	,	,	PUNCT		
+12	kriminelle	kriminel	ADJ		adj.all
+13	bekendte	bekendt	NOUN		noun.person
+14	drejede	dreje	VERB		verb.stative
+15	sig	sig	PRON		verb.REFLPRON
+16	ifølge	ifølge	ADP		
+17	den	den	DET		
+18	narko-tiltalte	narko-tiltalt	ADJ		adj.all
+19	"	"	PUNCT		
+20	Lonne	lonne	PROPN		noun.person
+21	"	"	PUNCT		
+22	,	,	PUNCT		
+23	Leon	leon	PROPN		noun.person
+24	Erling	erling	PROPN		noun.person
+25	Fristrup	fristrup	PROPN		noun.person
+26	Jensen	jensen	PROPN		noun.person
+27	,	,	PUNCT		
+28	44	44	PRON		
+29	,	,	PUNCT		
+30	kun	kun	ADV		
+31	om	om	ADP		
+32	at	at	PART		
+33	skaffe	skaffe	VERB		verb.possession
+34	ham	han	PRON		
+35	en	en	DET		
+36	pølsevogn	pølsevogn	NOUN		noun.vehicle
+37	og	og	CCONJ		
+38	en	en	DET		
+39	stadeplads	stadeplads	NOUN		noun.location
+40	!	!	PUNCT		
+
+# newdoc id = DDT-1514.tsv
+# sent_id = 3
+# text =  Det hævdede" Lonne" i_går i Østre Landsret, hvor han er tiltalt som én af hovedmændene i den liga af danskere, der ifølge politiet har indsmuglet kilovis af heroin fra Pattaya, Thailand, til Danmark.
+1	Det	det	PRON		
+2	hævdede	hævde	VERB		verb.communication
+3	"	"	PUNCT		
+4	Lonne	lonne	PROPN		noun.person
+5	"	"	PUNCT		
+6	i_går	i_går	NOUN		noun.time
+7	i	i	ADP		
+8	Østre	østre	ADJ		noun.building
+9	Landsret	landsret	NOUN		noun.building
+10	,	,	PUNCT		
+11	hvor	hvor	ADV		
+12	han	han	PRON		
+13	er	være	AUX		
+14	tiltalt	tiltale	VERB		verb.communication
+15	som	som	ADP		
+16	én	én	PRON		
+17	af	af	ADP		
+18	hovedmændene	hovedmand	NOUN		noun.person
+19	i	i	ADP		
+20	den	den	DET		
+21	liga	liga	NOUN		noun.person
+22	af	af	ADP		
+23	danskere	dansker	NOUN		noun.person
+24	,	,	PUNCT		
+25	der	der	PRON		
+26	ifølge	ifølge	ADP		
+27	politiet	politi	NOUN		noun.institution
+28	har	have	AUX		
+29	indsmuglet	indsmugle	VERB		verb.motion
+30	kilovis	kilovis	ADV		
+31	af	af	ADP		
+32	heroin	heroin	NOUN		noun.substance
+33	fra	fra	ADP		
+34	Pattaya	pattaya	PROPN		noun.location
+35	,	,	PUNCT		
+36	Thailand	thailand	PROPN		noun.location
+37	,	,	PUNCT		
+38	til	til	ADP		
+39	Danmark	danmark	PROPN		noun.location
+40	.	.	PUNCT		
+
+# newdoc id = DDT-1514.tsv
+# sent_id = 4
+# text =  Anklagemyndigheden mener, at en række telefonsamtaler og møder i oktober og november 1991 viser, at" Lonne" i samarbejde med en gammel ven, en forhenværende stor-smugler og nu pølsemand i København, og en udlands-dansker i Pattaya planlagde indsmugling af heroin fra Thailand.
+1	Anklagemyndigheden	anklagemyndighed	NOUN		noun.person
+2	mener	mene	VERB		verb.cognition
+3	,	,	PUNCT		
+4	at	at	SCONJ		
+5	en	en	DET		
+6	række	række	NOUN		noun.quantity
+7	telefonsamtaler	telefonsamtale	NOUN		noun.communication
+8	og	og	CCONJ		
+9	møder	møde	NOUN		noun.act
+10	i	i	ADP		
+11	oktober	oktober	NOUN		noun.time
+12	og	og	CCONJ		
+13	november	november	NOUN		noun.time
+14	1991	1991	ADV		noun.time
+15	viser	visere	VERB		verb.stative
+16	,	,	PUNCT		
+17	at	at	SCONJ		
+18	"	"	PUNCT		
+19	Lonne	lonne	PROPN		noun.person
+20	"	"	PUNCT		
+21	i	i	ADP		
+22	samarbejde	samarbejde	NOUN		noun.act
+23	med	med	ADP		
+24	en	en	DET		
+25	gammel	gammel	ADJ		adj.time
+26	ven	ven	NOUN		noun.person
+27	,	,	PUNCT		
+28	en	en	DET		
+29	forhenværende	forhenværende	ADJ		adj.time
+30	stor-smugler	stor-smugl	NOUN		noun.person
+31	og	og	CCONJ		
+32	nu	nu	ADV		
+33	pølsemand	pølsemand	NOUN		noun.person
+34	i	i	ADP		
+35	København	københavn	PROPN		noun.location
+36	,	,	PUNCT		
+37	og	og	CCONJ		
+38	en	en	DET		
+39	udlands-dansker	udlands-dansk	NOUN		noun.person
+40	i	i	ADP		
+41	Pattaya	pattaya	PROPN		noun.location
+42	planlagde	planlægge	VERB		verb.cognition
+43	indsmugling	indsmugling	NOUN		noun.act
+44	af	af	ADP		
+45	heroin	heroin	NOUN		noun.substance
+46	fra	fra	ADP		
+47	Thailand	thailand	PROPN		noun.location
+48	.	.	PUNCT		
+
+# newdoc id = DDT-1514.tsv
+# sent_id = 5
+# text =  Udlands-danskeren med hang til guldsmykker har i mange år drevet værtshus i Pattaya.
+1	Udlands-danskeren	udlands-dansk	NOUN		noun.person
+2	med	med	ADP		
+3	hang	hang	NOUN		noun.cognition
+4	til	til	ADP		
+5	guldsmykker	guldsmykke	NOUN		noun.artifact
+6	har	have	AUX		
+7	i	i	ADP		
+8	mange	mangen	ADJ		
+9	år	år	NOUN		noun.time
+10	drevet	drive	VERB		verb.act
+11	værtshus	værtshus	NOUN		noun.building
+12	i	i	ADP		
+13	Pattaya	pattaya	PROPN		noun.location
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1514.tsv
+# sent_id = 6
+# text =  Men han er nu blandt de tre danskere, der frivilligt er kommet hjem fra Thailand til varetægtsfængsling i Danmark, fordi de ellers risikerede at blive kastet i Thailandsk fængsel i afventen på udlevering til Danmark.
+1	Men	men	CCONJ		
+2	han	han	PRON		
+3	er	være	AUX		verb.stative
+4	nu	nu	ADV		
+5	blandt	blandt	ADP		
+6	de	den	DET		
+7	tre	tre	ADJ		
+8	danskere	dansker	NOUN		noun.person
+9	,	,	PUNCT		
+10	der	der	PRON		
+11	frivilligt	frivillig	ADV		
+12	er	være	AUX		
+13	kommet	komme	VERB		verb.motion
+14	hjem	hjem	ADV		verb.COLL
+15	fra	fra	ADP		
+16	Thailand	thailand	PROPN		noun.location
+17	til	til	ADP		
+18	varetægtsfængsling	varetægtsfængsling	NOUN		noun.act
+19	i	i	ADP		
+20	Danmark	danmark	PROPN		noun.location
+21	,	,	PUNCT		
+22	fordi	fordi	SCONJ		
+23	de	den	PRON		
+24	ellers	ellers	ADV		
+25	risikerede	risikere	VERB		verb.phenomenon
+26	at	at	PART		
+27	blive	blive	AUX		
+28	kastet	kaste	VERB		verb.motion
+29	i	i	ADP		
+30	Thailandsk	thailandsk	ADJ		adj.social
+31	fængsel	fængsel	NOUN		noun.building
+32	i	i	ADP		
+33	afventen	afvente	NOUN		noun.state
+34	på	på	ADP		
+35	udlevering	udlevering	NOUN		noun.possession
+36	til	til	ADP		
+37	Danmark	danmark	PROPN		noun.location
+38	.	.	PUNCT		
+

@@ -1,0 +1,219 @@
+# newdoc id = DDT-1338.tsv
+# sent_id = 1
+# text =  Sådan mener drabsafdelingen i København nu, at bombe-attentatet mod Internationale Socialister skete klokken 11.32 i_mandags.
+1	Sådan	sådan	ADV		
+2	mener	mene	VERB		verb.cognition
+3	drabsafdelingen	drabsafdeling	NOUN		noun.person
+4	i	i	ADP		
+5	København	københavn	PROPN		noun.location
+6	nu	nu	ADV		
+7	,	,	PUNCT		
+8	at	at	SCONJ		
+9	bombe-attentatet	bombe-attentat	NOUN		noun.act
+10	mod	mod	ADP		
+11	Internationale	international	ADJ		adj.social
+12	Socialister	socialist	NOUN		noun.person
+13	skete	ske	VERB		verb.phenomenon
+14	klokken	klokke	NOUN		
+15	11.32	11.32	ADJ		
+16	i_mandags	i_mandag	NOUN		noun.time
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1338.tsv
+# sent_id = 2
+# text =  Tekniske eksperter har nu slået fast, at eksplosionen skyldtes en meget kraftig bombe, og alt tyder på, at bomben blev afleveret af postbudet, der klokken 8.45 mandag lagde den tykke prøvekuvert i" Internationale Socialisters" postkasse.
+1	Tekniske	teknisk	ADJ		adj.all
+2	eksperter	ekspert	NOUN		noun.person
+3	har	have	AUX		
+4	nu	nu	ADV		
+5	slået	slå	VERB		verb.act
+6	fast	fast	ADV		verb.PARTICLE
+7	,	,	PUNCT		
+8	at	at	SCONJ		
+9	eksplosionen	eksplosion	NOUN		noun.phenomenon
+10	skyldtes	skyldes	VERB		verb.phenomenon
+11	en	en	DET		
+12	meget	megen	ADV		
+13	kraftig	kraftig	ADJ		adj.all
+14	bombe	bombe	NOUN		noun.artifact
+15	,	,	PUNCT		
+16	og	og	CCONJ		
+17	alt	al	ADJ		
+18	tyder	tyde	VERB		verb.phenomenon
+19	på	på	ADP		
+20	,	,	PUNCT		
+21	at	at	SCONJ		
+22	bomben	bombe	NOUN		noun.artifact
+23	blev	blive	AUX		
+24	afleveret	aflevere	VERB		verb.possession
+25	af	af	ADP		
+26	postbudet	postbud	NOUN		noun.person
+27	,	,	PUNCT		
+28	der	der	PRON		
+29	klokken	klokke	ADV		
+30	8.45	8.45	ADJ		
+31	mandag	mandag	NOUN		noun.time
+32	lagde	lægge	VERB		verb.act
+33	den	den	DET		
+34	tykke	tyk	ADJ		adj.phys
+35	prøvekuvert	prøvekuvert	NOUN		noun.artifact
+36	i	i	ADP		
+37	"	"	PUNCT		
+38	Internationale	international	ADJ		noun.institution
+39	Socialisters	socialist	NOUN		noun.institution
+40	"	"	PUNCT		
+41	postkasse	postkasse	NOUN		noun.container
+42	.	.	PUNCT		
+
+# newdoc id = DDT-1338.tsv
+# sent_id = 3
+# text =  BOMBE-KRATER
+1	BOMBE-KRATER	bombe-krat	NOUN		noun.phenomenon
+
+# newdoc id = DDT-1338.tsv
+# sent_id = 4
+# text = " Bordpladen på skrivebordet er pulveriseret, og bomben har lavet et dybt krater i gulvet nedunder.
+1	"	"	PUNCT		
+2	Bordpladen	bordplade	NOUN		noun.artifact
+3	på	på	ADP		
+4	skrivebordet	skrivebord	NOUN		noun.artifact
+5	er	være	AUX		
+6	pulveriseret	pulverisere	VERB		verb.change
+7	,	,	PUNCT		
+8	og	og	CCONJ		
+9	bomben	bombe	NOUN		noun.artifact
+10	har	have	AUX		
+11	lavet	lave	VERB		verb.creation
+12	et	en	DET		
+13	dybt	dyb	ADJ		adj.phys
+14	krater	krater	NOUN		noun.phenomenon
+15	i	i	ADP		
+16	gulvet	gulv	NOUN		noun.artifact
+17	nedunder	nedund	NOUN		
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1338.tsv
+# sent_id = 5
+# text =  Det taler for, at bomben er eksploderet, da han har åbnet pakken," siger kriminalinspektør Bent Hansen, drabsafdelingen.
+1	Det	det	PRON		
+2	taler	tale	VERB		verb.communication
+3	for	for	ADP		
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	bomben	bombe	NOUN		noun.artifact
+7	er	være	AUX		
+8	eksploderet	eksplodere	VERB		verb.change
+9	,	,	PUNCT		
+10	da	da	SCONJ		
+11	han	han	PRON		
+12	har	have	AUX		
+13	åbnet	åbne	VERB		verb.act
+14	pakken	pakke	NOUN		noun.container
+15	,	,	PUNCT		
+16	"	"	PUNCT		
+17	siger	sige	VERB		verb.communication
+18	kriminalinspektør	kriminalinspektør	NOUN		noun.person
+19	Bent	bent	PROPN		noun.person
+20	Hansen	hansen	PROPN		noun.person
+21	,	,	PUNCT		
+22	drabsafdelingen	drabsafdeling	NOUN		noun.institution
+23	.	.	PUNCT		
+
+# newdoc id = DDT-1338.tsv
+# sent_id = 6
+# text =  Politiets teknikere har ikke fundet rester af bomben endnu, men kilovis af materiale, der er samlet på stedet, skal nu fin-sorteres og undersøges.
+1	Politiets	politi	NOUN		noun.institution
+2	teknikere	tekniker	NOUN		noun.person
+3	har	have	AUX		
+4	ikke	ikke	ADV		
+5	fundet	finde	VERB		verb.cognition
+6	rester	rest	NOUN		noun.relation
+7	af	af	ADP		
+8	bomben	bombe	NOUN		noun.artifact
+9	endnu	endnu	ADV		
+10	,	,	PUNCT		
+11	men	men	CCONJ		
+12	kilovis	kilovis	ADV		noun.quantity
+13	af	af	ADP		
+14	materiale	materiale	NOUN		noun.substance
+15	,	,	PUNCT		
+16	der	der	PRON		
+17	er	være	AUX		
+18	samlet	samle	VERB		verb.act
+19	på	på	ADP		
+20	stedet	sted	NOUN		noun.location
+21	,	,	PUNCT		
+22	skal	skulle	AUX		
+23	nu	nu	ADV		
+24	fin-sorteres	fin-sort	VERB		verb.act
+25	og	og	CCONJ		
+26	undersøges	undersøge	VERB		verb.cognition
+27	.	.	PUNCT		
+
+# newdoc id = DDT-1338.tsv
+# sent_id = 7
+# text =  I_går holdt politiets teknikere møde med sprængstof-eksperter fra Farum Kasernes ingeniør-tropper, men endnu kan politiet ikke sige, hvilket sprængstof der er brugt.
+1	I_går	i_går	NOUN		noun.time
+2	holdt	holde	VERB		verb.act
+3	politiets	politi	NOUN		noun.institution
+4	teknikere	tekniker	NOUN		noun.person
+5	møde	møde	NOUN		verb.COLL
+6	med	med	ADP		
+7	sprængstof-eksperter	sprængstof-ekspert	NOUN		noun.person
+8	fra	fra	ADP		
+9	Farum	farum	PROPN		noun.institution
+10	Kasernes	kaserne	NOUN		noun.institution
+11	ingeniør-tropper	ingeniør-trop	NOUN		noun.person
+12	,	,	PUNCT		
+13	men	men	CCONJ		
+14	endnu	endnu	ADV		
+15	kan	kunne	AUX		
+16	politiet	politi	NOUN		noun.institution
+17	ikke	ikke	ADV		
+18	sige	sige	VERB		verb.communication
+19	,	,	PUNCT		
+20	hvilket	hvilken	PRON		
+21	sprængstof	sprængstof	NOUN		noun.artifact
+22	der	der	ADV		
+23	er	være	AUX		
+24	brugt	bruge	VERB		verb.act
+25	.	.	PUNCT		
+
+# newdoc id = DDT-1338.tsv
+# sent_id = 8
+# text =  Men der må være tale om sprængstof, der også giver en kraftig brandpåvirkning.
+1	Men	men	CCONJ		
+2	der	der	ADV		
+3	må	måtte	AUX		
+4	være	være	VERB		verb.stative
+5	tale	tale	NOUN		noun.communication
+6	om	om	ADP		
+7	sprængstof	sprængstof	NOUN		noun.artifact
+8	,	,	PUNCT		
+9	der	der	PRON		
+10	også	også	ADV		
+11	giver	give	VERB		verb.phenomenon
+12	en	en	DET		
+13	kraftig	kraftig	ADJ		adj.all
+14	brandpåvirkning	brandpåvirkning	NOUN		noun.phenomenon
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1338.tsv
+# sent_id = 9
+# text =  I_dag holdes et nyt møde med andre sprængstofeksperter i forsøget på at fastslå sprængstof-typen.
+1	I_dag	i_dag	NOUN		
+2	holdes	holde	VERB		verb.act
+3	et	en	DET		
+4	nyt	ny	ADJ		adj.time
+5	møde	møde	NOUN		verb.COLL
+6	med	med	ADP		
+7	andre	anden	DET		
+8	sprængstofeksperter	sprængstofekspert	NOUN		noun.person
+9	i	i	ADP		
+10	forsøget	forsøg	NOUN		noun.act
+11	på	på	ADP		
+12	at	at	PART		
+13	fastslå	fastslå	VERB		verb.cognition
+14	sprængstof-typen	sprængstof-typ	NOUN		noun.domain
+15	.	.	PUNCT		
+

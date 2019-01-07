@@ -1,0 +1,208 @@
+# newdoc id = DDT-1436.tsv
+# sent_id = 1
+# text =  Den overlevende polske matros, Krzysztof Samsel, 30, som med helikopter blev fløjet til den norske by Farsund, fortalte i en søforklaring i_går, at han kun havde reddet livet på_grund_af en luftboble, der havde presset ham væk fra det synkende skib.
+1	Den	den	DET		
+2	overlevende	overleve	VERB		adj.all
+3	polske	polsk	ADJ		adj.social
+4	matros	matros	NOUN		noun.person
+5	,	,	PUNCT		
+6	Krzysztof	krzysztof	PROPN		noun.person
+7	Samsel	samsel	PROPN		noun.person
+8	,	,	PUNCT		
+9	30	30	NUM		
+10	,	,	PUNCT		
+11	som	som	PRON		
+12	med	med	ADP		
+13	helikopter	helikopter	NOUN		noun.vehicle
+14	blev	blive	AUX		
+15	fløjet	flyve	VERB		verb.motion
+16	til	til	ADP		
+17	den	den	DET		
+18	norske	norsk	ADJ		adj.social
+19	by	by	NOUN		noun.location
+20	Farsund	farsund	PROPN		noun.location
+21	,	,	PUNCT		
+22	fortalte	fortælle	VERB		verb.communication
+23	i	i	ADP		
+24	en	en	DET		
+25	søforklaring	søforklaring	NOUN		noun.communication
+26	i_går	i_går	NOUN		noun.time
+27	,	,	PUNCT		
+28	at	at	SCONJ		
+29	han	han	PRON		
+30	kun	kun	ADV		
+31	havde	have	AUX		
+32	reddet	redde	VERB		verb.phenomenon
+33	livet	liv	NOUN		noun.attribute
+34	på_grund_af	på_grund_af	X		
+35	en	en	DET		
+36	luftboble	luftboble	NOUN		noun.object
+37	,	,	PUNCT		
+38	der	der	PRON		
+39	havde	have	AUX		
+40	presset	presse	VERB		verb.motion
+41	ham	han	PRON		
+42	væk	væk	ADV		
+43	fra	fra	ADP		
+44	det	det	DET		
+45	synkende	synke	VERB		adj.all
+46	skib	skib	NOUN		noun.vehicle
+47	.	.	PUNCT		
+
+# newdoc id = DDT-1436.tsv
+# sent_id = 2
+# text = " Ellers var jeg blev suget med ned," forklarede Samsel.
+1	"	"	PUNCT		
+2	Ellers	ellers	ADV		
+3	var	være	AUX		
+4	jeg	jeg	PRON		
+5	blev	blive	AUX		
+6	suget	suge	VERB		verb.phenomenon
+7	med	med	ADP		
+8	ned	ned	ADV		verb.PARTICLE
+9	,	,	PUNCT		
+10	"	"	PUNCT		
+11	forklarede	forklare	VERB		verb.communication
+12	Samsel	samsel	PROPN		noun.person
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1436.tsv
+# sent_id = 3
+# text =  SEKS ER VÆK
+1	SEKS	seks	PRON		
+2	ER	være	AUX		verb.stative
+3	VÆK	væk	ADV		adj.all
+
+# newdoc id = DDT-1436.tsv
+# sent_id = 4
+# text =  Det menes, at de seks øvrige besætningsmedlemmer på Kamilla, der var på vej fra Rekefjord i Norge til Rendsburg i Tyskland med sin last af sten, er gået ned sammen med skibet.
+1	Det	det	PRON		
+2	menes	mene	VERB		verb.cognition
+3	,	,	PUNCT		
+4	at	at	SCONJ		
+5	de	den	DET		
+6	seks	seks	ADJ		
+7	øvrige	øvrig	ADJ		
+8	besætningsmedlemmer	besætningsmedlem	NOUN		noun.person
+9	på	på	ADP		
+10	Kamilla	kamilla	PROPN		noun.vehicle
+11	,	,	PUNCT		
+12	der	der	PRON		
+13	var	være	VERB		verb.stative
+14	på	på	ADP		
+15	vej	vej	NOUN		
+16	fra	fra	ADP		
+17	Rekefjord	rekefjord	PROPN		noun.location
+18	i	i	ADP		
+19	Norge	norge	PROPN		noun.location
+20	til	til	ADP		
+21	Rendsburg	rendsburg	PROPN		noun.location
+22	i	i	ADP		
+23	Tyskland	tyskland	PROPN		noun.location
+24	med	med	ADP		
+25	sin	sin	DET		
+26	last	last	NOUN		noun.artifact
+27	af	af	ADP		
+28	sten	sten	NOUN		noun.object
+29	,	,	PUNCT		
+30	er	være	AUX		
+31	gået	gå	VERB		verb.phenomenon
+32	ned	ned	ADV		verb.PARTICLE
+33	sammen	sammen	ADV		
+34	med	med	ADP		
+35	skibet	skib	NOUN		noun.vehicle
+36	.	.	PUNCT		
+
+# newdoc id = DDT-1436.tsv
+# sent_id = 5
+# text =  Isafold satte efter sammenstøddet øjelikkelig en gummibåd med påhængsmotor i vandet.
+1	Isafold	isafold	PROPN		noun.vehicle
+2	satte	sætte	VERB		verb.act
+3	efter	efter	ADP		
+4	sammenstøddet	sammenstød	NOUN		noun.event
+5	øjelikkelig	øjelikkelig	X		
+6	en	en	DET		
+7	gummibåd	gummibåd	NOUN		noun.vehicle
+8	med	med	ADP		
+9	påhængsmotor	påhængsmotor	NOUN		noun.artifact
+10	i	i	ADP		
+11	vandet	vand	NOUN		noun.substance
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1436.tsv
+# sent_id = 6
+# text =  Men mandskabet så kun den enlige polak.
+1	Men	men	CCONJ		
+2	mandskabet	mandskab	NOUN		noun.person
+3	så	så	VERB		verb.perception
+4	kun	kun	ADV		
+5	den	den	DET		
+6	enlige	enlig	ADJ		adj.social
+7	polak	polak	NOUN		noun.person
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1436.tsv
+# sent_id = 7
+# text =  Kystvagtskibet Lafjord har bjærget en del vraggods fra det forliste skib, bl.a. to tomme redningsflåder og en redningsbåd.
+1	Kystvagtskibet	kystvagtskib	NOUN		noun.vehicle
+2	Lafjord	lafjord	PROPN		noun.vehicle
+3	har	have	AUX		
+4	bjærget	bjærge	VERB		verb.motion
+5	en	en	DET		
+6	del	del	NOUN		noun.quantity
+7	vraggods	vraggods	NOUN		noun.artifact
+8	fra	fra	ADP		
+9	det	det	DET		
+10	forliste	forlise	ADJ		adj.all
+11	skib	skib	NOUN		noun.vehicle
+12	,	,	PUNCT		
+13	bl.a.	bl.a.	ADV		
+14	to	to	ADV		
+15	tomme	tom	ADJ		adj.all
+16	redningsflåder	redningsflåde	NOUN		noun.vehicle
+17	og	og	CCONJ		
+18	en	en	DET		
+19	redningsbåd	redningsbåd	NOUN		noun.vehicle
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1436.tsv
+# sent_id = 8
+# text =  Men der er fortsat ingen spor af de seks besætningsmedlemmer, alle mænd i alderen 30-50 år.
+1	Men	men	CCONJ		
+2	der	der	ADV		
+3	er	være	VERB		verb.stative
+4	fortsat	fortsætte	ADV		
+5	ingen	ingen	DET		
+6	spor	spor	NOUN		noun.phenomenon
+7	af	af	ADP		
+8	de	den	DET		
+9	seks	seks	ADJ		
+10	besætningsmedlemmer	besætningsmedlem	NOUN		noun.person
+11	,	,	PUNCT		
+12	alle	al	ADJ		
+13	mænd	mand	NOUN		noun.person
+14	i	i	ADP		
+15	alderen	alder	NOUN		noun.time
+16	30-50	30-50	NUM		
+17	år	år	NOUN		noun.time
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1436.tsv
+# sent_id = 9
+# text =  Skipper og styrmænd på Isafold mødtes i_går i Hirtshals med rederiets advokat og forsikringsrepræsentanter.
+1	Skipper	skipper	NOUN		noun.person
+2	og	og	CCONJ		
+3	styrmænd	styrmand	NOUN		noun.person
+4	på	på	ADP		
+5	Isafold	isafold	PROPN		noun.vehicle
+6	mødtes	mødes	VERB		verb.social
+7	i_går	i_går	NOUN		noun.time
+8	i	i	ADP		
+9	Hirtshals	hirtshals	PROPN		noun.location
+10	med	med	ADP		
+11	rederiets	rederi	NOUN		noun.institution
+12	advokat	advokat	NOUN		noun.person
+13	og	og	CCONJ		
+14	forsikringsrepræsentanter	forsikringsrepræsentant	NOUN		noun.person
+15	.	.	PUNCT		
+

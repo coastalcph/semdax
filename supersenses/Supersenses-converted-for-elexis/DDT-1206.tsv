@@ -1,0 +1,244 @@
+# newdoc id = DDT-1206.tsv
+# sent_id = 1
+# text =  Eddie Carbone, italiensk-amerikansk havnearbejder i New York.
+1	Eddie	eddie	PROPN		noun.person
+2	Carbone	carbone	PROPN		noun.person
+3	,	,	PUNCT		
+4	italiensk-amerikansk	italiensk-amerikansk	ADJ		adj.social
+5	havnearbejder	havnearbejder	NOUN		noun.person
+6	i	i	ADP		
+7	New	new	PROPN		noun.location
+8	York	york	PROPN		noun.location
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1206.tsv
+# sent_id = 2
+# text =  Et stort brød.
+1	Et	en	DET		
+2	stort	stor	ADJ		adj.phys
+3	brød	brød	NOUN		noun.person
+4	.	.	PUNCT		
+
+# newdoc id = DDT-1206.tsv
+# sent_id = 3
+# text =  Naiv, primitiv, enkle følelser.
+1	Naiv	naiv	ADJ		adj.mental
+2	,	,	PUNCT		
+3	primitiv	primitiv	ADJ		adj.mental
+4	,	,	PUNCT		
+5	enkle	enkel	ADJ		adj.all
+6	følelser	følelse	NOUN		noun.feeling
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1206.tsv
+# sent_id = 4
+# text =  Følelser, som han ikke kan beherske, og som derfor driver ham ud i en situation, hvor han optræder som forræder, angiver, stikker.
+1	Følelser	følelse	NOUN		noun.feeling
+2	,	,	PUNCT		
+3	som	som	PRON		
+4	han	han	PRON		
+5	ikke	ikke	ADV		
+6	kan	kunne	AUX		
+7	beherske	beherske	VERB		verb.cognition
+8	,	,	PUNCT		
+9	og	og	CCONJ		
+10	som	som	ADP		
+11	derfor	derfor	ADV		
+12	driver	drive	VERB		verb.phenomenon
+13	ham	han	PRON		
+14	ud	ud	ADV		
+15	i	i	ADP		
+16	en	en	DET		
+17	situation	situation	NOUN		noun.state
+18	,	,	PUNCT		
+19	hvor	hvor	ADV		
+20	han	han	PRON		
+21	optræder	optræde	VERB		verb.phenomenon
+22	som	som	ADP		
+23	forræder	forræder	NOUN		noun.person
+24	,	,	PUNCT		
+25	angiver	angiver	NOUN		noun.person
+26	,	,	PUNCT		
+27	stikker	stikke	VERB		noun.person
+28	.	.	PUNCT		
+
+# newdoc id = DDT-1206.tsv
+# sent_id = 5
+# text =  En forbrydelse- ikke i juridisk, men i moralsk forstand.
+1	En	en	DET		
+2	forbrydelse	forbrydelse	NOUN		noun.act
+3	-	-	PUNCT		
+4	ikke	ikke	ADV		
+5	i	i	ADP		
+6	juridisk	juridisk	ADJ		adj.social
+7	,	,	PUNCT		
+8	men	men	CCONJ		
+9	i	i	ADP		
+10	moralsk	moralsk	ADJ		adj.mental
+11	forstand	forstand	NOUN		noun.abstract
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1206.tsv
+# sent_id = 6
+# text =  Og han betaler for den med sit liv.
+1	Og	og	CCONJ		
+2	han	han	PRON		
+3	betaler	betale	VERB		verb.possession
+4	for	for	ADP		
+5	den	den	PRON		
+6	med	med	ADP		
+7	sit	sin	DET		
+8	liv	liv	NOUN		noun.abstract
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1206.tsv
+# sent_id = 7
+# text =  Arthur Millers skuespil" Udsigt fra broen" er et moderne passionsdrama.
+1	Arthur	arthur	PROPN		noun.person
+2	Millers	millers	PROPN		noun.person
+3	skuespil	skuespil	NOUN		noun.communication
+4	"	"	PUNCT		
+5	Udsigt	udsigt	NOUN		noun.communication
+6	fra	fra	ADP		noun.communication
+7	broen	bro	NOUN		noun.communication
+8	"	"	PUNCT		
+9	er	være	AUX		verb.stative
+10	et	en	DET		
+11	moderne	moderne	ADJ		adj.time
+12	passionsdrama	passionsdrama	NOUN		noun.communication
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1206.tsv
+# sent_id = 8
+# text =  Passionen i Eddie Carbones tilfælde gælder den niece, der er opvokset hos ham som en datter.
+1	Passionen	passion	NOUN		noun.feeling
+2	i	i	ADP		
+3	Eddie	eddie	PROPN		noun.person
+4	Carbones	carbones	PROPN		noun.person
+5	tilfælde	tilfælde	NOUN		noun.abstract
+6	gælder	gælde	VERB		verb.stative
+7	den	den	DET		
+8	niece	niece	NOUN		noun.person
+9	,	,	PUNCT		
+10	der	der	ADV		
+11	er	være	AUX		
+12	opvokset	opvokset	ADJ		verb.phenomenon
+13	hos	hos	ADP		
+14	ham	han	PRON		
+15	som	som	ADP		
+16	en	en	DET		
+17	datter	datter	NOUN		noun.person
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1206.tsv
+# sent_id = 9
+# text =  Og som så mange fædre kan han ikke tåle, at datteren" svigter" ham for at gifte sig med den mand, hun elsker.
+1	Og	og	CCONJ		
+2	som	som	ADP		
+3	så	så	ADV		
+4	mange	mangen	ADJ		
+5	fædre	far	NOUN		noun.person
+6	kan	kunne	AUX		
+7	han	han	PRON		
+8	ikke	ikke	ADV		
+9	tåle	tåle	VERB		verb.emotion
+10	,	,	PUNCT		
+11	at	at	SCONJ		
+12	datteren	datter	NOUN		noun.person
+13	"	"	PUNCT		
+14	svigter	svigte	VERB		verb.phenomenon
+15	"	"	PUNCT		
+16	ham	han	PRON		
+17	for	for	ADP		
+18	at	at	PART		
+19	gifte	gifte	VERB		verb.act
+20	sig	sig	PRON		verb.REFLPRON
+21	med	med	ADP		
+22	den	den	DET		
+23	mand	mand	NOUN		noun.person
+24	,	,	PUNCT		
+25	hun	hun	PRON		
+26	elsker	elske	VERB		verb.emotion
+27	.	.	PUNCT		
+
+# newdoc id = DDT-1206.tsv
+# sent_id = 10
+# text =  Manden er fætter til hans kone, illegal italiensk immigrant.
+1	Manden	mand	NOUN		noun.person
+2	er	være	AUX		verb.stative
+3	fætter	fætter	NOUN		noun.relation
+4	til	til	ADP		
+5	hans	hans	DET		
+6	kone	kone	NOUN		noun.person
+7	,	,	PUNCT		
+8	illegal	illegal	ADJ		adj.social
+9	italiensk	italiensk	ADJ		adj.social
+10	immigrant	immigrant	NOUN		noun.person
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1206.tsv
+# sent_id = 11
+# text =  Sammen med sin ældre bror har han søgt husly hos familien Carbone.
+1	Sammen	sammen	ADV		
+2	med	med	ADP		
+3	sin	sin	DET		
+4	ældre	gammel	ADJ		adj.time
+5	bror	bror	NOUN		noun.person
+6	har	have	AUX		
+7	han	han	PRON		
+8	søgt	søge	VERB		verb.act
+9	husly	husly	NOUN		noun.abstract
+10	hos	hos	ADP		
+11	familien	familie	NOUN		noun.person
+12	Carbone	carbone	PROPN		noun.person
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1206.tsv
+# sent_id = 12
+# text =  Og for at forpurre datterens ægteskab angiver Eddie de to flygtninge til politiet.
+1	Og	og	CCONJ		
+2	for	for	ADP		
+3	at	at	PART		
+4	forpurre	forpurre	VERB		verb.change
+5	datterens	datter	DET		noun.person
+6	ægteskab	ægteskab	NOUN		noun.relation
+7	angiver	angive	VERB		verb.communication
+8	Eddie	eddie	PROPN		noun.person
+9	de	den	DET		
+10	to	to	NUM		
+11	flygtninge	flygtning	NOUN		noun.person
+12	til	til	ADP		
+13	politiet	politi	NOUN		noun.institution
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1206.tsv
+# sent_id = 13
+# text =  Det er denne handling, storebroderen mener, han må hævne.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	denne	denne	DET		
+4	handling	handling	NOUN		noun.act
+5	,	,	PUNCT		
+6	storebroderen	storebroder	NOUN		noun.person
+7	mener	mene	VERB		verb.emotion
+8	,	,	PUNCT		
+9	han	han	PRON		
+10	må	måtte	AUX		
+11	hævne	hævne	VERB		verb.act
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1206.tsv
+# sent_id = 14
+# text =  Et drama- en duel- der ender med døden.
+1	Et	en	DET		
+2	drama	drama	NOUN		verb.act
+3	-	-	PUNCT		
+4	en	en	DET		
+5	duel	duel	NOUN		noun.act
+6	-	-	PUNCT		
+7	der	der	PRON		
+8	ender	ende	VERB		verb.aspectual
+9	med	med	ADP		
+10	døden	død	NOUN		noun.phenomenon
+11	.	.	PUNCT		
+

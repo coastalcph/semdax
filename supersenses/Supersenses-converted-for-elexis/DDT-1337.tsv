@@ -1,0 +1,243 @@
+# newdoc id = DDT-1337.tsv
+# sent_id = 1
+# text = " Vor hund, en labrador, blev fodret godt.
+1	"	"	PUNCT		
+2	Vor	vor	DET		
+3	hund	hund	NOUN		noun.animal
+4	,	,	PUNCT		
+5	en	en	DET		
+6	labrador	labrador	NOUN		noun.animal
+7	,	,	PUNCT		
+8	blev	blive	AUX		
+9	fodret	fodre	VERB		verb.act
+10	godt	godte	ADV		
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1337.tsv
+# sent_id = 2
+# text =  Det blev naboens store, sorte hund også," siger Københavns politidirektør, Poul Eefsen, galgenhumoristisk til B.T. efter et stort smykkekup i hans Holte-villa og en række tilsvarende kup i området.
+1	Det	det	PRON		
+2	blev	blive	AUX		verb.stative
+3	naboens	nabo	ADV		noun.person
+4	store	stor	ADJ		adj.phys
+5	,	,	PUNCT		
+6	sorte	sort	ADJ		adj.phys
+7	hund	hund	NOUN		noun.animal
+8	også	også	ADV		
+9	,	,	PUNCT		
+10	"	"	PUNCT		
+11	siger	sige	VERB		verb.communication
+12	Københavns	københavns	PROPN		noun.institution
+13	politidirektør	politidirektør	NOUN		noun.person
+14	,	,	PUNCT		
+15	Poul	poul	PROPN		noun.person
+16	Eefsen	eefsen	PROPN		noun.person
+17	,	,	PUNCT		
+18	galgenhumoristisk	galgenhumoristisk	ADV		adj.all
+19	til	til	ADP		
+20	B.T.	b.t.	PROPN		noun.communication
+21	efter	efter	ADP		
+22	et	en	DET		
+23	stort	stor	ADJ		adj.phys
+24	smykkekup	smykkekup	NOUN		noun.act
+25	i	i	ADP		
+26	hans	hans	DET		
+27	Holte-villa	holte-villa	NOUN		noun.building
+28	og	og	CCONJ		
+29	en	en	DET		
+30	række	række	NOUN		noun.quantity
+31	tilsvarende	tilsvarende	ADJ		adj.all
+32	kup	kup	NOUN		noun.act
+33	i	i	ADP		
+34	området	område	NOUN		noun.location
+35	.	.	PUNCT		
+
+# newdoc id = DDT-1337.tsv
+# sent_id = 3
+# text =  Tirsdag 3. marts om aftenen plyndrede en formentlig professionel jugoslavisk bande en række mondæne ejendomme, mens beboerne var ude.
+1	Tirsdag	tirsdag	NOUN		noun.time
+2	3.	3.	ADJ		
+3	marts	marts	NOUN		noun.time
+4	om	om	ADP		
+5	aftenen	aften	NOUN		noun.time
+6	plyndrede	plyndre	VERB		verb.act
+7	en	en	DET		
+8	formentlig	formentlig	ADV		
+9	professionel	professionel	ADJ		adj.all
+10	jugoslavisk	jugoslavisk	ADJ		adj.social
+11	bande	bande	NOUN		noun.person
+12	en	en	DET		
+13	række	række	NOUN		noun.quantity
+14	mondæne	mondæn	ADJ		adj.all
+15	ejendomme	ejendom	NOUN		noun.building
+16	,	,	PUNCT		
+17	mens	mens	SCONJ		
+18	beboerne	beboer	NOUN		noun.person
+19	var	være	AUX		verb.stative
+20	ude	ude	ADV		
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1337.tsv
+# sent_id = 4
+# text =  Med saftige lunser kød blev vagthundene passiviseret, så de formentlig to gerningsmænd uhindret kunne gå rundt, bryde skuffer og skabe op og flygte med store værdier.
+1	Med	med	ADP		
+2	saftige	saftig	ADJ		adj.phys
+3	lunser	luns	NOUN		noun.relation
+4	kød	kød	NOUN		noun.food
+5	blev	blive	AUX		
+6	vagthundene	vagthund	NOUN		noun.animal
+7	passiviseret	passivisere	VERB		verb.change
+8	,	,	PUNCT		
+9	så	så	SCONJ		
+10	de	den	PRON		
+11	formentlig	formentlig	ADV		
+12	to	to	NUM		
+13	gerningsmænd	gerningsmand	NOUN		noun.person
+14	uhindret	uhindret	ADV		
+15	kunne	kunne	AUX		
+16	gå	gå	VERB		verb.motion
+17	rundt	rund	ADV		verb.PARTICLE
+18	,	,	PUNCT		
+19	bryde	bryde	VERB		verb.act
+20	skuffer	skuffe	NOUN		noun.artifact
+21	og	og	CCONJ		
+22	skabe	skabe	VERB		noun.artifact
+23	op	op	ADV		verb.PARTICLE
+24	og	og	CCONJ		
+25	flygte	flygte	VERB		verb.motion
+26	med	med	ADP		
+27	store	stor	ADJ		adj.phys
+28	værdier	værdi	NOUN		noun.artifact
+29	.	.	PUNCT		
+
+# newdoc id = DDT-1337.tsv
+# sent_id = 5
+# text =  Politidirektør Poul Eefsen:
+1	Politidirektør	politidirektør	NOUN		noun.person
+2	Poul	poul	PROPN		noun.person
+3	Eefsen	eefsen	PROPN		noun.person
+4	:	:	PUNCT		
+
+# newdoc id = DDT-1337.tsv
+# sent_id = 6
+# text = " Jeg ønsker ikke blæst om denne sag.
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	ønsker	ønske	VERB		verb.cognition
+4	ikke	ikke	ADV		
+5	blæst	blæst	NOUN		noun.phenomenon
+6	om	om	ADP		
+7	denne	denne	DET		
+8	sag	sag	NOUN		noun.cognition
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1337.tsv
+# sent_id = 7
+# text =  Jeg bryder mig ikke om at blive fremhævet, for det gør lige så ondt på alle andre bestjålne i området."
+1	Jeg	jeg	PRON		
+2	bryder	bryde	VERB		verb.emotion
+3	mig	jeg	PRON		verb.REFLPRON
+4	ikke	ikke	ADV		
+5	om	om	ADP		verb.COLL
+6	at	at	PART		
+7	blive	blive	AUX		
+8	fremhævet	fremhæve	VERB		verb.communication
+9	,	,	PUNCT		
+10	for	for	CCONJ		
+11	det	det	PRON		
+12	gør	gøre	VERB		verb.phenomenon
+13	lige	lige	ADV		
+14	så	så	ADV		
+15	ondt	ond	ADV		verb.PARTICLE
+16	på	på	ADP		
+17	alle	al	ADJ		
+18	andre	anden	PRON		
+19	bestjålne	bestjæle	VERB		noun.person
+20	i	i	ADP		
+21	området	område	NOUN		noun.location
+22	.	.	PUNCT		
+23	"	"	PUNCT		
+
+# newdoc id = DDT-1337.tsv
+# sent_id = 8
+# text =  Under de seks-syv villaindbrud blev der tilsammen stjålet for et stort sekscifret beløb.
+1	Under	under	ADP		
+2	de	den	DET		
+3	seks-syv	seks-syv	ADJ		
+4	villaindbrud	villaindbrud	NOUN		noun.act
+5	blev	blive	AUX		
+6	der	der	ADV		
+7	tilsammen	tilsammen	ADV		
+8	stjålet	stjæle	VERB		verb.possession
+9	for	for	ADP		
+10	et	en	DET		
+11	stort	stor	ADJ		adj.phys
+12	sekscifret	sekscifret	ADJ		
+13	beløb	beløb	NOUN		noun.possession
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1337.tsv
+# sent_id = 9
+# text =  Kuppet i politidirektørens villa, Søterrassen7 i Holte, gav alene et udbytte på 155.000 kr..
+1	Kuppet	kup	NOUN		noun.act
+2	i	i	ADP		
+3	politidirektørens	politidirektør	NOUN		noun.person
+4	villa	villa	NOUN		noun.building
+5	,	,	PUNCT		
+6	Søterrassen	søterrassen	PROPN		noun.location
+7	7	7	PUNCT		noun.location
+8	i	i	ADP		
+9	Holte	holte	PROPN		noun.location
+10	,	,	PUNCT		
+11	gav	give	VERB		verb.possession
+12	alene	alene	ADV		
+13	et	en	DET		
+14	udbytte	udbytte	NOUN		noun.possession
+15	på	på	ADP		
+16	155.000	155.000	NUM		
+17	kr.	kr.	NOUN		
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1337.tsv
+# sent_id = 10
+# text =  Blandt rariteterne fra kuppet hos politichefen var specielt et par antikke lysestager, der alene var vurderet til 50.000 kr..
+1	Blandt	blandt	ADP		
+2	rariteterne	raritet	NOUN		noun.artifact
+3	fra	fra	ADP		
+4	kuppet	kup	NOUN		noun.act
+5	hos	hos	ADP		
+6	politichefen	politichef	NOUN		noun.person
+7	var	være	VERB		verb.stative
+8	specielt	speciel	ADV		
+9	et	en	DET		
+10	par	par	NOUN		noun.quantity
+11	antikke	antik	ADJ		adj.all
+12	lysestager	lysestage	NOUN		noun.artifact
+13	,	,	PUNCT		
+14	der	der	PRON		
+15	alene	alene	ADV		
+16	var	være	AUX		
+17	vurderet	vurdere	VERB		verb.act
+18	til	til	ADP		
+19	50.000	50.000	NUM		
+20	kr.	kr.	NOUN		
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1337.tsv
+# sent_id = 11
+# text =  Ved anmeldelsen til forsikringsselskabet opgav Poul Eefsen sig bestjålet for i_alt 155.000 kr..
+1	Ved	ved	ADP		
+2	anmeldelsen	anmeldelse	NOUN		noun.communication
+3	til	til	ADP		
+4	forsikringsselskabet	forsikringsselskab	NOUN		noun.institution
+5	opgav	opgive	VERB		verb.communication
+6	Poul	poul	PROPN		noun.person
+7	Eefsen	eefsen	PROPN		noun.person
+8	sig	sig	PRON		verb.REFLPRON
+9	bestjålet	bestjæle	VERB		verb.possession
+10	for	for	ADP		
+11	i_alt	i_alt	X		
+12	155.000	155.000	NUM		
+13	kr.	kr.	NOUN		
+14	.	.	PUNCT		
+

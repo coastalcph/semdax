@@ -1,0 +1,218 @@
+# newdoc id = DDT-1382.tsv
+# sent_id = 1
+# text =  SVX Coupe har derimod træk på alle fire hjul, når den skal overføre de 230 hk fra den 3,3 liter store 6-cylinder boxermotor med en topfart på 235 km/t..
+1	SVX	svx	PROPN		noun.vehicle
+2	Coupe	coupe	NOUN		noun.vehicle
+3	har	have	AUX		verb.stative
+4	derimod	derimod	ADV		
+5	træk	træk	NOUN		noun.attribute
+6	på	på	ADP		
+7	alle	al	ADJ		
+8	fire	fire	ADJ		
+9	hjul	hjul	NOUN		noun.artifact
+10	,	,	PUNCT		
+11	når	når	SCONJ		
+12	den	den	PRON		
+13	skal	skulle	AUX		
+14	overføre	overføre	VERB		verb.act
+15	de	den	DET		
+16	230	230	NUM		
+17	hk	hk	NOUN		noun.quantity
+18	fra	fra	ADP		
+19	den	den	DET		
+20	3,3	3,3	ADJ		
+21	liter	liter	NOUN		noun.quantity
+22	store	stor	ADJ		adj.phys
+23	6-cylinder	6-cylind	NOUN		noun.artifact
+24	boxermotor	boxermotor	NOUN		noun.artifact
+25	med	med	ADP		
+26	en	en	DET		
+27	topfart	topfart	NOUN		noun.phenomenon
+28	på	på	ADP		
+29	235	235	X		
+30	km/t.	km/t.	X		noun.quantity
+31	.	.	PUNCT		
+
+# newdoc id = DDT-1382.tsv
+# sent_id = 2
+# text =  Bilen har ABS-bremser og airbag som standard og er med_hensyn_til udstyr i japansk topklasse.
+1	Bilen	bil	NOUN		noun.vehicle
+2	har	have	VERB		verb.stative
+3	ABS-bremser	abs-bremse	NOUN		noun.artifact
+4	og	og	CCONJ		
+5	airbag	airbag	NOUN		noun.artifact
+6	som	som	ADP		
+7	standard	standard	NOUN		noun.phenomenon
+8	og	og	CCONJ		
+9	er	være	AUX		verb.stative
+10	med_hensyn_til	med_hensyn_til	ADJ		
+11	udstyr	udstyr	NOUN		noun.artifact
+12	i	i	ADP		
+13	japansk	japansk	ADJ		adj.social
+14	topklasse	topklasse	NOUN		noun.relation
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1382.tsv
+# sent_id = 3
+# text =  På grund af kvoteordningen for eksport af japanske biler til Europa kan Subaru kun eksportere 35.000 biler til Europa, og af disse har den danske importør fået tildelt 600 i_år.
+1	På	på	ADP		
+2	grund	grund	NOUN		
+3	af	af	ADP		
+4	kvoteordningen	kvoteordning	NOUN		noun.communication
+5	for	for	ADP		
+6	eksport	eksport	NOUN		noun.possession
+7	af	af	ADP		
+8	japanske	japansk	ADJ		adj.social
+9	biler	bil	NOUN		noun.vehicle
+10	til	til	ADP		
+11	Europa	europa	PROPN		noun.location
+12	kan	kunne	AUX		
+13	Subaru	subaru	PROPN		noun.institution
+14	kun	kun	ADV		
+15	eksportere	eksportere	VERB		verb.possession
+16	35.000	35.000	NUM		
+17	biler	bil	NOUN		noun.vehicle
+18	til	til	ADP		
+19	Europa	europa	PROPN		noun.location
+20	,	,	PUNCT		
+21	og	og	CCONJ		
+22	af	af	ADP		
+23	disse	denne	PRON		
+24	har	have	AUX		
+25	den	den	DET		
+26	danske	dansk	ADJ		adj.social
+27	importør	importør	NOUN		noun.person
+28	fået	få	VERB		verb.possession
+29	tildelt	tildele	VERB		verb.possession
+30	600	600	NUM		
+31	i_år	i_år	NOUN		noun.time
+32	.	.	PUNCT		
+
+# newdoc id = DDT-1382.tsv
+# sent_id = 4
+# text =  Subaru sælger en hel del biler i både Schweiz og Tyskland og kan få mere for bilerne der, så det har ingen hastværk med at overfylde de danske lagre med Subaru-biler.
+1	Subaru	subaru	PROPN		noun.institution
+2	sælger	sælge	VERB		verb.possession
+3	en	en	DET		
+4	hel	hel	ADJ		adj.all
+5	del	del	NOUN		noun.quantity
+6	biler	bil	NOUN		noun.vehicle
+7	i	i	ADP		
+8	både	både	ADV		
+9	Schweiz	schweiz	PROPN		noun.location
+10	og	og	CCONJ		
+11	Tyskland	tyskland	PROPN		noun.location
+12	og	og	CCONJ		
+13	kan	kunne	AUX		
+14	få	få	VERB		verb.possession
+15	mere	mere	ADV		
+16	for	for	ADP		
+17	bilerne	bil	NOUN		noun.vehicle
+18	der	der	ADV		
+19	,	,	PUNCT		
+20	så	så	SCONJ		
+21	det	det	PRON		
+22	har	have	VERB		
+23	ingen	ingen	DET		
+24	hastværk	hastværk	NOUN		noun.cognition
+25	med	med	ADP		
+26	at	at	PART		
+27	overfylde	overfylde	VERB		verb.act
+28	de	den	DET		
+29	danske	dansk	ADJ		adj.social
+30	lagre	lager	NOUN		noun.building
+31	med	med	ADP		
+32	Subaru-biler	subaru-bil	NOUN		noun.vehicle
+33	.	.	PUNCT		
+
+# newdoc id = DDT-1382.tsv
+# sent_id = 5
+# text =  Den danske importør, Vilh. Nellemann Autoimport, har besluttet at satse på markedet for jobbiler frem for at sprede sig for meget.
+1	Den	den	DET		
+2	danske	dansk	ADJ		adj.social
+3	importør	importør	NOUN		noun.person
+4	,	,	PUNCT		
+5	Vilh.	vilh.	PROPN		noun.person
+6	Nellemann	nellemann	PROPN		noun.person
+7	Autoimport	autoimport	NOUN		noun.person
+8	,	,	PUNCT		
+9	har	have	AUX		
+10	besluttet	beslutte	VERB		verb.cognition
+11	at	at	PART		
+12	satse	satse	VERB		verb.act
+13	på	på	ADP		
+14	markedet	marked	NOUN		noun.possession
+15	for	for	ADP		
+16	jobbiler	jobbil	NOUN		noun.vehicle
+17	frem	frem	ADV		
+18	for	for	ADP		
+19	at	at	PART		
+20	sprede	sprede	VERB		verb.act
+21	sig	sig	PRON		
+22	for	for	ADV		
+23	meget	megen	ADV		
+24	.	.	PUNCT		
+
+# newdoc id = DDT-1382.tsv
+# sent_id = 6
+# text =  Derfor tæller modelprogrammet foreløbig kun Legacy.
+1	Derfor	derfor	ADV		
+2	tæller	tælle	VERB		verb.communication
+3	modelprogrammet	modelprogram	NOUN		noun.communication
+4	foreløbig	foreløbig	ADV		
+5	kun	kun	ADV		
+6	Legacy	legacy	PROPN		noun.vehicle
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1382.tsv
+# sent_id = 7
+# text =  Hverken Justy eller Alto er på programmet, og den lette mellemklassebil Leone er på vej ud.
+1	Hverken	hverken	ADV		
+2	Justy	justy	PROPN		noun.vehicle
+3	eller	eller	CCONJ		
+4	Alto	alto	PROPN		noun.vehicle
+5	er	være	AUX		verb.stative
+6	på	på	ADP		
+7	programmet	program	NOUN		noun.communication
+8	,	,	PUNCT		
+9	og	og	CCONJ		
+10	den	den	DET		
+11	lette	let	ADJ		adj.phys
+12	mellemklassebil	mellemklassebil	NOUN		noun.vehicle
+13	Leone	leone	PROPN		noun.vehicle
+14	er	være	VERB		verb.stative
+15	på	på	ADP		
+16	vej	vej	NOUN		
+17	ud	ud	ADV		
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1382.tsv
+# sent_id = 8
+# text =  I stedet kommer der en ny mellemklassemodel om et års tid, Empressa, som formentlig også til den tid indlemmes i det danske modelprogram.
+1	I	i	ADP		
+2	stedet	sted	NOUN		
+3	kommer	komme	VERB		verb.motion
+4	der	der	ADV		
+5	en	en	DET		
+6	ny	ny	ADJ		adj.time
+7	mellemklassemodel	mellemklassemodel	NOUN		noun.vehicle
+8	om	om	ADP		
+9	et	en	DET		
+10	års	år	NOUN		noun.time
+11	tid	tid	NOUN		
+12	,	,	PUNCT		
+13	Empressa	empressa	PROPN		noun.vehicle
+14	,	,	PUNCT		
+15	som	som	PRON		
+16	formentlig	formentlig	ADV		
+17	også	også	ADV		
+18	til	til	ADP		
+19	den	den	DET		
+20	tid	tid	NOUN		noun.time
+21	indlemmes	indlemme	VERB		verb.act
+22	i	i	ADP		
+23	det	det	DET		
+24	danske	dansk	ADJ		adj.social
+25	modelprogram	modelprogram	NOUN		noun.communication
+26	.	.	PUNCT		
+

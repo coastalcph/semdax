@@ -1,0 +1,2164 @@
+# newdoc id = selvhenter-5.tsv
+# sent_id = 1
+# text =  kan heller ikke lide varme drikke.. som the, kaffe, kakao osv..
+1	kan	kunne	AUX		verb.emotion
+2	heller	heller	ADV		
+3	ikke	ikke	ADV		
+4	lide	lide	VERB		verb.COLL
+5	varme	varme	NOUN		adj.phys
+6	drikke	drikke	VERB		noun.food
+7	.	.	PUNCT		
+8	.	.	PUNCT		
+9	som	som	ADP		
+10	the	the	NOUN		noun.food
+11	,	,	PUNCT		
+12	kaffe	kaffe	NOUN		noun.food
+13	,	,	PUNCT		
+14	kakao	kakao	NOUN		noun.food
+15	osv	osv	ADV		
+16	.	.	PUNCT		
+17	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 2
+# text =  Jeg købte en masse af de der sten i Tunesien da jeg var på ferie der, men har alrig rigtig brugt dem?
+1	Jeg	jeg	PRON		
+2	købte	købe	VERB		verb.possession
+3	en	en	DET		
+4	masse	masse	NOUN		noun.quantity
+5	af	af	ADP		
+6	de	den	DET		
+7	der	der	ADV		
+8	sten	sten	NOUN		noun.object
+9	i	i	ADP		
+10	Tunesien	tunesien	PROPN		noun.location
+11	da	da	SCONJ		
+12	jeg	jeg	PRON		
+13	var	være	VERB		verb.stative
+14	på	på	ADP		
+15	ferie	ferie	NOUN		noun.event
+16	der	der	ADV		
+17	,	,	PUNCT		
+18	men	men	CCONJ		
+19	har	have	AUX		
+20	alrig	alr	VERB		
+21	rigtig	rigtig	ADV		
+22	brugt	bruge	VERB		verb.act
+23	dem	de	PRON		
+24	?	?	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 3
+# text =  Måske derfor?..
+1	Måske	måske	ADV		
+2	derfor	derfor	ADV		
+3	?	?	PUNCT		
+4	.	.	PUNCT		
+5	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 4
+# text =  Nej, giver dig ret: o
+1	Nej	nej	INTJ		
+2	,	,	PUNCT		
+3	giver	give	VERB		verb.cognition
+4	dig	du	PRON		
+5	ret	ret	NOUN		verb.COLL
+6	:	:	PUNCT		
+7	o	o	X		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 5
+# text =  Tja, sådan er det vel?! lol
+1	Tja	tja	NOUN		
+2	,	,	PUNCT		
+3	sådan	sådan	ADV		
+4	er	være	AUX		verb.stative
+5	det	det	PRON		
+6	vel	vel	ADV		
+7	?	?	PUNCT		
+8	!	!	PUNCT		
+9	lol	lol	X		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 6
+# text = - Og optimistisk om sommeren, eller?: shock:
+1	-	-	PUNCT		
+2	Og	og	CCONJ		
+3	optimistisk	optimistisk	ADV		adj.mental
+4	om	om	ADP		
+5	sommeren	sommer	NOUN		noun.time
+6	,	,	PUNCT		
+7	eller	eller	CCONJ		
+8	?	?	PUNCT		
+9	:	:	PUNCT		
+10	shock	shock	NOUN		
+11	:	:	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 7
+# text =  Hehe, er det ikke altid sådan?:)
+1	Hehe	hehe	PROPN		
+2	,	,	PUNCT		
+3	er	være	AUX		verb.stative
+4	det	det	PRON		
+5	ikke	ikke	ADV		
+6	altid	altid	ADV		
+7	sådan	sådan	ADJ		
+8	?	?	PUNCT		
+9	:	:	PUNCT		
+10	)	)	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 8
+# text =  Helene, dit sexdyr! size=9: ffab5d0287) rofl./ size: ffab5d0287)
+1	Helene	hel	NOUN		noun.person
+2	,	,	PUNCT		
+3	dit	dit	DET		
+4	sexdyr	sexdyr	NOUN		noun.person
+5	!	!	PUNCT		
+6	size=9	size=9	X		
+7	:	:	PUNCT		
+8	ffab5d0287	ffab5d0287	NUM		
+9	)	)	PUNCT		
+10	rofl	rofl	NOUN		
+11	.	.	PUNCT		
+12	/	/	PUNCT		
+13	size	siz	VERB		
+14	:	:	PUNCT		
+15	ffab5d0287	ffab5d0287	NUM		
+16	)	)	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 9
+# text =  Jeg går i gymnasiet, i B.
+1	Jeg	jeg	PRON		
+2	går	gå	VERB		verb.stative
+3	i	i	ADP		
+4	gymnasiet	gymnasium	NOUN		noun.institution
+5	,	,	PUNCT		
+6	i	i	ADP		
+7	B	b	PROPN		
+8	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 10
+# text =  Som sagt tidligere- Held og Lykke, kærligheden er den vidunderligste ting, der kan overkomme 2 personer..
+1	Som	som	ADP		
+2	sagt	sige	VERB		verb.communication
+3	tidligere	tidlig	ADV		
+4	-	-	PUNCT		
+5	Held	held	NOUN		noun.phenomenon
+6	og	og	CCONJ		
+7	Lykke	lykke	NOUN		noun.feeling
+8	,	,	PUNCT		
+9	kærligheden	kærlighed	NOUN		noun.feeling
+10	er	være	AUX		verb.stative
+11	den	den	DET		
+12	vidunderligste	vidunderlig	ADJ		adj.all
+13	ting	ting	NOUN		noun.abstract
+14	,	,	PUNCT		
+15	der	der	PRON		
+16	kan	kunne	AUX		
+17	overkomme	overkomme	VERB		verb.phenomenon
+18	2	2	NUM		
+19	personer	person	NOUN		noun.person
+20	.	.	PUNCT		
+21	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 11
+# text =  Jeg tog en dag ind i byen efter skole, satte mig ind på Burger King, bestilte en kop kaffe, og satte mig til at tænke, mens jeg kiggede på alle de mennesker der gik forbi.
+1	Jeg	jeg	PRON		
+2	tog	toge	VERB		verb.motion
+3	en	en	DET		
+4	dag	dag	NOUN		noun.time
+5	ind	ind	ADV		verb.PARTICLE
+6	i	i	ADP		
+7	byen	by	NOUN		noun.location
+8	efter	efter	ADP		
+9	skole	skole	NOUN		noun.act
+10	,	,	PUNCT		
+11	satte	sætte	VERB		verb.motion
+12	mig	jeg	PRON		
+13	ind	ind	ADV		verb.PARTICLE
+14	på	på	ADP		
+15	Burger	burger	PROPN		noun.building
+16	King	king	PROPN		noun.building
+17	,	,	PUNCT		
+18	bestilte	bestille	VERB		verb.communication
+19	en	en	DET		
+20	kop	kop	ADJ		noun.container
+21	kaffe	kaffe	NOUN		noun.food
+22	,	,	PUNCT		
+23	og	og	CCONJ		
+24	satte	sætte	VERB		verb.aspectual
+25	mig	jeg	PRON		verb.REFLPRON
+26	til	til	ADP		
+27	at	at	PART		
+28	tænke	tænke	VERB		verb.cognition
+29	,	,	PUNCT		
+30	mens	mens	SCONJ		
+31	jeg	jeg	PRON		
+32	kiggede	kigge	VERB		verb.act
+33	på	på	ADP		
+34	alle	al	ADJ		
+35	de	den	DET		
+36	mennesker	menneske	NOUN		noun.person
+37	der	der	ADV		
+38	gik	gå	VERB		verb.motion
+39	forbi	forbi	ADV		
+40	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 12
+# text =  Jeg finder arbejdet i dansk timerne interessant, engelsk er godt? og musik er så hyggeligt, og et dejligt afbræk på en skoledag..
+1	Jeg	jeg	PRON		
+2	finder	finde	VERB		
+3	arbejdet	arbejde	NOUN		noun.act
+4	i	i	ADP		
+5	dansk	dansk	ADJ		noun.time
+6	timerne	timer	NOUN		noun.time
+7	interessant	interessant	ADJ		adj.mental
+8	,	,	PUNCT		
+9	engelsk	engelsk	NOUN		noun.domain
+10	er	være	AUX		verb.stative
+11	godt	godte	ADV		adj.all
+12	?	?	PUNCT		
+13	og	og	CCONJ		
+14	musik	musik	NOUN		noun.domain
+15	er	være	AUX		verb.stative
+16	så	så	ADV		
+17	hyggeligt	hyggelig	ADJ		adj.mental
+18	,	,	PUNCT		
+19	og	og	CCONJ		
+20	et	en	DET		
+21	dejligt	dejlig	ADJ		adj.all
+22	afbræk	afbræk	NOUN		noun.abstract
+23	på	på	ADP		
+24	en	en	DET		
+25	skoledag	skoledag	NOUN		noun.time
+26	.	.	PUNCT		
+27	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 13
+# text =  TRÆLS.. nogen der ved hvad jeg skal gøre??...
+1	TRÆLS	træls	ADJ		adj.mental
+2	.	.	PUNCT		
+3	.	.	PUNCT		
+4	nogen	nogen	PRON		
+5	der	der	ADV		
+6	ved	ved	ADP		verb.cognition
+7	hvad	hvad	PRON		
+8	jeg	jeg	PRON		
+9	skal	skulle	AUX		
+10	gøre	gøre	VERB		verb.act
+11	?	?	PUNCT		
+12	?	?	PUNCT		
+13	.	.	PUNCT		
+14	.	.	PUNCT		
+15	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 14
+# text =  Et solidt spark i skridtet der gør drengen impotent?
+1	Et	en	DET		
+2	solidt	solid	ADJ		adj.phys
+3	spark	spark	NOUN		noun.act
+4	i	i	ADP		
+5	skridtet	skridt	NOUN		noun.body
+6	der	der	ADV		
+7	gør	gøre	VERB		verb.change
+8	drengen	dreng	NOUN		noun.person
+9	impotent	impotent	NOUN		adj.phys
+10	?	?	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 15
+# text =  Altså kan vi konkludere at 1 ml nok er 1 gram, hvilket jo ikke er den store surprise da det jo er" vand".
+1	Altså	altså	ADV		
+2	kan	kunne	AUX		
+3	vi	vi	PRON		
+4	konkludere	konkludere	VERB		verb.cognition
+5	at	at	PART		
+6	1	1	AUX		
+7	ml	ml	NOUN		noun.quantity
+8	nok	nok	ADV		
+9	er	være	AUX		verb.stative
+10	1	1	ADJ		
+11	gram	gram	NOUN		noun.quantity
+12	,	,	PUNCT		
+13	hvilket	hvilken	PRON		
+14	jo	jo	ADV		
+15	ikke	ikke	ADV		
+16	er	være	AUX		verb.stative
+17	den	den	DET		
+18	store	stor	ADJ		adj.phys
+19	surprise	surpris	NOUN		noun.feeling
+20	da	da	SCONJ		
+21	det	det	PRON		
+22	jo	jo	ADV		
+23	er	være	AUX		verb.stative
+24	"	"	PUNCT		
+25	vand	vand	NOUN		noun.substance
+26	"	"	PUNCT		
+27	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 16
+# text =  WeekendTV sux: o
+1	WeekendTV	weekendtv	ADJ		
+2	sux	sux	NOUN		
+3	:	:	PUNCT		
+4	o	o	X		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 17
+# text =  Kom i gang- Skriv en masse indlæg!
+1	Kom	komme	VERB		verb.aspectual
+2	i	i	ADP		verb.COLL
+3	gang	gang	NOUN		verb.COLL
+4	-	-	PUNCT		
+5	Skriv	skrive	VERB		verb.creation
+6	en	en	DET		
+7	masse	masse	NOUN		noun.quantity
+8	indlæg	indlæg	NOUN		noun.communication
+9	!	!	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 18
+# text =  I må nok hellere flygte med det samme: (
+1	I	i	PRON		
+2	må	måtte	AUX		
+3	nok	nok	ADV		
+4	hellere	hellere	ADV		
+5	flygte	flygte	VERB		verb.motion
+6	med	med	ADP		
+7	det	det	DET		
+8	samme	samme	ADJ		
+9	:	:	PUNCT		
+10	(	(	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 19
+# text =  Problemet med NetScape og Mozilla ( syntes jeg) er, at de fx ikke understøtter farvede scroolbars...
+1	Problemet	problem	NOUN		noun.cognition
+2	med	med	ADP		
+3	NetScape	netscape	NOUN		noun.communication
+4	og	og	CCONJ		
+5	Mozilla	mozilla	PROPN		noun.communication
+6	(	(	PUNCT		
+7	syntes	synes	VERB		verb.cognition
+8	jeg	jeg	PRON		
+9	)	)	PUNCT		
+10	er	være	VERB		verb.stative
+11	,	,	PUNCT		
+12	at	at	SCONJ		
+13	de	den	PRON		
+14	fx	fx	ADV		
+15	ikke	ikke	ADV		
+16	understøtter	understøtte	VERB		verb.stative
+17	farvede	farvet	ADJ		adj.phys
+18	scroolbars	scroolbar	NOUN		noun.artifact
+19	.	.	PUNCT		
+20	.	.	PUNCT		
+21	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 20
+# text =  Ja, regner også med at det er mig der bor det forkerte sted.
+1	Ja	ja	INTJ		
+2	,	,	PUNCT		
+3	regner	regne	VERB		verb.cognition
+4	også	også	ADV		
+5	med	med	ADP		verb.COLL
+6	at	at	SCONJ		
+7	det	det	PRON		
+8	er	være	AUX		verb.stative
+9	mig	jeg	PRON		
+10	der	der	ADV		
+11	bor	bore	VERB		verb.stative
+12	det	det	DET		
+13	forkerte	forkert	ADJ		adj.all
+14	sted	sted	NOUN		noun.location
+15	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 21
+# text =  Jo, men nu, da der er skabt tvivl om, hvorvidt det bør være muligt at anvende animerede avatars, mente jeg, at det var nødvendigt at tage den i brug igen, idet jeg gerne vil fremhæve min mening af sletning af disse ved at bibeholde den.
+1	Jo	jo	INTJ		
+2	,	,	PUNCT		
+3	men	men	CCONJ		
+4	nu	nu	ADV		
+5	,	,	PUNCT		
+6	da	da	SCONJ		
+7	der	der	ADV		
+8	er	være	AUX		
+9	skabt	skabe	VERB		verb.creation
+10	tvivl	tvivl	NOUN		noun.cognition
+11	om	om	ADP		
+12	,	,	PUNCT		
+13	hvorvidt	hvorvidt	SCONJ		
+14	det	det	PRON		
+15	bør	burde	AUX		
+16	være	være	AUX		verb.stative
+17	muligt	mulig	ADJ		adj.all
+18	at	at	PART		
+19	anvende	anvende	VERB		verb.act
+20	animerede	animere	ADJ		adj.all
+21	avatars	avatar	NOUN		noun.communication
+22	,	,	PUNCT		
+23	mente	mene	VERB		verb.cognition
+24	jeg	jeg	PRON		
+25	,	,	PUNCT		
+26	at	at	SCONJ		
+27	det	det	PRON		
+28	var	være	AUX		verb.stative
+29	nødvendigt	nødvendig	ADJ		adj.all
+30	at	at	PART		
+31	tage	tage	VERB		verb.act
+32	den	den	PRON		
+33	i	i	ADP		verb.COLL
+34	brug	brug	NOUN		verb.COLL
+35	igen	igen	ADV		
+36	,	,	PUNCT		
+37	idet	idet	SCONJ		
+38	jeg	jeg	PRON		
+39	gerne	gerne	ADV		
+40	vil	ville	AUX		
+41	fremhæve	fremhæve	VERB		verb.communication
+42	min	min	DET		
+43	mening	mening	NOUN		noun.cognition
+44	af	af	ADP		
+45	sletning	sletning	NOUN		noun.act
+46	af	af	ADP		
+47	disse	denne	DET		
+48	ved	ved	ADP		
+49	at	at	PART		
+50	bibeholde	bibeholde	VERB		verb.stative
+51	den	den	PRON		
+52	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 22
+# text =  Du mener, at jeg skal holde mit til emnet, og lade være med at spamme?
+1	Du	du	PRON		
+2	mener	mene	VERB		verb.cognition
+3	,	,	PUNCT		
+4	at	at	SCONJ		
+5	jeg	jeg	PRON		
+6	skal	skulle	AUX		
+7	holde	holde	VERB		verb.stative
+8	mit	min	NOUN		verb.REFLPRON
+9	til	til	ADP		
+10	emnet	emne	NOUN		noun.abstract
+11	,	,	PUNCT		
+12	og	og	CCONJ		
+13	lade	lade	ADV		verb.act
+14	være	være	AUX		verb.COLL
+15	med	med	ADP		verb.COLL
+16	at	at	PART		
+17	spamme	spam	VERB		verb.act
+18	?	?	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 23
+# text =  Goode*G*- Og selvom jeg har hørt mange synes det er for let at holde med Real Madrid, så gør jeg det sgu et eller andet sted!
+1	Goode	goode	PROPN		adj.all
+2	*G*	*g*	PUNCT		
+3	-	-	PUNCT		
+4	Og	og	CCONJ		
+5	selvom	selvom	SCONJ		
+6	jeg	jeg	PRON		
+7	har	have	AUX		
+8	hørt	høre	VERB		verb.perception
+9	mange	mangen	ADJ		
+10	synes	synes	VERB		verb.cognition
+11	det	det	PRON		
+12	er	være	AUX		verb.stative
+13	for	for	ADP		
+14	let	let	ADJ		adj.all
+15	at	at	PART		
+16	holde	holde	VERB		verb.cognition
+17	med	med	ADP		verb.COLL
+18	Real	real	PROPN		noun.institution
+19	Madrid	madrid	PROPN		noun.institution
+20	,	,	PUNCT		
+21	så	så	ADV		
+22	gør	gøre	VERB		verb.cognition
+23	jeg	jeg	PRON		
+24	det	det	PRON		
+25	sgu	sgu	ADV		
+26	et	en	DET		
+27	eller	eller	CCONJ		
+28	andet	anden	DET		
+29	sted	sted	NOUN		noun.abstract
+30	!	!	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 24
+# text =  Feks er de fleste serier tv2 sender rimeligt latterlige.
+1	Feks	fek	ADV		
+2	er	være	AUX		verb.stative
+3	de	den	DET		
+4	fleste	mangen	ADJ		
+5	serier	serie	NOUN		noun.communication
+6	tv2	tv2	PART		noun.communication
+7	sender	sende	VERB		verb.communication
+8	rimeligt	rimelig	ADV		
+9	latterlige	latterlig	ADJ		adj.mental
+10	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 25
+# text =  Ksenia!
+1	Ksenia	ksenia	PROPN		noun.person
+2	!	!	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 26
+# text =  forresten har jeg fået den tilbage.. og svaret var..
+1	forresten	forrest	NOUN		
+2	har	have	AUX		
+3	jeg	jeg	PRON		
+4	fået	få	VERB		verb.possession
+5	den	den	PRON		
+6	tilbage	tilbage	ADV		verb.COLL
+7	.	.	PUNCT		
+8	.	.	PUNCT		
+9	og	og	CCONJ		
+10	svaret	svar	NOUN		noun.communication
+11	var	være	VERB		verb.stative
+12	.	.	PUNCT		
+13	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 27
+# text =  Det lyder såøhh..
+1	Det	det	PRON		
+2	lyder	lyde	VERB		verb.phenomenon
+3	såøhh	såøh	NOUN		
+4	.	.	PUNCT		
+5	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 28
+# text =  hahaha: D.. hader de programmer, men kan alligevel godt finde på at se det når jeg ligger i min seng og der ikke er andre muligheder?..
+1	hahaha	hahaha	NOUN		
+2	:	:	PUNCT		
+3	D	d	X		
+4	.	.	PUNCT		
+5	.	.	PUNCT		
+6	hader	hade	VERB		verb.emotion
+7	de	den	DET		
+8	programmer	program	NOUN		noun.communication
+9	,	,	PUNCT		
+10	men	men	CCONJ		
+11	kan	kunne	AUX		
+12	alligevel	alligevel	ADV		
+13	godt	godte	ADV		
+14	finde	finde	VERB		verb.cognition
+15	på	på	ADP		verb.PARTICLE
+16	at	at	PART		
+17	se	se	VERB		verb.perception
+18	det	det	PRON		
+19	når	når	SCONJ		
+20	jeg	jeg	PRON		
+21	ligger	ligge	VERB		verb.stative
+22	i	i	ADP		
+23	min	min	DET		
+24	seng	seng	NOUN		noun.artifact
+25	og	og	CCONJ		
+26	der	der	ADV		
+27	ikke	ikke	ADV		
+28	er	være	VERB		verb.stative
+29	andre	anden	PRON		
+30	muligheder	mulighed	NOUN		noun.abstract
+31	?	?	PUNCT		
+32	.	.	PUNCT		
+33	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 29
+# text =  Altså, jeg har to dele af familien.
+1	Altså	altså	ADV		
+2	,	,	PUNCT		
+3	jeg	jeg	PRON		
+4	har	have	AUX		verb.possession
+5	to	to	VERB		
+6	dele	del	NOUN		noun.relation
+7	af	af	ADP		
+8	familien	familie	NOUN		noun.person
+9	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 30
+# text =  Jeg selv har tænkt på Blockbuster og Biografen, men er der andre ideer?
+1	Jeg	jeg	PRON		
+2	selv	selv	PRON		
+3	har	have	AUX		
+4	tænkt	tænke	VERB		verb.cognition
+5	på	på	ADP		
+6	Blockbuster	blockbust	NOUN		noun.institution
+7	og	og	CCONJ		
+8	Biografen	biografen	PROPN		noun.building
+9	,	,	PUNCT		
+10	men	men	CCONJ		
+11	er	være	VERB		verb.stative
+12	der	der	ADV		
+13	andre	anden	DET		
+14	ideer	ide	NOUN		noun.cognition
+15	?	?	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 31
+# text =  Tak for informationen, var ligeså lost som Sarah?: lol:
+1	Tak	tak	NOUN		
+2	for	for	ADP		
+3	informationen	information	NOUN		noun.communication
+4	,	,	PUNCT		
+5	var	være	AUX		verb.stative
+6	ligeså	ligeså	ADV		
+7	lost	lost	ADJ		adj.mental
+8	som	som	ADP		
+9	Sarah	sarah	PROPN		noun.person
+10	?	?	PUNCT		
+11	:	:	PUNCT		
+12	lol	lol	X		
+13	:	:	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 32
+# text =  Det er jo os' grundskolen.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	jo	jo	ADV		
+4	os	vi	PRON		
+5	'	'	PUNCT		
+6	grundskolen	grundskole	NOUN		noun.institution
+7	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 33
+# text =  5 morgenen.
+1	5	5	ADJ		
+2	morgenen	morgen	NOUN		noun.time
+3	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 34
+# text =  Fy for satan, da ham manden skulle rydde op i en af de der" kabiner": shock:.
+1	Fy	fy	ADV		
+2	for	for	ADP		
+3	satan	satan	NOUN		
+4	,	,	PUNCT		
+5	da	da	SCONJ		
+6	ham	han	PRON		
+7	manden	mand	NOUN		noun.person
+8	skulle	skulle	AUX		
+9	rydde	rydde	VERB		verb.act
+10	op	op	ADV		verb.PARTICLE
+11	i	i	ADP		
+12	en	en	PRON		
+13	af	af	ADP		
+14	de	den	DET		
+15	der	der	ADV		
+16	"	"	PUNCT		
+17	kabiner	kabine	NOUN		noun.building
+18	"	"	PUNCT		
+19	:	:	PUNCT		
+20	shock	shock	NOUN		
+21	:	:	PUNCT		
+22	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 35
+# text =  Noget i den stil?
+1	Noget	nogen	PRON		
+2	i	i	ADP		
+3	den	den	DET		
+4	stil	stil	NOUN		noun.abstract
+5	?	?	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 36
+# text =  nåh.. okay *G*
+1	nåh	nåh	NOUN		
+2	.	.	PUNCT		
+3	.	.	PUNCT		
+4	okay	okay	VERB		
+5	*G*	*g*	PRON		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 37
+# text =  Er pc- spil en sport?
+1	Er	være	AUX		verb.stative
+2	pc	pc	NOUN		noun.communication
+3	-	-	PUNCT		noun.communication
+4	spil	spil	NOUN		noun.communication
+5	en	en	DET		
+6	sport	sport	NOUN		noun.act
+7	?	?	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 38
+# text =  Hvad ville det hjælpe?
+1	Hvad	hvad	PRON		
+2	ville	ville	AUX		
+3	det	det	PRON		
+4	hjælpe	hjælpe	VERB		verb.act
+5	?	?	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 39
+# text =  Tror næppe at de har et helt laboratorium hvor de sidder og fremstiller sådan noget..
+1	Tror	tro	VERB		verb.cognition
+2	næppe	næppe	ADV		
+3	at	at	SCONJ		
+4	de	den	PRON		
+5	har	have	AUX		verb.possession
+6	et	en	DET		
+7	helt	helt	ADV		adj.phys
+8	laboratorium	laboratorium	NOUN		noun.building
+9	hvor	hvor	ADV		
+10	de	den	PRON		
+11	sidder	sidde	VERB		verb.stative
+12	og	og	CCONJ		
+13	fremstiller	fremstille	VERB		verb.creation
+14	sådan	sådan	ADV		
+15	noget	nogen	PRON		
+16	.	.	PUNCT		
+17	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 40
+# text =  Og The Crucible som godt nok er en filmatisering af Arthur Millers, The Crucible, er vel egentlig også lidt historisk:)
+1	Og	og	CCONJ		
+2	The	the	PROPN		noun.communication
+3	Crucible	crucible	PROPN		noun.communication
+4	som	som	ADP		
+5	godt	godte	ADV		
+6	nok	nok	ADV		
+7	er	være	AUX		verb.stative
+8	en	en	DET		
+9	filmatisering	filmatisering	NOUN		noun.act
+10	af	af	ADP		
+11	Arthur	arthur	PROPN		noun.person
+12	Millers	millers	PROPN		noun.person
+13	,	,	PUNCT		
+14	The	the	PROPN		noun.communication
+15	Crucible	crucible	PROPN		noun.communication
+16	,	,	PUNCT		
+17	er	være	AUX		verb.stative
+18	vel	vel	ADV		
+19	egentlig	egentlig	ADV		
+20	også	også	ADV		
+21	lidt	lidt	ADV		
+22	historisk	historisk	ADJ		adj.social
+23	:	:	PUNCT		
+24	)	)	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 41
+# text =  Kan kun ønske dig det samme- og rosen, tja- for mig er det den skinbarlige sandhed, og intet andet...
+1	Kan	kunne	AUX		
+2	kun	kun	ADV		
+3	ønske	ønske	VERB		verb.emotion
+4	dig	du	PRON		
+5	det	det	DET		
+6	samme	samme	ADJ		
+7	-	-	PUNCT		
+8	og	og	CCONJ		
+9	rosen	rose	NOUN		noun.communication
+10	,	,	PUNCT		
+11	tja	tja	INTJ		
+12	-	-	PUNCT		
+13	for	for	ADP		
+14	mig	jeg	PRON		
+15	er	være	AUX		verb.stative
+16	det	det	PRON		
+17	den	den	DET		
+18	skinbarlige	skinbarlig	ADJ		adj.all
+19	sandhed	sandhed	NOUN		noun.abstract
+20	,	,	PUNCT		
+21	og	og	CCONJ		
+22	intet	ingen	PRON		
+23	andet	anden	PRON		
+24	.	.	PUNCT		
+25	.	.	PUNCT		
+26	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 42
+# text =  Det var jo ikke for sjovs skyld at det åd 6 gange om dagen på den der livsstilsskole i' Livet er fedt'...
+1	Det	det	PRON		
+2	var	være	AUX		verb.stative
+3	jo	jo	ADV		
+4	ikke	ikke	ADV		
+5	for	for	ADP		
+6	sjovs	sjov	ADJ		noun.abstract
+7	skyld	skyld	NOUN		noun.abstract
+8	at	at	SCONJ		
+9	det	det	PRON		
+10	åd	æde	VERB		verb.consumption
+11	6	6	ADJ		
+12	gange	gang	NOUN		noun.time
+13	om	om	ADP		
+14	dagen	dag	NOUN		noun.time
+15	på	på	ADP		
+16	den	den	DET		
+17	der	der	ADV		
+18	livsstilsskole	livsstilsskol	NOUN		noun.institution
+19	i	i	ADP		
+20	'	'	PUNCT		
+21	Livet	liv	NOUN		noun.communication
+22	er	være	AUX		noun.communication
+23	fedt	fed	ADJ		noun.communication
+24	'	'	PUNCT		
+25	.	.	PUNCT		
+26	.	.	PUNCT		
+27	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 43
+# text =  Hvem har hørt om den?
+1	Hvem	hvem	PRON		
+2	har	have	AUX		
+3	hørt	høre	VERB		verb.perception
+4	om	om	ADP		
+5	den	den	PRON		
+6	?	?	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 44
+# text =  Mexicansk mad, der er så stærkt at man kan mærke at det næsten renser ud i bihulerne.. lol..
+1	Mexicansk	mexicansk	ADJ		adj.social
+2	mad	mad	NOUN		noun.food
+3	,	,	PUNCT		
+4	der	der	PRON		
+5	er	være	AUX		verb.stative
+6	så	så	ADV		
+7	stærkt	stærk	ADJ		adj.phys
+8	at	at	SCONJ		
+9	man	man	PRON		
+10	kan	kunne	AUX		
+11	mærke	mærke	VERB		verb.perception
+12	at	at	SCONJ		
+13	det	det	PRON		
+14	næsten	næsten	ADV		
+15	renser	rense	VERB		verb.change
+16	ud	ud	ADV		verb.PARTICLE
+17	i	i	ADP		
+18	bihulerne	bihule	NOUN		noun.body
+19	.	.	PUNCT		
+20	.	.	PUNCT		
+21	lol	lol	VERB		
+22	.	.	PUNCT		
+23	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 45
+# text =  Det var Ralph fra Ralph Lauren.
+1	Det	det	PRON		
+2	var	være	AUX		verb.stative
+3	Ralph	ralph	PROPN		noun.person
+4	fra	fra	ADP		
+5	Ralph	ralph	PROPN		noun.institution
+6	Lauren	laur	NOUN		noun.institution
+7	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 46
+# text =  Men dengang havde man bare massere af tid til sådan noget synes jeg?!
+1	Men	men	CCONJ		
+2	dengang	dengang	ADV		
+3	havde	have	VERB		verb.possession
+4	man	man	PRON		
+5	bare	bare	ADV		
+6	massere	massere	NOUN		
+7	af	af	ADP		
+8	tid	tid	NOUN		noun.time
+9	til	til	ADP		
+10	sådan	sådan	ADJ		
+11	noget	nogen	PRON		
+12	synes	synes	VERB		verb.cognition
+13	jeg	jeg	PRON		
+14	?	?	PUNCT		
+15	!	!	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 47
+# text =  Samme tøjstil. zteffN i stramme slangeskindsbukser, en lille top, stort hår og 30 cm. høje pleatusko.
+1	Samme	samme	ADJ		
+2	tøjstil	tøjstil	NOUN		noun.attribute
+3	.	.	PUNCT		
+4	zteffN	zteffn	NOUN		
+5	i	i	ADP		
+6	stramme	stram	ADJ		adj.phys
+7	slangeskindsbukser	slangeskindsbuks	NOUN		noun.artifact
+8	,	,	PUNCT		
+9	en	en	DET		
+10	lille	lille	ADJ		adj.phys
+11	top	top	NOUN		noun.artifact
+12	,	,	PUNCT		
+13	stort	stor	ADJ		adj.phys
+14	hår	hår	NOUN		noun.body
+15	og	og	CCONJ		
+16	30	30	NUM		
+17	cm	cm	NOUN		noun.quantity
+18	.	.	PUNCT		
+19	høje	høj	ADJ		adj.phys
+20	pleatusko	pleatusko	NOUN		noun.artifact
+21	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 48
+# text =  Og hvor fedt er det at ligge og lave noget sammen som den ene part tydeligvis kun gør fordi" man skal ofre sig for hinanden"?
+1	Og	og	CCONJ		
+2	hvor	hvor	ADV		
+3	fedt	fedt	NOUN		adj.all
+4	er	være	AUX		verb.stative
+5	det	det	PRON		
+6	at	at	PART		
+7	ligge	ligge	VERB		verb.stative
+8	og	og	CCONJ		
+9	lave	lave	VERB		verb.act
+10	noget	nogen	PRON		
+11	sammen	sammen	ADV		
+12	som	som	ADP		
+13	den	den	DET		
+14	ene	ene	ADJ		
+15	part	part	NOUN		noun.relation
+16	tydeligvis	tydeligvis	ADV		
+17	kun	kun	ADV		
+18	gør	gøre	VERB		verb.act
+19	fordi	fordi	SCONJ		
+20	"	"	PUNCT		
+21	man	man	PRON		
+22	skal	skulle	AUX		
+23	ofre	ofre	VERB		verb.act
+24	sig	sig	PRON		verb.REFLPRON
+25	for	for	ADP		
+26	hinanden	hinanden	PRON		
+27	"	"	PUNCT		
+28	?	?	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 49
+# text =  Mit er da røvsygt?: I Synes da mcgregors eller stines er lidt mere.. kreative?
+1	Mit	min	ADV		
+2	er	være	AUX		verb.stative
+3	da	da	ADV		
+4	røvsygt	røvsyg	ADJ		adj.all
+5	?	?	PUNCT		
+6	:	:	PUNCT		
+7	I	i	ADP		
+8	Synes	synes	PROPN		verb.cognition
+9	da	da	SCONJ		
+10	mcgregors	mcgregor	NOUN		noun.person
+11	eller	eller	CCONJ		
+12	stines	stin	NOUN		noun.person
+13	er	være	AUX		verb.stative
+14	lidt	lidt	ADV		
+15	mere	mere	ADJ		
+16	.	.	PUNCT		
+17	.	.	PUNCT		
+18	kreative	kreativ	ADJ		adj.mental
+19	?	?	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 50
+# text =  Håber du finder nogen snart!: D Jeg siger til hvis jeg ser nogen!
+1	Håber	håbe	VERB		verb.emotion
+2	du	du	PRON		
+3	finder	finde	VERB		verb.act
+4	nogen	nogen	PRON		
+5	snart	snart	ADV		
+6	!	!	PUNCT		
+7	:	:	PUNCT		
+8	D	d	X		
+9	Jeg	jeg	PRON		
+10	siger	sige	VERB		verb.communication
+11	til	til	ADP		verb.PARTICLE
+12	hvis	hvis	SCONJ		
+13	jeg	jeg	PRON		
+14	ser	se	VERB		verb.perception
+15	nogen	nogen	PRON		
+16	!	!	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 51
+# text =  Men hvis det smager som det lugter ( støvet, underligt) så vil jeg ikke smage;)
+1	Men	men	CCONJ		
+2	hvis	hvis	SCONJ		
+3	det	det	PRON		
+4	smager	smage	VERB		verb.phenomenon
+5	som	som	ADP		
+6	det	det	PRON		
+7	lugter	lugte	VERB		verb.phenomenon
+8	(	(	PUNCT		
+9	støvet	støv	NOUN		adj.all
+10	,	,	PUNCT		
+11	underligt	underlig	ADV		adj.all
+12	)	)	PUNCT		
+13	så	så	ADV		
+14	vil	ville	AUX		
+15	jeg	jeg	PRON		
+16	ikke	ikke	ADV		
+17	smage	smage	VERB		verb.perception
+18	;	;	PUNCT		
+19	)	)	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 52
+# text =  Og hvor ville det bare være dejligt typisk hvis der blev lavet en 2' er af den reklame, hvor hende og ham manden, hun skal vise vej, så er blevet kærester.
+1	Og	og	CCONJ		
+2	hvor	hvor	ADV		
+3	ville	ville	AUX		
+4	det	det	PRON		
+5	bare	bare	ADV		
+6	være	være	AUX		verb.stative
+7	dejligt	dejlig	ADJ		
+8	typisk	typisk	ADV		adj.all
+9	hvis	hvis	SCONJ		
+10	der	der	ADV		
+11	blev	blive	AUX		
+12	lavet	lave	VERB		verb.creation
+13	en	en	DET		
+14	2	2	NUM		noun.relation
+15	'	'	PUNCT		noun.relation
+16	er	være	AUX		noun.relation
+17	af	af	ADP		
+18	den	den	DET		
+19	reklame	reklame	NOUN		noun.communication
+20	,	,	PUNCT		
+21	hvor	hvor	ADV		
+22	hende	hun	PRON		
+23	og	og	CCONJ		
+24	ham	han	PRON		
+25	manden	mand	NOUN		noun.person
+26	,	,	PUNCT		
+27	hun	hun	PRON		
+28	skal	skulle	AUX		
+29	vise	vise	VERB		verb.communication
+30	vej	vej	NOUN		verb.COLL
+31	,	,	PUNCT		
+32	så	så	ADV		
+33	er	være	AUX		
+34	blevet	blive	AUX		verb.change
+35	kærester	kæreste	ADV		noun.person
+36	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 53
+# text =  skrig?
+1	skrig	skrig	NOUN		noun.communication
+2	?	?	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 54
+# text =  Men jeg kunne vel købe mig fattig i DVD' er, hvis jeg havde muligheden.
+1	Men	men	CCONJ		
+2	jeg	jeg	PRON		
+3	kunne	kunne	AUX		
+4	vel	vel	ADV		
+5	købe	købe	VERB		verb.possession
+6	mig	jeg	PRON		verb.REFLPRON
+7	fattig	fattig	VERB		verb.COLL
+8	i	i	ADP		
+9	DVD	dvd	PROPN		noun.artifact
+10	'	'	PUNCT		
+11	er	være	VERB		
+12	,	,	PUNCT		
+13	hvis	hvis	SCONJ		
+14	jeg	jeg	PRON		
+15	havde	have	VERB		verb.possession
+16	muligheden	mulighed	NOUN		noun.abstract
+17	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 55
+# text =  Har du læbestift på?
+1	Har	have	VERB		verb.body
+2	du	du	PRON		
+3	læbestift	læbestift	NOUN		noun.artifact
+4	på	på	ADP		verb.PARTICLE
+5	?	?	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 56
+# text =  Meget.
+1	Meget	megen	ADV		
+2	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 57
+# text =  Går i seng omkring kl 21: 30 og står op kl6: 30... høhøh... og jeg er træt alligevel.
+1	Går	gå	VERB		verb.act
+2	i	i	ADP		verb.COLL
+3	seng	seng	NOUN		verb.COLL
+4	omkring	omkring	ADP		
+5	kl	kl	ADJ		
+6	21	21	NOUN		
+7	:	:	PUNCT		
+8	30	30	NUM		
+9	og	og	CCONJ		
+10	står	stå	VERB		verb.act
+11	op	op	ADV		verb.PARTICLE
+12	kl	kl	ADJ		
+13	6	6	PUNCT		
+14	:	:	PUNCT		
+15	30	30	NUM		
+16	.	.	PUNCT		
+17	.	.	PUNCT		
+18	.	.	PUNCT		
+19	høhøh	høhøh	NOUN		
+20	.	.	PUNCT		
+21	.	.	PUNCT		
+22	.	.	PUNCT		
+23	og	og	CCONJ		
+24	jeg	jeg	PRON		
+25	er	være	AUX		verb.stative
+26	træt	trætte	VERB		adj.phys
+27	alligevel	alligevel	ADV		
+28	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 58
+# text =  Audioslave er lidt trættende i længden, synes jeg?: x Men der ligger en vildt fed guitar i.
+1	Audioslave	audioslav	NOUN		noun.communication
+2	er	være	AUX		verb.stative
+3	lidt	lidt	ADV		
+4	trættende	trætte	ADJ		adj.mental
+5	i	i	ADP		
+6	længden	længde	NOUN		noun.time
+7	,	,	PUNCT		
+8	synes	synes	VERB		verb.cognition
+9	jeg	jeg	PRON		
+10	?	?	PUNCT		
+11	:	:	PUNCT		
+12	x	x	NOUN		
+13	Men	men	CCONJ		
+14	der	der	ADV		
+15	ligger	ligge	VERB		verb.stative
+16	en	en	DET		
+17	vildt	vildt	ADV		
+18	fed	fed	ADJ		adj.all
+19	guitar	guitar	NOUN		noun.communication
+20	i	i	ADP		
+21	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 59
+# text =  Jo du har helt ret mia...
+1	Jo	jo	INTJ		
+2	du	du	PRON		
+3	har	have	AUX		verb.cognition
+4	helt	helt	ADV		
+5	ret	ret	ADV		verb.COLL
+6	mia	mia	ADJ		noun.person
+7	.	.	PUNCT		
+8	.	.	PUNCT		
+9	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 60
+# text =  Coldplay Savage Rose Fiona Apple Michael Jackson Goo Goo Dolls.. men det er svært at vælge fem.
+1	Coldplay	coldplay	PROPN		noun.person
+2	Savage	savage	PROPN		noun.person
+3	Rose	rose	PROPN		noun.person
+4	Fiona	fiona	PROPN		noun.person
+5	Apple	apple	PROPN		noun.person
+6	Michael	michael	PROPN		noun.person
+7	Jackson	jackson	PROPN		noun.person
+8	Goo	goo	PROPN		noun.person
+9	Goo	goo	PROPN		noun.person
+10	Dolls	dolls	PROPN		noun.person
+11	.	.	PUNCT		
+12	.	.	PUNCT		
+13	men	men	CCONJ		
+14	det	det	PRON		
+15	er	være	AUX		verb.stative
+16	svært	svær	ADJ		adj.all
+17	at	at	PART		
+18	vælge	vælge	VERB		verb.cognition
+19	fem	fem	NOUN		
+20	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 61
+# text =  Opmærksomhed, opmærksomhed OG opmærksomhed..
+1	Opmærksomhed	opmærksomhed	NOUN		noun.cognition
+2	,	,	PUNCT		
+3	opmærksomhed	opmærksomhed	NOUN		noun.cognition
+4	OG	og	CCONJ		
+5	opmærksomhed	opmærksomhed	NOUN		noun.cognition
+6	.	.	PUNCT		
+7	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 62
+# text =  Kender hverken Norah Jones eller Heather Nova..
+1	Kender	kende	VERB		verb.cognition
+2	hverken	hverken	ADV		
+3	Norah	norah	PROPN		noun.person
+4	Jones	jones	PROPN		noun.person
+5	eller	eller	CCONJ		
+6	Heather	heather	PROPN		noun.person
+7	Nova	nova	PROPN		noun.person
+8	.	.	PUNCT		
+9	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 63
+# text =  Ja.. haha: D Men eftersom man er gledet helt væk fra hjemmeside miljøet ( lol?), er der ikke nær så meget vigtigt at snakke om?
+1	Ja	ja	INTJ		
+2	.	.	PUNCT		
+3	.	.	PUNCT		
+4	haha	haha	NOUN		
+5	:	:	PUNCT		
+6	D	d	X		
+7	Men	men	CCONJ		
+8	eftersom	eftersom	SCONJ		
+9	man	man	PRON		
+10	er	være	AUX		
+11	gledet	glide	VERB		verb.motion
+12	helt	helt	ADV		
+13	væk	væk	ADV		verb.PARTICLE
+14	fra	fra	ADP		
+15	hjemmeside	hjemmeside	NOUN		noun.domain
+16	miljøet	miljø	NOUN		noun.domain
+17	(	(	PUNCT		
+18	lol	lol	NOUN		
+19	?	?	PUNCT		
+20	)	)	PUNCT		
+21	,	,	PUNCT		
+22	er	være	VERB		verb.stative
+23	der	der	ADV		
+24	ikke	ikke	ADV		
+25	nær	nær	ADV		
+26	så	så	ADV		
+27	meget	megen	ADV		
+28	vigtigt	vigtig	ADJ		adj.all
+29	at	at	PART		
+30	snakke	snakke	VERB		verb.communication
+31	om	om	ADP		
+32	?	?	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 64
+# text =  Så du mener ikke at der er noget galt i at tvinge sin partner til analsex, fx?
+1	Så	så	ADV		
+2	du	du	PRON		
+3	mener	mene	VERB		verb.cognition
+4	ikke	ikke	ADV		
+5	at	at	SCONJ		
+6	der	der	ADV		
+7	er	være	VERB		verb.stative
+8	noget	nogen	PRON		
+9	galt	galt	ADV		adj.all
+10	i	i	ADP		
+11	at	at	PART		
+12	tvinge	tvinge	VERB		verb.act
+13	sin	sin	DET		
+14	partner	partner	NOUN		noun.person
+15	til	til	ADP		
+16	analsex	analsex	NOUN		noun.act
+17	,	,	PUNCT		
+18	fx	fx	ADV		
+19	?	?	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 65
+# text =  Dvs. ca. tre minutter?: P Men jeg tror, du har ret.. hører ikke vildt meget natradio, men det, jeg har hørt, var ok:)
+1	Dvs	dvs	PROPN		
+2	.	.	PUNCT		
+3	ca	ca	PRON		
+4	.	.	PUNCT		
+5	tre	tre	ADJ		
+6	minutter	minut	NOUN		noun.time
+7	?	?	PUNCT		
+8	:	:	PUNCT		
+9	P	p	X		
+10	Men	men	CCONJ		
+11	jeg	jeg	PRON		
+12	tror	tro	VERB		verb.cognition
+13	,	,	PUNCT		
+14	du	du	PRON		
+15	har	have	AUX		verb.cognition
+16	ret	ret	NOUN		verb.COLL
+17	.	.	PUNCT		
+18	.	.	PUNCT		
+19	hører	høre	VERB		verb.perception
+20	ikke	ikke	ADV		
+21	vildt	vildt	ADV		
+22	meget	megen	ADJ		
+23	natradio	natradio	NOUN		noun.communication
+24	,	,	PUNCT		
+25	men	men	CCONJ		
+26	det	det	PRON		
+27	,	,	PUNCT		
+28	jeg	jeg	PRON		
+29	har	have	AUX		
+30	hørt	høre	VERB		verb.perception
+31	,	,	PUNCT		
+32	var	være	AUX		verb.stative
+33	ok	ok	ADJ		adj.all
+34	:	:	PUNCT		
+35	)	)	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 66
+# text =  Hvad er din grund, til netop denne, til denne profil?
+1	Hvad	hvad	PRON		
+2	er	være	AUX		verb.stative
+3	din	din	DET		
+4	grund	grund	NOUN		noun.motive
+5	,	,	PUNCT		
+6	til	til	ADP		
+7	netop	netop	ADV		
+8	denne	denne	PRON		
+9	,	,	PUNCT		
+10	til	til	ADP		
+11	denne	denne	DET		
+12	profil	profil	NOUN		noun.communication
+13	?	?	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 67
+# text =  hehe, jeg tog bare nogle billeder af mig hvor jeg lavede ansigter.. så fandt jeg den hvor jeg så mest dum ud!?: D...
+1	hehe	heh	ADV		
+2	,	,	PUNCT		
+3	jeg	jeg	PRON		
+4	tog	toge	VERB		verb.creation
+5	bare	bare	ADV		
+6	nogle	nogen	DET		
+7	billeder	billede	NOUN		noun.artifact
+8	af	af	ADP		
+9	mig	jeg	PRON		
+10	hvor	hvor	ADV		
+11	jeg	jeg	PRON		
+12	lavede	lave	VERB		verb.act
+13	ansigter	ansigt	NOUN		verb.COLL
+14	.	.	PUNCT		
+15	.	.	PUNCT		
+16	så	så	ADV		
+17	fandt	finde	VERB		verb.act
+18	jeg	jeg	PRON		
+19	den	den	DET		
+20	hvor	hvor	ADV		
+21	jeg	jeg	PRON		
+22	så	så	ADV		verb.stative
+23	mest	megen	ADV		
+24	dum	dum	ADJ		adj.mental
+25	ud	ud	ADV		verb.PARTICLE
+26	!	!	PUNCT		
+27	?	?	PUNCT		
+28	:	:	PUNCT		
+29	D	d	X		
+30	.	.	PUNCT		
+31	.	.	PUNCT		
+32	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 68
+# text =  Jeg har et program som hedder Ad- aware6. 0.. det skal man bare køre, og så finder den alt det pis på ens computer og sletter det:D Og så skulle ens computer gerne være fri for alle mulige popups som dukker op af sig selv på mærkelige tidspunkter, og hvis de kommer igen noget tid efter- så kører man den bare igen;)
+1	Jeg	jeg	PRON		
+2	har	have	AUX		verb.possession
+3	et	en	DET		
+4	program	program	NOUN		noun.communication
+5	som	som	ADP		
+6	hedder	hedde	VERB		verb.stative
+7	Ad	ad	PROPN		noun.communication
+8	-	-	PUNCT		noun.communication
+9	aware	awar	NOUN		noun.communication
+10	6	6	PUNCT		noun.communication
+11	.	.	PUNCT		noun.communication
+12	0	0	NUM		noun.communication
+13	.	.	PUNCT		
+14	.	.	PUNCT		
+15	det	det	PRON		
+16	skal	skulle	AUX		
+17	man	man	PRON		
+18	bare	bare	ADV		
+19	køre	køre	VERB		verb.act
+20	,	,	PUNCT		
+21	og	og	CCONJ		
+22	så	så	ADV		
+23	finder	finde	VERB		verb.act
+24	den	den	PRON		
+25	alt	al	ADJ		
+26	det	det	DET		
+27	pis	pis	NOUN		noun.abstract
+28	på	på	ADP		
+29	ens	ens	DET		
+30	computer	computer	NOUN		noun.artifact
+31	og	og	CCONJ		
+32	sletter	slette	VERB		verb.act
+33	det	det	PRON		
+34	:	:	PUNCT		
+35	D	d	PUNCT		
+36	Og	og	CCONJ		
+37	så	så	ADV		
+38	skulle	skulle	AUX		
+39	ens	ens	ADJ		
+40	computer	computer	NOUN		noun.artifact
+41	gerne	gerne	ADV		
+42	være	være	AUX		verb.stative
+43	fri	fri	ADJ		adj.all
+44	for	for	ADP		
+45	alle	al	ADJ		
+46	mulige	mulig	ADJ		
+47	popups	popup	NOUN		noun.phenomenon
+48	som	som	ADP		
+49	dukker	dukke	VERB		verb.phenomenon
+50	op	op	ADV		verb.PARTICLE
+51	af	af	ADP		
+52	sig	sig	PRON		
+53	selv	selv	PRON		
+54	på	på	ADP		
+55	mærkelige	mærkelig	ADJ		adj.all
+56	tidspunkter	tidspunkt	NOUN		noun.time
+57	,	,	PUNCT		
+58	og	og	CCONJ		
+59	hvis	hvis	SCONJ		
+60	de	den	PRON		
+61	kommer	komme	VERB		verb.phenomenon
+62	igen	igen	ADV		verb.COLL
+63	noget	nogen	DET		
+64	tid	tid	NOUN		noun.time
+65	efter	efter	ADP		
+66	-	-	PUNCT		
+67	så	så	ADV		
+68	kører	køre	VERB		verb.act
+69	man	man	PRON		
+70	den	den	PRON		
+71	bare	bare	ADV		
+72	igen	igen	ADV		
+73	;	;	PUNCT		
+74	)	)	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 69
+# text =  yea.. man giver dem hurtigt en baggrundshistorie, og nogen gange giver jeg dem faktisk også et navn, lol..
+1	yea	yea	NOUN		
+2	.	.	PUNCT		
+3	.	.	PUNCT		
+4	man	man	PRON		
+5	giver	give	VERB		verb.communication
+6	dem	de	PRON		
+7	hurtigt	hurtig	ADV		
+8	en	en	DET		
+9	baggrundshistorie	baggrundshistorie	NOUN		noun.communication
+10	,	,	PUNCT		
+11	og	og	CCONJ		
+12	nogen	nogen	DET		
+13	gange	gang	NOUN		noun.time
+14	giver	give	VERB		verb.communication
+15	jeg	jeg	PRON		
+16	dem	de	PRON		
+17	faktisk	faktisk	ADV		
+18	også	også	ADV		
+19	et	en	DET		
+20	navn	navn	NOUN		noun.attribute
+21	,	,	PUNCT		
+22	lol	lol	PRON		
+23	.	.	PUNCT		
+24	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 70
+# text =  LOL
+1	LOL	lol	VERB		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 71
+# text =  hehe, jeg tror ikke mine skefulde kan tælles..
+1	hehe	heh	ADV		
+2	,	,	PUNCT		
+3	jeg	jeg	PRON		
+4	tror	tro	VERB		verb.cognition
+5	ikke	ikke	ADV		
+6	mine	mine	DET		
+7	skefulde	skefuld	NOUN		noun.quantity
+8	kan	kunne	AUX		
+9	tælles	tælle	VERB		verb.cognition
+10	.	.	PUNCT		
+11	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 72
+# text =  Ka' synge med på alle sangene btw: lol:
+1	Ka	ka	PROPN		
+2	'	'	PUNCT		
+3	synge	synge	VERB		verb.act
+4	med	med	ADV		verb.PARTICLE
+5	på	på	ADP		
+6	alle	al	ADJ		
+7	sangene	sang	NOUN		noun.communication
+8	btw	btw	X		
+9	:	:	PUNCT		
+10	lol	lol	X		
+11	:	:	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 73
+# text =  Nej, jeg hører da Hanson! *G* de er for seje!
+1	Nej	nej	INTJ		
+2	,	,	PUNCT		
+3	jeg	jeg	PRON		
+4	hører	høre	VERB		verb.perception
+5	da	da	ADV		
+6	Hanson	hanson	PROPN		noun.communication
+7	!	!	PUNCT		
+8	*G*	*g*	SCONJ		
+9	de	den	PRON		
+10	er	være	AUX		verb.stative
+11	for	for	ADP		
+12	seje	sej	ADJ		adj.all
+13	!	!	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 74
+# text =  Måske kan du lide dem, måske ikke.
+1	Måske	måske	ADV		
+2	kan	kunne	AUX		verb.emotion
+3	du	du	PRON		
+4	lide	lide	VERB		verb.COLL
+5	dem	de	PRON		
+6	,	,	PUNCT		
+7	måske	måske	ADV		
+8	ikke	ikke	ADV		
+9	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 75
+# text =  Synes han er meget god, hans nyeste album var lidt vattet, men det dømmer jeg ham nu ikke på:)
+1	Synes	synes	VERB		verb.cognition
+2	han	han	PRON		
+3	er	være	AUX		verb.stative
+4	meget	megen	ADV		
+5	god	god	ADJ		adj.all
+6	,	,	PUNCT		
+7	hans	hans	DET		
+8	nyeste	ny	ADJ		adj.time
+9	album	album	NOUN		noun.communication
+10	var	være	AUX		verb.stative
+11	lidt	lidt	ADJ		
+12	vattet	vat	NOUN		adj.all
+13	,	,	PUNCT		
+14	men	men	CCONJ		
+15	det	det	PRON		
+16	dømmer	dømme	VERB		verb.cognition
+17	jeg	jeg	PRON		
+18	ham	han	PRON		
+19	nu	nu	ADV		
+20	ikke	ikke	ADV		
+21	på	på	ADP		
+22	:	:	PUNCT		
+23	)	)	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 76
+# text =  Hm... der er da sådan nogle firmaer der fragter stuff?
+1	Hm	hm	INTJ		
+2	.	.	PUNCT		
+3	.	.	PUNCT		
+4	.	.	PUNCT		
+5	der	der	ADV		
+6	er	være	VERB		verb.stative
+7	da	da	ADV		
+8	sådan	sådan	ADJ		
+9	nogle	nogen	DET		
+10	firmaer	firma	NOUN		noun.institution
+11	der	der	ADV		
+12	fragter	fragte	VERB		verb.motion
+13	stuff	stuf	NOUN		noun.artifact
+14	?	?	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 77
+# text =  Er der ikke en eller anden i KBH/ StorKBH området der brænder efter at komme af med et TV? lol.
+1	Er	være	AUX		verb.stative
+2	der	der	ADV		
+3	ikke	ikke	ADV		
+4	en	en	DET		
+5	eller	eller	CCONJ		
+6	anden	anden	DET		
+7	i	i	ADP		
+8	KBH	kbh	PROPN		noun.location
+9	/	/	PUNCT		noun.location
+10	StorKBH	storkbh	PROPN		noun.location
+11	området	område	NOUN		noun.location
+12	der	der	ADV		
+13	brænder	brænde	VERB		verb.emotion
+14	efter	efter	ADP		verb.COLL
+15	at	at	PART		
+16	komme	komme	VERB		verb.possession
+17	af	af	ADV		verb.COLL
+18	med	med	ADP		verb.COLL
+19	et	en	DET		
+20	TV	tv	NOUN		noun.artifact
+21	?	?	PUNCT		
+22	lol	lol	VERB		
+23	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 78
+# text =  Tror nu det hører til under Sort Snak!?!?!?!?!?!?!?!?!?!?!?!
+1	Tror	tro	VERB		verb.cognition
+2	nu	nu	ADV		
+3	det	det	PRON		
+4	hører	høre	VERB		verb.stative
+5	til	til	ADP		verb.PARTICLE
+6	under	under	ADP		
+7	Sort	sort	PROPN		adj.all
+8	Snak	snak	PROPN		noun.act
+9	!	!	PUNCT		
+10	?	?	PUNCT		
+11	!	!	PUNCT		
+12	?	?	PUNCT		
+13	!	!	PUNCT		
+14	?	?	PUNCT		
+15	!	!	PUNCT		
+16	?	?	PUNCT		
+17	!	!	PUNCT		
+18	?	?	PUNCT		
+19	!	!	PUNCT		
+20	?	?	PUNCT		
+21	!	!	PUNCT		
+22	?	?	PUNCT		
+23	!	!	PUNCT		
+24	?	?	PUNCT		
+25	!	!	PUNCT		
+26	?	?	PUNCT		
+27	!	!	PUNCT		
+28	?	?	PUNCT		
+29	!	!	PUNCT		
+30	?	?	PUNCT		
+31	!	!	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 79
+# text = " Det er deres eget liv..." Nu er der ikke nogen i min omgangskreds der bruger stoffer, og det er da muligt jeg ville prøve at tale dem fra det hvis de begyndte, men på den anden side er det ikke mit problem...
+1	"	"	PUNCT		
+2	Det	det	PRON		
+3	er	være	AUX		verb.stative
+4	deres	deres	DET		
+5	eget	egen	ADJ		
+6	liv	liv	NOUN		noun.state
+7	.	.	PUNCT		
+8	.	.	PUNCT		
+9	.	.	PUNCT		
+10	"	"	PUNCT		
+11	Nu	nu	ADV		
+12	er	være	AUX		verb.stative
+13	der	der	ADV		
+14	ikke	ikke	ADV		
+15	nogen	nogen	PRON		
+16	i	i	ADP		
+17	min	min	DET		
+18	omgangskreds	omgangskreds	NOUN		noun.person
+19	der	der	ADV		
+20	bruger	bruge	VERB		verb.consumption
+21	stoffer	stof	NOUN		noun.substance
+22	,	,	PUNCT		
+23	og	og	CCONJ		
+24	det	det	PRON		
+25	er	være	AUX		verb.stative
+26	da	da	ADV		
+27	muligt	mulig	ADJ		adj.all
+28	jeg	jeg	PRON		
+29	ville	ville	AUX		
+30	prøve	prøve	VERB		verb.act
+31	at	at	PART		
+32	tale	tale	VERB		verb.communication
+33	dem	de	PRON		
+34	fra	fra	ADP		verb.COLL
+35	det	det	DET		
+36	hvis	hvis	SCONJ		
+37	de	den	PRON		
+38	begyndte	begynde	VERB		verb.aspectual
+39	,	,	PUNCT		
+40	men	men	CCONJ		
+41	på	på	ADP		
+42	den	den	DET		
+43	anden	anden	DET		
+44	side	side	NOUN		
+45	er	være	AUX		verb.stative
+46	det	det	PRON		
+47	ikke	ikke	ADV		
+48	mit	min	DET		
+49	problem	problem	NOUN		noun.cognition
+50	.	.	PUNCT		
+51	.	.	PUNCT		
+52	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 80
+# text =  Har endnu ikke smagt den nye... og jeg skal nok gøre det?
+1	Har	have	AUX		
+2	endnu	endnu	ADV		
+3	ikke	ikke	ADV		
+4	smagt	smage	VERB		verb.perception
+5	den	den	DET		
+6	nye	ny	ADJ		adj.time
+7	.	.	PUNCT		
+8	.	.	PUNCT		
+9	.	.	PUNCT		
+10	og	og	CCONJ		
+11	jeg	jeg	PRON		
+12	skal	skulle	AUX		
+13	nok	nok	ADV		
+14	gøre	gøre	VERB		verb.act
+15	det	det	PRON		
+16	?	?	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 81
+# text =  Selvom jeg først var i Århus ved 23 tiden..
+1	Selvom	selvom	SCONJ		
+2	jeg	jeg	PRON		
+3	først	først	ADV		
+4	var	være	VERB		verb.stative
+5	i	i	ADP		
+6	Århus	århus	PROPN		noun.location
+7	ved	ved	ADP		
+8	23	23	DET		noun.time
+9	tiden	tid	NOUN		noun.time
+10	.	.	PUNCT		
+11	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 82
+# text =  Når mennesket har så lidt selvkontrol, at de ikke kan afholde sig fra at prøve at blende en fisk, når den står foran dem, hvad har menneskeheden så overhovedet selvkontrol til...
+1	Når	når	SCONJ		
+2	mennesket	menneske	NOUN		
+3	har	have	AUX		
+4	så	så	ADV		
+5	lidt	lidt	ADJ		
+6	selvkontrol	selvkontrol	NOUN		noun.attribute
+7	,	,	PUNCT		
+8	at	at	SCONJ		
+9	de	den	PRON		
+10	ikke	ikke	ADV		
+11	kan	kunne	AUX		
+12	afholde	afholde	VERB		verb.cognition
+13	sig	sig	PRON		verb.REFLPRON
+14	fra	fra	ADP		verb.COLL
+15	at	at	PART		
+16	prøve	prøve	VERB		verb.act
+17	at	at	PART		
+18	blende	blende	VERB		verb.act
+19	en	en	DET		
+20	fisk	fisk	NOUN		noun.animal
+21	,	,	PUNCT		
+22	når	når	SCONJ		
+23	den	den	PRON		
+24	står	stå	VERB		verb.stative
+25	foran	foran	ADP		
+26	dem	de	PRON		
+27	,	,	PUNCT		
+28	hvad	hvad	PRON		
+29	har	have	AUX		
+30	menneskeheden	menneskehed	NOUN		noun.person
+31	så	så	ADV		
+32	overhovedet	overhovedet	VERB		
+33	selvkontrol	selvkontrol	NOUN		noun.attribute
+34	til	til	ADP		
+35	.	.	PUNCT		
+36	.	.	PUNCT		
+37	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 83
+# text =  min matematik lærer sagde" are you with" her den anden dag.
+1	min	min	DET		
+2	matematik	matematik	NOUN		noun.person
+3	lærer	lære	VERB		noun.person
+4	sagde	sige	VERB		verb.communication
+5	"	"	PUNCT		
+6	are	are	X		
+7	you	you	X		
+8	with	with	X		
+9	"	"	PUNCT		
+10	her	her	ADV		
+11	den	den	PRON		
+12	anden	anden	PRON		
+13	dag	dag	NOUN		noun.time
+14	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 84
+# text =  Jeg kan næsten lide alt fisk, det smager stortset af det samme alt sammen? lol..
+1	Jeg	jeg	PRON		
+2	kan	kunne	AUX		verb.emotion
+3	næsten	næsten	ADV		
+4	lide	lide	VERB		verb.COLL
+5	alt	al	ADJ		
+6	fisk	fisk	NOUN		noun.food
+7	,	,	PUNCT		
+8	det	det	PRON		
+9	smager	smage	VERB		verb.phenomenon
+10	stortset	storts	NOUN		
+11	af	af	ADP		
+12	det	det	DET		
+13	samme	samme	ADJ		
+14	alt	al	ADJ		
+15	sammen	sammen	ADV		
+16	?	?	PUNCT		
+17	lol	lol	PRON		
+18	.	.	PUNCT		
+19	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 85
+# text =  MWAHA.
+1	MWAHA	mwaha	NOUN		
+2	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 86
+# text =  Værst klædte:
+1	Værst	værst	ADJ		
+2	klædte	klæde	VERB		adj.all
+3	:	:	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 87
+# text =  Ej det er ikke så slemt.. måske er det også fordi jeg har fået udviddet mit sprog?*G* Jeg forstår ikke at det ikke er mere end et år siden
+1	Ej	eje	SCONJ		
+2	det	det	PRON		
+3	er	være	AUX		verb.stative
+4	ikke	ikke	ADV		
+5	så	så	ADV		
+6	slemt	slem	ADJ		adj.all
+7	.	.	PUNCT		
+8	.	.	PUNCT		
+9	måske	måske	ADV		
+10	er	være	AUX		verb.stative
+11	det	det	PRON		
+12	også	også	ADV		
+13	fordi	fordi	SCONJ		
+14	jeg	jeg	PRON		
+15	har	have	AUX		
+16	fået	få	VERB		
+17	udviddet	udvid	NOUN		verb.change
+18	mit	min	DET		
+19	sprog	sprog	NOUN		noun.communication
+20	?	?	PUNCT		
+21	*G*	*g*	PUNCT		
+22	Jeg	jeg	PRON		
+23	forstår	forstå	VERB		verb.cognition
+24	ikke	ikke	ADV		
+25	at	at	SCONJ		
+26	det	det	PRON		
+27	ikke	ikke	ADV		
+28	er	være	AUX		verb.stative
+29	mere	mere	ADJ		
+30	end	ende	ADP		
+31	et	en	DET		
+32	år	år	NOUN		noun.time
+33	siden	siden	ADV		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 88
+# text =  Sletter de indlæg hvor vi bevæger os ud over emnet, eller deler emnet og lægger det nye emne, som er opstået, over i et helt nyt emne for sig selv: p
+1	Sletter	slette	VERB		verb.act
+2	de	den	DET		
+3	indlæg	indlægge	ADV		noun.communication
+4	hvor	hvor	ADV		
+5	vi	vi	PRON		
+6	bevæger	bevæge	VERB		verb.motion
+7	os	vi	PRON		verb.REFLPRON
+8	ud	ud	ADV		
+9	over	over	ADP		
+10	emnet	emne	NOUN		noun.abstract
+11	,	,	PUNCT		
+12	eller	eller	CCONJ		
+13	deler	dele	VERB		verb.change
+14	emnet	emne	NOUN		noun.abstract
+15	og	og	CCONJ		
+16	lægger	lægge	VERB		verb.motion
+17	det	det	DET		
+18	nye	ny	ADJ		adj.time
+19	emne	emne	NOUN		noun.abstract
+20	,	,	PUNCT		
+21	som	som	PRON		
+22	er	være	AUX		
+23	opstået	opstå	VERB		verb.aspectual
+24	,	,	PUNCT		
+25	over	over	ADV		
+26	i	i	ADP		
+27	et	en	DET		
+28	helt	helt	ADV		
+29	nyt	ny	ADJ		adj.time
+30	emne	emne	NOUN		noun.abstract
+31	for	for	ADP		
+32	sig	sig	PRON		
+33	selv	selv	PRON		
+34	:	:	PUNCT		
+35	p	p	X		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 89
+# text =  Ha!
+1	Ha	ha	VERB		
+2	!	!	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 90
+# text =  Ville også forstå jer 100% hvis I ikke gad kommentere på et lignende emne.
+1	Ville	ville	AUX		
+2	også	også	ADV		
+3	forstå	forstå	VERB		verb.cognition
+4	jer	i	PRON		
+5	100%	100%	NUM		
+6	hvis	hvis	SCONJ		
+7	I	i	PRON		
+8	ikke	ikke	ADV		
+9	gad	gide	AUX		verb.emotion
+10	kommentere	kommentere	VERB		verb.communication
+11	på	på	ADP		
+12	et	en	DET		
+13	lignende	ligne	ADJ		adj.all
+14	emne	emne	NOUN		noun.abstract
+15	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 91
+# text =  D. v. s. at det plejer at ende med, at I alligevel er venner:?:
+1	D	d	X		
+2	.	.	PUNCT		
+3	v	v	NOUN		
+4	.	.	PUNCT		
+5	s	s	NOUN		
+6	.	.	PUNCT		
+7	at	at	SCONJ		
+8	det	det	PRON		
+9	plejer	pleje	VERB		verb.phenomenon
+10	at	at	PART		
+11	ende	ende	VERB		verb.aspectual
+12	med	med	ADP		verb.COLL
+13	,	,	PUNCT		
+14	at	at	SCONJ		
+15	I	i	ADP		
+16	alligevel	alligevel	ADV		
+17	er	være	AUX		verb.stative
+18	venner	ven	NOUN		noun.relation
+19	:	:	PUNCT		
+20	?	?	PUNCT		
+21	:	:	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 92
+# text =  Der findes mange mulige ulykker her i verden, men dét der- det må alligevel være det værste, der overhovedet kan ske for en.: cry:
+1	Der	der	ADV		
+2	findes	findes	VERB		verb.stative
+3	mange	mangen	ADJ		
+4	mulige	mulig	ADJ		adj.all
+5	ulykker	ulykke	NOUN		noun.phenomenon
+6	her	her	ADV		
+7	i	i	ADP		
+8	verden	verden	NOUN		noun.location
+9	,	,	PUNCT		
+10	men	men	CCONJ		
+11	dét	dét	PRON		
+12	der	der	ADV		
+13	-	-	PUNCT		
+14	det	det	PRON		
+15	må	måtte	AUX		
+16	alligevel	alligevel	ADV		
+17	være	være	AUX		verb.stative
+18	det	det	DET		
+19	værste	værst	ADJ		adj.all
+20	,	,	PUNCT		
+21	der	der	PRON		
+22	overhovedet	overhovedet	ADV		
+23	kan	kunne	AUX		
+24	ske	ske	VERB		verb.phenomenon
+25	for	for	ADP		
+26	en	en	DET		
+27	.	.	PUNCT		
+28	:	:	PUNCT		
+29	cry	cry	VERB		
+30	:	:	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 93
+# text =  Godt at jeg ikke er den eneste.
+1	Godt	godte	ADV		adj.all
+2	at	at	SCONJ		
+3	jeg	jeg	PRON		
+4	ikke	ikke	ADV		
+5	er	være	VERB		verb.stative
+6	den	den	DET		
+7	eneste	eneste	ADJ		adj.all
+8	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 94
+# text =  Men. org bryder jeg mig bare ikke så meget om.. heller ikke. net og. nu..
+1	Men	men	CCONJ		
+2	.	.	PUNCT		noun.communication
+3	org	org	PRON		noun.communication
+4	bryder	bryde	VERB		verb.emotion
+5	jeg	jeg	PRON		
+6	mig	jeg	PRON		verb.REFLPRON
+7	bare	bare	ADV		
+8	ikke	ikke	ADV		
+9	så	så	ADV		
+10	meget	megen	ADV		
+11	om	om	ADP		verb.COLL
+12	.	.	PUNCT		
+13	.	.	PUNCT		
+14	heller	heller	ADV		
+15	ikke	ikke	ADV		
+16	.	.	PUNCT		noun.communication
+17	net	net	NOUN		noun.communication
+18	og	og	CCONJ		
+19	.	.	PUNCT		noun.communication
+20	nu	nu	ADV		noun.communication
+21	.	.	PUNCT		
+22	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 95
+# text =  Skal vi ikke lave afstemning om det fedeste avatar? loool..*G*
+1	Skal	skulle	AUX		
+2	vi	vi	PRON		
+3	ikke	ikke	ADV		
+4	lave	lave	VERB		verb.act
+5	afstemning	afstemning	NOUN		noun.event
+6	om	om	ADP		
+7	det	det	DET		
+8	fedeste	fed	ADJ		adj.all
+9	avatar	avatar	NOUN		noun.abstract
+10	?	?	PUNCT		
+11	loool	loool	NOUN		
+12	.	.	PUNCT		
+13	.	.	PUNCT		
+14	*G*	*g*	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 96
+# text =  Holde døren for folk, hjælpe en gammel dame, vise at jeg takker når folk holder tilbage så jeg kan kommer over gaden og sådan noget.
+1	Holde	holde	VERB		verb.act
+2	døren	dør	NOUN		noun.artifact
+3	for	for	ADP		
+4	folk	folk	NOUN		noun.person
+5	,	,	PUNCT		
+6	hjælpe	hjælpe	VERB		verb.act
+7	en	en	DET		
+8	gammel	gammel	ADJ		adj.time
+9	dame	dame	NOUN		noun.person
+10	,	,	PUNCT		
+11	vise	vise	VERB		noun.communication
+12	at	at	SCONJ		
+13	jeg	jeg	PRON		
+14	takker	takke	VERB		verb.communication
+15	når	når	SCONJ		
+16	folk	folk	NOUN		noun.person
+17	holder	holde	VERB		verb.act
+18	tilbage	tilbage	ADV		verb.PARTICLE
+19	så	så	SCONJ		
+20	jeg	jeg	PRON		
+21	kan	kunne	AUX		
+22	kommer	komme	VERB		verb.motion
+23	over	over	ADP		
+24	gaden	gade	NOUN		noun.location
+25	og	og	CCONJ		
+26	sådan	sådan	ADJ		
+27	noget	nogen	PRON		
+28	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 97
+# text =  åååårh hvor skønt..: D hvor kan man downloade det?? hvis det ikke er et købt program?..: D
+1	åååårh	åååårh	NOUN		
+2	hvor	hvor	ADV		
+3	skønt	skøn	ADJ		adj.all
+4	.	.	PUNCT		
+5	.	.	PUNCT		
+6	:	:	PUNCT		
+7	D	d	X		
+8	hvor	hvor	ADV		
+9	kan	kunne	AUX		
+10	man	man	PRON		
+11	downloade	downloade	VERB		verb.act
+12	det	det	PRON		
+13	?	?	PUNCT		
+14	?	?	PUNCT		
+15	hvis	hvis	SCONJ		
+16	det	det	PRON		
+17	ikke	ikke	ADV		
+18	er	være	AUX		verb.stative
+19	et	en	DET		
+20	købt	købe	VERB		adj.all
+21	program	program	NOUN		noun.communication
+22	?	?	PUNCT		
+23	.	.	PUNCT		
+24	.	.	PUNCT		
+25	:	:	PUNCT		
+26	D	d	X		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 98
+# text =  Øjner jeg en vis form for misundelse?: D Det er ganske elementær viden...!
+1	Øjner	øjne	VERB		verb.perception
+2	jeg	jeg	PRON		
+3	en	en	DET		
+4	vis	vis	ADJ		
+5	form	form	NOUN		noun.abstract
+6	for	for	ADP		
+7	misundelse	misundelse	NOUN		noun.feeling
+8	?	?	PUNCT		
+9	:	:	PUNCT		
+10	D	d	X		
+11	Det	det	PRON		
+12	er	være	AUX		verb.stative
+13	ganske	ganske	ADV		
+14	elementær	elementær	ADJ		adj.all
+15	viden	viden	NOUN		noun.cognition
+16	.	.	PUNCT		
+17	.	.	PUNCT		
+18	.	.	PUNCT		
+19	!	!	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 99
+# text =  Weeell..
+1	Weeell	weeell	PROPN		
+2	.	.	PUNCT		
+3	.	.	PUNCT		
+
+# newdoc id = selvhenter-5.tsv
+# sent_id = 100
+# text =  Det er da en kæmpe mulighed og udfordring, og man får indblik i en persons liv, som ikke er som vores andres.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	da	da	ADV		
+4	en	en	DET		
+5	kæmpe	kæmpe	ADJ		adj.all
+6	mulighed	mulighed	NOUN		noun.abstract
+7	og	og	CCONJ		
+8	udfordring	udfordring	NOUN		noun.abstract
+9	,	,	PUNCT		
+10	og	og	CCONJ		
+11	man	man	PRON		
+12	får	få	VERB		verb.cognition
+13	indblik	indblik	NOUN		noun.cognition
+14	i	i	ADP		
+15	en	en	DET		
+16	persons	person	ADJ		noun.person
+17	liv	liv	NOUN		noun.state
+18	,	,	PUNCT		
+19	som	som	PRON		
+20	ikke	ikke	ADV		
+21	er	være	AUX		verb.stative
+22	som	som	ADP		
+23	vores	vores	DET		
+24	andres	anden	ADJ		
+25	.	.	PUNCT		
+

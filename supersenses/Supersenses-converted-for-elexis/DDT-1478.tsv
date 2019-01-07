@@ -1,0 +1,215 @@
+# newdoc id = DDT-1478.tsv
+# sent_id = 1
+# text =  Beskedent og endnu ikke helt upåvirket af chokket fortæller Jens Christian Poulsen, 34-årig snedker fra Frederikshavn, hvordan han i en hæsblæsende kamp med tiden reddede en 45-årig ansat i Søværnet fra at drukne i de kolde bølger ud for Skagen.
+1	Beskedent	beskeden	ADV		adj.all
+2	og	og	CCONJ		
+3	endnu	endnu	ADV		
+4	ikke	ikke	ADV		
+5	helt	helt	ADV		
+6	upåvirket	upåvirket	ADJ		adj.all
+7	af	af	ADP		
+8	chokket	chok	NOUN		noun.feeling
+9	fortæller	fortælle	VERB		verb.communication
+10	Jens	jens	PROPN		noun.person
+11	Christian	christian	PROPN		noun.person
+12	Poulsen	poulsen	PROPN		noun.person
+13	,	,	PUNCT		
+14	34-årig	34-år	ADJ		adj.time
+15	snedker	snedker	NOUN		noun.person
+16	fra	fra	ADP		
+17	Frederikshavn	frederikshavn	PROPN		noun.location
+18	,	,	PUNCT		
+19	hvordan	hvordan	ADV		
+20	han	han	PRON		
+21	i	i	ADP		
+22	en	en	DET		
+23	hæsblæsende	hæsblæsende	ADJ		adj.all
+24	kamp	kamp	NOUN		noun.act
+25	med	med	ADP		
+26	tiden	tid	NOUN		noun.time
+27	reddede	redde	VERB		verb.act
+28	en	en	DET		
+29	45-årig	45-år	ADJ		adj.time
+30	ansat	ansætte	VERB		noun.person
+31	i	i	ADP		
+32	Søværnet	søværn	NOUN		noun.institution
+33	fra	fra	ADP		
+34	at	at	PART		
+35	drukne	drukne	VERB		verb.phenomenon
+36	i	i	ADP		
+37	de	den	DET		
+38	kolde	kold	ADJ		adj.phys
+39	bølger	bølge	NOUN		noun.phenomenon
+40	ud	ud	ADV		
+41	for	for	ADP		
+42	Skagen	skagen	PROPN		noun.location
+43	.	.	PUNCT		
+
+# newdoc id = DDT-1478.tsv
+# sent_id = 2
+# text =  Som gast i marinehjemmeværnet var Jens Christian Poulsen med tilnavnet" Kesse" om_bord på hjemmeværnskutter HVM71 Scorpius på øvelse på Herthas Flak nogle sømil øst for Skagen, da han i kutterens styrhus pludselig hørte, at der blev råbt" mand over_bord".
+1	Som	som	ADP		
+2	gast	gast	NOUN		noun.person
+3	i	i	ADP		
+4	marinehjemmeværnet	marinehjemmeværn	NOUN		noun.institution
+5	var	være	AUX		verb.stative
+6	Jens	jens	PROPN		noun.person
+7	Christian	christian	PROPN		noun.person
+8	Poulsen	poulsen	PROPN		noun.person
+9	med	med	ADP		
+10	tilnavnet	tilnavn	NOUN		noun.communication
+11	"	"	PUNCT		
+12	Kesse	kesse	PROPN		noun.attribute
+13	"	"	PUNCT		
+14	om_bord	om_bord	NOUN		
+15	på	på	ADP		
+16	hjemmeværnskutter	hjemmeværnskut	NOUN		noun.vehicle
+17	HVM71	hvm71	X		noun.vehicle
+18	Scorpius	scorpius	PROPN		noun.vehicle
+19	på	på	ADP		
+20	øvelse	øvelse	NOUN		noun.act
+21	på	på	ADP		
+22	Herthas	herthas	PROPN		noun.vehicle
+23	Flak	flak	PROPN		noun.vehicle
+24	nogle	nogen	DET		
+25	sømil	sømil	NOUN		noun.quantity
+26	øst	øst	ADV		
+27	for	for	ADP		
+28	Skagen	skagen	PROPN		noun.location
+29	,	,	PUNCT		
+30	da	da	SCONJ		
+31	han	han	PRON		
+32	i	i	ADP		
+33	kutterens	kutter	NOUN		noun.vehicle
+34	styrhus	styrhus	NOUN		noun.building
+35	pludselig	pludselig	ADV		
+36	hørte	høre	VERB		verb.perception
+37	,	,	PUNCT		
+38	at	at	SCONJ		
+39	der	der	ADV		
+40	blev	blive	AUX		
+41	råbt	råbe	VERB		verb.communication
+42	"	"	PUNCT		
+43	mand	mand	NOUN		noun.person
+44	over_bord	over_bord	NOUN		noun.state
+45	"	"	PUNCT		
+46	.	.	PUNCT		
+
+# newdoc id = DDT-1478.tsv
+# sent_id = 3
+# text = " Jeg gik ud for at kigge og så lige akkurat skyggen af en mand i vandet.
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	gik	gå	VERB		verb.motion
+4	ud	ud	ADV		verb.PARTICLE
+5	for	for	ADP		
+6	at	at	PART		
+7	kigge	kigge	VERB		verb.perception
+8	og	og	CCONJ		
+9	så	så	VERB		verb.perception
+10	lige	lige	ADV		
+11	akkurat	akkurat	ADV		
+12	skyggen	skygge	NOUN		noun.phenomenon
+13	af	af	ADP		
+14	en	en	DET		
+15	mand	mand	NOUN		noun.person
+16	i	i	ADP		
+17	vandet	vand	NOUN		noun.substance
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1478.tsv
+# sent_id = 4
+# text =  Klokken var næsten halvotte, og det var allerede begyndt at blive mørkt.
+1	Klokken	klokke	NOUN		noun.artifact
+2	var	være	VERB		verb.stative
+3	næsten	næsten	ADV		
+4	halvotte	halvot	ADJ		noun.time
+5	,	,	PUNCT		
+6	og	og	CCONJ		
+7	det	det	PRON		
+8	var	være	AUX		
+9	allerede	allerede	ADV		
+10	begyndt	begynde	VERB		verb.aspectual
+11	at	at	PART		
+12	blive	blive	AUX		verb.change
+13	mørkt	mørk	ADJ		adj.phys
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1478.tsv
+# sent_id = 5
+# text =  Jeg fik min Secumar-vest på i en rasende fart, mens skipper Tom Christiansen vendte skibet.
+1	Jeg	jeg	PRON		
+2	fik	få	VERB		verb.body
+3	min	min	DET		
+4	Secumar-vest	secumar-vest	NOUN		noun.artifact
+5	på	på	ADP		verb.COLL
+6	i	i	ADP		
+7	en	en	DET		
+8	rasende	rasende	ADJ		adj.all
+9	fart	fart	NOUN		noun.phenomenon
+10	,	,	PUNCT		
+11	mens	mens	SCONJ		
+12	skipper	skipper	NOUN		noun.person
+13	Tom	tom	PROPN		noun.person
+14	Christiansen	christiansen	PROPN		noun.person
+15	vendte	vende	VERB		verb.motion
+16	skibet	skib	NOUN		noun.vehicle
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1478.tsv
+# sent_id = 6
+# text =  Jeg kunne se, at den overbordfaldne havde været under vand og var på vej op igen.
+1	Jeg	jeg	PRON		
+2	kunne	kunne	AUX		
+3	se	se	VERB		verb.perception
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	den	den	PRON		
+7	overbordfaldne	overbordfaldn	ADV		noun.person
+8	havde	have	AUX		
+9	været	være	VERB		verb.stative
+10	under	under	ADP		
+11	vand	vand	NOUN		noun.substance
+12	og	og	CCONJ		
+13	var	være	VERB		verb.stative
+14	på	på	ADP		
+15	vej	vej	NOUN		
+16	op	op	ADV		
+17	igen	igen	ADV		
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1478.tsv
+# sent_id = 7
+# text =  Jeg betænkte mig ikke et sekund.
+1	Jeg	jeg	PRON		
+2	betænkte	betænke	VERB		verb.cognition
+3	mig	jeg	PRON		
+4	ikke	ikke	ADV		
+5	et	en	DET		
+6	sekund	sekund	NOUN		noun.time
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1478.tsv
+# sent_id = 8
+# text =  Med en redningskrans og en lysbøje i hånden sprang jeg i vandet.
+1	Med	med	ADP		
+2	en	en	DET		
+3	redningskrans	redningskrans	NOUN		noun.artifact
+4	og	og	CCONJ		
+5	en	en	DET		
+6	lysbøje	lysbøje	NOUN		noun.artifact
+7	i	i	ADP		
+8	hånden	hånd	NOUN		noun.body
+9	sprang	springe	VERB		verb.motion
+10	jeg	jeg	PRON		
+11	i	i	ADP		
+12	vandet	vand	NOUN		noun.substance
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1478.tsv
+# sent_id = 9
+# text =  ANSIGTET UNDER VAND
+1	ANSIGTET	ansigt	NOUN		noun.body
+2	UNDER	under	ADP		
+3	VAND	vand	NOUN		noun.substance
+
