@@ -1,0 +1,818 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Lex | Tag
+#id=1
+#text=Michael er altid i nærheden af resten af " Vild med dans"-holdet, mens Cariza holder en passende afstand, mens hun observerer ægtemanden.
+1-1	Michael	Michael	NP:siu#:--:----	_	
+1-2	er	være	VF:----:sa:----	_	
+1-3	altid	altid	D-:----:--:u---	_	
+1-4	i	i	T-:----:--:----	_	
+1-5	nærheden	nærhed	NC:sduc:--:----	_	
+1-6	af	af	T-:----:--:----	_	
+1-7	resten	rest	NC:sduc:--:----	_	
+1-8	af	af	T-:----:--:----	_	
+1-9	"	"	ZI	_	
+1-10	Vild	vild	AC:siuc:--:p---	_	
+1-11	med	med	T-:----:--:----	_	
+1-12	dans	dans	NC:siuc:--:----	_	
+1-13	"	"	ZI	_	
+1-14	-	-	ZH	_	
+1-15	holdet	hold|hold-1-1a-1b|hold-2|hold-7|hold-6a|hold-6|hold-5|hold-4|hold-3|hold-F-være/spille-med-på-holdet|hold-F-på-hold|hold-8	NC:sdun:--:----	hold-1-1a-1b	
+1-16	,	,	ZD	_	
+1-17	mens	mens	CS:----:--:----	_	
+1-18	Cariza	Cariza	NP:siu#:--:----	_	
+1-19	holder	holde	VF:----:sa:----	_	
+1-20	en	en	PI:s-uc:--:----	_	
+1-21	passende	passende	AC:§§u§:--:p---	_	
+1-22	afstand	afstand	NC:siuc:--:----	_	
+1-23	,	,	ZD	_	
+1-24	mens	mens	CS:----:--:----	_	
+1-25	hun	hun	PP:s-nc:--:-3n-	_	
+1-26	observerer	observere	VF:----:sa:----	_	
+1-27	ægtemanden	ægtemand	NC:sduc:--:----	_	
+1-28	.	.	ZP	_	
+
+#id=2
+#text=Ingen af deltagerne har endnu haft symptomer på den potentielt livsfarlige tropesygdom, men flere fra produktionsholdet er ramt, og hele det 250 mand store hold er derfor evakueret fra øerne og bragt til observation på fastlandet.
+2-1	Ingen	ingen	PI:s-uc:--:----	_	
+2-2	af	af	T-:----:--:----	_	
+2-3	deltagerne	deltager	NC:pdu#:--:----	_	
+2-4	har	have	VF:----:sa:----	_	
+2-5	endnu	endnu	D-:----:--:u---	_	
+2-6	haft	have	VT:siu#:t-:----	_	
+2-7	symptomer	symptom	NC:piu#:--:----	_	
+2-8	på	på	T-:----:--:----	_	
+2-9	den	den	PM:s-uc:--:----	_	
+2-10	potentielt	potentiel	AD:----:--:p---	_	
+2-11	livsfarlige	livsfarlig	AC:sdu#:--:p---	_	
+2-12	tropesygdom	tropesygdom	NC:siuc:--:----	_	
+2-13	,	,	ZD	_	
+2-14	men	men	CC:----:--:----	_	
+2-15	flere	mange	AC:##u#:--:c---	_	
+2-16	fra	fra	T-:----:--:----	_	
+2-17	produktionsholdet	produktionshold	NC:sdun:--:----	_	
+2-18	er	være	VF:----:sa:----	_	
+2-19	ramt	ramme	VT:siu#:t-:----	_	
+2-20	,	,	ZD	_	
+2-21	og	og	CC:----:--:----	_	
+2-22	hele	hel	AC:sdu#:--:p---	_	
+2-23	det	den	PM:s-un:--:----	_	
+2-24	250	250	LO:--u#:--:----	_	
+2-25	mand	mand	NC:siuc:--:----	_	
+2-26	store	stor	AC:p#u#:--:p---	_	
+2-27	hold	hold|hold-3|hold-2|hold-1-1a-1b|hold-6a|hold-F-være/spille-med-på-holdet|hold-F-på-hold|hold-8|hold-7|hold-6|hold-5|hold-4	NC:piu#:--:----	hold-1-1a-1b	
+2-28	er	være	VF:----:sa:----	_	
+2-29	derfor	derfor	D-:----:--:u---	_	
+2-30	evakueret	evakuere	VT:siu#:t-:----	_	
+2-31	fra	fra	T-:----:--:----	_	
+2-32	øerne	ø	NC:pdu#:--:----	_	
+2-33	og	og	CC:----:--:----	_	
+2-34	bragt	bringe	VT:siu#:t-:----	_	
+2-35	til	til	T-:----:--:----	_	
+2-36	observation	observation	NC:siuc:--:----	_	
+2-37	på	på	T-:----:--:----	_	
+2-38	fastlandet	fastland	NC:sdun:--:----	_	
+2-39	.	.	ZP	_	
+
+#id=3
+#text=Den succesfulde træner havde sit hyr med det danske lands-landshold under EM i Sverige i 1992 hold - Vores doktor Mogens Kreutzfeldt havde ansvar for maden.
+3-1	Den	den	PM:s-uc:--:----	_	
+3-2	succesfulde	succesfuld	AC:sdu#:--:p---	_	
+3-3	træner	træner	NC:siuc:--:----	_	
+3-4	havde	have	VF:----:ta:----	_	
+3-5	sit	sin	PO:s--n:--:-3ys	_	
+3-6	hyr	hyr	NC:siun:--:----	_	
+3-7	med	med	T-:----:--:----	_	
+3-8	det	den	PM:s-un:--:----	_	
+3-9	danske	dansk	AC:sdu#:--:p---	_	
+3-10	lands	land	NC:sign:--:----	_	
+3-11	-	-	NC:piu#:--:----	_	
+3-12	landshold	landshold	NC:piu#:--:----	_	
+3-13	under	under	T-:----:--:----	_	
+3-14	EM	EM	NP:siu#:--:----	_	
+3-15	i	i	T-:----:--:----	_	
+3-16	Sverige	Sverige	NP:siu#:--:----	_	
+3-17	i	i	T-:----:--:----	_	
+3-18	1992	1992	LC:--u-:--:----	_	
+3-19	hold	hold|hold-3|hold-2|hold-1-1a-1b|hold-4|hold-7|hold-F-være/spille-med-på-holdet|hold-F-på-hold|hold-8|hold-6a|hold-6|hold-5	NW:----:--:----	hold-1-1a-1b	
+3-20	-	-	ZH	_	
+3-21	Vores	Vores	XY:----:--:----	_	
+3-22	doktor	doktor	NC:siuc:--:----	_	
+3-23	Mogens	Mogens	NP:siu#:--:----	_	
+3-24	Kreutzfeldt	Kreutzfeldt	NP:siu#:--:----	_	
+3-25	havde	have	VF:----:ta:----	_	
+3-26	ansvar	ansvar	NC:siun:--:----	_	
+3-27	for	for	T-:----:--:----	_	
+3-28	maden	mad	NC:sduc:--:----	_	
+3-29	.	.	ZP	_	
+
+#id=4
+#text= Og i fredags var sidste års dansevinder ude at hilse på holdet sammen med sin kone, Lise Marie.
+4-1	Og	og	CC:----:--:----	_	
+4-2	i	i	T-:----:--:----	_	
+4-3	fredags	fredag	NC:sigc:--:----	_	
+4-4	var	være	VF:----:ta:----	_	
+4-5	sidste	sidste	AC:§§u§:--:p---	_	
+4-6	års	år	NC:sign:--:----	_	
+4-7	dansevinder	dansevinde	NC:piu#:--:----	_	
+4-8	ude	ude	D-:----:--:u---	_	
+4-9	at	at	UI:----:--:----	_	
+4-10	hilse	hilse	VI:----:-a:----	_	
+4-11	på	på	T-:----:--:----	_	
+4-12	holdet	hold|hold-3|hold-2|hold-1-1a-1b|hold-8|hold-F-være/spille-med-på-holdet|hold-F-på-hold|hold-7|hold-6a|hold-6|hold-5|hold-4	NC:sdun:--:----	hold-1-1a-1b	
+4-13	sammen	sammen	D-:----:--:u---	_	
+4-14	med	med	T-:----:--:----	_	
+4-15	sin	sin	PO:s--c:--:-3ys	_	
+4-16	kone	kone	NC:siuc:--:----	_	
+4-17	,	,	ZD	_	
+4-18	Lise	Lise	NP:siu#:--:----	_	
+4-19	Marie	Marie	NP:siu#:--:----	_	
+4-20	.	.	ZP	_	
+
+#id=5
+#text=- På min egen restaurant har jeg et meget kompetent hold, så der går jeg ikke og råber og skriger, men hvis tingene ikke er i orden, har det selvfølgelig konsekvenser.
+5-1	-	-	NC:piu#:--:----	_	
+5-2	På	på	T-:----:--:----	_	
+5-3	min	min	PO:s--c:--:-1ns	_	
+5-4	egen	egen	AC:s§uc:--:p---	_	
+5-5	restaurant	restaurant	NC:siuc:--:----	_	
+5-6	har	have	VF:----:sa:----	_	
+5-7	jeg	jeg	PP:s-nc:--:-1n-	_	
+5-8	et	en	PI:s-un:--:----	_	
+5-9	meget	megen	AD:----:--:p---	_	
+5-10	kompetent	kompetent	AC:siun:--:p---	_	
+5-11	hold	hold|hold-F-på-hold|hold-F-være/spille-med-på-holdet|hold-8|hold-7|hold-6a|hold-1-1a-1b|hold-2|hold-5|hold-4|hold-3|hold-6	NC:siun:--:----	hold-1-1a-1b	
+5-12	,	,	ZD	_	
+5-13	så	så	CS:----:--:----	_	
+5-14	der	der	US:----:--:----	_	
+5-15	går	gå	VF:----:sa:----	_	
+5-16	jeg	jeg	PP:s-nc:--:-1n-	_	
+5-17	ikke	ikke	D-:----:--:u---	_	
+5-18	og	og	CC:----:--:----	_	
+5-19	råber	råber	NC:siuc:--:----	_	
+5-20	og	og	CC:----:--:----	_	
+5-21	skriger	skrige	VF:----:sa:----	_	
+5-22	,	,	ZD	_	
+5-23	men	men	CC:----:--:----	_	
+5-24	hvis	hvis	CS:----:--:----	_	
+5-25	tingene	ting	NC:pdu#:--:----	_	
+5-26	ikke	ikke	D-:----:--:u---	_	
+5-27	er	være	VF:----:sa:----	_	
+5-28	i	i	T-:----:--:----	_	
+5-29	orden	orden	NC:siuc:--:----	_	
+5-30	,	,	ZD	_	
+5-31	har	have	VF:----:sa:----	_	
+5-32	det	det	PP:s-un:--:-3n-	_	
+5-33	selvfølgelig	selvfølgelig	D-:----:--:u---	_	
+5-34	konsekvenser	konsekvens	NC:piu#:--:----	_	
+5-35	.	.	ZP	_	
+
+#id=6
+#text=De to mødte hinanden under optagelserne af DR's " Høvdingebold" i år, hvor deres hold " Søofficererne" og " De tatoverede" tørnede sammen i finalen.
+6-1	De	den	PM:p-u#:--:----	_	
+6-2	to	to	LC:--u-:--:----	_	
+6-3	mødte	møde	VF:----:ta:----	_	
+6-4	hinanden	hinanden	PC:p-u-:--:----	_	
+6-5	under	under	T-:----:--:----	_	
+6-6	optagelserne	optagelse	NC:pdu#:--:----	_	
+6-7	af	af	T-:----:--:----	_	
+6-8	DR	DR	NP:siu#:--:----	_	
+6-9	'	'	ZA	_	
+6-10	s	@s	MN:sig#:--:----	_	
+6-11	"	"	ZI	_	
+6-12	Høvdingebold	Høvdingebold	NP:siu#:--:----	_	
+6-13	"	"	ZI	_	
+6-14	i	i	T-:----:--:----	_	
+6-15	år	år	NC:siun:--:----	_	
+6-16	,	,	ZD	_	
+6-17	hvor	hvor	D-:----:--:u---	_	
+6-18	deres	deres	XY:----:--:----	_	
+6-19	hold	hold|hold-2|hold-1-1a-1b|hold-3|hold-6a|hold-8|hold-F-være/spille-med-på-holdet|hold-F-på-hold|hold-7|hold-6|hold-5|hold-4	NC:siun:--:----	hold-1-1a-1b	
+6-20	"	"	ZI	_	
+6-21	Søofficererne	søofficer	NC:pdu#:--:----	_	
+6-22	"	"	ZI	_	
+6-23	og	og	CC:----:--:----	_	
+6-24	"	"	ZI	_	
+6-25	De	den	PM:p-u#:--:----	_	
+6-26	tatoverede	tatovere	VP:p#u#:t-:----	_	
+6-27	"	"	ZI	_	
+6-28	tørnede	tørne	VF:----:ta:----	_	
+6-29	sammen	sammen	D-:----:--:u---	_	
+6-30	i	i	T-:----:--:----	_	
+6-31	finalen	finale	NC:sduc:--:----	_	
+6-32	.	.	ZP	_	
+
+#id=7
+#text= Og det skyldes, at holdet bag udsendelsen hver dag parkerer sendevognen et nyt sted.
+7-1	Og	og	CC:----:--:----	_	
+7-2	det	det	PP:s-un:--:-3n-	_	
+7-3	skyldes	skylde	VF:----:sp:----	_	
+7-4	,	,	ZD	_	
+7-5	at	at	CS:----:--:----	_	
+7-6	holdet	hold|hold-1-1a-1b|hold-4|hold-7|hold-8|hold-6a|hold-6|hold-5|hold-3|hold-2|hold-F-være/spille-med-på-holdet|hold-F-på-hold	NC:sdun:--:----	hold-1-1a-1b	
+7-7	bag	bag	T-:----:--:----	_	
+7-8	udsendelsen	udsendelse	NC:sduc:--:----	_	
+7-9	hver	hver	PI:s-uc:--:----	_	
+7-10	dag	dag	NC:siuc:--:----	_	
+7-11	parkerer	parkere	VF:----:sa:----	_	
+7-12	sendevognen	sendevogn	NC:sduc:--:----	_	
+7-13	et	en	PI:s-un:--:----	_	
+7-14	nyt	ny	AC:siun:--:p---	_	
+7-15	sted	sted	NC:siun:--:----	_	
+7-16	.	.	ZP	_	
+
+#id=8
+#text=Så hold øjne og ører åbne E n celeber forretningsmand med en ny, ung kæreste.
+8-1	Så	så	D-:----:--:u---	_	
+8-2	hold	hold|hold-3|hold-5|hold-8|hold-F-være/spille-med-på-holdet|hold-F-på-hold|hold-7|hold-6a|hold-6|hold-4|hold-2|hold-1-1a-1b	NC:siun:--:----	_	
+8-3	øjne	øje	NC:piu#:--:----	_	
+8-4	og	og	CC:----:--:----	_	
+8-5	ører	øre	NC:piu#:--:----	_	
+8-6	åbne	åben	AC:sdu#:--:p---	_	
+8-7	E	E	NP:siu#:--:----	_	
+8-8	n	N	NP:siu#:--:----	_	
+8-9	celeber	celeber	AC:siuc:--:p---	_	
+8-10	forretningsmand	forretningsmand	NC:siuc:--:----	_	
+8-11	med	med	T-:----:--:----	_	
+8-12	en	en	PI:s-uc:--:----	_	
+8-13	ny	ny	AC:siuc:--:p---	_	
+8-14	,	,	ZD	_	
+8-15	ung	ung	AC:siuc:--:p---	_	
+8-16	kæreste	kæreste	NC:siuc:--:----	_	
+8-17	.	.	ZP	_	
+
+#id=9
+#text=Kate har ikke gidet kommentere på det, men har fortalt venner, at det må være en syg fantasi i Courtneys hoved - uden hold i virkeligheden.
+9-1	Kate	Kate	NP:siu#:--:----	_	
+9-2	har	have	VF:----:sa:----	_	
+9-3	ikke	ikke	D-:----:--:u---	_	
+9-4	gidet	gide	VT:siu#:t-:----	_	
+9-5	kommentere	kommentere	VI:----:-a:----	_	
+9-6	på	på	T-:----:--:----	_	
+9-7	det	det	PP:s-un:--:-3n-	_	
+9-8	,	,	ZD	_	
+9-9	men	men	CC:----:--:----	_	
+9-10	har	have	VF:----:sa:----	_	
+9-11	fortalt	fortale	VT:siu#:t-:----	_	
+9-12	venner	ven	NC:piu#:--:----	_	
+9-13	,	,	ZD	_	
+9-14	at	at	CS:----:--:----	_	
+9-15	det	det	PP:s-un:--:-3n-	_	
+9-16	må	måtte	VF:----:sa:----	_	
+9-17	være	være	VI:----:-a:----	_	
+9-18	en	en	PI:s-uc:--:----	_	
+9-19	syg	syg	AC:siuc:--:p---	_	
+9-20	fantasi	fantasi	NC:siuc:--:----	_	
+9-21	i	i	T-:----:--:----	_	
+9-22	Courtneys	Courtneys	NP:sig#:--:----	_	
+9-23	hoved	hoved	EW:----:--:----	_	
+9-24	-	-	ZH	_	
+9-25	uden	uden	D-:----:--:u---	_	
+9-26	hold	hold|hold-4|hold-5|hold-3|hold-1-1a-1b|hold-2|hold-6|hold-7|hold-F-på-hold|hold-F-være/spille-med-på-holdet|hold-8|hold-6a	NC:siun:--:----	hold-5a	
+9-27	i	i	T-:----:--:----	_	
+9-28	virkeligheden	virkelighed	NC:sduc:--:----	_	
+9-29	.	.	ZP	_	
+
+#id=10
+#text=- Det er et godt tiltag, at vi kan tage vores familier med, fortæller holdets sympatiske back, Lars Jacobsen, som er far til August på otte måneder.
+10-1	-	-	NC:piu#:--:----	_	
+10-2	Det	Det	XY:----:--:----	_	
+10-3	er	være	VF:----:sa:----	_	
+10-4	et	en	PI:s-un:--:----	_	
+10-5	godt	god	AC:siun:--:p---	_	
+10-6	tiltag	tiltag	NC:siun:--:----	_	
+10-7	,	,	ZD	_	
+10-8	at	at	CS:----:--:----	_	
+10-9	vi	vi	PP:p-nc:--:-1n-	_	
+10-10	kan	kunne	VF:----:sa:----	_	
+10-11	tage	tage	VI:----:-a:----	_	
+10-12	vores	vores	PO:#--#:--:-1np	_	
+10-13	familier	familie	NC:piu#:--:----	_	
+10-14	med	med	T-:----:--:----	_	
+10-15	,	,	ZD	_	
+10-16	fortæller	fortælle	VF:----:sa:----	_	
+10-17	holdets	hold|hold-4|hold-1-1a-1b|hold-3|hold-2|hold-5|hold-6a|hold-8|hold-F-være/spille-med-på-holdet|hold-F-på-hold|hold-7|hold-6	NC:sdgn:--:----	hold-1-1a-1b	
+10-18	sympatiske	sympatisk	AC:sdu#:--:p---	_	
+10-19	back	back	NC:siun:--:----	_	
+10-20	,	,	ZD	_	
+10-21	Lars	Lars	NP:siu#:--:----	_	
+10-22	Jacobsen	Jacobsen	NP:siu#:--:----	_	
+10-23	,	,	ZD	_	
+10-24	som	som	US:----:--:----	_	
+10-25	er	være	VF:----:sa:----	_	
+10-26	far	far	NC:siuc:--:----	_	
+10-27	til	til	T-:----:--:----	_	
+10-28	August	august	NC:siuc:--:----	_	
+10-29	på	på	T-:----:--:----	_	
+10-30	otte	otte	LC:--u-:--:----	_	
+10-31	måneder	måned	NC:piu#:--:----	_	
+10-32	.	.	ZP	_	
+
+#id=11
+#text= Men da Dan Rachlin beviseligt ikke spiller på det lyserøde hold, må der her være tale om, at han bare er totalt loose.
+11-1	Men	men	CC:----:--:----	_	
+11-2	da	da	CS:----:--:----	_	
+11-3	Dan	Dan	NP:siu#:--:----	_	
+11-4	Rachlin	Rachlin	NP:siu#:--:----	_	
+11-5	beviseligt	beviselig	AD:----:--:p---	_	
+11-6	ikke	ikke	D-:----:--:u---	_	
+11-7	spiller	spille	VF:----:sa:----	_	
+11-8	på	på	T-:----:--:----	_	
+11-9	det	den	PM:s-un:--:----	_	
+11-10	lyserøde	lyserød	AC:sdu#:--:p---	_	
+11-11	hold	hold|hold-7|hold-F-på-hold|hold-F-være/spille-med-på-holdet|hold-8|hold-6a|hold-2|hold-4|hold-5|hold-3|hold-1-1a-1b|hold-6	NC:siun:--:----	hold-1-1a-1b	
+11-12	,	,	ZD	_	
+11-13	må	måtte	VF:----:sa:----	_	
+11-14	der	der	US:----:--:----	_	
+11-15	her	her	D-:----:--:u---	_	
+11-16	være	være	VI:----:-a:----	_	
+11-17	tale	tale	NC:siuc:--:----	_	
+11-18	om	om	T-:----:--:----	_	
+11-19	,	,	ZD	_	
+11-20	at	at	CS:----:--:----	_	
+11-21	han	han	PP:s-nc:--:-3n-	_	
+11-22	bare	bare	D-:----:--:u---	_	
+11-23	er	være	VF:----:sa:----	_	
+11-24	totalt	total	AD:----:--:p---	_	
+11-25	loose	loose	VI:----:-a:----	_	
+11-26	.	.	ZP	_	
+
+#id=12
+#text=Den voldsanmeldte skuespiller Rasmus Bjerg blev hjemme, da holdet " Livvagterne" holdt afslutningsfest i den gamle DR-by i Søborg.
+12-1	Den	den	PM:s-uc:--:----	_	
+12-2	voldsanmeldte	voldsanmelde	VP:sdu#:t-:----	_	
+12-3	skuespiller	skuespiller	NC:siuc:--:----	_	
+12-4	Rasmus	Rasmus	NP:siu#:--:----	_	
+12-5	Bjerg	Bjerg	NP:siu#:--:----	_	
+12-6	blev	blive	VF:----:ta:----	_	
+12-7	hjemme	hjemme	D-:----:--:u---	_	
+12-8	,	,	ZD	_	
+12-9	da	da	CS:----:--:----	_	
+12-10	holdet	hold|hold-3|hold-5|hold-6a|hold-8|hold-F-være/spille-med-på-holdet|hold-F-på-hold|hold-7|hold-6|hold-4|hold-2|hold-1-1a-1b	NC:sdun:--:----	hold-1-1a-1b	
+12-11	"	"	ZI	_	
+12-12	Livvagterne	livvagt	NC:pdu#:--:----	_	
+12-13	"	"	ZI	_	
+12-14	holdt	holde	VF:----:ta:----	_	
+12-15	afslutningsfest	afslutningsfest	NC:siuc:--:----	_	
+12-16	i	i	T-:----:--:----	_	
+12-17	den	den	PM:s-uc:--:----	_	
+12-18	gamle	gammel	AC:sdu#:--:p---	_	
+12-19	DR	DR	NW:----:--:----	_	
+12-20	-	-	ZH	_	
+12-21	by	by	--	_	
+12-22	i	i	T-:----:--:----	_	
+12-23	Søborg	Søborg	NP:siu#:--:----	_	
+12-24	.	.	ZP	_	
+
+#id=13
+#text= Her er Sidney holdkaptajn for det såkaldte VIP-hold sammen med de dejlige damer Jackie Navarro ( t. v.) og Stine Kronborg
+13-1	Her	her	D-:----:--:u---	_	
+13-2	er	være	VF:----:sa:----	_	
+13-3	Sidney	Sidney	NP:siu#:--:----	_	
+13-4	holdkaptajn	holdkaptajn	NC:siuc:--:----	_	
+13-5	for	for	T-:----:--:----	_	
+13-6	det	den	PM:s-un:--:----	_	
+13-7	såkaldte	såkaldt	AC:sdu#:--:p---	_	
+13-8	VIP	VIP	NP:siu#:--:----	_	
+13-9	-	-	ZH	_	
+13-10	hold	hold|hold-6a|hold-2|hold-4|hold-6|hold-5|hold-3|hold-1-1a-1b|hold-7|hold-F-på-hold|hold-F-være/spille-med-på-holdet|hold-8	NC:piu#:--:----	hold-1-1a-1b	
+13-11	sammen	sammen	D-:----:--:u---	_	
+13-12	med	med	T-:----:--:----	_	
+13-13	de	den	PM:p-u#:--:----	_	
+13-14	dejlige	dejlig	AC:p#u#:--:p---	_	
+13-15	damer	dame	NC:piu#:--:----	_	
+13-16	Jackie	Jackie	NP:siu#:--:----	_	
+13-17	Navarro	Navarro	NP:siu#:--:----	_	
+13-18	(	(	ZD	_	
+13-19	t	tempore	XF:----:--:----	_	
+13-20	.	.	ZP	_	
+13-21	v	v	:--:c---	_	
+13-22	.	.	ZP	_	
+13-23	)	)	ZD	_	
+13-24	og	og	CC:----:--:----	_	
+13-25	Stine	Stine	NP:siu#:--:----	_	
+13-26	Kronborg	Kronborg	NP:siu#:--:----	_	
+
+#id=14
+#text= Så var der nogle fra holdet, som rendte over og hentede burgere til ham, fortæller en kilde, der arbejder bag kulissen.
+14-1	Så	så	D-:----:--:u---	_	
+14-2	var	være	VF:----:ta:----	_	
+14-3	der	der	US:----:--:----	_	
+14-4	nogle	nogen	PI:p-u#:--:----	_	
+14-5	fra	fra	T-:----:--:----	_	
+14-6	holdet	hold|hold-6a|hold-7|hold-6|hold-2|hold-3|hold-5|hold-4|hold-1-1a-1b|hold-8|hold-F-på-hold|hold-F-være/spille-med-på-holdet	NC:sdun:--:----	hold-1-1a-1b	
+14-7	,	,	ZD	_	
+14-8	som	som	US:----:--:----	_	
+14-9	rendte	rende	VF:----:ta:----	_	
+14-10	over	over	D-:----:--:u---	_	
+14-11	og	og	CC:----:--:----	_	
+14-12	hentede	hente	VP:p#u#:t-:----	_	
+14-13	burgere	burger	NC:piu#:--:----	_	
+14-14	til	til	T-:----:--:----	_	
+14-15	ham	han	PP:s-uc:--:-3n-	_	
+14-16	,	,	ZD	_	
+14-17	fortæller	fortælle	VF:----:sa:----	_	
+14-18	en	en	PI:s-uc:--:----	_	
+14-19	kilde	kilde	NC:siuc:--:----	_	
+14-20	,	,	ZD	_	
+14-21	der	der	US:----:--:----	_	
+14-22	arbejder	arbejde	VF:----:sa:----	_	
+14-23	bag	bag	T-:----:--:----	_	
+14-24	kulissen	kulisse	NC:sduc:--:----	_	
+14-25	.	.	ZP	_	
+
+#id=15
+#text=Karen var med i traktorbussen, der væltede under en sightseeing på Mandø i Vadehavet, hvor et hold pensionister fra Ældre Sagen i den midtjyske by Give var taget på udflugt.
+15-1	Karen	Karen	NP:siu#:--:----	_	
+15-2	var	være	VF:----:ta:----	_	
+15-3	med	med	D-:----:--:u---	_	
+15-4	i	i	T-:----:--:----	_	
+15-5	traktorbussen	traktorbus	NC:sduc:--:----	_	
+15-6	,	,	ZD	_	
+15-7	der	der	US:----:--:----	_	
+15-8	væltede	vælte	VF:----:ta:----	_	
+15-9	under	under	T-:----:--:----	_	
+15-10	en	en	PI:s-uc:--:----	_	
+15-11	sightseeing	sightseeing	NC:siuc:--:----	_	
+15-12	på	på	T-:----:--:----	_	
+15-13	Mandø	Mandø	NP:siu#:--:----	_	
+15-14	i	i	T-:----:--:----	_	
+15-15	Vadehavet	Vadehavet	NP:siu#:--:----	_	
+15-16	,	,	ZD	_	
+15-17	hvor	hvor	D-:----:--:u---	_	
+15-18	et	en	PI:s-un:--:----	_	
+15-19	hold	hold|hold-6a|hold-7|hold-8|hold-2|hold-4|hold-6|hold-5|hold-3|hold-1-1a-1b|hold-F-på-hold|hold-F-være/spille-med-på-holdet	NC:siun:--:----	hold-1-1a-1b	
+15-20	pensionister	pensionist	NC:piu#:--:----	_	
+15-21	fra	fra	T-:----:--:----	_	
+15-22	Ældre	Ældre	NP:siu#:--:----	_	
+15-23	Sagen	Sagen	NP:siu#:--:----	_	
+15-24	i	i	T-:----:--:----	_	
+15-25	den	den	PM:s-uc:--:----	_	
+15-26	midtjyske	midtjysk	AC:sdu#:--:p---	_	
+15-27	by	by	NC:siuc:--:----	_	
+15-28	Give	Give	NP:siu#:--:----	_	
+15-29	var	være	VF:----:ta:----	_	
+15-30	taget	tage	VT:siu#:t-:----	_	
+15-31	på	på	T-:----:--:----	_	
+15-32	udflugt	udflugt	NC:siuc:--:----	_	
+15-33	.	.	ZP	_	
+
+#id=16
+#text=Humøret blev ikke bedre af, at hans hold hele tiden tabte dysterne, og på et tidspunkt overvejede han faktisk at smide håndklædet i sandet og drage hjem til sin højgravide kone.
+16-1	Humøret	humør	NC:sdun:--:----	_	
+16-2	blev	blive	VF:----:ta:----	_	
+16-3	ikke	ikke	D-:----:--:u---	_	
+16-4	bedre	god	AD:----:--:c---	_	
+16-5	af	af	T-:----:--:----	_	
+16-6	,	,	ZD	_	
+16-7	at	at	CS:----:--:----	_	
+16-8	hans	hans	PO:#--#:--:-3ns	_	
+16-9	hold	hold|hold-5|hold-6a|hold-8|hold-F-på-hold|hold-7|hold-6|hold-1-1a-1b|hold-3|hold-4|hold-2|hold-F-være/spille-med-på-holdet	NC:piu#:--:----	hold-1-1a-1b	
+16-10	hele	hel	AC:sdu#:--:p---	_	
+16-11	tiden	tid	NC:sduc:--:----	_	
+16-12	tabte	tabe	VF:----:ta:----	_	
+16-13	dysterne	dyst	NC:pdu#:--:----	_	
+16-14	,	,	ZD	_	
+16-15	og	og	CC:----:--:----	_	
+16-16	på	på	T-:----:--:----	_	
+16-17	et	en	PI:s-un:--:----	_	
+16-18	tidspunkt	tidspunkt	NC:siun:--:----	_	
+16-19	overvejede	overveje	VF:----:ta:----	_	
+16-20	han	han	PP:s-nc:--:-3n-	_	
+16-21	faktisk	faktisk	AD:----:--:p---	_	
+16-22	at	at	UI:----:--:----	_	
+16-23	smide	smide	VI:----:-a:----	_	
+16-24	håndklædet	håndklæde	NC:sdun:--:----	_	
+16-25	i	i	T-:----:--:----	_	
+16-26	sandet	sand	NC:sdun:--:----	_	
+16-27	og	og	CC:----:--:----	_	
+16-28	drage	drage	VI:----:-a:----	_	
+16-29	hjem	hjem	D-:----:--:u---	_	
+16-30	til	til	T-:----:--:----	_	
+16-31	sin	sin	PO:s--c:--:-3ys	_	
+16-32	højgravide	højgravid	AC:sdu#:--:p---	_	
+16-33	kone	kone	NC:siuc:--:----	_	
+16-34	.	.	ZP	_	
+
+#id=17
+#text= Og holdet er i fuld gang med at skrive tekster til deres nye show, der skal rundt i landet næste forår og sommer.
+17-1	Og	og	CC:----:--:----	_	
+17-2	holdet	hold|hold-4|hold-5|hold-3|hold-1-1a-1b|hold-2|hold-6|hold-7|hold-8|hold-F-på-hold|hold-F-være/spille-med-på-holdet|hold-6a	NC:sdun:--:----	hold-1-1a-1b	
+17-3	er	være	VF:----:sa:----	_	
+17-4	i	i	T-:----:--:----	_	
+17-5	fuld	fuld	AC:siuc:--:p---	_	
+17-6	gang	gang	NC:siuc:--:----	_	
+17-7	med	med	T-:----:--:----	_	
+17-8	at	at	UI:----:--:----	_	
+17-9	skrive	skrive	VI:----:-a:----	_	
+17-10	tekster	tekst	NC:piu#:--:----	_	
+17-11	til	til	T-:----:--:----	_	
+17-12	deres	deres	PO:#--#:--:-3np	_	
+17-13	nye	ny	AC:sdu#:--:p---	_	
+17-14	show	show	NC:siun:--:----	_	
+17-15	,	,	ZD	_	
+17-16	der	der	US:----:--:----	_	
+17-17	skal	skulle	VF:----:sa:----	_	
+17-18	rundt	rundt	D-:----:--:u---	_	
+17-19	i	i	T-:----:--:----	_	
+17-20	landet	land	NC:sdun:--:----	_	
+17-21	næste	næste	AC:§§u§:--:p---	_	
+17-22	forår	forår	NC:siun:--:----	_	
+17-23	og	og	CC:----:--:----	_	
+17-24	sommer	sommer	NC:siuc:--:----	_	
+17-25	.	.	ZP	_	
+
+#id=18
+#text= For her kan de på tæt hold opleve rovdyrene angribe og slagte en levende ko.
+18-1	For	for	CC:----:--:----	_	
+18-2	her	her	D-:----:--:u---	_	
+18-3	kan	kunne	VF:----:sa:----	_	
+18-4	de	de	PP:p-n#:--:-3n-	_	
+18-5	på	på	T-:----:--:----	_	
+18-6	tæt	tæt	AC:siu§:--:p---	_	
+18-7	hold	hold|hold-5|hold-6|hold-6a|hold-8|hold-F-være/spille-med-på-holdet|hold-F-på-hold|hold-7|hold-4|hold-1-1a-1b|hold-2|hold-3	NC:siun:--:----	hold-2	
+18-8	opleve	opleve	VI:----:-a:----	_	
+18-9	rovdyrene	rovdyr	NC:pdu#:--:----	_	
+18-10	angribe	angribe	VI:----:-a:----	_	
+18-11	og	og	CC:----:--:----	_	
+18-12	slagte	slagte	VI:----:-a:----	_	
+18-13	en	en	PI:s-uc:--:----	_	
+18-14	levende	levende	AC:§§u§:--:p---	_	
+18-15	ko	ko	NC:siuc:--:----	_	
+18-16	.	.	ZP	_	
+
+#id=19
+#text=Sendte forleden et hold af sikkerhedsfolk ind i et stormagasin for at få alle kunder gennet ud, så hun kunne kigge på varerne i fred og ro.
+19-1	Sendte	sende	VF:----:ta:----	_	
+19-2	forleden	forleden	AD:----:--:p---	_	
+19-3	et	en	PI:s-un:--:----	_	
+19-4	hold	hold|hold-6a|hold-7|hold-F-på-hold|hold-F-være/spille-med-på-holdet|hold-8|hold-3|hold-4|hold-6|hold-5|hold-1-1a-1b|hold-2	NC:siun:--:----	hold-1-1a-1b	
+19-5	af	af	T-:----:--:----	_	
+19-6	sikkerhedsfolk	sikkerhedsfolk	NC:piu#:--:----	_	
+19-7	ind	ind	D-:----:--:u---	_	
+19-8	i	i	T-:----:--:----	_	
+19-9	et	en	PI:s-un:--:----	_	
+19-10	stormagasin	stormagasin	NC:siun:--:----	_	
+19-11	for	for	T-:----:--:----	_	
+19-12	at	at	UI:----:--:----	_	
+19-13	få	få	VI:----:-a:----	_	
+19-14	alle	al	PI:p-u#:--:----	_	
+19-15	kunder	kunde	NC:piu#:--:----	_	
+19-16	gennet	genne	VT:siu#:t-:----	_	
+19-17	ud	ud	D-:----:--:u---	_	
+19-18	,	,	ZD	_	
+19-19	så	så	CS:----:--:----	_	
+19-20	hun	hun	PP:s-nc:--:-3n-	_	
+19-21	kunne	kunne	VF:----:ta:----	_	
+19-22	kigge	kigge	VI:----:-a:----	_	
+19-23	på	på	T-:----:--:----	_	
+19-24	varerne	vare	NC:pdu#:--:----	_	
+19-25	i	i	T-:----:--:----	_	
+19-26	fred	fred	NC:siuc:--:----	_	
+19-27	og	og	CC:----:--:----	_	
+19-28	ro	ro	NC:siuc:--:----	_	
+19-29	.	.	ZP	_	
+
+#id=20
+#text=Inden ulykken havde de delt sig i to hold.
+20-1	Inden	inden	T-:----:--:----	_	
+20-2	ulykken	ulykke	NC:sduc:--:----	_	
+20-3	havde	have	VF:----:ta:----	_	
+20-4	de	de	PP:p-n#:--:-3n-	_	
+20-5	delt	dele	VT:siu#:t-:----	_	
+20-6	sig	sig	PP:#-u#:--:-3y-	_	
+20-7	i	i	T-:----:--:----	_	
+20-8	to	to	LC:--u-:--:----	_	
+20-9	hold	hold|hold-7|hold-8|hold-F-på-hold|hold-3|hold-4|hold-5|hold-6a|hold-6|hold-2|hold-1-1a-1b|hold-F-være/spille-med-på-holdet	NC:piu#:--:----	hold-1-1a-1b	
+20-10	.	.	ZP	_	
+
+#id=21
+#text=Men på årets hold i det sydkinesiske øhav er der masser af både tatoveringer, testosteron og rå muskelkræft, så det hele var tæt på at løbe af sporet, da alle ville blande sig.
+21-1	Men	men	CC:----:--:----	_	
+21-2	på	på	T-:----:--:----	_	
+21-3	årets	år	NC:sdgn:--:----	_	
+21-4	hold	hold|hold-6|hold-7|hold-8|hold-F-på-hold|hold-F-være/spille-med-på-holdet|hold-6a|hold-3|hold-4|hold-5|hold-1-1a-1b|hold-2	NC:siun:--:----	hold-1-1a-1b	
+21-5	i	i	T-:----:--:----	_	
+21-6	det	den	PM:s-un:--:----	_	
+21-7	sydkinesiske	sydkinesisk	AC:sdu#:--:p---	_	
+21-8	øhav	øhav	NC:siun:--:----	_	
+21-9	er	være	VF:----:sa:----	_	
+21-10	der	der	US:----:--:----	_	
+21-11	masser	masse	NC:piu#:--:----	_	
+21-12	af	af	T-:----:--:----	_	
+21-13	både	både	D-:----:--:u---	_	
+21-14	tatoveringer	tatovering	NC:piu#:--:----	_	
+21-15	,	,	ZD	_	
+21-16	testosteron	testosteron	NC:siun:--:----	_	
+21-17	og	og	CC:----:--:----	_	
+21-18	rå	rå	AC:siuc:--:p---	_	
+21-19	muskelkræft	muskelkræft	NC:siuc:--:----	_	
+21-20	,	,	ZD	_	
+21-21	så	så	CS:----:--:----	_	
+21-22	det	den	PM:s-un:--:----	_	
+21-23	hele	hel	AC:sdu#:--:p---	_	
+21-24	var	være	VF:----:ta:----	_	
+21-25	tæt	tæt	AD:----:--:p---	_	
+21-26	på	på	T-:----:--:----	_	
+21-27	at	at	UI:----:--:----	_	
+21-28	løbe	løbe	VI:----:-a:----	_	
+21-29	af	af	T-:----:--:----	_	
+21-30	sporet	spor	NC:sdun:--:----	_	
+21-31	,	,	ZD	_	
+21-32	da	da	CS:----:--:----	_	
+21-33	alle	al	PI:p-u#:--:----	_	
+21-34	ville	ville	VF:----:ta:----	_	
+21-35	blande	blande	VI:----:-a:----	_	
+21-36	sig	sig	PP:#-u#:--:-3y-	_	
+21-37	.	.	ZP	_	
+
+#id=22
+#text= Ikke nok med at hans hold tordner frem både herhjemme og i Champions League, hans privatliv kører også på skinner.
+22-1	Ikke	ikke	D-:----:--:u---	_	
+22-2	nok	nok	D-:----:--:u---	_	
+22-3	med	med	T-:----:--:----	_	
+22-4	at	at	CS:----:--:----	_	
+22-5	hans	hans	PO:#--#:--:-3ns	_	
+22-6	hold	hold|hold-2|hold-3|hold-5|hold-6|hold-6a|hold-7|hold-8|hold-F-på-hold|med-på-holdet|hold-4|hold-1-1a-1b	NC:piu#:--:----	hold-1-1a-1b	
+22-7	tordner	tordne	VF:----:sa:----	_	
+22-8	frem	frem	D-:----:--:u---	_	
+22-9	både	både	D-:----:--:u---	_	
+22-10	herhjemme	herhjemme	D-:----:--:u---	_	
+22-11	og	og	CC:----:--:----	_	
+22-12	i	i	T-:----:--:----	_	
+22-13	Champions	champion	NC:piu#:--:----	_	
+22-14	League	League	NP:siu#:--:----	_	
+22-15	,	,	ZD	_	
+22-16	hans	hans	PO:#--#:--:-3ns	_	
+22-17	privatliv	privatliv	NC:siun:--:----	_	
+22-18	kører	køre	VF:----:sa:----	_	
+22-19	også	også	D-:----:--:u---	_	
+22-20	på	på	T-:----:--:----	_	
+22-21	skinner	skinne	NC:piu#:--:----	_	
+22-22	.	.	ZP	_	
+
+#id=23
+#text=er selve symbolet på en machomand, men hold fast:
+23-1	er	være	VF:----:sa:----	_	
+23-2	selve	selve	AC:§§u§:--:p---	_	
+23-3	symbolet	symbol	NC:sdun:--:----	_	
+23-4	på	på	T-:----:--:----	_	
+23-5	en	en	PI:s-uc:--:----	_	
+23-6	machomand	machomand	NC:siuc:--:----	_	
+23-7	,	,	ZD	_	
+23-8	men	men	CC:----:--:----	_	
+23-9	hold	hold|hold-6a|hold-7|hold-F-på-hold|hold-F-være/spille-med-på-holdet|hold-8|hold-3|hold-4|hold-5|hold-6|hold-1-1a-1b|hold-2	NC:piu#:--:----	_	
+23-10	fast	fast	AD:----:--:p---	_	
+23-11	:	:	ZP	_	
+
+#id=24
+#text=Han har på det seneste brugt mindre og mindre af sin fritid som tennistræner for et hold 14- årige drenge og i stedet kastet sig mere over musikken.
+24-1	Han	han	PP:s-nc:--:-3n-	_	
+24-2	har	have	VF:----:sa:----	_	
+24-3	på	på	T-:----:--:----	_	
+24-4	det	den	PM:s-un:--:----	_	
+24-5	seneste	sen	AC:§du§:--:s---	_	
+24-6	brugt	brugt	AC:siu§:--:p---	_	
+24-7	mindre	liden	AD:----:--:c---	_	
+24-8	og	og	CC:----:--:----	_	
+24-9	mindre	liden	AD:----:--:c---	_	
+24-10	af	af	T-:----:--:----	_	
+24-11	sin	sin	PO:s--c:--:-3ys	_	
+24-12	fritid	fritid	NC:siuc:--:----	_	
+24-13	som	som	US:----:--:----	_	
+24-14	tennistræner	tennistræner	NC:siuc:--:----	_	
+24-15	for	for	T-:----:--:----	_	
+24-16	et	en	PI:s-un:--:----	_	
+24-17	hold	hold|hold-3|hold-4|hold-5|hold-6a|hold-7|hold-8|hold-F-på-hold|hold-F-være/spille-med-på-holdet|hold-6|hold-2|hold-1-1a-1b	:--:----	hold-1-1a-1b	
+24-18	14	14	LC:--u-:--:----	_	
+24-19	-	-	ZH	_	
+24-20	årige	årig	AC:p#u#:--:p---	_	
+24-21	drenge	dreng	NC:piu#:--:----	_	
+24-22	og	og	CC:----:--:----	_	
+24-23	i	i	T-:----:--:----	_	
+24-24	stedet	sted	NC:sdun:--:----	_	
+24-25	kastet	kaste	VT:siu#:t-:----	_	
+24-26	sig	sig	PP:#-u#:--:-3y-	_	
+24-27	mere	megen	AD:----:--:c---	_	
+24-28	over	over	T-:----:--:----	_	
+24-29	musikken	musik	NC:sduc:--:----	_	
+24-30	.	.	ZP	_	
+
+#id=25
+#text=På natklubben Karel van Mander holdt hele  holdet omkring den nye sæson af " Vild med dans" optaktsfest.
+25-1	På	på	T-:----:--:----	_	
+25-2	natklubben	natklub	NC:sduc:--:----	_	
+25-3	Karel	Karel	NP:siu#:--:----	_	
+25-4	van	van	NP:siu#:--:----	_	
+25-5	Mander	mande	VF:----:sa:----	_	
+25-6	holdt	holde	VT:siu#:t-:----	_	
+25-7	hele	hel	AC:sdu#:--:p---	_	
+25-8	holdet	hold|hold-F-være/spille-med-på-holdet|hold-2|hold-4|hold-5|hold-6|hold-6a|hold-7|hold-8|hold-F-på-hold|hold-3|hold-1-1a-1b	NC:sdun:--:----	hold-1-1a-1b	
+25-9	omkring	omkring	T-:----:--:----	_	
+25-10	den	den	PM:s-uc:--:----	_	
+25-11	nye	ny	u#:--:p---	_	
+25-12	sæson	sæson	NC:siuc:--:----	_	
+25-13	af	af	T-:----:--:----	_	
+25-14	"	"	ZI	_	
+25-15	Vild	vild	AC:siuc:--:p---	_	
+25-16	med	med	T-:----:--:----	_	
+25-17	dans	dans	NC:siuc:--:----	_	
+25-18	"	"	ZI	_	
+25-19	optaktsfest	optaktsfest	NC:siuc:--:----	_	
+25-20	.	.	ZP	_	
+
+#id=26
+#text=Oscar Siesbye måtte undvære sin gode ven prins Joachim til smørrebrødsorgie i Tivoli og nøjes med et spritnyt hold venner, hvoraf nogle af de mindre fine måtte betale entré
+26-1	Oscar	Oscar	NP:siu#:--:----	_	
+26-2	Siesbye	Siesbye	NP:siu#:--:----	_	
+26-3	måtte	måtte	VF:----:ta:----	_	
+26-4	undvære	undvære	VI:----:-a:----	_	
+26-5	sin	sin	PO:s--c:--:-3ys	_	
+26-6	gode	god	AC:sdu#:--:p---	_	
+26-7	ven	ven	NC:siuc:--:----	_	
+26-8	prins	prins	NC:siuc:--:----	_	
+26-9	Joachim	Joachim	NP:siu#:--:----	_	
+26-10	til	til	T-:----:--:----	_	
+26-11	smørrebrødsorgie	smørrebrødsorgie	NC:siun:--:----	_	
+26-12	i	i	T-:----:--:----	_	
+26-13	Tivoli	Tivoli	NP:siu#:--:----	_	
+26-14	og	og	CC:----:--:----	_	
+26-15	nøjes	nøje	VI:----:-p:----	_	
+26-16	med	med	T-:----:--:----	_	
+26-17	et	en	PI:s-un:--:----	_	
+26-18	spritnyt	spritny	AC:siun:--:p---	_	
+26-19	hold	hold|hold-F-være/spille-med-på-holdet|hold-3|hold-4|hold-5|hold-6|hold-6a|hold-7|hold-8|hold-F-på-hold|hold-1-1a-1b|hold-2	NC:siun:--:----	hold-1-1a-1b	
+26-20	venner	ven	NC:piu#:--:----	_	
+26-21	,	,	ZD	_	
+26-22	hvoraf	hvoraf	D-:----:--:u---	_	
+26-23	nogle	nogen	PI:p-u#:--:----	_	
+26-24	af	af	T-:----:--:----	_	
+26-25	de	den	PM:p-u#:--:----	_	
+26-26	mindre	liden	AD:----:--:c---	_	
+26-27	fine	fin	AC:p#u#:--:p---	_	
+26-28	måtte	måtte	VF:----:ta:----	_	
+26-29	betale	betale	VI:----:-a:----	_	
+26-30	entré	entré	NC:siuc:--:----	_	
+
+#id=27
+#text=- sjov revymand, er glad i disse dage. " Hans" revy, Rottefælden i Svendborg, er blevet sådan en dundersucces, at holdet har måttet sætte en ekstraforestilling op.
+27-1	-	-	NC:piu#:--:----	_	
+27-2	sjov	sjov	AC:siuc:--:p---	_	
+27-3	revymand	revymand	NC:siuc:--:----	_	
+27-4	,	,	ZD	_	
+27-5	er	være	VF:----:sa:----	_	
+27-6	glad	glad	AC:siu§:--:p---	_	
+27-7	i	i	T-:----:--:----	_	
+27-8	disse	denne	PM:p-u#:--:----	_	
+27-9	dage	dag	NC:piu#:--:----	_	
+27-10	.	.	ZP	_	
+27-11	"	"	ZI	_	
+27-12	Hans	Hans	NP:siu#:--:----	_	
+27-13	"	"	ZI	_	
+27-14	revy	revy	NC:siuc:--:----	_	
+27-15	,	,	ZD	_	
+27-16	Rottefælden	Rottefælden	NP:siu#:--:----	_	
+27-17	i	i	T-:----:--:----	_	
+27-18	Svendborg	Svendborg	NP:siu#:--:----	_	
+27-19	,	,	ZD	_	
+27-20	er	være	VF:----:sa:----	_	
+27-21	blevet	blive	VT:siu#:t-:----	_	
+27-22	sådan	sådan	D-:----:--:u---	_	
+27-23	en	en	PI:s-uc:--:----	_	
+27-24	dundersucces	dundersucces	NC:siuc:--:----	_	
+27-25	,	,	ZD	_	
+27-26	at	at	CS:----:--:----	_	
+27-27	holdet	hold|hold-1-1a-1b|hold-2|hold-3|hold-4|hold-6|hold-6a|hold-7|hold-8|hold-F-på-hold|hold-F-være/spille-med-på-holdet|5	NC:sdun:--:----	hold-1-1a-1b	
+27-28	har	have	VF:----:sa:----	_	
+27-29	måttet	måtte	VT:siu#:t-:----	_	
+27-30	sætte	sætte	VI:----:-a:----	_	
+27-31	en	en	PI:s-uc:--:----	_	
+27-32	ekstraforestilling	ekstraforestilling	NC:siuc:--:----	_	
+27-33	op	op	D-:----:--:u---	_	
+27-34	.	.	ZP	_	
+
+#id=28
+#text=Gin og champagne var holdets klare favoritter, inden de landede i natklubben Karel van Mander i Lille Kongensgade for at drikke videre.
+28-1	Gin	gin	NC:siuc:--:----	_	
+28-2	og	og	CC:----:--:----	_	
+28-3	champagne	champagne	NC:siuc:--:----	_	
+28-4	var	være	VF:----:ta:----	_	
+28-5	holdets	hold|hold-6|hold-6a|hold-7|hold-8|hold-F-på-hold|hold-F-være/spille-med-på-holdet|hold-2|hold-3|hold-4|hold-5|hold-1-1a-1b	NC:sdgn:--:----	hold-1-1a-1b	
+28-6	klare	klar	AC:p#u#:--:p---	_	
+28-7	favoritter	favorit	NC:piu#:--:----	_	
+28-8	,	,	ZD	_	
+28-9	inden	inden	CS:----:--:----	_	
+28-10	de	de	PP:p-n#:--:-3n-	_	
+28-11	landede	lande	VF:----:ta:----	_	
+28-12	i	i	T-:----:--:----	_	
+28-13	natklubben	natklub	NC:sduc:--:----	_	
+28-14	Karel	Karel	NP:siu#:--:----	_	
+28-15	van	van	NP:siu#:--:----	_	
+28-16	Mander	mande	VF:----:sa:----	_	
+28-17	i	i	T-:----:--:----	_	
+28-18	Lille	Lille	NP:siu#:--:----	_	
+28-19	Kongensgade	Kongensgade	NP:siu#:--:----	_	
+28-20	for	for	T-:----:--:----	_	
+28-21	at	at	UI:----:--:----	_	
+28-22	drikke	drikke	VI:----:-a:----	_	
+28-23	videre	videre	D-:----:--:u---	_	
+28-24	.	.	ZP	_	
+

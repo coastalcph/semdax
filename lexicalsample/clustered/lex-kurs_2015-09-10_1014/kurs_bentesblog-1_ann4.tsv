@@ -1,0 +1,78 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue
+#id=1
+#text=Så da vi forleden havde lagt de nordjyske snemasser bag os, satte vi kursen mod Aarhus, manden i mit liv, hans datter og jeg.
+1-1	Så	så	D-:----:--:u---	
+1-2	da	da	CS:----:--:----	
+1-3	vi	vi	PP:p-nc:--:-1n-	
+1-4	forleden	forleden	AD:----:--:p---	
+1-5	havde	have	VF:----:ta:----	
+1-6	lagt	lægge	VT:siu#:t-:----	
+1-7	de	den	PM:p-u#:--:----	
+1-8	nordjyske	nordjysk	AC:p#u#:--:p---	
+1-9	snemasser	snemasse	NC:piu#:--:----	
+1-10	bag	bag	T-:----:--:----	
+1-11	os	vi	PP:p-uc:--:-1#-	
+1-12	,	,	ZD	
+1-13	satte	sætte	VF:----:ta:----	
+1-14	vi	vi	PP:p-nc:--:-1n-	
+1-15	kursen	kurs|kurs-1a|kurs-1|kurs-2|kurs-F-ud/ude-af-kurs|kurs-F-sætte-kursen|kurs-F-ikke-i-kurs|kurs-F-i-høj-kurs	NC:sduc:--:----	
+1-16	mod	mod	T-:----:--:----	
+1-17	Aarhus	Aarhus	NP:siu#:--:----	
+1-18	,	,	ZD	
+1-19	manden	mand	NC:sduc:--:----	
+1-20	i	i	T-:----:--:----	
+1-21	mit	min	PO:s--n:--:-1ns	
+1-22	liv	liv	NC:siun:--:----	
+1-23	,	,	ZD	
+1-24	hans	hans	PO:#--#:--:-3ns	
+1-25	datter	datter	NC:siuc:--:----	
+1-26	og	og	CC:----:--:----	
+1-27	jeg	jeg	PP:s-nc:--:-1n-	
+1-28	.	.	ZP	
+
+#id=2
+#text=I stedet kastede vi os ind i kareten, manden i mit liv og jeg, og satte kursen mod Humlebæk.
+2-1	I	i	T-:----:--:----	
+2-2	stedet	sted	NC:sdun:--:----	
+2-3	kastede	kaste	VF:----:ta:----	
+2-4	vi	vi	PP:p-nc:--:-1n-	
+2-5	os	vi	PP:p-uc:--:-1#-	
+2-6	ind	ind	D-:----:--:u---	
+2-7	i	i	T-:----:--:----	
+2-8	kareten	karet	NC:sduc:--:----	
+2-9	,	,	ZD	
+2-10	manden	mand	NC:sduc:--:----	
+2-11	i	i	T-:----:--:----	
+2-12	mit	min	-n:--:-1ns	
+2-13	liv	liv	NC:siun:--:----	
+2-14	og	og	CC:----:--:----	
+2-15	jeg	jeg	PP:s-nc:--:-1n-	
+2-16	,	,	ZD	
+2-17	og	og	CC:----:--:----	
+2-18	satte	sætte	VF:----:ta:----	
+2-19	kursen	kurs|kurs-F-i-høj-kurs|kurs-F-sætte-kursen|kurs-F-ud/ude-af-kurs|kurs-F-ikke-i-kurs|kurs-1a|kurs-2|kurs-1	NC:sduc:--:----	
+2-20	mod	mod	T-:----:--:----	
+2-21	Humlebæk	Humlebæk	NP:siu#:--:----	
+2-22	.	.	ZP	
+
+#id=3
+#text=Efter en lidt slingrende kurs gennem uddannelsessystemet efter folkeskolen blev jeg i 1987 immatrikuleret på Københavns Universitet.
+3-1	Efter	efter	T-:----:--:----	
+3-2	en	en	PI:s-uc:--:----	
+3-3	lidt	lidt	AD:----:--:p---	
+3-4	slingrende	slingre	VP:##u#:s-:----	
+3-5	kurs	kurs|kurs-F-i-høj-kurs|kurs-F-ikke-i-kurs|kurs-F-ud/ude-af-kurs|kurs-F-sætte-kursen|kurs-1|kurs-1a|kurs-2	NC:siuc:--:----	
+3-6	gennem	gennem	T-:----:--:----	
+3-7	uddannelsessystemet	uddannelsessystem	NC:sdun:--:----	
+3-8	efter	efter	T-:----:--:----	
+3-9	folkeskolen	folkeskole	NC:sduc:--:----	
+3-10	blev	blive	VF:----:ta:----	
+3-11	jeg	jeg	PP:s-nc:--:-1n-	
+3-12	i	i	T-:----:--:----	
+3-13	1987	1987	LC:--u-:--:----	
+3-14	immatrikuleret	immatrikulere	VT:siu#:t-:----	
+3-15	på	på	T-:----:--:----	
+3-16	Københavns	København	NP:sig#:--:----	
+3-17	Universitet	universitet	NC:siun:--:----	
+3-18	.	.	ZP	
+

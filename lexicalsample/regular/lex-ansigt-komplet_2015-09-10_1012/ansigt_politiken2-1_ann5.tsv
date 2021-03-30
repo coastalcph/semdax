@@ -1,0 +1,1150 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Lexicalsample | tag
+#id=1
+#text=Deres smil og glade ansigter rammer lige i hjertet.
+1-1	Deres	deres	PO:#--#:--:-3np	_	
+1-2	smil	smil	NC:piu#:--:----	_	
+1-3	og	og	CC:----:--:----	_	
+1-4	glade	glad	AC:p#u#:--:p---	_	
+1-5	ansigter	ansigt	NC:piu#:--:----	ansigt_1	
+1-6	rammer	ramme	VF:----:sa:----	_	
+1-7	lige	lige	D-:----:--:u---	_	
+1-8	i	i	T-:----:--:----	_	
+1-9	hjertet	hjerte	NC:sdun:--:----	_	
+1-10	.	.	ZP	_	
+
+#id=2
+#text=Det Konservative Folkeparti vil forbyde kvinder at gå med burka eller nikab - det er de muslimske hovedbeklædninger, som dækker hele ansigtet på nær øjnene.
+2-1	Det	den	PM:s-un:--:----	_	
+2-2	Konservative	konservativ	AC:sdu#:--:p---	_	
+2-3	Folkeparti	folkeparti	NC:siun:--:----	_	
+2-4	vil	ville	VF:----:sa:----	_	
+2-5	forbyde	forbyde	VI:----:-a:----	_	
+2-6	kvinder	kvinde	NC:piu#:--:----	_	
+2-7	at	at	UI:----:--:----	_	
+2-8	gå	gå	VI:----:-a:----	_	
+2-9	med	med	T-:----:--:----	_	
+2-10	burka	burka	NC:siuc:--:----	_	
+2-11	eller	eller	CC:----:--:----	_	
+2-12	nikab	nikAB	NP:siu#:--:----	_	
+2-13	-	-	ZH	_	
+2-14	det	det	PP:s-un:--:-3n-	_	
+2-15	er	være	VF:----:sa:----	_	
+2-16	de	den	PM:p-u#:--:----	_	
+2-17	muslimske	muslimsk	AC:p#u#:--:p---	_	
+2-18	hovedbeklædninger	hovedbeklædning	NC:piu#:--:----	_	
+2-19	,	,	ZD	_	
+2-20	som	som	US:----:--:----	_	
+2-21	dækker	dække	VF:----:sa:----	_	
+2-22	hele	hel	AC:sdu#:--:p---	_	
+2-23	ansigtet	ansigt	NC:sdun:--:----	ansigt_1	
+2-24	på	på	T-:----:--:----	_	
+2-25	nær	nær	T-:----:--:----	_	
+2-26	øjnene	øje	NC:pdu#:--:----	_	
+2-27	.	.	ZP	_	
+
+#id=3
+#text= For eksempel må man ikke have den på under pilgrimsfærden, der må ansigtet ikke være dækket", siger Zubair Butt Hussain.
+3-1	For	for	T-:----:--:----	_	
+3-2	eksempel	eksempel	NC:siun:--:----	_	
+3-3	må	måtte	VF:----:sa:----	_	
+3-4	man	man	PI:#-uc:--:----	_	
+3-5	ikke	ikke	D-:----:--:u---	_	
+3-6	have	have	VI:----:-a:----	_	
+3-7	den	den	PP:s-uc:--:-3n-	_	
+3-8	på	på	D-:----:--:u---	_	
+3-9	under	under	T-:----:--:----	_	
+3-10	pilgrimsfærden	pilgrimsfærd	NC:sduc:--:----	_	
+3-11	,	,	ZD	_	
+3-12	der	der	US:----:--:----	_	
+3-13	må	måtte	VF:----:sa:----	_	
+3-14	ansigtet	ansigt	NC:sdun:--:----	ansigt_1	
+3-15	ikke	ikke	D-:----:--:u---	_	
+3-16	være	være	VI:----:-a:----	_	
+3-17	dækket	dæk	NC:sdun:--:----	_	
+3-18	"	"	ZI	_	
+3-19	,	,	ZD	_	
+3-20	siger	sige	VF:----:sa:----	_	
+3-21	Zubair	Zubair	NP:siu#:--:----	_	
+3-22	Butt	Butt	NP:siu#:--:----	_	
+3-23	Hussain	Hussain	NP:siu#:--:----	_	
+3-24	.	.	ZP	_	
+
+#id=4
+#text= Eksempelvis kunne det medføre dødsstraf at bevæge sig rundt om natten med sortsværtet ansigt.
+4-1	Eksempelvis	eksempelvis	D-:----:--:u---	_	
+4-2	kunne	kunne	VF:----:ta:----	_	
+4-3	det	det	PP:s-un:--:-3n-	_	
+4-4	medføre	medføre	VI:----:-a:----	_	
+4-5	dødsstraf	dødsstraf	NC:siuc:--:----	_	
+4-6	at	at	UI:----:--:----	_	
+4-7	bevæge	bevæge	VI:----:-a:----	_	
+4-8	sig	sig	PP:#-u#:--:-3y-	_	
+4-9	rundt	rundt	D-:----:--:u---	_	
+4-10	om	om	T-:----:--:----	_	
+4-11	natten	nat	NC:sduc:--:----	_	
+4-12	med	med	D-:----:--:u---	_	
+4-13	sortsværtet	sortsværte	VT:siu#:t-:----	_	
+4-14	ansigt	ansigt	NC:siun:--:----	ansigt_1	
+4-15	.	.	ZP	_	
+
+#id=5
+#text= Ulvemor!", råbte nogle unge fyre med forventningsfulde smil smurt ud over hele ansigtet som optakt til koncerten med australske Wolfmother.
+5-1	Ulvemor	Ulvemor	NP:siu#:--:----	_	
+5-2	!	!	ZP	_	
+5-3	"	"	ZI	_	
+5-4	,	,	ZD	_	
+5-5	råbte	råbe	VF:----:ta:----	_	
+5-6	nogle	nogen	PI:p-u#:--:----	_	
+5-7	unge	ung	AC:p#u#:--:p---	_	
+5-8	fyre	fyr	NC:piu#:--:----	_	
+5-9	med	med	T-:----:--:----	_	
+5-10	forventningsfulde	forventningsfuld	AC:p#u#:--:p---	_	
+5-11	smil	smil	NC:piu#:--:----	_	
+5-12	smurt	smøre	VT:siu#:t-:----	_	
+5-13	ud	ud	D-:----:--:u---	_	
+5-14	over	over	T-:----:--:----	_	
+5-15	hele	hel	AC:sdu#:--:p---	_	
+5-16	ansigtet	ansigt	NC:sdun:--:----	ansigt_1	
+5-17	som	som	US:----:--:----	_	
+5-18	optakt	optakt	NC:siuc:--:----	_	
+5-19	til	til	T-:----:--:----	_	
+5-20	koncerten	koncert	NC:sduc:--:----	_	
+5-21	med	med	T-:----:--:----	_	
+5-22	australske	australsk	AC:sdu#:--:p---	_	
+5-23	Wolfmother	Wolfmother	NP:siu#:--:----	_	
+5-24	.	.	ZP	_	
+
+#id=6
+#text="En mandlig stemme sagde, at de ville kidnappe mig og hælde syre på mit ansigt.
+6-1	"	"	ZI	_	
+6-2	En	en	PI:s-uc:--:----	_	
+6-3	mandlig	mandlig	AC:siuc:--:p---	_	
+6-4	stemme	stemme	NC:siuc:--:----	_	
+6-5	sagde	sige	VF:----:ta:----	_	
+6-6	,	,	ZD	_	
+6-7	at	at	CS:----:--:----	_	
+6-8	de	de	PP:p-n#:--:-3n-	_	
+6-9	ville	ville	VF:----:ta:----	_	
+6-10	kidnappe	kidnappe	VI:----:-a:----	_	
+6-11	mig	jeg	PP:s-uc:--:-1#-	_	
+6-12	og	og	CC:----:--:----	_	
+6-13	hælde	hælde	VI:----:-a:----	_	
+6-14	syre	syre	NC:siuc:--:----	_	
+6-15	på	på	T-:----:--:----	_	
+6-16	mit	min	PO:s--n:--:-1ns	_	
+6-17	ansigt	ansigt	NC:siun:--:----	ansigt_1	
+6-18	.	.	ZP	_	
+
+#id=7
+#text=Da hun tog den, sagde en mandsstemme, at han ville hælde syre ud over hendes ansigt, hvis hun ikke opgav sin karriere og blev hjemme.
+7-1	Da	da	CS:----:--:----	_	
+7-2	hun	hun	PP:s-nc:--:-3n-	_	
+7-3	tog	tage	VF:----:ta:----	_	
+7-4	den	den	PP:s-uc:--:-3n-	_	
+7-5	,	,	ZD	_	
+7-6	sagde	sige	VF:----:ta:----	_	
+7-7	en	en	PI:s-uc:--:----	_	
+7-8	mandsstemme	mandsstemme	NC:siuc:--:----	_	
+7-9	,	,	ZD	_	
+7-10	at	at	CS:----:--:----	_	
+7-11	han	han	PP:s-nc:--:-3n-	_	
+7-12	ville	ville	VF:----:ta:----	_	
+7-13	hælde	hælde	VI:----:-a:----	_	
+7-14	syre	syre	VI:----:-a:----	_	
+7-15	ud	ud	D-:----:--:u---	_	
+7-16	over	over	T-:----:--:----	_	
+7-17	hendes	hendes	PO:#--#:--:-3ns	_	
+7-18	ansigt	ansigt	NC:siun:--:----	ansigt_1	
+7-19	,	,	ZD	_	
+7-20	hvis	hvis	CS:----:--:----	_	
+7-21	hun	hun	PP:s-nc:--:-3n-	_	
+7-22	ikke	ikke	D-:----:--:u---	_	
+7-23	opgav	opgive	VF:----:ta:----	_	
+7-24	sin	sin	PO:s--c:--:-3ys	_	
+7-25	karriere	karriere	NC:siuc:--:----	_	
+7-26	og	og	CC:----:--:----	_	
+7-27	blev	blive	VF:----:ta:----	_	
+7-28	hjemme	hjemme	D-:----:--:u---	_	
+7-29	.	.	ZP	_	
+
+#id=8
+#text= Hendes træner  lignede en lille tordensky, forbilledet Sergej Bubka skar ansigt i VIP-logen, og nervepresset steg.
+8-1	Hendes	hendes	PO:#--#:--:-3ns	_	
+8-2	træner	træner	NC:siuc:--:----	_	
+8-3	lignede	ligne	VF:----:ta:----	_	
+8-4	en	en	PI:s-uc:--:----	_	
+8-5	lille	lille	AC:s§u§:--:p---	_	
+8-6	tordensky	tordensky	NC:siuc:--:----	_	
+8-7	,	,	ZD	_	
+8-8	forbilledet	forbillede	NC:sdun:--:----	_	
+8-9	Sergej	Sergej	NP:siu#:--:----	_	
+8-10	Bubka	Bubka	NP:siu#:--:----	_	
+8-11	skar	skære	VF:----:ta:----	_	
+8-12	ansigt	ansigt	NC:siun:--:----	ansigt_F_skære ansigt/ansigter/lave ansigt/ansigter	
+8-13	i	i	T-:----:--:----	_	
+8-14	VIP	VIP	NP:siu#:--:----	_	
+8-15	-	-	ZH	_	
+8-16	logen	loge	NC:sduc:--:----	_	
+8-17	,	,	ZD	_	
+8-18	og	og	CC:----:--:----	_	
+8-19	nervepresset	nervepres	NC:sdun:--:----	_	
+8-20	steg	stige	VF:----:ta:----	_	
+8-21	.	.	ZP	_	
+
+#id=9
+#text= Fra at være forbundet med den der 1970' er-retorik er støttekoncerterne blevet cool igen - som musiker taber man ikke ansigt ved at deltage, men får tværtimod noget troværdighed", siger Henrik Marstal, der bestemt mener, at støttekoncerter kan nytte.
+9-1	Fra	fra	T-:----:--:----	_	
+9-2	at	at	UI:----:--:----	_	
+9-3	være	være	VI:----:-a:----	_	
+9-4	forbundet	forbinde	VT:siu#:t-:----	_	
+9-5	med	med	T-:----:--:----	_	
+9-6	den	den	PP:s-uc:--:-3n-	_	
+9-7	der	der	US:----:--:----	_	
+9-8	1970	1970	LC:--u-:--:----	_	
+9-9	'	'	ZA	_	
+9-10	er	være	VF:----:sa:----	_	
+9-11	-	-	NC:piu#:--:----	_	
+9-12	retorik	retorik	NC:siuc:--:----	_	
+9-13	er	være	VF:----:sa:----	_	
+9-14	støttekoncerterne	støttekoncert	NC:pdu#:--:----	_	
+9-15	blevet	blive	VT:siu#:t-:----	_	
+9-16	cool	cool	AD:----:--:p---	_	
+9-17	igen	igen	D-:----:--:u---	_	
+9-18	-	-	NC:piu#:--:----	_	
+9-19	som	som	US:----:--:----	_	
+9-20	musiker	musiker	NC:siuc:--:----	_	
+9-21	taber	tabe	VF:----:sa:----	_	
+9-22	man	man	PI:#-uc:--:----	_	
+9-23	ikke	ikke	D-:----:--:u---	_	
+9-24	ansigt	ansigt	NC:siun:--:----	ansigt_F_tabe/miste ansigt	
+9-25	ved	ved	T-:----:--:----	_	
+9-26	at	at	UI:----:--:----	_	
+9-27	deltage	deltage	VI:----:-a:----	_	
+9-28	,	,	ZD	_	
+9-29	men	men	CC:----:--:----	_	
+9-30	får	få	VF:----:sa:----	_	
+9-31	tværtimod	tværtimod	D-:----:--:u---	_	
+9-32	noget	nogen	PI:s-un:--:----	_	
+9-33	troværdighed	troværdighed	NC:siuc:--:----	_	
+9-34	"	"	ZI	_	
+9-35	,	,	ZD	_	
+9-36	siger	sige	VF:----:sa:----	_	
+9-37	Henrik	rik	NP:siu#:--:----	_	
+9-38	Marstal	Marstal	NW:----:--:----	_	
+9-39	,	,	ZD	_	
+9-40	der	der	US:----:--:----	_	
+9-41	bestemt	bestemt	AC:siu§:--:p---	_	
+9-42	mener	mener	NC:siuc:--:----	_	
+9-43	,	,	ZD	_	
+9-44	at	at	CS:----:--:----	_	
+9-45	støttekoncerter	støttekoncert	NC:piu#:--:----	_	
+9-46	kan	kunne	VF:----:sa:----	_	
+9-47	nytte	nytte	NC:siuc:--:----	_	
+9-48	.	.	ZP	_	
+
+#id=10
+#text= Kun en mængde smilerynker i ansigtet afslører hans alder. 40 år.
+10-1	Kun	kun	D-:----:--:u---	_	
+10-2	en	en	:s-uc:--:----	_	
+10-3	mængde	mængde	NC:siuc:--:----	_	
+10-4	smilerynker	smilerynke	NC:piu#:--:----	_	
+10-5	i	i	T-:----:--:----	_	
+10-6	ansigtet	ansigt	NC:sdun:--:----	ansigt_1	
+10-7	afslører	afsløre	VF:----:sa:----	_	
+10-8	hans	hans	PO:#--#:--:-3ns	_	
+10-9	alder	alder	NC:siuc:--:----	_	
+10-10	.	.	ZP	_	
+10-11	40	40	LC:--u-:--:----	_	
+10-12	år	år	NC:piu#:--:----	_	
+10-13	.	.	ZP	_	
+
+#id=11
+#text=Prøv bare at lægge mærke til folks ansigter om morgenen: solbrændte efter en dejlig sommer, men samtidig med en særlig glød af virkelyst i øjnene er de undervejs.
+11-1	Prøv	prøve	VM:----:--:----	_	
+11-2	bare	bare	D-:----:--:u---	_	
+11-3	at	at	UI:----:--:----	_	
+11-4	lægge	lægge	VI:----:-a:----	_	
+11-5	mærke	mærke	VI:----:-a:----	_	
+11-6	til	til	T-:----:--:----	_	
+11-7	folks	folk	NC:pig#:--:----	_	
+11-8	ansigter	ansigt	NC:piu#:--:----	ansigt_1a	
+11-9	om	om	T-:----:--:----	_	
+11-10	morgenen	morgen	NC:sduc:--:----	_	
+11-11	:	:	ZP	_	
+11-12	solbrændte	solbrændt	AC:p#u#:--:p---	_	
+11-13	efter	efter	--	_	
+11-14	en	en	PI:s-uc:--:----	_	
+11-15	dejlig	dejlig	AC:siuc:--:p---	_	
+11-16	sommer	sommer	NC:siuc:--:----	_	
+11-17	,	,	ZD	_	
+11-18	men	men	CC:----:--:----	_	
+11-19	samtidig	samtidig	D-:----:--:u---	_	
+11-20	med	med	T-:----:--:----	_	
+11-21	en	en	PI:s-uc:--:----	_	
+11-22	særlig	særlig	AC:siuc:--:p---	_	
+11-23	glød	glød	NC:siuc:--:----	_	
+11-24	af	af	T-:----:--:----	_	
+11-25	virkelyst	virkelyst	NC:siuc:--:----	_	
+11-26	i	i	T-:----:--:----	_	
+11-27	øjnene	øje	NC:pdu#:--:----	_	
+11-28	er	være	VF:----:sa:----	_	
+11-29	de	de	PP:p-n#:--:-3n-	_	
+11-30	undervejs	undervejs	D-:----:--:u---	_	
+11-31	.	.	ZP	_	
+
+#id=12
+#text= Det er det jeg vil have, når jeg er træt af mig selv, af mit ansigt i spejlet, af de ord jeg laver på skærmen, træt af den metalliske smag jeg får i munden af at iscenesætte mig selv til daglig, hvor forholdet mellem mig og mig er næsten 1:
+12-1	Det	det	PP:s-un:--:-3n-	_	
+12-2	er	være	VF:----:sa:----	_	
+12-3	det	det	PP:s-un:--:-3n-	_	
+12-4	jeg	jeg	PP:s-nc:--:-1n-	_	
+12-5	vil	ville	VF:----:sa:----	_	
+12-6	have	have	----	_	
+12-7	,	,	ZD	_	
+12-8	når	når	CS:----:--:----	_	
+12-9	jeg	jeg	PP:s-nc:--:-1n-	_	
+12-10	er	være	VF:----:sa:----	_	
+12-11	træt	træt	AC:siu§:--:p---	_	
+12-12	af	af	T-:----:--:----	_	
+12-13	mig	jeg	PP:s-uc:--:-1#-	_	
+12-14	selv	selv	PM:#-u#:--:----	_	
+12-15	,	,	ZD	_	
+12-16	af	af	T-:----:--:----	_	
+12-17	mit	min	PO:s--n:--:-1ns	_	
+12-18	ansigt	ansigt	NC:siun:--:----	ansigt_1a	
+12-19	i	i	T-:----:--:----	_	
+12-20	spejlet	spejl	NC:sdun:--:----	_	
+12-21	,	,	ZD	_	
+12-22	af	af	T-:----:--:----	_	
+12-23	de	den	PM:p-u#:--:----	_	
+12-24	ord	ord	NC:piu#:--:----	_	
+12-25	jeg	jeg	NC:siun:--:----	_	
+12-26	laver	lav	NC:piu#:--:----	_	
+12-27	på	på	T-:----:--:----	_	
+12-28	skærmen	skærm	NC:sduc:--:----	_	
+12-29	,	,	ZD	_	
+12-30	træt	træt	AC:siu§:--:p---	_	
+12-31	af	af	T-:----:--:----	_	
+12-32	den	den	PM:s-uc:--:----	_	
+12-33	metalliske	metallisk	AC:sdu#:--:p---	_	
+12-34	smag	smag	NC:siuc:--:----	_	
+12-35	jeg	jeg	NC:siun:--:----	_	
+12-36	får	få	VF:----:sa:----	_	
+12-37	i	i	T-:----:--:----	_	
+12-38	munden	mund	NC:sduc:--:----	_	
+12-39	af	af	T-:----:--:----	_	
+12-40	at	at	UI:----:--:----	_	
+12-41	iscenesætte	iscenesætte	VI:----:-a:----	_	
+12-42	mig	jeg	PP:s-uc:--:-1#-	_	
+12-43	selv	selv	PM:#-u#:--:----	_	
+12-44	til	til	T-:----:--:----	_	
+12-45	daglig	daglig	AC:siuc:--:p---	_	
+12-46	,	,	ZD	_	
+12-47	hvor	hvor	D-:----:--:u---	_	
+12-48	forholdet	forhold	NC:sdun:--:----	_	
+12-49	mellem	mellem	T-:----:--:----	_	
+12-50	mig	jeg	PP:s-uc:--:-1#-	_	
+12-51	og	og	CC:----:--:----	_	
+12-52	mig	jeg	PP:s-uc:--:-1#-	_	
+12-53	er	være	VF:----:sa:----	_	
+12-54	næsten	næsten	D-:----:--:u---	_	
+12-55	1	1	LC:--u-:--:----	_	
+12-56	:	:	ZP	_	
+
+#id=13
+#text=I ' Bänkpress' har den midaldrende Lindqvist ligget på bænken i et motionscenter og prøvet at løfte farens død af sig, og sin egen skilsmisse har han prøvet at løfte væk med sveden drivende fra ansigtet.
+13-1	I	I	XS:----:--:----	_	
+13-2	'	'	ZA	_	
+13-3	Bänkpress	Bänkpress	NP:sig#:--:----	_	
+13-4	'	'	ZA	_	
+13-5	har	have	VF:----:sa:----	_	
+13-6	den	den	PM:s-uc:--:----	_	
+13-7	midaldrende	midaldrende	AC:§§u§:--:p---	_	
+13-8	Lindqvist	Lindqvist	NP:siu#:--:----	_	
+13-9	ligget	ligge	VT:siu#:t-:----	_	
+13-10	på	på	T-:----:--:----	_	
+13-11	bænken	bænk	NC:sduc:--:----	_	
+13-12	i	i	T-:----:--:----	_	
+13-13	et	en	PI:s-un:--:----	_	
+13-14	motionscenter	motionscenter	NC:siun:--:----	_	
+13-15	og	og	CC:----:--:----	_	
+13-16	prøvet	prøve	VT:siu#:t-:----	_	
+13-17	at	at	UI:----:--:----	_	
+13-18	løfte	løfte	VI:----:-a:----	_	
+13-19	farens	farens	NP:sig#:--:----	_	
+13-20	død	død	NC:siuc:--:----	_	
+13-21	af	af	---	_	
+13-22	sig	sig	PP:#-u#:--:-3y-	_	
+13-23	,	,	ZD	_	
+13-24	og	og	CC:----:--:----	_	
+13-25	sin	sin	PO:s--c:--:-3ys	_	
+13-26	egen	egen	AC:s§uc:--:p---	_	
+13-27	skilsmisse	skilsmisse	NC:siuc:--:----	_	
+13-28	har	have	VF:----:sa:----	_	
+13-29	han	han	PP:s-nc:--:-3n-	_	
+13-30	prøvet	prøve	VT:siu#:t-:----	_	
+13-31	at	at	UI:----:--:----	_	
+13-32	løfte	løfte	VI:----:-a:----	_	
+13-33	væk	væk	D-:----:--:u---	_	
+13-34	med	med	T-:----:--:----	_	
+13-35	sveden	sved	NC:sduc:--:----	_	
+13-36	drivende	drivende	D-:----:--:u---	_	
+13-37	fra	fra	T-:----:--:----	_	
+13-38	ansigtet	ansigt	NC:sdun:--:----	ansigt_1	
+13-39	.	.	ZP	_	
+
+#id=14
+#text=JEG SER HAM sidde på bagerste række, i den presbyterianske kirke i Møllergata, med den marineblå sømandsjakke på skødet, blikket skråt ned mod bænken foran og en let rødme i  ansigtet, og det ser mærkeligt ud, det indrømmer jeg, for han er jo ikke engang kristen.
+14-1	JEG	jeg	PP:s-nc:--:-1n-	_	
+14-2	SER	se	VF:----:sa:----	_	
+14-3	HAM	han	PP:s-uc:--:-3n-	_	
+14-4	sidde	sidde	VI:----:-a:----	_	
+14-5	på	på	T-:----:--:----	_	
+14-6	bagerste	bagerste	AC:sdu#:--:p---	_	
+14-7	række	række	NC:siuc:--:----	_	
+14-8	,	,	ZD	_	
+14-9	i	i	T-:----:--:----	_	
+14-10	den	den	PM:s-uc:--:----	_	
+14-11	presbyterianske	presbyteriansk	AC:sdu#:--:p---	_	
+14-12	kirke	kirke	NC:siuc:--:----	_	
+14-13	i	i	T-:----:--:----	_	
+14-14	Møllergata	Møllergata	NP:siu#:--:----	_	
+14-15	,	,	ZD	_	
+14-16	med	med	T-:----:--:----	_	
+14-17	den	den	PM:s-uc:--:----	_	
+14-18	marineblå	marineblå	AC:sdu#:--:p---	_	
+14-19	sømandsjakke	sømandsjakke	NC:siuc:--:----	_	
+14-20	på	på	T-:----:--:----	_	
+14-21	skødet	skød	NC:sdun:--:----	_	
+14-22	,	,	ZD	_	
+14-23	blikket	blik	NC:sdun:--:----	_	
+14-24	skråt	skrå	AD:----:--:p---	_	
+14-25	ned	ned	D-:----:--:u---	_	
+14-26	mod	mod	T-:----:--:----	_	
+14-27	bænken	bænk	NC:sduc:--:----	_	
+14-28	foran	foran	T-:----:--:----	_	
+14-29	og	og	CC:----:--:----	_	
+14-30	en	en	PI:s-uc:--:----	_	
+14-31	let	let	AC:siu§:--:p---	_	
+14-32	rødme	rødme	NC:siuc:--:----	_	
+14-33	i	i	T-:----:--:----	_	
+14-34	ansigtet	ansigt	NC:sdun:--:----	ansigt_1	
+14-35	,	,	ZD	_	
+14-36	og	og	CC:----:--:----	_	
+14-37	det	t	PP:s-un:--:-3n-	_	
+14-38	ser	se	VF:----:sa:----	_	
+14-39	mærkeligt	mærkelig	AD:----:--:p---	_	
+14-40	ud	ud	D-:----:--:u---	_	
+14-41	,	,	ZD	_	
+14-42	det	det	PP:s-un:--:-3n-	_	
+14-43	indrømmer	indrømme	VF:----:sa:----	_	
+14-44	jeg	jeg	PP:s-nc:--:-1n-	_	
+14-45	,	,	ZD	_	
+14-46	for	for	CC:----:--:----	_	
+14-47	han	han	PP:s-nc:--:-3n-	_	
+14-48	er	være	VF:----:sa:----	_	
+14-49	jo	jo	D-:----:--:u---	_	
+14-50	ikke	ikke	D-:----:--:u---	_	
+14-51	engang	engang	D-:----:--:u---	_	
+14-52	kristen	kristen	AC:siuc:--:p---	_	
+14-53	.	.	ZP	_	
+
+#id=15
+#text=Gråd og angst stod efter et vidnesbyrd fra kirkens præst malet i de afviste irakeres ansigter, der på et tidspunkt havde forsamlet sig under korset i kirken.
+15-1	Gråd	gråd	NC:siuc:--:----	_	
+15-2	og	og	CC:----:--:----	_	
+15-3	angst	angst	AC:siu§:--:p---	_	
+15-4	stod	stod	NC:siun:--:----	_	
+15-5	efter	efter	T-:----:--:----	_	
+15-6	et	en	PI:s-un:--:----	_	
+15-7	vidnesbyrd	vidnesbyrd	NC:siun:--:----	_	
+15-8	fra	fra	T-:----:--:----	_	
+15-9	kirkens	kirke	NC:sdgc:--:----	_	
+15-10	præst	præst	NC:siuc:--:----	_	
+15-11	malet	male	VT:siu#:t-:----	_	
+15-12	i	i	T-:----:--:----	_	
+15-13	de	den	PM:p-u#:--:----	_	
+15-14	afviste	afvise	VP:p#u#:t-:----	_	
+15-15	irakeres	iraker	NC:pig#:--:----	_	
+15-16	ansigter	ansigt	NC:piu#:--:----	ansigt_F_stå malet i ansigtet på nogen	
+15-17	,	,	ZD	_	
+15-18	der	der	US:----:--:----	_	
+15-19	på	på	T-:----:--:----	_	
+15-20	et	en	PI:s-un:--:----	_	
+15-21	tidspunkt	tidspunkt	NC:siun:--:----	_	
+15-22	havde	have	VF:----:ta:----	_	
+15-23	forsamlet	forsamle	VT:siu#:t-:----	_	
+15-24	sig	sig	PP:#-u#:--:-3y-	_	
+15-25	under	under	T-:----:--:----	_	
+15-26	korset	kors	NP:siu#:--:----	_	
+15-27	i	i	T-:----:--:----	_	
+15-28	kirken	kirke	NC:sduc:--:----	_	
+15-29	.	.	ZP	_	
+
+#id=16
+#text=Midt ude på gaden ligger en forulykket motorcyklist med sit blodige ansigt nede i asfalten og forsøger forgæves at rejse sig op.
+16-1	Midt	midt	D-:----:--:u---	_	
+16-2	ude	ude	D-:----:--:u---	_	
+16-3	på	på	T-:----:--:----	_	
+16-4	gaden	gade	NC:sduc:--:----	_	
+16-5	ligger	ligge	VF:----:sa:----	_	
+16-6	en	en	PI:s-uc:--:----	_	
+16-7	forulykket	forulykke	VT:siu#:t-:----	_	
+16-8	motorcyklist	motorcyklist	NC:siuc:--:----	_	
+16-9	med	med	T-:----:--:----	_	
+16-10	sit	sin	PO:s--n:--:-3ys	_	
+16-11	blodige	blodig	AC:sdu#:--:p---	_	
+16-12	ansigt	ansigt	NC:siun:--:----	ansigt_1	
+16-13	nede	nede	D-:----:--:u---	_	
+16-14	i	i	T-:----:--:----	_	
+16-15	asfalten	asfalt	NC:sduc:--:----	_	
+16-16	og	og	CC:----:--:----	_	
+16-17	forsøger	forsøge	VF:----:sa:----	_	
+16-18	forgæves	forgæves	AD:----:--:p---	_	
+16-19	at	at	UI:----:--:----	_	
+16-20	rejse	rejse	VI:----:-a:----	_	
+16-21	sig	sig	PP:#-u#:--:-3y-	_	
+16-22	op	op	D-:----:--:u---	_	
+16-23	.	.	ZP	_	
+
+#id=17
+#text= Nænsomt glider fingre over ansigtet på én, man får dulgte ting hvisket i øret, bliver ført hid og did.
+17-1	Nænsomt	nænsom	AD:----:--:p---	_	
+17-2	glider	glide	VF:----:sa:----	_	
+17-3	fingre	finger	NC:piu#:--:----	_	
+17-4	over	over	T-:----:--:----	_	
+17-5	ansigtet	ansigt	NC:sdun:--:----	ansigt_1	
+17-6	på	på	T-:----:--:----	_	
+17-7	én	en	PI:s-uc:--:----	_	
+17-8	,	,	ZD	_	
+17-9	man	man	PI:#-uc:--:----	_	
+17-10	får	få	VF:----:sa:----	_	
+17-11	dulgte	dølge	VP:p#u#:t-:----	_	
+17-12	ting	ting	NC:piu#:--:----	_	
+17-13	hvisket	hviske	VT:siu#:t-:----	_	
+17-14	i	i	T-:----:--:----	_	
+17-15	øret	øre	NC:sdun:--:----	_	
+17-16	,	,	ZD	_	
+17-17	bliver	blive	VF:----:sa:----	_	
+17-18	ført	føre	VT:siu#:t-:----	_	
+17-19	hid	hid	D-:----:--:u---	_	
+17-20	og	og	CC:----:--:----	_	
+17-21	did	did	D-:----:--:u---	_	
+17-22	.	.	ZP	_	
+
+#id=18
+#text="Kom nu, kom nu, kom nu", skreg den livlige træner utallige gange, mens ansigtet antog en stadig mørkere rød farve.
+18-1	"	"	ZI	_	
+18-2	Kom	komme	VF:----:ta:----	_	
+18-3	nu	nu	D-:----:--:u---	_	
+18-4	,	,	ZD	_	
+18-5	kom	komme	VF:----:ta:----	_	
+18-6	nu	nu	D-:----:--:u---	_	
+18-7	,	,	ZD	_	
+18-8	kom	komme	VF:----:ta:----	_	
+18-9	nu	nu	D-:----:--:u---	_	
+18-10	"	"	ZI	_	
+18-11	,	,	ZD	_	
+18-12	skreg	skrige	VF:----:ta:----	_	
+18-13	den	den	PM:s-uc:--:----	_	
+18-14	livlige	livlig	AC:sdu#:--:p---	_	
+18-15	træner	træne	VF:----:sa:----	_	
+18-16	utallige	utallig	AC:p#u#:--:p---	_	
+18-17	gange	gang	NC:piu#:--:----	_	
+18-18	,	,	ZD	_	
+18-19	mens	mens	CS:----:--:----	_	
+18-20	ansigtet	ansigt	NC:sdun:--:----	ansigt_1a	
+18-21	antog	antage	VF:----:ta:----	_	
+18-22	en	en	PI:s-uc:--:----	_	
+18-23	stadig	stadig	D-:----:--:u---	_	
+18-24	mørkere	mørk	AD:----:--:c---	_	
+18-25	rød	rød	AC:siuc:--:p---	_	
+18-26	farve	farve	NC:siuc:--:----	_	
+18-27	.	.	ZP	_	
+
+#id=19
+#text=Fangerne ydmyges fra første sekund ved nøgenhed, hånlig deklassering, raseriudbrud, spark og slag, især i ansigtet.
+19-1	Fangerne	fange	NC:pdu#:--:----	_	
+19-2	ydmyges	ydmyge	VF:----:sp:----	_	
+19-3	fra	fra	T-:----:--:----	_	
+19-4	første	første	AC:§§u§:--:p---	_	
+19-5	sekund	sekund	NC:siun:--:----	_	
+19-6	ved	ved	T-:----:--:----	_	
+19-7	nøgenhed	nøgenhed	NC:siuc:--:----	_	
+19-8	,	,	ZD	_	
+19-9	hånlig	hånlig	AC:siuc:--:p---	_	
+19-10	deklassering	deklassering	NC:siuc:--:----	_	
+19-11	,	,	ZD	_	
+19-12	raseriudbrud	raseriudbrud	NC:siun:--:----	_	
+19-13	,	,	ZD	_	
+19-14	spark	spark	NC:siun:--:----	_	
+19-15	og	og	CC:----:--:----	_	
+19-16	slag	slag	NC:siun:--:----	_	
+19-17	,	,	ZD	_	
+19-18	især	især	D-:----:--:u---	_	
+19-19	i	i	T-:----:--:----	_	
+19-20	ansigtet	ansigt	NC:sdun:--:----	ansigt_1	
+19-21	.	.	ZP	_	
+
+#id=20
+#text= Ansigter, der stråler om kap med projektørerne, og kinder, der er våde af glædestårer.
+20-1	Ansigter	ansigt	NC:piu#:--:----	ansigt_1a	
+20-2	,	,	ZD	_	
+20-3	der	der	US:----:--:----	_	
+20-4	stråler	stråle	VF:----:sa:----	_	
+20-5	om	om	T-:----:--:----	_	
+20-6	kap	kap	NC:siun:--:----	_	
+20-7	med	med	T-:----:--:----	_	
+20-8	projektørerne	projektør	NC:pdu#:--:----	_	
+20-9	,	,	ZD	_	
+20-10	og	og	CC:----:--:----	_	
+20-11	kinder	kind	NC:piu#:--:----	_	
+20-12	,	,	ZD	_	
+20-13	der	der	US:----:--:----	_	
+20-14	er	være	VF:----:sa:----	_	
+20-15	våde	våde	NC:siuc:--:----	_	
+20-16	af	af	T-:----:--:----	_	
+20-17	glædestårer	glædeståre	NC:piu#:--:----	_	
+20-18	.	.	ZP	_	
+
+#id=21
+#text=Så mange betagede ansigter lyver ikke.
+21-1	Så	så	D-:----:--:u---	_	
+21-2	mange	mangen	AC:p#u#:--:p---	_	
+21-3	betagede	betagede	VP:p#u#:t-:----	_	
+21-4	ansigter	ansigt	NC:piu#:--:----	ansigt_1a	
+21-5	lyver	lyve	VF:----:sa:----	_	
+21-6	ikke	ikke	D-:----:--:u---	_	
+21-7	.	.	ZP	_	
+
+#id=22
+#text= Iført vesir lader han arrige væsner spy gift i sit ansigt og demonstrerer på andre måder naturens fantasifulde indretninger.
+22-1	Iført	iføre	VT:siu#:t-:----	_	
+22-2	vesir	vesir	NC:siuc:--:----	_	
+22-3	lader	lade	VF:----:sa:----	_	
+22-4	han	han	PP:s-nc:--:-3n-	_	
+22-5	arrige	arrig	AC:p#u#:--:p---	_	
+22-6	væsner	væsner	NC:piu#:--:----	_	
+22-7	spy	spy	VI:----:-a:----	_	
+22-8	gift	gift	AC:siu§:--:p---	_	
+22-9	i	i	T-:----:--:----	_	
+22-10	sit	sin	PO:s--n:--:-3ys	_	
+22-11	ansigt	ansigt	NC:siun:--:----	ansigt_1	
+22-12	og	og	CC:----:--:----	_	
+22-13	demonstrerer	demonstrere	VF:----:sa:----	_	
+22-14	på	på	T-:----:--:----	_	
+22-15	andre	anden	PI:p-u#:--:----	_	
+22-16	måder	måder	XY:----:--:----	_	
+22-17	naturens	natur	NC:sdgc:--:----	_	
+22-18	fantasifulde	fantasifuld	AC:p#u#:--:p---	_	
+22-19	indretninger	indretning	NC:piu#:--:----	_	
+22-20	.	.	ZP	_	
+
+#id=23
+#text=Det hænder dog også, at sådanne vagter på et tidspunkt får medlidenhed med den tynde særling og helt bevidst sætter sig til at spille kort i et hjørne fjernt fra sultekunstnerens bur, så han kan få mulighed for at luske lidt mad i sig uden at tabe ansigt.
+23-1	Det	det	PP:s-un:--:-3n-	_	
+23-2	hænder	hænde	VF:----:sa:----	_	
+23-3	dog	dog	D-:----:--:u---	_	
+23-4	også	også	D-:----:--:u---	_	
+23-5	,	,	ZD	_	
+23-6	at	at	CS:----:--:----	_	
+23-7	sådanne	sådan	AC:p#u#:--:p---	_	
+23-8	vagter	vagt	NC:piu#:--:----	_	
+23-9	på	på	T-:----:--:----	_	
+23-10	et	en	PI:s-un:--:----	_	
+23-11	tidspunkt	tidspunkt	NC:siun:--:----	_	
+23-12	får	få	VF:----:sa:----	_	
+23-13	medlidenhed	medlidenhed	NC:siuc:--:----	_	
+23-14	med	med	T-:----:--:----	_	
+23-15	den	den	PM:s-uc:--:----	_	
+23-16	tynde	tynd	AC:sdu#:--:p---	_	
+23-17	særling	særling	NC:siuc:--:----	_	
+23-18	og	og	CC:----:--:----	_	
+23-19	helt	hel	AD:----:--:p---	_	
+23-20	bevidst	bevidst	AC:siu§:--:p---	_	
+23-21	sætter	sætte	VF:----:sa:----	_	
+23-22	sig	sig	PP:#-u#:--:-3y-	_	
+23-23	til	til	T-:----:--:----	_	
+23-24	at	at	UI:----:--:----	_	
+23-25	spille	spille	VI:----:-a:----	_	
+23-26	kort	kort	AD:----:--:p---	_	
+23-27	i	i	T-:----:--:----	_	
+23-28	et	en	PI:s-un:--:----	_	
+23-29	hjørne	hjørne	NC:siun:--:----	_	
+23-30	fjernt	fjern	AD:----:--:p---	_	
+23-31	fra	fra	T-:----:--:----	_	
+23-32	sultekunstnerens	sultekunstner	NC:sdgc:--:----	_	
+23-33	bur	bur	NC:siun:--:----	_	
+23-34	,	,	ZD	_	
+23-35	så	så	CS:----:--:----	_	
+23-36	han	han	PP:s-nc:--:-3n-	_	
+23-37	kan	kunne	VF:----:sa:----	_	
+23-38	få	få	VI:----:-a:----	_	
+23-39	mulighed	mulighed	NC:siuc:--:----	_	
+23-40	for	for	T-:----:--:----	_	
+23-41	at	at	UI:----:--:----	_	
+23-42	luske	luske	VI:----:-a:----	_	
+23-43	lidt	lidt	AC:siu§:--:p---	_	
+23-44	mad	mad	NC:siuc:--:----	_	
+23-45	i	i	T-:----:--:----	_	
+23-46	sig	sig	PP:#-u#:--:-3y-	_	
+23-47	uden	uden	T-:----:--:----	_	
+23-48	at	at	UI:----:--:----	_	
+23-49	tabe	tabe	VI:----:-a:----	_	
+23-50	ansigt	ansigt	NC:siun:--:----	ansigt_F_tabe/miste ansigt	
+23-51	.	.	ZP	_	
+
+#id=24
+#text=Den indledende beskrivelse af Andreotti og hans kroniske migræne ledsages af et billede, hvor Andreotti står bag en lampe, der akkurat dækker hans ansigt og blænder tilskueren som dels en morsom leg med dimensionerne, dels en effektfuld illustration af Andreottis hovedpine.
+24-1	Den	den	PM:s-uc:--:----	_	
+24-2	indledende	indlede	VP:##u#:s-:----	_	
+24-3	beskrivelse	beskrivelse	NC:siuc:--:----	_	
+24-4	af	af	T-:----:--:----	_	
+24-5	Andreotti	Andreotti	NP:siu#:--:----	_	
+24-6	og	og	CC:----:--:----	_	
+24-7	hans	hans	PO:#--#:--:-3ns	_	
+24-8	kroniske	kronisk	AC:sdu#:--:p---	_	
+24-9	migræne	migræne	NC:siuc:--:----	_	
+24-10	ledsages	ledsage	VF:----:sp:----	_	
+24-11	af	af	T-:----:--:----	_	
+24-12	et	en	PI:s-un:--:----	_	
+24-13	billede	billede	NC:siun:--:----	_	
+24-14	,	,	ZD	_	
+24-15	hvor	hvor	D-:----:--:u---	_	
+24-16	Andreotti	Andreotti	NP:siu#:--:----	_	
+24-17	står	stå	VF:----:sa:----	_	
+24-18	bag	bag	T-:----:--:----	_	
+24-19	en	en	PI:s-uc:--:----	_	
+24-20	lampe	lampe	NC:siuc:--:----	_	
+24-21	,	,	ZD	_	
+24-22	der	der	US:----:--:----	_	
+24-23	akkurat	akkurat	D-:----:--:u---	_	
+24-24	dækker	dække	VF:----:sa:----	_	
+24-25	hans	hans	PO:#--#:--:-3ns	_	
+24-26	ansigt	ansigt	NC:siun:--:----	ansigt_1	
+24-27	og	og	CC:----:--:----	_	
+24-28	blænder	blænde	VF:----:sa:----	_	
+24-29	tilskueren	tilskuer	NC:sduc:--:----	_	
+24-30	som	som	US:----:--:----	_	
+24-31	dels	dels	D-:----:--:u---	_	
+24-32	en	en	PI:s-uc:--:----	_	
+24-33	morsom	morsom	AC:siuc:--:p---	_	
+24-34	leg	leg	NC:siuc:--:----	_	
+24-35	med	med	T-:----:--:----	_	
+24-36	dimensionerne	dimension	NC:pdu#:--:----	_	
+24-37	,	,	ZD	_	
+24-38	dels	dels	D-:----:--:u---	_	
+24-39	en	en	PI:s-uc:--:----	_	
+24-40	effektfuld	effektfuld	AC:siuc:--:p---	_	
+24-41	illustration	illustration	NC:siuc:--:----	_	
+24-42	af	af	T-:----:--:----	_	
+24-43	Andreottis	Andreottis	NP:sig#:--:----	_	
+24-44	hovedpine	hovedpine	NC:siuc:--:----	_	
+24-45	.	.	ZP	_	
+
+#id=25
+#text=På sin side er Ryan Reynolds en gave som hunk i en romantisk komedie, fordi det unge talent med det forpjuskede udtryk i ansigtet endnu ikke er forfalden til den selvfedme, genrens øvrige førsteelskere er så hurtige til at udvikle.
+25-1	På	på	T-:----:--:----	_	
+25-2	sin	sin	PO:s--c:--:-3ys	_	
+25-3	side	side	:--:----	_	
+25-4	er	være	VF:----:sa:----	_	
+25-5	Ryan	Ryan	NP:siu#:--:----	_	
+25-6	Reynolds	Reynolds	NP:siu#:--:----	_	
+25-7	en	en	PI:s-uc:--:----	_	
+25-8	gave	gave	NC:siuc:--:----	_	
+25-9	som	som	XY:----:--:----	_	
+25-10	hunk	hunk	XS:----:--:----	_	
+25-11	i	i	T-:----:--:----	_	
+25-12	en	en	PI:s-uc:--:----	_	
+25-13	romantisk	romantisk	AC:siu§:--:p---	_	
+25-14	komedie	komedie	NC:siuc:--:----	_	
+25-15	,	,	ZD	_	
+25-16	fordi	fordi	CS:----:--:----	_	
+25-17	det	den	PM:s-un:--:----	_	
+25-18	unge	ung	AC:sdu#:--:p---	_	
+25-19	talent	talent	NC:siun:--:----	_	
+25-20	med	med	T-:----:--:----	_	
+25-21	det	den	PM:s-un:--:----	_	
+25-22	forpjuskede	forpjusket	AC:sdu#:--:p---	_	
+25-23	udtryk	udtryk	NC:siun:--:----	_	
+25-24	i	i	T-:----:--:----	_	
+25-25	ansigtet	ansigt	NC:sdun:--:----	ansigt_1a	
+25-26	endnu	endnu	D-:----:--:u---	_	
+25-27	ikke	ikke	:--:u---	_	
+25-28	er	være	VF:----:sa:----	_	
+25-29	forfalden	forfalden	NP:siu#:--:----	_	
+25-30	til	til	T-:----:--:----	_	
+25-31	den	den	PM:s-uc:--:----	_	
+25-32	selvfedme	selvfedme	NC:siuc:--:----	_	
+25-33	,	,	ZD	_	
+25-34	genrens	genre	NC:sdgc:--:----	_	
+25-35	øvrige	øvrig	AC:p#u#:--:p---	_	
+25-36	førsteelskere	førsteelsker	NC:piu#:--:----	_	
+25-37	er	være	VF:----:sa:----	_	
+25-38	så	så	D-:----:--:u---	_	
+25-39	hurtige	hurtig	AC:p#u#:--:p---	_	
+25-40	til	til	T-:----:--:----	_	
+25-41	at	at	UI:----:--:----	_	
+25-42	udvikle	udvikle	VI:----:-a:----	_	
+25-43	.	.	ZP	_	
+
+#id=26
+#text=Det var  lige meget, om man kunne se Fatimas ansigt.
+26-1	Det	det	PP:s-un:--:-3n-	_	
+26-2	var	være	VF:----:ta:----	_	
+26-3	lige	lige	D-:----:--:u---	_	
+26-4	meget	megen	AD:----:--:p---	_	
+26-5	,	,	ZD	_	
+26-6	om	om	CS:----:--:----	_	
+26-7	man	man	PI:#-uc:--:----	_	
+26-8	kunne	kunne	VF:----:ta:----	_	
+26-9	se	se	VI:----:-a:----	_	
+26-10	Fatimas	Fatimas	NP:sig#:--:----	_	
+26-11	ansigt	ansigt	NC:siun:--:----	ansigt_1	
+26-12	.	.	ZP	_	
+
+#id=27
+#text=De radikales integrationsordfører, Morten Østergaard, er stærkt utilfreds med det,  han kalder en "overdrevet voldsom aktion i nattens mulm og mørke", men opfatter alligevel ikke undersøgelsens resultat som et slag i ansigtet.
+27-1	De	den	PM:p-u#:--:----	_	
+27-2	radikales	radikal	AC:p#g#:--:p---	_	
+27-3	integrationsordfører	integrationsordfører	NC:siuc:--:----	_	
+27-4	,	,	ZD	_	
+27-5	Morten	Morten	NP:siu#:--:----	_	
+27-6	Østergaard	Østergaard	NP:siu#:--:----	_	
+27-7	,	,	ZD	_	
+27-8	er	være	VF:----:sa:----	_	
+27-9	stærkt	stærk	AD:----:--:p---	_	
+27-10	utilfreds	utilfreds	AD:----:--:p---	_	
+27-11	med	med	T-:----:--:----	_	
+27-12	det	det	PP:s-un:--:-3n-	_	
+27-13	,	,	ZD	_	
+27-14	han	han	PP:s-nc:--:-3n-	_	
+27-15	kalder	kalde	VF:----:sa:----	_	
+27-16	en	en	PI:s-uc:--:----	_	
+27-17	"	"	ZI	_	
+27-18	overdrevet	overdrevet	AC:siu§:--:p---	_	
+27-19	voldsom	voldsom	AC:siuc:--:p---	_	
+27-20	aktion	aktion	NC:siuc:--:----	_	
+27-21	i	i	T-:----:--:----	_	
+27-22	nattens	nat	NC:sdgc:--:----	_	
+27-23	mulm	mulm	NC:siun:--:----	_	
+27-24	og	og	CC:----:--:----	_	
+27-25	mørke	mørke	VI:----:-a:----	_	
+27-26	"	"	ZI	_	
+27-27	,	,	ZD	_	
+27-28	men	men	CC:----:--:----	_	
+27-29	opfatter	opfatte	VF:----:sa:----	_	
+27-30	alligevel	alligevel	D-:----:--:u---	_	
+27-31	ikke	ikke	D-:----:--:u---	_	
+27-32	undersøgelsens	undersøgelse	NC:sdgc:--:----	_	
+27-33	resultat	resultat	NC:siun:--:----	_	
+27-34	som	som	US:----:--:----	_	
+27-35	et	en	PI:s-un:--:----	_	
+27-36	slag	slag	NC:siun:--:----	_	
+27-37	i	i	T-:----:--:----	_	
+27-38	ansigtet	ansigt	NC:sdun:--:----	ansigt_F_slag i ansigtet	
+27-39	.	.	ZP	_	
+
+#id=28
+#text= Men selv om både øjnene, munden og den medtagede næse ligner til forveksling, er busten ikke modelleret efter den afdøde popkonges ansigt, forsikrer museumsdirektør Jim Phillips på Field Museum i Chicago, hvor den 3.000-årige skulptur har prydet den egyptiske samling siden 1988.
+28-1	Men	men	CC:----:--:----	_	
+28-2	selv	selv	D-:----:--:u---	_	
+28-3	om	om	T-:----:--:----	_	
+28-4	både	både	D-:----:--:u---	_	
+28-5	øjnene	øje	NC:pdu#:--:----	_	
+28-6	,	,	ZD	_	
+28-7	munden	mund	NC:sduc:--:----	_	
+28-8	og	og	CC:----:--:----	_	
+28-9	den	den	PM:s-uc:--:----	_	
+28-10	medtagede	medtagen	AC:sdu#:--:p---	_	
+28-11	næse	næse	NC:siuc:--:----	_	
+28-12	ligner	ligne	VF:----:sa:----	_	
+28-13	til	til	T-:----:--:----	_	
+28-14	forveksling	forveksling	NC:siuc:--:----	_	
+28-15	,	,	ZD	_	
+28-16	er	være	VF:----:sa:----	_	
+28-17	busten	buste	NC:sduc:--:----	_	
+28-18	ikke	ikke	D-:----:--:u---	_	
+28-19	modelleret	modellere	VT:siu#:t-:----	_	
+28-20	efter	efter	T-:----:--:----	_	
+28-21	den	den	PM:s-uc:--:----	_	
+28-22	afdøde	afdød	AC:sdu#:--:p---	_	
+28-23	popkonges	popkonge	NC:sigc:--:----	_	
+28-24	ansigt	ansigt	NC:siun:--:----	ansigt_1	
+28-25	,	,	ZD	_	
+28-26	forsikrer	forsikre	VF:----:sa:----	_	
+28-27	museumsdirektør	museumsdirektør	NC:siuc:--:----	_	
+28-28	Jim	Jim	NP:siu#:--:----	_	
+28-29	Phillips	Phillips	NP:siu#:--:----	_	
+28-30	på	på	T-:----:--:----	_	
+28-31	Field	Field	NP:siu#:--:----	_	
+28-32	Museum	museum	NC:siun:--:----	_	
+28-33	i	i	T-:----:--:----	_	
+28-34	Chicago	Chicago	NP:siu#:--:----	_	
+28-35	,	,	ZD	_	
+28-36	hvor	hvor	D-:----:--:u---	_	
+28-37	den	den	PM:s-uc:--:----	_	
+28-38	3	3	LO:--u#:--:----	_	
+28-39	.	.	ZP	_	
+28-40	000	000	LC:--u-:--:----	_	
+28-41	-	-	ZH	_	
+28-42	årige	årig	AC:sdu#:--:p---	_	
+28-43	skulptur	skulptur	NC:siuc:--:----	_	
+28-44	har	have	VF:----:sa:----	_	
+28-45	prydet	pryde	VT:siu#:t-:----	_	
+28-46	den	den	PM:s-uc:--:----	_	
+28-47	egyptiske	egyptisk	AC:sdu#:--:p---	_	
+28-48	samling	samling	NC:siuc:--:----	_	
+28-49	siden	siden	T-:----:--:----	_	
+28-50	1988	1988	LC:--u-:--:----	_	
+28-51	.	.	ZP	_	
+
+#id=29
+#text= Det allerværste var mimikken - sælunger har samme mimik som abeunger - så på den to kilometer lange tur langs stranden kunne jeg i dens ansigt aflæse alle dens håb, forventninger og til sidst skuffelser, når den fandt ud af, at der heller ikke var en livgivende dievorte oppe i min armhule.
+29-1	Det	den	PM:s-un:--:----	_	
+29-2	allerværste	allerværst	AC:sdu#:--:p---	_	
+29-3	var	være	----	_	
+29-4	mimikken	mimik	NW:----:--:----	_	
+29-5	-	-	ZH	_	
+29-6	sælunger	sælunge	NC:piu#:--:----	_	
+29-7	har	have	VF:----:sa:----	_	
+29-8	samme	samme	AC:§§u§:--:p---	_	
+29-9	mimik	mimik	NC:siuc:--:----	_	
+29-10	som	som	US:----:--:----	_	
+29-11	abeunger	abeunge	NW:----:--:----	_	
+29-12	-	-	ZH	_	
+29-13	så	så	D-:----:--:u---	_	
+29-14	på	på	T-:----:--:----	_	
+29-15	den	den	PM:s-uc:--:----	_	
+29-16	to	to	LC:--u-:--:----	_	
+29-17	kilometer	kilometer	NC:piu#:--:----	_	
+29-18	lange	lang	AC:sdu#:--:p---	_	
+29-19	tur	tur	NC:siuc:--:----	_	
+29-20	langs	langs	T-:----:--:----	_	
+29-21	stranden	strand	NC:sduc:--:----	_	
+29-22	kunne	kunne	VF:----:ta:----	_	
+29-23	jeg	jeg	PP:s-nc:--:-1n-	_	
+29-24	i	i	T-:----:--:----	_	
+29-25	dens	dens	PO:#--#:--:-3ns	_	
+29-26	ansigt	ansigt	NC:siun:--:----	ansigt_1a	
+29-27	aflæse	aflæse	VI:----:-a:----	_	
+29-28	alle	al	PI:p-u#:--:----	_	
+29-29	dens	dens	PO:#--#:--:-3ns	_	
+29-30	håb	håb	NC:siun:--:----	_	
+29-31	,	,	ZD	_	
+29-32	forventninger	forventning	NC:piu#:--:----	_	
+29-33	og	og	CC:----:--:----	_	
+29-34	til	til	T-:----:--:----	_	
+29-35	sidst	sidst	D-:----:--:u---	_	
+29-36	skuffelser	skuffelse	NC:piu#:--:----	_	
+29-37	,	,	ZD	_	
+29-38	når	når	CS:----:--:----	_	
+29-39	den	den	PP:s-uc:--:-3n-	_	
+29-40	fandt	finde	VF:----:ta:----	_	
+29-41	ud	ud	D-:----:--:u---	_	
+29-42	af	af	T-:----:--:----	_	
+29-43	,	,	ZD	_	
+29-44	at	at	CS:----:--:----	_	
+29-45	der	der	US:----:--:----	_	
+29-46	heller	heller	D-:----:--:u---	_	
+29-47	ikke	ikke	D-:----:--:u---	_	
+29-48	var	være	VF:----:ta:----	_	
+29-49	en	en	PI:s-uc:--:----	_	
+29-50	livgivende	livgivende	AC:§§u§:--:p---	_	
+29-51	dievorte	dievorte	NC:siuc:--:----	_	
+29-52	oppe	oppe	D-:----:--:u---	_	
+29-53	i	i	T-:----:--:----	_	
+29-54	min	min	PO:s--c:--:-1ns	_	
+29-55	armhule	armhule	NC:siuc:--:----	_	
+29-56	.	.	ZP	_	
+
+#id=30
+#text="Det var et chok og et slag i ansigtet.
+30-1	"	"	ZI	_	
+30-2	Det	det	PP:s-un:--:-3n-	_	
+30-3	var	være	VF:----:ta:----	_	
+30-4	et	en	PI:s-un:--:----	_	
+30-5	chok	chok	NC:siun:--:----	_	
+30-6	og	og	CC:----:--:----	_	
+30-7	et	en	PI:s-un:--:----	_	
+30-8	slag	slag	NC:siun:--:----	_	
+30-9	i	i	T-:----:--:----	_	
+30-10	ansigtet	ansigt	NC:sdun:--:----	ansigt_F_slag i ansigtet	
+30-11	.	.	ZP	_	
+
+#id=31
+#text= Derfor føltes det som en våd klud i ansigtet, da de åbnede avisen og kunne konstatere, at deres egen næstformand ikke tror på dem.
+31-1	Derfor	derfor	D-:----:--:u---	_	
+31-2	føltes	føle	VF:----:tp:----	_	
+31-3	det	det	PP:s-un:--:-3n-	_	
+31-4	som	som	US:----:--:----	_	
+31-5	en	en	PI:s-uc:--:----	_	
+31-6	våd	våd	AC:siuc:--:p---	_	
+31-7	klud	klud	NC:siuc:--:----	_	
+31-8	i	i	T-:----:--:----	_	
+31-9	ansigtet	ansigt	NC:sdun:--:----	ansigt_F_en våd klud i ansigtet	
+31-10	,	,	ZD	_	
+31-11	da	da	CS:----:--:----	_	
+31-12	de	de	PP:p-n#:--:-3n-	_	
+31-13	åbnede	åbne	VF:----:ta:----	_	
+31-14	avisen	avis	NC:sduc:--:----	_	
+31-15	og	og	CC:----:--:----	_	
+31-16	kunne	kunne	VF:----:ta:----	_	
+31-17	konstatere	konstatere	VI:----:-a:----	_	
+31-18	,	,	ZD	_	
+31-19	at	at	CS:----:--:----	_	
+31-20	deres	deres	PO:#--#:--:-3np	_	
+31-21	egen	egen	AC:s§uc:--:p---	_	
+31-22	næstformand	næstformand	NC:siuc:--:----	_	
+31-23	ikke	ikke	D-:----:--:u---	_	
+31-24	tror	tro	VF:----:sa:----	_	
+31-25	på	på	T-:----:--:----	_	
+31-26	dem	de	PP:p-u#:--:-3n-	_	
+31-27	.	.	ZP	_	
+
+#id=32
+#text= Ansigtet er smukt, kroppen ekstremt veltrænet og energien på toppen, som vil hun overbevise os om, at alder ingen rolle spiller.
+32-1	Ansigtet	ansigt	NC:sdun:--:----	ansigt_1	
+32-2	er	være	VF:----:sa:----	_	
+32-3	smukt	smuk	AC:siun:--:p---	_	
+32-4	,	,	ZD	_	
+32-5	kroppen	krop	NC:sduc:--:----	_	
+32-6	ekstremt	ekstrem	AD:----:--:p---	_	
+32-7	veltrænet	veltrænet	AD:----:--:p---	_	
+32-8	og	og	CC:----:--:----	_	
+32-9	energien	energi	NC:sduc:--:----	_	
+32-10	på	på	T-:----:--:----	_	
+32-11	toppen	top	NC:sduc:--:----	_	
+32-12	,	,	ZD	_	
+32-13	som	som	US:----:--:----	_	
+32-14	vil	ville	VF:----:sa:----	_	
+32-15	hun	hun	PP:s-nc:--:-3n-	_	
+32-16	overbevise	overbevise	VI:----:-a:----	_	
+32-17	os	vi	PP:p-uc:--:-1#-	_	
+32-18	om	om	T-:----:--:----	_	
+32-19	,	,	ZD	_	
+32-20	at	at	CS:----:--:----	_	
+32-21	alder	alder	NC:siuc:--:----	_	
+32-22	ingen	ingen	PI:s-uc:--:----	_	
+32-23	rolle	rolle	NC:siuc:--:----	_	
+32-24	spiller	spille	VF:----:sa:----	_	
+32-25	.	.	ZP	_	
+
+#id=33
+#text=Mener man, at man i kraft af sit ansigt (eller sit øvrige udseende) så afgjort havde fortjent en  plads på rollelisten i en Fellinifilm, kan man sende sit billede ind til konkurrencen - alt det praktiske vender vi tilbage til.
+33-1	Mener	mene	VF:----:sa:----	_	
+33-2	man	man	PI:#-uc:--:----	_	
+33-3	,	,	ZD	_	
+33-4	at	at	CS:----:--:----	_	
+33-5	man	man	PI:#-uc:--:----	_	
+33-6	i	i	T-:----:--:----	_	
+33-7	kraft	kraft	NC:siuc:--:----	_	
+33-8	af	af	T-:----:--:----	_	
+33-9	sit	sin	PO:s--n:--:-3ys	_	
+33-10	ansigt	ansigt	NC:siun:--:----	ansigt_1	
+33-11	(	(	ZD	_	
+33-12	eller	eller	CC:----:--:----	_	
+33-13	sit	sin	PO:s--n:--:-3ys	_	
+33-14	øvrige	øvrig	AC:sdu#:--:p---	_	
+33-15	udseende	udseende	NC:siun:--:----	_	
+33-16	)	)	ZD	_	
+33-17	så	så	D-:----:--:u---	_	
+33-18	afgjort	afgøre	VT:siu#:t-:----	_	
+33-19	havde	have	VF:----:ta:----	_	
+33-20	fortjent	fortjene	VT:siu#:t-:----	_	
+33-21	en	en	PI:s-uc:--:----	_	
+33-22	plads	plads	NC:siuc:--:----	_	
+33-23	på	på	T-:----:--:----	_	
+33-24	rollelisten	rolleliste	NC:sduc:--:----	_	
+33-25	i	i	T-:----:--:----	_	
+33-26	en	en	PI:s-uc:--:----	_	
+33-27	Fellinifilm	Fellinifilm	:siu#:--:----	_	
+33-28	,	,	ZD	_	
+33-29	kan	kunne	VF:----:sa:----	_	
+33-30	man	man	PI:#-uc:--:----	_	
+33-31	sende	sende	VI:----:-a:----	_	
+33-32	sit	sin	PO:s--n:--:-3ys	_	
+33-33	billede	billede	NC:siun:--:----	_	
+33-34	ind	ind	D-:----:--:u---	_	
+33-35	til	til	T-:----:--:----	_	
+33-36	konkurrencen	konkurrence	NW:----:--:----	_	
+33-37	-	-	ZH	_	
+33-38	alt	alt	D-:----:--:u---	_	
+33-39	det	den	PM:s-un:--:----	_	
+33-40	praktiske	praktisk	AC:sdu#:--:p---	_	
+33-41	vender	vende	VF:----:sa:----	_	
+33-42	vi	vi	PP:p-nc:--:-1n-	_	
+33-43	tilbage	tilbage	D-:----:--:u---	_	
+33-44	til	til	T-:----:--:----	_	
+33-45	.	.	ZP	_	
+
+#id=34
+#text="Naturligvis skulle jeg have haft karantæne, hvis jeg havde stået og svinet ham direkte op i ansigtet med diverse grimme gloser.
+34-1	"	"	ZI	_	
+34-2	Naturligvis	naturligvis	D-:----:--:u---	_	
+34-3	skulle	skulle	VF:----:ta:----	_	
+34-4	jeg	jeg	PP:s-nc:--:-1n-	_	
+34-5	have	have	VI:----:-a:----	_	
+34-6	haft	have	VT:siu#:t-:----	_	
+34-7	karantæne	karantæne	NC:siuc:--:----	_	
+34-8	,	,	ZD	_	
+34-9	hvis	hvis	CS:----:--:----	_	
+34-10	jeg	jeg	PP:s-nc:--:-1n-	_	
+34-11	havde	have	VF:----:ta:----	_	
+34-12	stået	stå	VT:siu#:t-:----	_	
+34-13	og	og	CC:----:--:----	_	
+34-14	svinet	svine	VT:siu#:t-:----	_	
+34-15	ham	han	PP:s-uc:--:-3n-	_	
+34-16	direkte	direkte	AD:----:--:p---	_	
+34-17	op	op	D-:----:--:u---	_	
+34-18	i	i	T-:----:--:----	_	
+34-19	ansigtet	ansigt	NC:sdun:--:----	ansigt_F_lige op i ansigtet/lige op i éns åbne ansigt	
+34-20	med	med	T-:----:--:----	_	
+34-21	diverse	diverse	AC:§§u§:--:p---	_	
+34-22	grimme	grim	AC:p#u#:--:p---	_	
+34-23	gloser	glose	NC:piu#:--:----	_	
+34-24	.	.	ZP	_	
+
+#id=35
+#text=Resultatet viste, da langt de fleste af de 2.355 delegeredes stemmer var talt op, at yngre ansigter vil præge den nye ledelse i Fatah, som er det dominerende palæstinensiske parti på den besatte Vestbred.
+35-1	Resultatet	resultat	NC:sdun:--:----	_	
+35-2	viste	vise	VF:----:ta:----	_	
+35-3	,	,	ZD	_	
+35-4	da	da	CS:----:--:----	_	
+35-5	langt	lang	AD:----:--:p---	_	
+35-6	de	den	PM:p-u#:--:----	_	
+35-7	fleste	mange	AC:p#u#:--:s---	_	
+35-8	af	af	T-:----:--:----	_	
+35-9	de	den	PM:p-u#:--:----	_	
+35-10	2	2	LC:--u-:--:----	_	
+35-11	.	.	ZP	_	
+35-12	355	355	LC:--u-:--:----	_	
+35-13	delegeredes	delegeret	NP:siu#:--:----	_	
+35-14	stemmer	stemme	NC:piu#:--:----	_	
+35-15	var	være	VF:----:ta:----	_	
+35-16	talt	tale	VT:siu#:t-:----	_	
+35-17	op	op	D-:----:--:u---	_	
+35-18	,	,	ZD	_	
+35-19	at	at	CS:----:--:----	_	
+35-20	yngre	ung	AC:##u#:--:c---	_	
+35-21	ansigter	ansigt	NC:piu#:--:----	ansigt_3	
+35-22	vil	ville	VF:----:sa:----	_	
+35-23	præge	præge	VI:----:-a:----	_	
+35-24	den	den	PM:s-uc:--:----	_	
+35-25	nye	ny	AC:sdu#:--:p---	_	
+35-26	ledelse	ledelse	NC:siuc:--:----	_	
+35-27	i	i	T-:----:--:----	_	
+35-28	Fatah	Fatah	NP:siu#:--:----	_	
+35-29	,	,	ZD	_	
+35-30	som	som	US:----:--:----	_	
+35-31	er	være	VF:----:sa:----	_	
+35-32	det	den	PM:s-un:--:----	_	
+35-33	dominerende	dominere	VP:##u#:s-:----	_	
+35-34	palæstinensiske	palæstinensisk	AC:sdu#:--:p---	_	
+35-35	parti	parti	NC:siun:--:----	_	
+35-36	på	på	T-:----:--:----	_	
+35-37	den	den	PM:s-uc:--:----	_	
+35-38	besatte	besætte	VP:sdu#:t-:----	_	
+35-39	Vestbred	Vestbred	NP:siu#:--:----	_	
+35-40	.	.	ZP	_	
+

@@ -1,0 +1,1901 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Lexicalsample | Tag
+#id=1
+#text=og I 70' - Vi rev væggene ned til de forskellige rum her i stuen, og det til et stort rum, så vi få lys ind fra alle sider, så lavede vi børneværelser på etage.
+1-1	og	og	CC:----:--:----	_	
+1-2	I	i	T-:----:--:----	_	
+1-3	70	70	LC:--u-:--:----	_	
+1-4	'	'	ZA	_	
+1-5	-	-	NC:piu#:--:----	_	
+1-6	Vi	VI	LC:--u-:--:----	_	
+1-7	rev	rive	VF:----:ta:----	_	
+1-8	væggene	væg	NC:pdu#:--:----	_	
+1-9	ned	ned	D-:----:--:u---	_	
+1-10	til	til	T-:----:--:----	_	
+1-11	de	den	PM:p-u#:--:----	_	
+1-12	forskellige	forskellig	AC:p#u#:--:p---	_	
+1-13	rum	rum	NC:piu#:--:----	_	
+1-14	her	her	D-:----:--:u---	_	
+1-15	i	i	T-:----:--:----	_	
+1-16	stuen	stue	NC:sduc:--:----	_	
+1-17	,	,	ZD	_	
+1-18	og	og	CC:----:--:----	_	
+1-19	det	det	PP:s-un:--:-3n-	_	
+1-20	til	til	T-:----:--:----	_	
+1-21	et	en	PI:s-un:--:----	_	
+1-22	stort	stor	AC:siun:--:p---	_	
+1-23	rum	rum	NC:siun:--:----	_	
+1-24	,	,	ZD	_	
+1-25	så	så	CS:----:--:----	_	
+1-26	vi	vi	PP:p-nc:--:-1n-	_	
+1-27	få	få	VI:----:-a:----	_	
+1-28	lys	lys|lys-1-1a-1b-1c-1f|lys-1f|lys-1e|lys-1d|lys-F-brænde-sit-lys-i-begge-ender|lys-F-bengalsk-lys|lys-5|lys-4|lys-3|Lys-2|lys-1g|lys-F-se-dagens-lys|lys-F-rank-som-et-lys|lys-F-lys-i-mørket|lys-F-levende-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-komme-for-dagens-lys|lys-F-kaste-lys-over|-af|lys-F-i-et-nyt-(andet-..)-lys|lys-F-gå-ud-som-et-lys|lys-F-grønt-lys(for-noget)|lys-F-grønt/gult/rødt-lys|lys-F-føre-nogen-bag-lyset|lys-F-der-går-et-lys-op-for-nogen|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-tåle-dagens-lys|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-se-lyset	NC:siun:--:----	lys_1	
+1-29	ind	ind	D-:----:--:u---	_	
+1-30	fra	fra	T-:----:--:----	_	
+1-31	alle	al	PI:p-u#:--:----	_	
+1-32	sider	side	NC:piu#:--:----	_	
+1-33	,	,	ZD	_	
+1-34	så	så	D-:----:--:u---	_	
+1-35	lavede	lave	VF:----:ta:----	_	
+1-36	vi	vi	PP:p-nc:--:-1n-	_	
+1-37	børneværelser	børneværelse	NC:piu#:--:----	_	
+1-38	på	på	T-:----:--:----	_	
+1-39	etage	etage	NC:siuc:--:----	_	
+1-40	.	.	ZP	_	
+
+#id=2
+#text=- Da jeg så ham på sygehuset, var der intet lys i hans øjne.
+2-1	-	-	NC:piu#:--:----	_	
+2-2	Da	da	CS:----:--:----	_	
+2-3	jeg	jeg	PP:s-nc:--:-1n-	_	
+2-4	så	se	VF:----:ta:----	_	
+2-5	ham	han	PP:s-uc:--:-3n-	_	
+2-6	på	på	T-:----:--:----	_	
+2-7	sygehuset	sygehus	NC:sdun:--:----	_	
+2-8	,	,	ZD	_	
+2-9	var	være	VF:----:ta:----	_	
+2-10	der	der	US:----:--:----	_	
+2-11	intet	ingen	PI:s-un:--:----	_	
+2-12	lys	lys|lys-F-tåle-dagens-lys|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-se-lyset|lys-F-se-dagens-lys|lys-F-rank-som-et-lys|lys-F-lys-i-mørket|lys-F-levende-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-komme-for-dagens-lys|lys-F-kaste-lys-over|lys-F-i-lyset-af|lys-F-i-et-nyt-(andet-..)-lys|lys-F-gå-ud-som-et-lys|lys-F-grønt-lys(for-noget)|lys-F-grønt/gult/rødt-lys|lys-F-føre-nogen-bag-lyset|lys-F-der-går-et-lys-op-for-nogen|lys-F-brænde-sit-lys-i-begge-ender|lys-F-bengalsk-lys|lys-5|lys-4|lys-3|Lys-2|lys-1g|lys-1f|lys-1e|lys-1d|lys-1-1a-1b-1c-1f|lys-F-sætte-sit-lys-under-en-skæppe	NC:siun:--:----	lys_1g	
+2-13	i	i	T-:----:--:----	_	
+2-14	hans	hans	PO:#--#:--:-3ns	_	
+2-15	øjne	øje	NC:piu#:--:----	_	
+2-16	.	.	ZP	_	
+
+#id=3
+#text= Da han begyndte at gå flere etager op ad trapper, så han lys for enden af tunnelen.
+3-1	Da	da	CS:----:--:----	_	
+3-2	han	han	PP:s-nc:--:-3n-	_	
+3-3	begyndte	begynde	VF:----:ta:----	_	
+3-4	at	at	UI:----:--:----	_	
+3-5	gå	gå	VI:----:-a:----	_	
+3-6	flere	mange	AC:##u#:--:c---	_	
+3-7	etager	etage	NC:piu#:--:----	_	
+3-8	op	op	D-:----:--:u---	_	
+3-9	ad	ad	T-:----:--:----	_	
+3-10	trapper	trappe	NC:piu#:--:----	_	
+3-11	,	,	ZD	_	
+3-12	så	så	CS:----:--:----	_	
+3-13	han	han	PP:s-nc:--:-3n-	_	
+3-14	lys	lys|lys-1-1a-1b-1c-1f|lys-1g|lys-5|lys-4|lys-3|Lys-2|lys-1f|lys-1e|lys-1d|lys-F-lede/søge-med-lys-og-lygte|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-tåle-dagens-lys|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-se-lyset|lys-F-se-dagens-lys|lys-F-rank-som-et-lys|lys-F-lys-i-mørket|lys-F-levende-lys|lys-F-komme-for-dagens-lys|lys-F-kaste-lys-over|lys-F-i-lyset-af|lys-F-i-et-nyt-(andet-..)-lys|lys-F-gå-ud-som-et-lys|lys-F-grønt-lys(for-noget)|lys-F-grønt/gult/rødt-lys|lys-F-føre-nogen-bag-lyset|lys-F-der-går-et-lys-op-for-nogen|lys-F-brænde-sit-lys-i-begge-ender|lys-F-bengalsk-lys	NC:siun:--:----	lys_1g	
+3-15	for	for	T-:----:--:----	_	
+3-16	enden	ende	NC:sduc:--:----	_	
+3-17	af	af	T-:----:--:----	_	
+3-18	tunnelen	tunnel	NC:sduc:--:----	_	
+3-19	.	.	ZP	_	
+
+#id=4
+#text=Det grå og triste er afløst af lys og luft.
+4-1	Det	den	PM:s-un:--:----	_	
+4-2	grå	grå	AC:sdu#:--:p---	_	
+4-3	og	og	CC:----:--:----	_	
+4-4	triste	trist	AC:p#u#:--:p---	_	
+4-5	er	være	VF:----:sa:----	_	
+4-6	afløst	afløse	VT:siu#:t-:----	_	
+4-7	af	af	T-:----:--:----	_	
+4-8	lys	lys|lys-1f|lys-1e|lys-1d|lys-1-1a-1b-1c-1f|lys-4|lys-F-der-går-et-lys-op-for-nogen|lys-F-brænde-sit-lys-i-begge-ender|lys-F-bengalsk-lys|lys-5|lys-3|Lys-2|lys-1g|lys-F-rank-som-et-lys|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-se-lyset|lys-F-se-dagens-lys|lys-F-lys-i-mørket|lys-F-levende-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-komme-for-dagens-lys|lys-F-kaste-lys-over|lys-F-i-lyset-af|lys-F-i-et-nyt-(andet-..)-lys|lys-F-gå-ud-som-et-lys|lys-F-grønt-lys(for-noget)|lys-F-grønt/gult/rødt-lys|lys-F-føre-nogen-bag-lyset|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-tåle-dagens-lys	NC:siun:--:----	lys_1b	
+4-9	og	og	CC:----:--:----	_	
+4-10	luft	luft	NC:siuc:--:----	_	
+4-11	.	.	ZP	_	
+
+#id=5
+#text=- Set i det lys havde det nok været klogere at skille os ad lidt før.
+5-1	-	-	NC:piu#:--:----	_	
+5-2	Set	se	VT:siu#:t-:----	_	
+5-3	i	i	T-:----:--:----	_	
+5-4	det	den	PM:s-un:--:----	_	
+5-5	lys	lys|lys-1e|lys-1g|lys-1f|lys-1d|lys-1-1a-1b-1c-1f|lys-F-brænde-sit-lys-i-begge-ender|lys-F-kaste-lys-over|lys-F-levende-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-komme-for-dagens-lys|lys-F-i-lyset-af|lys-F-i-et-nyt-(andet-..)-lys|lys-F-gå-ud-som-et-lys|lys-F-grønt-lys(for-noget)|lys-F-grønt/gult/rødt-lys|lys-F-føre-nogen-bag-lyset|lys-F-der-går-et-lys-op-for-nogen|lys-F-bengalsk-lys|lys-5|lys-4|lys-3|Lys-2|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-tåle-dagens-lys|lys-F-se-lyset|lys-F-se-dagens-lys|lys-F-rank-som-et-lys|lys-F-lys-i-mørket	NC:siun:--:----	lys_F_i-et-nyt-(andet,-..)-lys	
+5-6	havde	have	VF:----:ta:----	_	
+5-7	det	det	PP:s-un:--:-3n-	_	
+5-8	nok	nok	D-:----:--:u---	_	
+5-9	været	være	VT:siu#:t-:----	_	
+5-10	klogere	klog	AC:##u#:--:c---	_	
+5-11	at	at	UI:----:--:----	_	
+5-12	skille	skille	VI:----:-a:----	_	
+5-13	os	vi	PP:p-uc:--:-1#-	_	
+5-14	ad	ad	T-:----:--:----	_	
+5-15	lidt	lidt	AD:----:--:p---	_	
+5-16	før	før	D-:----:--:u---	_	
+5-17	.	.	ZP	_	
+
+#id=6
+#text= Lad en af de dertil indrettede speedbåde sejle dig ud til den flydende natklub, som med de mange farverige lys kan identificeres på lang afstand.
+6-1	Lad	lade	VM:----:--:----	_	
+6-2	en	en	PI:s-uc:--:----	_	
+6-3	af	af	T-:----:--:----	_	
+6-4	de	den	PM:p-u#:--:----	_	
+6-5	dertil	dertil	D-:----:--:u---	_	
+6-6	indrettede	indrette	VP:p#u#:t-:----	_	
+6-7	speedbåde	speedbåd	NC:piu#:--:----	_	
+6-8	sejle	sejle	VI:----:-a:----	_	
+6-9	dig	du	PP:s-uc:--:-2#-	_	
+6-10	ud	ud	D-:----:--:u---	_	
+6-11	til	til	T-:----:--:----	_	
+6-12	den	den	PM:s-uc:--:----	_	
+6-13	flydende	flydende	AC:§§u§:--:p---	_	
+6-14	natklub	natklub	NC:siuc:--:----	_	
+6-15	,	,	ZD	_	
+6-16	som	som	US:----:--:----	_	
+6-17	med	med	T-:----:--:----	_	
+6-18	de	den	PM:p-u#:--:----	_	
+6-19	mange	mangen	AC:p#u#:--:p---	_	
+6-20	farverige	farverig	AC:p#u#:--:p---	_	
+6-21	lys	lys|lys-1-1a-1b-1c-1f|lys-1e|lys-1d|Lys-2|lys-F-bengalsk-lys|lys-F-grønt/gult/rødt-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-komme-for-dagens-lys|lys-F-kaste-lys-over|lys-F-i-lyset-af|lys-F-i-et-nyt-(andet-..)-lys|lys-F-gå-ud-som-et-lys|lys-F-grønt-lys(for-noget)|lys-F-føre-nogen-bag-lyset|lys-F-der-går-et-lys-op-for-nogen|lys-F-brænde-sit-lys-i-begge-ender|lys-5|lys-4|lys-3|lys-1g|lys-1f|lys-F-levende-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-tåle-dagens-lys|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-se-lyset|-dagens-lys|lys-F-rank-som-et-lys|lys-F-lys-i-mørket	NC:piu#:--:----	lys_4	
+6-22	kan	kunne	VF:----:sa:----	_	
+6-23	identificeres	identificere	VI:----:-p:----	_	
+6-24	på	på	T-:----:--:----	_	
+6-25	lang	lang	AC:siuc:--:p---	_	
+6-26	afstand	afstand	NC:siuc:--:----	_	
+6-27	.	.	ZP	_	
+
+#id=7
+#text= Han smider også gerne tøjet eller klæder sig i kvindetøj, inden han dratter om og går ud som  et lys.
+7-1	Han	han	PP:s-nc:--:-3n-	_	
+7-2	smider	smide	VF:----:sa:----	_	
+7-3	også	også	D-:----:--:u---	_	
+7-4	gerne	gerne	D-:----:--:u---	_	
+7-5	tøjet	tøj	NC:sdun:--:----	_	
+7-6	eller	eller	CC:----:--:----	_	
+7-7	klæder	klæde	VF:----:sa:----	_	
+7-8	sig	sig	PP:#-u#:--:-3y-	_	
+7-9	i	i	T-:----:--:----	_	
+7-10	kvindetøj	kvindetøj	NC:siun:--:----	_	
+7-11	,	,	ZD	_	
+7-12	inden	inden	CS:----:--:----	_	
+7-13	han	han	PP:s-nc:--:-3n-	_	
+7-14	dratter	dratte	VF:----:sa:----	_	
+7-15	om	om	D-:----:--:u---	_	
+7-16	og	og	CC:----:--:----	_	
+7-17	går	gå	VF:----:sa:----	_	
+7-18	ud	ud	D-:----:--:u---	_	
+7-19	som	som	US:----:--:----	_	
+7-20	et	en	PI:s-un:--:----	_	
+7-21	lys	lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-tåle-dagens-lys|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-se-lyset|lys-1-1a-1b-1c-1f|lys-1e|lys-1d|lys-5|lys-F-der-går-et-lys-op-for-nogen|lys-F-brænde-sit-lys-i-begge-ender|lys-F-bengalsk-lys|lys-4|lys-3|Lys-2|lys-1g|lys-1f|lys-F-føre-nogen-bag-lyset|lys-F-i-et-nyt-(andet-..)-lys|lys-F-se-dagens-lys|lys-F-rank-som-et-lys|lys-F-lys-i-mørket|lys-F-levende-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-komme-for-dagens-lys|lys-F-kaste-lys-over|lys-F-i-lyset-af|lys-F-gå-ud-som-et-lys|lys-F-grønt-lys(for-noget)|lys-F-grønt/gult/rødt-lys	NC:siun:--:----	lys_F_gå-ud-som-et-lys	
+7-22	.	.	ZP	_	
+
+#id=8
+#text= To lys på et bord og en flaske vin er ingen hindring.
+8-1	To	to	LC:--u-:--:----	_	
+8-2	lys	lys|lys-F-der-går-et-lys-op-for-nogen|lys-F-gå-ud-som-et-lys|lys-F-komme-for-dagens-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-se-lyset|lys-F-se-dagens-lys|lys-F-rank-som-et-lys|lys-F-lys-i-mørket|lys-F-levende-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-kaste-lys-over|lys-F-i-lyset-af|lys-F-i-et-nyt-(andet-..)-lys|lys-F-grønt-lys(for-noget)|lys-F-grønt/gult/rødt-lys|lys-F-føre-nogen-bag-lyset|t-lys-i-begge-ender|lys-F-bengalsk-lys|lys-5|lys-4|lys-3|Lys-2|lys-1g|lys-1d|lys-1-1a-1b-1c-1f|lys-1f|lys-1e	NC:piu#:--:----	lys_3	
+8-3	på	på	T-:----:--:----	_	
+8-4	et	en	PI:s-un:--:----	_	
+8-5	bord	bord	NC:siun:--:----	_	
+8-6	og	og	CC:----:--:----	_	
+8-7	en	en	PI:s-uc:--:----	_	
+8-8	flaske	flaske	NC:siuc:--:----	_	
+8-9	vin	vin	NC:siuc:--:----	_	
+8-10	er	være	VF:----:sa:----	_	
+8-11	ingen	ingen	PI:s-uc:--:----	_	
+8-12	hindring	hindring	NC:siuc:--:----	_	
+8-13	.	.	ZP	_	
+
+#id=9
+#text= Alle tænder lys og lægger blomster i græsset foran huset, mens tårerne får frit løb.
+9-1	Alle	al	PI:p-u#:--:----	_	
+9-2	tænder	tænde	VF:----:sa:----	_	
+9-3	lys	lys|lys-4|lys-1d|lys-1-1a-1b-1c-1f|lys-1e|lys-3|Lys-2|lys-1g|lys-1f|lys-F-grønt-lys(for-noget)|lys-F-kaste-lys-over|lys-F-lys-i-mørket|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-se-lyset|lys-F-se-dagens-lys|lys-F-rank-som-et-lys|lys-F-levende-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-komme-for-dagens-lys|lys-F-i-lyset-af|lys-F-i-et-nyt-(andet-..)-lys|lys-F-gå-ud-som-et-lys|lys-F-grønt/gult/rødt-lys|lys-F-føre-nogen-bag-lyset|lys-F-der-går-et-lys-op-for-nogen|lys-F-brænde-sit-lys-i-begge-ender|lys-F-bengalsk-lys|lys-5|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-tåle-dagens-lys	NC:siun:--:----	lys_3	
+9-4	og	og	CC:----:--:----	_	
+9-5	lægger	lægge	VF:----:sa:----	_	
+9-6	blomster	blomst	NC:piu#:--:----	_	
+9-7	i	i	T-:----:--:----	_	
+9-8	græsset	græs	NC:sdun:--:----	_	
+9-9	foran	foran	T-:----:--:----	_	
+9-10	huset	hus	NC:sdun:--:----	_	
+9-11	,	,	ZD	_	
+9-12	mens	mens	CS:----:--:----	_	
+9-13	tårerne	tåre	NC:pdu#:--:----	_	
+9-14	får	få	VF:----:sa:----	_	
+9-15	frit	fri	AC:siun:--:p---	_	
+9-16	løb	løb	NC:siun:--:----	_	
+9-17	.	.	ZP	_	
+
+#id=10
+#text= Den 1. maj så Szhirleys første barn lyset, og fødslen forløb ifølge Billed-Bladet fint.
+10-1	Den	den	PM:s-uc:--:----	_	
+10-2	1	1	LO:--u#:--:----	_	
+10-3	.	.	ZP	_	
+10-4	maj	maj	NC:siuc:--:----	_	
+10-5	så	så	D-:----:--:u---	_	
+10-6	Szhirleys	Szhirleys	NP:sig#:--:----	_	
+10-7	første	første	AC:§§u§:--:p---	_	
+10-8	barn	barn	NC:siun:--:----	_	
+10-9	lyset	lys|lys-4|lys-3|lys-1d|lys-1e|lys-1-1a-1b-1c-1f|Lys-2|lys-1g|lys-1f|lys-F-bengalsk-lys|lys-F-grønt/gult/rødt-lys|i-lyset-af|lys-F-levende-lys|lys-F-se-lyset|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-tåle-dagens-lys|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-se-dagens-lys|lys-F-rank-som-et-lys|lys-F-lys-i-mørket|lys-F-lede/søge-med-lys-og-lygte|lys-F-komme-for-dagens-lys|lys-F-kaste-lys-over|lys-F-i-et-nyt-(andet-..)-lys|lys-F-gå-ud-som-et-lys|lys-F-grønt-lys(for-noget)|lys-F-føre-nogen-bag-lyset|lys-F-der-går-et-lys-op-for-nogen|lys-F-brænde-sit-lys-i-begge-ender|lys-5	NC:sdun:--:----	lys_F_se-dagens-lys	
+10-10	,	,	ZD	_	
+10-11	og	og	CC:----:--:----	_	
+10-12	fødslen	fødsel	NC:sduc:--:----	_	
+10-13	forløb	forløbe	VF:----:ta:----	_	
+10-14	ifølge	ifølge	T-:----:--:----	_	
+10-15	Billed	Billed	NP:siu#:--:----	_	
+10-16	-	-	ZH	_	
+10-17	Bladet	blad	NC:sdun:--:----	_	
+10-18	fint	fin	AD:----:--:p---	_	
+10-19	.	.	ZP	_	
+
+#id=11
+#text= Efter Michael Jacksons død har de tre unge mennesker dog fået lov til at se dagens lys, og vi andre har ved selvsyn kunnet konstatere, at det er tre søde og nydelige børn, sangeren har efterladt.
+11-1	Efter	efter	T-:----:--:----	_	
+11-2	Michael	Michael	NP:siu#:--:----	_	
+11-3	Jacksons	Jackson	NP:sig#:--:----	_	
+11-4	død	død	NC:siuc:--:----	_	
+11-5	har	have	VF:----:sa:----	_	
+11-6	de	den	PM:p-u#:--:----	_	
+11-7	tre	tre	LC:--u-:--:----	_	
+11-8	unge	ung	AC:p#u#:--:p---	_	
+11-9	mennesker	menneske	NC:piu#:--:----	_	
+11-10	dog	dog	D-:----:--:u---	_	
+11-11	fået	få	VT:siu#:t-:----	_	
+11-12	lov	lov	NC:§§u§:--:----	_	
+11-13	til	til	T-:----:--:----	_	
+11-14	at	at	UI:----:--:----	_	
+11-15	se	se	VI:----:-a:----	_	
+11-16	dagens	dag	NC:sdgc:--:----	_	
+11-17	lys	lys|lys-1f|lys-1e|lys-1d|lys-1-1a-1b-1c-1f|lys-1g|lys-5|lys-F-føre-nogen-bag-lyset|lys-F-i-et-nyt-(andet-..)-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-rank-som-et-lys|lys-F-lys-i-mørket|lys-F-levende-lys|lys-F-komme-for-dagens-lys|lys-F-kaste-lys-over|lys-F-i-lyset-af|lys-F-gå-ud-som-et-lys|lys-F-grønt-lys(for-noget)|lys-F-grønt/gult/rødt-lys|lys-F-der-går-et-lys-op-for-nogen|lys-F-brænde-sit-lys-i-begge-ender|lys-F-bengalsk-lys|lys-4|lys-3|Lys-2|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-tåle-dagens-lys|lys-F-stille/sætte-i-et-dårligt-lys	NC:siun:--:----	lys_1b	
+11-18	,	,	ZD	_	
+11-19	og	og	CC:----:--:----	_	
+11-20	vi	vi	PP:p-nc:--:-1n-	_	
+11-21	andre	anden	PI:p-u#:--:----	_	
+11-22	har	have	VF:----:sa:----	_	
+11-23	ved	ved	T-:----:--:----	_	
+11-24	selvsyn	selvsyn	NC:siun:--:----	_	
+11-25	kunnet	kunne	VT:siu#:t-:----	_	
+11-26	konstatere	konstatere	VI:----:-a:----	_	
+11-27	,	,	ZD	_	
+11-28	at	at	CS:----:--:----	_	
+11-29	det	det	PP:s-un:--:-3n-	_	
+11-30	er	være	VF:----:sa:----	_	
+11-31	tre	tre	LC:--u-:--:----	_	
+11-32	søde	sød	AC:p#u#:--:p---	_	
+11-33	og	og	CC:----:--:----	_	
+11-34	nydelige	nydelig	AC:p#u#:--:p---	_	
+11-35	børn	barn	NC:piu#:--:----	_	
+11-36	,	,	ZD	_	
+11-37	sangeren	sanger	NC:sduc:--:----	_	
+11-38	har	have	VF:----:sa:----	_	
+11-39	efterladt	efterlade	VT:siu#:t-:----	_	
+11-40	.	.	ZP	_	
+
+#id=12
+#text= Men kort efter kom endnu en mulig farmand frem i lyset.
+12-1	Men	men	CC:----:--:----	_	
+12-2	kort	kort	AD:----:--:p---	_	
+12-3	efter	efter	D-:----:--:u---	_	
+12-4	kom	komme	VF:----:ta:----	_	
+12-5	endnu	endnu	D-:----:--:u---	_	
+12-6	en	en	PI:s-uc:--:----	_	
+12-7	mulig	mulig	AC:siuc:--:p---	_	
+12-8	farmand	farmand	NC:siuc:--:----	_	
+12-9	frem	frem	D-:----:--:u---	_	
+12-10	i	i	T-:----:--:----	_	
+12-11	lyset	lys|lys-F-komme-for-dagens-lys|lys-F-rank-som-et-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-se-lyset|lys-F-se-dagens-lys|lys-F-lys-i-mørket|lys-F-levende-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-kaste-lys-over|lys-F-i-lyset-af|lys-F-i-et-nyt-(andet-..)-lys|lys-1-1a-1b-1c-1f|lys-1e|lys-1d|lys-1f|lys-4|lys-F-der-går-et-lys-op-for-nogen|lys-F-grønt/gult/rødt-lys|lys-F-grønt-lys(for-noget)|lys-F-føre-nogen-bag-lyset|lys-F-brænde-sit-lys-i-begge-ender|lys-F-bengalsk-lys|lys-5|lys-3|Lys-2|lys-1g|lys-F-gå-ud-som-et-lys	NC:sdun:--:----	lys_F_komme/bringe-frem-i-lyset	
+12-12	.	.	ZP	_	
+
+#id=13
+#text= Det var ikke svært at orientere sig i havnebyen i Minnesota, for der var både lys i fyrtårnet og et kæmpe fyrværkerishow for at fejre 100-årsdagen for fyrtårnet.
+13-1	Det	det	PP:s-un:--:-3n-	_	
+13-2	var	være	VF:----:ta:----	_	
+13-3	ikke	ikke	D-:----:--:u---	_	
+13-4	svært	svær	AC:siun:--:p---	_	
+13-5	at	at	UI:----:--:----	_	
+13-6	orientere	orientere	VI:----:-a:----	_	
+13-7	sig	sig	PP:#-u#:--:-3y-	_	
+13-8	i	i	T-:----:--:----	_	
+13-9	havnebyen	havneby	NC:sduc:--:----	_	
+13-10	i	i	T-:----:--:----	_	
+13-11	Minnesota	Minnesota	NP:siu#:--:----	_	
+13-12	,	,	ZD	_	
+13-13	for	for	CC:----:--:----	_	
+13-14	der	der	US:----:--:----	_	
+13-15	var	være	VF:----:ta:----	_	
+13-16	både	både	D-:----:--:u---	_	
+13-17	lys	lys|lys-1-1a-1b-1c-1f|lys-1e|Lys-2|lys-1g|lys-1f|lys-1d|lys-3|lys-F-brænde-sit-lys-i-begge-ender|lys-F-grønt-lys(for-noget)|lys-F-kaste-lys-over|lys-F-lys-i-mørket|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-tåle-dagens-lys|lys-F-se-lyset|lys-F-se-dagens-lys|lys-F-rank-som-et-lys|lys-F-levende-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-komme-for-dagens-lys|lys-F-i-lyset-af|lys-F-i-et-nyt-(andet-..)-lys|lys-F-gå-ud-som-et-lys|lys-F-grønt/gult/rødt-lys|lys-F-føre-nogen-bag-lyset|lys-F-der-går-et-lys-op-for-nogen|lys-F-bengalsk-lys|lys-5|lys-4	NC:siun:--:----	lys_1c	
+13-18	i	i	T-:----:--:----	_	
+13-19	fyrtårnet	fyrtårn	NC:sdun:--:----	_	
+13-20	og	og	CC:----:--:----	_	
+13-21	et	en	PI:s-un:--:----	_	
+13-22	kæmpe	kæmpe	AC:§§u§:--:p---	_	
+13-23	fyrværkerishow	fyrværkerishow	NC:siun:--:----	_	
+13-24	for	for	T-:----:--:----	_	
+13-25	at	at	UI:----:--:----	_	
+13-26	fejre	fejre	VI:----:-a:----	_	
+13-27	100	100	LC:--u-:--:----	_	
+13-28	-	-	ZH	_	
+13-29	årsdagen	årsdag	NC:sduc:--:----	_	
+13-30	for	for	T-:----:--:----	_	
+13-31	fyrtårnet	fyrtårn	NC:sdun:--:----	_	
+13-32	.	.	ZP	_	
+
+#id=14
+#text= I det lys virker det nærmest komisk, at hoffet dagen efter SE og HØRs afsløring valgte at kalde kongehusets kommunikationschef hjem fra ferie og gøre nyheden officiel - og fastholde, at det skam var helt efter planen.
+14-1	I	i	T-:----:--:----	_	
+14-2	det	den	PM:s-un:--:----	_	
+14-3	lys	lys|Lys-2|lys-F-bengalsk-lys|lys-F-grønt/gult/rødt-lys|lys-F-i-lyset-af|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-kaste-lys-over|lys-F-i-et-nyt-(andet-..)-lys|lys-F-gå-ud-som-et-lys|lys-F-grønt-lys(for-noget)|lys-F-føre-nogen-bag-lyset|s-F-der-går-et-lys-op-for-nogen|lys-F-brænde-sit-lys-i-begge-ender|lys-5|lys-4|lys-3|lys-1g|lys-1d|lys-1e|lys-1-1a-1b-1c-1f|lys-1f|lys-F-levende-lys|lys-F-se-lyset|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-se-dagens-lys|lys-F-rank-som-et-lys|lys-F-lys-i-mørket	NC:siun:--:----	lys_F_i-et-nyt-(andet,-..)-lys	
+14-4	virker	virke	VF:----:sa:----	_	
+14-5	det	den	PM:s-un:--:----	_	
+14-6	nærmest	nær	AD:----:--:s---	_	
+14-7	komisk	komisk	AC:siu§:--:p---	_	
+14-8	,	,	ZD	_	
+14-9	at	at	CS:----:--:----	_	
+14-10	hoffet	hof	NC:sdun:--:----	_	
+14-11	dagen	dag	NC:sduc:--:----	_	
+14-12	efter	efter	T-:----:--:----	_	
+14-13	SE	SE	NP:siu#:--:----	_	
+14-14	og	og	CC:----:--:----	_	
+14-15	HØRs	hør	NC:sigc:--:----	_	
+14-16	afsløring	afsløring	NC:siuc:--:----	_	
+14-17	valgte	vælge	VF:----:ta:----	_	
+14-18	at	at	UI:----:--:----	_	
+14-19	kalde	kalde	VI:----:-a:----	_	
+14-20	kongehusets	kongehus	NC:sdgn:--:----	_	
+14-21	kommunikationschef	kommunikationschef	NC:siuc:--:----	_	
+14-22	hjem	hjem	D-:----:--:u---	_	
+14-23	fra	fra	T-:----:--:----	_	
+14-24	ferie	ferie	NC:siuc:--:----	_	
+14-25	og	og	CC:----:--:----	_	
+14-26	gøre	gøre	VI:----:-a:----	_	
+14-27	nyheden	nyhed	NC:sduc:--:----	_	
+14-28	officiel	officiel	AC:siuc:--:p---	_	
+14-29	-	-	NC:piu#:--:----	_	
+14-30	og	og	CC:----:--:----	_	
+14-31	fastholde	fastholde	VI:----:-a:----	_	
+14-32	,	,	ZD	_	
+14-33	at	at	CS:----:--:----	_	
+14-34	det	det	PP:s-un:--:-3n-	_	
+14-35	skam	skam	D-:----:--:u---	_	
+14-36	var	være	VF:----:ta:----	_	
+14-37	helt	hel	AD:----:--:p---	_	
+14-38	efter	efter	T-:----:--:----	_	
+14-39	planen	plan	NC:sduc:--:----	_	
+14-40	.	.	ZP	_	
+
+#id=15
+#text=Tvivlen nagede dog hans kone, og da en yderligere ransagning i Randers fik både blodtilsølet tøj og en kniv frem i lyset, begyndte brikkerne at falde på plads.
+15-1	Tvivlen	tvivl	NC:sduc:--:----	_	
+15-2	nagede	nage	VF:----:ta:----	_	
+15-3	dog	dog	D-:----:--:u---	_	
+15-4	hans	hans	PO:#--#:--:-3ns	_	
+15-5	kone	kone	NC:siuc:--:----	_	
+15-6	,	,	ZD	_	
+15-7	og	og	CC:----:--:----	_	
+15-8	da	da	CS:----:--:----	_	
+15-9	en	en	PI:s-uc:--:----	_	
+15-10	yderligere	yderlig	AC:##u#:--:c---	_	
+15-11	ransagning	ransagning	NC:siuc:--:----	_	
+15-12	i	i	T-:----:--:----	_	
+15-13	Randers	Randers	NP:siu#:--:----	_	
+15-14	fik	få	VF:----:ta:----	_	
+15-15	både	både	D-:----:--:u---	_	
+15-16	blodtilsølet	blodtilsølet	AC:siun:--:p---	_	
+15-17	tøj	tøj	NC:siun:--:----	_	
+15-18	og	og	CC:----:--:----	_	
+15-19	en	en	PI:s-uc:--:----	_	
+15-20	kniv	kniv	NC:siuc:--:----	_	
+15-21	frem	frem	D-:----:--:u---	_	
+15-22	i	i	T-:----:--:----	_	
+15-23	lyset	lys|lys-1d|lys-1-1a-1b-1c-1f|lys-1g|lys-3|lys-5|lys-F-føre-nogen-bag-lyset|lys-F-i-et-nyt-(andet-..)-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-lys-i-mørket|lys-F-se-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-tåle-dagens-lys|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-se-lyset|lys-F-rank-som-et-lys|lys-F-levende-lys|lys-F-komme-for-dagens-lys|lys-F-kaste-lys-over|lys-F-i-lyset-af|lys-F-gå-ud-som-et-lys|lys-F-grønt-lys(for-noget)|lys-F-grønt/gult/rødt-lys|lys-F-der-går-et-lys-op-for-nogen|lys-F-brænde-sit-lys-i-begge-ender|lys-F-bengalsk-lys|lys-4|Lys-2|lys-1f|lys-1e	NC:sdun:--:----	lys_F_komme/bringe-frem-i-lyset	
+15-24	,	,	ZD	_	
+15-25	begyndte	begynde	VF:----:ta:----	_	
+15-26	brikkerne	brik	NC:pdu#:--:----	_	
+15-27	at	at	UI:----:--:----	_	
+15-28	falde	falde	VI:----:-a:----	_	
+15-29	på	på	T-:----:--:----	_	
+15-30	plads	plads	NC:siuc:--:----	_	
+15-31	.	.	ZP	_	
+
+#id=16
+#text= Én til at skifte pæren - og to til at ringe på naboens døre og spørge, om de har set lyset
+16-1	Én	en	PI:s-uc:--:----	_	
+16-2	til	til	T-:----:--:----	_	
+16-3	at	at	UI:----:--:----	_	
+16-4	skifte	skifte	VI:----:-a:----	_	
+16-5	pæren	pære	NW:----:--:----	_	
+16-6	-	-	ZH	_	
+16-7	og	og	CC:----:--:----	_	
+16-8	to	to	LC:--u-:--:----	_	
+16-9	til	til	T-:----:--:----	_	
+16-10	at	at	UI:----:--:----	_	
+16-11	ringe	ringe	VI:----:-a:----	_	
+16-12	på	på	T-:----:--:----	_	
+16-13	naboens	nabo	NC:sdgc:--:----	_	
+16-14	døre	dør	NC:piu#:--:----	_	
+16-15	og	og	CC:----:--:----	_	
+16-16	spørge	spørge	VI:----:-a:----	_	
+16-17	,	,	ZD	_	
+16-18	om	om	CS:----:--:----	_	
+16-19	de	de	PP:p-n#:--:-3n-	_	
+16-20	har	have	VF:----:sa:----	_	
+16-21	set	se	VT:siu#:t-:----	_	
+16-22	lyset	lys|lys-1d|lys-1e|lys-1-1a-1b-1c-1f|lys-1f|lys-4|lys-F-bengalsk-lys|lys-F-der-går-et-lys-op-for-nogen|lys-F-gå-ud-som-et-lys|lys-F-i-lyset-af|lys-F-komme-for-dagens-lys|lys-F-rank-som-et-lys|lys-F-se-lyset|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-se-dagens-lys|lys-F-lys-i-mørket|lys-F-levende-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-kaste-lys-over|lys-F-i-et-nyt-(andet-..)-lys|lys-F-grønt-lys(for-noget)|lys-F-grønt/gult/rødt-lys|lys-F-føre-nogen-bag-lyset|lys-F-brænde-sit-lys-i-begge-ender|lys-5|lys-3|Lys-2|lys-1g	NC:sdun:--:----	lys_F_se-lyset	
+
+#id=17
+#text=Annes mand var ikke en mand, der brugte mange rosende ord, så en dag ville hun hjælhjælpe ham lidt på gled og pe sagde: - Skat, jeg ved godt, jeg ikke er lige så smuk som mange andre unge pipiger. - Det skal du ikke tænke på, sagde han. - For om dagen er jeg på arbejde, om aftenen ser vi TV det meste af tiden - og om natten er lyset slukket
+17-1	Annes	Anne	NP:sig#:--:----	_	
+17-2	mand	mand	NC:siuc:--:----	_	
+17-3	var	være	VF:----:ta:----	_	
+17-4	ikke	ikke	D-:----:--:u---	_	
+17-5	en	en	PI:s-uc:--:----	_	
+17-6	mand	mand	NC:siuc:--:----	_	
+17-7	,	,	ZD	_	
+17-8	der	der	US:----:--:----	_	
+17-9	brugte	bruge	VF:----:ta:----	_	
+17-10	mange	mangen	AC:p#u#:--:p---	_	
+17-11	rosende	rose	VP:##u#:s-:----	_	
+17-12	ord	ord	NC:siun:--:----	_	
+17-13	,	,	ZD	_	
+17-14	så	så	CS:----:--:----	_	
+17-15	en	en	PI:s-uc:--:----	_	
+17-16	dag	dag	NC:siuc:--:----	_	
+17-17	ville	ville	VF:----:ta:----	_	
+17-18	hun	hun	PP:s-nc:--:-3n-	_	
+17-19	hjælhjælpe	hjælhjælpe	VI:----:-a:----	_	
+17-20	ham	han	PP:s-uc:--:-3n-	_	
+17-21	lidt	lidt	AD:----:--:p---	_	
+17-22	på	på	T-:----:--:----	_	
+17-23	gled	gled	NC:§§u§:--:----	_	
+17-24	og	og	CC:----:--:----	_	
+17-25	pe	pE	XS:----:--:----	_	
+17-26	sagde	sige	VF:----:ta:----	_	
+17-27	:	:	ZP	_	
+17-28	-	-	ZH	_	
+17-29	Skat	skat	NC:siuc:--:----	_	
+17-30	,	,	ZD	_	
+17-31	jeg	jeg	PP:s-nc:--:-1n-	_	
+17-32	ved	vide	VF:----:sa:----	_	
+17-33	godt	god	AD:----:--:p---	_	
+17-34	,	,	ZD	_	
+17-35	jeg	jeg	PP:s-nc:--:-1n-	_	
+17-36	ikke	ikke	D-:----:--:u---	_	
+17-37	er	være	VF:----:sa:----	_	
+17-38	lige	lige	D-:----:--:u---	_	
+17-39	så	så	D-:----:--:u---	_	
+17-40	smuk	smuk	AC:siuc:--:p---	_	
+17-41	som	som	US:----:--:----	_	
+17-42	mange	mangen	AC:p#u#:--:p---	_	
+17-43	andre	anden	PI:p-u#:--:----	_	
+17-44	unge	ung	AC:p#u#:--:p---	_	
+17-45	pipiger	pipige	NC:piu#:--:----	_	
+17-46	.	.	ZP	_	
+17-47	-	-	ZH	_	
+17-48	Det	Det	XY:----:--:----	_	
+17-49	skal	skulle	VF:----:sa:----	_	
+17-50	du	du	PP:s-nc:--:-2n-	_	
+17-51	ikke	ikke	D-:----:--:u---	_	
+17-52	tænke	tænke	VI:----:-a:----	_	
+17-53	på	på	T-:----:--:----	_	
+17-54	,	,	ZD	_	
+17-55	sagde	sige	VF:----:ta:----	_	
+17-56	han	han	PP:s-nc:--:-3n-	_	
+17-57	.	.	ZP	_	
+17-58	-	-	ZH	_	
+17-59	For	for	CC:----:--:----	_	
+17-60	om	om	T-:----:--:----	_	
+17-61	dagen	dag	NC:sduc:--:----	_	
+17-62	er	være	VF:----:sa:----	_	
+17-63	jeg	jeg	PP:s-nc:--:-1n-	_	
+17-64	på	på	T-:----:--:----	_	
+17-65	arbejde	arbejde	NC:siun:--:----	_	
+17-66	,	,	ZD	_	
+17-67	om	om	CS:----:--:----	_	
+17-68	aftenen	aften	NC:sduc:--:----	_	
+17-69	ser	se	VF:----:sa:----	_	
+17-70	vi	vi	PP:p-nc:--:-1n-	_	
+17-71	TV	tv	NC:siun:--:----	_	
+17-72	det	den	PM:s-un:--:----	_	
+17-73	meste	megen	AC:sdu#:--:s---	_	
+17-74	af	af	T-:----:--:----	_	
+17-75	tiden	tid	NW:----:--:----	_	
+17-76	-	-	ZH	_	
+17-77	og	og	CC:----:--:----	_	
+17-78	om	om	T-:----:--:----	_	
+17-79	natten	nat	NC:sduc:--:----	_	
+17-80	er	være	VF:----:sa:----	_	
+17-81	lyset	lys|lys-1e|lys-1g|lys-3|lys-4|Lys-2|lys-1f|lys-1d|lys-1-1a-1b-1c-1f|lys-5|lys-F-brænde-sit-lys-i-begge-ender|lys-F-føre-nogen-bag-lyset|lys-F-grønt-lys(for-noget)|lys-F-kaste-lys-over|lys-F-lede/søge-med-lys-og-lygte|lys-F-lys-i-mørket|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-tåle-dagens-lys|lys-F-se-lyset|lys-F-se-dagens-lys|lys-F-rank-som-et-lys|lys-F-levende-lys|lys-F-komme-for-dagens-lys|lys-F-i-lyset-af|lys-F-i-et-nyt-(andet-..)-lys|lys-F-gå-ud-som-et-lys|lys-F-grønt/gult/rødt-lys|r-et-lys-op-for-nogen|lys-F-bengalsk-lys	NC:sdun:--:----	lys_1c	
+17-82	slukket	slukke	VT:siu#:t-:----	_	
+
+#id=18
+#text=- En naturlig udvikling set i lyset af at jeg er blevet ældre og har fundet mere ro indeni, siger Anne.
+18-1	-	-	NC:piu#:--:----	_	
+18-2	En	en	PI:s-uc:--:----	_	
+18-3	naturlig	naturlig	AC:siuc:--:p---	_	
+18-4	udvikling	udvikling	NC:siuc:--:----	_	
+18-5	set	se	VT:siu#:t-:----	_	
+18-6	i	i	T-:----:--:----	_	
+18-7	lyset	lys|lys-4|lys-F-bengalsk-lys|lys-F-der-går-et-lys-op-for-nogen|lys-F-grønt/gult/rødt-lys|lys-F-gå-ud-som-et-lys|lys-F-i-lyset-af|lys-F-levende-lys|lys-F-rank-som-et-lys|s-F-se-lyset|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-se-dagens-lys|lys-F-lys-i-mørket|lys-F-lede/søge-med-lys-og-lygte|lys-F-komme-for-dagens-lys|lys-F-kaste-lys-over|lys-F-i-et-nyt-(andet-..)-lys|lys-F-grønt-lys(for-noget)|lys-F-føre-nogen-bag-lyset|lys-F-brænde-sit-lys-i-begge-ender|lys-5|lys-3|lys-1d|lys-1e|lys-1-1a-1b-1c-1f|Lys-2|lys-1g|lys-1f	NC:sdun:--:----	lys_F_i-lyset-af	
+18-8	af	af	T-:----:--:----	_	
+18-9	at	at	CS:----:--:----	_	
+18-10	jeg	jeg	PP:s-nc:--:-1n-	_	
+18-11	er	være	-:sa:----	_	
+18-12	blevet	blive	VT:siu#:t-:----	_	
+18-13	ældre	gammel	AC:##u#:--:c---	_	
+18-14	og	og	CC:----:--:----	_	
+18-15	har	have	VF:----:sa:----	_	
+18-16	fundet	finde	VT:siu#:t-:----	_	
+18-17	mere	megen	AC:##u#:--:c---	_	
+18-18	ro	ro	NC:siuc:--:----	_	
+18-19	indeni	indeni	T-:----:--:----	_	
+18-20	,	,	ZD	_	
+18-21	siger	sige	VF:----:sa:----	_	
+18-22	Anne	Anne	NP:siu#:--:----	_	
+18-23	.	.	ZP	_	
+
+#id=19
+#text=To dage efter at den første " X Factor"-baby kom til verden, så endnu en " X Factor"-baby dagens lys.
+19-1	To	to	LC:--u-:--:----	_	
+19-2	dage	dag	NC:piu#:--:----	_	
+19-3	efter	efter	T-:----:--:----	_	
+19-4	at	at	CS:----:--:----	_	
+19-5	den	den	PM:s-uc:--:----	_	
+19-6	første	første	AC:§§u§:--:p---	_	
+19-7	"	"	ZI	_	
+19-8	X	X	NC:siun:--:----	_	
+19-9	Factor	factor	NC:siuc:--:----	_	
+19-10	"	"	ZI	_	
+19-11	-	-	ZH	_	
+19-12	baby	baby	NC:siuc:--:----	_	
+19-13	kom	komme	VF:----:ta:----	_	
+19-14	til	til	T-:----:--:----	_	
+19-15	verden	verden	NC:siuc:--:----	_	
+19-16	,	,	ZD	_	
+19-17	så	så	D-:----:--:u---	_	
+19-18	endnu	endnu	D-:----:--:u---	_	
+19-19	en	en	PI:s-uc:--:----	_	
+19-20	"	"	ZI	_	
+19-21	X	X	NC:siun:--:----	_	
+19-22	Factor	factor	NC:siuc:--:----	_	
+19-23	"	"	ZI	_	
+19-24	-	-	ZH	_	
+19-25	baby	baby	XF:----:--:----	_	
+19-26	dagens	dag	NC:sdgc:--:----	_	
+19-27	lys	lys|lys-1g|lys-3|lys-5|lys-F-brænde-sit-lys-i-begge-ender|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys|lys-F-der-går-et-lys-op-for-nogen|lys-F-bengalsk-lys|lys-4|Lys-2|lys-1f|lys-1-1a-1b-1c-1f|lys-1e|lys-1d|lys-F-grønt-lys(for-noget)|lys-F-i-et-nyt-(andet-..)-lys|lys-F-kaste-lys-over|lys-F-lede/søge-med-lys-og-lygte|lys-F-se-dagens-lys|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-tåle-dagens-lys|lys-F-se-lyset|lys-F-rank-som-et-lys|lys-F-lys-i-mørket|lys-F-levende-lys|lys-F-komme-for-dagens-lys|lys-F-i-lyset-af|lys-F-gå-ud-som-et-lys	NC:siun:--:----	lys_F_se-dagens-lys	
+19-28	.	.	ZP	_	
+
+#id=20
+#text=Gabrielles flirtende mor dukker op med et tilbud, der også bringer en hemmelighed for dagens lys, mens en tømmermandsramt Bree babysitter Lynette og Toms unger.
+20-1	Gabrielles	Gabrielles	NP:sig#:--:----	_	
+20-2	flirtende	flirte	VP:##u#:s-:----	_	
+20-3	mor	mor	NC:siuc:--:----	_	
+20-4	dukker	dukke	VF:----:sa:----	_	
+20-5	op	op	D-:----:--:u---	_	
+20-6	med	med	T-:----:--:----	_	
+20-7	et	en	PI:s-un:--:----	_	
+20-8	tilbud	tilbud	NC:siun:--:----	_	
+20-9	,	,	ZD	_	
+20-10	der	der	US:----:--:----	_	
+20-11	også	også	D-:----:--:u---	_	
+20-12	bringer	bringe	VF:----:sa:----	_	
+20-13	en	en	PI:s-uc:--:----	_	
+20-14	hemmelighed	hemmelighed	NC:siuc:--:----	_	
+20-15	for	for	T-:----:--:----	_	
+20-16	dagens	dag	NC:sdgc:--:----	_	
+20-17	lys	lys|lys-1d|lys-1f|Lys-2|lys-4|lys-F-bengalsk-lys|lys-F-der-går-et-lys-op-for-nogen|lys-F-grønt/gult/rødt-lys|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-grønt-lys(for-noget)|lys-F-føre-nogen-bag-lyset|lys-F-brænde-sit-lys-i-begge-ender|lys-5|lys-3|lys-1g|lys-1e|lys-1-1a-1b-1c-1f|lys-F-i-lyset-af|lys-F-komme-for-dagens-lys|lys-F-levende-lys|lys-F-rank-som-et-lys|lys-F-se-lyset|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-se-dagens-lys|lys-F-lys-i-mørket|lys-F-lede/søge-med-lys-og-lygte|lys-F-kaste-lys-over	NC:siun:--:----	lys_F_komme-for-dagens-lys	
+20-18	,	,	ZD	_	
+20-19	mens	mens	CS:----:--:----	_	
+20-20	en	en	PI:s-uc:--:----	_	
+20-21	tømmermandsramt	tømmermandsramme	VT:siu#:t-:----	_	
+20-22	Bree	Bree	NP:siu#:--:----	_	
+20-23	babysitter	babysitte	VF:----:sa:----	_	
+20-24	Lynette	Lynette	NP:siu#:--:----	_	
+20-25	og	og	CC:----:--:----	_	
+20-26	Toms	Tom	NP:sig#:--:----	_	
+20-27	unger	unge	NC:piu#:--:----	_	
+20-28	.	.	ZP	_	
+
+#id=21
+#text=Først når instruktøren er helt tilfreds med udtrykket, skuespillernes betoning, lyset og alt det andet, er scenen " i kassen".
+21-1	Først	først	D-:----:--:u---	_	
+21-2	når	når	CS:----:--:----	_	
+21-3	instruktøren	instruktør	NC:sduc:--:----	_	
+21-4	er	være	VF:----:sa:----	_	
+21-5	helt	hel	AD:----:--:p---	_	
+21-6	tilfreds	tilfreds	AD:----:--:p---	_	
+21-7	med	med	T-:----:--:----	_	
+21-8	udtrykket	udtryk	NC:sdun:--:----	_	
+21-9	,	,	ZD	_	
+21-10	skuespillernes	skuespillernes	XY:----:--:----	_	
+21-11	betoning	betoning	NC:siuc:--:----	_	
+21-12	,	,	ZD	_	
+21-13	lyset	lys|lys-3|lys-5|lys-F-brænde-sit-lys-i-begge-ender|lys-F-der-går-et-lys-op-for-nogen|lys-F-bengalsk-lys|lys-4|Lys-2|lys-1d|lys-1-1a-1b-1c-1f|lys-1e|lys-1g|lys-1f|lys-F-føre-nogen-bag-lyset|lys-F-grønt-lys(for-noget)|lys-F-i-et-nyt-(andet-..)-lys|lys-F-kaste-lys-over|lys-F-lede/søge-med-lys-og-lygte|lys-F-lys-i-mørket|lys-F-se-dagens-lys|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-tåle-dagens-lys|lys-F-se-lyset|lys-F-rank-som-et-lys|lys-F-levende-lys|lys-F-komme-for-dagens-lys|lys-F-i-lyset-af|lys-F-gå-ud-som-et-lys|lys-F-grønt/gult/rødt-lys	NC:sdun:--:----	lys_2	
+21-14	og	og	CC:----:--:----	_	
+21-15	alt	al	PI:s-un:--:----	_	
+21-16	det	den	PM:s-un:--:----	_	
+21-17	andet	to	LO:--un:--:----	_	
+21-18	,	,	ZD	_	
+21-19	er	være	VF:----:sa:----	_	
+21-20	scenen	scene	NC:sduc:--:----	_	
+21-21	"	"	ZI	_	
+21-22	i	i	T-:----:--:----	_	
+21-23	kassen	kasse	NC:sduc:--:----	_	
+21-24	"	"	ZI	_	
+21-25	.	.	ZP	_	
+
+#id=22
+#text= Jeg har sagt, at jeg fylder lejligheden med mine lys, diamantrammer, produkter og andre pigeting.
+22-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+22-2	har	have	VF:----:sa:----	_	
+22-3	sagt	sige	VT:siu#:t-:----	_	
+22-4	,	,	ZD	_	
+22-5	at	at	CS:----:--:----	_	
+22-6	jeg	jeg	PP:s-nc:--:-1n-	_	
+22-7	fylder	fylde	VF:----:sa:----	_	
+22-8	lejligheden	lejlighed	NC:sduc:--:----	_	
+22-9	med	med	T-:----:--:----	_	
+22-10	mine	min	PO:p--#:--:-1ns	_	
+22-11	lys	lys|lys-5|lys-1d|lys-1f|Lys-2|lys-4|lys-3|lys-1g|lys-1e|lys-1-1a-1b-1c-1f|lys-F-bengalsk-lys|lys-F-der-går-et-lys-op-for-nogen|lys-F-grønt/gult/rødt-lys|lys-F-gå-ud-som-et-lys|lys-F-i-lyset-af|lys-F-komme-for-dagens-lys|lys-F-levende-lys|lys-F-rank-som-et-lys|lys-F-se-lyset|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-se-dagens-lys|lys-F-lys-i-mørket|lys-F-lede/søge-med-lys-og-lygte|lys-F-kaste-lys-over|lys-F-i-et-nyt-(andet-..)-lys|lys-F-grønt-lys(for-noget)|lys-F-føre-nogen-bag-lyset|lys-F-brænde-sit-lys-i-begge-ender	NC:piu#:--:----	lys_3	
+22-12	,	,	ZD	_	
+22-13	diamantrammer	diamantramme	NC:piu#:--:----	_	
+22-14	,	,	ZD	_	
+22-15	produkter	produkt	NC:piu#:--:----	_	
+22-16	og	og	CC:----:--:----	_	
+22-17	andre	anden	PI:p-u#:--:----	_	
+22-18	pigeting	pigeting	NC:piu#:--:----	_	
+22-19	.	.	ZP	_	
+
+#id=23
+#text=Tina Lund har nu fundet sin indre kælling frem og ført hende ud i lyset.
+23-1	Tina	Tina	NP:siu#:--:----	_	
+23-2	Lund	Lund	NP:siu#:--:----	_	
+23-3	har	have	VF:----:sa:----	_	
+23-4	nu	nu	D-:----:--:u---	_	
+23-5	fundet	finde	VT:siu#:t-:----	_	
+23-6	sin	sin	PO:s--c:--:-3ys	_	
+23-7	indre	indre	AC:§§u§:--:p---	_	
+23-8	kælling	kælling	NC:siuc:--:----	_	
+23-9	frem	frem	--:u---	_	
+23-10	og	og	CC:----:--:----	_	
+23-11	ført	føre	VT:siu#:t-:----	_	
+23-12	hende	hun	PP:s-uc:--:-3n-	_	
+23-13	ud	ud	D-:----:--:u---	_	
+23-14	i	i	T-:----:--:----	_	
+23-15	lyset	lys|lys-1e|lys-1g|lys-3|lys-4|Lys-2|lys-1f|lys-1d|lys-1-1a-1b-1c-1f|lys-5|lys-F-brænde-sit-lys-i-begge-ender|lys-F-føre-nogen-bag-lyset|lys-F-grønt-lys(for-noget)|lys-F-i-et-nyt-(andet-..)-lys|lys-F-kaste-lys-over|lys-F-lede/søge-med-lys-og-lygte|lys-F-lys-i-mørket|lys-F-se-dagens-lys|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-tåle-dagens-lys|lys-F-se-lyset|lys-F-rank-som-et-lys|lys-F-levende-lys|lys-F-komme-for-dagens-lys|lys-F-i-lyset-af|lys-F-gå-ud-som-et-lys|lys-F-grønt/gult/rødt-lys|lys-F-der-går-et-lys-op-for-nogen|lys-F-bengalsk-lys	NC:sdun:--:----	lys_1d	
+23-16	.	.	ZP	_	
+
+#id=24
+#text= Derfor ser jeg måske også ugeblade i et mere positivt lys, fordi jeg ikke selv konstant er i fare for at blive afsløret...
+24-1	Derfor	derfor	D-:----:--:u---	_	
+24-2	ser	se	VF:----:sa:----	_	
+24-3	jeg	jeg	PP:s-nc:--:-1n-	_	
+24-4	måske	måske	D-:----:--:u---	_	
+24-5	også	også	D-:----:--:u---	_	
+24-6	ugeblade	ugeblad	NC:piu#:--:----	_	
+24-7	i	i	T-:----:--:----	_	
+24-8	et	en	PI:s-un:--:----	_	
+24-9	mere	megen	AD:----:--:c---	_	
+24-10	positivt	positiv	AC:siun:--:p---	_	
+24-11	lys	lys|lys-4|lys-F-bengalsk-lys|lys-F-der-går-et-lys-op-for-nogen|lys-F-grønt/gult/rødt-lys|lys-F-gå-ud-som-et-lys|lys-F-i-lyset-af|lys-F-komme-for-dagens-lys|lys-F-levende-lys|lys-F-rank-som-et-lys|lys-F-se-lyset|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-se-dagens-lys|lys-F-lys-i-mørket|lys-F-lede/søge-med-lys-og-lygte|lys-F-kaste-lys-over|lys-F-i-et-nyt-(andet-..)-lys|lys-F-grønt-lys(for-noget)|lys-F-føre-nogen-bag-lyset|lys-F-brænde-sit-lys-i-begge-ender|lys-5|lys-3|lys-1d|lys-1e|1f|Lys-2|lys-1g|lys-1-1a-1b-1c-1f	NC:siun:--:----	lys_F_i-et-nyt-(andet,-..)-lys	
+24-12	,	,	ZD	_	
+24-13	fordi	fordi	CS:----:--:----	_	
+24-14	jeg	jeg	PP:s-nc:--:-1n-	_	
+24-15	ikke	ikke	D-:----:--:u---	_	
+24-16	selv	selv	D-:----:--:u---	_	
+24-17	konstant	konstant	AD:----:--:p---	_	
+24-18	er	være	VF:----:sa:----	_	
+24-19	i	i	T-:----:--:----	_	
+24-20	fare	fare	NC:siuc:--:----	_	
+24-21	for	for	T-:----:--:----	_	
+24-22	at	at	UI:----:--:----	_	
+24-23	blive	blive	VI:----:-a:----	_	
+24-24	afsløret	afsløre	VT:siu#:t-:----	_	
+24-25	.	.	ZP	_	
+24-26	.	.	ZP	_	
+24-27	.	.	ZP	_	
+
+#id=25
+#text=- Godt, så behøver jeg ikke at sætte vand op på prædikestolen Hun sagde: - Jeg er ikke bange for mørke - så længe lyset er tændt Godt spørgsmål: - Hvis kærlighed gør blind, hvordan kan man så tro på kærlighed ved første blik?
+25-1	-	-	NC:piu#:--:----	_	
+25-2	Godt	god	AD:----:--:p---	_	
+25-3	,	,	ZD	_	
+25-4	så	så	D-:----:--:u---	_	
+25-5	behøver	behøve	VF:----:sa:----	_	
+25-6	jeg	jeg	PP:s-nc:--:-1n-	_	
+25-7	ikke	ikke	D-:----:--:u---	_	
+25-8	at	at	UI:----:--:----	_	
+25-9	sætte	sætte	VI:----:-a:----	_	
+25-10	vand	vand	NC:siun:--:----	_	
+25-11	op	op	D-:----:--:u---	_	
+25-12	på	på	T-:----:--:----	_	
+25-13	prædikestolen	prædikestol	NC:sduc:--:----	_	
+25-14	Hun	Hun	:----	_	
+25-15	sagde	sige	VF:----:ta:----	_	
+25-16	:	:	ZP	_	
+25-17	-	-	ZH	_	
+25-18	Jeg	jeg	NC:siun:--:----	_	
+25-19	er	være	VF:----:sa:----	_	
+25-20	ikke	ikke	D-:----:--:u---	_	
+25-21	bange	bange	AC:§§u§:--:p---	_	
+25-22	for	for	T-:----:--:----	_	
+25-23	mørke	mørk	AC:p#u#:--:p---	_	
+25-24	-	-	NC:piu#:--:----	_	
+25-25	så	så	D-:----:--:u---	_	
+25-26	længe	længe	D-:----:--:u---	_	
+25-27	lyset	lys|lys-3|lys-5|lys-F-brænde-sit-lys-i-begge-ender|lys-F-føre-nogen-bag-lyset|lys-F-grønt-lys(for-noget)|lys-F-i-et-nyt-(andet-..)-lys|lys-F-kaste-lys-over|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-se-dagens-lys|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-tåle-dagens-lys|lys-F-se-lyset|lys-F-rank-som-et-lys|lys-F-komme-for-dagens-lys|lys-F-i-lyset-af|lys-F-gå-ud-som-et-lys|lys-F-grønt/gult/rødt-lys|lys-F-der-går-et-lys-op-for-nogen|lys-F-bengalsk-lys|lys-4|lys-1-1a-1b-1c-1f|lys-1e|lys-1g|Lys-2|lys-1f|lys-1d	NC:sdun:--:----	lys_1c	
+25-28	er	være	VF:----:sa:----	_	
+25-29	tændt	tænde	VT:siu#:t-:----	_	
+25-30	Godt	god	AC:siun:--:p---	_	
+25-31	spørgsmål	spørgsmål	NC:siun:--:----	_	
+25-32	:	:	ZP	_	
+25-33	-	-	ZH	_	
+25-34	Hvis	hvis	CS:----:--:----	_	
+25-35	kærlighed	kærlighed	NC:siuc:--:----	_	
+25-36	gør	gøre	VF:----:sa:----	_	
+25-37	blind	blind	AC:siuc:--:p---	_	
+25-38	,	,	ZD	_	
+25-39	hvordan	hvordan	D-:----:--:u---	_	
+25-40	kan	kunne	VF:----:sa:----	_	
+25-41	man	man	PI:#-uc:--:----	_	
+25-42	så	så	D-:----:--:u---	_	
+25-43	tro	tro	VI:----:-a:----	_	
+25-44	på	på	T-:----:--:----	_	
+25-45	kærlighed	kærlighed	NC:siuc:--:----	_	
+25-46	ved	ved	T-:----:--:----	_	
+25-47	første	første	AC:§§u§:--:p---	_	
+25-48	blik	blik	NC:siun:--:----	_	
+25-49	?	?	ZQ	_	
+
+#id=26
+#text=2 Man må ikke male sin bil optisk hvid, for det reflekterer alt for meget lys og kan blænde modkørende.
+26-1	2	2	D-:----:--:u---	_	
+26-2	Man	man	PI:#-uc:--:----	_	
+26-3	må	måtte	VF:----:sa:----	_	
+26-4	ikke	ikke	D-:----:--:u---	_	
+26-5	male	male	VI:----:-a:----	_	
+26-6	sin	sin	PO:s--c:--:-3ys	_	
+26-7	bil	bil	NC:siuc:--:----	_	
+26-8	optisk	optisk	AD:----:--:p---	_	
+26-9	hvid	hvid	AC:siuc:--:p---	_	
+26-10	,	,	ZD	_	
+26-11	for	for	CC:----:--:----	_	
+26-12	det	det	PP:s-un:--:-3n-	_	
+26-13	reflekterer	reflektere	VF:----:sa:----	_	
+26-14	alt	alt	D-:----:--:u---	_	
+26-15	for	for	T-:----:--:----	_	
+26-16	meget	megen	AC:siu§:--:p---	_	
+26-17	lys	lys|lys-1e|lys-1d|lys-1-1a-1b-1c-1f|lys-1f|Lys-2|lys-4|lys-5|lys-F-bengalsk-lys|-nogen|lys-F-grønt/gult/rødt-lys|lys-F-gå-ud-som-et-lys|lys-F-i-lyset-af|lys-F-komme-for-dagens-lys|lys-F-levende-lys|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-lys-i-mørket|lys-F-lede/søge-med-lys-og-lygte|lys-F-kaste-lys-over|lys-F-i-et-nyt-(andet-..)-lys|lys-F-grønt-lys(for-noget)|lys-F-føre-nogen-bag-lyset|lys-F-brænde-sit-lys-i-begge-ender|lys-3|lys-1g	NC:siun:--:----	lys_1b	
+26-18	og	og	CC:----:--:----	_	
+26-19	kan	kunne	VF:----:sa:----	_	
+26-20	blænde	blænde	VI:----:-a:----	_	
+26-21	modkørende	modkørende	AD:----:--:p---	_	
+26-22	.	.	ZP	_	
+
+#id=27
+#text= R ustvognen holdt for rødt Rustvognen lys i Stockholms centrum, og da den skulle køre, viste det sig, at bagdøren gik op - og kisten røg ud på vejen foran andre biler.
+27-1	R	R	NP:siu#:--:----	_	
+27-2	ustvognen	ustvogn	NC:sduc:--:----	_	
+27-3	holdt	holde	VF:----:ta:----	_	
+27-4	for	for	T-:----:--:----	_	
+27-5	rødt	rød	AD:----:--:p---	_	
+27-6	Rustvognen	rustvogn	NC:sduc:--:----	_	
+27-7	lys	lys|lys-3|lys-5|lys-F-brænde-sit-lys-i-begge-ender|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt-lys(for-noget)|lys-F-i-et-nyt-(andet-..)-lys|lys-F-kaste-lys-over|lys-F-lede/søge-med-lys-og-lygte|lys-F-lys-i-mørket|lys-F-se-dagens-lys|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-se-lyset|lys-F-rank-som-et-lys|lys-F-levende-lys|lys-F-komme-for-dagens-lys|lys-F-i-lyset-af|lys-F-gå-ud-som-et-lys|lys-F-grønt/gult/rødt-lys|lys-F-bengalsk-lys|lys-4|Lys-2|lys-1-1a-1b-1c-1f|lys-1e|lys-1f|lys-1g|lys-1d	NC:siun:--:----	lys_F_grønt/gult/rødt-lys	
+27-8	i	i	T-:----:--:----	_	
+27-9	Stockholms	Stockholm	NP:sig#:--:----	_	
+27-10	centrum	centrum	NC:siun:--:----	_	
+27-11	,	,	ZD	_	
+27-12	og	og	CC:----:--:----	_	
+27-13	da	da	CS:----:--:----	_	
+27-14	den	den	PP:s-uc:--:-3n-	_	
+27-15	skulle	skulle	VF:----:ta:----	_	
+27-16	køre	køre	:----:-a:----	_	
+27-17	,	,	ZD	_	
+27-18	viste	vise	VF:----:ta:----	_	
+27-19	det	det	PP:s-un:--:-3n-	_	
+27-20	sig	sig	PP:#-u#:--:-3y-	_	
+27-21	,	,	ZD	_	
+27-22	at	at	CS:----:--:----	_	
+27-23	bagdøren	bagdør	NC:sduc:--:----	_	
+27-24	gik	gå	VF:----:ta:----	_	
+27-25	op	op	D-:----:--:u---	_	
+27-26	-	-	NC:piu#:--:----	_	
+27-27	og	og	CC:----:--:----	_	
+27-28	kisten	kiste	NC:sduc:--:----	_	
+27-29	røg	ryge	VF:----:ta:----	_	
+27-30	ud	ud	D-:----:--:u---	_	
+27-31	på	på	T-:----:--:----	_	
+27-32	vejen	vej	NC:sduc:--:----	_	
+27-33	foran	foran	T-:----:--:----	_	
+27-34	andre	anden	PI:p-u#:--:----	_	
+27-35	biler	bil	NC:piu#:--:----	_	
+27-36	.	.	ZP	_	
+
+#id=28
+#text=Her måtte fødselaren også tage en dyb indånding, før han blæste de 30 levende lys ud på lagkagen.
+28-1	Her	her	D-:----:--:u---	_	
+28-2	måtte	måtte	VF:----:ta:----	_	
+28-3	fødselaren	fødselar	NC:sduc:--:----	_	
+28-4	også	også	D-:----:--:u---	_	
+28-5	tage	tage	VI:----:-a:----	_	
+28-6	en	en	PI:s-uc:--:----	_	
+28-7	dyb	dyb	AC:siuc:--:p---	_	
+28-8	indånding	indånding	NC:siuc:--:----	_	
+28-9	,	,	ZD	_	
+28-10	før	før	CS:----:--:----	_	
+28-11	han	han	PP:s-nc:--:-3n-	_	
+28-12	blæste	blæse	VF:----:ta:----	_	
+28-13	de	den	PM:p-u#:--:----	_	
+28-14	30	30	LC:--u-:--:----	_	
+28-15	levende	levende	AC:§§u§:--:p---	_	
+28-16	lys	lys|Lys-2|lys-3|lys-4|lys-F-bengalsk-lys|lys-F-der-går-et-lys-op-for-nogen|lys-F-grønt/gult/rødt-lys|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-F-i-lyset-af|lys-F-komme-for-dagens-lys|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-se-lyset|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-se-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-kaste-lys-over|lys-F-i-et-nyt-(andet-..)-lys|lys-F-føre-nogen-bag-lyset|lys-F-brænde-sit-lys-i-begge-ender|lys-5|lys-1g|lys-1d|lys-1f|lys-1e|lys-1-1a-1b-1c-1f	NC:siun:--:----	_	
+28-17	ud	ud	D-:----:--:u---	_	
+28-18	på	på	T-:----:--:----	_	
+28-19	lagkagen	lagkage	NC:sduc:--:----	_	
+28-20	.	.	ZP	_	
+
+#id=29
+#text=Årsagen til ulykken var et overset rødt lys.
+29-1	Årsagen	årsag	NC:sduc:--:----	_	
+29-2	til	til	T-:----:--:----	_	
+29-3	ulykken	ulykke	NC:sduc:--:----	_	
+29-4	var	være	VF:----:ta:----	_	
+29-5	et	en	PI:s-un:--:----	_	
+29-6	overset	overse	VT:siu#:t-:----	_	
+29-7	rødt	rød	AC:siun:--:p---	_	
+29-8	lys	lys|lys-F-bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|en-bag-lyset|lys-F-grønt-lys(for-noget)|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-lede/søge-med-lys-og-lygte|lys-F-lys-i-mørket|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-tåle-dagens-lys|lys-F-rank-som-et-lys|lys-F-levende-lys|lys-F-komme-for-dagens-lys|lys-F-gå-ud-som-et-lys|lys-F-grønt/gult/rødt-lys|lys-F-der-går-et-lys-op-for-nogen|lys-1e|lys-1g|lys-3|lys-4|Lys-2|lys-1f|lys-1-1a-1b-1c-1f|lys-1d|lys-5	NC:siun:--:----	lys_F_grønt/gult/rødt-lys	
+29-9	.	.	ZP	_	
+
+#id=30
+#text=I 2011 er det 40 år siden, at et af vor tids mest markante rockbands Queen så dagens lys.
+30-1	I	i	T-:----:--:----	_	
+30-2	2011	2011	LC:--u-:--:----	_	
+30-3	er	være	VF:----:sa:----	_	
+30-4	det	det	PP:s-un:--:-3n-	_	
+30-5	40	40	LC:--u-:--:----	_	
+30-6	år	år	NC:piu#:--:----	_	
+30-7	siden	siden	D-:----:--:u---	_	
+30-8	,	,	ZD	_	
+30-9	at	at	CS:----:--:----	_	
+30-10	et	en	PI:s-un:--:----	_	
+30-11	af	af	T-:----:--:----	_	
+30-12	vor	vor	XY:----:--:----	_	
+30-13	tids	tid	NC:sigc:--:----	_	
+30-14	mest	megen	AD:----:--:s---	_	
+30-15	markante	markant	AC:p#u#:--:p---	_	
+30-16	rockbands	rockband	NC:piu#:--:----	_	
+30-17	Queen	Queen	NP:siu#:--:----	_	
+30-18	så	så	D-:----:--:u---	_	
+30-19	dagens	dag	NC:sdgc:--:----	_	
+30-20	lys	lys|lys-1e|lys-1d|lys-1-1a-1b-1c-1f|lys-1f|lys-1g|Lys-2|lys-4|lys-F-bengalsk-lys|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-F-rank-som-et-lys|lys-F-se-lyset|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-se-dagens-lys|lys-F-lys-i-mørket|lys-F-kaste-lys-over|lys-F-grønt-lys(for-noget)|lys-F-brænde-sit-lys-i-begge-ender|lys-5|lys-3	NC:siun:--:----	lys_F_se-dagens-lys	
+30-21	.	.	ZP	_	
+
+#id=31
+#text=Det ser nemlig ud til, at hendes møder hos Anonyme Alkoholikere hjælper hendes sag, men så går hun ud som et lys i et omklædningsrum.
+31-1	Det	det	PP:s-un:--:-3n-	_	
+31-2	ser	se	VF:----:sa:----	_	
+31-3	nemlig	nemlig	:----:--:u---	_	
+31-4	ud	ud	D-:----:--:u---	_	
+31-5	til	til	T-:----:--:----	_	
+31-6	,	,	ZD	_	
+31-7	at	at	CS:----:--:----	_	
+31-8	hendes	hendes	PO:#--#:--:-3ns	_	
+31-9	møder	møde	NC:piu#:--:----	_	
+31-10	hos	hos	T-:----:--:----	_	
+31-11	Anonyme	anonym	AC:p#u#:--:p---	_	
+31-12	Alkoholikere	alkoholiker	NC:piu#:--:----	_	
+31-13	hjælper	hjælpe	VF:----:sa:----	_	
+31-14	hendes	hendes	PO:#--#:--:-3ns	_	
+31-15	sag	sag	NC:siuc:--:----	_	
+31-16	,	,	ZD	_	
+31-17	men	men	CC:----:--:----	_	
+31-18	så	så	D-:----:--:u---	_	
+31-19	går	gå	VF:----:sa:----	_	
+31-20	hun	hun	PP:s-nc:--:-3n-	_	
+31-21	ud	ud	D-:----:--:u---	_	
+31-22	som	som	US:----:--:----	_	
+31-23	et	en	PI:s-un:--:----	_	
+31-24	lys	lys|lys-3|lys-4|lys-5|lys-F-brænde-sit-lys-i-begge-ender|lys-F-føre-nogen-bag-lyset|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-grønt/gult/rødt-lys|lys-F-der-går-et-lys-op-for-nogen|lys-F-bengalsk-lys|Lys-2|lys-1e|lys-1f|lys-1d|lys-1-1a-1b-1c-1f|lys-1g|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-tåle-dagens-lys|lys-F-se-lyset|lys-F-levende-lys	NC:siun:--:----	lys_F_gå-ud-som-et-lys	
+31-25	i	i	T-:----:--:----	_	
+31-26	et	en	PI:s-un:--:----	_	
+31-27	omklædningsrum	omklædningsrum	NC:siun:--:----	_	
+31-28	.	.	ZP	_	
+
+#id=32
+#text=Et nyt dansk powerpar har set dagens lys.
+32-1	Et	en	PI:s-un:--:----	_	
+32-2	nyt	ny	AC:siun:--:p---	_	
+32-3	dansk	dansk	AC:siu§:--:p---	_	
+32-4	powerpar	powerpar	NC:siun:--:----	_	
+32-5	har	have	VF:----:sa:----	_	
+32-6	set	se	VT:siu#:t-:----	_	
+32-7	dagens	dag	NC:sdgc:--:----	_	
+32-8	lys	lys|lys-F-rank-som-et-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-se-dagens-lys|lys-F-bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-5|lys-1d|lys-1e|lys-1f|Lys-2|lys-4|lys-3|lys-1g|lys-1-1a-1b-1c-1f|grønt/gult/rødt-lys|lys-F-gå-ud-som-et-lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-lede/søge-med-lys-og-lygte|lys-F-i-et-nyt-(andet-..)-lys|lys-F-grønt-lys(for-noget)	NC:siun:--:----	lys_F_se-dagens-lys	
+32-9	.	.	ZP	_	
+
+#id=33
+#text=- Det har givet lys og luft til fremtiden, smiler Poul-Erik.
+33-1	-	-	NC:piu#:--:----	_	
+33-2	Det	Det	XY:----:--:----	_	
+33-3	har	have	VF:----:sa:----	_	
+33-4	givet	give	VT:siu#:t-:----	_	
+33-5	lys	lys|lys-F-kaste-lys-over|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|lys-F-rank-som-et-lys|lys-F-komme-for-dagens-lys|lys-F-i-lyset-af|lys-1e|lys-1g|Lys-2|lys-3|lys-5|lys-F-brænde-sit-lys-i-begge-ender|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys|lys-F-grønt-lys(for-noget)|lys-F-i-et-nyt-(andet-..)-lys|lys-F-gå-ud-som-et-lys|lys-F-der-går-et-lys-op-for-nogen|lys-F-bengalsk-lys|lys-4|lys-1f|lys-1d|lys-1-1a-1b-1c-1f|lys-F-sætte-sit-lys-under-en-skæppe	NC:siun:--:----	lys_1g	
+33-6	og	og	CC:----:--:----	_	
+33-7	luft	luft	NC:siuc:--:----	_	
+33-8	til	til	T-:----:--:----	_	
+33-9	fremtiden	fremtid	NC:sduc:--:----	_	
+33-10	,	,	ZD	_	
+33-11	smiler	smile	VF:----:sa:----	_	
+33-12	Poul	Poul	NW:----:--:----	_	
+33-13	-	-	ZH	_	
+33-14	Erik	Erik	NP:siu#:--:----	_	
+33-15	.	.	ZP	_	
+
+#id=34
+#text=Da klubben lukkede, og lyset blev tændt, nærmest løb paradisoen Nick Zitouni ud ad døren.
+34-1	Da	da	CS:----:--:----	_	
+34-2	klubben	klub	NC:sduc:--:----	_	
+34-3	lukkede	lukke	VF:----:ta:----	_	
+34-4	,	,	ZD	_	
+34-5	og	og	CC:----:--:----	_	
+34-6	lyset	lys|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-bengalsk-lys|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys|lys-F-grønt-lys(for-noget)|lys-F-brænde-sit-lys-i-begge-ender|lys-1d|lys-1f|Lys-2|lys-4|lys-5|lys-3|lys-1g|lys-1e|lys-1-1a-1b-1c-1f|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-komme-for-dagens-lys|lys-F-levende-lys|lys-F-rank-som-et-lys|lys-F-lys-i-mørket|ys-og-lygte|lys-F-kaste-lys-over	NC:sdun:--:----	lys_1c	
+34-7	blev	blive	VF:----:ta:----	_	
+34-8	tændt	tænde	VT:siu#:t-:----	_	
+34-9	,	,	XY:----:--:----	_	
+34-10	nærmest	nær	AD:----:--:s---	_	
+34-11	løb	løbe	VF:----:ta:----	_	
+34-12	paradisoen	paradiso	NC:sduc:--:----	_	
+34-13	Nick	Nick	NP:siu#:--:----	_	
+34-14	Zitouni	Zitouni	NP:siu#:--:----	_	
+34-15	ud	ud	D-:----:--:u---	_	
+34-16	ad	ad	T-:----:--:----	_	
+34-17	døren	dør	NC:sduc:--:----	_	
+34-18	.	.	ZP	_	
+
+#id=35
+#text=Man skal huske at overraske hinanden, sende en fræk sms, ikke slukke lyset hver aften i sengen, iføre sig frækt undertøj, lave god mad til hinanden og huske at kysse som mand og kvinde, ikke for mange af  de der kedelige tantekys, kvidrer brystbomben.
+35-1	Man	man	PI:#-uc:--:----	_	
+35-2	skal	skulle	VF:----:sa:----	_	
+35-3	huske	huske	VI:----:-a:----	_	
+35-4	at	at	UI:----:--:----	_	
+35-5	overraske	overraske	VI:----:-a:----	_	
+35-6	hinanden	hinanden	XY:----:--:----	_	
+35-7	,	,	ZD	_	
+35-8	sende	sende	VI:----:-a:----	_	
+35-9	en	en	PI:s-uc:--:----	_	
+35-10	fræk	fræk	AC:siuc:--:p---	_	
+35-11	sms	sms	NC:siuc:--:----	_	
+35-12	,	,	ZD	_	
+35-13	ikke	ikke	D-:----:--:u---	_	
+35-14	slukke	slukke	VI:----:-a:----	_	
+35-15	lyset	lys|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-lys-i-mørket|lys-F-se-dagens-lys|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-se-lyset|lys-F-rank-som-et-lys|lys-F-levende-lys|lys-F-i-lyset-af|lys-1-1a-1b-1c-1f|lys-1e|lys-1f|lys-1g|lys-3|lys-5|lys-F-brænde-sit-lys-i-begge-ender|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt-lys(for-noget)|lys-F-grønt/gult/rødt-lys|lys-F-bengalsk-lys|lys-4|Lys-2|lys-1d	NC:sdun:--:----	lys_1c	
+35-16	hver	hver	PI:s-uc:--:----	_	
+35-17	aften	aften	NC:siuc:--:----	_	
+35-18	i	i	T-:----:--:----	_	
+35-19	sengen	seng	NC:sduc:--:----	_	
+35-20	,	,	ZD	_	
+35-21	iføre	iføre	VI:----:-a:----	_	
+35-22	sig	sig	PP:#-u#:--:-3y-	_	
+35-23	frækt	fræk	AC:siun:--:p---	_	
+35-24	undertøj	undertøj	NC:siun:--:----	_	
+35-25	,	,	ZD	_	
+35-26	lave	lave	VI:----:-a:----	_	
+35-27	god	god	AC:siuc:--:p---	_	
+35-28	mad	mad	NC:siuc:--:----	_	
+35-29	til	til	T-:----:--:----	_	
+35-30	hinanden	hinanden	PC:p-u-:--:----	_	
+35-31	og	og	CC:----:--:----	_	
+35-32	huske	huske	VI:----:-a:----	_	
+35-33	at	at	UI:----:--:----	_	
+35-34	kysse	kysse	VI:----:-a:----	_	
+35-35	som	som	US:----:--:----	_	
+35-36	mand	mand	NC:siuc:--:----	_	
+35-37	og	og	CC:----:--:----	_	
+35-38	kvinde	kvinde	NC:siuc:--:----	_	
+35-39	,	,	ZD	_	
+35-40	ikke	ikke	D-:----:--:u---	_	
+35-41	for	for	T-:----:--:----	_	
+35-42	mange	mangen	AC:p#u#:--:p---	_	
+35-43	af	af	T-:----:--:----	_	
+35-44	de	den	PM:p-u#:--:----	_	
+35-45	der	der	D-:----:--:u---	_	
+35-46	kedelige	kedelig	AC:p#u#:--:p---	_	
+35-47	tantekys	tantekys	NC:piu#:--:----	_	
+35-48	,	,	ZD	_	
+35-49	kvidrer	kvidre	VF:----:sa:----	_	
+35-50	brystbomben	brystbombe	NC:sduc:--:----	_	
+35-51	.	.	ZP	_	
+
+#id=36
+#text= Jeg ville have lyset slukket, når jeg havde sex og havde meget lav selvtillid på grund af det, så jeg har fået lavet dem større to gange, og det har jeg ikke fortrudt ét sekund.
+36-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+36-2	ville	ville	VF:----:ta:----	_	
+36-3	have	have	VI:----:-a:----	_	
+36-4	lyset	lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|s-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-se-dagens-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-1f|Lys-2|lys-3|lys-4|lys-F-bengalsk-lys|lys-5|lys-1g|lys-1-1a-1b-1c-1f|lys-1d|lys-1e|lys-F-der-går-et-lys-op-for-nogen|lys-F-grønt/gult/rødt-lys|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-i-et-nyt-(andet-..)-lys|lys-F-føre-nogen-bag-lyset	NC:sdun:--:----	_	
+36-5	slukket	slukke	VT:siu#:t-:----	lys_1c	
+36-6	,	,	ZD	_	
+36-7	når	når	CS:----:--:----	_	
+36-8	jeg	jeg	PP:s-nc:--:-1n-	_	
+36-9	havde	have	VF:----:ta:----	_	
+36-10	sex	sex	NC:siuc:--:----	_	
+36-11	og	og	CC:----:--:----	_	
+36-12	havde	have	VF:----:ta:----	_	
+36-13	meget	megen	AD:----:--:p---	_	
+36-14	lav	lav	AC:siuc:--:p---	_	
+36-15	selvtillid	selvtillid	NC:siuc:--:----	_	
+36-16	på	på	T-:----:--:----	_	
+36-17	grund	grund	NC:siuc:--:----	_	
+36-18	af	af	T-:----:--:----	_	
+36-19	det	det	PP:s-un:--:-3n-	_	
+36-20	,	,	ZD	_	
+36-21	så	så	CS:----:--:----	_	
+36-22	jeg	jeg	PP:s-nc:--:-1n-	_	
+36-23	har	have	VF:----:sa:----	_	
+36-24	fået	få	VT:siu#:t-:----	_	
+36-25	lavet	lave	VT:siu#:t-:----	_	
+36-26	dem	de	PP:p-u#:--:-3n-	_	
+36-27	større	stor	----:--:c---	_	
+36-28	to	to	LC:--u-:--:----	_	
+36-29	gange	gang	NC:piu#:--:----	_	
+36-30	,	,	ZD	_	
+36-31	og	og	CC:----:--:----	_	
+36-32	det	det	PP:s-un:--:-3n-	_	
+36-33	har	have	VF:----:sa:----	_	
+36-34	jeg	jeg	PP:s-nc:--:-1n-	_	
+36-35	ikke	ikke	D-:----:--:u---	_	
+36-36	fortrudt	fortryde	VT:siu#:t-:----	_	
+36-37	ét	en	PI:s-un:--:----	_	
+36-38	sekund	sekund	NC:siun:--:----	_	
+36-39	.	.	ZP	_	
+
+#id=37
+#text=Men der var nerver på, da lyset endelig blev tændt.
+37-1	Men	men	CC:----:--:----	_	
+37-2	der	der	US:----:--:----	_	
+37-3	var	være	VF:----:ta:----	_	
+37-4	nerver	nerve	NC:piu#:--:----	_	
+37-5	på	på	T-:----:--:----	_	
+37-6	,	,	ZD	_	
+37-7	da	da	CS:----:--:----	_	
+37-8	lyset	lys|lys-3|lys-5|lys-F-bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-F-føre-nogen-bag-lyset|lys-F-grønt-lys(for-noget)|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-tåle-dagens-lys|lys-F-rank-som-et-lys|lys-F-komme-for-dagens-lys|lys-F-gå-ud-som-et-lys|lys-F-grønt/gult/rødt-lys|lys-F-der-går-et-lys-op-for-nogen|lys-4|lys-1-1a-1b-1c-1f|lys-1d|lys-1e|lys-1g|Lys-2|lys-1f	NC:sdun:--:----	lys_1c	
+37-9	endelig	endelig	D-:----:--:u---	_	
+37-10	blev	blive	VF:----:ta:----	_	
+37-11	tændt	tænde	VT:siu#:t-:----	_	
+37-12	.	.	ZP	_	
+
+#id=38
+#text=At DR's lyttere gerne så Ålen med konkurrentens logo på bagen, skal ses i lyset af, at bestyrelsesformanden i Zentropa sidste efterår opfordrede sine elever  til at få firmaets logo tatoveret på deres endeballer finansieret af ham.
+38-1	At	at	CS:----:--:----	_	
+38-2	DR	DR	NP:siu#:--:----	_	
+38-3	'	'	ZA	_	
+38-4	s	@s	MN:sig#:--:----	_	
+38-5	lyttere	lytter	NC:piu#:--:----	_	
+38-6	gerne	gerne	D-:----:--:u---	_	
+38-7	så	så	D-:----:--:u---	_	
+38-8	Ålen	ål	NC:sduc:--:----	_	
+38-9	med	med	T-:----:--:----	_	
+38-10	konkurrentens	konkurrent	NC:sdgc:--:----	_	
+38-11	logo	logo	NC:siun:--:----	_	
+38-12	på	på	T-:----:--:----	_	
+38-13	bagen	bag	NC:sduc:--:----	_	
+38-14	,	,	ZD	_	
+38-15	skal	skulle	VF:----:sa:----	_	
+38-16	ses	se	VI:----:-p:----	_	
+38-17	i	i	T-:----:--:----	_	
+38-18	lyset	lys|lys-F-i-lyset-af|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-lys-i-mørket|lys-F-kaste-lys-over|lys-1f|lys-1g|Lys-2|lys-4|lys-5|lys-F-bengalsk-lys|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-grønt-lys(for-noget)|lys-F-brænde-sit-lys-i-begge-ender|lys-3|lys-1e|lys-1-1a-1b-1c-1f|lys-1d	NC:sdun:--:----	lys_F_i-lyset-af	
+38-19	af	af	T-:----:--:----	_	
+38-20	,	,	ZD	_	
+38-21	at	at	CS:----:--:----	_	
+38-22	bestyrelsesformanden	bestyrelsesformand	NC:sduc:--:----	_	
+38-23	i	i	T-:----:--:----	_	
+38-24	Zentropa	Zentropa	NP:siu#:--:----	_	
+38-25	sidste	sidste	AC:§§u§:--:p---	_	
+38-26	efterår	efterår	NC:siun:--:----	_	
+38-27	opfordrede	opfordre	VF:----:ta:----	_	
+38-28	sine	sin	PO:p--#:--:-3ys	_	
+38-29	elever	elev	NC:piu#:--:----	_	
+38-30	til	til	T-:----:--:----	_	
+38-31	at	at	UI:----:--:----	_	
+38-32	få	få	VI:----:-a:----	_	
+38-33	firmaets	firma	NC:sdgn:--:----	_	
+38-34	logo	logo	NC:siun:--:----	_	
+38-35	tatoveret	tatovere	VT:siu#:t-:----	_	
+38-36	på	på	T-:----:--:----	_	
+38-37	deres	deres	PO:#--#:--:-3np	_	
+38-38	endeballer	endeballer	NC:piu#:--:----	_	
+38-39	finansieret	finansiere	VT:siu#:t-:----	_	
+38-40	af	af	T-:----:--:----	_	
+38-41	ham	han	PP:s-uc:--:-3n-	_	
+38-42	.	.	ZP	_	
+
+#id=39
+#text=- Nu prøver jeg at få lortet frem i lyset og tale om det.
+39-1	-	-	NC:piu#:--:----	_	
+39-2	Nu	nu	D-:----:--:u---	_	
+39-3	prøver	prøve	VF:----:sa:----	_	
+39-4	jeg	jeg	PP:s-nc:--:-1n-	_	
+39-5	at	at	UI:----:--:----	_	
+39-6	få	få	VI:----:-a:----	_	
+39-7	lortet	lort	NC:sdun:--:----	_	
+39-8	frem	frem	D-:----:--:u---	_	
+39-9	i	i	T-:----:--:----	_	
+39-10	lyset	lys|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-se-lyset|lys-F-levende-lys|lys-F-i-lyset-af|lys-F-grønt/gult/rødt-lys|lys-1-1a-1b-1c-1f|lys-1e|lys-1f|lys-1g|lys-3|lys-4|lys-5|lys-F-brænde-sit-lys-i-begge-ender|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-bengalsk-lys|Lys-2|lys-1d	NC:sdun:--:----	lys_F_komme/bringe-frem-i-lyset	
+39-11	og	og	CC:----:--:----	_	
+39-12	tale	tale	NC:siuc:--:----	_	
+39-13	om	om	T-:----:--:----	_	
+39-14	det	det	PP:s-un:--:-3n-	_	
+39-15	.	.	ZP	_	
+
+#id=40
+#text=- Nu er jeg bare lidt træt, siger skønheden, som forventer, at hendes søn ser dagens lys den 21. september.
+40-1	-	-	NC:piu#:--:----	_	
+40-2	Nu	nu	D-:----:--:u---	_	
+40-3	er	være	VF:----:sa:----	_	
+40-4	jeg	jeg	PP:s-nc:--:-1n-	_	
+40-5	bare	bare	D-:----:--:u---	_	
+40-6	lidt	lidt	AD:----:--:p---	_	
+40-7	træt	træt	AC:siu§:--:p---	_	
+40-8	,	,	ZD	_	
+40-9	siger	sige	VF:----:sa:----	_	
+40-10	skønheden	skønhed	NC:sduc:--:----	_	
+40-11	,	,	ZD	_	
+40-12	som	som	US:----:--:----	_	
+40-13	forventer	forvente	VF:----:sa:----	_	
+40-14	,	,	ZD	_	
+40-15	at	at	CS:----:--:----	_	
+40-16	hendes	hendes	PO:#--#:--:-3ns	_	
+40-17	søn	søn	NC:siuc:--:----	_	
+40-18	ser	se	VF:----:sa:----	_	
+40-19	dagens	dag	NC:sdgc:--:----	_	
+40-20	lys	lys|lys-1e|lys-1f|lys-1g|lys-1d|lys-1-1a-1b-1c-1f|Lys-2|lys-3|lys-4|lys-F-bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-F-der-går-et-lys-op-for-nogen|lys-F-grønt/gult/rødt-lys|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-se-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-i-et-nyt-(andet-..)-lys|lys-F-føre-nogen-bag-lyset|lys-5	NC:siun:--:----	lys_F_se-dagens-lys	
+40-21	den	den	PM:s-uc:--:----	_	
+40-22	21	21	LO:--u#:--:----	_	
+40-23	.	.	ZP	_	
+40-24	september	september	NC:siuc:--:----	_	
+40-25	.	.	ZP	_	
+
+#id=41
+#text=Hvis man tror, at jyder kun dyrker sex med deres egen partner under dynen og uden lys, må man tro om igen.
+41-1	Hvis	hvis	CS:----:--:----	_	
+41-2	man	man	PI:#-uc:--:----	_	
+41-3	tror	tro	VF:----:sa:----	_	
+41-4	,	,	ZD	_	
+41-5	at	at	CS:----:--:----	_	
+41-6	jyder	jyde	NC:piu#:--:----	_	
+41-7	kun	kun	D-:----:--:u---	_	
+41-8	dyrker	dyrke	VF:----:sa:----	_	
+41-9	sex	sex	NC:siuc:--:----	_	
+41-10	med	med	T-:----:--:----	_	
+41-11	deres	deres	PO:#--#:--:-3np	_	
+41-12	egen	egen	AC:s§uc:--:p---	_	
+41-13	partner	partner	NC:siuc:--:----	_	
+41-14	under	under	T-:----:--:----	_	
+41-15	dynen	dyne	NC:sduc:--:----	_	
+41-16	og	og	CC:----:--:----	_	
+41-17	uden	uden	T-:----:--:----	_	
+41-18	lys	lys|lys-F-bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys|rønt-lys(for-noget)|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-tåle-dagens-lys|lys-F-rank-som-et-lys|lys-F-gå-ud-som-et-lys|lys-F-der-går-et-lys-op-for-nogen|lys-1e|lys-1g|Lys-2|lys-3|lys-5|lys-4|lys-1f|lys-1d|lys-1-1a-1b-1c-1f	NC:siun:--:----	lys_1c	
+41-19	,	,	ZD	_	
+41-20	må	måtte	VF:----:sa:----	_	
+41-21	man	man	PI:#-uc:--:----	_	
+41-22	tro	tro	VI:----:-a:----	_	
+41-23	om	om	T-:----:--:----	_	
+41-24	igen	igen	D-:----:--:u---	_	
+41-25	.	.	ZP	_	
+
+#id=42
+#text=Når kongehusets nyeste medlemmer har set dagens lys, bliver Mary  og børnene kørt over på lyserød stue, der ligger i det afsnit, der allerede nu er lukket af og holdes klar til fødslen.
+42-1	Når	når	CS:----:--:----	_	
+42-2	kongehusets	kongehus	NC:sdgn:--:----	_	
+42-3	nyeste	ny	AC:§du§:--:s---	_	
+42-4	medlemmer	medlem	NC:piu#:--:----	_	
+42-5	har	have	VF:----:sa:----	_	
+42-6	set	se	VT:siu#:t-:----	_	
+42-7	dagens	dag	NC:sdgc:--:----	_	
+42-8	lys	lys|lys-4|lys-5|lys-F-bengalsk-lys|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-kaste-lys-over|lys-F-grønt-lys(for-noget)|lys-F-brænde-sit-lys-i-begge-ender|lys-3|lys-1-1a-1b-1c-1f|lys-1d|lys-1f|lys-1g|Lys-2|lys-1e	NC:siun:--:----	lys_F_se-dagens-lys	
+42-9	,	,	ZD	_	
+42-10	bliver	blive	VF:----:sa:----	_	
+42-11	Mary	Mary	NP:siu#:--:----	_	
+42-12	og	og	CC:----:--:----	_	
+42-13	børnene	barn	NC:pdu#:--:----	_	
+42-14	kørt	køre	VT:siu#:t-:----	_	
+42-15	over	over	D-:----:--:u---	_	
+42-16	på	på	T-:----:--:----	_	
+42-17	lyserød	lyserød	AC:siuc:--:p---	_	
+42-18	stue	stue	NC:siuc:--:----	_	
+42-19	,	,	ZD	_	
+42-20	der	der	US:----:--:----	_	
+42-21	ligger	ligge	VF:----:sa:----	_	
+42-22	i	i	T-:----:--:----	_	
+42-23	det	den	PM:s-un:--:----	_	
+42-24	afsnit	afsnit	NC:siun:--:----	_	
+42-25	,	,	ZD	_	
+42-26	der	der	US:----:--:----	_	
+42-27	allerede	allerede	D-:----:--:u---	_	
+42-28	nu	nu	D-:----:--:u---	_	
+42-29	er	være	VF:----:sa:----	_	
+42-30	lukket	lukke	VT:siu#:t-:----	_	
+42-31	af	af	T-:----:--:----	_	
+42-32	og	og	CC:----:--:----	_	
+42-33	holdes	holde	VF:----:sp:----	_	
+42-34	klar	klar	AC:siuc:--:p---	_	
+42-35	til	til	T-:----:--:----	_	
+42-36	fødslen	fødsel	NC:sduc:--:----	_	
+42-37	.	.	ZP	_	
+
+#id=43
+#text=Parret vil heller ikke kaste lys over, hvor de nu skal bo.
+43-1	Parret	par	NC:sdun:--:----	_	
+43-2	vil	ville	VF:----:sa:----	_	
+43-3	heller	heller	D-:----:--:u---	_	
+43-4	ikke	ikke	D-:----:--:u---	_	
+43-5	kaste	kaste	VI:----:-a:----	_	
+43-6	lys	lys|lys-1e|lys-1f|lys-1g|lys-3|lys-4|lys-5|lys-F-bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|s-F-levende-lys|lys-F-i-lyset-af|lys-F-grønt/gult/rødt-lys|Lys-2|lys-1d|lys-1-1a-1b-1c-1f	NC:siun:--:----	lys_F_kaste-lys-over	
+43-7	over	over	T-:----:--:----	_	
+43-8	,	,	ZD	_	
+43-9	hvor	hvor	D-:----:--:u---	_	
+43-10	de	de	PP:p-n#:--:-3n-	_	
+43-11	nu	nu	D-:----:--:u---	_	
+43-12	skal	skulle	VF:----:sa:----	_	
+43-13	bo	bo	VI:----:-a:----	_	
+43-14	.	.	ZP	_	
+
+#id=44
+#text=Nu står folk står i kø for at sælge billeder af hende fra fortiden og sætte hende i et dårligt lys
+44-1	Nu	nu	D-:----:--:u---	_	
+44-2	står	stå	VF:----:sa:----	_	
+44-3	folk	folk	NC:piu#:--:----	_	
+44-4	står	stå	VF:----:sa:----	_	
+44-5	i	i	T-:----:--:----	_	
+44-6	kø	kø	NC:siuc:--:----	_	
+44-7	for	for	T-:----:--:----	_	
+44-8	at	at	UI:----:--:----	_	
+44-9	sælge	sælge	VI:----:-a:----	_	
+44-10	billeder	de	NC:piu#:--:----	_	
+44-11	af	af	----:--:----	_	
+44-12	hende	hun	PP:s-uc:--:-3n-	_	
+44-13	fra	fra	T-:----:--:----	_	
+44-14	fortiden	fortid	NC:sduc:--:----	_	
+44-15	og	og	CC:----:--:----	_	
+44-16	sætte	sætte	VI:----:-a:----	_	
+44-17	hende	hun	PP:s-uc:--:-3n-	_	
+44-18	i	i	T-:----:--:----	_	
+44-19	et	en	PI:s-un:--:----	_	
+44-20	dårligt	dårlig	AC:siun:--:p---	_	
+44-21	lys	lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-se-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-i-et-nyt-(andet-..)-lys|lys-1e|lys-1f|Lys-2|lys-3|lys-4|lys-F-bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-5|lys-1g|lys-1d|lys-1-1a-1b-1c-1f	NC:siun:--:----	lys_F_stille/sætte-i-et-dårligt-lys	
+
+#id=45
+#text= Ramsey får døren åbnet, tænder lyset og finder liget af sin datter.
+45-1	Ramsey	Ramsey	NP:siu#:--:----	_	
+45-2	får	få	VF:----:sa:----	_	
+45-3	døren	dør	NC:sduc:--:----	_	
+45-4	åbnet	åbne	VT:siu#:t-:----	_	
+45-5	,	,	ZD	_	
+45-6	tænder	tænde	VF:----:sa:----	_	
+45-7	lyset	lys|lys-1e|lys-1g|Lys-2|lys-3|lys-5|lys-F-bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|nder-en-skæppe|lys-F-tåle-dagens-lys|lys-F-rank-som-et-lys|lys-F-komme-for-dagens-lys|lys-F-der-går-et-lys-op-for-nogen|lys-4|lys-1f|lys-1-1a-1b-1c-1f|lys-1d	NC:sdun:--:----	lys_1c	
+45-8	og	og	CC:----:--:----	_	
+45-9	finder	finde	VF:----:sa:----	_	
+45-10	liget	lig	NC:sdun:--:----	_	
+45-11	af	af	T-:----:--:----	_	
+45-12	sin	sin	PO:s--c:--:-3ys	_	
+45-13	datter	datter	NC:siuc:--:----	_	
+45-14	.	.	ZP	_	
+
+#id=46
+#text= Orsons hemmelighed kommer frem i lyset og fører til et dramatisk opgør på Wisteria Lane.
+46-1	Orsons	Orsons	NP:sig#:--:----	_	
+46-2	hemmelighed	ghed	NC:siuc:--:----	_	
+46-3	kommer	komme	VF:----:sa:----	_	
+46-4	frem	frem	D-:----:--:u---	_	
+46-5	i	i	T-:----:--:----	_	
+46-6	lyset	lys|lys-F-se-lyset|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-stille/sætte-i-et-dårligt-lys|lys-1g|Lys-2|lys-4|lys-5|lys-F-bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-3|lys-1d|lys-1e|lys-1f|lys-1-1a-1b-1c-1f|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-lys-i-mørket|lys-F-grønt-lys(for-noget)	NC:sdun:--:----	lys_F_komme/bringe-frem-i-lyset	
+46-7	og	og	CC:----:--:----	_	
+46-8	fører	føre	VF:----:sa:----	_	
+46-9	til	til	T-:----:--:----	_	
+46-10	et	en	PI:s-un:--:----	_	
+46-11	dramatisk	dramatisk	AC:siu§:--:p---	_	
+46-12	opgør	opgør	NC:siun:--:----	_	
+46-13	på	på	T-:----:--:----	_	
+46-14	Wisteria	Wisteria	NP:siu#:--:----	_	
+46-15	Lane	lane	XF:----:--:----	_	
+46-16	.	.	ZP	_	
+
+#id=47
+#text= Da han lagde sig oven på hende, spurgte han: - Vil du have meget imod at slukke lyset i loftet? - Er du da genert? spurgte hun.
+47-1	Da	da	CS:----:--:----	_	
+47-2	han	han	PP:s-nc:--:-3n-	_	
+47-3	lagde	lægge	VF:----:ta:----	_	
+47-4	sig	sig	PP:#-u#:--:-3y-	_	
+47-5	oven	oven	T-:----:--:----	_	
+47-6	på	på	T-:----:--:----	_	
+47-7	hende	hun	PP:s-uc:--:-3n-	_	
+47-8	,	,	ZD	_	
+47-9	spurgte	spørge	VF:----:ta:----	_	
+47-10	han	han	PP:s-nc:--:-3n-	_	
+47-11	:	:	ZP	_	
+47-12	-	-	ZH	_	
+47-13	Vil	ville	VF:----:sa:----	_	
+47-14	du	du	PP:s-nc:--:-2n-	_	
+47-15	have	have	VI:----:-a:----	_	
+47-16	meget	megen	AD:----:--:p---	_	
+47-17	imod	imod	T-:----:--:----	_	
+47-18	at	at	UI:----:--:----	_	
+47-19	slukke	slukke	VI:----:-a:----	_	
+47-20	lyset	lys|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-se-lyset|lys-F-i-lyset-af|lys-F-grønt/gult/rødt-lys|lys-1g|Lys-2|lys-3|lys-4|lys-5|lys-F-brænde-sit-lys-i-begge-ender|lys-F-bengalsk-lys|lys-1-1a-1b-1c-1f|lys-1e|lys-1f|lys-1d	NC:sdun:--:----	lys_1c	
+47-21	i	i	T-:----:--:----	_	
+47-22	loftet	loft	NC:sdun:--:----	_	
+47-23	?	?	XY:----:--:----	_	
+47-24	-	-	ZH	_	
+47-25	Er	være	VF:----:sa:----	_	
+47-26	du	du	PP:s-nc:--:-2n-	_	
+47-27	da	da	D-:----:--:u---	_	
+47-28	genert	genert	AD:----:--:p---	_	
+47-29	?	?	ZQ	_	
+47-30	spurgte	spørge	VF:----:ta:----	_	
+47-31	hun	hun	PP:s-nc:--:-3n-	_	
+47-32	.	.	ZP	_	
+
+#id=48
+#text=- Jeg er faktisk meget jaloux, men jeg kan ikke bevise det, for der er jo ingen andre piger, der er interesserede i dig Godt spørgsmål: - Hvis det ikke er meningen, at man skal spise natmad, hvorfor er der så lys i køleskabet?
+48-1	-	-	NC:piu#:--:----	_	
+48-2	Jeg	jeg	NC:siun:--:----	_	
+48-3	er	være	VF:----:sa:----	_	
+48-4	faktisk	faktisk	AD:----:--:p---	_	
+48-5	meget	megen	AD:----:--:p---	_	
+48-6	jaloux	jaloux	AC:§§u§:--:p---	_	
+48-7	,	,	ZD	_	
+48-8	men	men	CC:----:--:----	_	
+48-9	jeg	jeg	PP:s-nc:--:-1n-	_	
+48-10	kan	kunne	VF:----:sa:----	_	
+48-11	ikke	ikke	D-:----:--:u---	_	
+48-12	bevise	bevise	VI:----:-a:----	_	
+48-13	det	det	PP:s-un:--:-3n-	_	
+48-14	,	,	ZD	_	
+48-15	for	for	CC:----:--:----	_	
+48-16	der	der	US:----:--:----	_	
+48-17	er	være	VF:----:sa:----	_	
+48-18	jo	jo	D-:----:--:u---	_	
+48-19	ingen	ingen	PI:s-uc:--:----	_	
+48-20	andre	anden	PI:p-u#:--:----	_	
+48-21	piger	pige	NC:piu#:--:----	_	
+48-22	,	,	ZD	_	
+48-23	der	der	US:----:--:----	_	
+48-24	er	være	VF:----:sa:----	_	
+48-25	interesserede	interessere	VP:p#u#:t-:----	_	
+48-26	i	i	T-:----:--:----	_	
+48-27	dig	du	PP:s-uc:--:-2#-	_	
+48-28	Godt	god	AD:----:--:p---	_	
+48-29	spørgsmål	spørgsmål	NC:siun:--:----	_	
+48-30	:	:	ZP	_	
+48-31	-	-	ZH	_	
+48-32	Hvis	hvis	CS:----:--:----	_	
+48-33	det	det	PP:s-un:--:-3n-	_	
+48-34	ikke	ikke	D-:----:--:u---	_	
+48-35	er	være	VF:----:sa:----	_	
+48-36	meningen	mening	NC:sduc:--:----	_	
+48-37	,	,	ZD	_	
+48-38	at	at	CS:----:--:----	_	
+48-39	man	man	PI:#-uc:--:----	_	
+48-40	skal	skulle	VF:----:sa:----	_	
+48-41	spise	spise	VI:----:-a:----	_	
+48-42	natmad	natmad	NC:siuc:--:----	_	
+48-43	,	,	ZD	_	
+48-44	hvorfor	hvorfor	D-:----:--:u---	_	
+48-45	er	være	VF:----:sa:----	_	
+48-46	der	der	US:----:--:----	_	
+48-47	så	så	D-:----:--:u---	_	
+48-48	lys	lys|lys-1e|lys-1f|Lys-2|lys-3|lys-4|lys-5|lys-F-bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-F-der-går-et-lys-op-for-nogen|lys-F-grønt/gult/rødt-lys|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-lede/søge-med-lys-og-lygte|lys-F-i-et-nyt-(andet-..)-lys|lys-F-føre-nogen-bag-lyset|lys-1g|lys-1d|lys-1-1a-1b-1c-1f	:----	lys_1c	
+48-49	i	i	T-:----:--:----	_	
+48-50	køleskabet	køleskab	NC:sdun:--:----	_	
+48-51	?	?	ZQ	_	
+
+#id=49
+#text=En ny duo ser dagens lys, når Chanée & N'evergreen sammen synger " In A Moment Like This".
+49-1	En	en	PI:s-uc:--:----	_	
+49-2	ny	ny	AC:siuc:--:p---	_	
+49-3	duo	duo	NC:siuc:--:----	_	
+49-4	ser	se	VF:----:sa:----	_	
+49-5	dagens	dag	NC:sdgc:--:----	_	
+49-6	lys	lys|lys-F-kaste-lys-over|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-rank-som-et-lys|lys-F-komme-for-dagens-lys|lys-1g|Lys-2|lys-3|lys-5|lys-F-bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys|lys-F-grønt-lys(for-noget)|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-gå-ud-som-et-lys|lys-4|lys-1d|lys-1e|lys-1f|lys-1-1a-1b-1c-1f	NC:siun:--:----	lys_F_se-dagens-lys	
+49-7	,	,	ZD	_	
+49-8	når	når	CS:----:--:----	_	
+49-9	Chanée	Chanée	NP:siu#:--:----	_	
+49-10	&	&	CC:----:--:----	_	
+49-11	N	and	XF:----:--:----	_	
+49-12	'	'	ZA	_	
+49-13	evergreen	evergreen	NC:siuc:--:----	_	
+49-14	sammen	sammen	D-:----:--:u---	_	
+49-15	synger	synge	VF:----:sa:----	_	
+49-16	"	"	ZI	_	
+49-17	In	In	XF:----:--:----	_	
+49-18	A	A	XF:----:--:----	_	
+49-19	Moment	Moment	XY:----:--:----	_	
+49-20	Like	Like	XF:----:--:----	_	
+49-21	This	this	--:----	_	
+49-22	"	"	ZI	_	
+49-23	.	.	ZP	_	
+
+#id=50
+#text=- Jeg arbejdede selv sammen med min far ( Wills far var køleanlægstekniker, red.), da jeg var knægt, og det, der sker, er, at man får set sin far i dennes bedste lys - der hvor han er allerdygtigst.
+50-1	-	-	NC:piu#:--:----	_	
+50-2	Jeg	jeg	NC:siun:--:----	_	
+50-3	arbejdede	arbejde	VF:----:ta:----	_	
+50-4	selv	selv	D-:----:--:u---	_	
+50-5	sammen	sammen	D-:----:--:u---	_	
+50-6	med	med	T-:----:--:----	_	
+50-7	min	min	PO:s--c:--:-1ns	_	
+50-8	far	far	NC:siuc:--:----	_	
+50-9	(	(	ZD	_	
+50-10	Wills	Wills	NP:sig#:--:----	_	
+50-11	far	far	NC:siuc:--:----	_	
+50-12	var	være	VF:----:ta:----	_	
+50-13	køleanlægstekniker	køleanlægstekniker	NC:siuc:--:----	_	
+50-14	,	,	ZD	_	
+50-15	red	ride	VF:----:ta:----	_	
+50-16	.	.	ZP	_	
+50-17	)	)	ZD	_	
+50-18	,	,	ZD	_	
+50-19	da	da	CS:----:--:----	_	
+50-20	jeg	jeg	PP:s-nc:--:-1n-	_	
+50-21	var	være	VF:----:ta:----	_	
+50-22	knægt	knægt	NC:siuc:--:----	_	
+50-23	,	,	ZD	_	
+50-24	og	og	CC:----:--:----	_	
+50-25	det	det	PP:s-un:--:-3n-	_	
+50-26	,	,	ZD	_	
+50-27	der	der	US:----:--:----	_	
+50-28	sker	ske	VF:----:sa:----	_	
+50-29	,	,	ZD	_	
+50-30	er	være	VF:----:sa:----	_	
+50-31	,	,	ZD	_	
+50-32	at	at	CS:----:--:----	_	
+50-33	man	man	PI:#-uc:--:----	_	
+50-34	får	få	VF:----:sa:----	_	
+50-35	set	se	VT:siu#:t-:----	_	
+50-36	sin	sin	PO:s--c:--:-3ys	_	
+50-37	far	far	NC:siuc:--:----	_	
+50-38	i	i	T-:----:--:----	_	
+50-39	dennes	dennes	XY:----:--:----	_	
+50-40	bedste	god	AC:§du§:--:s---	_	
+50-41	lys	lys|Lys-2|lys-3|lys-4|lys-5|lys-F-bengalsk-lys|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-kaste-lys-over|lys-F-brænde-sit-lys-i-begge-ender|lys-1d|lys-1f|lys-1g|lys-1e|lys-1-1a-1b-1c-1f	NW:----:--:----	lys_F_i-et-nyt-(andet,-..)-lys	
+50-42	-	-	ZH	_	
+50-43	der	der	US:----:--:----	_	
+50-44	hvor	hvor	D-:----:--:u---	_	
+50-45	han	han	PP:s-nc:--:-3n-	_	
+50-46	er	være	VF:----:sa:----	_	
+50-47	allerdygtigst	allerdygtig	AD:----:--:s---	_	
+50-48	.	.	ZP	_	
+
+#id=51
+#text=Og en konfrontation mellem Mike og Paul resulterer i, at det kommer frem i lyset, hvad - eller rettere, hvem - Betty og Matthew gemmer i bagagerummet.
+51-1	Og	og	CC:----:--:----	_	
+51-2	en	en	PI:s-uc:--:----	_	
+51-3	konfrontation	konfrontation	NC:siuc:--:----	_	
+51-4	mellem	mellem	T-:----:--:----	_	
+51-5	Mike	Mike	NP:siu#:--:----	_	
+51-6	og	og	CC:----:--:----	_	
+51-7	Paul	Paul	NP:siu#:--:----	_	
+51-8	resulterer	resultere	VF:----:sa:----	_	
+51-9	i	i	T-:----:--:----	_	
+51-10	,	,	ZD	_	
+51-11	at	at	CS:----:--:----	_	
+51-12	det	det	PP:s-un:--:-3n-	_	
+51-13	kommer	komme	VF:----:sa:----	_	
+51-14	frem	frem	D-:----:--:u---	_	
+51-15	i	i	T-:----:--:----	_	
+51-16	lyset	lys|lys-5|lys-F-bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|en-skæppe|lys-F-levende-lys|lys-F-grønt/gult/rødt-lys|lys-1d|lys-1e|lys-1f|lys-1g|lys-3|lys-4|Lys-2|lys-1-1a-1b-1c-1f	NC:sdun:--:----	lys_F_komme/bringe-frem-i-lyset	
+51-17	,	,	ZD	_	
+51-18	hvad	hvad	PR:s-u#:--:----	_	
+51-19	-	-	NC:piu#:--:----	_	
+51-20	eller	eller	CC:----:--:----	_	
+51-21	rettere	ret	AD:----:--:c---	_	
+51-22	,	,	ZD	_	
+51-23	hvem	hvem	PR:s-u#:--:----	_	
+51-24	-	-	NC:piu#:--:----	_	
+51-25	Betty	Betty	NP:siu#:--:----	_	
+51-26	og	og	CC:----:--:----	_	
+51-27	Matthew	Matthew	NP:siu#:--:----	_	
+51-28	gemmer	gemme	VF:----:sa:----	_	
+51-29	i	i	T-:----:--:----	_	
+51-30	bagagerummet	bagagerum	NC:sdun:--:----	_	
+51-31	.	.	ZP	_	
+
+#id=52
+#text=Inden da har omkring 50 mennesker været i gang med at diskutere kameravinkler, rykket rundt på møbler og indstillet lyset.
+52-1	Inden	inden	T-:----:--:----	_	
+52-2	da	da	D-:----:--:u---	_	
+52-3	har	have	VF:----:sa:----	_	
+52-4	omkring	omkring	T-:----:--:----	_	
+52-5	50	50	LC:--u-:--:----	_	
+52-6	mennesker	menneske	NC:piu#:--:----	_	
+52-7	været	være	VT:siu#:t-:----	_	
+52-8	i	i	T-:----:--:----	_	
+52-9	gang	gang	NC:siuc:--:----	_	
+52-10	med	med	T-:----:--:----	_	
+52-11	at	at	UI:----:--:----	_	
+52-12	diskutere	diskutere	VI:----:-a:----	_	
+52-13	kameravinkler	kameravinkel	NC:piu#:--:----	_	
+52-14	,	,	ZD	_	
+52-15	rykket	ryk	NC:sdun:--:----	_	
+52-16	rundt	rundt	D-:----:--:u---	_	
+52-17	på	på	T-:----:--:----	_	
+52-18	møbler	møbel	NC:piu#:--:----	_	
+52-19	og	og	CC:----:--:----	_	
+52-20	indstillet	indstille	VT:siu#:t-:----	_	
+52-21	lyset	lys|lys-F-rank-som-et-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-se-dagens-lys|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-F-lys-i-mørket|lys-1g|Lys-2|lys-3|lys-4|lys-F-bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-5|lys-1d|lys-1e|lys-1f|lys-1-1a-1b-1c-1f	NC:sdun:--:----	lys_2	
+52-22	.	.	ZP	_	
+
+#id=53
+#text= Marcias er lys i huden og lige så rødhåret som Marcia selv.
+53-1	Marcias	Marcias	NP:siu#:--:----	_	
+53-2	er	være	VF:----:sa:----	_	
+53-3	lys	lys|lys-1g|Lys-2|lys-3|lys-4|lys-5|lys-F-bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-tåle-dagens-lys|lys-F-komme-for-dagens-lys|lys-F-der-går-et-lys-op-for-nogen|lys-1f|lys-1-1a-1b-1c-1f|lys-1d|lys-1e	NC:siun:--:----	_	
+53-4	i	i	T-:----:--:----	_	
+53-5	huden	hud	NC:sduc:--:----	_	
+53-6	og	og	CC:----:--:----	_	
+53-7	lige	lige	D-:----:--:u---	_	
+53-8	så	så	D-:----:--:u---	_	
+53-9	rødhåret	rødhåret	AD:----:--:p---	_	
+53-10	som	som	US:----:--:----	_	
+53-11	Marcia	Marcia	NP:siu#:--:----	_	
+53-12	selv	selv	PM:#-u#:--:----	_	
+53-13	.	.	ZP	_	
+
+#id=54
+#text=Engang var hun en lysende stjerne på pophimlen - nu er lyset næsten gået ud.
+54-1	Engang	engang	D-:----:--:u---	_	
+54-2	var	være	VF:----:ta:----	_	
+54-3	hun	hun	PP:s-nc:--:-3n-	_	
+54-4	en	en	PI:s-uc:--:----	_	
+54-5	lysende	lyse	VP:##u#:s-:----	_	
+54-6	stjerne	stjerne	NC:siuc:--:----	_	
+54-7	på	på	T-:----:--:----	_	
+54-8	pophimlen	pophimmel	NW:----:--:----	_	
+54-9	-	-	ZH	_	
+54-10	nu	nu	D-:----:--:u---	_	
+54-11	er	være	VF:----:sa:----	_	
+54-12	lyset	lys|lys-1f|lys-1g|Lys-2|lys-4|lys-5|lys-F-bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-grønt-lys(for-noget)|lys-3|lys-1-1a-1b-1c-1f|lys-1d|lys-1e	NC:sdun:--:----	lys_1d	
+54-13	næsten	næsten	D-:----:--:u---	_	
+54-14	gået	gå	VT:siu#:t-:----	_	
+54-15	ud	ud	D-:----:--:u---	_	
+54-16	.	.	ZP	_	
+
+#id=55
+#text= Har Mørkets Fyrste endelig set lyset?.
+55-1	Har	have	VF:----:sa:----	_	
+55-2	Mørkets	mørke	NC:sdgn:--:----	_	
+55-3	Fyrste	fyrste	NC:siuc:--:----	_	
+55-4	endelig	endelig	D-:----:--:u---	_	
+55-5	set	se	VT:siu#:t-:----	_	
+55-6	lyset	lys|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-i-lyset-af|lys-1g|Lys-2|lys-3|lys-4|lys-5|lys-F-brænde-sit-lys-i-begge-ender|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-bengalsk-lys|a-1b-1c-1f|lys-1e|lys-1f|lys-1d	NC:sdun:--:----	lys_F_se-lyset	
+55-7	?	?	ZQ	_	
+55-8	.	.	ZP	_	
+
+#id=56
+#text= Lægerne gav grønt lys.
+56-1	Lægerne	læge	NC:pdu#:--:----	_	
+56-2	gav	give	VF:----:ta:----	_	
+56-3	grønt	grøn	AC:siun:--:p---	_	
+56-4	lys	lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-1f|lys-1g|lys-1d|lys-1e|lys-1-1a-1b-1c-1f|Lys-2|lys-3|lys-4|lys-5|lys-F-bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-lede/søge-med-lys-og-lygte	NC:siun:--:----	lys_F_grønt/gult/rødt-lys	
+56-5	.	.	ZP	_	
+
+#id=57
+#text= Så snart deres baby ser dagens lys, har de derfor planlagt at tage benene på nakken og fordufte til Mexico.
+57-1	Så	så	-:--:u---	_	
+57-2	snart	snart	D-:----:--:u---	_	
+57-3	deres	deres	XY:----:--:----	_	
+57-4	baby	baby	NC:siuc:--:----	_	
+57-5	ser	se	VF:----:sa:----	_	
+57-6	dagens	dag	NC:sdgc:--:----	_	
+57-7	lys	lys|lys-F-brænde-sit-lys-i-begge-ender|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys|lys-F-grønt-lys(for-noget)|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-rank-som-et-lys|lys-F-gå-ud-som-et-lys|lys-1f|lys-1g|Lys-2|lys-3|lys-5|lys-F-bengalsk-lys|lys-4|lys-1-1a-1b-1c-1f|lys-1d|lys-1e	NC:siun:--:----	lys_F_se-dagens-lys	
+57-8	,	,	ZD	_	
+57-9	har	have	VF:----:sa:----	_	
+57-10	de	de	PP:p-n#:--:-3n-	_	
+57-11	derfor	derfor	D-:----:--:u---	_	
+57-12	planlagt	planlagt	VT:siu#:t-:----	_	
+57-13	at	at	UI:----:--:----	_	
+57-14	tage	tage	VI:----:-a:----	_	
+57-15	benene	ben	NC:pdu#:--:----	_	
+57-16	på	på	T-:----:--:----	_	
+57-17	nakken	nakke	NC:sduc:--:----	_	
+57-18	og	og	CC:----:--:----	_	
+57-19	fordufte	fordufte	VI:----:-a:----	_	
+57-20	til	til	T-:----:--:----	_	
+57-21	Mexico	Mexico	NP:siu#:--:----	_	
+57-22	.	.	ZP	_	
+
+#id=58
+#text= Det er også her, provokatøren Pind ser dagens lys.
+58-1	Det	det	PP:s-un:--:-3n-	_	
+58-2	er	være	VF:----:sa:----	_	
+58-3	også	også	D-:----:--:u---	_	
+58-4	her	her	D-:----:--:u---	_	
+58-5	,	,	ZD	_	
+58-6	provokatøren	provokatør	NC:sduc:--:----	_	
+58-7	Pind	pind	NC:siuc:--:----	_	
+58-8	ser	se	VF:----:sa:----	_	
+58-9	dagens	dag	NC:sdgc:--:----	_	
+58-10	lys	lys|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|de-lys|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-stille/sætte-i-et-dårligt-lys|Lys-2|lys-3|lys-4|lys-5|lys-F-bengalsk-lys|lys-F-der-går-et-lys-op-for-nogen|lys-F-brænde-sit-lys-i-begge-ender|lys-1e|lys-1f|lys-1g|lys-1-1a-1b-1c-1f|lys-1d	NC:siun:--:----	lys_F_se-dagens-lys	
+58-11	.	.	ZP	_	
+
+#id=59
+#text=Han er gået fuldstændig lys-amok og har pyntet med alverdens julemænd og rensdyr.
+59-1	Han	han	PP:s-nc:--:-3n-	_	
+59-2	er	være	VF:----:sa:----	_	
+59-3	gået	gå	VT:siu#:t-:----	_	
+59-4	fuldstændig	fuldstændig	AC:siuc:--:p---	_	
+59-5	lys	lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-levende-lys|lys-3|lys-4|lys-5|lys-F-bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-grønt/gult/rødt-lys|lys-1-1a-1b-1c-1f|lys-1d|lys-1e|lys-1f|lys-1g|Lys-2	NW:----:--:----	_	
+59-6	-	-	ZH	_	
+59-7	amok	amok	AC:siuc:--:p---	_	
+59-8	og	og	CC:----:--:----	_	
+59-9	har	have	VF:----:sa:----	_	
+59-10	pyntet	pynte	VT:siu#:t-:----	_	
+59-11	med	med	T-:----:--:----	_	
+59-12	alverdens	alverden	NC:sigc:--:----	_	
+59-13	julemænd	julemænd	NC:piu#:--:----	_	
+59-14	og	og	CC:----:--:----	_	
+59-15	rensdyr	rensdyr	NC:siun:--:----	_	
+59-16	.	.	ZP	_	
+
+#id=60
+#text=Han stiller vores sted i et  rigtig dårligt lys, siger Kærgård.
+60-1	Han	han	PP:s-nc:--:-3n-	_	
+60-2	stiller	stille	VF:----:sa:----	_	
+60-3	vores	vores	PO:#--#:--:-1np	_	
+60-4	sted	sted	NC:siun:--:----	_	
+60-5	i	i	T-:----:--:----	_	
+60-6	et	en	PI:s-un:--:----	_	
+60-7	rigtig	rigtig	AD:----:--:p---	_	
+60-8	dårligt	dårlig	AC:siun:--:p---	_	
+60-9	lys	lys|lys-F-gå-ud-som-et-lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-i-et-nyt-(andet-..)-lys|lys-1e|lys-1f|lys-1g|Lys-2|lys-3|lys-4|lys-5|lys-F-bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys|lys-F-grønt-lys(for-noget)|lys-1d|lys-1-1a-1b-1c-1f	NC:siun:--:----	lys_F_stille/sætte-i-et-dårligt-lys	
+60-10	,	,	ZD	_	
+60-11	siger	sige	VF:----:sa:----	_	
+60-12	Kærgård	Kærgård	NP:siu#:--:----	_	
+60-13	.	.	ZP	_	
+
+#id=61
+#text= Siden da har yderligere tre julekalendere i samme serie set dagens lys, hvor " Pyrus i alletiders eventyr" er det seneste i rækken.
+61-1	Siden	siden	D-:----:--:u---	_	
+61-2	da	da	D-:----:--:u---	_	
+61-3	har	have	VF:----:sa:----	_	
+61-4	yderligere	yderlig	AD:----:--:c---	_	
+61-5	tre	tre	LC:--u-:--:----	_	
+61-6	julekalendere	julekalender	NC:piu#:--:----	_	
+61-7	i	i	T-:----:--:----	_	
+61-8	samme	samme	AC:§§u§:--:p---	_	
+61-9	serie	serie	NC:siuc:--:----	_	
+61-10	set	se	VT:siu#:t-:----	_	
+61-11	dagens	dag	NC:sdgc:--:----	_	
+61-12	lys	lys|lys-3|lys-4|lys-5|lys-F-bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-komme-for-dagens-lys|lys-1e|lys-1f|lys-1d|lys-1-1a-1b-1c-1f|lys-1g|Lys-2	NC:siun:--:----	lys_F_se-dagens-lys	
+61-13	,	,	ZD	_	
+61-14	hvor	hvor	D-:----:--:u---	_	
+61-15	"	"	ZI	_	
+61-16	Pyrus	Pyrus	NP:siu#:--:----	_	
+61-17	i	i	T-:----:--:----	_	
+61-18	alletiders	alletid	NC:pig#:--:----	_	
+61-19	eventyr	eventyr	NC:siun:--:----	_	
+61-20	"	"	ZI	_	
+61-21	er	være	VF:----:sa:----	_	
+61-22	det	den	PM:s-un:--:----	_	
+61-23	seneste	sen	AC:§du§:--:s---	_	
+61-24	i	i	T-:----:--:----	_	
+61-25	rækken	række	NC:sduc:--:----	_	
+61-26	.	.	ZP	_	
+
+#id=62
+#text= De høje træer på grunden skygger en del, men takket være store panoramavinduer slipper masser af lys ind i både sommerhus og anneks.
+62-1	De	den	PM:p-u#:--:----	_	
+62-2	høje	høj	AC:p#u#:--:p---	_	
+62-3	træer	træ	NC:piu#:--:----	_	
+62-4	på	på	T-:----:--:----	_	
+62-5	grunden	grund	NC:sduc:--:----	_	
+62-6	skygger	skygge	VF:----:sa:----	_	
+62-7	en	en	PI:s-uc:--:----	_	
+62-8	del	del	NC:siuc:--:----	_	
+62-9	,	,	ZD	_	
+62-10	men	men	CC:----:--:----	_	
+62-11	takket	takke	VT:siu#:t-:----	_	
+62-12	være	være	VI:----:-a:----	_	
+62-13	store	stor	AC:p#u#:--:p---	_	
+62-14	panoramavinduer	panoramavindue	NC:piu#:--:----	_	
+62-15	slipper	slippe	VF:----:sa:----	_	
+62-16	masser	masse	NC:piu#:--:----	_	
+62-17	af	af	T-:----:--:----	_	
+62-18	lys	lys|lys-F-grønt/gult/rødt-lys|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-lys-i-mørket|lys-3|lys-1f|lys-1g|Lys-2|lys-1d|lys-1e|lys-1-1a-1b-1c-1f|lys-4|lys-5|lys-F-bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset	NC:siun:--:----	lys_1b	
+62-19	ind	ind	D-:----:--:u---	_	
+62-20	i	i	T-:----:--:----	_	
+62-21	både	både	D-:----:--:u---	_	
+62-22	sommerhus	sommerhus	NC:siun:--:----	_	
+62-23	og	og	CC:----:--:----	_	
+62-24	anneks	anneks	NC:siun:--:----	_	
+62-25	.	.	ZP	_	
+
+#id=63
+#text=Hun er overbevist om, at karrieren ryger i grus, hvis hendes rette alder kommer for dagens lys.
+63-1	Hun	hun	PP:s-nc:--:-3n-	_	
+63-2	er	være	VF:----:sa:----	_	
+63-3	overbevist	e	VT:siu#:t-:----	_	
+63-4	om	om	T-:----:--:----	_	
+63-5	,	,	ZD	_	
+63-6	at	at	CS:----:--:----	_	
+63-7	karrieren	karriere	NC:sduc:--:----	_	
+63-8	ryger	ryge	--:sa:----	_	
+63-9	i	i	T-:----:--:----	_	
+63-10	grus	grus	NC:siun:--:----	_	
+63-11	,	,	ZD	_	
+63-12	hvis	hvis	CS:----:--:----	_	
+63-13	hendes	hendes	PO:#--#:--:-3ns	_	
+63-14	rette	ret	AC:sdu#:--:p---	_	
+63-15	alder	alder	NC:siuc:--:----	_	
+63-16	kommer	komme	VF:----:sa:----	_	
+63-17	for	for	T-:----:--:----	_	
+63-18	dagens	dag	NC:sdgc:--:----	_	
+63-19	lys	lys|lys-F-grønt/gult/rødt-lys|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-F-se-lyset|lys-1-1a-1b-1c-1f|lys-1d|lys-1e|lys-1f|lys-1g|Lys-2|lys-3|lys-4|lys-5|lys-F-bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset	NC:siun:--:----	lys_F_komme-for-dagens-lys	
+63-20	.	.	ZP	_	
+
+#id=64
+#text=I år var over 2200 isskulpturer udstillet, og de blev smukke, da kineserne sendte farvestrålende lys på dem.
+64-1	I	i	T-:----:--:----	_	
+64-2	år	år	NC:siun:--:----	_	
+64-3	var	være	VF:----:ta:----	_	
+64-4	over	over	T-:----:--:----	_	
+64-5	2200	2200	LC:--u-:--:----	_	
+64-6	isskulpturer	isskulptur	NC:piu#:--:----	_	
+64-7	udstillet	udstille	VT:siu#:t-:----	_	
+64-8	,	,	ZD	_	
+64-9	og	og	CC:----:--:----	_	
+64-10	de	de	PP:p-n#:--:-3n-	_	
+64-11	blev	blive	VF:----:ta:----	_	
+64-12	smukke	smuk	AC:p#u#:--:p---	_	
+64-13	,	,	ZD	_	
+64-14	da	da	CS:----:--:----	_	
+64-15	kineserne	kineser	NC:pdu#:--:----	_	
+64-16	sendte	sende	VF:----:ta:----	_	
+64-17	farvestrålende	farvestrålende	AC:§§u§:--:p---	_	
+64-18	lys	lys|lys-3|lys-4|lys-5|lys-F-bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-1f|lys-1g|Lys-2|lys-1d|lys-1e|lys-1-1a-1b-1c-1f	NC:siun:--:----	lys_1c	
+64-19	på	på	T-:----:--:----	_	
+64-20	dem	de	PP:p-u#:--:-3n-	_	
+64-21	.	.	ZP	_	
+
+#id=65
+#text=- Set i lyset af at jeg har skrevet en  bog om grill, er den her historie lidt pinlig.
+65-1	-	-	NC:piu#:--:----	_	
+65-2	Set	se	VT:siu#:t-:----	_	
+65-3	i	i	T-:----:--:----	_	
+65-4	lyset	lys|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-1-1a-1b-1c-1f|lys-1d|lys-1e|lys-1f|lys-1g|Lys-2|lys-3|lys-4|lys-5|lys-F-bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys	NC:sdun:--:----	lys_F_i-lyset-af	
+65-5	af	af	T-:----:--:----	_	
+65-6	at	at	CS:----:--:----	_	
+65-7	jeg	jeg	PP:s-nc:--:-1n-	_	
+65-8	har	have	VF:----:sa:----	_	
+65-9	skrevet	skrive	VT:siu#:t-:----	_	
+65-10	en	en	PI:s-uc:--:----	_	
+65-11	bog	bog	NC:siuc:--:----	_	
+65-12	om	om	T-:----:--:----	_	
+65-13	grill	grill	NC:siuc:--:----	_	
+65-14	,	,	ZD	_	
+65-15	er	være	VF:----:sa:----	_	
+65-16	den	den	PP:s-uc:--:-3n-	_	
+65-17	her	her	D-:----:--:u---	_	
+65-18	historie	historie	NC:siuc:--:----	_	
+65-19	lidt	lidt	AD:----:--:p---	_	
+65-20	pinlig	pinlig	AC:siuc:--:p---	_	
+65-21	.	.	ZP	_	
+
+#id=66
+#text= Skønheden sværger nemlig til Hollywoods nyeste trend, "Red Carpet Facial", som er en slags bombardement af ansigtet med mild elektrisk strøm og LED-lys, der åbenbart midlertidigt fremhæver kindben, hage og næse: smuk helt uden brug af Botox eller skalpel.
+66-1	Skønheden	skønhed	NC:sduc:--:----	_	
+66-2	sværger	sværge	VF:----:sa:----	_	
+66-3	nemlig	nemlig	D-:----:--:u---	_	
+66-4	til	til	T-:----:--:----	_	
+66-5	Hollywoods	Hollywood	NP:sig#:--:----	_	
+66-6	nyeste	ny	AC:§du§:--:s---	_	
+66-7	trend	trend	NC:siuc:--:----	_	
+66-8	,	,	ZD	_	
+66-9	"	"	ZI	_	
+66-10	Red	ride	VF:----:ta:----	_	
+66-11	Carpet	Carpet	NP:siu#:--:----	_	
+66-12	Facial	Facial	NP:siu#:--:----	_	
+66-13	"	"	ZI	_	
+66-14	,	,	ZD	_	
+66-15	som	som	US:----:--:----	_	
+66-16	er	være	VF:----:sa:----	_	
+66-17	en	en	PI:s-uc:--:----	_	
+66-18	slags	slags	NC:siuc:--:----	_	
+66-19	bombardement	bombardement	NC:siun:--:----	_	
+66-20	af	af	T-:----:--:----	_	
+66-21	ansigtet	ansigt	NC:sdun:--:----	_	
+66-22	med	med	T-:----:--:----	_	
+66-23	mild	mild	AC:siuc:--:p---	_	
+66-24	elektrisk	elektrisk	AC:siu§:--:p---	_	
+66-25	strøm	strøm	NC:siuc:--:----	_	
+66-26	og	og	CC:----:--:----	_	
+66-27	LED	LED	NW:----:--:----	_	
+66-28	-	-	ZH	_	
+66-29	lys	lys|Lys-2|lys-3|lys-4|lys-5|bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-1d|lys-1f|lys-1g|lys-1e|lys-1-1a-1b-1c-1f	NC:siun:--:----	lys_1c	
+66-30	,	,	ZD	_	
+66-31	der	der	US:----:--:----	_	
+66-32	åbenbart	åbenbart	D-:----:--:u---	_	
+66-33	midlertidigt	midlertidig	AD:----:--:p---	_	
+66-34	fremhæver	fremhæve	VF:----:sa:----	_	
+66-35	kindben	kindben	NC:siun:--:----	_	
+66-36	,	,	ZD	_	
+66-37	hage	hage	NC:siuc:--:----	_	
+66-38	og	og	CC:----:--:----	_	
+66-39	næse	næse	NC:siuc:--:----	_	
+66-40	:	:	ZP	_	
+66-41	smuk	smuk	AC:siuc:--:p---	_	
+66-42	helt	helt	NC:siuc:--:----	_	
+66-43	uden	uden	T-:----:--:----	_	
+66-44	brug	brug	NC:siuc:--:----	_	
+66-45	af	af	T-:----:--:----	_	
+66-46	Botox	Botox	NP:siu#:--:----	_	
+66-47	eller	eller	CC:----:--:----	_	
+66-48	skalpel	skalpel	NC:siuc:--:----	_	
+66-49	.	.	ZP	_	
+
+#id=67
+#text= Forleden mødtes Dennis og Martin Jørgensen i de fashionable lokaler, hvor de to herrer spankulerede fornøjede rundt i lyset fra nogle store spotlights og hyggede sig med Knudsens makeup-grej.
+67-1	Forleden	Forleden	XY:----:--:----	_	
+67-2	mødtes	møde	VF:----:tp:----	_	
+67-3	Dennis	Dennis	NP:siu#:--:----	_	
+67-4	og	og	CC:----:--:----	_	
+67-5	Martin	Martin	NP:siu#:--:----	_	
+67-6	Jørgensen	Jørgensen	NP:siu#:--:----	_	
+67-7	i	i	T-:----:--:----	_	
+67-8	de	den	PM:p-u#:--:----	_	
+67-9	fashionable	fashionabel	AC:p#u#:--:p---	_	
+67-10	lokaler	lokale	NC:piu#:--:----	_	
+67-11	,	,	ZD	_	
+67-12	hvor	hvor	D-:----:--:u---	_	
+67-13	de	den	PM:p-u#:--:----	_	
+67-14	to	to	LC:--u-:--:----	_	
+67-15	herrer	herre	NC:piu#:--:----	_	
+67-16	spankulerede	spankulere	VF:----:ta:----	_	
+67-17	fornøjede	fornøje	VF:----:ta:----	_	
+67-18	rundt	rundt	D-:----:--:u---	_	
+67-19	i	i	T-:----:--:----	_	
+67-20	lyset	lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-1f|lys-1g|Lys-2|lys-3|lys-4|lys-5|lys-F-bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-1-1a-1b-1c-1f|lys-1d|lys-1e	NC:sdun:--:----	lys_1d	
+67-21	fra	fra	T-:----:--:----	_	
+67-22	nogle	nogen	PI:p-u#:--:----	_	
+67-23	store	stor	AC:p#u#:--:p---	_	
+67-24	spotlights	spotlight	NC:piu#:--:----	_	
+67-25	og	og	CC:----:--:----	_	
+67-26	hyggede	hygge	VF:----:ta:----	_	
+67-27	sig	sig	PP:#-u#:--:-3y-	_	
+67-28	med	med	T-:----:--:----	_	
+67-29	Knudsens	Knudsen	NP:sig#:--:----	_	
+67-30	makeup	makeup	NW:----:--:----	_	
+67-31	-	-	ZH	_	
+67-32	grej	grej	NC:siun:--:----	_	
+67-33	.	.	ZP	_	
+
+#id=68
+#text= Ti timer efter, at jollen var kæntret, fik han øje på en ø, hvor der var lys i vinduerne på et hus.
+68-1	Ti	ti	LC:--u-:--:----	_	
+68-2	timer	time	NC:piu#:--:----	_	
+68-3	efter	efter	T-:----:--:----	_	
+68-4	,	,	ZD	_	
+68-5	at	at	CS:----:--:----	_	
+68-6	jollen	jolle	NC:sduc:--:----	_	
+68-7	var	være	VF:----:ta:----	_	
+68-8	kæntret	kæntre	VT:siu#:t-:----	_	
+68-9	,	,	ZD	_	
+68-10	fik	få	VF:----:ta:----	_	
+68-11	han	han	PP:s-nc:--:-3n-	_	
+68-12	øje	øje	VI:----:-a:----	_	
+68-13	på	på	T-:----:--:----	_	
+68-14	en	en	PI:s-uc:--:----	_	
+68-15	ø	ø	NC:siuc:--:----	_	
+68-16	,	,	ZD	_	
+68-17	hvor	hvor	D-:----:--:u---	_	
+68-18	der	der	US:----:--:----	_	
+68-19	var	være	VF:----:ta:----	_	
+68-20	lys	lys|lys-F-lys-i-mørket|lys-F-rank-som-et-lys|lys-F-se-dagens-lys|lys-F-se-lyset|lys-F-stille/sætte-i-et-dårligt-lys|lys-F-tåle-dagens-lys|lys-F-sætte-sit-lys-under-en-skæppe|lys-5|lys-F-bengalsk-lys|lys-F-brænde-sit-lys-i-begge-ender|lys-F-der-går-et-lys-op-for-nogen|lys-F-føre-nogen-bag-lyset|lys-F-grønt/gult/rødt-lys|lys-F-grønt-lys(for-noget)|lys-F-gå-ud-som-et-lys|lys-F-i-et-nyt-(andet-..)-lys|lys-F-i-lyset-af|lys-F-kaste-lys-over|lys-F-komme-for-dagens-lys|lys-F-lede/søge-med-lys-og-lygte|lys-F-levende-lys|lys-1d|lys-1e|lys-1f|lys-1g|Lys-2|lys-3|lys-4|lys-1-1a-1b-1c-1f	NC:siun:--:----	lys_1d	
+68-21	i	i	T-:----:--:----	_	
+68-22	vinduerne	vindue	NC:pdu#:--:----	_	
+68-23	på	på	T-:----:--:----	_	
+68-24	et	en	PI:s-un:--:----	_	
+68-25	hus	hus	NC:siun:--:----	_	
+68-26	.	.	ZP	_	
+

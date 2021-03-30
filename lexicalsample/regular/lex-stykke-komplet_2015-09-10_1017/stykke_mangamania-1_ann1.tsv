@@ -1,0 +1,1340 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Lexicalsample | tag
+#id=1
+#text=Hvis der gør kommer der nok til at gå et stykke tid.
+1-1	Hvis	hvis	CS:----:--:----	_	
+1-2	der	der	US:----:--:----	_	
+1-3	gør	gø	VF:----:sa:----	_	
+1-4	kommer	komme	VF:----:sa:----	_	
+1-5	der	der	US:----:--:----	_	
+1-6	nok	nok	D-:----:--:u---	_	
+1-7	til	til	T-:----:--:----	_	
+1-8	at	at	UI:----:--:----	_	
+1-9	gå	gå	VI:----:-a:----	_	
+1-10	et	en	PI:s-un:--:----	_	
+1-11	stykke	stykke	NC:siun:--:----	stykke_3a	
+1-12	tid	tid	NC:siuc:--:----	_	
+1-13	.	.	ZP	_	
+
+#id=2
+#text=tja... det er jo et stykke tid siden, at Zabuza er død, så kan godt forstå at det er svært at huske... har faktisk selv problemer med det, men gider ikke tjekke om hvad der er rigtigt lige nu... hehe, er rimlig doven.
+2-1	tja	tja	I-:----:--:----	_	
+2-2	.	.	ZP	_	
+2-3	.	.	ZP	_	
+2-4	.	.	ZP	_	
+2-5	det	det	PP:s-un:--:-3n-	_	
+2-6	er	være	VF:----:sa:----	_	
+2-7	jo	jo	D-:----:--:u---	_	
+2-8	et	en	PI:s-un:--:----	_	
+2-9	stykke	stykke	NC:siun:--:----	stykke_3a	
+2-10	tid	tid	NC:siuc:--:----	_	
+2-11	siden	siden	T-:----:--:----	_	
+2-12	,	,	ZD	_	
+2-13	at	at	CS:----:--:----	_	
+2-14	Zabuza	Zabuza	NP:siu#:--:----	_	
+2-15	er	være	VF:----:sa:----	_	
+2-16	død	død	AC:siuc:--:p---	_	
+2-17	,	,	ZD	_	
+2-18	så	så	D-:----:--:u---	_	
+2-19	kan	kunne	VF:----:sa:----	_	
+2-20	godt	god	AD:----:--:p---	_	
+2-21	forstå	forstå	VI:----:-a:----	_	
+2-22	at	at	CS:----:--:----	_	
+2-23	det	det	PP:s-un:--:-3n-	_	
+2-24	er	være	VF:----:sa:----	_	
+2-25	svært	svær	AC:siun:--:p---	_	
+2-26	at	at	UI:----:--:----	_	
+2-27	huske	huske	VI:----:-a:----	_	
+2-28	.	.	ZP	_	
+2-29	.	.	ZP	_	
+2-30	.	.	ZP	_	
+2-31	har	have	VF:----:sa:----	_	
+2-32	faktisk	faktisk	AD:----:--:p---	_	
+2-33	selv	selv	D-:----:--:u---	_	
+2-34	problemer	problem	NC:piu#:--:----	_	
+2-35	med	med	T-:----:--:----	_	
+2-36	det	det	PP:s-un:--:-3n-	_	
+2-37	,	,	ZD	_	
+2-38	men	men	CC:----:--:----	_	
+2-39	gider	gide	VF:----:sa:----	_	
+2-40	ikke	ikke	D-:----:--:u---	_	
+2-41	tjekke	tjekke	--:-a:----	_	
+2-42	om	om	CS:----:--:----	_	
+2-43	hvad	hvad	PR:s-u#:--:----	_	
+2-44	der	der	US:----:--:----	_	
+2-45	er	være	VF:----:sa:----	_	
+2-46	rigtigt	rigtig	AD:----:--:p---	_	
+2-47	lige	lige	D-:----:--:u---	_	
+2-48	nu	nu	D-:----:--:u---	_	
+2-49	.	.	ZP	_	
+2-50	.	.	ZP	_	
+2-51	.	.	ZP	_	
+2-52	hehe	hehe	I-:----:--:----	_	
+2-53	,	,	ZD	_	
+2-54	er	være	VF:----:sa:----	_	
+2-55	rimlig	rimlig	AC:siu§:--:p---	_	
+2-56	doven	doven	AC:siuc:--:p---	_	
+2-57	.	.	ZP	_	
+
+#id=3
+#text= Indtil videre er de vist oppe på omkring de 18 stykker...
+3-1	Indtil	indtil	CS:----:--:----	_	
+3-2	videre	videre	D-:----:--:u---	_	
+3-3	er	være	VF:----:sa:----	_	
+3-4	de	de	PP:p-n#:--:-3n-	_	
+3-5	vist	vist	D-:----:--:u---	_	
+3-6	oppe	oppe	D-:----:--:u---	_	
+3-7	på	på	T-:----:--:----	_	
+3-8	omkring	omkring	--:--:----	_	
+3-9	de	den	PM:p-u#:--:----	_	
+3-10	18	18	LC:--u-:--:----	_	
+3-11	stykker	stykke	NC:piu#:--:----	stykke_4a	
+3-12	.	.	ZP	_	
+3-13	.	.	ZP	_	
+3-14	.	.	ZP	_	
+
+#id=4
+#text= Venter et stykke tid med at stemme.
+4-1	Venter	vente	VF:----:sa:----	_	
+4-2	et	en	PI:s-un:--:----	_	
+4-3	stykke	stykke	NC:siun:--:----	stykke_3a	
+4-4	tid	tid	NC:siuc:--:----	_	
+4-5	med	med	T-:----:--:----	_	
+4-6	at	at	UI:----:--:----	_	
+4-7	stemme	stemme	VI:----:-a:----	_	
+4-8	.	.	ZP	_	
+
+#id=5
+#text= Det er virkelig unikt, og det bedste jeg er stødt på i et stykke tid.
+5-1	Det	det	PP:s-un:--:-3n-	_	
+5-2	er	være	VF:----:sa:----	_	
+5-3	virkelig	virkelig	D-:----:--:u---	_	
+5-4	unikt	unik	AC:siun:--:p---	_	
+5-5	,	,	ZD	_	
+5-6	og	og	CC:----:--:----	_	
+5-7	det	den	PM:s-un:--:----	_	
+5-8	bedste	god	AC:§du§:--:s---	_	
+5-9	jeg	jeg	NC:siun:--:----	_	
+5-10	er	være	VF:----:sa:----	_	
+5-11	stødt	støde	VT:siu#:t-:----	_	
+5-12	på	på	T-:----:--:----	_	
+5-13	i	i	T-:----:--:----	_	
+5-14	et	en	PI:s-un:--:----	_	
+5-15	stykke	stykke	NC:siun:--:----	stykke_3a	
+5-16	tid	tid	NC:siuc:--:----	_	
+5-17	.	.	ZP	_	
+
+#id=6
+#text= Jeg har da et par stykker: gaiaonline.com - Vist nok verdens største forum, mener der er over 1 mio. registrerede!
+6-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+6-2	har	have	VF:----:sa:----	_	
+6-3	da	da	D-:----:--:u---	_	
+6-4	et	en	PI:s-un:--:----	_	
+6-5	par	par	NC:siun:--:----	_	
+6-6	stykker	stykke	NC:piu#:--:----	stykke_4a	
+6-7	:	:	ZP	_	
+6-8	gaiaonline	gaiaonline	AD:----:--:p---	_	
+6-9	.	.	ZP	_	
+6-10	com	com	DW:----:--:----	_	
+6-11	-	-	ZH	_	
+6-12	Vist	vise	VT:siu#:t-:----	_	
+6-13	nok	nok	AC:§§u§:--:p---	_	
+6-14	verdens	verden	NC:sigc:--:----	_	
+6-15	største	stor	AC:§du§:--:s---	_	
+6-16	forum	forum	NC:siun:--:----	_	
+6-17	,	,	ZD	_	
+6-18	mener	mene	VF:----:sa:----	_	
+6-19	der	der	US:----:--:----	_	
+6-20	er	være	VF:----:sa:----	_	
+6-21	over	over	T-:----:--:----	_	
+6-22	1	1	LC:--u-:--:----	_	
+6-23	mio	mio	XS:----:--:----	_	
+6-24	.	.	ZP	_	
+6-25	registrerede	registrerede	AC:p#u#:--:p---	_	
+6-26	!	!	ZP	_	
+
+#id=7
+#text=jeg er da på nogle få stykker..
+7-1	jeg	jeg	PP:s-nc:--:-1n-	_	
+7-2	er	være	VF:----:sa:----	_	
+7-3	da	da	D-:----:--:u---	_	
+7-4	på	på	T-:----:--:----	_	
+7-5	nogle	nogen	PI:p-u#:--:----	_	
+7-6	få	få	AC:p#u#:--:p---	_	
+7-7	stykker	stykke	NC:piu#:--:----	stykke_4a	
+7-8	.	.	ZP	_	
+7-9	.	.	ZP	_	
+
+#id=8
+#text= Jeg har da selv, med hjælp fra en anden fan, fået "convertet" op mod 10 stykker her på teknisk gymnasium.
+8-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+8-2	har	have	VF:----:sa:----	_	
+8-3	da	da	D-:----:--:u---	_	
+8-4	selv	selv	PM:#-u#:--:----	_	
+8-5	,	,	ZD	_	
+8-6	med	med	T-:----:--:----	_	
+8-7	hjælp	hjælp	NC:siuc:--:----	_	
+8-8	fra	fra	T-:----:--:----	_	
+8-9	en	en	PI:s-uc:--:----	_	
+8-10	anden	anden	PI:s-uc:--:----	_	
+8-11	fan	fan	NC:siuc:--:----	_	
+8-12	,	,	ZD	_	
+8-13	fået	få	VT:siu#:t-:----	_	
+8-14	"	"	ZI	_	
+8-15	convertet	converten	PI:s-un:--:----	_	
+8-16	"	"	ZI	_	
+8-17	op	op	D-:----:--:u---	_	
+8-18	mod	mod	T-:----:--:----	_	
+8-19	10	10	LC:--u-:--:----	_	
+8-20	stykker	stykke	NC:piu#:--:----	stykke_4a	
+8-21	her	her	D-:----:--:u---	_	
+8-22	på	på	T-:----:--:----	_	
+8-23	teknisk	teknisk	AC:siu§:--:p---	_	
+8-24	gymnasium	gymnasium	NC:siun:--:----	_	
+8-25	.	.	ZP	_	
+
+#id=9
+#text=hehe, der er kun en nostalgisk anime der slår silver :P nemlig ROBOTECH hvilket jeg købte hele serien af for et godt stykke tid siden :)
+9-1	hehe	hehe	I-:----:--:----	_	
+9-2	,	,	ZD	_	
+9-3	der	der	US:----:--:----	_	
+9-4	er	være	VF:----:sa:----	_	
+9-5	kun	kun	D-:----:--:u---	_	
+9-6	en	en	PI:s-uc:--:----	_	
+9-7	nostalgisk	nostalgisk	AC:siuc:--:p---	_	
+9-8	anime	Anime	NP:siu#:--:----	_	
+9-9	der	der	US:----:--:----	_	
+9-10	slår	slå	VF:----:sa:----	_	
+9-11	silver	silvvære	VF:----:sa:----	_	
+9-12	:	:	ZP	_	
+9-13	P	P	NP:siu#:--:----	_	
+9-14	nemlig	nemlig	D-:----:--:u---	_	
+9-15	ROBOTECH	ROBOTECH	NP:siu#:--:----	_	
+9-16	hvilket	hvilket	XY:----:--:----	_	
+9-17	jeg	jeg	NC:siun:--:----	_	
+9-18	købte	købe	VF:----:ta:----	_	
+9-19	hele	hel	AC:sdu#:--:p---	_	
+9-20	serien	serie	NC:sduc:--:----	_	
+9-21	af	af	T-:----:--:----	_	
+9-22	for	for	T-:----:--:----	_	
+9-23	et	en	PI:s-un:--:----	_	
+9-24	godt	god	AC:siun:--:p---	stykke_3a	
+9-25	stykke	stykke	NC:siun:--:----	_	
+9-26	tid	tid	NC:siuc:--:----	_	
+9-27	siden	siden	D-:----:--:u---	_	
+9-28	:	:	ZP	_	
+9-29	)	)	ZD	_	
+
+#id=10
+#text= Naruto er bare ikke noget videre geni, og har heller ikke noget freaky level 2 curse seal til at tidoble hans styrke......(Desuden er jeg ret sikker på at Naruto holdt igen med sin Rasengan, han ville jo slæbe Sasuke tilbage, og jeg tror ikke at Sakura ville være særlig glad for Sasuke med hovedet sprunget i stykker)
+10-1	Naruto	Naruto	NP:siu#:--:----	_	
+10-2	er	være	VF:----:sa:----	_	
+10-3	bare	bare	D-:----:--:u---	_	
+10-4	ikke	ikke	D-:----:--:u---	_	
+10-5	noget	nogen	PI:s-un:--:----	_	
+10-6	videre	vid	AC:##u#:--:c---	_	
+10-7	geni	geni	NC:siun:--:----	_	
+10-8	,	,	ZD	_	
+10-9	og	og	CC:----:--:----	_	
+10-10	har	have	VF:----:sa:----	_	
+10-11	heller	heller	D-:----:--:u---	_	
+10-12	ikke	ikke	D-:----:--:u---	_	
+10-13	noget	nogen	PI:s-un:--:----	_	
+10-14	freaky	freakY	NC:siun:--:----	_	
+10-15	level	level	D-:----:--:u---	_	
+10-16	2	2	LC:--u-:--:----	_	
+10-17	curse	curse	VI:----:-a:----	_	
+10-18	seal	seal	PI:s-uc:--:----	_	
+10-19	til	til	T-:----:--:----	_	
+10-20	at	at	UI:----:--:----	_	
+10-21	tidoble	tidoble	VI:----:-a:----	_	
+10-22	hans	hans	PO:#--#:--:-3ns	_	
+10-23	styrke	styrke	NC:siuc:--:----	_	
+10-24	.	.	ZP	_	
+10-25	.	.	ZP	_	
+10-26	.	.	ZP	_	
+10-27	.	.	ZP	_	
+10-28	.	.	ZP	_	
+10-29	.	.	ZP	_	
+10-30	(	(	ZD	_	
+10-31	Desuden	desuden	D-:----:--:u---	_	
+10-32	er	være	VF:----:sa:----	_	
+10-33	jeg	jeg	PP:s-nc:--:-1n-	_	
+10-34	ret	ret	D-:----:--:u---	_	
+10-35	sikker	sikker	AC:siuc:--:p---	_	
+10-36	på	på	T-:----:--:----	_	
+10-37	at	at	CS:----:--:----	_	
+10-38	Naruto	Naruto	NP:siu#:--:----	_	
+10-39	holdt	lde	VF:----:ta:----	_	
+10-40	igen	igen	D-:----:--:u---	_	
+10-41	med	med	T-:----:--:----	_	
+10-42	sin	sin	PO:s--c:--:-3ys	_	
+10-43	Rasengan	Rasengan	NP:siu#:--:----	_	
+10-44	,	,	ZD	_	
+10-45	han	han	PP:s-nc:--:-3n-	_	
+10-46	ville	ville	VF:----:ta:----	_	
+10-47	jo	jo	D-:----:--:u---	_	
+10-48	slæbe	slæbe	VI:----:-a:----	_	
+10-49	Sasuke	Sasuke	NP:siu#:--:----	_	
+10-50	tilbage	tilbage	D-:----:--:u---	_	
+10-51	,	,	ZD	_	
+10-52	og	og	CC:----:--:----	_	
+10-53	jeg	jeg	PP:s-nc:--:-1n-	_	
+10-54	tror	tro	VF:----:sa:----	_	
+10-55	ikke	ikke	D-:----:--:u---	_	
+10-56	at	at	CS:----:--:----	_	
+10-57	Sakura	Sakura	NP:siu#:--:----	_	
+10-58	ville	ville	VF:----:ta:----	_	
+10-59	være	være	VI:----:-a:----	_	
+10-60	særlig	særlig	AD:----:--:p---	_	
+10-61	glad	glad	AC:siu§:--:p---	_	
+10-62	for	for	T-:----:--:----	_	
+10-63	Sasuke	Sasuke	NP:siu#:--:----	_	
+10-64	med	med	T-:----:--:----	_	
+10-65	hovedet	hoved	NC:sdun:--:----	_	
+10-66	sprunget	springe	VT:siu#:t-:----	_	
+10-67	i	i	T-:----:--:----	_	
+10-68	stykker	stykke	NC:piu#:--:----	stykke_F_i stykker	
+10-69	)	)	ZD	_	
+
+#id=11
+#text=Det var en af de første intelligente ting Naruto gjorde _. (Neji havde oven i købet slået sin Byakugan fra, fordi han var så sikker på at "Naruto ikke kunne vinde, det er hans  skæbne at tabe" (Neji var ret irriterende med det skæbneævl i et stykke tid :P)
+11-1	Det	det	PP:s-un:--:-3n-	_	
+11-2	var	være	VF:----:ta:----	_	
+11-3	en	en	PI:s-uc:--:----	_	
+11-4	af	af	T-:----:--:----	_	
+11-5	de	den	PM:p-u#:--:----	_	
+11-6	første	første	AC:§§u§:--:p---	_	
+11-7	intelligente	intelligent	AC:sdu#:--:p---	_	
+11-8	ting	ting	NC:siuc:--:----	_	
+11-9	Naruto	Naruto	NP:siu#:--:----	_	
+11-10	gjorde	gøre	VF:----:ta:----	_	
+11-11	_	_	NC:piu#:--:----	_	
+11-12	.	.	ZP	_	
+11-13	(	(	ZD	_	
+11-14	Neji	Neji	NP:siu#:--:----	_	
+11-15	havde	have	VF:----:ta:----	_	
+11-16	oven	oven	D-:----:--:u---	_	
+11-17	i	i	T-:----:--:----	_	
+11-18	købet	køb	NC:sdun:--:----	_	
+11-19	slået	slå	VT:siu#:t-:----	_	
+11-20	sin	sin	PO:s--c:--:-3ys	_	
+11-21	Byakugan	Byakugan	NP:siu#:--:----	_	
+11-22	fra	fra	T-:----:--:----	_	
+11-23	,	,	ZD	_	
+11-24	fordi	fordi	CS:----:--:----	_	
+11-25	han	han	PP:s-nc:--:-3n-	_	
+11-26	var	være	VF:----:ta:----	_	
+11-27	så	så	D-:----:--:u---	_	
+11-28	sikker	sikker	AC:siuc:--:p---	_	
+11-29	på	på	T-:----:--:----	_	
+11-30	at	at	UI:----:--:----	_	
+11-31	"	"	ZI	_	
+11-32	Naruto	Naruto	NP:siu#:--:----	_	
+11-33	ikke	ikke	D-:----:--:u---	_	
+11-34	kunne	kunne	VF:----:ta:----	_	
+11-35	vinde	vinde	VI:----:-a:----	_	
+11-36	,	,	ZD	_	
+11-37	det	det	PP:s-un:--:-3n-	_	
+11-38	er	være	VF:----:sa:----	_	
+11-39	hans	hans	PO:#--#:--:-3ns	_	
+11-40	skæbne	skæbne	NC:siuc:--:----	_	
+11-41	at	at	UI:----:--:----	_	
+11-42	tabe	tabe	VI:----:-a:----	_	
+11-43	"	"	ZI	_	
+11-44	(	(	ZD	_	
+11-45	Neji	Neji	NP:siu#:--:----	_	
+11-46	var	være	VF:----:ta:----	_	
+11-47	ret	ret	D-:----:--:u---	_	
+11-48	irriterende	irritere	VP:##u#:s-:----	_	
+11-49	med	med	T-:----:--:----	_	
+11-50	det	den	PM:s-un:--:----	_	
+11-51	skæbneævl	skæbneævl	NC:siun:--:----	_	
+11-52	i	i	T-:----:--:----	_	
+11-53	et	en	PI:s-un:--:----	_	
+11-54	stykke	stykke	NC:siun:--:----	stykke_3a	
+11-55	tid	tid	NC:siuc:--:----	_	
+11-56	:	:	ZP	_	
+11-57	P	P	NP:siu#:--:----	_	
+11-58	)	)	ZD	_	
+
+#id=12
+#text= Men ja, der var en hel del nuttede små skolepiger, og også et par stykker i kimono.
+12-1	Men	men	CC:----:--:----	_	
+12-2	ja	ja	I-:----:--:----	_	
+12-3	,	,	ZD	_	
+12-4	der	der	US:----:--:----	_	
+12-5	var	være	VF:----:ta:----	_	
+12-6	en	en	PI:s-uc:--:----	_	
+12-7	hel	hel	AC:siuc:--:p---	_	
+12-8	del	del	NC:siuc:--:----	_	
+12-9	nuttede	nuttet	AC:p#u#:--:p---	_	
+12-10	små	lille	AC:p#u#:--:p---	_	
+12-11	skolepiger	skolepige	NC:piu#:--:----	_	
+12-12	,	,	ZD	_	
+12-13	og	og	CC:----:--:----	_	
+12-14	også	også	D-:----:--:u---	_	
+12-15	et	en	PI:s-un:--:----	_	
+12-16	par	par	NC:siun:--:----	_	
+12-17	stykker	stykke	NC:piu#:--:----	stykke_4a	
+12-18	i	i	T-:----:--:----	_	
+12-19	kimono	kimono	NC:siuc:--:----	_	
+12-20	.	.	ZP	_	
+
+#id=13
+#text= Der vil heller ikke være nogle gode eller revolutionrerererde spil det første stykke tid til næste generations konsollerne.
+13-1	Der	der	US:----:--:----	_	
+13-2	vil	ville	VF:----:sa:----	_	
+13-3	heller	heller	D-:----:--:u---	_	
+13-4	ikke	ikke	D-:----:--:u---	_	
+13-5	være	være	VI:----:-a:----	_	
+13-6	nogle	nogen	PI:p-u#:--:----	_	
+13-7	gode	god	AC:p#u#:--:p---	_	
+13-8	eller	eller	CC:----:--:----	_	
+13-9	revolutionrerererde	revolutionrerererde	PP:p-n#:--:-3n-	_	
+13-10	spil	spil	NC:siun:--:----	_	
+13-11	det	den	PM:s-un:--:----	_	
+13-12	første	første	AC:§§u§:--:p---	_	
+13-13	stykke	stykke	NC:siun:--:----	stykke_3a	
+13-14	tid	tid	NC:siuc:--:----	_	
+13-15	til	til	T-:----:--:----	_	
+13-16	næste	næste	AC:§§u§:--:p---	_	
+13-17	generations	generation	NC:sigc:--:----	_	
+13-18	konsollerne	konsol	NC:pdu#:--:----	_	
+13-19	.	.	ZP	_	
+
+#id=14
+#text=Ja, nu er det jo efterhånden, et langt stykke tid siden, at One Piece kom til Danmark.
+14-1	Ja	ja	I-:----:--:----	_	
+14-2	,	,	ZD	_	
+14-3	nu	nu	D-:----:--:u---	_	
+14-4	er	være	VF:----:sa:----	_	
+14-5	det	det	PP:s-un:--:-3n-	_	
+14-6	jo	jo	D-:----:--:u---	_	
+14-7	efterhånden	efterhånden	D-:----:--:u---	_	
+14-8	,	,	ZD	_	
+14-9	et	en	PI:s-un:--:----	_	
+14-10	langt	lang	AC:siun:--:p---	_	
+14-11	stykke	stykke	NC:siun:--:----	stykke_3a	
+14-12	tid	tid	NC:siuc:--:----	_	
+14-13	siden	siden	T-:----:--:----	_	
+14-14	,	,	ZD	_	
+14-15	at	at	CS:----:--:----	_	
+14-16	One	One	NP:siu#:--:----	_	
+14-17	Piece	Piece	NP:siu#:--:----	_	
+14-18	kom	komme	VF:----:ta:----	_	
+14-19	til	til	T-:----:--:----	_	
+14-20	Danmark	Danmark	NP:siu#:--:----	_	
+14-21	.	.	ZP	_	
+
+#id=15
+#text= Den her vil jeg holde fast på et stykke tid endnu Fandt også OST'en.
+15-1	Den	den	PP:s-uc:--:-3n-	_	
+15-2	her	her	D-:----:--:u---	_	
+15-3	vil	ville	VF:----:sa:----	_	
+15-4	jeg	jeg	PP:s-nc:--:-1n-	_	
+15-5	holde	holde	VI:----:-a:----	_	
+15-6	fast	fast	AD:----:--:p---	_	
+15-7	på	på	T-:----:--:----	_	
+15-8	et	en	PI:s-un:--:----	_	
+15-9	stykke	stykke	NC:siun:--:----	stykke_3a	
+15-10	tid	tid	NC:siuc:--:----	_	
+15-11	endnu	endnu	D-:----:--:u---	_	
+15-12	Fandt	finde	VF:----:ta:----	_	
+15-13	også	også	D-:----:--:u---	_	
+15-14	OST	ost	NC:siuc:--:----	_	
+15-15	'	'	ZA	_	
+15-16	en	@en	MN:sduc:--:----	_	
+15-17	.	.	ZP	_	
+
+#id=16
+#text= Har tænkt på det et stykke tid, for det første fordi lydordene er ret tyske.
+16-1	Har	have	VF:----:sa:----	_	
+16-2	tænkt	tænke	VT:siu#:t-:----	_	
+16-3	på	på	T-:----:--:----	_	
+16-4	det	den	PM:s-un:--:----	_	
+16-5	et	en	PI:s-un:--:----	_	
+16-6	stykke	stykke	NC:siun:--:----	stykke_3a	
+16-7	tid	tid	NC:siuc:--:----	_	
+16-8	,	,	ZD	_	
+16-9	for	for	T-:----:--:----	_	
+16-10	det	den	PM:s-un:--:----	_	
+16-11	første	første	AC:§§u§:--:p---	_	
+16-12	fordi	fordi	CS:----:--:----	_	
+16-13	lydordene	lydord	NC:pdu#:--:----	_	
+16-14	er	være	VF:----:sa:----	_	
+16-15	ret	ret	D-:----:--:u---	_	
+16-16	tyske	tysk	AC:p#u#:--:p---	_	
+16-17	.	.	ZP	_	
+
+#id=17
+#text= Da de viser manuskriptet til det stykke de skal spille står titlen på tysk...
+17-1	Da	da	CS:----:--:----	_	
+17-2	de	de	PP:p-n#:--:-3n-	_	
+17-3	viser	vise	VF:----:sa:----	_	
+17-4	manuskriptet	manuskript	NC:sdun:--:----	_	
+17-5	til	til	T-:----:--:----	_	
+17-6	det	den	PM:s-un:--:----	_	
+17-7	stykke	stykke	NC:siun:--:----	stykke_5a	
+17-8	de	de	PP:p-n#:--:-3n-	_	
+17-9	skal	skulle	VF:----:sa:----	_	
+17-10	spille	spille	NC:siuc:--:----	_	
+17-11	står	stå	VF:----:sa:----	_	
+17-12	titlen	titel	NC:sduc:--:----	_	
+17-13	på	på	T-:----:--:----	_	
+17-14	tysk	tysk	NC:siun:--:----	_	
+17-15	.	.	ZP	_	
+17-16	.	.	ZP	_	
+17-17	.	.	ZP	_	
+
+#id=18
+#text=Jeg dukker nok op, da det efterhånden er et godt stykke tid siden jeg sidst er stødt på uniformerede japanske skolepiger.
+18-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+18-2	dukker	dukke	VF:----:sa:----	_	
+18-3	nok	nok	D-:----:--:u---	_	
+18-4	op	op	D-:----:--:u---	_	
+18-5	,	,	ZD	_	
+18-6	da	da	CS:----:--:----	_	
+18-7	det	det	PP:s-un:--:-3n-	_	
+18-8	efterhånden	efterhånden	D-:----:--:u---	_	
+18-9	er	være	VF:----:sa:----	_	
+18-10	et	en	PI:s-un:--:----	_	
+18-11	godt	god	AC:siun:--:p---	_	
+18-12	stykke	stykke	NC:siun:--:----	stykke_3a	
+18-13	tid	tid	NC:siuc:--:----	_	
+18-14	siden	siden	CS:----:--:----	_	
+18-15	jeg	jeg	PP:s-nc:--:-1n-	_	
+18-16	sidst	sidst	D-:----:--:u---	_	
+18-17	er	være	VF:----:sa:----	_	
+18-18	stødt	støde	VT:siu#:t-:----	_	
+18-19	på	på	T-:----:--:----	_	
+18-20	uniformerede	uniformere	VP:p#u#:t-:----	_	
+18-21	japanske	japansk	AC:p#u#:--:p---	_	
+18-22	skolepiger	skolepige	NC:piu#:--:----	_	
+18-23	.	.	ZP	_	
+
+#id=19
+#text= Nu udgøres forummet stort set kun af 15-20 stykker.
+19-1	Nu	nu	D-:----:--:u---	_	
+19-2	udgøres	udgøre	VF:----:sp:----	_	
+19-3	forummet	forum	NC:sdun:--:----	_	
+19-4	stort	stor	AD:----:--:p---	_	
+19-5	set	se	VT:siu#:t-:----	_	
+19-6	kun	kun	D-:----:--:u---	_	
+19-7	af	af	T-:----:--:----	_	
+19-8	15	15	LC:--u-:--:----	_	
+19-9	-	-	ZH	_	
+19-10	20	20	LC:--u-:--:----	_	
+19-11	stykker	stykke	NC:piu#:--:----	stykke_5a	
+19-12	.	.	ZP	_	
+
+#id=20
+#text=Det er nu ved at være et stykke tid siden, vi begyndte læseprojektet.
+20-1	Det	det	PP:s-un:--:-3n-	_	
+20-2	er	være	VF:----:sa:----	_	
+20-3	nu	nu	D-:----:--:u---	_	
+20-4	ved	ved	T-:----:--:----	_	
+20-5	at	at	UI:----:--:----	_	
+20-6	være	være	VI:----:-a:----	_	
+20-7	et	en	PI:s-un:--:----	_	
+20-8	stykke	stykke	NC:siun:--:----	stykke_3a	
+20-9	tid	tid	NC:siuc:--:----	_	
+20-10	siden	siden	T-:----:--:----	_	
+20-11	,	,	ZD	_	
+20-12	vi	vi	PP:p-nc:--:-1n-	_	
+20-13	begyndte	begynde	VF:----:ta:----	_	
+20-14	læseprojektet	læseprojekt	NC:sdun:--:----	_	
+20-15	.	.	ZP	_	
+
+#id=21
+#text=Jeg har også hørt for et godt stykke tid siden, at vi nu hvor den var udskudt (til d.
+21-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+21-2	har	have	VF:----:sa:----	_	
+21-3	også	også	D-:----:--:u---	_	
+21-4	hørt	høre	VT:siu#:t-:----	_	
+21-5	for	for	T-:----:--:----	_	
+21-6	et	en	PI:s-un:--:----	_	
+21-7	godt	god	AC:siun:--:p---	_	
+21-8	stykke	stykke	NC:siun:--:----	stykke_3a	
+21-9	tid	tid	NC:siuc:--:----	_	
+21-10	siden	siden	T-:----:--:----	_	
+21-11	,	,	ZD	_	
+21-12	at	at	CS:----:--:----	_	
+21-13	vi	vi	PP:p-nc:--:-1n-	_	
+21-14	nu	nu	D-:----:--:u---	_	
+21-15	hvor	hvor	D-:----:--:u---	_	
+21-16	den	den	PP:s-uc:--:-3n-	_	
+21-17	var	være	VF:----:ta:----	_	
+21-18	udskudt	udskyde	VT:siu#:t-:----	_	
+21-19	(	(	ZD	_	
+21-20	til	til	CS:----:--:----	_	
+21-21	d	d	NP:siu#:--:----	_	
+21-22	.	.	ZP	_	
+
+#id=22
+#text="gome nasa" (jeg beklager) >nå jeg skal i krig i morgen. håber jeg overlever og kommer Tilbage i et stykke
+22-1	"	"	ZI	_	
+22-2	gome	goMe	XF:----:--:----	_	
+22-3	nasa	nasa	XF:----:--:----	_	
+22-4	"	"	ZI	_	
+22-5	(	(	ZD	_	
+22-6	jeg	jeg	PP:s-nc:--:-1n-	_	
+22-7	beklager	beklage	VF:----:sa:----	_	
+22-8	)	)	ZD	_	
+22-9	>nå	nå	NP:siu#:--:----	_	
+22-10	jeg	jeg	NC:siun:--:----	_	
+22-11	skal	skulle	VF:----:sa:----	_	
+22-12	i	i	T-:----:--:----	_	
+22-13	krig	krig	NC:siuc:--:----	_	
+22-14	i	i	T-:----:--:----	_	
+22-15	morgen	morgen	NC:siuc:--:----	_	
+22-16	.	.	ZP	_	
+22-17	håber	håbe	VF:----:sa:----	_	
+22-18	jeg	jeg	PP:s-nc:--:-1n-	_	
+22-19	overlever	overleve	VF:----:sa:----	_	
+22-20	og	og	CC:----:--:----	_	
+22-21	kommer	komme	VF:----:sa:----	_	
+22-22	Tilbage	tilbage	D-:----:--:u---	_	
+22-23	i	i	T-:----:--:----	_	
+22-24	et	en	PI:s-un:--:----	_	
+22-25	stykke	stykke	NC:siun:--:----	stykke_4	
+
+#id=23
+#text= Jeg har gennemført 2'eren, men mistede interessen for 1'eren et stykke inde i spillet..
+23-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+23-2	har	have	VF:----:sa:----	_	
+23-3	gennemført	gennemføre	VT:siu#:t-:----	_	
+23-4	2	2	LC:--u-:--:----	_	
+23-5	'	'	ZA	_	
+23-6	eren	@eren	MN:sduc:--:----	_	
+23-7	,	,	ZD	_	
+23-8	men	men	CC:----:--:----	_	
+23-9	mistede	miste	VF:----:ta:----	_	
+23-10	interessen	interesse	NC:sduc:--:----	_	
+23-11	for	for	T-:----:--:----	_	
+23-12	1	1	LC:--u-:--:----	_	
+23-13	'	'	ZA	_	
+23-14	eren	eren	XY:----:--:----	_	
+23-15	et	en	PI:s-un:--:----	_	
+23-16	stykke	stykke	NC:siun:--:----	stykke_3	
+23-17	inde	inde	D-:----:--:u---	_	
+23-18	i	i	T-:----:--:----	_	
+23-19	spillet	spil	NC:sdun:--:----	_	
+23-20	.	.	ZP	_	
+23-21	.	.	ZP	_	
+
+#id=24
+#text=Jeg kom fra en lille by 20 km syd fra køge, der er 2000 indbyggerer og afligevel var vi en 6-7 stykker i en alder af 17-18 år som så(ser) anime..
+24-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+24-2	kom	komme	VF:----:ta:----	_	
+24-3	fra	fra	T-:----:--:----	_	
+24-4	en	en	PI:s-uc:--:----	_	
+24-5	lille	lille	AC:s§u§:--:p---	_	
+24-6	by	by	NC:siuc:--:----	_	
+24-7	20	20	LC:--u-:--:----	_	
+24-8	km	kilometer	NC:piu#:--:----	_	
+24-9	syd	syd	D-:----:--:u---	_	
+24-10	fra	fra	D-:----:--:u---	_	
+24-11	køge	køge	VI:----:-a:----	_	
+24-12	,	,	ZD	_	
+24-13	der	der	US:----:--:----	_	
+24-14	er	være	VF:----:sa:----	_	
+24-15	2000	2000	LC:--u-:--:----	_	
+24-16	indbyggerer	indbyggere	VF:----:sa:----	_	
+24-17	og	og	CC:----:--:----	_	
+24-18	afligevel	afligevel	D-:----:--:u---	_	
+24-19	var	være	VF:----:ta:----	_	
+24-20	vi	vi	PP:p-nc:--:-1n-	_	
+24-21	en	en	PI:s-uc:--:----	_	
+24-22	6	6	LW:----:--:----	_	
+24-23	-	-	ZH	_	
+24-24	7	7	LC:--u-:--:----	_	
+24-25	stykker	stykke	NC:piu#:--:----	stykke_4a	
+24-26	i	i	T-:----:--:----	_	
+24-27	en	en	PI:s-uc:--:----	_	
+24-28	alder	alder	NC:siuc:--:----	_	
+24-29	af	af	T-:----:--:----	_	
+24-30	17	17	LC:--u-:--:----	_	
+24-31	-	-	ZH	_	
+24-32	18	18	LC:--u-:--:----	_	
+24-33	år	år	NC:piu#:--:----	_	
+24-34	som	som	US:----:--:----	_	
+24-35	så	så	D-:----:--:u---	_	
+24-36	(	(	ZD	_	
+24-37	ser	se	VF:----:sa:----	_	
+24-38	)	)	ZD	_	
+24-39	anime	Anime	NP:siu#:--:----	_	
+24-40	.	.	ZP	_	
+24-41	.	.	ZP	_	
+
+#id=25
+#text=Haha, det kan godt tage lidt tid at overtale ham engang imellem ;) det tog også et stykke tid før han gad at se Naruto.. men jeg fik da overtalt ham og nu er han ret vild med den 
+25-1	Haha	Haha	NP:siu#:--:----	_	
+25-2	,	,	ZD	_	
+25-3	det	det	PP:s-un:--:-3n-	_	
+25-4	kan	kunne	VF:----:sa:----	_	
+25-5	godt	god	AD:----:--:p---	_	
+25-6	tage	tage	VI:----:-a:----	_	
+25-7	lidt	lidt	AC:siu§:--:p---	_	
+25-8	tid	tid	NC:siuc:--:----	_	
+25-9	at	at	UI:----:--:----	_	
+25-10	overtale	overtale	VI:----:-a:----	_	
+25-11	ham	han	PP:s-uc:--:-3n-	_	
+25-12	engang	engang	D-:----:--:u---	_	
+25-13	imellem	imellem	T-:----:--:----	_	
+25-14	;	;	ZP	_	
+25-15	)	)	ZD	_	
+25-16	det	det	PP:s-un:--:-3n-	_	
+25-17	tog	tage	VF:----:ta:----	_	
+25-18	også	også	D-:----:--:u---	_	
+25-19	et	en	PI:s-un:--:----	_	
+25-20	stykke	stykke	NC:siun:--:----	stykke_3a	
+25-21	tid	tid	NC:siuc:--:----	_	
+25-22	før	før	CS:----:--:----	_	
+25-23	han	han	PP:s-nc:--:-3n-	_	
+25-24	gad	gide	VF:----:ta:----	_	
+25-25	at	at	UI:----:--:----	_	
+25-26	se	se	VI:----:-a:----	_	
+25-27	Naruto	Naruto	NP:siu#:--:----	_	
+25-28	.	.	ZP	_	
+25-29	.	.	ZP	_	
+25-30	men	men	CC:----:--:----	_	
+25-31	jeg	jeg	PP:s-nc:--:-1n-	_	
+25-32	fik	få	VF:----:ta:----	_	
+25-33	da	da	D-:----:--:u---	_	
+25-34	overtalt	overtale	VT:siu#:t-:----	_	
+25-35	ham	han	PP:s-uc:--:-3n-	_	
+25-36	og	og	CC:----:--:----	_	
+25-37	nu	nu	D-:----:--:u---	_	
+25-38	er	være	VF:----:sa:----	_	
+25-39	han	han	PP:s-nc:--:-3n-	_	
+25-40	ret	ret	D-:----:--:u---	_	
+25-41	vild	vild	AD:----:--:p---	_	
+25-42	med	med	T-:----:--:----	_	
+25-43	den	den	PM:s-uc:--:----	_	
+
+#id=26
+#text= Af den slags du nævner har jeg spillet nogle stykker.
+26-1	Af	af	T-:----:--:----	_	
+26-2	den	den	PM:s-uc:--:----	_	
+26-3	slags	slags	XY:----:--:----	_	
+26-4	du	du	XF:----:--:----	_	
+26-5	nævner	nævner	NC:siuc:--:----	_	
+26-6	har	have	VF:----:sa:----	_	
+26-7	jeg	jeg	PP:s-nc:--:-1n-	_	
+26-8	spillet	spille	VT:siu#:t-:----	_	
+26-9	nogle	nogen	PI:p-u#:--:----	_	
+26-10	stykker	stykke	NC:piu#:--:----	stykke_4a	
+26-11	.	.	ZP	_	
+
+#id=27
+#text=For et stykke tid siden læste jeg de to første bind af den originale Planetes manga.
+27-1	For	for	T-:----:--:----	_	
+27-2	et	en	PI:s-un:--:----	_	
+27-3	stykke	stykke	NC:siun:--:----	stykke_3a	
+27-4	tid	tid	NC:siuc:--:----	_	
+27-5	siden	siden	D-:----:--:u---	_	
+27-6	læste	læse	VF:----:ta:----	_	
+27-7	jeg	jeg	PP:s-nc:--:-1n-	_	
+27-8	de	de	NP:siu#:--:----	_	
+27-9	to	to	LC:--u-:--:----	_	
+27-10	første	første	AC:§§u§:--:p---	_	
+27-11	bind	bind	NC:siun:--:----	_	
+27-12	af	af	T-:----:--:----	_	
+27-13	den	den	PM:s-uc:--:----	_	
+27-14	originale	original	AC:sdu#:--:p---	_	
+27-15	Planetes	Planetes	NP:siu#:--:----	_	
+27-16	manga	manga	XS:----:--:----	_	
+27-17	.	.	ZP	_	
+
+#id=28
+#text= Jeg skal dog lige have genopfrisket mine kundskaber, da det er et godt stykke tid siden, at jeg sidst har læst noget japansk.
+28-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+28-2	skal	skulle	VF:----:sa:----	_	
+28-3	dog	dog	D-:----:--:u---	_	
+28-4	lige	lige	D-:----:--:u---	_	
+28-5	have	have	VI:----:-a:----	_	
+28-6	genopfrisket	genopfriske	VT:siu#:t-:----	_	
+28-7	mine	mine	NC:siuc:--:----	_	
+28-8	kundskaber	kundskab	NC:piu#:--:----	_	
+28-9	,	,	ZD	_	
+28-10	da	da	CS:----:--:----	_	
+28-11	det	det	PP:s-un:--:-3n-	_	
+28-12	er	være	VF:----:sa:----	_	
+28-13	et	en	PI:s-un:--:----	_	
+28-14	godt	god	AC:siun:--:p---	_	
+28-15	stykke	stykke	NC:siun:--:----	stykke_3a	
+28-16	tid	tid	NC:siuc:--:----	_	
+28-17	siden	siden	T-:----:--:----	_	
+28-18	,	,	ZD	_	
+28-19	at	at	CS:----:--:----	_	
+28-20	jeg	jeg	PP:s-nc:--:-1n-	_	
+28-21	sidst	sidst	D-:----:--:u---	_	
+28-22	har	have	VF:----:sa:----	_	
+28-23	læst	læse	VT:siu#:t-:----	_	
+28-24	noget	nogen	PI:s-un:--:----	_	
+28-25	japansk	japansk	AC:siu§:--:p---	_	
+28-26	.	.	ZP	_	
+
+#id=29
+#text=Her for et stykke tid siden købte jeg Yu-Gi-Oh!
+29-1	Her	her	D-:----:--:u---	_	
+29-2	for	for	T-:----:--:----	_	
+29-3	et	en	PI:s-un:--:----	_	
+29-4	stykke	stykke	NC:siun:--:----	stykke_3a	
+29-5	tid	tid	NC:siuc:--:----	_	
+29-6	siden	siden	D-:----:--:u---	_	
+29-7	købte	købe	VF:----:ta:----	_	
+29-8	jeg	jeg	PP:s-nc:--:-1n-	_	
+29-9	Yu	Yu	NP:siu#:--:----	_	
+29-10	-	-	ZH	_	
+29-11	Gi	gie	NW:----:--:----	_	
+29-12	-	-	ZH	_	
+29-13	Oh	Oh	XY:----:--:----	_	
+29-14	!	!	ZP	_	
+
+#id=30
+#text= Jeg kender nogle stykker mere som kan japansk, og en af dem er for vild til  at oversætte ??
+30-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+30-2	kender	kende	VF:----:sa:----	_	
+30-3	nogle	nogen	PI:p-u#:--:----	_	
+30-4	stykker	stykke	NC:piu#:--:----	stykke_4a	
+30-5	mere	megen	AD:----:--:c---	_	
+30-6	som	som	US:----:--:----	_	
+30-7	kan	kunne	VF:----:sa:----	_	
+30-8	japansk	japansk	AC:siu§:--:p---	_	
+30-9	,	,	ZD	_	
+30-10	og	og	CC:----:--:----	_	
+30-11	en	en	PI:s-uc:--:----	_	
+30-12	af	af	T-:----:--:----	_	
+30-13	dem	de	PP:p-u#:--:-3n-	_	
+30-14	er	være	VF:----:sa:----	_	
+30-15	for	for	T-:----:--:----	_	
+30-16	vild	vild	AC:siuc:--:p---	_	
+30-17	til	til	T-:----:--:----	_	
+30-18	at	at	UI:----:--:----	_	
+30-19	oversætte	oversætte	VI:----:-a:----	_	
+30-20	?	?	ZQ	_	
+30-21	?	?	ZQ	_	
+
+#id=31
+#text= Det er ved at være et godt stykke tid siden kapittel 148 kom ud O_o
+31-1	Det	det	PP:s-un:--:-3n-	_	
+31-2	er	være	VF:----:sa:----	_	
+31-3	ved	ved	T-:----:--:----	_	
+31-4	at	at	UI:----:--:----	_	
+31-5	være	være	VI:----:-a:----	_	
+31-6	et	en	PI:s-un:--:----	_	
+31-7	godt	god	AC:siun:--:p---	_	
+31-8	stykke	stykke	NC:siun:--:----	stykke_3a	
+31-9	tid	tid	NC:siuc:--:----	_	
+31-10	siden	siden	T-:----:--:----	_	
+31-11	kapittel	kapittel	NC:siuc:--:----	_	
+31-12	148	148	LC:--u-:--:----	_	
+31-13	kom	komme	VF:----:ta:----	_	
+31-14	ud	ud	D-:----:--:u---	_	
+31-15	O_o	O_o	NP:siu#:--:----	_	
+
+#id=32
+#text= Jeg  har dog kun set et par stykker.
+32-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+32-2	har	have	VF:----:sa:----	_	
+32-3	dog	dog	D-:----:--:u---	_	
+32-4	kun	kun	D-:----:--:u---	_	
+32-5	set	se	VT:siu#:t-:----	_	
+32-6	et	en	PI:s-un:--:----	_	
+32-7	par	par	NC:siun:--:----	_	
+32-8	stykker	stykke	NC:piu#:--:----	stykke_4a	
+32-9	.	.	ZP	_	
+
+#id=33
+#text=jeg købte mononoke hime for et godt stykke tid siden og jeg har været hooked fra da af.
+33-1	jeg	jeg	PP:s-nc:--:-1n-	_	
+33-2	købte	købe	VF:----:ta:----	_	
+33-3	mononoke	mononoke	T-:----:--:----	_	
+33-4	hime	hime	PP:s-uc:--:-1#-	_	
+33-5	for	for	T-:----:--:----	_	
+33-6	et	en	PI:s-un:--:----	_	
+33-7	godt	god	AC:siun:--:p---	_	
+33-8	stykke	stykke	NC:siun:--:----	stykke_3a	
+33-9	tid	tid	NC:siuc:--:----	_	
+33-10	siden	siden	D-:----:--:u---	_	
+33-11	og	og	CC:----:--:----	_	
+33-12	jeg	jeg	PP:s-nc:--:-1n-	_	
+33-13	har	have	VF:----:sa:----	_	
+33-14	været	være	VT:siu#:t-:----	_	
+33-15	hooked	hooked	AD:----:--:p---	_	
+33-16	fra	fra	T-:----:--:----	_	
+33-17	da	da	D-:----:--:u---	_	
+33-18	af	af	T-:----:--:----	_	
+33-19	.	.	ZP	_	
+
+#id=34
+#text= Et stykke tid siden jeg så Kenshin.
+34-1	Et	en	PI:s-un:--:----	_	
+34-2	stykke	stykke	NC:siun:--:----	stykke_3a	
+34-3	tid	tid	NC:siuc:--:----	_	
+34-4	siden	siden	CS:----:--:----	_	
+34-5	jeg	jeg	PP:s-nc:--:-1n-	_	
+34-6	så	se	VF:----:ta:----	_	
+34-7	Kenshin	Kenshin	NP:siu#:--:----	_	
+34-8	.	.	ZP	_	
+
+#id=35
+#text=Vildt, der er altså nogle stykker som læser Death Note og Bleach mv.
+35-1	Vildt	vildt	NC:siun:--:----	_	
+35-2	,	,	ZD	_	
+35-3	der	der	US:----:--:----	_	
+35-4	er	være	VF:----:sa:----	_	
+35-5	altså	altså	D-:----:--:u---	_	
+35-6	nogle	nogen	PI:p-u#:--:----	_	
+35-7	stykker	stykke	NC:piu#:--:----	stykke_4a	
+35-8	som	som	US:----:--:----	_	
+35-9	læser	læse	VF:----:sa:----	_	
+35-10	Death	Death	:siu#:--:----	_	
+35-11	Note	note	NC:siuc:--:----	_	
+35-12	og	og	CC:----:--:----	_	
+35-13	Bleach	Bleach	NP:siu#:--:----	_	
+35-14	mv	m.v.	XS:----:--:----	_	
+35-15	.	.	ZP	_	
+
+#id=36
+#text=Som jeg tidligere skrev skal jeg opholde mig et længere stykke tid i Japan, i sammenhæng med min uddannelse som cand.
+36-1	Som	som	US:----:--:----	_	
+36-2	jeg	jeg	NC:siun:--:----	_	
+36-3	tidligere	tidlig	AD:----:--:c---	_	
+36-4	skrev	skrive	VF:----:ta:----	_	
+36-5	skal	skal	NC:siuc:--:----	_	
+36-6	jeg	jeg	NC:siun:--:----	_	
+36-7	opholde	opholde	VI:----:-a:----	_	
+36-8	mig	jeg	PP:s-uc:--:-1#-	_	
+36-9	et	en	PI:s-un:--:----	_	
+36-10	længere	lang	AC:##u#:--:c---	_	
+36-11	stykke	stykke	NC:siun:--:----	stykke_3a	
+36-12	tid	tid	NC:siuc:--:----	_	
+36-13	i	i	T-:----:--:----	_	
+36-14	Japan	Japan	NP:siu#:--:----	_	
+36-15	,	,	ZD	_	
+36-16	i	i	T-:----:--:----	_	
+36-17	sammenhæng	sammenhæng	NC:siuc:--:----	_	
+36-18	med	med	T-:----:--:----	_	
+36-19	min	min	PO:s--c:--:-1ns	_	
+36-20	uddannelse	uddannelse	NC:siuc:--:----	_	
+36-21	som	som	US:----:--:----	_	
+36-22	cand	candidatus	XF:----:--:----	_	
+36-23	.	.	ZP	_	
+
+#id=37
+#text= Har hørt at MonsterRancher skulle være Sony's forsøg på få et stykke af den kage som nintendo tjente millioner på med pokemon..
+37-1	Har	have	VF:----:sa:----	_	
+37-2	hørt	høre	VT:siu#:t-:----	_	
+37-3	at	at	CS:----:--:----	_	
+37-4	MonsterRancher	MonsterRancher	NP:siu#:--:----	_	
+37-5	skulle	skulle	VF:----:ta:----	_	
+37-6	være	være	VI:----:-a:----	_	
+37-7	Sony	Sony	NP:siu#:--:----	_	
+37-8	'	'	ZA	_	
+37-9	s	@s	MN:sig#:--:----	_	
+37-10	forsøg	forsøg	NC:siun:--:----	_	
+37-11	på	på	D-:----:--:u---	_	
+37-12	få	få	VI:----:-a:----	_	
+37-13	et	en	PI:s-un:--:----	_	
+37-14	stykke	stykke	NC:siun:--:----	stykke_1	
+37-15	af	af	T-:----:--:----	_	
+37-16	den	den	PM:s-uc:--:----	_	
+37-17	kage	kage	NC:siuc:--:----	_	
+37-18	som	som	US:----:--:----	_	
+37-19	nintendo	nintendo	NC:siun:--:----	_	
+37-20	tjente	tjene	VF:----:ta:----	_	
+37-21	millioner	million	NC:piu#:--:----	_	
+37-22	på	på	T-:----:--:----	_	
+37-23	med	med	D-:----:--:u---	_	
+37-24	pokemon	pokemon	D-:----:--:u---	_	
+37-25	.	.	ZP	_	
+37-26	.	.	ZP	_	
+
+#id=38
+#text= Er der et stykke Anime eller Manga man ikke skal se/læse, så skriv og fortæl om det her.
+38-1	Er	være	VF:----:sa:----	_	
+38-2	der	der	US:----:--:----	_	
+38-3	et	en	PI:s-un:--:----	_	
+38-4	stykke	stykke	NC:siun:--:----	stykke_5c	
+38-5	Anime	Anime	NP:siu#:--:----	_	
+38-6	eller	eller	CC:----:--:----	_	
+38-7	Manga	Manga	NP:siu#:--:----	_	
+38-8	man	man	XY:----:--:----	_	
+38-9	ikke	ikke	D-:----:--:u---	_	
+38-10	skal	skulle	VF:----:sa:----	_	
+38-11	se	se	VI:----:-a:----	_	
+38-12	/	/	NC:siuc:--:----	_	
+38-13	læse	læse	VI:----:-a:----	_	
+38-14	,	,	ZD	_	
+38-15	så	så	CS:----:--:----	_	
+38-16	skriv	skrive	:----:--:----	_	
+38-17	og	og	CC:----:--:----	_	
+38-18	fortæl	fortælle	VM:----:--:----	_	
+38-19	om	om	T-:----:--:----	_	
+38-20	det	det	PP:s-un:--:-3n-	_	
+38-21	her	her	D-:----:--:u---	_	
+38-22	.	.	ZP	_	
+
+#id=39
+#text= Nu skal det lige siges at det snart er et stykke tid siden jeg læste dem, så de kan godt være at jeg ikke husker helt rigtigt.
+39-1	Nu	nu	D-:----:--:u---	_	
+39-2	skal	skulle	VF:----:sa:----	_	
+39-3	det	det	PP:s-un:--:-3n-	_	
+39-4	lige	lige	D-:----:--:u---	_	
+39-5	siges	sige	VF:----:sp:----	_	
+39-6	at	at	CS:----:--:----	_	
+39-7	det	det	PP:s-un:--:-3n-	_	
+39-8	snart	snart	D-:----:--:u---	_	
+39-9	er	være	VF:----:sa:----	_	
+39-10	et	en	PI:s-un:--:----	_	
+39-11	stykke	stykke	NC:siun:--:----	stykke_3a	
+39-12	tid	tid	NC:siuc:--:----	_	
+39-13	siden	siden	CS:----:--:----	_	
+39-14	jeg	jeg	PP:s-nc:--:-1n-	_	
+39-15	læste	læse	VF:----:ta:----	_	
+39-16	dem	de	PP:p-u#:--:-3n-	_	
+39-17	,	,	ZD	_	
+39-18	så	så	CS:----:--:----	_	
+39-19	de	de	PP:p-n#:--:-3n-	_	
+39-20	kan	kunne	VF:----:sa:----	_	
+39-21	godt	god	AD:----:--:p---	_	
+39-22	være	være	VI:----:-a:----	_	
+39-23	at	at	CS:----:--:----	_	
+39-24	jeg	jeg	PP:s-nc:--:-1n-	_	
+39-25	ikke	ikke	D-:----:--:u---	_	
+39-26	husker	huske	VF:----:sa:----	_	
+39-27	helt	hel	AD:----:--:p---	_	
+39-28	rigtigt	rigtig	AC:siun:--:p---	_	
+39-29	.	.	ZP	_	
+
+#id=40
+#text= Siden det snart var et godt stykke tid siden jeg så TV serien og læste de første seks bind, besluttede jeg mig for at se nogle episoder og skimte manga['@0092]en igennem, for at genopfriske min hukommelse.
+40-1	Siden	siden	CS:----:--:----	_	
+40-2	det	det	PP:s-un:--:-3n-	_	
+40-3	snart	snart	D-:----:--:u---	_	
+40-4	var	være	VF:----:ta:----	_	
+40-5	et	en	PI:s-un:--:----	_	
+40-6	godt	god	AC:siun:--:p---	_	
+40-7	stykke	stykke	NC:siun:--:----	stykke_3a	
+40-8	tid	tid	NC:siuc:--:----	_	
+40-9	siden	siden	CS:----:--:----	_	
+40-10	jeg	jeg	PP:s-nc:--:-1n-	_	
+40-11	så	så	D-:----:--:u---	_	
+40-12	TV	tv	NC:siun:--:----	_	
+40-13	serien	serie	NC:sduc:--:----	_	
+40-14	og	og	CC:----:--:----	_	
+40-15	læste	læse	VF:----:ta:----	_	
+40-16	de	den	PM:p-u#:--:----	_	
+40-17	første	første	AC:§§u§:--:p---	_	
+40-18	seks	seks	LC:--u-:--:----	_	
+40-19	bind	bind	NC:piu#:--:----	_	
+40-20	,	,	ZD	_	
+40-21	besluttede	beslutte	VF:----:ta:----	_	
+40-22	jeg	jeg	PP:s-nc:--:-1n-	_	
+40-23	mig	jeg	PP:s-uc:--:-1#-	_	
+40-24	for	for	T-:----:--:----	_	
+40-25	at	at	UI:----:--:----	_	
+40-26	se	se	VI:----:-a:----	_	
+40-27	nogle	nogen	PI:p-u#:--:----	_	
+40-28	episoder	episode	NC:piu#:--:----	_	
+40-29	og	og	CC:----:--:----	_	
+40-30	skimte	skimte	VI:----:-a:----	_	
+40-31	manga	manga	XF:----:--:----	_	
+40-32	['@0092]	'	ZA	_	
+40-33	en	@en	MN:sduc:--:----	_	
+40-34	igennem	igennem	T-:----:--:----	_	
+40-35	,	,	ZD	_	
+40-36	for	for	T-:----:--:----	_	
+40-37	at	at	UI:----:--:----	_	
+40-38	genopfriske	genopfriske	VI:----:-a:----	_	
+40-39	min	min	PO:s--c:--:-1ns	_	
+40-40	hukommelse	hukommelse	NC:siuc:--:----	_	
+40-41	.	.	ZP	_	
+
+#id=41
+#text= Jo, anime'en var og er genial på mange punkter, men den har også sine fejl, et par stykker.
+41-1	Jo	jo	I-:----:--:----	_	
+41-2	,	,	ZD	_	
+41-3	anime	Anime	NP:siu#:--:----	_	
+41-4	'	'	ZA	_	
+41-5	en	@en	MN:sduc:--:----	_	
+41-6	var	være	VF:----:ta:----	_	
+41-7	og	og	CC:----:--:----	_	
+41-8	er	være	VF:----:sa:----	_	
+41-9	genial	genial	AC:siuc:--:p---	_	
+41-10	på	på	T-:----:--:----	_	
+41-11	mange	mangen	AC:p#u#:--:p---	_	
+41-12	punkter	punkt	NC:piu#:--:----	_	
+41-13	,	,	ZD	_	
+41-14	men	men	CC:----:--:----	_	
+41-15	den	den	PP:s-uc:--:-3n-	_	
+41-16	har	have	VF:----:sa:----	_	
+41-17	også	også	:--:u---	_	
+41-18	sine	sine	XY:----:--:----	_	
+41-19	fejl	fejl	NC:piu#:--:----	_	
+41-20	,	,	ZD	_	
+41-21	et	en	PI:s-un:--:----	_	
+41-22	par	par	NC:siun:--:----	_	
+41-23	stykker	stykke	NC:piu#:--:----	stykke_4a	
+41-24	.	.	ZP	_	
+
+#id=42
+#text= For mit vedkomne er det et godt stykke tid siden, at jeg sidst har skrevet her på forumet.
+42-1	For	for	T-:----:--:----	_	
+42-2	mit	mit	XY:----:--:----	_	
+42-3	vedkomne	vedkomme	VP:p#u#:t-:----	_	
+42-4	er	være	VF:----:sa:----	_	
+42-5	det	det	PP:s-un:--:-3n-	_	
+42-6	et	en	PI:s-un:--:----	_	
+42-7	godt	god	AC:siun:--:p---	_	
+42-8	stykke	stykke	NC:siun:--:----	stykke_3a	
+42-9	tid	tid	NC:siuc:--:----	_	
+42-10	siden	siden	T-:----:--:----	_	
+42-11	,	,	ZD	_	
+42-12	at	at	CS:----:--:----	_	
+42-13	jeg	jeg	PP:s-nc:--:-1n-	_	
+42-14	sidst	sidst	D-:----:--:u---	_	
+42-15	har	have	VF:----:sa:----	_	
+42-16	skrevet	skrive	VT:siu#:t-:----	_	
+42-17	her	her	D-:----:--:u---	_	
+42-18	på	på	T-:----:--:----	_	
+42-19	forumet	forumet	NC:sdun:--:----	_	
+42-20	.	.	ZP	_	
+
+#id=43
+#text= Lige nu befinder jeg mig et godt stykke inde i bind 28, og det ser bestemt ikke ud som om den er ved at sætte farten ned.
+43-1	Lige	lige	D-:----:--:u---	_	
+43-2	nu	nu	D-:----:--:u---	_	
+43-3	befinder	befinde	VF:----:sa:----	_	
+43-4	jeg	jeg	PP:s-nc:--:-1n-	_	
+43-5	mig	jeg	PP:s-uc:--:-1#-	_	
+43-6	et	en	PI:s-un:--:----	_	
+43-7	godt	god	AC:siun:--:p---	_	
+43-8	stykke	stykke	NC:siun:--:----	stykke_3	
+43-9	inde	inde	D-:----:--:u---	_	
+43-10	i	i	T-:----:--:----	_	
+43-11	bind	bind	NC:siun:--:----	_	
+43-12	28	28	LC:--u-:--:----	_	
+43-13	,	,	ZD	_	
+43-14	og	og	CC:----:--:----	_	
+43-15	det	det	PP:s-un:--:-3n-	_	
+43-16	ser	se	VF:----:sa:----	_	
+43-17	bestemt	bestemme	VT:siu#:t-:----	_	
+43-18	ikke	ikke	D-:----:--:u---	_	
+43-19	ud	ud	D-:----:--:u---	_	
+43-20	som	som	US:----:--:----	_	
+43-21	om	om	T-:----:--:----	_	
+43-22	den	den	PP:s-uc:--:-3n-	_	
+43-23	er	være	VF:----:sa:----	_	
+43-24	ved	ved	T-:----:--:----	_	
+43-25	at	at	UI:----:--:----	_	
+43-26	sætte	sætte	VI:----:-a:----	_	
+43-27	farten	fart	NC:sduc:--:----	_	
+43-28	ned	ned	D-:----:--:u---	_	
+43-29	.	.	ZP	_	
+
+#id=44
+#text= Der er bygget små byer på Månen, hvor helium-3 bliver udarbejdet i store mængder, og det er snart et godt stykke tid siden mennesket satte fod på Mars.
+44-1	Der	der	US:----:--:----	_	
+44-2	er	være	VF:----:sa:----	_	
+44-3	bygget	bygge	VT:siu#:t-:----	_	
+44-4	små	lille	AC:p#u#:--:p---	_	
+44-5	byer	by	NC:piu#:--:----	_	
+44-6	på	på	T-:----:--:----	_	
+44-7	Månen	Månen	NC:siuc:--:----	_	
+44-8	,	,	ZD	_	
+44-9	hvor	hvor	D-:----:--:u---	_	
+44-10	helium	helium	NW:----:--:----	_	
+44-11	-	-	ZH	_	
+44-12	3	3	LC:--u-:--:----	_	
+44-13	bliver	blive	VF:----:sa:----	_	
+44-14	udarbejdet	udarbejde	VT:siu#:t-:----	_	
+44-15	i	i	T-:----:--:----	_	
+44-16	store	stor	AC:p#u#:--:p---	_	
+44-17	mængder	mængde	NC:piu#:--:----	_	
+44-18	,	,	ZD	_	
+44-19	og	og	CC:----:--:----	_	
+44-20	det	det	PP:s-un:--:-3n-	_	
+44-21	er	være	VF:----:sa:----	_	
+44-22	snart	snart	D-:----:--:u---	_	
+44-23	et	en	PI:s-un:--:----	_	
+44-24	godt	god	AC:siun:--:p---	_	
+44-25	stykke	stykke	NC:siun:--:----	stykke_3a	
+44-26	tid	tid	NC:siuc:--:----	_	
+44-27	siden	siden	T-:----:--:----	_	
+44-28	mennesket	menneske	NC:sdun:--:----	_	
+44-29	satte	sætte	VP:p#u#:t-:----	_	
+44-30	fod	fod	NC:piu#:--:----	_	
+44-31	på	på	T-:----:--:----	_	
+44-32	Mars	Mars	NP:siu#:--:----	_	
+44-33	.	.	ZP	_	
+
+#id=45
+#text= Så er der dine dobbeltposts (snart et par stykker).
+45-1	Så	så	D-:----:--:u---	_	
+45-2	er	være	VF:----:sa:----	_	
+45-3	der	der	US:----:--:----	_	
+45-4	dine	dine	XY:----:--:----	_	
+45-5	dobbeltposts	dobbeltpost	NC:sigc:--:----	_	
+45-6	(	(	ZD	_	
+45-7	snart	snart	D-:----:--:u---	_	
+45-8	et	en	PI:s-un:--:----	_	
+45-9	par	par	NC:siun:--:----	_	
+45-10	stykker	stykke	NC:piu#:--:----	stykke_4a	
+45-11	)	)	ZD	_	
+45-12	.	.	ZP	_	
+
+#id=46
+#text= Nu får jeg det næsten til at lyde som noget negativt, men på tredje- eller fjerde-året skal man til Japan og bo i et længere stykke tid.
+46-1	Nu	nu	D-:----:--:u---	_	
+46-2	får	få	VF:----:sa:----	_	
+46-3	jeg	jeg	PP:s-nc:--:-1n-	_	
+46-4	det	det	PP:s-un:--:-3n-	_	
+46-5	næsten	næsten	D-:----:--:u---	_	
+46-6	til	til	T-:----:--:----	_	
+46-7	at	at	UI:----:--:----	_	
+46-8	lyde	lyde	VI:----:-a:----	_	
+46-9	som	som	US:----:--:----	_	
+46-10	noget	nogen	PI:s-un:--:----	_	
+46-11	negativt	negativ	AC:siun:--:p---	_	
+46-12	,	,	ZD	_	
+46-13	men	men	CC:----:--:----	_	
+46-14	på	på	T-:----:--:----	_	
+46-15	tredje	tre	LO:--u#:--:----	_	
+46-16	-	-	ZH	_	
+46-17	eller	eller	CC:----:--:----	_	
+46-18	fjerde	fire	LO:--u#:--:----	_	
+46-19	-	-	ZH	_	
+46-20	året	år	NC:sdun:--:----	_	
+46-21	skal	skulle	VF:----:sa:----	_	
+46-22	man	man	PI:#-uc:--:----	_	
+46-23	til	til	T-:----:--:----	_	
+46-24	Japan	Japan	NP:siu#:--:----	_	
+46-25	og	og	CC:----:--:----	_	
+46-26	bo	bo	VI:----:-a:----	_	
+46-27	i	i	T-:----:--:----	_	
+46-28	et	en	PI:s-un:--:----	_	
+46-29	længere	lang	AC:##u#:--:c---	_	
+46-30	stykke	stykke	NC:siun:--:----	stykke_3a	
+46-31	tid	tid	NC:siuc:--:----	_	
+46-32	.	.	ZP	_	
+
+#id=47
+#text= Men det kan afgjort gøres til en nogenlunde pris, hvis man er nogle stykker, som tager afsted sammen.
+47-1	Men	men	CC:----:--:----	_	
+47-2	det	det	PP:s-un:--:-3n-	_	
+47-3	kan	kunne	VF:----:sa:----	_	
+47-4	afgjort	afgjort	AD:----:--:p---	_	
+47-5	gøres	gøre	VI:----:-p:----	_	
+47-6	til	til	T-:----:--:----	_	
+47-7	en	en	PI:s-uc:--:----	_	
+47-8	nogenlunde	nogenlunde	AD:----:--:p---	_	
+47-9	pris	pris	NC:siuc:--:----	_	
+47-10	,	,	ZD	_	
+47-11	hvis	hvis	CS:----:--:----	_	
+47-12	man	man	PI:#-uc:--:----	_	
+47-13	er	være	VF:----:sa:----	_	
+47-14	nogle	nogen	PI:p-u#:--:----	_	
+47-15	stykker	stykke	NC:piu#:--:----	stykke_4a	
+47-16	,	,	ZD	_	
+47-17	som	som	US:----:--:----	_	
+47-18	tager	tage	VF:----:sa:----	_	
+47-19	afsted	afsted	D-:----:--:u---	_	
+47-20	sammen	sammen	D-:----:--:u---	_	
+47-21	.	.	ZP	_	
+
+#id=48
+#text= Vi har i øvrigt lige føjet et par stykker til!
+48-1	Vi	vi	PP:p-nc:--:-1n-	_	
+48-2	har	have	VF:----:sa:----	_	
+48-3	i	i	T-:----:--:----	_	
+48-4	øvrigt	øvrig	AD:----:--:p---	_	
+48-5	lige	lige	D-:----:--:u---	_	
+48-6	føjet	føje	VT:siu#:t-:----	_	
+48-7	et	en	PI:s-un:--:----	_	
+48-8	par	par	NC:siun:--:----	_	
+48-9	stykker	stykke	NC:piu#:--:----	stykke_4a	
+48-10	til	til	T-:----:--:----	_	
+48-11	!	!	ZP	_	
+
+#id=49
+#text= Jeg købte den på special importeret, cantonesisk DVD i 2002 og mener stadig at det grafisk må være det flotteste stykke animation jeg nogensinde har set.
+49-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+49-2	købte	købe	VF:----:ta:----	_	
+49-3	den	den	PP:s-uc:--:-3n-	_	
+49-4	på	på	T-:----:--:----	_	
+49-5	special	special	XY:----:--:----	_	
+49-6	importeret	importere	VT:siu#:t-:----	_	
+49-7	,	,	ZD	_	
+49-8	cantonesisk	cantonesiske	VM:----:--:----	_	
+49-9	DVD	dvd	NC:siuc:--:----	_	
+49-10	i	i	T-:----:--:----	_	
+49-11	2002	2002	LC:--u-:--:----	_	
+49-12	og	og	CC:----:--:----	_	
+49-13	mener	mene	VF:----:sa:----	_	
+49-14	stadig	stadig	D-:----:--:u---	_	
+49-15	at	at	CS:----:--:----	_	
+49-16	det	det	PP:s-un:--:-3n-	_	
+49-17	grafisk	grafisk	AD:----:--:p---	_	
+49-18	må	måtte	VF:----:sa:----	_	
+49-19	være	være	VI:----:-a:----	_	
+49-20	det	den	PM:s-un:--:----	_	
+49-21	flotteste	flot	AC:§du§:--:s---	_	
+49-22	stykke	stykke	NC:siun:--:----	stykke_2	
+49-23	animation	animation	NC:siuc:--:----	_	
+49-24	jeg	jeg	NC:siun:--:----	_	
+49-25	nogensinde	nogensinde	D-:----:--:u---	_	
+49-26	har	have	VF:----:sa:----	_	
+49-27	set	se	VT:siu#:t-:----	_	
+49-28	.	.	ZP	_	
+
+#id=50
+#text= Dog skal det siges at det følelesesmæssige stadig eksistere, og der er virkelig nogle ret rørende afsnit, specielt et godt stykke inde i serien.
+50-1	Dog	dog	D-:----:--:u---	_	
+50-2	skal	skulle	VF:----:sa:----	_	
+50-3	det	det	PP:s-un:--:-3n-	_	
+50-4	siges	sige	VF:----:sp:----	_	
+50-5	at	at	CS:----:--:----	_	
+50-6	det	det	PP:s-un:--:-3n-	_	
+50-7	følelesesmæssige	følelesesmæssige	VI:----:-a:----	_	
+50-8	stadig	stadig	D-:----:--:u---	_	
+50-9	eksistere	eksistere	VI:----:-a:----	_	
+50-10	,	,	ZD	_	
+50-11	og	og	CC:----:--:----	_	
+50-12	der	der	US:----:--:----	_	
+50-13	er	være	VF:----:sa:----	_	
+50-14	virkelig	virkelig	D-:----:--:u---	_	
+50-15	nogle	nogen	PI:p-u#:--:----	_	
+50-16	ret	ret	D-:----:--:u---	_	
+50-17	rørende	ende	AC:§§u§:--:p---	_	
+50-18	afsnit	afsnit	NC:siun:--:----	_	
+50-19	,	,	ZD	_	
+50-20	specielt	speciel	AD:----:--:p---	_	
+50-21	et	en	PI:s-un:--:----	_	
+50-22	godt	god	AC:siun:--:p---	_	
+50-23	stykke	stykke	NC:siun:--:----	_	
+50-24	inde	inde	D-:----:--:u---	_	
+50-25	i	i	T-:----:--:----	_	
+50-26	serien	serie	NC:sduc:--:----	_	
+50-27	.	.	ZP	_	
+
+#id=51
+#text= Herhjemme er der pt. udgivet 3-4 stykker, men det kommer!
+51-1	Herhjemme	herhjemme	D-:----:--:u---	_	
+51-2	er	være	VF:----:sa:----	_	
+51-3	der	der	US:----:--:----	_	
+51-4	pt	pt	D-:----:--:u---	_	
+51-5	.	.	ZP	_	
+51-6	udgivet	udgive	VT:siu#:t-:----	_	
+51-7	3	3	LC:--u-:--:----	_	
+51-8	-	-	ZH	_	
+51-9	4	4	LC:--u-:--:----	_	
+51-10	stykker	stykke	NC:piu#:--:----	stykke_4a	
+51-11	,	,	ZD	_	
+51-12	men	men	CC:----:--:----	_	
+51-13	det	det	3n-	_	
+51-14	kommer	komme	VF:----:sa:----	_	
+51-15	!	!	ZP	_	
+

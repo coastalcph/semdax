@@ -1,0 +1,2087 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Lexicalsample | Tag
+#id=1
+#text=- Succesen gør mig i stand til blandt andet at donere penge til projekter til udsatte børn og til skleroseforskning.
+1-1	-	-	NC:piu#:--:----	_	
+1-2	Succesen	succes	NC:sduc:--:----	_	
+1-3	gør	gøre	VF:----:sa:----	_	
+1-4	mig	jeg	PP:s-uc:--:-1#-	_	
+1-5	i	i	T-:----:--:----	_	
+1-6	stand	stand	NC:siuc:--:----	stand_F_i-stand-til	
+1-7	til	til	T-:----:--:----	_	
+1-8	blandt	blandt	T-:----:--:----	_	
+1-9	andet	anden	PI:s-un:--:----	_	
+1-10	at	at	UI:----:--:----	_	
+1-11	donere	donere	VI:----:-a:----	_	
+1-12	penge	penge	NC:piu#:--:----	_	
+1-13	til	til	T-:----:--:----	_	
+1-14	projekter	projekt	NC:piu#:--:----	_	
+1-15	til	til	T-:----:--:----	_	
+1-16	udsatte	udsat	AC:p#u#:--:p---	_	
+1-17	børn	barn	NC:piu#:--:----	_	
+1-18	og	og	CC:----:--:----	_	
+1-19	til	til	T-:----:--:----	_	
+1-20	skleroseforskning	skleroseforskning	NC:siuc:--:----	_	
+1-21	.	.	ZP	_	
+
+#id=2
+#text= s palæ er netop blevet sat i stand, uden at det kostede de kommende beboere en øre.
+2-1	s	@s	MN:sig#:--:----	_	
+2-2	palæ	palæ	NC:siun:--:----	_	
+2-3	er	være	VF:----:sa:----	_	
+2-4	netop	netop	D-:----:--:u---	_	
+2-5	blevet	blive	VT:siu#:t-:----	_	
+2-6	sat	sætte	VT:siu#:t-:----	_	
+2-7	i	i	T-:----:--:----	_	
+2-8	stand	stand	NC:siuc:--:----	stand_F_gøre-(sætte,-lave,-..)-i-stand	
+2-9	,	,	ZD	_	
+2-10	uden	uden	-:u---	_	
+2-11	at	at	CS:----:--:----	_	
+2-12	det	det	PP:s-un:--:-3n-	_	
+2-13	kostede	koste	VF:----:ta:----	_	
+2-14	de	den	PM:p-u#:--:----	_	
+2-15	kommende	komme	VP:##u#:s-:----	_	
+2-16	beboere	beboer	NC:piu#:--:----	_	
+2-17	en	en	PI:s-uc:--:----	_	
+2-18	øre	øre	NC:siuc:--:----	_	
+2-19	.	.	ZP	_	
+
+#id=3
+#text=Normalt er det kun de rige, som er i stand til at gøre det på deres grovstore lystyachter.
+3-1	Normalt	normal	AD:----:--:p---	_	
+3-2	er	være	VF:----:sa:----	_	
+3-3	det	det	PP:s-un:--:-3n-	_	
+3-4	kun	kun	D-:----:--:u---	_	
+3-5	de	den	PM:p-u#:--:----	_	
+3-6	rige	rig	AC:p#u#:--:p---	_	
+3-7	,	,	ZD	_	
+3-8	som	som	US:----:--:----	_	
+3-9	er	være	VF:----:sa:----	_	
+3-10	i	i	T-:----:--:----	_	
+3-11	stand	stand	NC:siuc:--:----	stand_F_i-stand-til	
+3-12	til	til	T-:----:--:----	_	
+3-13	at	at	UI:----:--:----	_	
+3-14	gøre	gøre	VI:----:-a:----	_	
+3-15	det	det	-3n-	_	
+3-16	på	på	T-:----:--:----	_	
+3-17	deres	deres	PO:#--#:--:-3np	_	
+3-18	grovstore	grovstor	AC:p#u#:--:p---	_	
+3-19	lystyachter	lystyacht	NC:piu#:--:----	_	
+3-20	.	.	ZP	_	
+
+#id=4
+#text= I højsæsonen vimser omkring 110 ansatte rundt for at servicere gæsterne, som med bådens fem barer har rig mulighed for at drikke sig til en promille, der ville sætte dem ude af stand til at svømme i land.
+4-1	I	i	T-:----:--:----	_	
+4-2	højsæsonen	højsæson	NC:sduc:--:----	_	
+4-3	vimser	vimse	VF:----:sa:----	_	
+4-4	omkring	omkring	T-:----:--:----	_	
+4-5	110	110	LC:--u-:--:----	_	
+4-6	ansatte	ansætte	VP:p#u#:t-:----	_	
+4-7	rundt	rundt	D-:----:--:u---	_	
+4-8	for	for	T-:----:--:----	_	
+4-9	at	at	UI:----:--:----	_	
+4-10	servicere	servicere	VI:----:-a:----	_	
+4-11	gæsterne	gæst	NC:pdu#:--:----	_	
+4-12	,	,	ZD	_	
+4-13	som	som	US:----:--:----	_	
+4-14	med	med	T-:----:--:----	_	
+4-15	bådens	båd	NC:sdgc:--:----	_	
+4-16	fem	fem	LC:--u-:--:----	_	
+4-17	barer	bar	NC:piu#:--:----	_	
+4-18	har	have	VF:----:sa:----	_	
+4-19	rig	rig	AC:siuc:--:p---	_	
+4-20	mulighed	mulighed	NC:siuc:--:----	_	
+4-21	for	for	T-:----:--:----	_	
+4-22	at	at	UI:----:--:----	_	
+4-23	drikke	drikke	VI:----:-a:----	_	
+4-24	sig	sig	PP:#-u#:--:-3y-	_	
+4-25	til	til	T-:----:--:----	_	
+4-26	en	en	PI:s-uc:--:----	_	
+4-27	promille	promille	NC:siuc:--:----	_	
+4-28	,	,	ZD	_	
+4-29	der	der	US:----:--:----	_	
+4-30	ville	ville	VF:----:ta:----	_	
+4-31	sætte	sætte	VI:----:-a:----	_	
+4-32	dem	de	PP:p-u#:--:-3n-	_	
+4-33	ude	ude	D-:----:--:u---	_	
+4-34	af	af	T-:----:--:----	_	
+4-35	stand	stand	NC:siuc:--:----	stand_F_ude-af-stand-til	
+4-36	til	til	T-:----:--:----	_	
+4-37	at	at	UI:----:--:----	_	
+4-38	svømme	svømme	VI:----:-a:----	_	
+4-39	i	i	T-:----:--:----	_	
+4-40	land	land	NC:siun:--:----	_	
+4-41	.	.	ZP	_	
+
+#id=5
+#text=- morsom stand-up'er, er tonseglad i disse dage, hvor familien netop er blevet forøget med en lille datter på 47 cm og 2580 gram.
+5-1	-	-	NC:piu#:--:----	_	
+5-2	morsom	morsom	AC:siuc:--:p---	_	
+5-3	stand	stand	NW:----:--:----	_	
+5-4	-	-	ZH	_	
+5-5	up	up	XF:----:--:----	_	
+5-6	'	'	ZA	_	
+5-7	er	@er	MN:piu#:--:----	_	
+5-8	,	,	ZD	_	
+5-9	er	være	VF:----:sa:----	_	
+5-10	tonseglad	tonseglad	AC:siu§:--:p---	_	
+5-11	i	i	T-:----:--:----	_	
+5-12	disse	denne	PM:p-u#:--:----	_	
+5-13	dage	dag	NC:piu#:--:----	_	
+5-14	,	,	ZD	_	
+5-15	hvor	hvor	D-:----:--:u---	_	
+5-16	familien	familie	NC:sduc:--:----	_	
+5-17	netop	netop	D-:----:--:u---	_	
+5-18	er	være	VF:----:sa:----	_	
+5-19	blevet	blive	VT:siu#:t-:----	_	
+5-20	forøget	forøge	VT:siu#:t-:----	_	
+5-21	med	med	T-:----:--:----	_	
+5-22	en	en	PI:s-uc:--:----	_	
+5-23	lille	lille	AC:s§u§:--:p---	_	
+5-24	datter	datter	NC:siuc:--:----	_	
+5-25	på	på	T-:----:--:----	_	
+5-26	47	47	LC:--u-:--:----	_	
+5-27	cm	centimeter	NC:piu#:--:----	_	
+5-28	og	og	CC:----:--:----	_	
+5-29	2580	2580	LC:--u-:--:----	_	
+5-30	gram	gram	NC:piu#:--:----	_	
+5-31	.	.	ZP	_	
+
+#id=6
+#text=- skrap stand-upkomiker, har sagt ja til at hylde brysterne.
+6-1	-	-	NC:piu#:--:----	_	
+6-2	skrap	skrap	AC:siuc:--:p---	_	
+6-3	stand	stand	NW:----:--:----	_	
+6-4	-	-	ZH	_	
+6-5	upkomiker	upkomiker	NC:siuc:--:----	_	
+6-6	,	,	ZD	_	
+6-7	har	have	VF:----:sa:----	_	
+6-8	sagt	sige	VT:siu#:t-:----	_	
+6-9	ja	ja	NC:siun:--:----	_	
+6-10	til	til	T-:----:--:----	_	
+6-11	at	at	UI:----:--:----	_	
+6-12	hylde	hylde	VI:----:-a:----	_	
+6-13	brysterne	bryst	NC:pdu#:--:----	_	
+6-14	.	.	ZP	_	
+
+#id=7
+#text=38-årige Vangsø debutede som stand-up'er i start-90' erne, men fik først sit egentlige gennembrud, da han blev en del af Casper  Christensens " Tæskeholdet" i 1997.
+7-1	38	38	LC:--u-:--:----	_	
+7-2	-	-	ZH	_	
+7-3	årige	årig	AC:sdu#:--:p---	_	
+7-4	Vangsø	Vangsø	NP:siu#:--:----	_	
+7-5	debutede	debutede	NP:siu#:--:----	_	
+7-6	som	som	US:----:--:----	_	
+7-7	stand	stand	NW:----:--:----	_	
+7-8	-	-	ZH	_	
+7-9	up	up	XF:----:--:----	_	
+7-10	'	'	ZA	_	
+7-11	er	@er	MN:siu#:--:----	_	
+7-12	i	i	T-:----:--:----	_	
+7-13	start	start	NW:----:--:----	_	
+7-14	-	-	ZH	_	
+7-15	90	90	LC:--u-:--:----	_	
+7-16	'	'	ZA	_	
+7-17	erne	@erne	MN:pdu#:--:----	_	
+7-18	,	,	ZD	_	
+7-19	men	men	CC:----:--:----	_	
+7-20	fik	få	VF:----:ta:----	_	
+7-21	først	først	AD:----:--:p---	_	
+7-22	sit	sin	PO:s--n:--:-3ys	_	
+7-23	egentlige	egentlig	AC:sdu#:--:p---	_	
+7-24	gennembrud	gennembrud	NC:siun:--:----	_	
+7-25	,	,	ZD	_	
+7-26	da	da	CS:----:--:----	_	
+7-27	han	han	PP:s-nc:--:-3n-	_	
+7-28	blev	blive	VF:----:ta:----	_	
+7-29	en	en	PI:s-uc:--:----	_	
+7-30	del	del	NC:siuc:--:----	_	
+7-31	af	af	T-:----:--:----	_	
+7-32	Casper	Casper	NP:siu#:--:----	_	
+7-33	Christensens	Christensen	NP:sig#:--:----	_	
+7-34	"	"	ZI	_	
+7-35	Tæskeholdet	tæskehold	NC:sdun:--:----	_	
+7-36	"	"	ZI	_	
+7-37	i	i	T-:----:--:----	_	
+7-38	1997	1997	LC:--u-:--:----	_	
+7-39	.	.	ZP	_	
+
+#id=8
+#text=Han har tryllet siden 1987, men gik senere stand-up-vejen og blev i 2008 tildelt Tribini-prisen for " sin særlige evne til at forbinde stand-up med trylleri" og for at " have forstået at forny gøglertraditionen samt formidle den til den yngre generation".
+8-1	Han	han	PP:s-nc:--:-3n-	_	
+8-2	har	have	VF:----:sa:----	_	
+8-3	tryllet	trylle	VT:siu#:t-:----	_	
+8-4	siden	siden	T-:----:--:----	_	
+8-5	1987	1987	LC:--u-:--:----	_	
+8-6	,	,	ZD	_	
+8-7	men	men	CC:----:--:----	_	
+8-8	gik	gå	VF:----:ta:----	_	
+8-9	senere	sen	AC:##u#:--:c---	_	
+8-10	stand	stand	NW:----:--:----	_	
+8-11	-	-	ZH	_	
+8-12	up	up	NW:----:--:----	_	
+8-13	-	-	ZH	_	
+8-14	vejen	vej	NC:sduc:--:----	_	
+8-15	og	og	CC:----:--:----	_	
+8-16	blev	blive	VF:----:ta:----	_	
+8-17	i	i	T-:----:--:----	_	
+8-18	2008	2008	LC:--u-:--:----	_	
+8-19	tildelt	tildele	VT:siu#:t-:----	_	
+8-20	Tribini	Tribini	NP:siu#:--:----	_	
+8-21	-	-	ZH	_	
+8-22	prisen	pris	NC:sduc:--:----	_	
+8-23	for	for	T-:----:--:----	_	
+8-24	"	"	ZI	_	
+8-25	sin	sin	XY:----:--:----	_	
+8-26	særlige	særlig	AC:sdu#:--:p---	_	
+8-27	evne	evne	NC:siuc:--:----	_	
+8-28	til	til	T-:----:--:----	_	
+8-29	at	at	UI:----:--:----	_	
+8-30	forbinde	forbinde	VI:----:-a:----	_	
+8-31	stand	stand	NW:----:--:----	_	
+8-32	-	-	ZH	_	
+8-33	up	up	XF:----:--:----	_	
+8-34	med	med	T-:----:--:----	_	
+8-35	trylleri	trylleri	NC:siun:--:----	_	
+8-36	"	"	ZI	_	
+8-37	og	og	CC:----:--:----	_	
+8-38	for	for	T-:----:--:----	_	
+8-39	at	at	UI:----:--:----	_	
+8-40	"	"	ZI	_	
+8-41	have	have	VI:----:-a:----	_	
+8-42	forstået	forstå	VT:siu#:t-:----	_	
+8-43	at	at	UI:----:--:----	_	
+8-44	forny	forny	VI:----:-a:----	_	
+8-45	gøglertraditionen	gøglertradition	NC:sduc:--:----	_	
+8-46	samt	samt	CC:----:--:----	_	
+8-47	formidle	formidle	VI:----:-a:----	_	
+8-48	den	den	PP:s-uc:--:-3n-	_	
+8-49	til	til	T-:----:--:----	_	
+8-50	den	den	PM:s-uc:--:----	_	
+8-51	yngre	ung	AC:##u#:--:c---	_	
+8-52	generation	generation	NC:siuc:--:----	_	
+8-53	"	"	ZI	_	
+8-54	.	.	ZP	_	
+
+#id=9
+#text=Bliver af mange regnet som manden, der startede den slags dansk stand-up-comedy, vi kender i dag.
+9-1	Bliver	blive	VF:----:sa:----	_	
+9-2	af	af	T-:----:--:----	_	
+9-3	mange	mangen	AC:p#u#:--:p---	_	
+9-4	regnet	regne	VT:siu#:t-:----	_	
+9-5	som	som	US:----:--:----	_	
+9-6	manden	mand	NC:sduc:--:----	_	
+9-7	,	,	ZD	_	
+9-8	der	der	US:----:--:----	_	
+9-9	startede	starte	VF:----:ta:----	_	
+9-10	den	den	PM:s-uc:--:----	_	
+9-11	slags	slags	NC:siuc:--:----	_	
+9-12	dansk	dansk	AC:siu§:--:p---	_	
+9-13	stand	stand	NW:----:--:----	_	
+9-14	-	-	ZH	_	
+9-15	up	up	NW:----:--:----	_	
+9-16	-	-	NC:piu#:--:----	_	
+9-17	comedy	comedy	VI:----:-a:----	_	
+9-18	,	,	ZD	_	
+9-19	vi	vi	PP:p-nc:--:-1n-	_	
+9-20	kender	kende	VF:----:sa:----	_	
+9-21	i	i	T-:----:--:----	_	
+9-22	dag	dag	NC:siuc:--:----	_	
+9-23	.	.	ZP	_	
+
+#id=10
+#text=Den nu 34-årige multikunstner debuterede ved DM i stand-up i 1993, hvor han fik en 2.-plads.
+10-1	Den	den	PP:s-uc:--:-3n-	_	
+10-2	nu	nu	D-:----:--:u---	_	
+10-3	34	34	LW:----:--:----	_	
+10-4	-	-	ZH	_	
+10-5	årige	årig	AC:sdu#:--:p---	_	
+10-6	multikunstner	multikunstner	NC:siuc:--:----	_	
+10-7	debuterede	debutere	VF:----:ta:----	_	
+10-8	ved	ved	T-:----:--:----	_	
+10-9	DM	DM	NP:siu#:--:----	_	
+10-10	i	i	T-:----:--:----	_	
+10-11	stand	stand	NW:----:--:----	_	
+10-12	-	-	ZH	_	
+10-13	up	up	XF:----:--:----	_	
+10-14	i	i	T-:----:--:----	_	
+10-15	1993	1993	LC:--u-:--:----	_	
+10-16	,	,	ZD	_	
+10-17	hvor	hvor	D-:----:--:u---	_	
+10-18	han	han	PP:s-nc:--:-3n-	_	
+10-19	fik	få	VF:----:ta:----	_	
+10-20	en	en	PI:s-uc:--:----	_	
+10-21	2	2	LO:--u#:--:----	_	
+10-22	.	.	ZP	_	
+10-23	-	-	ZH	_	
+10-24	plads	plads	NC:siuc:--:----	_	
+10-25	.	.	ZP	_	
+
+#id=11
+#text=Gennembruddet kom med P3-radiosatiren " Hva' snakker du om?" ( 2001), mens det første job uden for stand-upgenren var i 2003 som skuespiller i Nikolaj Cederholms " Simon" på Østre Gasværk.
+11-1	Gennembruddet	gennembrud	NC:sdun:--:----	_	
+11-2	kom	komme	VF:----:ta:----	_	
+11-3	med	med	T-:----:--:----	_	
+11-4	P3	P3	NP:siu#:--:----	_	
+11-5	-	-	ZH	_	
+11-6	radiosatiren	radiosatire	NC:sduc:--:----	_	
+11-7	"	"	ZI	_	
+11-8	Hva	hvad	PR:s-u#:--:----	_	
+11-9	'	'	ZA	_	
+11-10	snakker	snakke	VF:----:sa:----	_	
+11-11	du	du	nc:--:-2n-	_	
+11-12	om	om	D-:----:--:u---	_	
+11-13	?	?	ZQ	_	
+11-14	"	"	ZI	_	
+11-15	(	(	ZD	_	
+11-16	2001	2001	LC:--u-:--:----	_	
+11-17	)	)	ZD	_	
+11-18	,	,	ZD	_	
+11-19	mens	mens	CS:----:--:----	_	
+11-20	det	den	PM:s-un:--:----	_	
+11-21	første	første	AC:§§u§:--:p---	_	
+11-22	job	job	NC:siun:--:----	_	
+11-23	uden	uden	D-:----:--:u---	_	
+11-24	for	for	T-:----:--:----	_	
+11-25	stand	stand	NW:----:--:----	_	
+11-26	-	-	ZH	_	
+11-27	upgenren	upgenre	NC:sduc:--:----	_	
+11-28	var	være	VF:----:ta:----	_	
+11-29	i	i	T-:----:--:----	_	
+11-30	2003	2003	LC:--u-:--:----	_	
+11-31	som	som	US:----:--:----	_	
+11-32	skuespiller	skuespiller	NC:siuc:--:----	_	
+11-33	i	i	T-:----:--:----	_	
+11-34	Nikolaj	Nikolaj	NP:siu#:--:----	_	
+11-35	Cederholms	Cederholms	NP:siu#:--:----	_	
+11-36	"	"	ZI	_	
+11-37	Simon	Simon	NP:siu#:--:----	_	
+11-38	"	"	ZI	_	
+11-39	på	på	T-:----:--:----	_	
+11-40	Østre	østre	AC:§§u§:--:p---	_	
+11-41	Gasværk	gasværk	NC:siun:--:----	_	
+11-42	.	.	ZP	_	
+
+#id=12
+#text=Debuterede som stand-up'er i 1993 og var bl.
+12-1	Debuterede	debutere	VF:----:ta:----	_	
+12-2	som	som	US:----:--:----	_	
+12-3	stand	stand	NW:----:--:----	_	
+12-4	-	-	ZH	_	
+12-5	up	up	XF:----:--:----	_	
+12-6	'	'	ZA	_	
+12-7	er	@er	MN:siu#:--:----	_	
+12-8	i	i	T-:----:--:----	_	
+12-9	1993	1993	LC:--u-:--:----	_	
+12-10	og	og	CC:----:--:----	_	
+12-11	var	være	VF:----:ta:----	_	
+12-12	bl	blandt	T-:----:--:----	_	
+12-13	.	.	ZP	_	
+
+#id=13
+#text=Debuterede som stand-up-komiker i starten af 90' erne, men er nu mest kendt som TV-vært og skuespiller.
+13-1	Debuterede	debutere	VF:----:ta:----	_	
+13-2	som	som	US:----:--:----	_	
+13-3	stand	stand	NW:----:--:----	_	
+13-4	-	-	ZH	_	
+13-5	up	up	NW:----:--:----	_	
+13-6	-	-	ZH	_	
+13-7	komiker	komiker	NC:siuc:--:----	_	
+13-8	i	i	T-:----:--:----	_	
+13-9	starten	start	NC:sduc:--:----	_	
+13-10	af	af	T-:----:--:----	_	
+13-11	90	90	LC:--u-:--:----	_	
+13-12	'	'	ZA	_	
+13-13	erne	@erne	MN:pdu#:--:----	_	
+13-14	,	,	ZD	_	
+13-15	men	men	CC:----:--:----	_	
+13-16	er	være	VF:----:sa:----	_	
+13-17	nu	nu	D-:----:--:u---	_	
+13-18	mest	megen	AD:----:--:s---	_	
+13-19	kendt	kendt	AC:siu§:--:p---	_	
+13-20	som	som	US:----:--:----	_	
+13-21	TV	TV	NW:----:--:----	_	
+13-22	-	-	ZH	_	
+13-23	vært	vært	NC:siuc:--:----	_	
+13-24	og	og	CC:----:--:----	_	
+13-25	skuespiller	skuespiller	NC:siuc:--:----	_	
+13-26	.	.	ZP	_	
+
+#id=14
+#text=Kun få måneder efter sin kone Helles tragiske selvmord i december 2008 købte Johnny den gamle og nedlagte politistation på Bredgade i Hurup, som han nu - sammen med et stort hold håndværkere - er ved at renovere og sætte i stand til eksklusive lejligheder.
+14-1	Kun	kun	D-:----:--:u---	_	
+14-2	få	få	AC:p#u#:--:p---	_	
+14-3	måneder	måned	NC:piu#:--:----	_	
+14-4	efter	efter	T-:----:--:----	_	
+14-5	sin	sin	PO:s--c:--:-3ys	_	
+14-6	kone	kone	NC:siuc:--:----	_	
+14-7	Helles	Helle	NP:sig#:--:----	_	
+14-8	tragiske	tragisk	AC:sdu#:--:p---	_	
+14-9	selvmord	selvmord	NC:siun:--:----	_	
+14-10	i	i	T-:----:--:----	_	
+14-11	december	december	NC:siuc:--:----	_	
+14-12	2008	2008	LC:--u-:--:----	_	
+14-13	købte	købe	VF:----:ta:----	_	
+14-14	Johnny	Johnny	NP:siu#:--:----	_	
+14-15	den	den	PM:s-uc:--:----	_	
+14-16	gamle	gammel	AC:sdu#:--:p---	_	
+14-17	og	og	CC:----:--:----	_	
+14-18	nedlagte	nedlagt	AC:sdu#:--:p---	_	
+14-19	politistation	politistation	NC:siuc:--:----	_	
+14-20	på	på	T-:----:--:----	_	
+14-21	Bredgade	Bredgade	NP:siu#:--:----	_	
+14-22	i	i	T-:----:--:----	_	
+14-23	Hurup	Hurup	NP:siu#:--:----	_	
+14-24	,	,	ZD	_	
+14-25	som	som	US:----:--:----	_	
+14-26	han	han	PP:s-nc:--:-3n-	_	
+14-27	nu	nu	NW:----:--:----	_	
+14-28	-	-	ZH	_	
+14-29	sammen	sammen	D-:----:--:u---	_	
+14-30	med	med	T-:----:--:----	_	
+14-31	et	en	PI:s-un:--:----	_	
+14-32	stort	stor	AC:siun:--:p---	_	
+14-33	hold	hold	NC:siun:--:----	_	
+14-34	håndværkere	håndværker	NC:piu#:--:----	_	
+14-35	-	-	ZH	_	
+14-36	er	være	VF:----:sa:----	_	
+14-37	ved	ved	T-:----:--:----	_	
+14-38	at	at	UI:----:--:----	_	
+14-39	renovere	renovere	VI:----:-a:----	_	
+14-40	og	og	CC:----:--:----	_	
+14-41	sætte	sætte	VI:----:-a:----	_	
+14-42	i	i	T-:----:--:----	_	
+14-43	stand	stand	NC:siuc:--:----	stand_F_gøre-(sætte,-lave,-..)-i-stand	
+14-44	til	til	T-:----:--:----	_	
+14-45	eksklusive	eksklusive	T-:----:--:----	_	
+14-46	lejligheder	lejlighed	NC:piu#:--:----	_	
+14-47	.	.	ZP	_	
+
+#id=15
+#text=- Nej, jeg har f. eks. aldrig prøvet et one-night stand.
+15-1	-	-	NC:piu#:--:----	_	
+15-2	Nej	nej	NC:siun:--:----	_	
+15-3	,	,	ZD	_	
+15-4	jeg	jeg	PP:s-nc:--:-1n-	_	
+15-5	har	have	VF:----:sa:----	_	
+15-6	f	for	T-:----:--:----	_	
+15-7	.	.	ZP	_	
+15-8	eks	eksempel	NC:siun:--:----	_	
+15-9	.	.	ZP	_	
+15-10	aldrig	aldrig	D-:----:--:u---	_	
+15-11	prøvet	prøve	VT:siu#:t-:----	_	
+15-12	et	en	PI:s-un:--:----	_	
+15-13	one	one	NW:----:--:----	_	
+15-14	-	-	ZH	_	
+15-15	night	Night	XF:----:--:----	_	
+15-16	stand	stand	NC:siuc:--:----	_	
+15-17	.	.	ZP	_	
+
+#id=16
+#text= Den Lille Havfrue er en del af Dan- Danmarks stand ved verdensudstillingen i marks Kina.
+16-1	Den	den	PP:s-uc:--:-3n-	_	
+16-2	Lille	lille	AC:siu§:--:p---	_	
+16-3	Havfrue	havfrue	NC:siuc:--:----	_	
+16-4	er	være	VF:----:sa:----	_	
+16-5	en	en	PI:s-uc:--:----	_	
+16-6	del	del	NC:siuc:--:----	_	
+16-7	af	af	T-:----:--:----	_	
+16-8	Dan	Dan	NP:siu#:--:----	_	
+16-9	-	-	ZH	_	
+16-10	Danmarks	Danmark	NP:sig#:--:----	_	
+16-11	stand	stand	NC:siuc:--:----	stand_4	
+16-12	ved	ved	T-:----:--:----	_	
+16-13	verdensudstillingen	verdensudstilling	NC:sduc:--:----	_	
+16-14	i	i	T-:----:--:----	_	
+16-15	marks	mark	NC:sigc:--:----	_	
+16-16	Kina	Kina	NP:siu#:--:----	_	
+16-17	.	.	ZP	_	
+
+#id=17
+#text=Hvis du er interesseret, skal du være klar til at stå til rådighed i døgnets 24 timer, være god til at lave mad, når hendes kok har fri, kunne skifte bleer på tvillingerne og være i stand til at klare rejsearrangementer.
+17-1	Hvis	hvis	CS:----:--:----	_	
+17-2	du	du	PP:s-nc:--:-2n-	_	
+17-3	er	være	VF:----:sa:----	_	
+17-4	interesseret	interessere	VT:siu#:t-:----	_	
+17-5	,	,	ZD	_	
+17-6	skal	skulle	VF:----:sa:----	_	
+17-7	du	du	PP:s-nc:--:-2n-	_	
+17-8	være	være	VI:----:-a:----	_	
+17-9	klar	klar	AC:siuc:--:p---	_	
+17-10	til	til	T-:----:--:----	_	
+17-11	at	at	UI:----:--:----	_	
+17-12	stå	stå	VI:----:-a:----	_	
+17-13	til	til	T-:----:--:----	_	
+17-14	rådighed	rådighed	NC:siuc:--:----	_	
+17-15	i	i	T-:----:--:----	_	
+17-16	døgnets	døgn	NC:sdgn:--:----	_	
+17-17	24	24	LC:--u-:--:----	_	
+17-18	timer	time	NC:piu#:--:----	_	
+17-19	,	,	ZD	_	
+17-20	være	være	VI:----:-a:----	_	
+17-21	god	god	AC:siuc:--:p---	_	
+17-22	til	til	T-:----:--:----	_	
+17-23	at	at	UI:----:--:----	_	
+17-24	lave	lave	VI:----:-a:----	_	
+17-25	mad	mad	NC:siuc:--:----	_	
+17-26	,	,	ZD	_	
+17-27	når	når	CS:----:--:----	_	
+17-28	hendes	hendes	PO:#--#:--:-3ns	_	
+17-29	kok	kok	NC:siuc:--:----	_	
+17-30	har	have	VF:----:sa:----	_	
+17-31	fri	fri	AC:siuc:--:p---	_	
+17-32	,	,	ZD	_	
+17-33	kunne	kunne	VF:----:ta:----	_	
+17-34	skifte	skifte	VI:----:-a:----	_	
+17-35	bleer	ble	NC:piu#:--:----	_	
+17-36	på	på	T-:----:--:----	_	
+17-37	tvillingerne	tvilling	NC:pdu#:--:----	_	
+17-38	og	og	CC:----:--:----	_	
+17-39	være	være	VI:----:-a:----	_	
+17-40	i	i	T-:----:--:----	_	
+17-41	stand	stand	iuc:--:----	stand_F_i-stand-til	
+17-42	til	til	T-:----:--:----	_	
+17-43	at	at	UI:----:--:----	_	
+17-44	klare	klare	VI:----:-a:----	_	
+17-45	rejsearrangementer	rejsearrangement	NC:piu#:--:----	_	
+17-46	.	.	ZP	_	
+
+#id=18
+#text=Det er ikke en " stand-in-penis", der kan ses på den nye filmplakat for " Klovn - The Movie", hvor Casper Christensen viser klokkeværk, mens han slænger sig helt nøgen blandt lige så bare kvinder og en enkelt behåret mandekrop.
+18-1	Det	det	PP:s-un:--:-3n-	_	
+18-2	er	være	VF:----:sa:----	_	
+18-3	ikke	ikke	D-:----:--:u---	_	
+18-4	en	en	PI:s-uc:--:----	_	
+18-5	"	"	ZI	_	
+18-6	stand	stand	NW:----:--:----	_	
+18-7	-	-	ZH	_	
+18-8	in	in	AW:----:--:----	_	
+18-9	-	-	ZH	_	
+18-10	penis	penis	NC:siuc:--:----	_	
+18-11	"	"	ZI	_	
+18-12	,	,	ZD	_	
+18-13	der	der	US:----:--:----	_	
+18-14	kan	kunne	VF:----:sa:----	_	
+18-15	ses	se	VI:----:-p:----	_	
+18-16	på	på	T-:----:--:----	_	
+18-17	den	den	PM:s-uc:--:----	_	
+18-18	nye	ny	AC:sdu#:--:p---	_	
+18-19	filmplakat	filmplakat	NC:siuc:--:----	_	
+18-20	for	for	T-:----:--:----	_	
+18-21	"	"	ZI	_	
+18-22	Klovn	klovn	NW:----:--:----	_	
+18-23	-	-	ZH	_	
+18-24	The	the	XF:----:--:----	_	
+18-25	Movie	Movie	NP:siu#:--:----	_	
+18-26	"	"	ZI	_	
+18-27	,	,	ZD	_	
+18-28	hvor	hvor	D-:----:--:u---	_	
+18-29	Casper	Casper	NP:siu#:--:----	_	
+18-30	Christensen	Christensen	NP:siu#:--:----	_	
+18-31	viser	vise	VF:----:sa:----	_	
+18-32	klokkeværk	klokkeværk	NC:siun:--:----	_	
+18-33	,	,	ZD	_	
+18-34	mens	mens	CS:----:--:----	_	
+18-35	han	han	PP:s-nc:--:-3n-	_	
+18-36	slænger	slænge	VF:----:sa:----	_	
+18-37	sig	sig	PP:#-u#:--:-3y-	_	
+18-38	helt	hel	AD:----:--:p---	_	
+18-39	nøgen	nøgen	AC:siuc:--:p---	_	
+18-40	blandt	blandt	T-:----:--:----	_	
+18-41	lige	lige	D-:----:--:u---	_	
+18-42	så	så	D-:----:--:u---	_	
+18-43	bare	bar	AC:p#u#:--:p---	_	
+18-44	kvinder	kvinde	NC:piu#:--:----	_	
+18-45	og	og	CC:----:--:----	_	
+18-46	en	en	PI:s-uc:--:----	_	
+18-47	enkelt	enkelt	AC:siu§:--:p---	_	
+18-48	behåret	behåret	AC:siu§:--:p---	_	
+18-49	mandekrop	mandekrop	NC:siuc:--:----	_	
+18-50	.	.	ZP	_	
+
+#id=19
+#text=De begyndte som fandenivoldske stand-up'ere.
+19-1	De	de	PP:p-n#:--:-3n-	_	
+19-2	begyndte	begynde	VF:----:ta:----	_	
+19-3	som	som	US:----:--:----	_	
+19-4	fandenivoldske	fandenivoldsk	AC:p#u#:--:p---	_	
+19-5	stand	stand	NW:----:--:----	_	
+19-6	-	-	ZH	_	
+19-7	up	up	XF:----:--:----	_	
+19-8	'	'	ZA	_	
+19-9	ere	@ere	MN:piu#:--:----	_	
+19-10	.	.	ZP	_	
+
+#id=20
+#text=Jan Gintberg kunne i 1992 smykke sig med en tredjeplads i DM i  stand-up, og han er den dag i dag stadig en af de flittigst optrædende inden for denne branche.
+20-1	Jan	Jan	NP:siu#:--:----	_	
+20-2	Gintberg	Gintberg	NP:siu#:--:----	_	
+20-3	kunne	kunne	VF:----:ta:----	_	
+20-4	i	i	T-:----:--:----	_	
+20-5	1992	1992	LC:--u-:--:----	_	
+20-6	smykke	smykke	VI:----:-a:----	_	
+20-7	sig	sig	PP:#-u#:--:-3y-	_	
+20-8	med	med	T-:----:--:----	_	
+20-9	en	en	PI:s-uc:--:----	_	
+20-10	tredjeplads	tredjeplads	NC:siuc:--:----	_	
+20-11	i	i	T-:----:--:----	_	
+20-12	DM	DM	NP:siu#:--:----	_	
+20-13	i	i	T-:----:--:----	_	
+20-14	stand	stand	NW:----:--:----	_	
+20-15	-	-	ZH	_	
+20-16	up	up	XF:----:--:----	_	
+20-17	,	,	ZD	_	
+20-18	og	og	CC:----:--:----	_	
+20-19	han	han	PP:s-nc:--:-3n-	_	
+20-20	er	være	VF:----:sa:----	_	
+20-21	den	den	PM:s-uc:--:----	_	
+20-22	dag	dag	NC:siuc:--:----	_	
+20-23	i	i	T-:----:--:----	_	
+20-24	dag	dag	NC:siuc:--:----	_	
+20-25	stadig	stadig	D-:----:--:u---	_	
+20-26	en	en	PI:s-uc:--:----	_	
+20-27	af	af	T-:----:--:----	_	
+20-28	de	den	PM:p-u#:--:----	_	
+20-29	flittigst	flittig	AD:----:--:s---	_	
+20-30	optrædende	optræde	VP:##u#:s-:----	_	
+20-31	inden	inden	T-:----:--:----	_	
+20-32	for	for	T-:----:--:----	_	
+20-33	denne	denne	PM:s-uc:--:----	_	
+20-34	branche	branche	NC:siuc:--:----	_	
+20-35	.	.	ZP	_	
+
+#id=21
+#text=Som  sine kammerater i stand-up-branchen kunne han heller ikke sige nej, da han fik tilbuddet om at være vært i et mainstream-program.
+21-1	Som	som	US:----:--:----	_	
+21-2	sine	sine	XY:----:--:----	_	
+21-3	kammerater	kammerat	NC:piu#:--:----	_	
+21-4	i	i	T-:----:--:----	_	
+21-5	stand	stand	NW:----:--:----	_	
+21-6	-	-	ZH	_	
+21-7	up	up	NW:----:--:----	_	
+21-8	-	-	ZH	_	
+21-9	branchen	branche	NC:sduc:--:----	_	
+21-10	kunne	kunne	VF:----:ta:----	_	
+21-11	han	han	PP:s-nc:--:-3n-	_	
+21-12	heller	heller	D-:----:--:u---	_	
+21-13	ikke	ikke	D-:----:--:u---	_	
+21-14	sige	sige	VI:----:-a:----	_	
+21-15	nej	nej	NC:siun:--:----	_	
+21-16	,	,	ZD	_	
+21-17	da	da	CS:----:--:----	_	
+21-18	han	han	PP:s-nc:--:-3n-	_	
+21-19	fik	få	VF:----:ta:----	_	
+21-20	tilbuddet	tilbud	NC:sdun:--:----	_	
+21-21	om	om	T-:----:--:----	_	
+21-22	at	at	UI:----:--:----	_	
+21-23	være	være	VI:----:-a:----	_	
+21-24	vært	vært	NC:siuc:--:----	_	
+21-25	i	i	T-:----:--:----	_	
+21-26	et	en	PI:s-un:--:----	_	
+21-27	mainstream	mainstream	NW:----:--:----	_	
+21-28	-	-	ZH	_	
+21-29	program	program	NC:siun:--:----	_	
+21-30	.	.	ZP	_	
+
+#id=22
+#text=Amin Jensen debuterede som stand-up'er i 1993 og arbejdede det følgende par år som opvarmningskomiker for publikum ved TV-shows som " Lykkehjulet", " Ugen der gak", " Linen ud", " Stjerneskud", " Stjernetræf", " Stjernejoker" og " Tæl til 3".
+22-1	Amin	Amin	XY:----:--:----	_	
+22-2	Jensen	Jensen	NP:siu#:--:----	_	
+22-3	debuterede	debutere	VF:----:ta:----	_	
+22-4	som	som	US:----:--:----	_	
+22-5	stand	stand	NW:----:--:----	_	
+22-6	-	-	ZH	_	
+22-7	up	up	XF:----:--:----	_	
+22-8	'	'	ZA	_	
+22-9	er	@er	MN:siu#:--:----	_	
+22-10	i	i	T-:----:--:----	_	
+22-11	1993	1993	LC:--u-:--:----	_	
+22-12	og	og	CC:----:--:----	_	
+22-13	arbejdede	arbejde	VF:----:ta:----	_	
+22-14	det	den	PM:s-un:--:----	_	
+22-15	følgende	følge	VP:##u#:s-:----	_	
+22-16	par	par	NC:piu#:--:----	_	
+22-17	år	år	#:--:----	_	
+22-18	som	som	US:----:--:----	_	
+22-19	opvarmningskomiker	opvarmningskomiker	NC:siuc:--:----	_	
+22-20	for	for	T-:----:--:----	_	
+22-21	publikum	publikum	NC:siun:--:----	_	
+22-22	ved	ved	T-:----:--:----	_	
+22-23	TV	TV	NW:----:--:----	_	
+22-24	-	-	ZH	_	
+22-25	shows	show	NC:piu#:--:----	_	
+22-26	som	som	US:----:--:----	_	
+22-27	"	"	ZI	_	
+22-28	Lykkehjulet	lykkehjul	NC:sdun:--:----	_	
+22-29	"	"	ZI	_	
+22-30	,	,	ZD	_	
+22-31	"	"	ZI	_	
+22-32	Ugen	uge	NC:sduc:--:----	_	
+22-33	der	der	US:----:--:----	_	
+22-34	gak	gak	NP:sig#:--:----	_	
+22-35	"	"	ZI	_	
+22-36	,	,	ZD	_	
+22-37	"	"	ZI	_	
+22-38	Linen	line	NC:sduc:--:----	_	
+22-39	ud	ud	D-:----:--:u---	_	
+22-40	"	"	ZI	_	
+22-41	,	,	ZD	_	
+22-42	"	"	ZI	_	
+22-43	Stjerneskud	stjerneskud	NC:siun:--:----	_	
+22-44	"	"	ZI	_	
+22-45	,	,	ZD	_	
+22-46	"	"	ZI	_	
+22-47	Stjernetræf	Stjernetræf	NP:siu#:--:----	_	
+22-48	"	"	ZI	_	
+22-49	,	,	ZD	_	
+22-50	"	"	ZI	_	
+22-51	Stjernejoker	Stjernejoker	NP:siu#:--:----	_	
+22-52	"	"	ZI	_	
+22-53	og	og	CC:----:--:----	_	
+22-54	"	"	ZI	_	
+22-55	Tæl	tælle	VM:----:--:----	_	
+22-56	til	til	T-:----:--:----	_	
+22-57	3	3	LC:--u-:--:----	_	
+22-58	"	"	ZI	_	
+22-59	.	.	ZP	_	
+
+#id=23
+#text=69 www.seoghoer.dk Casper Christensen begyndte som stand-up'er i slutfirserne, inden han i det næste årti blev en slags garant for det anderledes og skøre i programmer som " Tæskeholdet", " Husk lige tandbørsten" og " Safari".
+23-1	69	69	LC:--u-:--:----	_	
+23-2	www	www	XS:----:--:----	_	
+23-3	.	.	ZP	_	
+23-4	seoghoer	seoghovære	VF:----:sa:----	_	
+23-5	.	.	ZP	_	
+23-6	dk	dk	XS:----:--:----	_	
+23-7	Casper	Casper	NP:siu#:--:----	_	
+23-8	Christensen	Christensen	NP:siu#:--:----	_	
+23-9	begyndte	begynde	----	_	
+23-10	som	som	US:----:--:----	_	
+23-11	stand	stand	NW:----:--:----	_	
+23-12	-	-	ZH	_	
+23-13	up	up	XF:----:--:----	_	
+23-14	'	'	ZA	_	
+23-15	er	@er	MN:siu#:--:----	_	
+23-16	i	i	T-:----:--:----	_	
+23-17	slutfirserne	slutfirser	NC:pdu#:--:----	_	
+23-18	,	,	ZD	_	
+23-19	inden	inden	CS:----:--:----	_	
+23-20	han	han	PP:s-nc:--:-3n-	_	
+23-21	i	i	T-:----:--:----	_	
+23-22	det	den	PM:s-un:--:----	_	
+23-23	næste	næste	AC:§§u§:--:p---	_	
+23-24	årti	årti	NC:siun:--:----	_	
+23-25	blev	blive	VF:----:ta:----	_	
+23-26	en	en	PI:s-uc:--:----	_	
+23-27	slags	slags	NC:siuc:--:----	_	
+23-28	garant	garant	NC:siuc:--:----	_	
+23-29	for	for	T-:----:--:----	_	
+23-30	det	den	PM:s-un:--:----	_	
+23-31	anderledes	anderledes	AC:§§u§:--:p---	_	
+23-32	og	og	CC:----:--:----	_	
+23-33	skøre	skøre	NC:siuc:--:----	_	
+23-34	i	i	T-:----:--:----	_	
+23-35	programmer	program	NC:piu#:--:----	_	
+23-36	som	som	US:----:--:----	_	
+23-37	"	"	ZI	_	
+23-38	Tæskeholdet	tæskehold	NC:sdun:--:----	_	
+23-39	"	"	ZI	_	
+23-40	,	,	ZD	_	
+23-41	"	"	ZI	_	
+23-42	Husk	huske	VM:----:--:----	_	
+23-43	lige	lige	D-:----:--:u---	_	
+23-44	tandbørsten	tandbørste	NC:sduc:--:----	_	
+23-45	"	"	ZI	_	
+23-46	og	og	CC:----:--:----	_	
+23-47	"	"	ZI	_	
+23-48	Safari	safari	NC:siuc:--:----	_	
+23-49	"	"	ZI	_	
+23-50	.	.	ZP	_	
+
+#id=24
+#text=- Det så ud, som om han havde to hoveder, fortæller Chen Mou, som nu er i stand til at grine lidt af det hele.
+24-1	-	-	NC:piu#:--:----	_	
+24-2	Det	Det	XY:----:--:----	_	
+24-3	så	så	D-:----:--:u---	_	
+24-4	ud	ud	D-:----:--:u---	_	
+24-5	,	,	ZD	_	
+24-6	som	som	US:----:--:----	_	
+24-7	om	om	CS:----:--:----	_	
+24-8	han	han	PP:s-nc:--:-3n-	_	
+24-9	havde	have	VF:----:ta:----	_	
+24-10	to	to	LC:--u-:--:----	_	
+24-11	hoveder	hoved	NC:piu#:--:----	_	
+24-12	,	,	ZD	_	
+24-13	fortæller	fortælle	VF:----:sa:----	_	
+24-14	Chen	Chen	NP:siu#:--:----	_	
+24-15	Mou	Mou	NP:siu#:--:----	_	
+24-16	,	,	ZD	_	
+24-17	som	som	US:----:--:----	_	
+24-18	nu	nu	D-:----:--:u---	_	
+24-19	er	være	VF:----:sa:----	_	
+24-20	i	i	T-:----:--:----	_	
+24-21	stand	stand	NC:siuc:--:----	stand_F_i-stand-til	
+24-22	til	til	T-:----:--:----	_	
+24-23	at	at	UI:----:--:----	_	
+24-24	grine	grine	VI:----:-a:----	_	
+24-25	lidt	lidt	AD:----:--:p---	_	
+24-26	af	af	T-:----:--:----	_	
+24-27	det	den	PM:s-un:--:----	_	
+24-28	hele	hel	AC:sdu#:--:p---	_	
+24-29	.	.	ZP	_	
+
+#id=25
+#text=har sat forholdet til kæresten gennem et år, Carey Mulligan, på stand-by.
+25-1	har	have	VF:----:sa:----	_	
+25-2	sat	sætte	VT:siu#:t-:----	_	
+25-3	forholdet	forhold	NC:sdun:--:----	_	
+25-4	til	til	T-:----:--:----	_	
+25-5	kæresten	kæreste	NC:sduc:--:----	_	
+25-6	gennem	gennem	T-:----:--:----	_	
+25-7	et	en	PI:s-un:--:----	_	
+25-8	år	år	NC:siun:--:----	_	
+25-9	,	,	ZD	_	
+25-10	Carey	Carey	NP:siu#:--:----	_	
+25-11	Mulligan	Mulligan	NP:siu#:--:----	_	
+25-12	,	,	ZD	_	
+25-13	på	på	T-:----:--:----	_	
+25-14	stand	stand	NW:----:--:----	_	
+25-15	-	-	ZH	_	
+25-16	by	by	NC:siuc:--:----	_	
+25-17	.	.	ZP	_	
+
+#id=26
+#text= Nu har de sammen købt en stor lejlighed, som de er ved at gøre i stand.
+26-1	Nu	nu	D-:----:--:u---	_	
+26-2	har	have	VF:----:sa:----	_	
+26-3	de	de	PP:p-n#:--:-3n-	_	
+26-4	sammen	sammen	D-:----:--:u---	_	
+26-5	købt	købe	VT:siu#:t-:----	_	
+26-6	en	en	PI:s-uc:--:----	_	
+26-7	stor	stor	AC:siuc:--:p---	_	
+26-8	lejlighed	lejlighed	NC:siuc:--:----	_	
+26-9	,	,	ZD	_	
+26-10	som	som	US:----:--:----	_	
+26-11	de	de	PP:p-n#:--:-3n-	_	
+26-12	er	være	VF:----:sa:----	_	
+26-13	ved	ved	T-:----:--:----	_	
+26-14	at	at	UI:----:--:----	_	
+26-15	gøre	gøre	VI:----:-a:----	_	
+26-16	i	i	T-:----:--:----	_	
+26-17	stand	stand	NC:siuc:--:----	stand_F_gøre-(sætte,-lave,-..)-i-stand	
+26-18	.	.	ZP	_	
+
+#id=27
+#text= Stand-up Livret:
+27-1	Stand	stand	NW:----:--:----	_	
+27-2	-	-	ZH	_	
+27-3	up	up	XF:----:--:----	_	
+27-4	Livret	livret	NC:siuc:--:----	_	
+27-5	:	:	ZP	_	
+
+#id=28
+#text= Nytårsaften var hun i stand til at feste lidt mere og var med til at skåle det nye år ind.
+28-1	Nytårsaften	nytårsaften	NC:siuc:--:----	_	
+28-2	var	være	VF:----:ta:----	_	
+28-3	hun	hun	PP:s-nc:--:-3n-	_	
+28-4	i	i	T-:----:--:----	_	
+28-5	stand	stand	NC:siuc:--:----	stand_F_i-stand-til	
+28-6	til	til	T-:----:--:----	_	
+28-7	at	at	UI:----:--:----	_	
+28-8	feste	feste	VI:----:-a:----	_	
+28-9	lidt	lidt	AD:----:--:p---	_	
+28-10	mere	megen	AC:##u#:--:c---	_	
+28-11	og	og	CC:----:--:----	_	
+28-12	var	være	VF:----:ta:----	_	
+28-13	med	med	D-:----:--:u---	_	
+28-14	til	til	T-:----:--:----	_	
+28-15	at	at	UI:----:--:----	_	
+28-16	skåle	skåle	VI:----:-a:----	_	
+28-17	det	den	PM:s-un:--:----	_	
+28-18	nye	ny	AC:sdu#:--:p---	_	
+28-19	år	år	NC:siun:--:----	_	
+28-20	ind	ind	D-:----:--:u---	_	
+28-21	.	.	ZP	_	
+
+#id=29
+#text= Hun var simpelthen ikke i stand til at dyrke sex med sin mand.
+29-1	Hun	hun	PP:s-nc:--:-3n-	_	
+29-2	var	være	VF:----:ta:----	_	
+29-3	simpelthen	simpelthen	D-:----:--:u---	_	
+29-4	ikke	ikke	D-:----:--:u---	_	
+29-5	i	i	T-:----:--:----	_	
+29-6	stand	stand	NC:siuc:--:----	stand_F_i-stand-til	
+29-7	til	til	T-:----:--:----	_	
+29-8	at	at	UI:----:--:----	_	
+29-9	dyrke	dyrke	VI:----:-a:----	_	
+29-10	sex	sex	NC:siuc:--:----	_	
+29-11	med	med	T-:----:--:----	_	
+29-12	sin	sin	PO:s--c:--:-3ys	_	
+29-13	mand	mand	NC:siuc:--:----	_	
+29-14	.	.	ZP	_	
+
+#id=30
+#text=Lægerne har foretaget en række undersøgelser, men har ikke været i stand til at finde årsagen til de store bryster.
+30-1	Lægerne	læge	NC:pdu#:--:----	_	
+30-2	har	have	VF:----:sa:----	_	
+30-3	foretaget	foretage	VT:siu#:t-:----	_	
+30-4	en	en	PI:s-uc:--:----	_	
+30-5	række	række	NC:siuc:--:----	_	
+30-6	undersøgelser	undersøgelse	NC:piu#:--:----	_	
+30-7	,	,	ZD	_	
+30-8	men	men	CC:----:--:----	_	
+30-9	har	have	VF:----:sa:----	_	
+30-10	ikke	ikke	D-:----:--:u---	_	
+30-11	været	være	VT:siu#:t-:----	_	
+30-12	i	i	T-:----:--:----	_	
+30-13	stand	stand	NC:siuc:--:----	stand_F_i-stand-til	
+30-14	til	til	T-:----:--:----	_	
+30-15	at	at	UI:----:--:----	_	
+30-16	finde	finde	VI:----:-a:----	_	
+30-17	årsagen	årsag	NC:sduc:--:----	_	
+30-18	til	til	T-:----:--:----	_	
+30-19	de	den	PM:p-u#:--:----	_	
+30-20	store	stor	AC:p#u#:--:p---	_	
+30-21	bryster	bryst	NC:piu#:--:----	_	
+30-22	.	.	ZP	_	
+
+#id=31
+#text= Den var allerede i marts i en ussel stand, på trods af at Mallorca har fået rigeligt med vand i foråret.
+31-1	Den	den	:s-uc:--:-3n-	_	
+31-2	var	være	VF:----:ta:----	_	
+31-3	allerede	allerede	D-:----:--:u---	_	
+31-4	i	i	T-:----:--:----	_	
+31-5	marts	marts	NC:siuc:--:----	_	
+31-6	i	i	T-:----:--:----	_	
+31-7	en	en	PI:s-uc:--:----	_	
+31-8	ussel	ussel	AC:siuc:--:p---	_	
+31-9	stand	stand	NC:siuc:--:----	stand_1	
+31-10	,	,	ZD	_	
+31-11	på	på	T-:----:--:----	_	
+31-12	trods	trods	NC:siuc:--:----	_	
+31-13	af	af	T-:----:--:----	_	
+31-14	at	at	CS:----:--:----	_	
+31-15	Mallorca	Mallorca	NP:siu#:--:----	_	
+31-16	har	have	VF:----:sa:----	_	
+31-17	fået	få	VT:siu#:t-:----	_	
+31-18	rigeligt	rigelig	AD:----:--:p---	_	
+31-19	med	med	T-:----:--:----	_	
+31-20	vand	vand	NC:siun:--:----	_	
+31-21	i	i	T-:----:--:----	_	
+31-22	foråret	forår	NC:sdun:--:----	_	
+31-23	.	.	ZP	_	
+
+#id=32
+#text= TV, radio og stand-up-scenen er hendes legeplads og... nu kommer det... en målrettet, velkoreograferet og helt igennem supertroværdig øv-tøjstil er Lindas trademark.
+32-1	TV	tv	NC:siun:--:----	_	
+32-2	,	,	ZD	_	
+32-3	radio	radio	NC:siuc:--:----	_	
+32-4	og	og	CC:----:--:----	_	
+32-5	stand	stand	NW:----:--:----	_	
+32-6	-	-	ZH	_	
+32-7	up	up	NW:----:--:----	_	
+32-8	-	-	ZH	_	
+32-9	scenen	scene	NC:sduc:--:----	_	
+32-10	er	være	VF:----:sa:----	_	
+32-11	hendes	hendes	PO:#--#:--:-3ns	_	
+32-12	legeplads	legeplads	NC:siuc:--:----	_	
+32-13	og	og	CC:----:--:----	_	
+32-14	.	.	ZP	_	
+32-15	.	.	ZP	_	
+32-16	.	.	ZP	_	
+32-17	nu	nu	D-:----:--:u---	_	
+32-18	kommer	komme	VF:----:sa:----	_	
+32-19	det	det	PP:s-un:--:-3n-	_	
+32-20	.	.	ZP	_	
+32-21	.	.	ZP	_	
+32-22	.	.	ZP	_	
+32-23	en	en	PI:s-uc:--:----	_	
+32-24	målrettet	målrettet	AC:siu§:--:p---	_	
+32-25	,	,	ZD	_	
+32-26	velkoreograferet	velkoreografere	VT:siu#:t-:----	_	
+32-27	og	og	CC:----:--:----	_	
+32-28	helt	hel	AD:----:--:p---	_	
+32-29	igennem	igennem	T-:----:--:----	_	
+32-30	supertroværdig	supertroværdig	AC:siuc:--:p---	_	
+32-31	øv	øv	XY:----:--:----	_	
+32-32	-	-	ZH	_	
+32-33	tøjstil	tøjstil	NC:siuc:--:----	_	
+32-34	er	være	VF:----:sa:----	_	
+32-35	Lindas	Linda	NP:sig#:--:----	_	
+32-36	trademark	trademark	NC:siuc:--:----	_	
+32-37	.	.	ZP	_	
+
+#id=33
+#text=- Næh, for det første bryder jeg mig ikke om kropsnært tøj, og for det andet kan jeg godt lide fornemmelsen af, at jeg er kommet frem i stand-up-miljøet uden at vise mine bryster.
+33-1	-	-	NC:piu#:--:----	_	
+33-2	Næh	Næh	XY:----:--:----	_	
+33-3	,	,	ZD	_	
+33-4	for	for	T-:----:--:----	_	
+33-5	det	den	PM:s-un:--:----	_	
+33-6	første	første	AC:§§u§:--:p---	_	
+33-7	bryder	bryde	VF:----:sa:----	_	
+33-8	jeg	jeg	PP:s-nc:--:-1n-	_	
+33-9	mig	jeg	PP:s-uc:--:-1#-	_	
+33-10	ikke	ikke	D-:----:--:u---	_	
+33-11	om	om	T-:----:--:----	_	
+33-12	kropsnært	kropsnær	AC:siun:--:p---	_	
+33-13	tøj	tøj	NC:siun:--:----	_	
+33-14	,	,	ZD	_	
+33-15	og	og	CC:----:--:----	_	
+33-16	for	for	T-:----:--:----	_	
+33-17	det	den	PM:s-un:--:----	_	
+33-18	andet	to	LO:--un:--:----	_	
+33-19	kan	kunne	VF:----:sa:----	_	
+33-20	jeg	jeg	PP:s-nc:--:-1n-	_	
+33-21	godt	god	AD:----:--:p---	_	
+33-22	lide	lide	VI:----:-a:----	_	
+33-23	fornemmelsen	fornemmelse	NC:sduc:--:----	_	
+33-24	af	af	T-:----:--:----	_	
+33-25	,	,	ZD	_	
+33-26	at	at	CS:----:--:----	_	
+33-27	jeg	jeg	PP:s-nc:--:-1n-	_	
+33-28	er	være	VF:----:sa:----	_	
+33-29	kommet	komme	VT:siu#:t-:----	_	
+33-30	frem	frem	D-:----:--:u---	_	
+33-31	i	i	T-:----:--:----	_	
+33-32	stand	stand	NW:----:--:----	_	
+33-33	-	-	ZH	_	
+33-34	up	up	NW:----:--:----	_	
+33-35	-	-	ZH	_	
+33-36	miljøet	miljø	NC:sdun:--:----	_	
+33-37	uden	uden	T-:----:--:----	_	
+33-38	at	at	UI:----:--:----	_	
+33-39	vise	vise	VI:----:-a:----	_	
+33-40	mine	min	PO:p--#:--:-1ns	_	
+33-41	bryster	bryst	NC:piu#:--:----	_	
+33-42	.	.	ZP	_	
+
+#id=34
+#text= Lam fra nakken og ned og ude af stand til at spise og tale.
+34-1	Lam	lamme	VM:----:--:----	_	
+34-2	fra	fra	T-:----:--:----	_	
+34-3	nakken	nakke	NC:sduc:--:----	_	
+34-4	og	og	CC:----:--:----	_	
+34-5	ned	ned	D-:----:--:u---	_	
+34-6	og	og	CC:----:--:----	_	
+34-7	ude	ude	D-:----:--:u---	_	
+34-8	af	af	T-:----:--:----	_	
+34-9	stand	stand	NC:siuc:--:----	stand_F_ude-af-stand-til	
+34-10	til	til	T-:----:--:----	_	
+34-11	at	at	UI:----:--:----	_	
+34-12	spise	spise	VI:----:-a:----	_	
+34-13	og	og	CC:----:--:----	_	
+34-14	tale	tale	NC:siuc:--:----	_	
+34-15	.	.	ZP	_	
+
+#id=35
+#text= Vi har kendt hinanden længe og haft samme omgangskreds i Århus, hvor Anette har spillet teater og jeg optrådte med stand-up.
+35-1	Vi	vi	PP:p-nc:--:-1n-	_	
+35-2	har	have	VF:----:sa:----	_	
+35-3	kendt	kende	VT:siu#:t-:----	_	
+35-4	hinanden	hinanden	PC:p-u-:--:----	_	
+35-5	længe	længe	D-:----:--:u---	_	
+35-6	og	og	CC:----:--:----	_	
+35-7	haft	have	VT:siu#:t-:----	_	
+35-8	samme	samme	AC:§§u§:--:p---	_	
+35-9	omgangskreds	omgangskreds	NC:siuc:--:----	_	
+35-10	i	i	T-:----:--:----	_	
+35-11	Århus	Århus	NP:siu#:--:----	_	
+35-12	,	,	ZD	_	
+35-13	hvor	hvor	D-:----:--:u---	_	
+35-14	Anette	Anette	NP:siu#:--:----	_	
+35-15	har	have	VF:----:sa:----	_	
+35-16	spillet	spille	VT:siu#:t-:----	_	
+35-17	teater	teater	NC:siun:--:----	_	
+35-18	og	og	CC:----:--:----	_	
+35-19	jeg	jeg	PP:s-nc:--:-1n-	_	
+35-20	optrådte	optræde	VF:----:ta:----	_	
+35-21	med	med	T-:----:--:----	_	
+35-22	stand	stand	NW:----:--:----	_	
+35-23	-	-	ZH	_	
+35-24	up	up	XF:----:--:----	_	
+35-25	.	.	ZP	_	
+
+#id=36
+#text=Den 28-årige stand-up'er Christian Fuhlendorff har fået en datter
+36-1	Den	den	PM:s-uc:--:----	_	
+36-2	28	28	LW:----:--:----	_	
+36-3	-	-	ZH	_	
+36-4	årige	årig	AC:sdu#:--:p---	_	
+36-5	stand	stand	NW:----:--:----	_	
+36-6	-	-	ZH	_	
+36-7	up	up	XF:----:--:----	_	
+36-8	'	'	ZA	_	
+36-9	er	være	VF:----:sa:----	_	
+36-10	Christian	Christian	NP:siu#:--:----	_	
+36-11	Fuhlendorff	Fuhlendorff	NP:siu#:--:----	_	
+36-12	har	have	VF:----:sa:----	_	
+36-13	fået	få	VT:siu#:t-:----	_	
+36-14	en	en	PI:s-uc:--:----	_	
+36-15	datter	datter	NC:siuc:--:----	_	
+
+#id=37
+#text=Virkeligheden ser ganske anderledes ud for den 28-årige stand-up-komiker.
+37-1	Virkeligheden	virkelighed	NC:sduc:--:----	_	
+37-2	ser	se	VF:----:sa:----	_	
+37-3	ganske	ganske	D-:----:--:u---	_	
+37-4	anderledes	anderledes	AD:----:--:p---	_	
+37-5	ud	ud	D-:----:--:u---	_	
+37-6	for	for	T-:----:--:----	_	
+37-7	den	den	PM:s-uc:--:----	_	
+37-8	28	28	LW:----:--:----	_	
+37-9	-	-	ZH	_	
+37-10	årige	årig	AC:sdu#:--:p---	_	
+37-11	stand	stand	NW:----:--:----	_	
+37-12	-	-	ZH	_	
+37-13	up	up	NW:----:--:----	_	
+37-14	-	-	ZH	_	
+37-15	komiker	komiker	NC:siuc:--:----	_	
+37-16	.	.	ZP	_	
+
+#id=38
+#text=- Nå, så får stand-up -komikere jo aldrig noget Den fede mand: - Inden i mig er der en tynd person, der skr iger efter at komme ud.
+38-1	-	-	NC:piu#:--:----	_	
+38-2	Nå	nå	VI:----:-a:----	_	
+38-3	,	,	ZD	_	
+38-4	så	så	D-:----:--:u---	_	
+38-5	får	få	VF:----:sa:----	_	
+38-6	stand	stand	NW:----:--:----	_	
+38-7	-	-	ZH	_	
+38-8	up	up	NW:----:--:----	_	
+38-9	-	-	ZH	_	
+38-10	komikere	komiker	NC:piu#:--:----	_	
+38-11	jo	jo	D-:----:--:u---	_	
+38-12	aldrig	aldrig	D-:----:--:u---	_	
+38-13	noget	noget	XY:----:--:----	_	
+38-14	Den	den	PM:s-uc:--:----	_	
+38-15	fede	fed	AC:sdu#:--:p---	_	
+38-16	mand	mand	NC:siuc:--:----	_	
+38-17	:	:	ZP	_	
+38-18	-	-	ZH	_	
+38-19	Inden	inden	D-:----:--:u---	_	
+38-20	i	i	T-:----:--:----	_	
+38-21	mig	jeg	PP:s-uc:--:-1#-	_	
+38-22	er	være	VF:----:sa:----	_	
+38-23	der	der	US:----:--:----	_	
+38-24	en	en	PI:s-uc:--:----	_	
+38-25	tynd	tynd	AC:siuc:--:p---	_	
+38-26	person	person	NC:siuc:--:----	_	
+38-27	,	,	ZD	_	
+38-28	der	der	US:----:--:----	_	
+38-29	skr	skrone	NC:piu#:--:----	_	
+38-30	iger	iger	NC:siuc:--:----	_	
+38-31	efter	efter	T-:----:--:----	_	
+38-32	at	at	UI:----:--:----	_	
+38-33	komme	komme	VI:----:-a:----	_	
+38-34	ud	ud	D-:----:--:u---	_	
+38-35	.	.	ZP	_	
+
+#id=39
+#text=Også nabostuen, stue syv, der er den næststørste stue på fødegangen, er blevet sat i stand.
+39-1	Også	også	D-:----:--:u---	_	
+39-2	nabostuen	nabostue	NC:sduc:--:----	_	
+39-3	,	,	ZD	_	
+39-4	stue	stue	NC:siuc:--:----	_	
+39-5	syv	syv	LC:--u-:--:----	_	
+39-6	,	,	ZD	_	
+39-7	der	der	US:----:--:----	_	
+39-8	er	være	VF:----:sa:----	_	
+39-9	den	den	PM:s-uc:--:----	_	
+39-10	næststørste	næststor	AC:§du§:--:s---	_	
+39-11	stue	stue	NC:siuc:--:----	_	
+39-12	på	på	T-:----:--:----	_	
+39-13	fødegangen	fødegang	NC:sduc:--:----	_	
+39-14	,	,	ZD	_	
+39-15	er	være	VF:----:sa:----	_	
+39-16	blevet	blive	VT:siu#:t-:----	_	
+39-17	sat	sætte	VT:siu#:t-:----	_	
+39-18	i	i	T-:----:--:----	_	
+39-19	stand	stand	NC:siuc:--:----	stand_F_gøre-(sætte,-lave,-..)-i-stand	
+39-20	.	.	ZP	_	
+
+#id=40
+#text= Han ser sig ude af stand til at redde sin familie fra den hævngerrige  underverdensgud Hades ( Ralph Fiennes).
+40-1	Han	han	PP:s-nc:--:-3n-	_	
+40-2	ser	se	VF:----:sa:----	_	
+40-3	sig	sig	PP:#-u#:--:-3y-	_	
+40-4	ude	ude	D-:----:--:u---	_	
+40-5	af	af	T-:----:--:----	_	
+40-6	stand	stand	NC:siuc:--:----	stand_F_ude-af-stand-til	
+40-7	til	til	T-:----:--:----	_	
+40-8	at	at	UI:----:--:----	_	
+40-9	redde	redde	VI:----:-a:----	_	
+40-10	sin	sin	PO:s--c:--:-3ys	_	
+40-11	familie	familie	NC:siuc:--:----	_	
+40-12	fra	fra	T-:----:--:----	_	
+40-13	den	den	PM:s-uc:--:----	_	
+40-14	hævngerrige	hævngerrig	AC:sdu#:--:p---	_	
+40-15	underverdensgud	underverdensgud	NC:siuc:--:----	_	
+40-16	Hades	hade	VF:----:sp:----	_	
+40-17	(	(	ZD	_	
+40-18	Ralph	Ralph	NP:siu#:--:----	_	
+40-19	Fiennes	Fiennes	NP:siu#:--:----	_	
+40-20	)	)	ZD	_	
+40-21	.	.	ZP	_	
+
+#id=41
+#text=Den rapkæftede stand-up'er skal hoppe ind i det nye år hos veninder på Amager.
+41-1	Den	den	PM:s-uc:--:----	_	
+41-2	rapkæftede	rapkæftet	AC:sdu#:--:p---	_	
+41-3	stand	stand	NW:----:--:----	_	
+41-4	-	-	ZH	_	
+41-5	up	up	XF:----:--:----	_	
+41-6	'	'	ZA	_	
+41-7	er	@er	MN:siu#:--:----	_	
+41-8	skal	skulle	VF:----:sa:----	_	
+41-9	hoppe	hoppe	VI:----:-a:----	_	
+41-10	ind	ind	D-:----:--:u---	_	
+41-11	i	i	T-:----:--:----	_	
+41-12	det	den	PM:s-un:--:----	_	
+41-13	nye	ny	AC:sdu#:--:p---	_	
+41-14	år	år	NC:siun:--:----	_	
+41-15	hos	hos	T-:----:--:----	_	
+41-16	veninder	veninde	NC:piu#:--:----	_	
+41-17	på	på	T-:----:--:----	_	
+41-18	Amager	Amager	NP:siu#:--:----	_	
+41-19	.	.	ZP	_	
+
+#id=42
+#text= Jagerflyet på billedet er i stand til at fly ve små 2000 km/ t. mens rutsjebanen i Tivoli på en god dag når 80 km/ t.
+42-1	Jagerflyet	jagerfly	NC:sdun:--:----	_	
+42-2	på	på	T-:----:--:----	_	
+42-3	billedet	billede	NC:sdun:--:----	_	
+42-4	er	være	VF:----:sa:----	_	
+42-5	i	i	T-:----:--:----	_	
+42-6	stand	stand	NC:siuc:--:----	stand_F_i-stand-til	
+42-7	til	til	T-:----:--:----	_	
+42-8	at	at	CS:----:--:----	_	
+42-9	fly	fly	NC:siun:--:----	_	
+42-10	ve	ve	NC:siun:--:----	_	
+42-11	små	lille	AC:p#u#:--:p---	_	
+42-12	2000	2000	LC:--u-:--:----	_	
+42-13	km	kilometer	NC:piu#:--:----	_	
+42-14	/	/	ZS	_	
+42-15	t	t	XS:----:--:----	_	
+42-16	.	.	ZP	_	
+42-17	mens	mens	CS:----:--:----	_	
+42-18	rutsjebanen	rutsjebane	NC:sduc:--:----	_	
+42-19	i	i	T-:----:--:----	_	
+42-20	Tivoli	Tivoli	NP:siu#:--:----	_	
+42-21	på	på	T-:----:--:----	_	
+42-22	en	en	PI:s-uc:--:----	_	
+42-23	god	god	AC:siuc:--:p---	_	
+42-24	dag	dag	NC:siuc:--:----	_	
+42-25	når	når	--:--:----	_	
+42-26	80	80	LC:--u-:--:----	_	
+42-27	km	kilometer	NC:piu#:--:----	_	
+42-28	/	/	ZS	_	
+42-29	t	t	XS:----:--:----	_	
+42-30	.	.	ZP	_	
+
+#id=43
+#text=Lune Price var i stand til at lægge en udbetaling på et par millioner, for der er kun tinglyst lån på 2.448.000 kr.
+43-1	Lune	lun	AC:sdu#:--:p---	_	
+43-2	Price	Price	NP:siu#:--:----	_	
+43-3	var	være	VF:----:ta:----	_	
+43-4	i	i	T-:----:--:----	_	
+43-5	stand	stand	NC:siuc:--:----	stand_F_i-stand-til	
+43-6	til	til	T-:----:--:----	_	
+43-7	at	at	UI:----:--:----	_	
+43-8	lægge	lægge	VI:----:-a:----	_	
+43-9	en	en	PI:s-uc:--:----	_	
+43-10	udbetaling	udbetaling	NC:siuc:--:----	_	
+43-11	på	på	T-:----:--:----	_	
+43-12	et	en	PI:s-un:--:----	_	
+43-13	par	par	NC:siun:--:----	_	
+43-14	millioner	million	NC:piu#:--:----	_	
+43-15	,	,	ZD	_	
+43-16	for	for	CC:----:--:----	_	
+43-17	der	der	US:----:--:----	_	
+43-18	er	være	VF:----:sa:----	_	
+43-19	kun	kun	D-:----:--:u---	_	
+43-20	tinglyst	tinglyse	VT:siu#:t-:----	_	
+43-21	lån	lån	NC:siun:--:----	_	
+43-22	på	på	T-:----:--:----	_	
+43-23	2	2	LC:--u-:--:----	_	
+43-24	.	.	ZP	_	
+43-25	448	448	LC:--u-:--:----	_	
+43-26	.	.	ZP	_	
+43-27	000	000	LC:--u-:--:----	_	
+43-28	kr	krone	NC:piu#:--:----	_	
+43-29	.	.	ZP	_	
+
+#id=44
+#text= Fotografiet af Bjørnsons " dolk" er N heller ikke i stand til lige at fortrænge.
+44-1	Fotografiet	fotografi	NC:sdun:--:----	_	
+44-2	af	af	T-:----:--:----	_	
+44-3	Bjørnsons	Bjørnsons	NP:sig#:--:----	_	
+44-4	"	"	ZI	_	
+44-5	dolk	dolk	NC:siuc:--:----	_	
+44-6	"	"	ZI	_	
+44-7	er	være	VF:----:sa:----	_	
+44-8	N	N	NP:siu#:--:----	_	
+44-9	heller	heller	D-:----:--:u---	_	
+44-10	ikke	ikke	D-:----:--:u---	_	
+44-11	i	i	T-:----:--:----	_	
+44-12	stand	stand	NC:siuc:--:----	stand_F_i-stand-til	
+44-13	til	til	T-:----:--:----	_	
+44-14	lige	lige	D-:----:--:u---	_	
+44-15	at	at	UI:----:--:----	_	
+44-16	fortrænge	fortrænge	VI:----:-a:----	_	
+44-17	.	.	ZP	_	
+
+#id=45
+#text=Frank Hvam var oprindelig i gang med at læse til dyrlæge, men sprang fra, da stand-up-komikken tog over, og den har siden gjort ham til millionær.
+45-1	Frank	Frank	NP:siu#:--:----	_	
+45-2	Hvam	Hvam	NP:siu#:--:----	_	
+45-3	var	være	VF:----:ta:----	_	
+45-4	oprindelig	oprindelig	AD:----:--:p---	_	
+45-5	i	i	T-:----:--:----	_	
+45-6	gang	gang	NC:siuc:--:----	_	
+45-7	med	med	T-:----:--:----	_	
+45-8	at	at	UI:----:--:----	_	
+45-9	læse	læse	VI:----:-a:----	_	
+45-10	til	til	T-:----:--:----	_	
+45-11	dyrlæge	dyrlæge	NC:siuc:--:----	_	
+45-12	,	,	ZD	_	
+45-13	men	men	CC:----:--:----	_	
+45-14	sprang	springe	VF:----:ta:----	_	
+45-15	fra	fra	T-:----:--:----	_	
+45-16	,	,	ZD	_	
+45-17	da	da	CS:----:--:----	_	
+45-18	stand	stand	NW:----:--:----	_	
+45-19	-	-	ZH	_	
+45-20	up	up	NW:----:--:----	_	
+45-21	-	-	ZH	_	
+45-22	komikken	komik	NC:sduc:--:----	_	
+45-23	tog	tage	VF:----:ta:----	_	
+45-24	over	over	T-:----:--:----	_	
+45-25	,	,	ZD	_	
+45-26	og	og	CC:----:--:----	_	
+45-27	den	den	PP:s-uc:--:-3n-	_	
+45-28	har	have	VF:----:sa:----	_	
+45-29	siden	siden	D-:----:--:u---	_	
+45-30	gjort	gøre	VT:siu#:t-:----	_	
+45-31	ham	han	PP:s-uc:--:-3n-	_	
+45-32	til	til	T-:----:--:----	_	
+45-33	millionær	millionær	NC:siuc:--:----	_	
+45-34	.	.	ZP	_	
+
+#id=46
+#text=Selve sommerhuset, som siden købet er blevet sat fint i stand, er på 50 kvadratmeter.
+46-1	Selve	selve	AC:§§u§:--:p---	_	
+46-2	sommerhuset	sommerhus	NC:sdun:--:----	_	
+46-3	,	,	ZD	_	
+46-4	som	som	US:----:--:----	_	
+46-5	siden	siden	T-:----:--:----	_	
+46-6	købet	køb	NC:sdun:--:----	_	
+46-7	er	være	VF:----:sa:----	_	
+46-8	blevet	blive	VT:siu#:t-:----	_	
+46-9	sat	sætte	VT:siu#:t-:----	_	
+46-10	fint	fin	AD:----:--:p---	_	
+46-11	i	i	T-:----:--:----	_	
+46-12	stand	stand	NC:siuc:--:----	stand_F_gøre-(sætte,-lave,-..)-i-stand	
+46-13	,	,	ZD	_	
+46-14	er	være	VF:----:sa:----	_	
+46-15	på	på	T-:----:--:----	_	
+46-16	50	50	LC:--u-:--:----	_	
+46-17	kvadratmeter	kvadratmeter	NC:piu#:--:----	_	
+46-18	.	.	ZP	_	
+
+#id=47
+#text= Vi er i stand til at kalde dem frem i ham, og det synes jeg er supergodt, sagde Elming.
+47-1	Vi	vi	PP:p-nc:--:-1n-	_	
+47-2	er	være	VF:----:sa:----	_	
+47-3	i	i	T-:----:--:----	_	
+47-4	stand	stand	NC:siuc:--:----	stand_F_i-stand-til	
+47-5	til	til	T-:----:--:----	_	
+47-6	at	at	UI:----:--:----	_	
+47-7	kalde	kalde	VI:----:-a:----	_	
+47-8	dem	de	PP:p-u#:--:-3n-	_	
+47-9	frem	frem	D-:----:--:u---	_	
+47-10	i	i	T-:----:--:----	_	
+47-11	ham	han	PP:s-uc:--:-3n-	_	
+47-12	,	,	ZD	_	
+47-13	og	og	CC:----:--:----	_	
+47-14	det	det	PP:s-un:--:-3n-	_	
+47-15	synes	syne	VF:----:sp:----	_	
+47-16	jeg	jeg	PP:s-nc:--:-1n-	_	
+47-17	er	være	VF:----:sa:----	_	
+47-18	supergodt	supergod	AC:siun:--:p---	_	
+47-19	,	,	ZD	_	
+47-20	sagde	sige	VF:----:ta:----	_	
+47-21	Elming	Elming	NP:siu#:--:----	_	
+47-22	.	.	ZP	_	
+
+#id=48
+#text=Lægerne mener, at hun er i stand til at blive gravid, og at hun kan få børn uden fare for, at de arver hendes lidelse.
+48-1	Lægerne	læge	NC:pdu#:--:----	_	
+48-2	mener	mene	VF:----:sa:----	_	
+48-3	,	,	ZD	_	
+48-4	at	at	CS:----:--:----	_	
+48-5	hun	hun	PP:s-nc:--:-3n-	_	
+48-6	er	være	VF:----:sa:----	_	
+48-7	i	i	T-:----:--:----	_	
+48-8	stand	stand	NC:siuc:--:----	stand_F_i-stand-til	
+48-9	til	til	T-:----:--:----	_	
+48-10	at	at	UI:----:--:----	_	
+48-11	blive	blive	VI:----:-a:----	_	
+48-12	gravid	gravid	AC:siuc:--:p---	_	
+48-13	,	,	ZD	_	
+48-14	og	og	CC:----:--:----	_	
+48-15	at	at	CS:----:--:----	_	
+48-16	hun	hun	PP:s-nc:--:-3n-	_	
+48-17	kan	kunne	VF:----:sa:----	_	
+48-18	få	få	AC:p#u#:--:p---	_	
+48-19	børn	barn	NC:piu#:--:----	_	
+48-20	uden	uden	T-:----:--:----	_	
+48-21	fare	fare	NC:siuc:--:----	_	
+48-22	for	for	T-:----:--:----	_	
+48-23	,	,	ZD	_	
+48-24	at	at	CS:----:--:----	_	
+48-25	de	de	PP:p-n#:--:-3n-	_	
+48-26	arver	arve	VF:----:sa:----	_	
+48-27	hendes	hendes	PO:#--#:--:-3ns	_	
+48-28	lidelse	lidelse	NC:siuc:--:----	_	
+48-29	.	.	ZP	_	
+
+#id=49
+#text=Hun blev nærmest lammet og var ude af stand til at tale.
+49-1	Hun	hun	PP:s-nc:--:-3n-	_	
+49-2	blev	blive	VF:----:ta:----	_	
+49-3	nærmest	nær	AD:----:--:s---	_	
+49-4	lammet	lamme	VT:siu#:t-:----	_	
+49-5	og	og	CC:----:--:----	_	
+49-6	var	være	VF:----:ta:----	_	
+49-7	ude	ude	D-:----:--:u---	_	
+49-8	af	af	T-:----:--:----	_	
+49-9	stand	stand	NC:siuc:--:----	stand_F_ude-af-stand-til	
+49-10	til	til	T-:----:--:----	_	
+49-11	at	at	UI:----:--:----	_	
+49-12	tale	tale	VI:----:-a:----	_	
+49-13	.	.	ZP	_	
+
+#id=50
+#text=I ti år har hun boet i sin  flotte andelslejlighed, der netop er blevet sat i stand for 300.000 kroner.
+50-1	I	i	T-:----:--:----	_	
+50-2	ti	ti	LC:--u-:--:----	_	
+50-3	år	år	NC:piu#:--:----	_	
+50-4	har	have	VF:----:sa:----	_	
+50-5	hun	hun	PP:s-nc:--:-3n-	_	
+50-6	boet	bo	VT:siu#:t-:----	_	
+50-7	i	i	T-:----:--:----	_	
+50-8	sin	sin	PO:s--c:--:-3ys	_	
+50-9	flotte	flot	AC:sdu#:--:p---	_	
+50-10	andelslejlighed	andelslejlighed	NC:siuc:--:----	_	
+50-11	,	,	ZD	_	
+50-12	der	der	US:----:--:----	_	
+50-13	netop	netop	D-:----:--:u---	_	
+50-14	er	være	VF:----:sa:----	_	
+50-15	blevet	blive	VT:siu#:t-:----	_	
+50-16	sat	sætte	VT:siu#:t-:----	_	
+50-17	i	i	T-:----:--:----	_	
+50-18	stand	stand	NC:siuc:--:----	stand_F_gøre-(sætte,-lave,-..)-i-stand	
+50-19	for	for	T-:----:--:----	_	
+50-20	300	300	LC:--u-:--:----	_	
+50-21	.	.	ZP	_	
+50-22	000	000	LC:--u-:--:----	_	
+50-23	kroner	krone	NC:piu#:--:----	_	
+50-24	.	.	ZP	_	
+
+#id=51
+#text=- Hvordan kom det i stand? - Varmen og sommeren gjorde, at vi blev som nyforelskede.
+51-1	-	-	NC:piu#:--:----	_	
+51-2	Hvordan	hvordan	D-:----:--:u---	_	
+51-3	kom	komme	VF:----:ta:----	_	
+51-4	det	det	PP:s-un:--:-3n-	_	
+51-5	i	i	T-:----:--:----	_	
+51-6	stand	stand	NC:siuc:--:----	stand_F_komme-i-stand	
+51-7	?	?	XY:----:--:----	_	
+51-8	-	-	ZH	_	
+51-9	Varmen	varme	NC:sduc:--:----	_	
+51-10	og	og	CC:----:--:----	_	
+51-11	sommeren	sommer	NC:sduc:--:----	_	
+51-12	gjorde	gøre	VF:----:ta:----	_	
+51-13	,	,	ZD	_	
+51-14	at	at	CS:----:--:----	_	
+51-15	vi	vi	PP:p-nc:--:-1n-	_	
+51-16	blev	blive	VF:----:ta:----	_	
+51-17	som	som	US:----:--:----	_	
+51-18	nyforelskede	nyforelsket	AC:p#u#:--:p---	_	
+51-19	.	.	ZP	_	
+
+#id=52
+#text=Allerede først på året kunne SE og HØR afsløre, at stand-up'eren Anders Matthesen havde slået kløerne i Cemille Rosenberg, som ikke kun er småbørnsmor til tvillinger, men også Andens manager.
+52-1	Allerede	allerede	D-:----:--:u---	_	
+52-2	først	først	D-:----:--:u---	_	
+52-3	på	på	T-:----:--:----	_	
+52-4	året	år	NC:sdun:--:----	_	
+52-5	kunne	kunne	VF:----:ta:----	_	
+52-6	SE	SE	NP:siu#:--:----	_	
+52-7	og	og	CC:----:--:----	_	
+52-8	HØR	hør	VM:----:--:----	_	
+52-9	afsløre	afsløre	VI:----:-a:----	_	
+52-10	,	,	ZD	_	
+52-11	at	at	CS:----:--:----	_	
+52-12	stand	stand	NW:----:--:----	_	
+52-13	-	-	ZH	_	
+52-14	up	up	XF:----:--:----	_	
+52-15	'	'	ZA	_	
+52-16	eren	@eren	MN:sduc:--:----	_	
+52-17	Anders	Anders	NP:siu#:--:----	_	
+52-18	Matthesen	Matthesen	NP:siu#:--:----	_	
+52-19	havde	have	VF:----:ta:----	_	
+52-20	slået	slå	VT:siu#:t-:----	_	
+52-21	kløerne	klo	NC:pdu#:--:----	_	
+52-22	i	i	T-:----:--:----	_	
+52-23	Cemille	Cemille	NP:siu#:--:----	_	
+52-24	Rosenberg	Rosenberg	NP:siu#:--:----	_	
+52-25	,	,	ZD	_	
+52-26	som	som	US:----:--:----	_	
+52-27	ikke	ikke	D-:----:--:u---	_	
+52-28	kun	kun	D-:----:--:u---	_	
+52-29	er	være	VF:----:sa:----	_	
+52-30	småbørnsmor	småbørnsmor	NC:siuc:--:----	_	
+52-31	til	til	T-:----:--:----	_	
+52-32	tvillinger	tvilling	NC:piu#:--:----	_	
+52-33	,	,	ZD	_	
+52-34	men	men	CC:----:--:----	_	
+52-35	også	også	D-:----:--:u---	_	
+52-36	Andens	Andens	XY:----:--:----	_	
+52-37	manager	manager	NC:siuc:--:----	_	
+52-38	.	.	ZP	_	
+
+#id=53
+#text=For at skuespillerne ikke skal vente unødigt lang tid, har de hver en stand-in.
+53-1	For	for	CC:----:--:----	_	
+53-2	at	at	CS:----:--:----	_	
+53-3	skuespillerne	skuespiller	NC:pdu#:--:----	_	
+53-4	ikke	ikke	D-:----:--:u---	_	
+53-5	skal	skulle	VF:----:sa:----	_	
+53-6	vente	vente	VI:----:-a:----	_	
+53-7	unødigt	unødig	AD:----:--:p---	_	
+53-8	lang	lang	AC:siuc:--:p---	_	
+53-9	tid	tid	NC:siuc:--:----	_	
+53-10	,	,	ZD	_	
+53-11	har	have	VF:----:sa:----	_	
+53-12	de	de	PP:p-n#:--:-3n-	_	
+53-13	hver	hver	PI:s-uc:--:----	_	
+53-14	en	en	PI:s-uc:--:----	_	
+53-15	stand	stand	NW:----:--:----	_	
+53-16	-	-	ZH	_	
+53-17	in	In	XF:----:--:----	_	
+53-18	.	.	ZP	_	
+
+#id=54
+#text=Når det  sker, sidder de to stand-ins bag kulisserne og hygger sig med en bog og en kop kaffe.
+54-1	Når	når	CS:----:--:----	_	
+54-2	det	det	PP:s-un:--:-3n-	_	
+54-3	sker	ske	VF:----:sa:----	_	
+54-4	,	,	ZD	_	
+54-5	sidder	sidde	VF:----:sa:----	_	
+54-6	de	den	PM:p-u#:--:----	_	
+54-7	to	to	LC:--u-:--:----	_	
+54-8	stand	stand	NW:----:--:----	_	
+54-9	-	-	ZH	_	
+54-10	ins	ins	NP:siu#:--:----	_	
+54-11	bag	bag	T-:----:--:----	_	
+54-12	kulisserne	kulisse	NC:pdu#:--:----	_	
+54-13	og	og	CC:----:--:----	_	
+54-14	hygger	hygge	VF:----:sa:----	_	
+54-15	sig	sig	PP:#-u#:--:-3y-	_	
+54-16	med	med	T-:----:--:----	_	
+54-17	en	en	PI:s-uc:--:----	_	
+54-18	bog	bog	NC:siuc:--:----	_	
+54-19	og	og	CC:----:--:----	_	
+54-20	en	en	PI:s-uc:--:----	_	
+54-21	kop	kop	NC:siuc:--:----	_	
+54-22	kaffe	kaffe	NC:siuc:--:----	_	
+54-23	.	.	ZP	_	
+
+#id=55
+#text= Mickey var soldat i rockergruppen og betegnedes af politiet som en mand, der var i stand til næsten hvad som helst.
+55-1	Mickey	Mickey	NP:siu#:--:----	_	
+55-2	var	være	a:----	_	
+55-3	soldat	soldat	NC:siuc:--:----	_	
+55-4	i	i	T-:----:--:----	_	
+55-5	rockergruppen	rockergruppe	NC:sduc:--:----	_	
+55-6	og	og	CC:----:--:----	_	
+55-7	betegnedes	betegne	VF:----:tp:----	_	
+55-8	af	af	T-:----:--:----	_	
+55-9	politiet	politi	NC:sdun:--:----	_	
+55-10	som	som	US:----:--:----	_	
+55-11	en	en	PI:s-uc:--:----	_	
+55-12	mand	mand	NC:siuc:--:----	_	
+55-13	,	,	ZD	_	
+55-14	der	der	US:----:--:----	_	
+55-15	var	være	VF:----:ta:----	_	
+55-16	i	i	T-:----:--:----	_	
+55-17	stand	stand	NC:siuc:--:----	stand_F_i-stand-til	
+55-18	til	til	T-:----:--:----	_	
+55-19	næsten	næste	NC:sduc:--:----	_	
+55-20	hvad	hvad	XY:----:--:----	_	
+55-21	som	som	US:----:--:----	_	
+55-22	helst	helst	D-:----:--:u---	_	
+55-23	.	.	ZP	_	
+
+#id=56
+#text=- Nå, synes du da, jeg er dygtig? - Ja, far siger, at du er i stand til hvad som helst Politikeren om sin kvindelige kollega: - Problemet er, at når hun taler uden at tænke, siger hun, hvad hun tænker.
+56-1	-	-	NC:piu#:--:----	_	
+56-2	Nå	nå	VI:----:-a:----	_	
+56-3	,	,	ZD	_	
+56-4	synes	syne	VF:----:sp:----	_	
+56-5	du	du	PP:s-nc:--:-2n-	_	
+56-6	da	da	D-:----:--:u---	_	
+56-7	,	,	ZD	_	
+56-8	jeg	jeg	PP:s-nc:--:-1n-	_	
+56-9	er	være	VF:----:sa:----	_	
+56-10	dygtig	dygtig	AC:siuc:--:p---	_	
+56-11	?	?	XY:----:--:----	_	
+56-12	-	-	ZH	_	
+56-13	Ja	ja	NC:siun:--:----	_	
+56-14	,	,	ZD	_	
+56-15	far	far	NC:siuc:--:----	_	
+56-16	siger	sige	VF:----:sa:----	_	
+56-17	,	,	ZD	_	
+56-18	at	at	CS:----:--:----	_	
+56-19	du	du	PP:s-nc:--:-2n-	_	
+56-20	er	være	VF:----:sa:----	_	
+56-21	i	i	T-:----:--:----	_	
+56-22	stand	stand	NC:siuc:--:----	stand_F_i-stand-til	
+56-23	til	til	CS:----:--:----	_	
+56-24	hvad	hvad	PR:s-u#:--:----	_	
+56-25	som	som	US:----:--:----	_	
+56-26	helst	helst	D-:----:--:u---	_	
+56-27	Politikeren	politiker	NC:sduc:--:----	_	
+56-28	om	om	T-:----:--:----	_	
+56-29	sin	sin	PO:s--c:--:-3ys	_	
+56-30	kvindelige	kvindelig	AC:sdu#:--:p---	_	
+56-31	kollega	kollega	NC:siuc:--:----	_	
+56-32	:	:	ZP	_	
+56-33	-	-	ZH	_	
+56-34	Problemet	problem	NC:sdun:--:----	_	
+56-35	er	være	VF:----:sa:----	_	
+56-36	,	,	ZD	_	
+56-37	at	at	CS:----:--:----	_	
+56-38	når	når	CS:----:--:----	_	
+56-39	hun	hun	PP:s-nc:--:-3n-	_	
+56-40	taler	tale	VF:----:sa:----	_	
+56-41	uden	uden	T-:----:--:----	_	
+56-42	at	at	UI:----:--:----	_	
+56-43	tænke	tænke	VI:----:-a:----	_	
+56-44	,	,	ZD	_	
+56-45	siger	sige	VF:----:sa:----	_	
+56-46	hun	hun	PP:s-nc:--:-3n-	_	
+56-47	,	,	ZD	_	
+56-48	hvad	hvad	PR:s-u#:--:----	_	
+56-49	hun	hun	PP:s-nc:--:-3n-	_	
+56-50	tænker	tænke	VF:----:sa:----	_	
+56-51	.	.	ZP	_	
+
+#id=57
+#text=Arrangementet var kommet i stand, efter at FCK's cheftræner Ståle Solbakken stillede op i en internetauktion til fordel for organisationen Familier med kræftramte børn, hvor man kunne byde på en dag med en kendt.
+57-1	Arrangementet	arrangement	NC:sdun:--:----	_	
+57-2	var	være	VF:----:ta:----	_	
+57-3	kommet	komme	VT:siu#:t-:----	_	
+57-4	i	i	T-:----:--:----	_	
+57-5	stand	stand	NC:siuc:--:----	stand_F_komme-i-stand	
+57-6	,	,	ZD	_	
+57-7	efter	efter	CS:----:--:----	_	
+57-8	at	at	CS:----:--:----	_	
+57-9	FCK	FCK	NW:----:--:----	_	
+57-10	'	'	ZA	_	
+57-11	s	@s	MN:sig#:--:----	_	
+57-12	cheftræner	cheftræner	NC:siuc:--:----	_	
+57-13	Ståle	Ståle	NP:siu#:--:----	_	
+57-14	Solbakken	Solbakken	NP:siu#:--:----	_	
+57-15	stillede	stille	VF:----:ta:----	_	
+57-16	op	op	D-:----:--:u---	_	
+57-17	i	i	T-:----:--:----	_	
+57-18	en	en	PI:s-uc:--:----	_	
+57-19	internetauktion	internetauktion	NC:siuc:--:----	_	
+57-20	til	til	T-:----:--:----	_	
+57-21	fordel	fordel	NC:siuc:--:----	_	
+57-22	for	for	T-:----:--:----	_	
+57-23	organisationen	organisation	NC:sduc:--:----	_	
+57-24	Familier	familie	NC:piu#:--:----	_	
+57-25	med	med	T-:----:--:----	_	
+57-26	kræftramte	kræftramt	AC:p#u#:--:p---	_	
+57-27	børn	barn	NC:piu#:--:----	_	
+57-28	,	,	ZD	_	
+57-29	hvor	hvor	D-:----:--:u---	_	
+57-30	man	man	PI:#-uc:--:----	_	
+57-31	kunne	kunne	VF:----:ta:----	_	
+57-32	byde	byde	VI:----:-a:----	_	
+57-33	på	på	T-:----:--:----	_	
+57-34	en	en	PI:s-uc:--:----	_	
+57-35	dag	dag	NC:siuc:--:----	_	
+57-36	med	med	T-:----:--:----	_	
+57-37	en	en	PI:s-uc:--:----	_	
+57-38	kendt	kendt	AC:siu§:--:p---	_	
+57-39	.	.	ZP	_	
+
+#id=58
+#text= SE og HØR er i et unikt samarbejde med Apollo i stand til at tilbyde rejser til Danmarks tre første kampe ved fodbold-VM i Sydafrika for under 25.000 kr.
+58-1	SE	se	VM:----:--:----	_	
+58-2	og	og	CC:----:--:----	_	
+58-3	HØR	HØR	XY:----:--:----	_	
+58-4	er	være	VF:----:sa:----	_	
+58-5	i	i	T-:----:--:----	_	
+58-6	et	en	PI:s-un:--:----	_	
+58-7	unikt	unik	AC:siun:--:p---	_	
+58-8	samarbejde	samarbejde	NC:siun:--:----	_	
+58-9	med	med	T-:----:--:----	_	
+58-10	Apollo	Apollo	NP:siu#:--:----	_	
+58-11	i	i	T-:----:--:----	_	
+58-12	stand	stand	NC:siuc:--:----	stand_F_i-stand-til	
+58-13	til	til	T-:----:--:----	_	
+58-14	at	at	UI:----:--:----	_	
+58-15	tilbyde	tilbyde	VI:----:-a:----	_	
+58-16	rejser	rejse	NC:piu#:--:----	_	
+58-17	til	til	T-:----:--:----	_	
+58-18	Danmarks	Danmark	NP:sig#:--:----	_	
+58-19	tre	tre	LC:--u-:--:----	_	
+58-20	første	første	AC:§§u§:--:p---	_	
+58-21	kampe	kamp	NC:piu#:--:----	_	
+58-22	ved	ved	T-:----:--:----	_	
+58-23	fodbold	fodbold	NW:----:--:----	_	
+58-24	-	-	ZH	_	
+58-25	VM	VM	NP:siu#:--:----	_	
+58-26	i	i	T-:----:--:----	_	
+58-27	Sydafrika	Sydafrika	NP:siu#:--:----	_	
+58-28	for	for	D-:----:--:u---	_	
+58-29	under	under	T-:----:--:----	_	
+58-30	25	25	LC:--u-:--:----	_	
+58-31	.	.	ZP	_	
+58-32	000	000	LC:--u-:--:----	_	
+58-33	kr	krone	:piu#:--:----	_	
+58-34	.	.	ZP	_	
+
+#id=59
+#text=elsker overraskelser.Så når den megarige klaverbokser køber sig et hus et eller andet sted på kloden, vil han ikke se det igen, før hans mand David Furnish har sat det i stand og møbleret det.
+59-1	elsker	elske	VF:----:sa:----	_	
+59-2	overraskelser	overraskelse	NC:piu#:--:----	_	
+59-3	.	.	ZP	_	
+59-4	Så	så	D-:----:--:u---	_	
+59-5	når	når	CS:----:--:----	_	
+59-6	den	den	PM:s-uc:--:----	_	
+59-7	megarige	megarig	AC:sdu#:--:p---	_	
+59-8	klaverbokser	klaverbokser	NC:siuc:--:----	_	
+59-9	køber	købe	VF:----:sa:----	_	
+59-10	sig	sig	PP:#-u#:--:-3y-	_	
+59-11	et	en	PI:s-un:--:----	_	
+59-12	hus	hus	NC:siun:--:----	_	
+59-13	et	en	PI:s-un:--:----	_	
+59-14	eller	eller	CC:----:--:----	_	
+59-15	andet	anden	PI:s-un:--:----	_	
+59-16	sted	sted	NC:siun:--:----	_	
+59-17	på	på	T-:----:--:----	_	
+59-18	kloden	klode	NC:sduc:--:----	_	
+59-19	,	,	ZD	_	
+59-20	vil	ville	VF:----:sa:----	_	
+59-21	han	han	PP:s-nc:--:-3n-	_	
+59-22	ikke	ikke	D-:----:--:u---	_	
+59-23	se	se	VI:----:-a:----	_	
+59-24	det	det	PP:s-un:--:-3n-	_	
+59-25	igen	igen	D-:----:--:u---	_	
+59-26	,	,	ZD	_	
+59-27	før	før	CS:----:--:----	_	
+59-28	hans	hans	PO:#--#:--:-3ns	_	
+59-29	mand	mand	NC:siuc:--:----	_	
+59-30	David	David	NP:siu#:--:----	_	
+59-31	Furnish	Furnish	NP:siu#:--:----	_	
+59-32	har	have	VF:----:sa:----	_	
+59-33	sat	sætte	VT:siu#:t-:----	_	
+59-34	det	det	PP:s-un:--:-3n-	_	
+59-35	i	i	T-:----:--:----	_	
+59-36	stand	stand	NC:siuc:--:----	stand_F_gøre-(sætte,-lave,-..)-i-stand	
+59-37	og	og	CC:----:--:----	_	
+59-38	møbleret	møblere	VT:siu#:t-:----	_	
+59-39	det	det	PP:s-un:--:-3n-	_	
+59-40	.	.	ZP	_	
+
+#id=60
+#text= Så vi fik det i stand, to dage inden det skete, fortalte Rasmus Tantholdt til Ekstra Bladet.
+60-1	Så	så	CS:----:--:----	_	
+60-2	vi	vi	PP:p-nc:--:-1n-	_	
+60-3	fik	få	VF:----:ta:----	_	
+60-4	det	det	PP:s-un:--:-3n-	_	
+60-5	i	i	T-:----:--:----	_	
+60-6	stand	stand	NC:siuc:--:----	stand_F_få/bringe-i-stand	
+60-7	,	,	ZD	_	
+60-8	to	to	LC:--u-:--:----	_	
+60-9	dage	dag	NC:piu#:--:----	_	
+60-10	inden	inden	T-:----:--:----	_	
+60-11	det	den	PM:s-un:--:----	_	
+60-12	skete	ske	VP:sdu#:t-:----	_	
+60-13	,	,	ZD	_	
+60-14	fortalte	fortale	VF:----:ta:----	_	
+60-15	Rasmus	Rasmus	NP:siu#:--:----	_	
+60-16	Tantholdt	Tantholdt	NP:siu#:--:----	_	
+60-17	til	til	T-:----:--:----	_	
+60-18	Ekstra	ekstra	AC:§§u§:--:p---	_	
+60-19	Bladet	blad	NC:sdun:--:----	_	
+60-20	.	.	ZP	_	
+
+#id=61
+#text=Om træet kom hjem i nogenlunde stand, melder historien intet om.
+61-1	Om	om	T-:----:--:----	_	
+61-2	træet	træ	NC:sdun:--:----	_	
+61-3	kom	komme	VF:----:ta:----	_	
+61-4	hjem	hjem	D-:----:--:u---	_	
+61-5	i	i	T-:----:--:----	_	
+61-6	nogenlunde	nogenlunde	AD:----:--:p---	_	
+61-7	stand	stand	NC:siuc:--:----	stand_1	
+61-8	,	,	ZD	_	
+61-9	melder	melde	VF:----:sa:----	_	
+61-10	historien	historie	NC:sduc:--:----	_	
+61-11	intet	ingen	PI:s-un:--:----	_	
+61-12	om	om	T-:----:--:----	_	
+61-13	.	.	ZP	_	
+
+#id=62
+#text= Kvinderne var vilde efter et stykke med småberuset nordmand, men Asle holdt stand, afværgede tappert de kåde fruentimmere og koncentrerede sig om sin kunst - og om de grønne flasker, naturligvis.
+62-1	Kvinderne	kvinde	NC:pdu#:--:----	_	
+62-2	var	være	VF:----:ta:----	_	
+62-3	vilde	vild	AC:p#u#:--:p---	_	
+62-4	efter	efter	T-:----:--:----	_	
+62-5	et	en	PI:s-un:--:----	_	
+62-6	stykke	stykke	NC:siun:--:----	_	
+62-7	med	med	T-:----:--:----	_	
+62-8	småberuset	småberuset	AC:siu§:--:p---	_	
+62-9	nordmand	nordmand	NC:siuc:--:----	_	
+62-10	,	,	ZD	_	
+62-11	men	men	CC:----:--:----	_	
+62-12	Asle	Asle	NP:siu#:--:----	_	
+62-13	holdt	holde	VF:----:ta:----	_	
+62-14	stand	stand	NC:siuc:--:----	stand_F_holde-stand	
+62-15	,	,	ZD	_	
+62-16	afværgede	afværge	VF:----:ta:----	_	
+62-17	tappert	tapper	AD:----:--:p---	_	
+62-18	de	den	PM:p-u#:--:----	_	
+62-19	kåde	kåd	AC:p#u#:--:p---	_	
+62-20	fruentimmere	fruentimmer	NC:piu#:--:----	_	
+62-21	og	og	CC:----:--:----	_	
+62-22	koncentrerede	koncentrere	VF:----:ta:----	_	
+62-23	sig	sig	PP:#-u#:--:-3y-	_	
+62-24	om	om	T-:----:--:----	_	
+62-25	sin	sin	PO:s--c:--:-3ys	_	
+62-26	kunst	kunst	NW:----:--:----	_	
+62-27	-	-	ZH	_	
+62-28	og	og	CC:----:--:----	_	
+62-29	om	om	T-:----:--:----	_	
+62-30	de	den	PM:p-u#:--:----	_	
+62-31	grønne	grøn	AC:p#u#:--:p---	_	
+62-32	flasker	flaske	NC:piu#:--:----	_	
+62-33	,	,	ZD	_	
+62-34	naturligvis	naturligvis	D-:----:--:u---	_	
+62-35	.	.	ZP	_	
+
+#id=63
+#text= Ved OL i Beijing viste kineserne, at de er i stand ganske spektakulære ting.
+63-1	Ved	ved	T-:----:--:----	_	
+63-2	OL	OL	NP:siu#:--:----	_	
+63-3	i	i	T-:----:--:----	_	
+63-4	Beijing	Beijing	NP:siu#:--:----	_	
+63-5	viste	vise	VF:----:ta:----	_	
+63-6	kineserne	kineser	NC:pdu#:--:----	_	
+63-7	,	,	ZD	_	
+63-8	at	at	CS:----:--:----	_	
+63-9	de	de	PP:p-n#:--:-3n-	_	
+63-10	er	være	VF:----:sa:----	_	
+63-11	i	i	T-:----:--:----	_	
+63-12	stand	stand	NC:siuc:--:----	stand_1	
+63-13	ganske	ganske	D-:----:--:u---	_	
+63-14	spektakulære	spektakulær	AC:p#u#:--:p---	_	
+63-15	ting	ting	NC:piu#:--:----	_	
+63-16	.	.	ZP	_	
+
+#id=64
+#text= Hendes afgående DR2-kolleger Eva Jørgensen og Kurt Strand holdt stand, men alligevel stod det klart, hvorfor de tre TV-journalister har sagt stop:
+64-1	Hendes	hendes	PO:#--#:--:-3ns	_	
+64-2	afgående	afgå	VP:##u#:s-:----	_	
+64-3	DR2	DR2	NP:siu#:--:----	_	
+64-4	-	-	ZH	_	
+64-5	kolleger	kollega	NC:piu#:--:----	_	
+64-6	Eva	Eva	NP:siu#:--:----	_	
+64-7	Jørgensen	Jørgensen	NP:siu#:--:----	_	
+64-8	og	og	CC:----:--:----	_	
+64-9	Kurt	Kurt	NP:siu#:--:----	_	
+64-10	Strand	strand	NC:siuc:--:----	_	
+64-11	holdt	holde	VF:----:ta:----	_	
+64-12	stand	stand	NC:siuc:--:----	stand_F_holde-stand	
+64-13	,	,	ZD	_	
+64-14	men	men	CC:----:--:----	_	
+64-15	alligevel	alligevel	D-:----:--:u---	_	
+64-16	stod	stå	VF:----:ta:----	_	
+64-17	det	det	PP:s-un:--:-3n-	_	
+64-18	klart	klar	AC:siun:--:p---	_	
+64-19	,	,	ZD	_	
+64-20	hvorfor	hvorfor	D-:----:--:u---	_	
+64-21	de	den	PM:p-u#:--:----	_	
+64-22	tre	tre	LC:--u-:--:----	_	
+64-23	TV	TV	NW:----:--:----	_	
+64-24	-	-	ZH	_	
+64-25	journalister	journalist	NC:piu#:--:----	_	
+64-26	har	have	VF:----:sa:----	_	
+64-27	sagt	sige	VT:siu#:t-:----	_	
+64-28	stop	stop	NC:siun:--:----	_	
+64-29	:	:	ZP	_	
+
+#id=65
+#text= Foroverbøjet lænede han sig ned over en barmfager blondine, som grinede. 61-årige Michael Meyerheim holdt stand i en anden del af baren, hvor han hyggede sig med to andre kvinder, som han tidligere på aftenen sad til bords med.
+65-1	Foroverbøjet	foroverbøjet	AD:----:--:p---	_	
+65-2	lænede	læne	VF:----:ta:----	_	
+65-3	han	han	PP:s-nc:--:-3n-	_	
+65-4	sig	sig	PP:#-u#:--:-3y-	_	
+65-5	ned	ned	D-:----:--:u---	_	
+65-6	over	over	T-:----:--:----	_	
+65-7	en	en	PI:s-uc:--:----	_	
+65-8	barmfager	barmfager	AC:siuc:--:p---	_	
+65-9	blondine	blondine	NC:siuc:--:----	_	
+65-10	,	,	ZD	_	
+65-11	som	som	US:----:--:----	_	
+65-12	grinede	grine	VF:----:ta:----	_	
+65-13	.	.	ZP	_	
+65-14	61	61	LC:--u-:--:----	_	
+65-15	-	-	ZH	_	
+65-16	årige	årig	AC:sdu#:--:p---	_	
+65-17	Michael	Michael	NP:siu#:--:----	_	
+65-18	Meyerheim	Meyerheim	NP:siu#:--:----	_	
+65-19	holdt	holde	VF:----:ta:----	_	
+65-20	stand	stand	NC:siuc:--:----	stand_F_holde-stand	
+65-21	i	i	T-:----:--:----	_	
+65-22	en	en	PI:s-uc:--:----	_	
+65-23	anden	anden	PI:s-uc:--:----	_	
+65-24	del	del	NC:siuc:--:----	_	
+65-25	af	af	T-:----:--:----	_	
+65-26	baren	bar	NC:sduc:--:----	_	
+65-27	,	,	ZD	_	
+65-28	hvor	hvor	D-:----:--:u---	_	
+65-29	han	han	PP:s-nc:--:-3n-	_	
+65-30	hyggede	hygge	VF:----:ta:----	_	
+65-31	sig	sig	PP:#-u#:--:-3y-	_	
+65-32	med	med	T-:----:--:----	_	
+65-33	to	to	LC:--u-:--:----	_	
+65-34	andre	anden	PI:p-u#:--:----	_	
+65-35	kvinder	kvinde	NC:piu#:--:----	_	
+65-36	,	,	ZD	_	
+65-37	som	som	US:----:--:----	_	
+65-38	han	han	PP:s-nc:--:-3n-	_	
+65-39	tidligere	tidlig	AD:----:--:c---	_	
+65-40	på	på	T-:----:--:----	_	
+65-41	aftenen	aften	NC:sduc:--:----	_	
+65-42	sad	sidde	VF:----:ta:----	_	
+65-43	til	til	XY:----:--:----	_	
+65-44	bords	bord	NC:sign:--:----	_	
+65-45	med	med	D-:----:--:u---	_	
+65-46	.	.	ZP	_	
+
+#id=66
+#text= Sådan har stand-up'eren Anders Matthesen altid sagt.
+66-1	Sådan	sådan	D-:----:--:u---	_	
+66-2	har	have	VF:----:sa:----	_	
+66-3	stand	stand	NW:----:--:----	_	
+66-4	-	-	ZH	_	
+66-5	up	up	XF:----:--:----	_	
+66-6	'	'	ZA	_	
+66-7	eren	@eren	MN:sduc:--:----	_	
+66-8	Anders	Anders	NP:siu#:--:----	_	
+66-9	Matthesen	Matthesen	NP:siu#:--:----	_	
+66-10	altid	altid	D-:----:--:u---	_	
+66-11	sagt	sige	VT:siu#:t-:----	_	
+66-12	.	.	ZP	_	
+
+#id=67
+#text=Stand-up-komikeren Christian Fuhlendorff barsler ikke kun med nye afsnit af TV-serien " Kristian" - han skal være far til efteråret
+67-1	Stand	stand	NW:----:--:----	_	
+67-2	-	-	ZH	_	
+67-3	up	up	NW:----:--:----	_	
+67-4	-	-	ZH	_	
+67-5	komikeren	komiker	NC:sduc:--:----	_	
+67-6	Christian	Christian	NP:siu#:--:----	_	
+67-7	Fuhlendorff	Fuhlendorff	NP:siu#:--:----	_	
+67-8	barsler	barsle	VF:----:sa:----	_	
+67-9	ikke	ikke	D-:----:--:u---	_	
+67-10	kun	kun	D-:----:--:u---	_	
+67-11	med	med	T-:----:--:----	_	
+67-12	nye	ny	AC:p#u#:--:p---	_	
+67-13	afsnit	afsnit	NC:piu#:--:----	_	
+67-14	af	af	T-:----:--:----	_	
+67-15	TV	TV	NW:----:--:----	_	
+67-16	-	-	ZH	_	
+67-17	serien	serie	NC:sduc:--:----	_	
+67-18	"	"	ZI	_	
+67-19	Kristian	Kristian	NP:siu#:--:----	_	
+67-20	"	"	ZI	_	
+67-21	-	-	NC:piu#:--:----	_	
+67-22	han	han	PP:s-nc:--:-3n-	_	
+67-23	skal	skulle	VF:----:sa:----	_	
+67-24	være	være	VI:----:-a:----	_	
+67-25	far	far	NC:siuc:--:----	_	
+67-26	til	til	T-:----:--:----	_	
+67-27	efteråret	efterår	NC:sdun:--:----	_	
+
+#id=68
+#text=Det ligner det helt store paradoks, at netop Nicolai Gohs, som har gjort det til en levevej at sætte ejendomme i stand, endnu ikke har fået styr på sin egen bolig.
+68-1	Det	det	PP:s-un:--:-3n-	_	
+68-2	ligner	ligne	VF:----:sa:----	_	
+68-3	det	det	PP:s-un:--:-3n-	_	
+68-4	helt	hel	AD:----:--:p---	_	
+68-5	store	stor	AC:sdu#:--:p---	_	
+68-6	paradoks	paradoks	NC:siun:--:----	_	
+68-7	,	,	ZD	_	
+68-8	at	at	CS:----:--:----	_	
+68-9	netop	netop	D-:----:--:u---	_	
+68-10	Nicolai	Nicolai	NP:siu#:--:----	_	
+68-11	Gohs	Gohs	NP:siu#:--:----	_	
+68-12	,	,	ZD	_	
+68-13	som	som	US:----:--:----	_	
+68-14	har	have	VF:----:sa:----	_	
+68-15	gjort	gøre	VT:siu#:t-:----	_	
+68-16	det	det	PP:s-un:--:-3n-	_	
+68-17	til	til	T-:----:--:----	_	
+68-18	en	en	PI:s-uc:--:----	_	
+68-19	levevej	levevej	NC:siuc:--:----	_	
+68-20	at	at	UI:----:--:----	_	
+68-21	sætte	sætte	VI:----:-a:----	_	
+68-22	ejendomme	ejendom	NC:piu#:--:----	_	
+68-23	i	i	T-:----:--:----	_	
+68-24	stand	stand	NC:siuc:--:----	stand_F_gøre-(sætte,-lave,-..)-i-stand	
+68-25	,	,	ZD	_	
+68-26	endnu	endnu	D-:----:--:u---	_	
+68-27	ikke	ikke	D-:----:--:u---	_	
+68-28	har	have	VF:----:sa:----	_	
+68-29	fået	få	VT:siu#:t-:----	_	
+68-30	styr	styr	NC:siun:--:----	_	
+68-31	på	på	T-:----:--:----	_	
+68-32	sin	sin	PO:s--c:--:-3ys	_	
+68-33	egen	egen	AC:s§uc:--:p---	_	
+68-34	bolig	bolig	NC:siuc:--:----	_	
+68-35	.	.	ZP	_	
+
+#id=69
+#text=Et stille familieliv og status som bonusfar lå ikke i kortene for den 34-årige stand-up'er.
+69-1	Et	en	PI:s-un:--:----	_	
+69-2	stille	stille	AC:§§u§:--:p---	_	
+69-3	familieliv	familieliv	NC:siun:--:----	_	
+69-4	og	og	CC:----:--:----	_	
+69-5	status	status	NC:siuc:--:----	_	
+69-6	som	som	US:----:--:----	_	
+69-7	bonusfar	bonusfar	NC:siuc:--:----	_	
+69-8	lå	ligge	VF:----:ta:----	_	
+69-9	ikke	ikke	D-:----:--:u---	_	
+69-10	i	i	T-:----:--:----	_	
+69-11	kortene	kort	NC:pdu#:--:----	_	
+69-12	for	for	T-:----:--:----	_	
+69-13	den	den	PM:s-uc:--:----	_	
+69-14	34	34	LW:----:--:----	_	
+69-15	-	-	ZH	_	
+69-16	årige	årig	AC:sdu#:--:p---	_	
+69-17	stand	stand	NW:----:--:----	_	
+69-18	-	-	ZH	_	
+69-19	up	up	XF:----:--:----	_	
+69-20	'	'	ZA	_	
+69-21	er	@er	MN:piu#:--:----	_	
+69-22	.	.	ZP	_	
+
