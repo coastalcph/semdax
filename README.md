@@ -15,6 +15,26 @@ This repository contains three main folders:
 The following publications make use or document the construction of this resource.
 
 ```
+@inproceedings{pedersen-etal-2016-semdax,
+    title = "The {S}em{D}a{X} Corpus ― Sense Annotations with Scalable Sense Inventories",
+    author = "Pedersen, Bolette  and
+      Braasch, Anna  and
+      Johannsen, Anders  and
+      Alonso, H{\'e}ctor Mart{\'\i}nez  and
+      Nimb, Sanni  and
+      Olsen, Sussi  and
+      S{\o}gaard, Anders  and
+      S{\o}rensen, Nicolai Hartvig",
+    booktitle = "Proceedings of the Tenth International Conference on Language Resources and Evaluation ({LREC}'16)",
+    month = may,
+    year = "2016",
+    address = "Portoro{\v{z}}, Slovenia",
+    publisher = "European Language Resources Association (ELRA)",
+    url = "https://aclanthology.org/L16-1136",
+    pages = "842--847",
+    abstract = "We launch the SemDaX corpus which is a recently completed Danish human-annotated corpus available through a CLARIN academic license. The corpus includes approx. 90,000 words, comprises six textual domains, and is annotated with sense inventories of different granularity. The aim of the developed corpus is twofold: i) to assess the reliability of the different sense annotation schemes for Danish measured by qualitative analyses and annotation agreement scores, and ii) to serve as training and test data for machine learning algorithms with the practical purpose of developing sense taggers for Danish. To these aims, we take a new approach to human-annotated corpus resources by double annotating a much larger part of the corpus than what is normally seen: for the all-words task we double annotated 60{\%} of the material and for the lexical sample task 100{\%}. We include in the corpus not only the adjucated files, but also the diverging annotations. In other words, we consider not all disagreement to be noise, but rather to contain valuable linguistic information that can help us improve our annotation schemes and our learning algorithms.",
+}
+
 @inproceedings{olsenetal2015,
   title={Coarse-Grained Sense Annotation of Danish across Textual Domains},
   author={Olsen, Sussi and Pedersen, Bolette Sandford Mart{\i}nez Alonso, H{\'e}ctor and Johannsen, Anders},
