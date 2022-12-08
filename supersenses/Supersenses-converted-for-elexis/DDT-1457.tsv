@@ -1,0 +1,239 @@
+# newdoc id = DDT-1457.tsv
+# sent_id = 1
+# text = " Se lige frem.
+1	"	"	PUNCT		
+2	Se	se	VERB		verb.perception
+3	lige	lige	ADV		
+4	frem	frem	ADV		
+5	.	.	PUNCT		
+
+# newdoc id = DDT-1457.tsv
+# sent_id = 2
+# text =  Lad være med at kigge på mig.
+1	Lad	lade	VERB		verb.act
+2	være	være	VERB		verb.PARTICLE
+3	med	med	ADP		
+4	at	at	PART		
+5	kigge	kigge	VERB		verb.perception
+6	på	på	ADP		
+7	mig	jeg	PRON		
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1457.tsv
+# sent_id = 3
+# text =  Kør den vej, du får besked på," lød pistolmandens ordre.
+1	Kør	køre	VERB		verb.motion
+2	den	den	DET		
+3	vej	vej	NOUN		noun.location
+4	,	,	PUNCT		
+5	du	du	PRON		
+6	får	få	VERB		verb.phenomenon
+7	besked	besked	NOUN		noun.communication
+8	på	på	ADP		
+9	,	,	PUNCT		
+10	"	"	PUNCT		
+11	lød	lyde	VERB		verb.communication
+12	pistolmandens	pistolmand	NOUN		noun.person
+13	ordre	ordre	NOUN		noun.communication
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1457.tsv
+# sent_id = 4
+# text =  Med pistolen rettet mod hovedet blev postchaufføren dirigeret ud ad Enghavevej, forbi Sydhavn S-station mod Sjællandsbroen.
+1	Med	med	ADP		
+2	pistolen	pistol	NOUN		noun.artifact
+3	rettet	rette	VERB		verb.act
+4	mod	mod	ADP		
+5	hovedet	hovede	NOUN		noun.body
+6	blev	blive	AUX		
+7	postchaufføren	postchauffør	NOUN		noun.person
+8	dirigeret	dirigere	VERB		verb.communication
+9	ud	ud	ADV		
+10	ad	ad	ADP		
+11	Enghavevej	enghavevej	PROPN		noun.location
+12	,	,	PUNCT		
+13	forbi	forbi	ADP		
+14	Sydhavn	sydhavn	PROPN		noun.location
+15	S-station	s-station	NOUN		noun.building
+16	mod	mod	ADP		
+17	Sjællandsbroen	sjællandsbroen	PROPN		noun.building
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1457.tsv
+# sent_id = 5
+# text =  Kort før broen fik han besked på at køre ind ad Bådehavnsgade og ud ad Speditørvej, der ender blindt ved et hegn ud mod et grønt område.
+1	Kort	korte	ADV		
+2	før	før	ADP		
+3	broen	bro	NOUN		noun.building
+4	fik	få	VERB		verb.phenomenon
+5	han	han	PRON		
+6	besked	besked	NOUN		noun.communication
+7	på	på	ADP		
+8	at	at	PART		
+9	køre	køre	VERB		verb.motion
+10	ind	ind	ADV		
+11	ad	ad	ADP		
+12	Bådehavnsgade	bådehavnsgade	PROPN		noun.location
+13	og	og	CCONJ		
+14	ud	ud	ADV		
+15	ad	ad	ADP		
+16	Speditørvej	speditørvej	PROPN		noun.location
+17	,	,	PUNCT		
+18	der	der	PRON		
+19	ender	ende	VERB		verb.motion
+20	blindt	blind	ADV		
+21	ved	ved	ADP		
+22	et	en	DET		
+23	hegn	hegn	NOUN		noun.artifact
+24	ud	ud	ADV		
+25	mod	mod	ADP		
+26	et	en	DET		
+27	grønt	grøn	ADJ		adj.phys
+28	område	område	NOUN		noun.location
+29	.	.	PUNCT		
+
+# newdoc id = DDT-1457.tsv
+# sent_id = 6
+# text =  PISTOLMAND TOG SELV
+1	PISTOLMAND	pistolmand	NOUN		noun.person
+2	TOG	toge	VERB		verb.possession
+3	SELV	selv	PRON		
+
+# newdoc id = DDT-1457.tsv
+# sent_id = 7
+# text =  Pistolmanden tvang sit gidsel ud af bilen, hvor han fik ordre til at låse varevognens skydedør op.
+1	Pistolmanden	pistolmand	NOUN		noun.person
+2	tvang	tvinge	VERB		verb.act
+3	sit	sin	DET		
+4	gidsel	gidsel	NOUN		noun.person
+5	ud	ud	ADV		
+6	af	af	ADP		
+7	bilen	bil	NOUN		noun.vehicle
+8	,	,	PUNCT		
+9	hvor	hvor	ADV		
+10	han	han	PRON		
+11	fik	få	VERB		verb.phenomenon
+12	ordre	ordre	NOUN		noun.communication
+13	til	til	ADP		
+14	at	at	PART		
+15	låse	låse	VERB		verb.act
+16	varevognens	varevogn	ADJ		noun.vehicle
+17	skydedør	skydedør	NOUN		noun.artifact
+18	op	op	ADV		verb.PARTICLE
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1457.tsv
+# sent_id = 8
+# text = " Tak, nu ved jeg selv, hvad jeg skal have," sagde pistolmanden og tog en plomberet postsæk og en værdipakke ud af bilen.
+1	"	"	PUNCT		
+2	Tak	tak	NOUN		
+3	,	,	PUNCT		
+4	nu	nu	ADV		
+5	ved	vide	VERB		verb.cognition
+6	jeg	jeg	PRON		
+7	selv	selv	PRON		
+8	,	,	PUNCT		
+9	hvad	hvad	PRON		
+10	jeg	jeg	PRON		
+11	skal	skulle	AUX		
+12	have	have	VERB		verb.possession
+13	,	,	PUNCT		
+14	"	"	PUNCT		
+15	sagde	sige	VERB		verb.communication
+16	pistolmanden	pistolmand	NOUN		noun.person
+17	og	og	CCONJ		
+18	tog	toge	VERB		verb.possession
+19	en	en	DET		
+20	plomberet	plombere	VERB		adj.all
+21	postsæk	postsæk	NOUN		noun.container
+22	og	og	CCONJ		
+23	en	en	DET		
+24	værdipakke	værdipakke	NOUN		noun.artifact
+25	ud	ud	ADV		
+26	af	af	ADP		
+27	bilen	bil	NOUN		noun.vehicle
+28	.	.	PUNCT		
+
+# newdoc id = DDT-1457.tsv
+# sent_id = 9
+# text =  Chaufføren blev igen tvunget ind i bilen med besked på at lægge sig hen over sæderne og ikke kigge op, før røveren var væk.
+1	Chaufføren	chauffør	NOUN		noun.person
+2	blev	blive	AUX		
+3	igen	igen	ADV		
+4	tvunget	tvinge	VERB		verb.act
+5	ind	ind	ADV		
+6	i	i	ADP		
+7	bilen	bil	NOUN		noun.vehicle
+8	med	med	ADP		
+9	besked	besked	NOUN		noun.communication
+10	på	på	ADP		
+11	at	at	PART		
+12	lægge	lægge	VERB		verb.motion
+13	sig	sig	PRON		
+14	hen	hen	ADV		
+15	over	over	ADP		
+16	sæderne	sæde	NOUN		noun.artifact
+17	og	og	CCONJ		
+18	ikke	ikke	ADV		
+19	kigge	kigge	VERB		verb.perception
+20	op	op	ADV		
+21	,	,	PUNCT		
+22	før	føre	SCONJ		
+23	røveren	røver	NOUN		noun.person
+24	var	være	AUX		verb.stative
+25	væk	væk	ADV		
+26	.	.	PUNCT		
+
+# newdoc id = DDT-1457.tsv
+# sent_id = 10
+# text =  Den chokerede chauffør nåede lige at se pistolmanden forsvinde gennem et hul i hegnet og løbe ind på det øde, grønne område.
+1	Den	den	DET		
+2	chokerede	chokere	VERB		adj.mental
+3	chauffør	chauffør	NOUN		noun.person
+4	nåede	nå	VERB		verb.act
+5	lige	lige	ADV		
+6	at	at	PART		
+7	se	se	VERB		verb.perception
+8	pistolmanden	pistolmand	NOUN		noun.person
+9	forsvinde	forsvinde	VERB		verb.motion
+10	gennem	gennem	ADP		
+11	et	en	DET		
+12	hul	hul	NOUN		noun.object
+13	i	i	ADP		
+14	hegnet	hegn	NOUN		noun.artifact
+15	og	og	CCONJ		
+16	løbe	løbe	VERB		verb.motion
+17	ind	ind	ADV		
+18	på	på	ADP		
+19	det	det	DET		
+20	øde	øde	ADJ		adj.phys
+21	,	,	PUNCT		
+22	grønne	grøn	ADJ		adj.phys
+23	område	område	NOUN		noun.location
+24	.	.	PUNCT		
+
+# newdoc id = DDT-1457.tsv
+# sent_id = 11
+# text =  Derefter slog han alarm over sin radio til hovedkvarteret i Tietgensgade, hvor man slog alarm til politiet klokken 17.48.
+1	Derefter	derefter	ADV		
+2	slog	slå	VERB		verb.act
+3	han	han	PRON		
+4	alarm	alarm	NOUN		verb.COLL
+5	over	over	ADP		
+6	sin	sin	DET		
+7	radio	radio	NOUN		noun.artifact
+8	til	til	ADP		
+9	hovedkvarteret	hovedkvarter	NOUN		noun.building
+10	i	i	ADP		
+11	Tietgensgade	tietgensgade	PROPN		noun.location
+12	,	,	PUNCT		
+13	hvor	hvor	ADV		
+14	man	man	PRON		
+15	slog	slå	VERB		verb.act
+16	alarm	alarm	NOUN		verb.COLL
+17	til	til	ADP		
+18	politiet	politi	NOUN		noun.institution
+19	klokken	klokke	NOUN		noun.time
+20	17.48	17.48	ADV		
+21	.	.	PUNCT		
+

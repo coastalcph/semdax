@@ -1,0 +1,137 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Le | value
+#id=1
+#text=Det er lidt som at kigge kunstneren i kortene, når man besøger sådan en samling.
+1-1	Det	det	PP:s-un:--:-3n-	_	
+1-2	er	være	VF:----:sa:----	_	
+1-3	lidt	lidt	AD:----:--:p---	_	
+1-4	som	som	US:----:--:----	_	
+1-5	at	at	UI:----:--:----	_	
+1-6	kigge	kigge	VI:----:-a:----	_	
+1-7	kunstneren	kunstner	NC:sduc:--:----	_	
+1-8	i	i	T-:----:--:----	_	
+1-9	kortene	kort	NC:pdu#:--:----	kort_F_kigge nogen i kortene	
+1-10	,	,	ZD	_	
+1-11	når	når	CS:----:--:----	_	
+1-12	man	man	PI:#-uc:--:----	_	
+1-13	besøger	besøge	--:sa:----	_	
+1-14	sådan	sådan	D-:----:--:u---	_	
+1-15	en	en	PI:s-uc:--:----	_	
+1-16	samling	samling	NC:siuc:--:----	_	
+1-17	.	.	ZP	_	
+
+#id=2
+#text=De skrevne ord er et af mine stærkeste kort i livet, både det jeg lever på jobbet og det udenfor.
+2-1	De	den	PM:p-u#:--:----	_	
+2-2	skrevne	skrive	VP:p#u#:t-:----	_	
+2-3	ord	ord	NC:piu#:--:----	_	
+2-4	er	være	VF:----:sa:----	_	
+2-5	et	en	PI:s-un:--:----	_	
+2-6	af	af	T-:----:--:----	_	
+2-7	mine	min	PO:p--#:--:-1ns	_	
+2-8	stærkeste	stærk	AC:§du§:--:s---	_	
+2-9	kort	kort	NC:siun:--:----	kort_F_have gode kort på hånden	
+2-10	i	i	T-:----:--:----	_	
+2-11	livet	liv	NC:sdun:--:----	_	
+2-12	,	,	ZD	_	
+2-13	både	både	D-:----:--:u---	_	
+2-14	det	det	PP:s-un:--:-3n-	_	
+2-15	jeg	jeg	PP:s-nc:--:-1n-	_	
+2-16	lever	leve	VF:----:sa:----	_	
+2-17	på	på	T-:----:--:----	_	
+2-18	jobbet	job	NC:sdun:--:----	_	
+2-19	og	og	CC:----:--:----	_	
+2-20	det	det	PP:s-un:--:-3n-	_	
+2-21	udenfor	udenfor	D-:----:--:u---	_	
+2-22	.	.	ZP	_	
+
+#id=3
+#text= Uden at kortet har forladt min pung.
+3-1	Uden	uden	D-:----:--:u---	_	
+3-2	at	at	CS:----:--:----	_	
+3-3	kortet	kort	NC:sdun:--:----	kort_1_1a_1b_1c_1d_1e	
+3-4	har	have	VF:----:sa:----	_	
+3-5	forladt	forlade	VT:siu#:t-:----	_	
+3-6	min	min	PO:s--c:--:-1ns	_	
+3-7	pung	pung	NC:siuc:--:----	_	
+3-8	.	.	ZP	_	
+
+#id=4
+#text= Jeg formoder, deres system på en eller anden måde har opsnappet, at mit kort var blevet spærret.
+4-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+4-2	formoder	formode	VF:----:sa:----	_	
+4-3	,	,	ZD	_	
+4-4	deres	deres	XY:----:--:----	_	
+4-5	system	system	NC:siun:--:----	_	
+4-6	på	på	T-:----:--:----	_	
+4-7	en	en	PI:s-uc:--:----	_	
+4-8	eller	eller	CC:----:--:----	_	
+4-9	anden	anden	PI:s-uc:--:----	_	
+4-10	måde	måde	NC:siuc:--:----	_	
+4-11	har	have	VF:----:sa:----	_	
+4-12	opsnappet	opsnappe	VT:siu#:t-:----	_	
+4-13	,	,	ZD	_	
+4-14	at	at	CS:----:--:----	_	
+4-15	mit	min	PO:s--n:--:-1ns	_	
+4-16	kort	kort	NC:siun:--:----	kort_1_1a_1b_1c_1d_1e	
+4-17	var	være	VF:----:ta:----	_	
+4-18	blevet	blive	VT:siu#:t-:----	_	
+4-19	spærret	spærre	NC:sdun:--:----	_	
+4-20	.	.	ZP	_	
+
+#id=5
+#text=Jasper Johns' alternative kort over USA ("Map") er malet i 1961.
+5-1	Jasper	Jasper	NP:siu#:--:----	_	
+5-2	Johns	John	NP:sig#:--:----	_	
+5-3	'	'	ZA	_	
+5-4	alternative	alternativ	AC:sdu#:--:p---	_	
+5-5	kort	kort	NC:siun:--:----	kort_2_2a_3	
+5-6	over	over	T-:----:--:----	_	
+5-7	USA	USA	NP:siu#:--:----	_	
+5-8	(	(	ZD	_	
+5-9	"	"	ZI	_	
+5-10	Map	Map	NP:siu#:--:----	_	
+5-11	"	"	ZI	_	
+5-12	)	)	ZD	_	
+5-13	er	være	VF:----:sa:----	_	
+5-14	malet	male	VT:siu#:t-:----	_	
+5-15	i	i	T-:----:--:----	_	
+5-16	1961	1961	LC:--u-:--:----	_	
+5-17	.	.	ZP	_	
+
+#id=6
+#text= To superseje, superudholdende parkour-udøvere, hvis eneste opgave denne eftermiddag var at gentage og gentage deres halsbrækkende øvelser, indtil alle fotograferne (næsten) havde fyldt sd-kortene .
+6-1	To	to	LC:--u-:--:----	_	
+6-2	superseje	supersej	AC:p#u#:--:p---	_	
+6-3	,	,	ZD	_	
+6-4	superudholdende	superudholdende	AC:§§u§:--:p---	_	
+6-5	parkour	parkour@	EW:----:--:----	_	
+6-6	-	-	ZH	_	
+6-7	udøvere	udøver	NC:piu#:--:----	_	
+6-8	,	,	ZD	_	
+6-9	hvis	hvem	PR:#-g#:--:----	_	
+6-10	eneste	eneste	AC:§§u§:--:p---	_	
+6-11	opgave	opgave	NC:siuc:--:----	_	
+6-12	denne	denne	PM:s-uc:--:----	_	
+6-13	eftermiddag	eftermiddag	NC:siuc:--:----	_	
+6-14	var	være	VF:----:ta:----	_	
+6-15	at	at	UI:----:--:----	_	
+6-16	gentage	gentage	VI:----:-a:----	_	
+6-17	og	og	CC:----:--:----	_	
+6-18	gentage	gentage	VI:----:-a:----	_	
+6-19	deres	deres	PO:#--#:--:-3np	_	
+6-20	halsbrækkende	halsbrækkende	AD:----:--:p---	_	
+6-21	øvelser	øvelse	NC:piu#:--:----	_	
+6-22	,	,	ZD	_	
+6-23	indtil	indtil	CS:----:--:----	_	
+6-24	alle	al	PI:p-u#:--:----	_	
+6-25	fotograferne	fotograf	NC:pdu#:--:----	_	
+6-26	(	(	ZD	_	
+6-27	næsten	næsten	D-:----:--:u---	_	
+6-28	)	)	ZD	_	
+6-29	havde	have	VF:----:ta:----	_	
+6-30	fyldt	fylde	VT:siu#:t-:----	_	
+6-31	sd	sd	NW:----:--:----	_	
+6-32	-	-	ZH	_	
+6-33	kortene	kort	NC:pdu#:--:----	kort_1_1a_1b_1c_1d_1e	
+6-34	.	.	ZP	_	
+

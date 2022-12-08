@@ -1,0 +1,235 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Le | value
+#id=1
+#text=Han redder en dag pigen Yanagi, men kommer selv slemt til skade.
+1-1	Han	han	PP:s-nc:--:-3n-	_	
+1-2	redder	redde	VF:----:sa:----	_	
+1-3	en	en	PI:s-uc:--:----	_	
+1-4	dag	dag	NC:siuc:--:----	_	
+1-5	pigen	pige	NC:sduc:--:----	_	
+1-6	Yanagi	Yanagi	NP:siu#:--:----	_	
+1-7	,	,	ZD	_	
+1-8	men	men	CC:----:--:----	_	
+1-9	kommer	komme	VF:----:sa:----	_	
+1-10	selv	selv	D-:----:--:u---	_	
+1-11	slemt	slem	AD:----:--:p---	_	
+1-12	til	til	T-:----:--:----	_	
+1-13	skade	skade	NC:siuc:--:----	skade-F-komme-til-skade	
+1-14	.	.	ZP	_	
+
+#id=2
+#text= Det ser ud til at Chidori skal have rimelig lidt modstand for at kunne komme ind og gøre skade.
+2-1	Det	det	PP:s-un:--:-3n-	_	
+2-2	ser	se	VF:----:sa:----	_	
+2-3	ud	ud	D-:----:--:u---	_	
+2-4	til	til	T-:----:--:----	_	
+2-5	at	at	CS:----:--:----	_	
+2-6	Chidori	Chidori	NP:siu#:--:----	_	
+2-7	skal	skulle	VF:----:sa:----	_	
+2-8	have	have	VI:----:-a:----	_	
+2-9	rimelig	rimelig	AD:----:--:p---	_	
+2-10	lidt	lidt	AC:siu§:--:p---	_	
+2-11	modstand	modstand	NC:siuc:--:----	_	
+2-12	for	for	T-:----:--:----	_	
+2-13	at	at	UI:----:--:----	_	
+2-14	kunne	kunne	VI:----:-a:----	_	
+2-15	komme	komme	VI:----:-a:----	_	
+2-16	ind	ind	D-:----:--:u---	_	
+2-17	og	og	CC:----:--:----	_	
+2-18	gøre	gøre	VI:----:-a:----	_	
+2-19	skade	skade	NC:siuc:--:----	skade1-1	
+2-20	.	.	ZP	_	
+
+#id=3
+#text= Chidori laver store huller, men ikke så meget indre skade, rasengan, lige omvendt. (referere igen til de to vandtårne)
+3-1	Chidori	Chidori	NP:siu#:--:----	_	
+3-2	laver	lave	VF:----:sa:----	_	
+3-3	store	stor	AC:p#u#:--:p---	_	
+3-4	huller	hul	NC:piu#:--:----	_	
+3-5	,	,	ZD	_	
+3-6	men	men	CC:----:--:----	_	
+3-7	ikke	ikke	D-:----:--:u---	_	
+3-8	så	så	D-:----:--:u---	_	
+3-9	meget	megen	AD:----:--:p---	_	
+3-10	indre	indre	AC:§§u§:--:p---	_	
+3-11	skade	skade	NC:siuc:--:----	skade1-1	
+3-12	,	,	ZD	_	
+3-13	rasengan	rasengan	D-:----:--:u---	_	
+3-14	,	,	ZD	_	
+3-15	lige	lige	D-:----:--:u---	_	
+3-16	omvendt	omvendt	AC:siu§:--:p---	_	
+3-17	.	.	ZP	_	
+3-18	(	(	ZD	_	
+3-19	referere	referere	VI:----:-a:----	_	
+3-20	igen	igen	D-:----:--:u---	_	
+3-21	til	til	T-:----:--:----	_	
+3-22	de	den	PM:p-u#:--:----	_	
+3-23	to	to	LC:--u-:--:----	_	
+3-24	vandtårne	vandtårn	NC:piu#:--:----	_	
+3-25	)	)	ZD	_	
+
+#id=4
+#text= Chidori gjorde mere skade forand end Rasengan gjorde, til gengæld blæste rasengan hele bagsiden af tårnet.
+4-1	Chidori	Chidori	NP:siu#:--:----	_	
+4-2	gjorde	gøre	VF:----:ta:----	_	
+4-3	mere	megen	AC:##u#:--:c---	_	
+4-4	skade	skade	NC:siuc:--:----	skade1-1	
+4-5	forand	forand	NC:piu#:--:----	_	
+4-6	end	end	CS:----:--:----	_	
+4-7	Rasengan	Rasengan	NP:siu#:--:----	_	
+4-8	gjorde	gøre	VF:----:ta:----	_	
+4-9	,	,	ZD	_	
+4-10	til	til	T-:----:--:----	_	
+4-11	gengæld	gengæld	NC:siuc:--:----	_	
+4-12	blæste	blæse	VF:----:ta:----	_	
+4-13	rasengan	rasengan	D-:----:--:u---	_	
+4-14	hele	hel	AC:sdu#:--:p---	_	
+4-15	bagsiden	bagside	NC:sduc:--:----	_	
+4-16	af	af	T-:----:--:----	_	
+4-17	tårnet	tårn	NC:sdun:--:----	_	
+4-18	.	.	ZP	_	
+
+#id=5
+#text= Jeg venter med rædsel  på at høre skadens omfang.
+5-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+5-2	venter	vente	VF:----:sa:----	_	
+5-3	med	med	T-:----:--:----	_	
+5-4	rædsel	rædsel	NC:siuc:--:----	_	
+5-5	på	på	T-:----:--:----	_	
+5-6	at	at	UI:----:--:----	_	
+5-7	høre	høre	VI:----:-a:----	_	
+5-8	skadens	skade	NC:sdgc:--:----	skade1-1	
+5-9	omfang	omfang	NC:siun:--:----	_	
+5-10	.	.	ZP	_	
+
+#id=6
+#text= Desuden....hvis du har et rimelig stort hul i maven, men ikke andre skader, så kan du (hvis der er en rigtig god Medic-nin i nærheden) overleve.
+6-1	Desuden	desuden	D-:----:--:u---	_	
+6-2	.	.	ZP	_	
+6-3	.	.	ZP	_	
+6-4	.	.	ZP	_	
+6-5	.	.	ZP	_	
+6-6	hvis	hvis	CS:----:--:----	_	
+6-7	du	du	PP:s-nc:--:-2n-	_	
+6-8	har	have	VF:----:sa:----	_	
+6-9	et	en	PI:s-un:--:----	_	
+6-10	rimelig	rimelig	AD:----:--:p---	_	
+6-11	stort	stor	AC:siun:--:p---	_	
+6-12	hul	hul	NC:siun:--:----	_	
+6-13	i	i	T-:----:--:----	_	
+6-14	maven	mave	NC:sduc:--:----	_	
+6-15	,	,	ZD	_	
+6-16	men	men	CC:----:--:----	_	
+6-17	ikke	ikke	D-:----:--:u---	_	
+6-18	andre	anden	PI:p-u#:--:----	_	
+6-19	skader	skade	NC:piu#:--:----	skade1-1a	
+6-20	,	,	ZD	_	
+6-21	så	så	D-:----:--:u---	_	
+6-22	kan	kunne	VF:----:sa:----	_	
+6-23	du	du	PP:s-nc:--:-2n-	_	
+6-24	(	(	ZD	_	
+6-25	hvis	hvis	CS:----:--:----	_	
+6-26	der	der	US:----:--:----	_	
+6-27	er	være	VF:----:sa:----	_	
+6-28	en	en	PI:s-uc:--:----	_	
+6-29	rigtig	rigtig	AC:siuc:--:p---	_	
+6-30	god	god	AC:siuc:--:p---	_	
+6-31	Medic	Medic	NP:siu#:--:----	_	
+6-32	-	-	ZH	_	
+6-33	nin	nin	AC:§§u§:--:p---	_	
+6-34	i	i	T-:----:--:----	_	
+6-35	nærheden	nærhed	NC:sduc:--:----	_	
+6-36	)	)	ZD	_	
+6-37	overleve	overleve	VI:----:-a:----	_	
+6-38	.	.	ZP	_	
+
+#id=7
+#text= En ting de godt kunne have gjort lidt mere ud af var skader og sår.
+7-1	En	en	PI:s-uc:--:----	_	
+7-2	ting	ting	NC:siuc:--:----	_	
+7-3	de	den	PM:p-u#:--:----	_	
+7-4	godt	god	AD:----:--:p---	_	
+7-5	kunne	kunne	VF:----:ta:----	_	
+7-6	have	have	VI:----:-a:----	_	
+7-7	gjort	gøre	VT:siu#:t-:----	_	
+7-8	lidt	lidt	AD:----:--:p---	_	
+7-9	mere	megen	AD:----:--:c---	_	
+7-10	ud	ud	D-:----:--:u---	_	
+7-11	af	af	D-:----:--:u---	_	
+7-12	var	være	VF:----:ta:----	_	
+7-13	skader	skade	NC:piu#:--:----	skade1-1a	
+7-14	og	og	CC:----:--:----	_	
+7-15	sår	sår	NC:siun:--:----	_	
+7-16	.	.	ZP	_	
+
+#id=8
+#text= For eksempel blev en person banket halvt ihjel, trukket nøgen hen af asfalt, med mere, og de eneste synlige skader var lidt blod og skræmmer, hvor af det meste alligevel forsvandt scenen efter.
+8-1	For	for	T-:----:--:----	_	
+8-2	eksempel	eksempel	NC:siun:--:----	_	
+8-3	blev	blive	VF:----:ta:----	_	
+8-4	en	en	PI:s-uc:--:----	_	
+8-5	person	person	NC:siuc:--:----	_	
+8-6	banket	banke	VT:siu#:t-:----	_	
+8-7	halvt	halv	AD:----:--:p---	_	
+8-8	ihjel	ihjel	D-:----:--:u---	_	
+8-9	,	,	ZD	_	
+8-10	trukket	trække	VT:siu#:t-:----	_	
+8-11	nøgen	nøgen	AC:siuc:--:p---	_	
+8-12	hen	hen	D-:----:--:u---	_	
+8-13	af	af	T-:----:--:----	_	
+8-14	asfalt	asfalt	NC:siuc:--:----	_	
+8-15	,	,	ZD	_	
+8-16	med	med	T-:----:--:----	_	
+8-17	mere	megen	AC:##u#:--:c---	_	
+8-18	,	,	ZD	_	
+8-19	og	og	CC:----:--:----	_	
+8-20	de	den	PM:p-u#:--:----	_	
+8-21	eneste	eneste	AC:§§u§:--:p---	_	
+8-22	synlige	synlig	AC:p#u#:--:p---	_	
+8-23	skader	skade	NC:piu#:--:----	skade1-1a	
+8-24	var	være	VF:----:ta:----	_	
+8-25	lidt	lidt	AC:siu§:--:p---	_	
+8-26	blod	blod	NC:siun:--:----	_	
+8-27	og	og	CC:----:--:----	_	
+8-28	skræmmer	skræmme	VF:----:sa:----	_	
+8-29	,	,	ZD	_	
+8-30	hvor	hvor	D-:----:--:u---	_	
+8-31	af	af	T-:----:--:----	_	
+8-32	det	det	PP:s-un:--:-3n-	_	
+8-33	meste	mest	AC:siun:--:p---	_	
+8-34	alligevel	alligevel	D-:----:--:u---	_	
+8-35	forsvandt	forsvinde	VF:----:ta:----	_	
+8-36	scenen	scene	NC:sduc:--:----	_	
+8-37	efter	efter	T-:----:--:----	_	
+8-38	.	.	ZP	_	
+
+#id=9
+#text= Nu du nævner det med sår og skader... ja, det er faktisk rigtigt, at de kommer og går fra scene til scene.
+9-1	Nu	Nu	XY:----:--:----	_	
+9-2	du	du	XF:----:--:----	_	
+9-3	nævner	nævne	VF:----:sa:----	_	
+9-4	det	det	PP:s-un:--:-3n-	_	
+9-5	med	med	T-:----:--:----	_	
+9-6	sår	sår	NC:siun:--:----	_	
+9-7	og	og	CC:----:--:----	_	
+9-8	skader	skade	NC:piu#:--:----	skade1-1a	
+9-9	.	.	ZP	_	
+9-10	.	.	ZP	_	
+9-11	.	.	ZP	_	
+9-12	ja	ja	I-:----:--:----	_	
+9-13	,	,	ZD	_	
+9-14	det	det	PP:s-un:--:-3n-	_	
+9-15	er	være	VF:----:sa:----	_	
+9-16	faktisk	faktisk	AD:----:--:p---	_	
+9-17	rigtigt	rigtig	AC:siun:--:p---	_	
+9-18	,	,	ZD	_	
+9-19	at	at	CS:----:--:----	_	
+9-20	de	de	PP:p-n#:--:-3n-	_	
+9-21	kommer	komme	VF:----:sa:----	_	
+9-22	og	og	CC:----:--:----	_	
+9-23	går	gå	VF:----:sa:----	_	
+9-24	fra	fra	T-:----:--:----	_	
+9-25	scene	scene	NC:siuc:--:----	_	
+9-26	til	til	T-:----:--:----	_	
+9-27	scene	scene	NC:siuc:--:----	_	
+9-28	.	.	ZP	_	
+

@@ -1,0 +1,262 @@
+# newdoc id = DDT-1223.tsv
+# sent_id = 1
+# text =  Skråt overfor demonstranterne, indenfor i burgerkæden Wimpys behageligt varme lokaler, drikker to jævnaldrende mænd kaffe, mens de udfylder tipskuponer.
+1	Skråt	skrå	ADV		
+2	overfor	overfor	ADP		
+3	demonstranterne	demonstrant	NOUN		noun.person
+4	,	,	PUNCT		
+5	indenfor	indenfor	ADV		
+6	i	i	ADP		
+7	burgerkæden	burgerkæde	NOUN		noun.institution
+8	Wimpys	wimpys	PROPN		noun.institution
+9	behageligt	behagelig	ADV		
+10	varme	varm	ADJ		adj.phys
+11	lokaler	lokale	NOUN		noun.building
+12	,	,	PUNCT		
+13	drikker	drikke	VERB		verb.consumption
+14	to	to	NUM		
+15	jævnaldrende	jævnaldrende	ADJ		adj.time
+16	mænd	mand	NOUN		noun.person
+17	kaffe	kaffe	NOUN		noun.food
+18	,	,	PUNCT		
+19	mens	mens	SCONJ		
+20	de	den	PRON		
+21	udfylder	udfylde	VERB		verb.act
+22	tipskuponer	tipskupon	NOUN		noun.artifact
+23	.	.	PUNCT		
+
+# newdoc id = DDT-1223.tsv
+# sent_id = 2
+# text =  Det er to pænt klædte irakiske kurdere, som næsten taler flydende svensk.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	to	to	ADV		
+4	pænt	pæn	ADV		
+5	klædte	klæde	VERB		adj.phys
+6	irakiske	irakisk	ADJ		adj.social
+7	kurdere	kurder	NOUN		noun.person
+8	,	,	PUNCT		
+9	som	som	PRON		
+10	næsten	næsten	ADV		
+11	taler	tale	VERB		verb.communication
+12	flydende	flyde	ADJ		adj.all
+13	svensk	svensk	NOUN		noun.communication
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1223.tsv
+# sent_id = 3
+# text =  Begge har mistet deres job inden for det seneste halve års tid.
+1	Begge	begge	PRON		
+2	har	have	AUX		
+3	mistet	miste	VERB		verb.phenomenon
+4	deres	deres	DET		
+5	job	job	NOUN		noun.act
+6	inden	inden	ADV		
+7	for	for	ADP		
+8	det	det	DET		
+9	seneste	sen	ADJ		adj.time
+10	halve	halv	ADJ		adj.all
+11	års	år	NOUN		noun.time
+12	tid	tid	NOUN		noun.time
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1223.tsv
+# sent_id = 4
+# text =  De har været i Sverige, siden de kom hertil i 1986 som flygtninge.
+1	De	den	PRON		
+2	har	have	AUX		
+3	været	være	VERB		verb.stative
+4	i	i	ADP		
+5	Sverige	sverige	PROPN		noun.location
+6	,	,	PUNCT		
+7	siden	siden	SCONJ		
+8	de	den	PRON		
+9	kom	komme	VERB		verb.motion
+10	hertil	hertil	ADV		
+11	i	i	ADP		
+12	1986	1986	NUM		noun.time
+13	som	som	ADP		
+14	flygtninge	flygtning	NOUN		noun.person
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1223.tsv
+# sent_id = 5
+# text = " Arbejdsløsheden i Sverige er meget slem.
+1	"	"	PUNCT		
+2	Arbejdsløsheden	arbejdsløshed	NOUN		noun.phenomenon
+3	i	i	ADP		
+4	Sverige	sverige	PROPN		noun.location
+5	er	være	AUX		verb.stative
+6	meget	megen	ADV		
+7	slem	slem	ADJ		adj.all
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1223.tsv
+# sent_id = 6
+# text =  Og det er svært at få en uddannelse," siger de.
+1	Og	og	CCONJ		
+2	det	det	PRON		
+3	er	være	AUX		verb.stative
+4	svært	svær	ADJ		adj.all
+5	at	at	PART		
+6	få	få	VERB		verb.phenomenon
+7	en	en	DET		
+8	uddannelse	uddannelse	NOUN		noun.act
+9	,	,	PUNCT		
+10	"	"	PUNCT		
+11	siger	sige	VERB		verb.communication
+12	de	den	PRON		
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1223.tsv
+# sent_id = 7
+# text =  Flertallet af bekendtskabskredsen står nu uden arbejde.
+1	Flertallet	flertal	NOUN		noun.quantity
+2	af	af	ADP		
+3	bekendtskabskredsen	bekendtskabskreds	NOUN		noun.person
+4	står	stå	VERB		verb.stative
+5	nu	nu	ADV		
+6	uden	uden	ADP		
+7	arbejde	arbejde	NOUN		noun.act
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1223.tsv
+# sent_id = 8
+# text = " Vi regner ikke med, at vi kan få arbejde nu.
+1	"	"	PUNCT		
+2	Vi	vi	PRON		
+3	regner	regne	VERB		verb.cognition
+4	ikke	ikke	ADV		
+5	med	med	ADP		verb.COLL
+6	,	,	PUNCT		
+7	at	at	SCONJ		
+8	vi	vi	PRON		
+9	kan	kunne	AUX		
+10	få	få	VERB		verb.phenomenon
+11	arbejde	arbejde	NOUN		noun.act
+12	nu	nu	ADV		
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1223.tsv
+# sent_id = 9
+# text =  Vi tipper i stedet for," siger den ene.
+1	Vi	vi	PRON		
+2	tipper	tippe	VERB		verb.act
+3	i	i	ADP		
+4	stedet	sted	NOUN		
+5	for	for	ADP		
+6	,	,	PUNCT		
+7	"	"	PUNCT		
+8	siger	sige	VERB		verb.communication
+9	den	den	DET		
+10	ene	ene	ADJ		
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1223.tsv
+# sent_id = 10
+# text =  Denne gang på godt engelsk, som er det sprog, den udfrittende danske journalist bedst kan gøre sig forståelig på.
+1	Denne	denne	DET		
+2	gang	gang	NOUN		noun.abstract
+3	på	på	ADP		
+4	godt	god	ADJ		adj.all
+5	engelsk	engelsk	NOUN		noun.communication
+6	,	,	PUNCT		
+7	som	som	PRON		
+8	er	være	AUX		verb.stative
+9	det	det	DET		
+10	sprog	sprog	NOUN		noun.communication
+11	,	,	PUNCT		
+12	den	den	DET		
+13	udfrittende	udfritte	VERB		adj.all
+14	danske	dansk	ADJ		adj.social
+15	journalist	journalist	NOUN		noun.person
+16	bedst	god	ADV		
+17	kan	kunne	AUX		
+18	gøre	gøre	VERB		verb.act
+19	sig	sig	PRON		
+20	forståelig	forståelig	ADJ		adj.all
+21	på	på	ADP		
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1223.tsv
+# sent_id = 11
+# text =  På vej ud fra Wimpy passer jeg på ikke at betale med danske kroner.
+1	På	på	ADP		
+2	vej	vej	NOUN		
+3	ud	ud	ADV		
+4	fra	fra	ADP		
+5	Wimpy	wimpy	PROPN		noun.building
+6	passer	passere	VERB		verb.cognition
+7	jeg	jeg	PRON		
+8	på	på	ADP		verb.PARTICLE
+9	ikke	ikke	ADV		
+10	at	at	PART		
+11	betale	betale	VERB		verb.possession
+12	med	med	ADP		
+13	danske	dansk	ADJ		adj.social
+14	kroner	krone	NOUN		noun.artifact
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1223.tsv
+# sent_id = 12
+# text =  For første gang er de mere værd end broderfolkets.
+1	For	for	ADP		
+2	første	først	ADJ		adj.time
+3	gang	gang	NOUN		noun.abstract
+4	er	være	AUX		verb.stative
+5	de	den	PRON		
+6	mere	mere	ADV		
+7	værd	værd	ADJ		adj.all
+8	end	ende	ADP		
+9	broderfolkets	broderfolk	NOUN		noun.person
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1223.tsv
+# sent_id = 13
+# text =  Det er lørdag middag.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	lørdag	lørdag	NOUN		noun.time
+4	middag	middag	NOUN		noun.time
+5	.	.	PUNCT		
+
+# newdoc id = DDT-1223.tsv
+# sent_id = 14
+# text =  Dyrt klædte familier Jönsson og Carlsson'er i hobetal slentrer ind og ud af de mange luksuriøse butikker i det centrale Stockholms Norrmalm-kvarter.
+1	Dyrt	dyr	ADV		
+2	klædte	klæde	VERB		adj.phys
+3	familier	familie	NOUN		noun.person
+4	Jönsson	jönsson	PROPN		noun.person
+5	og	og	CCONJ		
+6	Carlsson'er	carlsson'	NOUN		noun.person
+7	i	i	ADP		
+8	hobetal	hobetal	NOUN		noun.quantity
+9	slentrer	slentre	VERB		verb.motion
+10	ind	ind	ADV		
+11	og	og	CCONJ		
+12	ud	ud	ADV		
+13	af	af	ADP		
+14	de	den	DET		
+15	mange	mangen	ADJ		adj.phys
+16	luksuriøse	luksuriøs	ADJ		adj.all
+17	butikker	butik	NOUN		noun.building
+18	i	i	ADP		
+19	det	det	DET		
+20	centrale	central	ADJ		adj.phys
+21	Stockholms	stockholms	PROPN		noun.location
+22	Norrmalm-kvarter	norrmalm-kvart	NOUN		noun.location
+23	.	.	PUNCT		
+
+# newdoc id = DDT-1223.tsv
+# sent_id = 15
+# text =  Tænk at en komode kan koste 18.000 kroner.
+1	Tænk	tænke	VERB		verb.cognition
+2	at	at	SCONJ		
+3	en	en	DET		
+4	komode	komod	NOUN		noun.artifact
+5	kan	kunne	AUX		
+6	koste	koste	VERB		verb.stative
+7	18.000	18.000	NUM		
+8	kroner	krone	NOUN		noun.artifact
+9	.	.	PUNCT		
+

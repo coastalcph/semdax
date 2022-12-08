@@ -1,0 +1,204 @@
+# newdoc id = DDT-1435.tsv
+# sent_id = 1
+# text =  Det er Erling Brodersen, formand for Foreningen af Rejsearrangører i Danmark, som skriver det kølige brev til Spanien under.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	Erling	erling	PROPN		noun.person
+4	Brodersen	brodersen	PROPN		noun.person
+5	,	,	PUNCT		
+6	formand	formand	NOUN		noun.person
+7	for	for	ADP		
+8	Foreningen	forening	NOUN		noun.institution
+9	af	af	ADP		noun.institution
+10	Rejsearrangører	rejsearrangør	NOUN		noun.institution
+11	i	i	ADP		noun.institution
+12	Danmark	danmark	PROPN		noun.institution
+13	,	,	PUNCT		
+14	som	som	PRON		
+15	skriver	skrive	VERB		verb.act
+16	det	det	DET		
+17	kølige	kølig	ADJ		adj.mental
+18	brev	brev	NOUN		noun.communication
+19	til	til	ADP		
+20	Spanien	spanien	PROPN		noun.institution
+21	under	under	ADV		verb.PARTICLE
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1435.tsv
+# sent_id = 2
+# text =  R.I.D repræsenterer alle større danske rejsebureauer, deriblandt Larsen Rejser:
+1	R.I.D	r.i.d	PROPN		noun.institution
+2	repræsenterer	repræsentere	VERB		verb.communication
+3	alle	al	ADJ		
+4	større	stor	ADJ		adj.phys
+5	danske	dansk	ADJ		adj.social
+6	rejsebureauer	rejsebureau	NOUN		noun.institution
+7	,	,	PUNCT		
+8	deriblandt	deriblandt	SCONJ		
+9	Larsen	larsen	PROPN		noun.institution
+10	Rejser	rejse	NOUN		noun.institution
+11	:	:	PUNCT		
+
+# newdoc id = DDT-1435.tsv
+# sent_id = 3
+# text = " Vi sender i sæsonen fire fly af_sted til Ibiza om ugen med i_alt 700-750 danskere, og det er klart, at vi ikke kan finde os i, at en af vores gæster er blevet overfaldet af det lokale politi," siger Jens Veino, direktør, Larsen Rejser, efter at 17-årige Mark Georgi fra Taastrup stod frem i B.T. og fortalte, hvad der sker med de turister, der af en eller anden ubetydelig årsag kommer til at irritere det spanske politi.
+1	"	"	PUNCT		
+2	Vi	vi	PRON		
+3	sender	sende	VERB		verb.act
+4	i	i	ADP		
+5	sæsonen	sæson	NOUN		noun.time
+6	fire	fire	NUM		
+7	fly	fly	NOUN		noun.vehicle
+8	af_sted	af_sted	NOUN		verb.PARTICLE
+9	til	til	ADP		
+10	Ibiza	ibiza	PROPN		noun.location
+11	om	om	ADP		
+12	ugen	uge	NOUN		noun.time
+13	med	med	ADP		
+14	i_alt	i_alt	NOUN		
+15	700-750	700-750	NUM		
+16	danskere	dansker	NOUN		noun.person
+17	,	,	PUNCT		
+18	og	og	CCONJ		
+19	det	det	PRON		
+20	er	være	AUX		verb.stative
+21	klart	klar	ADJ		adj.mental
+22	,	,	PUNCT		
+23	at	at	SCONJ		
+24	vi	vi	PRON		
+25	ikke	ikke	ADV		
+26	kan	kunne	AUX		
+27	finde	finde	VERB		verb.cognition
+28	os	vi	PRON		verb.REFLPRON
+29	i	i	ADP		verb.PARTICLE
+30	,	,	PUNCT		
+31	at	at	SCONJ		
+32	en	en	PRON		
+33	af	af	ADP		
+34	vores	vores	DET		
+35	gæster	gæst	NOUN		noun.person
+36	er	være	AUX		
+37	blevet	blive	AUX		
+38	overfaldet	overfalde	VERB		verb.act
+39	af	af	ADP		
+40	det	det	DET		
+41	lokale	lokal	ADJ		adj.social
+42	politi	politi	NOUN		noun.institution
+43	,	,	PUNCT		
+44	"	"	PUNCT		
+45	siger	sige	VERB		verb.communication
+46	Jens	jens	PROPN		noun.person
+47	Veino	veino	PROPN		noun.person
+48	,	,	PUNCT		
+49	direktør	direktør	NOUN		noun.person
+50	,	,	PUNCT		
+51	Larsen	larsen	PROPN		noun.institution
+52	Rejser	rejse	NOUN		noun.institution
+53	,	,	PUNCT		
+54	efter	efter	ADP		
+55	at	at	SCONJ		
+56	17-årige	17-år	ADJ		adj.time
+57	Mark	mark	PROPN		noun.person
+58	Georgi	georgi	PROPN		noun.person
+59	fra	fra	ADP		
+60	Taastrup	taastrup	PROPN		noun.location
+61	stod	stå	VERB		verb.act
+62	frem	frem	ADV		verb.PARTICLE
+63	i	i	ADP		
+64	B.T.	b.t.	PROPN		noun.communication
+65	og	og	CCONJ		
+66	fortalte	fortælle	VERB		verb.communication
+67	,	,	PUNCT		
+68	hvad	hvad	PRON		
+69	der	der	ADV		
+70	sker	ske	VERB		verb.phenomenon
+71	med	med	ADP		
+72	de	den	DET		
+73	turister	turist	NOUN		noun.person
+74	,	,	PUNCT		
+75	der	der	PRON		
+76	af	af	ADP		
+77	en	en	DET		
+78	eller	eller	CCONJ		
+79	anden	anden	DET		
+80	ubetydelig	ubetydelig	ADJ		adj.all
+81	årsag	årsag	NOUN		noun.motive
+82	kommer	komme	VERB		verb.act
+83	til	til	ADP		verb.PARTICLE
+84	at	at	PART		
+85	irritere	irritere	VERB		verb.emotion
+86	det	det	DET		
+87	spanske	spansk	ADJ		adj.social
+88	politi	politi	NOUN		noun.institution
+89	.	.	PUNCT		
+
+# newdoc id = DDT-1435.tsv
+# sent_id = 4
+# text =  POLITI-PENGEAFPRESNING
+1	POLITI-PENGEAFPRESNING	politi-pengeafpresning	NOUN		noun.act
+
+# newdoc id = DDT-1435.tsv
+# sent_id = 5
+# text =  Drengen blev sammen med en kammerat slået ned, tævet og lagt i håndjern.
+1	Drengen	dreng	NOUN		noun.person
+2	blev	blive	AUX		
+3	sammen	sammen	ADV		
+4	med	med	ADP		
+5	en	en	DET		
+6	kammerat	kammerat	NOUN		noun.person
+7	slået	slå	VERB		verb.act
+8	ned	ned	ADV		verb.PARTICLE
+9	,	,	PUNCT		
+10	tævet	tæve	VERB		verb.act
+11	og	og	CCONJ		
+12	lagt	lægge	VERB		verb.act
+13	i	i	ADP		
+14	håndjern	håndjern	NOUN		noun.artifact
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1435.tsv
+# sent_id = 6
+# text =  Et overfald, der var så voldsomt, at han sprængte sin trommehinde og nu skal gennemgå en operation for at få en ny.
+1	Et	en	DET		
+2	overfald	overfald	NOUN		noun.act
+3	,	,	PUNCT		
+4	der	der	ADV		
+5	var	være	AUX		verb.stative
+6	så	så	ADV		
+7	voldsomt	voldsom	ADJ		adj.phys
+8	,	,	PUNCT		
+9	at	at	SCONJ		
+10	han	han	PRON		
+11	sprængte	sprænge	VERB		verb.change
+12	sin	sin	DET		
+13	trommehinde	trommehinde	NOUN		noun.body
+14	og	og	CCONJ		
+15	nu	nu	ADV		
+16	skal	skulle	AUX		
+17	gennemgå	gennemgå	VERB		verb.phenomenon
+18	en	en	DET		
+19	operation	operation	NOUN		noun.act
+20	for	for	ADP		
+21	at	at	PART		
+22	få	få	VERB		verb.possession
+23	en	en	DET		
+24	ny	ny	ADJ		noun.body
+25	.	.	PUNCT		
+
+# newdoc id = DDT-1435.tsv
+# sent_id = 7
+# text =  Derefter blev de to unge genstand for pengeafpresning af de spanske politifolk:
+1	Derefter	derefter	ADV		
+2	blev	blive	AUX		verb.stative
+3	de	den	DET		
+4	to	to	NUM		
+5	unge	ung	ADJ		noun.person
+6	genstand	genstand	NOUN		noun.person
+7	for	for	ADP		
+8	pengeafpresning	pengeafpresning	NOUN		noun.act
+9	af	af	ADP		
+10	de	den	DET		
+11	spanske	spansk	ADJ		adj.social
+12	politifolk	politifolk	NOUN		noun.person
+13	:	:	PUNCT		
+

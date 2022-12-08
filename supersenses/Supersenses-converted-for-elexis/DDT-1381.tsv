@@ -1,0 +1,214 @@
+# newdoc id = DDT-1381.tsv
+# sent_id = 1
+# text = " Jeg ser frem til efteråret, hvor jeg kan flytte ind i min lejlighed, og hvor jeg kan få gang i studierne, få sat dagligdagen i system.
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	ser	se	VERB		verb.emotion
+4	frem	frem	ADV		verb.COLL
+5	til	til	ADP		verb.COLL
+6	efteråret	efterår	NOUN		noun.time
+7	,	,	PUNCT		
+8	hvor	hvor	ADV		
+9	jeg	jeg	PRON		
+10	kan	kunne	AUX		
+11	flytte	flytte	VERB		verb.motion
+12	ind	ind	ADV		verb.COLL
+13	i	i	ADP		
+14	min	min	DET		
+15	lejlighed	lejlighed	NOUN		noun.building
+16	,	,	PUNCT		
+17	og	og	CCONJ		
+18	hvor	hvor	ADV		
+19	jeg	jeg	PRON		
+20	kan	kunne	AUX		
+21	få	få	VERB		verb.act
+22	gang	gang	NOUN		noun.phenomenon
+23	i	i	ADP		
+24	studierne	studium	NOUN		noun.act
+25	,	,	PUNCT		
+26	få	få	VERB		
+27	sat	sætte	VERB		verb.act
+28	dagligdagen	dagligdag	NOUN		noun.abstract
+29	i	i	ADP		
+30	system	system	NOUN		noun.cognition
+31	.	.	PUNCT		
+
+# newdoc id = DDT-1381.tsv
+# sent_id = 2
+# text =  De mange og ledige timer har imidlertid givet mig ro til at overveje hele min situation.
+1	De	den	DET		
+2	mange	mangen	ADJ		adj.all
+3	og	og	CCONJ		
+4	ledige	ledig	ADJ		adj.all
+5	timer	timer	NOUN		noun.time
+6	har	have	AUX		
+7	imidlertid	imidlertid	ADV		
+8	givet	give	VERB		verb.phenomenon
+9	mig	jeg	PRON		
+10	ro	ro	NOUN		noun.feeling
+11	til	til	ADP		
+12	at	at	PART		
+13	overveje	overveje	VERB		verb.cognition
+14	hele	hel	ADJ		adj.all
+15	min	min	DET		
+16	situation	situation	NOUN		noun.state
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1381.tsv
+# sent_id = 3
+# text =  Jeg ved, hvad jeg vil- har fået fremtiden på plads.
+1	Jeg	jeg	PRON		
+2	ved	vide	VERB		verb.cognition
+3	,	,	PUNCT		
+4	hvad	hvad	PRON		
+5	jeg	jeg	PRON		
+6	vil	ville	AUX		verb.emotion
+7	-	-	PUNCT		
+8	har	have	AUX		
+9	fået	få	VERB		verb.act
+10	fremtiden	fremtid	NOUN		noun.time
+11	på	på	ADP		
+12	plads	plads	NOUN		
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1381.tsv
+# sent_id = 4
+# text =  Til efteråret starter jeg på HH, og så er det planen, at jeg dernæst skal studere på Handelsakademiet for Eksport her i Århus.
+1	Til	til	ADP		
+2	efteråret	efterår	NOUN		noun.time
+3	starter	starte	VERB		verb.aspectual
+4	jeg	jeg	PRON		
+5	på	på	ADP		
+6	HH	hh	NOUN		noun.institution
+7	,	,	PUNCT		
+8	og	og	CCONJ		
+9	så	så	ADV		
+10	er	være	AUX		verb.stative
+11	det	det	PRON		
+12	planen	plan	NOUN		noun.cognition
+13	,	,	PUNCT		
+14	at	at	SCONJ		
+15	jeg	jeg	PRON		
+16	dernæst	dernæst	ADV		
+17	skal	skulle	AUX		
+18	studere	studere	VERB		verb.act
+19	på	på	ADP		
+20	Handelsakademiet	handelsakademi	NOUN		noun.institution
+21	for	for	ADP		noun.institution
+22	Eksport	eksport	NOUN		noun.institution
+23	her	her	ADV		
+24	i	i	ADP		
+25	Århus	århus	PROPN		noun.location
+26	.	.	PUNCT		
+
+# newdoc id = DDT-1381.tsv
+# sent_id = 5
+# text =  Tiden i udlandet tiltalte mig.
+1	Tiden	tid	NOUN		noun.time
+2	i	i	ADP		
+3	udlandet	udland	NOUN		noun.location
+4	tiltalte	tiltale	VERB		verb.phenomenon
+5	mig	jeg	PRON		
+6	.	.	PUNCT		
+
+# newdoc id = DDT-1381.tsv
+# sent_id = 6
+# text =  Og det er ikke umuligt, at jeg vender tilbage til udlandet.
+1	Og	og	CCONJ		
+2	det	det	PRON		
+3	er	være	AUX		verb.stative
+4	ikke	ikke	ADV		
+5	umuligt	umulig	ADJ		adj.all
+6	,	,	PUNCT		
+7	at	at	SCONJ		
+8	jeg	jeg	PRON		
+9	vender	vende	VERB		verb.motion
+10	tilbage	tilbage	ADV		
+11	til	til	ADP		
+12	udlandet	udland	NOUN		noun.location
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1381.tsv
+# sent_id = 7
+# text =  Under alle omstændigheder har jeg stadig en del kontakter i såvel Bruxelles som i Norwich, og det er selvfølgelig en mulighed, at jeg vil bruge de kontakter, når mit studium er færdigt."
+1	Under	under	ADP		
+2	alle	al	ADJ		
+3	omstændigheder	omstændighed	NOUN		noun.abstract
+4	har	have	AUX		verb.possession
+5	jeg	jeg	PRON		
+6	stadig	stadig	ADV		
+7	en	en	DET		
+8	del	del	NOUN		noun.quantity
+9	kontakter	kontakt	NOUN		noun.relation
+10	i	i	ADP		
+11	såvel	såvel	ADV		
+12	Bruxelles	bruxelles	PROPN		noun.location
+13	som	som	ADP		
+14	i	i	ADP		
+15	Norwich	norwich	PROPN		noun.location
+16	,	,	PUNCT		
+17	og	og	CCONJ		
+18	det	det	PRON		
+19	er	være	AUX		verb.stative
+20	selvfølgelig	selvfølgelig	ADV		
+21	en	en	DET		
+22	mulighed	mulighed	NOUN		noun.abstract
+23	,	,	PUNCT		
+24	at	at	SCONJ		
+25	jeg	jeg	PRON		
+26	vil	ville	AUX		
+27	bruge	bruge	VERB		verb.act
+28	de	den	DET		
+29	kontakter	kontakt	NOUN		noun.relation
+30	,	,	PUNCT		
+31	når	når	SCONJ		
+32	mit	min	DET		
+33	studium	studium	NOUN		noun.act
+34	er	være	AUX		verb.stative
+35	færdigt	færdig	ADJ		adj.all
+36	.	.	PUNCT		
+37	"	"	PUNCT		
+
+# newdoc id = DDT-1381.tsv
+# sent_id = 8
+# text =  Henrik Mortensen har- som alle andre danske udlandsproffer- en pæn skilling på bankbogen.
+1	Henrik	henrik	PROPN		noun.person
+2	Mortensen	mortensen	PROPN		noun.person
+3	har	have	AUX		verb.possession
+4	-	-	PUNCT		
+5	som	som	ADP		
+6	alle	al	ADJ		
+7	andre	anden	DET		
+8	danske	dansk	ADJ		adj.social
+9	udlandsproffer	udlandsprof	NOUN		noun.person
+10	-	-	PUNCT		
+11	en	en	DET		
+12	pæn	pæn	ADJ		adj.all
+13	skilling	skilling	NOUN		noun.artifact
+14	på	på	ADP		
+15	bankbogen	bankbog	NOUN		noun.artifact
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1381.tsv
+# sent_id = 9
+# text =  Penge, som er investeret, og som den uheldige spiller ikke håber at røre de kommende år.
+1	Penge	penge	NOUN		noun.artifact
+2	,	,	PUNCT		
+3	som	som	PRON		
+4	er	være	AUX		
+5	investeret	investere	VERB		verb.possession
+6	,	,	PUNCT		
+7	og	og	CCONJ		
+8	som	som	ADP		
+9	den	den	DET		
+10	uheldige	uheldig	ADJ		adj.all
+11	spiller	spiller	NOUN		noun.person
+12	ikke	ikke	ADV		
+13	håber	håbe	VERB		verb.cognition
+14	at	at	PART		
+15	røre	røre	VERB		verb.contact
+16	de	den	DET		
+17	kommende	komme	VERB		adj.time
+18	år	år	NOUN		noun.time
+19	.	.	PUNCT		
+

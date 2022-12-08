@@ -1,0 +1,223 @@
+# newdoc id = DDT-1368.tsv
+# sent_id = 1
+# text = " Jeg tror ikke, at en nordisk blokdannelse er en god idé.
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	tror	tro	VERB		verb.cognition
+4	ikke	ikke	ADV		
+5	,	,	PUNCT		
+6	at	at	SCONJ		
+7	en	en	DET		
+8	nordisk	nordisk	ADJ		adj.social
+9	blokdannelse	blokdannelse	NOUN		noun.act
+10	er	være	AUX		verb.stative
+11	en	en	DET		
+12	god	god	ADJ		adj.all
+13	idé	idé	NOUN		noun.cognition
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1368.tsv
+# sent_id = 2
+# text =  Jeg tror heller ikke, det vil kunne lade sig gøre, fordi vi på ganske mange områder, især inden for det økonomiske, ikke er særlig enige," siger Uffe Ellemann-Jensen.
+1	Jeg	jeg	PRON		
+2	tror	tro	VERB		verb.cognition
+3	heller	heller	ADV		
+4	ikke	ikke	ADV		
+5	,	,	PUNCT		
+6	det	det	PRON		
+7	vil	ville	AUX		
+8	kunne	kunne	AUX		
+9	lade	lade	VERB		verb.phenomenon
+10	sig	sig	PRON		verb.REFLPRON
+11	gøre	gøre	VERB		verb.COLL
+12	,	,	PUNCT		
+13	fordi	fordi	SCONJ		
+14	vi	vi	PRON		
+15	på	på	ADP		
+16	ganske	ganske	ADV		
+17	mange	mangen	ADJ		
+18	områder	område	NOUN		noun.location
+19	,	,	PUNCT		
+20	især	især	ADV		
+21	inden	inden	ADV		
+22	for	for	ADP		
+23	det	det	DET		
+24	økonomiske	økonomisk	ADJ		noun.domain
+25	,	,	PUNCT		
+26	ikke	ikke	ADV		
+27	er	være	AUX		verb.stative
+28	særlig	særlig	ADV		
+29	enige	enig	ADJ		adj.mental
+30	,	,	PUNCT		
+31	"	"	PUNCT		
+32	siger	sige	VERB		verb.communication
+33	Uffe	uffe	PROPN		noun.person
+34	Ellemann-Jensen	ellemann-jensen	PROPN		noun.person
+35	.	.	PUNCT		
+
+# newdoc id = DDT-1368.tsv
+# sent_id = 3
+# text =  Men er støtten til Lars P. Gammelgaards nordiske tanker beskeden hos udenrigsministeren, er den det ikke hos Socialdemokratiet.
+1	Men	men	CCONJ		
+2	er	være	AUX		verb.stative
+3	støtten	støtte	NOUN		noun.act
+4	til	til	ADP		
+5	Lars	lars	PROPN		noun.person
+6	P.	p.	PROPN		noun.person
+7	Gammelgaards	gammelgaards	PROPN		noun.person
+8	nordiske	nordisk	ADJ		adj.social
+9	tanker	tanker	NOUN		noun.cognition
+10	beskeden	beskeden	ADJ		adj.phys
+11	hos	hos	ADP		
+12	udenrigsministeren	udenrigsminister	NOUN		noun.person
+13	,	,	PUNCT		
+14	er	være	AUX		verb.stative
+15	den	den	PRON		
+16	det	det	PRON		
+17	ikke	ikke	ADV		
+18	hos	hos	ADP		
+19	Socialdemokratiet	socialdemokrati	NOUN		noun.institution
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1368.tsv
+# sent_id = 4
+# text = " Jeg tror ikke, der vil være den store risiko for, at samarbejdet vil ende i en blokdannelse.
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	tror	tro	VERB		verb.cognition
+4	ikke	ikke	ADV		
+5	,	,	PUNCT		
+6	der	der	PRON		
+7	vil	ville	AUX		
+8	være	være	AUX		verb.stative
+9	den	den	DET		
+10	store	stor	ADJ		adj.phys
+11	risiko	risiko	NOUN		noun.abstract
+12	for	for	ADP		
+13	,	,	PUNCT		
+14	at	at	SCONJ		
+15	samarbejdet	samarbejde	NOUN		noun.act
+16	vil	ville	AUX		
+17	ende	ende	VERB		verb.change
+18	i	i	ADP		
+19	en	en	DET		
+20	blokdannelse	blokdannelse	NOUN		noun.act
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1368.tsv
+# sent_id = 5
+# text =  Der vil være områder, hvor de nordiske lande kan samarbejde og områder, hvor vi ikke kan.
+1	Der	der	ADV		
+2	vil	ville	AUX		
+3	være	være	VERB		verb.stative
+4	områder	område	NOUN		noun.domain
+5	,	,	PUNCT		
+6	hvor	hvor	ADV		
+7	de	den	DET		
+8	nordiske	nordisk	ADJ		adj.social
+9	lande	land	NOUN		noun.person
+10	kan	kunne	AUX		
+11	samarbejde	samarbejde	VERB		verb.act
+12	og	og	CCONJ		
+13	områder	område	NOUN		noun.domain
+14	,	,	PUNCT		
+15	hvor	hvor	ADV		
+16	vi	vi	PRON		
+17	ikke	ikke	ADV		
+18	kan	kunne	VERB		verb.social
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1368.tsv
+# sent_id = 6
+# text =  Så en samlet blok vil vi aldrig blive.
+1	Så	så	ADV		
+2	en	en	DET		
+3	samlet	samle	VERB		adj.all
+4	blok	blok	NOUN		noun.person
+5	vil	ville	AUX		
+6	vi	vi	PRON		
+7	aldrig	aldrig	ADV		
+8	blive	blive	AUX		verb.stative
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1368.tsv
+# sent_id = 7
+# text =  Men jeg tror, at de fleste danskeres hjerte banker for et nordisk samarbejde, mens deres hjerne støtter EF-samarbejdet.
+1	Men	men	CCONJ		
+2	jeg	jeg	PRON		
+3	tror	tro	VERB		verb.cognition
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	de	den	DET		
+7	fleste	mangen	ADJ		
+8	danskeres	dansker	DET		noun.person
+9	hjerte	hjerte	NOUN		noun.feeling
+10	banker	banke	VERB		verb.emotion
+11	for	for	ADP		verb.COLL
+12	et	en	DET		
+13	nordisk	nordisk	ADJ		adj.social
+14	samarbejde	samarbejde	NOUN		noun.act
+15	,	,	PUNCT		
+16	mens	mens	SCONJ		
+17	deres	deres	DET		
+18	hjerne	hjerne	NOUN		noun.cognition
+19	støtter	støtte	VERB		verb.cognition
+20	EF-samarbejdet	ef-samarbejde	NOUN		noun.act
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1368.tsv
+# sent_id = 8
+# text =  I EF har vi muligheden for at forene hjertet og hjernen," siger den socialdemokratiske formand for Markedudvalget, Ivar Nørgaard.
+1	I	i	ADP		
+2	EF	ef	PROPN		noun.institution
+3	har	have	VERB		
+4	vi	vi	PRON		
+5	muligheden	mulighed	NOUN		noun.abstract
+6	for	for	ADP		
+7	at	at	PART		
+8	forene	forene	VERB		verb.change
+9	hjertet	hjerte	NOUN		noun.feeling
+10	og	og	CCONJ		
+11	hjernen	hjerne	NOUN		noun.cognition
+12	,	,	PUNCT		
+13	"	"	PUNCT		
+14	siger	sige	VERB		verb.communication
+15	den	den	DET		
+16	socialdemokratiske	socialdemokratisk	ADJ		adj.mental
+17	formand	formand	NOUN		noun.person
+18	for	for	ADP		
+19	Markedudvalget	markedudvalget	PROPN		noun.institution
+20	,	,	PUNCT		
+21	Ivar	ivar	PROPN		noun.person
+22	Nørgaard	nørgaard	PROPN		noun.person
+23	.	.	PUNCT		
+
+# newdoc id = DDT-1368.tsv
+# sent_id = 9
+# text =  Statsministrene i de nordiske lande vil på en ekstraindkaldt session i Nordisk Råd til november fastlægge en linje for det nordiske samarbejde i EF.
+1	Statsministrene	statsminister	NOUN		noun.person
+2	i	i	ADP		
+3	de	den	DET		
+4	nordiske	nordisk	ADJ		adj.social
+5	lande	land	NOUN		noun.location
+6	vil	ville	AUX		
+7	på	på	ADP		
+8	en	en	DET		
+9	ekstraindkaldt	ekstraindkald	ADJ		adj.all
+10	session	session	NOUN		noun.event
+11	i	i	ADP		
+12	Nordisk	nordisk	ADJ		noun.institution
+13	Råd	råd	NOUN		noun.institution
+14	til	til	ADP		
+15	november	november	NOUN		noun.time
+16	fastlægge	fastlægge	VERB		verb.cognition
+17	en	en	DET		
+18	linje	linje	NOUN		noun.motive
+19	for	for	ADP		
+20	det	det	DET		
+21	nordiske	nordisk	ADJ		adj.social
+22	samarbejde	samarbejde	NOUN		noun.act
+23	i	i	ADP		
+24	EF	ef	PROPN		noun.institution
+25	.	.	PUNCT		
+

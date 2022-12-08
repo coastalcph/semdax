@@ -1,0 +1,264 @@
+# newdoc id = DDT-1224.tsv
+# sent_id = 1
+# text = " Folk har været søde.
+1	"	"	PUNCT		
+2	Folk	folk	NOUN		noun.person
+3	har	have	AUX		
+4	været	være	AUX		verb.stative
+5	søde	sød	ADJ		adj.social
+6	.	.	PUNCT		
+
+# newdoc id = DDT-1224.tsv
+# sent_id = 2
+# text =  Også bagefter.
+1	Også	også	ADV		
+2	bagefter	bagefter	ADV		
+3	.	.	PUNCT		
+
+# newdoc id = DDT-1224.tsv
+# sent_id = 3
+# text =  Andet kan jeg ikke sige.
+1	Andet	anden	PRON		
+2	kan	kunne	AUX		
+3	jeg	jeg	PRON		
+4	ikke	ikke	ADV		
+5	sige	sige	VERB		verb.communication
+6	.	.	PUNCT		
+
+# newdoc id = DDT-1224.tsv
+# sent_id = 4
+# text =  Der var altid noget at rive i."
+1	Der	der	ADV		
+2	var	være	VERB		verb.stative
+3	altid	altid	ADV		
+4	noget	nogen	PRON		
+5	at	at	PART		
+6	rive	rive	VERB		verb.act
+7	i	i	ADP		
+8	.	.	PUNCT		
+9	"	"	PUNCT		
+
+# newdoc id = DDT-1224.tsv
+# sent_id = 5
+# text =  Men selv_om livet aldrig blev det økonomiske" bummelumliv", han havde drømt om, så blev det et ordentligt liv med børnene og den uundværlige kone, Ellen.
+1	Men	men	CCONJ		
+2	selv_om	selv_om	ADJ		
+3	livet	liv	NOUN		noun.phenomenon
+4	aldrig	aldrig	ADV		
+5	blev	blive	AUX		verb.stative
+6	det	det	DET		
+7	økonomiske	økonomisk	ADJ		adj.all
+8	"	"	PUNCT		
+9	bummelumliv	bummelumliv	NOUN		noun.phenomenon
+10	"	"	PUNCT		
+11	,	,	PUNCT		
+12	han	han	PRON		
+13	havde	have	AUX		
+14	drømt	drømme	VERB		verb.emotion
+15	om	om	ADP		
+16	,	,	PUNCT		
+17	så	så	ADV		
+18	blev	blive	AUX		verb.stative
+19	det	det	PRON		
+20	et	en	DET		
+21	ordentligt	ordentlig	ADJ		adj.all
+22	liv	liv	NOUN		noun.phenomenon
+23	med	med	ADP		
+24	børnene	barn	NOUN		noun.person
+25	og	og	CCONJ		
+26	den	den	DET		
+27	uundværlige	uundværlig	ADJ		adj.all
+28	kone	kone	NOUN		noun.person
+29	,	,	PUNCT		
+30	Ellen	ellen	PROPN		noun.person
+31	.	.	PUNCT		
+
+# newdoc id = DDT-1224.tsv
+# sent_id = 6
+# text =  Det er det stadig.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	det	det	PRON		
+4	stadig	stadig	ADV		
+5	.	.	PUNCT		
+
+# newdoc id = DDT-1224.tsv
+# sent_id = 7
+# text =  Han smiler stadig sit brede smil, han må stadig ud og bruge sine hænder, og i et 66 år gammelt liv, hvor glæderne er flere end bekymringerne, er det to dagligdags og samfundsskabte ting, der irriterer.
+1	Han	han	PRON		
+2	smiler	smile	VERB		verb.act
+3	stadig	stadig	ADV		
+4	sit	sin	DET		
+5	brede	bred	ADJ		adj.phys
+6	smil	smil	NOUN		noun.act
+7	,	,	PUNCT		
+8	han	han	PRON		
+9	må	måtte	AUX		
+10	stadig	stadig	ADV		
+11	ud	ud	ADV		
+12	og	og	CCONJ		
+13	bruge	bruge	VERB		verb.act
+14	sine	sin	DET		
+15	hænder	hånd	NOUN		noun.body
+16	,	,	PUNCT		
+17	og	og	CCONJ		
+18	i	i	ADP		
+19	et	en	DET		
+20	66	66	ADJ		
+21	år	år	NOUN		noun.time
+22	gammelt	gammel	ADJ		adj.time
+23	liv	liv	NOUN		noun.phenomenon
+24	,	,	PUNCT		
+25	hvor	hvor	ADV		
+26	glæderne	glæde	NOUN		noun.feeling
+27	er	være	AUX		verb.stative
+28	flere	flere	ADJ		adj.all
+29	end	ende	ADP		
+30	bekymringerne	bekymring	NOUN		noun.feeling
+31	,	,	PUNCT		
+32	er	være	AUX		verb.stative
+33	det	det	PRON		
+34	to	to	ADV		
+35	dagligdags	dagligdags	ADJ		adj.all
+36	og	og	CCONJ		
+37	samfundsskabte	samfundsskabt	ADJ		adj.all
+38	ting	ting	NOUN		noun.abstract
+39	,	,	PUNCT		
+40	der	der	PRON		
+41	irriterer	irritere	VERB		verb.phenomenon
+42	.	.	PUNCT		
+
+# newdoc id = DDT-1224.tsv
+# sent_id = 8
+# text =  Han er invalidepensionist og arbejder 200 timer om året i sønnens tømrerfirma.
+1	Han	han	PRON		
+2	er	være	AUX		verb.stative
+3	invalidepensionist	invalidepensionist	NOUN		noun.person
+4	og	og	CCONJ		
+5	arbejder	arbejde	VERB		verb.act
+6	200	200	NUM		
+7	timer	timer	NOUN		noun.time
+8	om	om	ADP		
+9	året	år	NOUN		noun.time
+10	i	i	ADP		
+11	sønnens	søn	NOUN		noun.person
+12	tømrerfirma	tømrerfirma	NOUN		noun.institution
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1224.tsv
+# sent_id = 9
+# text =  Han vil gerne hjælpe mere, men må ikke, og hans kone Ellen, som altid har blandet sig, når Chris skulle sige noget, gør det stadig.
+1	Han	han	PRON		
+2	vil	ville	AUX		
+3	gerne	gerne	ADV		
+4	hjælpe	hjælpe	VERB		verb.act
+5	mere	mere	ADV		
+6	,	,	PUNCT		
+7	men	men	CCONJ		
+8	må	måtte	AUX		verb.phenomenon
+9	ikke	ikke	ADV		
+10	,	,	PUNCT		
+11	og	og	CCONJ		
+12	hans	hans	DET		
+13	kone	kone	NOUN		noun.person
+14	Ellen	ellen	PROPN		noun.person
+15	,	,	PUNCT		
+16	som	som	PRON		
+17	altid	altid	ADV		
+18	har	have	AUX		
+19	blandet	blande	VERB		verb.act
+20	sig	sig	PRON		verb.REFLPRON
+21	,	,	PUNCT		
+22	når	når	SCONJ		
+23	Chris	chris	PROPN		noun.person
+24	skulle	skulle	AUX		
+25	sige	sige	VERB		verb.communication
+26	noget	nogen	PRON		
+27	,	,	PUNCT		
+28	gør	gøre	VERB		verb.act
+29	det	det	PRON		
+30	stadig	stadig	ADV		
+31	.	.	PUNCT		
+
+# newdoc id = DDT-1224.tsv
+# sent_id = 10
+# text = " Jamen, det er da fortvivlende.
+1	"	"	PUNCT		
+2	Jamen	jamen	CCONJ		
+3	,	,	PUNCT		
+4	det	det	PRON		
+5	er	være	AUX		verb.stative
+6	da	da	ADV		
+7	fortvivlende	fortvivle	VERB		adj.mental
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1224.tsv
+# sent_id = 11
+# text =  Nu må man ikke engang hjælpe sine børn længere."
+1	Nu	nu	ADV		
+2	må	måtte	AUX		
+3	man	man	PRON		
+4	ikke	ikke	ADV		
+5	engang	engang	ADV		
+6	hjælpe	hjælpe	VERB		verb.act
+7	sine	sin	DET		
+8	børn	barn	NOUN		noun.person
+9	længere	lang	ADV		
+10	.	.	PUNCT		
+11	"	"	PUNCT		
+
+# newdoc id = DDT-1224.tsv
+# sent_id = 12
+# text =  Det andet:" Jeg har altid haft det sådan, at når man gik på gaden, så lettede man på hatten og hilste.
+1	Det	det	DET		
+2	andet	anden	ADJ		
+3	:	:	PUNCT		
+4	"	"	PUNCT		
+5	Jeg	jeg	PRON		
+6	har	have	AUX		
+7	altid	altid	ADV		
+8	haft	have	VERB		verb.cognition
+9	det	det	PRON		
+10	sådan	sådan	ADV		
+11	,	,	PUNCT		
+12	at	at	SCONJ		
+13	når	når	SCONJ		
+14	man	man	PRON		
+15	gik	gå	VERB		verb.motion
+16	på	på	ADP		
+17	gaden	gade	NOUN		noun.location
+18	,	,	PUNCT		
+19	så	så	ADV		
+20	lettede	lette	VERB		verb.motion
+21	man	man	PRON		
+22	på	på	ADP		
+23	hatten	hat	NOUN		noun.artifact
+24	og	og	CCONJ		
+25	hilste	hilse	VERB		verb.communication
+26	.	.	PUNCT		
+
+# newdoc id = DDT-1224.tsv
+# sent_id = 13
+# text =  Det gør man ikke mere.
+1	Det	det	PRON		
+2	gør	gøre	VERB		verb.act
+3	man	man	PRON		
+4	ikke	ikke	ADV		
+5	mere	mere	ADV		
+6	.	.	PUNCT		
+
+# newdoc id = DDT-1224.tsv
+# sent_id = 14
+# text =  Det er s'gu ikke moderne at sige go'morgen længere."
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	s'gu	s'gu	ADV		
+4	ikke	ikke	ADV		
+5	moderne	moderne	ADJ		adj.time
+6	at	at	PART		
+7	sige	sige	VERB		verb.communication
+8	go'morgen	go'morg	NOUN		
+9	længere	lang	ADV		
+10	.	.	PUNCT		
+11	"	"	PUNCT		
+

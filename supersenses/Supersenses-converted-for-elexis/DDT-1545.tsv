@@ -1,0 +1,199 @@
+# newdoc id = DDT-1545.tsv
+# sent_id = 1
+# text =  Sideløbende med forberedelserne til næste års Le_Mans-race kører ACO en erstatningssag mod FIA for de tab, som klubben har lidt som følge af sportskommissionen FISA's manglende indfrielse af løfter og forpligtelser indgået i forbindelse med en tvangsordning omkring det klassiske langdistanceløb.
+1	Sideløbende	sideløbende	ADV		
+2	med	med	ADP		
+3	forberedelserne	forberedelse	NOUN		noun.act
+4	til	til	ADP		
+5	næste	næste	ADJ		adj.time
+6	års	år	NOUN		noun.time
+7	Le_Mans-race	le_mans-rac	NOUN		noun.event
+8	kører	køre	VERB		verb.act
+9	ACO	aco	PROPN		noun.institution
+10	en	en	DET		
+11	erstatningssag	erstatningssag	NOUN		noun.abstract
+12	mod	mod	ADP		
+13	FIA	fia	PROPN		noun.institution
+14	for	for	ADP		
+15	de	den	DET		
+16	tab	tab	NOUN		noun.phenomenon
+17	,	,	PUNCT		
+18	som	som	ADP		
+19	klubben	klub	NOUN		noun.institution
+20	har	have	AUX		
+21	lidt	lidt	ADV		verb.emotion
+22	som	som	ADP		
+23	følge	følge	NOUN		noun.phenomenon
+24	af	af	ADP		
+25	sportskommissionen	sportskommission	NOUN		noun.institution
+26	FISA's	fisa's	PROPN		noun.institution
+27	manglende	mangle	VERB		adj.all
+28	indfrielse	indfrielse	NOUN		noun.act
+29	af	af	ADP		
+30	løfter	løfter	NOUN		noun.communication
+31	og	og	CCONJ		
+32	forpligtelser	forpligtelse	NOUN		noun.attribute
+33	indgået	indgå	VERB		verb.act
+34	i	i	ADP		
+35	forbindelse	forbindelse	NOUN		noun.relation
+36	med	med	ADP		
+37	en	en	DET		
+38	tvangsordning	tvangsordning	NOUN		noun.abstract
+39	omkring	omkring	ADP		
+40	det	det	DET		
+41	klassiske	klassisk	ADJ		adj.all
+42	langdistanceløb	langdistanceløb	NOUN		noun.act
+43	.	.	PUNCT		
+
+# newdoc id = DDT-1545.tsv
+# sent_id = 2
+# text =  FISA tvang ACO til en række ændringer mod at garantere et fuldt felt og massiv mediedækning.
+1	FISA	fisa	PROPN		noun.institution
+2	tvang	tvinge	VERB		verb.act
+3	ACO	aco	PROPN		noun.institution
+4	til	til	ADP		
+5	en	en	DET		
+6	række	række	NOUN		noun.quantity
+7	ændringer	ændring	NOUN		noun.act
+8	mod	mod	ADP		verb.COLL
+9	at	at	PART		
+10	garantere	garantere	VERB		verb.communication
+11	et	en	DET		
+12	fuldt	fuld	ADJ		adj.all
+13	felt	felt	NOUN		noun.location
+14	og	og	CCONJ		
+15	massiv	massiv	ADJ		adj.all
+16	mediedækning	mediedækning	NOUN		noun.abstract
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1545.tsv
+# sent_id = 3
+# text =  Men i de sidste to år er alting gået skævt.
+1	Men	men	CCONJ		
+2	i	i	ADP		
+3	de	den	DET		
+4	sidste	sidste	ADJ		adj.time
+5	to	to	NOUN		
+6	år	år	NOUN		noun.time
+7	er	være	AUX		
+8	alting	alting	NOUN		
+9	gået	gå	VERB		verb.change
+10	skævt	skæv	ADV		verb.COLL
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1545.tsv
+# sent_id = 4
+# text =  Feltet skrumpede ind med 50 pct., tusindvis af tilskuere blev væk, fordi spændingen var gået tabt, og af samme grund blev en stor del af sportspressen også væk, så ACO stod tilbage med en renoveret bane og et helt nyt pitanlæg efter en millioninvestering- og en økonomisk bet så stor, at man slæbte FIA for en domstol for at få erstatning.
+1	Feltet	felt	NOUN		noun.location
+2	skrumpede	skrumpe	VERB		verb.change
+3	ind	ind	ADV		verb.PARTICLE
+4	med	med	ADP		
+5	50	50	NUM		
+6	pct.	pct.	NOUN		noun.quantity
+7	,	,	PUNCT		
+8	tusindvis	tusindvis	ADV		
+9	af	af	ADP		
+10	tilskuere	tilskuer	NOUN		noun.person
+11	blev	blive	AUX		verb.stative
+12	væk	væk	ADV		
+13	,	,	PUNCT		
+14	fordi	fordi	SCONJ		
+15	spændingen	spænding	NOUN		noun.phenomenon
+16	var	være	AUX		
+17	gået	gå	VERB		verb.phenomenon
+18	tabt	tabe	VERB		verb.COLL
+19	,	,	PUNCT		
+20	og	og	CCONJ		
+21	af	af	ADP		
+22	samme	samme	ADJ		
+23	grund	grund	NOUN		noun.abstract
+24	blev	blive	AUX		verb.stative
+25	en	en	DET		
+26	stor	stor	ADJ		adj.all
+27	del	del	NOUN		noun.quantity
+28	af	af	ADP		
+29	sportspressen	sportspresse	NOUN		noun.person
+30	også	også	ADV		
+31	væk	væk	ADV		
+32	,	,	PUNCT		
+33	så	så	SCONJ		
+34	ACO	aco	PROPN		noun.institution
+35	stod	stå	VERB		verb.stative
+36	tilbage	tilbage	ADV		
+37	med	med	ADP		
+38	en	en	DET		
+39	renoveret	renovere	VERB		adj.phys
+40	bane	bane	NOUN		noun.location
+41	og	og	CCONJ		
+42	et	en	DET		
+43	helt	helt	ADV		
+44	nyt	ny	ADJ		adj.time
+45	pitanlæg	pitanlæg	NOUN		noun.location
+46	efter	efter	ADP		
+47	en	en	DET		
+48	millioninvestering	millioninvestering	NOUN		noun.possession
+49	-	-	PUNCT		
+50	og	og	CCONJ		
+51	en	en	DET		
+52	økonomisk	økonomisk	ADJ		adj.all
+53	bet	bet	NOUN		noun.abstract
+54	så	så	ADV		
+55	stor	stor	ADJ		adj.all
+56	,	,	PUNCT		
+57	at	at	SCONJ		
+58	man	man	PRON		
+59	slæbte	slæbe	VERB		verb.motion
+60	FIA	fia	PROPN		noun.institution
+61	for	for	ADP		
+62	en	en	DET		
+63	domstol	domstol	NOUN		noun.institution
+64	for	for	ADP		
+65	at	at	PART		
+66	få	få	VERB		verb.possession
+67	erstatning	erstatning	NOUN		noun.quantity
+68	.	.	PUNCT		
+
+# newdoc id = DDT-1545.tsv
+# sent_id = 5
+# text =  Næste år bliver Le_Mans-racet åbent for fire slags biler uden benzinrestriktioner og så bliver der fuld fart på igen.
+1	Næste	næste	ADJ		adj.time
+2	år	år	NOUN		noun.time
+3	bliver	blive	AUX		
+4	Le_Mans-racet	le_mans-racet	PROPN		noun.act
+5	åbent	åben	ADJ		verb.act
+6	for	for	ADP		
+7	fire	fire	ADJ		
+8	slags	slags	NOUN		noun.abstract
+9	biler	bil	NOUN		noun.vehicle
+10	uden	uden	ADP		
+11	benzinrestriktioner	benzinrestriktion	NOUN		noun.abstract
+12	og	og	CCONJ		
+13	så	så	ADV		
+14	bliver	blive	VERB		verb.stative
+15	der	der	ADV		
+16	fuld	fuld	ADJ		adj.all
+17	fart	fart	NOUN		noun.phenomenon
+18	på	på	ADP		
+19	igen	igen	ADV		
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1545.tsv
+# sent_id = 6
+# text =  På tirsdag åbner ACO for tilmeldinger til næste års race med biler i fire kategorier:
+1	På	på	ADP		
+2	tirsdag	tirsdag	NOUN		noun.time
+3	åbner	åbne	VERB		verb.act
+4	ACO	aco	PROPN		noun.institution
+5	for	for	ADP		
+6	tilmeldinger	tilmelding	NOUN		noun.communication
+7	til	til	ADP		
+8	næste	næste	ADJ		adj.time
+9	års	år	NOUN		noun.time
+10	race	race	NOUN		noun.act
+11	med	med	ADP		
+12	biler	bil	NOUN		noun.vehicle
+13	i	i	ADP		
+14	fire	fire	ADJ		
+15	kategorier	kategori	NOUN		noun.communication
+16	:	:	PUNCT		
+

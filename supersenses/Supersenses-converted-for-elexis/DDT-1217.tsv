@@ -1,0 +1,230 @@
+# newdoc id = DDT-1217.tsv
+# sent_id = 1
+# text =  Vi har alt for travlt.
+1	Vi	vi	PRON		
+2	har	have	VERB		verb.cognition
+3	alt	alt	ADV		
+4	for	for	ADV		
+5	travlt	travl	ADV		verb.COLL
+6	.	.	PUNCT		
+
+# newdoc id = DDT-1217.tsv
+# sent_id = 2
+# text =  For de fleste går dagen uden pauser.
+1	For	for	ADP		
+2	de	den	DET		
+3	fleste	mangen	ADJ		
+4	går	gå	VERB		verb.phenomenon
+5	dagen	dag	NOUN		noun.time
+6	uden	uden	ADP		
+7	pauser	pause	NOUN		noun.time
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1217.tsv
+# sent_id = 3
+# text =  Af_sted til skole, arbejde, sport eller leg.
+1	Af_sted	af_sted	NOUN		
+2	til	til	ADP		
+3	skole	skole	NOUN		noun.building
+4	,	,	PUNCT		
+5	arbejde	arbejde	NOUN		noun.act
+6	,	,	PUNCT		
+7	sport	sport	NOUN		noun.act
+8	eller	eller	CCONJ		
+9	leg	leg	NOUN		noun.act
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1217.tsv
+# sent_id = 4
+# text =  Ud at købe ind.
+1	Ud	ud	ADV		
+2	at	at	PART		
+3	købe	købe	VERB		verb.possession
+4	ind	ind	ADV		verb.PARTICLE
+5	.	.	PUNCT		
+
+# newdoc id = DDT-1217.tsv
+# sent_id = 5
+# text =  Kun ved middagsbordet har man en chance for at være sammen.
+1	Kun	kun	ADV		
+2	ved	ved	ADP		
+3	middagsbordet	middagsbord	NOUN		noun.artifact
+4	har	have	AUX		verb.stative
+5	man	man	PRON		
+6	en	en	DET		
+7	chance	chance	NOUN		noun.abstract
+8	for	for	ADP		
+9	at	at	PART		
+10	være	være	AUX		verb.stative
+11	sammen	sammen	ADV		
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1217.tsv
+# sent_id = 6
+# text =  Derfor er det nok værd at gøre noget ud af husets spiseplads, så man her får en hyggelig stund.
+1	Derfor	derfor	ADV		
+2	er	være	AUX		verb.stative
+3	det	det	PRON		
+4	nok	nok	ADV		
+5	værd	værd	ADJ		adj.all
+6	at	at	PART		
+7	gøre	gøre	VERB		verb.act
+8	noget	nogen	PRON		
+9	ud	ud	ADV		verb.COLL
+10	af	af	ADP		verb.COLL
+11	husets	hus	DET		noun.building
+12	spiseplads	spiseplads	NOUN		noun.location
+13	,	,	PUNCT		
+14	så	så	SCONJ		
+15	man	man	PRON		
+16	her	her	ADV		
+17	får	få	VERB		verb.phenomenon
+18	en	en	DET		
+19	hyggelig	hyggelig	ADJ		adj.social
+20	stund	stund	NOUN		noun.time
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1217.tsv
+# sent_id = 7
+# text =  Der er en tendens til ikke længere at nøjes med den lille krog i køkkenet.
+1	Der	der	ADV		
+2	er	være	VERB		verb.stative
+3	en	en	DET		
+4	tendens	tendens	NOUN		noun.abstract
+5	til	til	ADP		
+6	ikke	ikke	ADV		
+7	længere	lang	ADV		
+8	at	at	PART		
+9	nøjes	nøjes	VERB		verb.stative
+10	med	med	ADP		
+11	den	den	DET		
+12	lille	lille	ADJ		adj.phys
+13	krog	krog	NOUN		noun.relation
+14	i	i	ADP		
+15	køkkenet	køkken	NOUN		noun.building
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1217.tsv
+# sent_id = 8
+# text =  Man har spisestue eller i_hvert_fald en rar plads i en rolig del af stuen.
+1	Man	man	PRON		
+2	har	have	VERB		verb.stative
+3	spisestue	spisestue	NOUN		noun.building
+4	eller	eller	CCONJ		
+5	i_hvert_fald	i_hvert_fald	X		
+6	en	en	DET		
+7	rar	rar	ADJ		adj.all
+8	plads	plads	NOUN		noun.location
+9	i	i	ADP		
+10	en	en	DET		
+11	rolig	rolig	ADJ		adj.all
+12	del	del	NOUN		noun.relation
+13	af	af	ADP		
+14	stuen	stue	NOUN		noun.building
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1217.tsv
+# sent_id = 9
+# text =  Kender vi ikke alle nogle steder, hvor man med glæde sidder længe til_bords og ikke bare ønsker at komme ind til de gode lænestole?
+1	Kender	kende	VERB		verb.cognition
+2	vi	vi	PRON		
+3	ikke	ikke	ADV		
+4	alle	al	ADJ		
+5	nogle	nogen	DET		
+6	steder	sted	NOUN		noun.location
+7	,	,	PUNCT		
+8	hvor	hvor	ADV		
+9	man	man	PRON		
+10	med	med	ADP		
+11	glæde	glæde	NOUN		noun.feeling
+12	sidder	sidde	VERB		verb.stative
+13	længe	længe	ADV		
+14	til_bords	til_bord	ADV		
+15	og	og	CCONJ		
+16	ikke	ikke	ADV		
+17	bare	bare	ADV		
+18	ønsker	ønske	VERB		verb.emotion
+19	at	at	PART		
+20	komme	komme	VERB		verb.motion
+21	ind	ind	ADV		
+22	til	til	ADP		
+23	de	den	DET		
+24	gode	god	ADJ		adj.all
+25	lænestole	lænestol	NOUN		noun.artifact
+26	?	?	PUNCT		
+
+# newdoc id = DDT-1217.tsv
+# sent_id = 10
+# text =  Det har både noget med stolene og bordet at gøre- og pladsen udenom.
+1	Det	det	PRON		
+2	har	have	VERB		verb.stative
+3	både	både	ADV		
+4	noget	nogen	PRON		
+5	med	med	ADP		
+6	stolene	stol	NOUN		noun.artifact
+7	og	og	CCONJ		
+8	bordet	bord	NOUN		noun.artifact
+9	at	at	PART		verb.COLL
+10	gøre	gøre	VERB		verb.COLL
+11	-	-	PUNCT		
+12	og	og	CCONJ		
+13	pladsen	plads	NOUN		noun.location
+14	udenom	udenom	ADV		
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1217.tsv
+# sent_id = 11
+# text =  Passe sammen
+1	Passe	passe	VERB		verb.stative
+2	sammen	sammen	ADV		
+
+# newdoc id = DDT-1217.tsv
+# sent_id = 12
+# text =  Det er vigtigt, at bord og stole passer sammen, ikke bare i udseende, men også i mål.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	vigtigt	vigtig	ADJ		adj.all
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	bord	bord	NOUN		noun.artifact
+7	og	og	CCONJ		
+8	stole	stol	NOUN		noun.artifact
+9	passer	passere	VERB		verb.stative
+10	sammen	sammen	ADV		
+11	,	,	PUNCT		
+12	ikke	ikke	ADV		
+13	bare	bare	ADV		
+14	i	i	ADP		
+15	udseende	udseende	NOUN		noun.attribute
+16	,	,	PUNCT		
+17	men	men	CCONJ		
+18	også	også	ADV		
+19	i	i	ADP		
+20	mål	mål	NOUN		noun.quantity
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1217.tsv
+# sent_id = 13
+# text =  Det er ikke sundt at sidde med løftede skuldre for at nå maden eller krumbøjet ved et for lavt bord.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	ikke	ikke	ADV		
+4	sundt	sund	ADJ		adj.all
+5	at	at	PART		
+6	sidde	sidde	VERB		verb.stative
+7	med	med	ADP		
+8	løftede	løfte	VERB		adj.phys
+9	skuldre	skulder	NOUN		noun.body
+10	for	for	ADP		
+11	at	at	PART		
+12	nå	nå	VERB		verb.act
+13	maden	mad	NOUN		noun.food
+14	eller	eller	CCONJ		
+15	krumbøjet	krumbøjet	ADJ		adj.phys
+16	ved	ved	ADP		
+17	et	en	DET		
+18	for	for	ADP		
+19	lavt	lav	ADJ		adj.phys
+20	bord	bord	NOUN		noun.artifact
+21	.	.	PUNCT		
+

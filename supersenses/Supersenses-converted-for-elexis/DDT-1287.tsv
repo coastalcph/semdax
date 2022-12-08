@@ -1,0 +1,217 @@
+# newdoc id = DDT-1287.tsv
+# sent_id = 1
+# text =  Farten ned
+1	Farten	fart	NOUN		noun.phenomenon
+2	ned	ned	ADV		
+
+# newdoc id = DDT-1287.tsv
+# sent_id = 2
+# text =  EF's trafikministre har besluttet, at alle lastbiler fra 1. januar 1994 skal være udstyret med en fartbegrænser, så der maksimalt kan køres med en topfart på 85 km/t..
+1	EF's	ef's	PROPN		noun.institution
+2	trafikministre	trafikminister	NOUN		noun.person
+3	har	have	AUX		
+4	besluttet	beslutte	VERB		verb.cognition
+5	,	,	PUNCT		
+6	at	at	SCONJ		
+7	alle	al	ADJ		
+8	lastbiler	lastbil	NOUN		noun.vehicle
+9	fra	fra	ADP		
+10	1.	1.	ADJ		
+11	januar	januar	NOUN		noun.time
+12	1994	1994	ADV		noun.time
+13	skal	skulle	AUX		
+14	være	være	AUX		
+15	udstyret	udstyre	VERB		adj.phys
+16	med	med	ADP		
+17	en	en	DET		
+18	fartbegrænser	fartbegræns	NOUN		noun.artifact
+19	,	,	PUNCT		
+20	så	så	SCONJ		
+21	der	der	ADV		
+22	maksimalt	maksimal	ADV		
+23	kan	kunne	AUX		
+24	køres	køre	VERB		verb.motion
+25	med	med	ADP		
+26	en	en	DET		
+27	topfart	topfart	NOUN		noun.phenomenon
+28	på	på	ADP		
+29	85	85	NUM		
+30	km/t.	km/t.	X		noun.quantity
+31	.	.	PUNCT		
+
+# newdoc id = DDT-1287.tsv
+# sent_id = 3
+# text =  For ejerne af Scania-lastbiler kan en omstilling til at møde det kommende lovkrav klares for omkring en" tusse", idet Scania-bilernes EDC-motorer er forberedt via elektronisk styret tilførsel af diesel.
+1	For	for	ADP		
+2	ejerne	ejer	NOUN		noun.person
+3	af	af	ADP		
+4	Scania-lastbiler	scania-lastbil	NOUN		noun.vehicle
+5	kan	kunne	AUX		
+6	en	en	DET		
+7	omstilling	omstilling	NOUN		noun.act
+8	til	til	ADP		
+9	at	at	PART		
+10	møde	møde	VERB		verb.act
+11	det	det	PRON		
+12	kommende	komme	VERB		adj.time
+13	lovkrav	lovkrav	NOUN		noun.phenomenon
+14	klares	klare	VERB		verb.act
+15	for	for	ADV		
+16	omkring	omkring	ADP		
+17	en	en	DET		
+18	"	"	PUNCT		
+19	tusse	tusse	NOUN		noun.artifact
+20	"	"	PUNCT		
+21	,	,	PUNCT		
+22	idet	idet	SCONJ		
+23	Scania-bilernes	scania-bil	NOUN		noun.vehicle
+24	EDC-motorer	edc-motor	NOUN		noun.artifact
+25	er	være	AUX		
+26	forberedt	forberede	VERB		adj.phys
+27	via	via	ADP		
+28	elektronisk	elektronisk	ADJ		
+29	styret	styre	VERB		
+30	tilførsel	tilførsel	NOUN		noun.phenomenon
+31	af	af	ADP		
+32	diesel	diesel	NOUN		noun.substance
+33	.	.	PUNCT		
+
+# newdoc id = DDT-1287.tsv
+# sent_id = 4
+# text =  Kold MC-tur
+1	Kold	kold	ADJ		adj.phys
+2	MC-tur	mc-tur	NOUN		noun.act
+
+# newdoc id = DDT-1287.tsv
+# sent_id = 5
+# text =  Shinji Kazama, 41-årig japaner, har som den første kørt på motorcykel til Sydpolen.
+1	Shinji	shinji	PROPN		noun.person
+2	Kazama	kazama	PROPN		noun.person
+3	,	,	PUNCT		
+4	41-årig	41-år	ADJ		adj.time
+5	japaner	japaner	NOUN		noun.person
+6	,	,	PUNCT		
+7	har	have	AUX		
+8	som	som	ADP		
+9	den	den	DET		
+10	første	først	ADJ		adj.all
+11	kørt	køre	VERB		verb.motion
+12	på	på	ADP		
+13	motorcykel	motorcykel	NOUN		noun.vehicle
+14	til	til	ADP		
+15	Sydpolen	sydpolen	PROPN		noun.location
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1287.tsv
+# sent_id = 6
+# text =  Tidligere har han gjort turen til Nordpolen- også på motorcykel.
+1	Tidligere	tidlig	ADV		
+2	har	have	AUX		
+3	han	han	PRON		
+4	gjort	gøre	VERB		verb.act
+5	turen	tur	NOUN		noun.act
+6	til	til	ADP		
+7	Nordpolen	nordpolen	PROPN		noun.location
+8	-	-	PUNCT		
+9	også	også	ADV		
+10	på	på	ADP		
+11	motorcykel	motorcykel	NOUN		noun.vehicle
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1287.tsv
+# sent_id = 7
+# text =  Det var i 1987.
+1	Det	det	PRON		
+2	var	være	AUX		verb.stative
+3	i	i	ADP		
+4	1987	1987	NUM		noun.time
+5	.	.	PUNCT		
+
+# newdoc id = DDT-1287.tsv
+# sent_id = 8
+# text =  Denne gang tog det Kazama omkring en måneds tid at krydse ind over iskalotten og nå sit polare mål.
+1	Denne	denne	DET		
+2	gang	gang	NOUN		noun.abstract
+3	tog	toge	VERB		verb.phenomenon
+4	det	det	PRON		
+5	Kazama	kazama	PROPN		noun.person
+6	omkring	omkring	ADP		
+7	en	en	DET		
+8	måneds	måned	ADJ		noun.time
+9	tid	tid	NOUN		noun.time
+10	at	at	PART		
+11	krydse	krydse	VERB		verb.motion
+12	ind	ind	ADV		
+13	over	over	ADP		
+14	iskalotten	iskalot	NOUN		noun.location
+15	og	og	CCONJ		
+16	nå	nå	VERB		verb.act
+17	sit	sin	DET		
+18	polare	polar	ADJ		adj.all
+19	mål	mål	NOUN		noun.motive
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1287.tsv
+# sent_id = 9
+# text =  Han blev kun forsinket et par dage.
+1	Han	han	PRON		
+2	blev	blive	AUX		
+3	kun	kun	ADV		
+4	forsinket	forsinke	VERB		adj.time
+5	et	en	DET		
+6	par	par	NOUN		noun.quantity
+7	dage	dag	NOUN		noun.time
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1287.tsv
+# sent_id = 10
+# text =  Japaneren blev ledsaget af en bæltetrukket snemobil med forplejning og forsyninger.
+1	Japaneren	japaner	NOUN		noun.person
+2	blev	blive	AUX		
+3	ledsaget	ledsage	VERB		adj.all
+4	af	af	ADP		
+5	en	en	DET		
+6	bæltetrukket	bæltetruk	ADJ		adj.phys
+7	snemobil	snemobil	NOUN		noun.vehicle
+8	med	med	ADP		
+9	forplejning	forplejning	NOUN		noun.artifact
+10	og	og	CCONJ		
+11	forsyninger	forsyning	NOUN		noun.food
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1287.tsv
+# sent_id = 11
+# text =  Han kørte fortrinsvis om natten, når frosten gjorde det lettere at forcere terrænet.
+1	Han	han	PRON		
+2	kørte	køre	VERB		verb.motion
+3	fortrinsvis	fortrinsvis	ADV		
+4	om	om	ADP		
+5	natten	nat	NOUN		noun.time
+6	,	,	PUNCT		
+7	når	når	SCONJ		
+8	frosten	frost	NOUN		noun.phenomenon
+9	gjorde	gøre	VERB		verb.phenomenon
+10	det	det	PRON		
+11	lettere	let	ADJ		adj.phys
+12	at	at	PART		
+13	forcere	forcere	VERB		verb.motion
+14	terrænet	terræn	NOUN		noun.phenomenon
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1287.tsv
+# sent_id = 12
+# text =  Én gang måtte han have hjælp på den 2.000 km lange trip.
+1	Én	én	DET		
+2	gang	gang	NOUN		noun.abstract
+3	måtte	måtte	AUX		
+4	han	han	PRON		
+5	have	have	VERB		verb.phenomenon
+6	hjælp	hjælp	NOUN		noun.act
+7	på	på	ADP		
+8	den	den	DET		
+9	2.000	2.000	NUM		
+10	km	km	NOUN		noun.quantity
+11	lange	lang	ADJ		adj.phys
+12	trip	trip	NOUN		noun.act
+13	.	.	PUNCT		
+

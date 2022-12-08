@@ -1,0 +1,237 @@
+# newdoc id = DDT-1416.tsv
+# sent_id = 1
+# text =  ODENSE: Først i næste uge ventes det, at TV2 offentliggør, hvem den nye overboss på Kvægtorvet skal være.
+1	ODENSE	odense	PROPN		noun.location
+2	:	:	PUNCT		
+3	Først	først	ADV		
+4	i	i	ADP		
+5	næste	næste	ADJ		adj.time
+6	uge	uge	NOUN		noun.time
+7	ventes	vente	VERB		verb.cognition
+8	det	det	PRON		
+9	,	,	PUNCT		
+10	at	at	SCONJ		
+11	TV	tv	NOUN		noun.institution
+12	2	2	PUNCT		noun.institution
+13	offentliggør	offentliggøre	VERB		verb.communication
+14	,	,	PUNCT		
+15	hvem	hvem	PRON		
+16	den	den	DET		
+17	nye	ny	ADJ		adj.time
+18	overboss	overbos	NOUN		noun.person
+19	på	på	ADP		
+20	Kvægtorvet	kvægtorvet	PROPN		noun.building
+21	skal	skulle	AUX		
+22	være	være	VERB		verb.stative
+23	.	.	PUNCT		
+
+# newdoc id = DDT-1416.tsv
+# sent_id = 2
+# text =  Og den udnævnelse kan komme til at betyde, at den hidtidige direktør, Jørgen Schleimann, 63, kommer til at gå før tiden.
+1	Og	og	CCONJ		
+2	den	den	DET		
+3	udnævnelse	udnævnelse	NOUN		noun.communication
+4	kan	kunne	AUX		
+5	komme	komme	VERB		verb.phenomenon
+6	til	til	ADP		verb.PARTICLE
+7	at	at	PART		
+8	betyde	betyde	VERB		verb.stative
+9	,	,	PUNCT		
+10	at	at	SCONJ		
+11	den	den	DET		
+12	hidtidige	hidtidig	ADJ		adj.time
+13	direktør	direktør	NOUN		noun.person
+14	,	,	PUNCT		
+15	Jørgen	jørgen	PROPN		noun.person
+16	Schleimann	schleimann	PROPN		noun.person
+17	,	,	PUNCT		
+18	63	63	PRON		
+19	,	,	PUNCT		
+20	kommer	komme	VERB		verb.PARTICLE
+21	til	til	ADP		verb.PARTICLE
+22	at	at	PART		
+23	gå	gå	VERB		verb.act
+24	før	før	ADP		
+25	tiden	tid	NOUN		noun.time
+26	.	.	PUNCT		
+
+# newdoc id = DDT-1416.tsv
+# sent_id = 3
+# text =  Bestyrelsesformanden for TV 2, professor Jørn Henrik Petersen, afviser ikke, at den ny chef kan tiltræde, før Schleimanns kontrakt udløber til oktober.
+1	Bestyrelsesformanden	bestyrelsesformand	NOUN		noun.person
+2	for	for	ADP		
+3	TV	tv	NOUN		noun.institution
+4	2	2	NUM		noun.institution
+5	,	,	PUNCT		
+6	professor	professor	NOUN		noun.person
+7	Jørn	jørn	PROPN		noun.person
+8	Henrik	henrik	PROPN		noun.person
+9	Petersen	petersen	PROPN		noun.person
+10	,	,	PUNCT		
+11	afviser	afvise	VERB		verb.communication
+12	ikke	ikke	ADV		
+13	,	,	PUNCT		
+14	at	at	SCONJ		
+15	den	den	DET		
+16	ny	ny	ADJ		adj.time
+17	chef	chef	NOUN		noun.person
+18	kan	kunne	AUX		
+19	tiltræde	tiltræde	VERB		verb.act
+20	,	,	PUNCT		
+21	før	føre	SCONJ		
+22	Schleimanns	schleimanns	PROPN		noun.person
+23	kontrakt	kontrakt	NOUN		noun.communication
+24	udløber	udløbe	VERB		verb.phenomenon
+25	til	til	ADP		
+26	oktober	oktober	NOUN		noun.time
+27	.	.	PUNCT		
+
+# newdoc id = DDT-1416.tsv
+# sent_id = 4
+# text = " Det afhænger af personen, om der så skal ske en overlapning i en periode eller hvad," siger bestyrelsesformanden.
+1	"	"	PUNCT		
+2	Det	det	PRON		
+3	afhænger	afhænge	VERB		verb.phenomenon
+4	af	af	ADP		
+5	personen	person	NOUN		noun.person
+6	,	,	PUNCT		
+7	om	om	SCONJ		
+8	der	der	ADV		
+9	så	så	ADV		
+10	skal	skulle	AUX		
+11	ske	ske	VERB		verb.phenomenon
+12	en	en	DET		
+13	overlapning	overlapning	NOUN		noun.abstract
+14	i	i	ADP		
+15	en	en	DET		
+16	periode	periode	NOUN		noun.time
+17	eller	eller	CCONJ		
+18	hvad	hvad	PRON		
+19	,	,	PUNCT		
+20	"	"	PUNCT		
+21	siger	sige	VERB		verb.communication
+22	bestyrelsesformanden	bestyrelsesformand	NOUN		noun.person
+23	.	.	PUNCT		
+
+# newdoc id = DDT-1416.tsv
+# sent_id = 5
+# text =  Det normale i erhvervslivet i den slags situationer er, når en ny chef tiltræder, så ryger den gamle ud- uanset om hans kontrakt varer længere.
+1	Det	det	DET		
+2	normale	normal	ADJ		adj.all
+3	i	i	ADP		
+4	erhvervslivet	erhvervsliv	NOUN		noun.institution
+5	i	i	ADP		
+6	den	den	DET		
+7	slags	slags	NOUN		noun.abstract
+8	situationer	situation	NOUN		noun.state
+9	er	være	VERB		verb.stative
+10	,	,	PUNCT		
+11	når	når	SCONJ		
+12	en	en	DET		
+13	ny	ny	ADJ		adj.time
+14	chef	chef	NOUN		noun.person
+15	tiltræder	tiltræde	VERB		verb.act
+16	,	,	PUNCT		
+17	så	så	ADV		
+18	ryger	ryge	VERB		verb.phenomenon
+19	den	den	DET		
+20	gamle	gammel	ADJ		adj.time
+21	ud	ud	ADV		verb.PARTICLE
+22	-	-	PUNCT		
+23	uanset	uanset	ADP		
+24	om	om	SCONJ		
+25	hans	hans	DET		
+26	kontrakt	kontrakt	NOUN		noun.communication
+27	varer	vare	VERB		verb.phenomenon
+28	længere	lang	ADV		
+29	.	.	PUNCT		
+
+# newdoc id = DDT-1416.tsv
+# sent_id = 6
+# text =  Det kan også ske i Schleimanns tilfælde, men ikke nødvendigvis.
+1	Det	det	PRON		
+2	kan	kunne	AUX		
+3	også	også	ADV		
+4	ske	ske	VERB		verb.phenomenon
+5	i	i	ADP		
+6	Schleimanns	schleimanns	PROPN		noun.person
+7	tilfælde	tilfælde	NOUN		noun.state
+8	,	,	PUNCT		
+9	men	men	CCONJ		
+10	ikke	ikke	ADV		
+11	nødvendigvis	nødvendigvis	ADV		
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1416.tsv
+# sent_id = 7
+# text =  PIKANT PROBLEM
+1	PIKANT	pikant	ADJ		adj.all
+2	PROBLEM	problem	NOUN		noun.cognition
+
+# newdoc id = DDT-1416.tsv
+# sent_id = 8
+# text =  Et lidt pikant problem i samme forbindelse er, hvordan Schleimanns sekretær, hans samleverske, Annie Gertz' stilling bliver.
+1	Et	en	DET		
+2	lidt	lidt	ADJ		
+3	pikant	pikant	NOUN		adj.all
+4	problem	problem	NOUN		noun.cognition
+5	i	i	ADP		
+6	samme	samme	ADJ		adj.all
+7	forbindelse	forbindelse	NOUN		noun.relation
+8	er	være	VERB		verb.stative
+9	,	,	PUNCT		
+10	hvordan	hvordan	ADV		
+11	Schleimanns	schleimanns	PROPN		noun.person
+12	sekretær	sekretær	NOUN		noun.person
+13	,	,	PUNCT		
+14	hans	hans	DET		
+15	samleverske	samleverske	NOUN		noun.person
+16	,	,	PUNCT		
+17	Annie	annie	PROPN		noun.person
+18	Gertz'	gertz'	PROPN		noun.person
+19	stilling	stilling	NOUN		noun.attribute
+20	bliver	blive	VERB		verb.stative
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1416.tsv
+# sent_id = 9
+# text =  TV_2-bestyrelsen var i_går samlet, og selv_om alle er meget hemmelighedsfulde, så menes det nu, at Jørn Henrik Petersen og det øvrige ansættelsesudvalg har fået bemyndigelse til at lave en kontrakt med en bestemt person.
+1	TV_2-bestyrelsen	tv_2-bestyr	NOUN		noun.person
+2	var	være	AUX		verb.stative
+3	i_går	i_går	ADJ		
+4	samlet	samle	NOUN		adj.all
+5	,	,	PUNCT		
+6	og	og	CCONJ		
+7	selv_om	selv_om	X		
+8	alle	al	ADJ		
+9	er	være	AUX		verb.stative
+10	meget	megen	ADV		
+11	hemmelighedsfulde	hemmelighedsfuld	ADJ		adj.all
+12	,	,	PUNCT		
+13	så	så	ADV		
+14	menes	mene	VERB		verb.cognition
+15	det	det	PRON		
+16	nu	nu	ADV		
+17	,	,	PUNCT		
+18	at	at	SCONJ		
+19	Jørn	jørn	PROPN		noun.person
+20	Henrik	henrik	PROPN		noun.person
+21	Petersen	petersen	PROPN		noun.person
+22	og	og	CCONJ		
+23	det	det	DET		
+24	øvrige	øvrig	ADJ		adj.all
+25	ansættelsesudvalg	ansættelsesudvalg	NOUN		noun.person
+26	har	have	AUX		
+27	fået	få	VERB		verb.possession
+28	bemyndigelse	bemyndigelse	NOUN		noun.communication
+29	til	til	ADP		
+30	at	at	PART		
+31	lave	lave	VERB		verb.creation
+32	en	en	DET		
+33	kontrakt	kontrakt	NOUN		noun.communication
+34	med	med	ADP		
+35	en	en	DET		
+36	bestemt	bestemt	ADJ		adj.all
+37	person	person	NOUN		noun.person
+38	.	.	PUNCT		
+

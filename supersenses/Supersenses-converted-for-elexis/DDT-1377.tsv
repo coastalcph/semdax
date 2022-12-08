@@ -1,0 +1,221 @@
+# newdoc id = DDT-1377.tsv
+# sent_id = 1
+# text =  Situationen er, at Lars Olsen endnu har det sidste år tilbage af sin kontrakt med Trabzonspor.
+1	Situationen	situation	NOUN		noun.state
+2	er	være	VERB		verb.social
+3	,	,	PUNCT		
+4	at	at	SCONJ		
+5	Lars	lars	PROPN		noun.person
+6	Olsen	olsen	PROPN		noun.person
+7	endnu	endnu	ADV		
+8	har	have	VERB		verb.stative
+9	det	det	DET		
+10	sidste	sidste	ADJ		adj.time
+11	år	år	NOUN		noun.time
+12	tilbage	tilbage	ADV		
+13	af	af	ADP		
+14	sin	sin	DET		
+15	kontrakt	kontrakt	NOUN		noun.communication
+16	med	med	ADP		
+17	Trabzonspor	trabzonspor	PROPN		noun.institution
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1377.tsv
+# sent_id = 2
+# text =  Men ikke_desto_mindre vrimler aviserne med forlydender om, at landsholdets anfører skulle være på vej til en af Istanbuls tre topklubber, Besiktas, Fenerbache eller Galatasaray.
+1	Men	men	CCONJ		
+2	ikke_desto_mindre	ikke_desto_mindre	X		
+3	vrimler	vrimle	VERB		verb.phenomenon
+4	aviserne	avis	NOUN		noun.communication
+5	med	med	ADP		
+6	forlydender	forlydende	NOUN		noun.communication
+7	om	om	ADP		
+8	,	,	PUNCT		
+9	at	at	SCONJ		
+10	landsholdets	landshold	NOUN		noun.person
+11	anfører	anfører	NOUN		noun.person
+12	skulle	skulle	AUX		
+13	være	være	VERB		verb.motion
+14	på	på	ADP		verb.COLL
+15	vej	vej	NOUN		verb.COLL
+16	til	til	ADP		
+17	en	en	PRON		
+18	af	af	ADP		
+19	Istanbuls	istanbuls	PROPN		noun.location
+20	tre	tre	ADJ		
+21	topklubber	topklub	NOUN		noun.institution
+22	,	,	PUNCT		
+23	Besiktas	besiktas	PROPN		noun.institution
+24	,	,	PUNCT		
+25	Fenerbache	fenerbache	PROPN		noun.institution
+26	eller	eller	CCONJ		
+27	Galatasaray	galatasaray	PROPN		noun.institution
+28	.	.	PUNCT		
+
+# newdoc id = DDT-1377.tsv
+# sent_id = 3
+# text = " Jeg lægger ikke spor i denne rygte-regn," siger Lars Olsen til B.T..
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	lægger	lægge	VERB		verb.cognition
+4	ikke	ikke	ADV		
+5	spor	spor	NOUN		noun.abstract
+6	i	i	ADP		
+7	denne	denne	DET		
+8	rygte-regn	rygte-regn	NOUN		noun.communication
+9	,	,	PUNCT		
+10	"	"	PUNCT		
+11	siger	sige	VERB		verb.communication
+12	Lars	lars	PROPN		noun.person
+13	Olsen	olsen	PROPN		noun.person
+14	til	til	ADP		
+15	B.T.	b.t.	PROPN		noun.person
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1377.tsv
+# sent_id = 4
+# text = " Vi er midt i den mest hektiske" handelstid" i tyrkisk fodbold.
+1	"	"	PUNCT		
+2	Vi	vi	PRON		
+3	er	være	VERB		verb.stative
+4	midt	midt	ADV		
+5	i	i	ADP		
+6	den	den	DET		
+7	mest	megen	ADV		
+8	hektiske	hektisk	ADJ		adj.all
+9	"	"	PUNCT		
+10	handelstid	handelstid	NOUN		noun.time
+11	"	"	PUNCT		
+12	i	i	ADP		
+13	tyrkisk	tyrkisk	ADJ		adj.social
+14	fodbold	fodbold	NOUN		noun.domain
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1377.tsv
+# sent_id = 5
+# text =  Alle gætter alt om alle.
+1	Alle	al	ADJ		
+2	gætter	gætte	VERB		verb.cognition
+3	alt	al	ADJ		
+4	om	om	ADP		
+5	alle	al	ADJ		
+6	.	.	PUNCT		
+
+# newdoc id = DDT-1377.tsv
+# sent_id = 6
+# text =  Selv opdager jeg vist kun et fåtal af alle rygterne, fordi jeg kun en sjælden gang køber en tyrkisk avis af hensyn til TV-programmerne.
+1	Selv	selv	ADV		
+2	opdager	opdage	VERB		verb.cognition
+3	jeg	jeg	PRON		
+4	vist	vise	VERB		
+5	kun	kun	ADV		
+6	et	en	DET		
+7	fåtal	fåtal	NOUN		noun.quantity
+8	af	af	ADP		
+9	alle	al	ADJ		
+10	rygterne	rygte	NOUN		noun.communication
+11	,	,	PUNCT		
+12	fordi	fordi	SCONJ		
+13	jeg	jeg	PRON		
+14	kun	kun	ADV		
+15	en	en	DET		
+16	sjælden	sjælden	ADJ		adj.time
+17	gang	gang	NOUN		noun.abstract
+18	køber	købe	VERB		verb.possession
+19	en	en	DET		
+20	tyrkisk	tyrkisk	ADJ		adj.social
+21	avis	avis	NOUN		noun.communication
+22	af	af	ADP		
+23	hensyn	hensyn	NOUN		noun.cognition
+24	til	til	ADP		
+25	TV-programmerne	tv-program	NOUN		noun.communication
+26	.	.	PUNCT		
+
+# newdoc id = DDT-1377.tsv
+# sent_id = 7
+# text =  I sidste weekend spurgte min klub- og værelses-kammerat pludselig, hvorfor jeg ville til fransk fodbold.
+1	I	i	ADP		
+2	sidste	sidste	ADJ		adj.time
+3	weekend	weekend	NOUN		noun.time
+4	spurgte	spørge	VERB		verb.communication
+5	min	min	DET		
+6	klub-	klub-	X		noun.person
+7	og	og	CCONJ		
+8	værelses-kammerat	værelses-kammerat	X		noun.person
+9	pludselig	pludselig	ADV		
+10	,	,	PUNCT		
+11	hvorfor	hvorfor	ADV		
+12	jeg	jeg	PRON		
+13	ville	ville	VERB		
+14	til	til	ADP		
+15	fransk	fransk	ADJ		adj.social
+16	fodbold	fodbold	NOUN		noun.domain
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1377.tsv
+# sent_id = 8
+# text =  Det viste sig, at en avis mente at vide, at franske Lyon, som vi slog i den anden Europa_Cup-runde sidste efterår, skulle være interesseret i mig.
+1	Det	det	PRON		
+2	viste	vise	VERB		verb.phenomenon
+3	sig	sig	PRON		verb.REFLPRON
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	en	en	DET		
+7	avis	avis	NOUN		noun.communication
+8	mente	mene	VERB		verb.cognition
+9	at	at	PART		
+10	vide	vide	VERB		verb.cognition
+11	,	,	PUNCT		
+12	at	at	SCONJ		
+13	franske	fransk	ADJ		adj.social
+14	Lyon	lyon	PROPN		noun.institution
+15	,	,	PUNCT		
+16	som	som	ADP		
+17	vi	vi	PRON		
+18	slog	slå	VERB		verb.competition
+19	i	i	ADP		
+20	den	den	DET		
+21	anden	anden	DET		adj.time
+22	Europa_Cup-runde	europa_cup-rund	NOUN		noun.event
+23	sidste	sidste	ADJ		adj.time
+24	efterår	efterår	NOUN		noun.time
+25	,	,	PUNCT		
+26	skulle	skulle	AUX		
+27	være	være	AUX		verb.cognition
+28	interesseret	interessere	VERB		adj.mental
+29	i	i	ADP		
+30	mig	jeg	PRON		
+31	.	.	PUNCT		
+
+# newdoc id = DDT-1377.tsv
+# sent_id = 9
+# text =  Men som sagt: Mit faste holdepunkt er nu en gang min kontrakt på endnu et år i Trabzonspor, hvor jeg også befinder mig fortrinligt."
+1	Men	men	CCONJ		
+2	som	som	ADP		
+3	sagt	sige	VERB		verb.communication
+4	:	:	PUNCT		
+5	Mit	min	DET		
+6	faste	fast	ADJ		adj.all
+7	holdepunkt	holdepunkt	NOUN		noun.cognition
+8	er	være	AUX		verb.stative
+9	nu	nu	ADV		
+10	en	en	DET		
+11	gang	gang	NOUN		
+12	min	min	DET		
+13	kontrakt	kontrakt	NOUN		noun.communication
+14	på	på	ADP		
+15	endnu	endnu	ADV		
+16	et	en	DET		
+17	år	år	NOUN		noun.time
+18	i	i	ADP		
+19	Trabzonspor	trabzonspor	PROPN		noun.institution
+20	,	,	PUNCT		
+21	hvor	hvor	ADV		
+22	jeg	jeg	PRON		
+23	også	også	ADV		
+24	befinder	befinde	VERB		verb.stative
+25	mig	jeg	PRON		
+26	fortrinligt	fortrinlig	ADV		adj.all
+27	.	.	PUNCT		
+28	"	"	PUNCT		
+

@@ -1,0 +1,1133 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # webanno.custom.Le | value
+#id=1
+#text=Men han slap uden større skader.
+1-1	Men	men	CC:----:--:----	_	
+1-2	han	han	PP:s-nc:--:-3n-	_	
+1-3	slap	slippe	VF:----:ta:----	_	
+1-4	uden	uden	T-:----:--:----	_	
+1-5	større	stor	AC:##u#:--:c---	_	
+1-6	skader	skade	NC:piu#:--:----	skade1-1a	
+1-7	.	.	ZP	_	
+
+#id=2
+#text=En langvarig skade i knæet satte for lidt over et år siden en stopper for den rutinerede fodboldspillers fodboldliv.
+2-1	En	en	PI:s-uc:--:----	_	
+2-2	langvarig	langvarig	AC:siuc:--:p---	_	
+2-3	skade	skade	NC:siuc:--:----	skade1-1a	
+2-4	i	i	T-:----:--:----	_	
+2-5	knæet	knæ	NC:sdun:--:----	_	
+2-6	satte	sætte	VF:----:ta:----	_	
+2-7	for	for	T-:----:--:----	_	
+2-8	lidt	lidt	AD:----:--:p---	_	
+2-9	over	over	T-:----:--:----	_	
+2-10	et	en	PI:s-un:--:----	_	
+2-11	år	år	NC:siun:--:----	_	
+2-12	siden	siden	T-:----:--:----	_	
+2-13	en	en	PI:s-uc:--:----	_	
+2-14	stopper	stopper	NC:siuc:--:----	_	
+2-15	for	for	T-:----:--:----	_	
+2-16	den	den	PM:s-uc:--:----	_	
+2-17	rutinerede	rutineret	AC:sdu#:--:p---	_	
+2-18	fodboldspillers	fodboldspiller	NC:sigc:--:----	_	
+2-19	fodboldliv	fodboldliv	NC:siun:--:----	_	
+2-20	.	.	ZP	_	
+
+#id=3
+#text=Hendes holdning til sin kidnapper bekymrer psykologer, der er bange for, at Natascha Kampusch har taget skade og er blevet sær.
+3-1	Hendes	hendes	PO:#--#:--:-3ns	_	
+3-2	holdning	holdning	NC:siuc:--:----	_	
+3-3	til	til	T-:----:--:----	_	
+3-4	sin	sin	PO:s--c:--:-3ys	_	
+3-5	kidnapper	kidnapper	NC:siuc:--:----	_	
+3-6	bekymrer	bekymre	VF:----:sa:----	_	
+3-7	psykologer	psykolog	NC:piu#:--:----	_	
+3-8	,	,	ZD	_	
+3-9	der	der	US:----:--:----	_	
+3-10	er	være	VF:----:sa:----	_	
+3-11	bange	bange	AC:§§u§:--:p---	_	
+3-12	for	for	T-:----:--:----	_	
+3-13	,	,	ZD	_	
+3-14	at	at	CS:----:--:----	_	
+3-15	Natascha	Natascha	NP:siu#:--:----	_	
+3-16	Kampusch	Kampusch	NP:siu#:--:----	_	
+3-17	har	have	VF:----:sa:----	_	
+3-18	taget	tage	VT:siu#:t-:----	_	
+3-19	skade	skade	NC:siuc:--:----	skade-F-tage/lide-skade	
+3-20	og	og	CC:----:--:----	_	
+3-21	er	være	VF:----:sa:----	_	
+3-22	blevet	blive	VT:siu#:t-:----	_	
+3-23	sær	sær	AC:siuc:--:p---	_	
+3-24	.	.	ZP	_	
+
+#id=4
+#text=Han havde dog pådraget sig skaden under en fodboldkamp, forklarede han.
+4-1	Han	han	PP:s-nc:--:-3n-	_	
+4-2	havde	have	VF:----:ta:----	_	
+4-3	dog	dog	D-:----:--:u---	_	
+4-4	pådraget	pådrage	VT:siu#:t-:----	_	
+4-5	sig	sig	PP:#-u#:--:-3y-	_	
+4-6	skaden	skade	NC:sduc:--:----	skade1-1a	
+4-7	under	under	T-:----:--:----	_	
+4-8	en	en	PI:s-uc:--:----	_	
+4-9	fodboldkamp	fodboldkamp	NC:siuc:--:----	_	
+4-10	,	,	ZD	_	
+4-11	forklarede	forklare	VF:----:ta:----	_	
+4-12	han	han	PP:s-nc:--:-3n-	_	
+4-13	.	.	ZP	_	
+
+#id=5
+#text=I 2002 kom han alvorligt til skade under et racerløb.
+5-1	I	i	T-:----:--:----	_	
+5-2	2002	2002	LC:--u-:--:----	_	
+5-3	kom	komme	VF:----:ta:----	_	
+5-4	han	han	PP:s-nc:--:-3n-	_	
+5-5	alvorligt	alvorlig	AD:----:--:p---	_	
+5-6	til	til	T-:----:--:----	_	
+5-7	skade	skade	NC:siuc:--:----	skade-F-komme-til-skade	
+5-8	under	under	T-:----:--:----	_	
+5-9	et	en	PI:s-un:--:----	_	
+5-10	racerløb	racerløb	NC:siun:--:----	_	
+5-11	.	.	ZP	_	
+
+#id=6
+#text=... repræsenterede Danmark ved EM i 1996 i England og VM i 1998 i Frankrig, mens han på grund af skader måtte sidde over ved EM i 2000 i Belgien og Holland.
+6-1	.	.	LC:--u-:--:----	_	
+6-2	.	.	ZP	_	
+6-3	.	.	ZP	_	
+6-4	repræsenterede	repræsentere	VF:----:ta:----	_	
+6-5	Danmark	Danmark	NP:siu#:--:----	_	
+6-6	ved	ved	T-:----:--:----	_	
+6-7	EM	EM	NP:siu#:--:----	_	
+6-8	i	i	T-:----:--:----	_	
+6-9	1996	1996	LC:--u-:--:----	_	
+6-10	i	i	T-:----:--:----	_	
+6-11	England	England	NP:siu#:--:----	_	
+6-12	og	og	CC:----:--:----	_	
+6-13	VM	VM	NP:siu#:--:----	_	
+6-14	i	i	T-:----:--:----	_	
+6-15	1998	1998	LC:--u-:--:----	_	
+6-16	i	i	T-:----:--:----	_	
+6-17	Frankrig	Frankrig	NP:siu#:--:----	_	
+6-18	,	,	ZD	_	
+6-19	mens	mens	CS:----:--:----	_	
+6-20	han	han	PP:s-nc:--:-3n-	_	
+6-21	på	på	T-:----:--:----	_	
+6-22	grund	grund	NC:siuc:--:----	_	
+6-23	af	af	T-:----:--:----	_	
+6-24	skader	skade	NC:piu#:--:----	skade1-1a	
+6-25	måtte	måtte	VF:----:ta:----	_	
+6-26	sidde	sidde	VI:----:-a:----	_	
+6-27	over	over	D-:----:--:u---	_	
+6-28	ved	ved	T-:----:--:----	_	
+6-29	EM	EM	NP:siu#:--:----	_	
+6-30	i	i	T-:----:--:----	_	
+6-31	2000	2000	LC:--u-:--:----	_	
+6-32	i	i	T-:----:--:----	_	
+6-33	Belgien	Belgien	NP:siu#:--:----	_	
+6-34	og	og	CC:----:--:----	_	
+6-35	Holland	Holland	NP:siu#:--:----	_	
+6-36	.	.	ZP	_	
+
+#id=7
+#text=Man vil undersøge, om blodproppen har gjort nogen skade, evt.
+7-1	Man	man	PI:#-uc:--:----	_	
+7-2	vil	ville	VF:----:sa:----	_	
+7-3	undersøge	undersøge	VI:----:-a:----	_	
+7-4	,	,	ZD	_	
+7-5	om	om	CS:----:--:----	_	
+7-6	blodproppen	blodprop	NC:sduc:--:----	_	
+7-7	har	have	VF:----:sa:----	_	
+7-8	gjort	gøre	VT:siu#:t-:----	_	
+7-9	nogen	nogen	PI:s-uc:--:----	_	
+7-10	skade	skade	NC:siuc:--:----	skade1-1a	
+7-11	,	,	ZD	_	
+7-12	evt	evt	XS:----:--:----	_	
+7-13	.	.	ZP	_	
+
+#id=8
+#text=naturlig-Det kunne hun naturligvis vis  ikke have siddende på sig og kommanderede hele Photoshop-afdelingen ind for at reparere " skaderne", så hun ikke  lignede en på de 41 år, hun nu engang er.
+8-1	naturlig	naturlig	AC:siuc:--:p---	_	
+8-2	-	-	NC:piu#:--:----	_	
+8-3	Det	Det	XY:----:--:----	_	
+8-4	kunne	kunne	VF:----:ta:----	_	
+8-5	hun	hun	PP:s-nc:--:-3n-	_	
+8-6	naturligvis	naturligvis	D-:----:--:u---	_	
+8-7	vis	vis	AC:siuc:--:p---	_	
+8-8	ikke	ikke	D-:----:--:u---	_	
+8-9	have	have	VI:----:-a:----	_	
+8-10	siddende	sidde	VP:##u#:s-:----	_	
+8-11	på	på	T-:----:--:----	_	
+8-12	sig	sig	PP:#-u#:--:-3y-	_	
+8-13	og	og	CC:----:--:----	_	
+8-14	kommanderede	kommandere	VF:----:ta:----	_	
+8-15	hele	hel	AC:sdu#:--:p---	_	
+8-16	Photoshop	Photoshop	NP:siu#:--:----	_	
+8-17	-	-	ZH	_	
+8-18	afdelingen	afdeling	NC:sduc:--:----	_	
+8-19	ind	ind	D-:----:--:u---	_	
+8-20	for	for	T-:----:--:----	_	
+8-21	at	at	UI:----:--:----	_	
+8-22	reparere	reparere	VI:----:-a:----	_	
+8-23	"	"	ZI	_	
+8-24	skaderne	skade	NC:pdu#:--:----	skade1-1a	
+8-25	"	"	ZI	_	
+8-26	,	,	ZD	_	
+8-27	så	så	CS:----:--:----	_	
+8-28	hun	hun	PP:s-nc:--:-3n-	_	
+8-29	ikke	ikke	D-:----:--:u---	_	
+8-30	lignede	ligne	VF:----:ta:----	_	
+8-31	en	en	PI:s-uc:--:----	_	
+8-32	på	på	T-:----:--:----	_	
+8-33	de	den	PM:p-u#:--:----	_	
+8-34	41	41	LC:--u-:--:----	_	
+8-35	år	år	NC:piu#:--:----	_	
+8-36	,	,	ZD	_	
+8-37	hun	hun	PP:s-nc:--:-3n-	_	
+8-38	nu	nu	D-:----:--:u---	_	
+8-39	engang	engang	D-:----:--:u---	_	
+8-40	er	være	VF:----:sa:----	_	
+8-41	.	.	ZP	_	
+
+#id=9
+#text= Jeg vil stoppe karrieren med hænderne i vejret, siger Reda, som foreløbig har fået comebacket udsat flere gange på grund af skader og problemer med " røvhullet" Mogens Palle.
+9-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+9-2	vil	ville	VF:----:sa:----	_	
+9-3	stoppe	stoppe	VI:----:-a:----	_	
+9-4	karrieren	karriere	NC:sduc:--:----	_	
+9-5	med	med	T-:----:--:----	_	
+9-6	hænderne	hånd	NC:pdu#:--:----	_	
+9-7	i	i	T-:----:--:----	_	
+9-8	vejret	vejr	NC:sdun:--:----	_	
+9-9	,	,	ZD	_	
+9-10	siger	sige	VF:----:sa:----	_	
+9-11	Reda	Reda	NP:siu#:--:----	_	
+9-12	,	,	ZD	_	
+9-13	som	som	US:----:--:----	_	
+9-14	foreløbig	foreløbig	AD:----:--:p---	_	
+9-15	har	have	VF:----:sa:----	_	
+9-16	fået	få	VT:siu#:t-:----	_	
+9-17	comebacket	comeback	NC:sdun:--:----	_	
+9-18	udsat	udsat	AD:----:--:p---	_	
+9-19	flere	mange	AC:##u#:--:c---	_	
+9-20	gange	gang	NC:piu#:--:----	_	
+9-21	på	på	T-:----:--:----	_	
+9-22	grund	grund	NC:siuc:--:----	_	
+9-23	af	af	T-:----:--:----	_	
+9-24	skader	skade	NC:piu#:--:----	skade1-1a	
+9-25	og	og	CC:----:--:----	_	
+9-26	problemer	problem	NC:piu#:--:----	_	
+9-27	med	med	T-:----:--:----	_	
+9-28	"	"	ZI	_	
+9-29	røvhullet	røvhul	NC:sdun:--:----	_	
+9-30	"	"	ZI	_	
+9-31	Mogens	s	NP:siu#:--:----	_	
+9-32	Palle	Palle	NP:siu#:--:----	_	
+9-33	.	.	ZP	_	
+
+#id=10
+#text= Ingen af dem kunne dog holde styr på den nye Brøndby-træner Henrik Jensens søn Mike Jensen, som i sin gigabrandert flere gange var ved at skvatte, men undgik en mulig skade og et par pinlige fald ved at gribe fat om livet på en letpåklædt brunette.
+10-1	Ingen	ingen	PI:s-uc:--:----	_	
+10-2	af	af	T-:----:--:----	_	
+10-3	dem	de	PP:p-u#:--:-3n-	_	
+10-4	kunne	kunne	VF:----:ta:----	_	
+10-5	dog	dog	D-:----:--:u---	_	
+10-6	holde	holde	VI:----:-a:----	_	
+10-7	styr	styr	NC:siun:--:----	_	
+10-8	på	på	T-:----:--:----	_	
+10-9	den	den	PM:s-uc:--:----	_	
+10-10	nye	ny	AC:sdu#:--:p---	_	
+10-11	Brøndby	Brøndby	NW:----:--:----	_	
+10-12	-	-	ZH	_	
+10-13	træner	træner	NC:siuc:--:----	_	
+10-14	Henrik	Henrik	NP:siu#:--:----	_	
+10-15	Jensens	Jensen	NP:sig#:--:----	_	
+10-16	søn	søn	NC:siuc:--:----	_	
+10-17	Mike	Mike	NP:siu#:--:----	_	
+10-18	Jensen	Jensen	NP:siu#:--:----	_	
+10-19	,	,	ZD	_	
+10-20	som	som	US:----:--:----	_	
+10-21	i	i	T-:----:--:----	_	
+10-22	sin	sin	PO:s--c:--:-3ys	_	
+10-23	gigabrandert	gigabrandert	NC:siuc:--:----	_	
+10-24	flere	mange	AC:##u#:--:c---	_	
+10-25	gange	gang	NC:piu#:--:----	_	
+10-26	var	være	VF:----:ta:----	_	
+10-27	ved	ved	T-:----:--:----	_	
+10-28	at	at	UI:----:--:----	_	
+10-29	skvatte	skvatte	VI:----:-a:----	_	
+10-30	,	,	ZD	_	
+10-31	men	men	CC:----:--:----	_	
+10-32	undgik	undgå	VF:----:ta:----	_	
+10-33	en	en	PI:s-uc:--:----	_	
+10-34	mulig	mulig	AC:siuc:--:p---	_	
+10-35	skade	skade	NC:siuc:--:----	skade1-1a	
+10-36	og	og	CC:----:--:----	_	
+10-37	et	en	PI:s-un:--:----	_	
+10-38	par	par	NC:siun:--:----	_	
+10-39	pinlige	pinlig	AC:p#u#:--:p---	_	
+10-40	fald	fald	NC:piu#:--:----	_	
+10-41	ved	ved	T-:----:--:----	_	
+10-42	at	at	UI:----:--:----	_	
+10-43	gribe	gribe	VI:----:-a:----	_	
+10-44	fat	fat	D-:----:--:u---	_	
+10-45	om	om	T-:----:--:----	_	
+10-46	livet	liv	NC:sdun:--:----	_	
+10-47	på	på	T-:----:--:----	_	
+10-48	en	en	PI:s-uc:--:----	_	
+10-49	letpåklædt	letpåklædt	AC:siuc:--:p---	_	
+10-50	brunette	brunette	NC:siuc:--:----	_	
+10-51	.	.	ZP	_	
+
+#id=11
+#text=Falck havde mandag eftermiddag modtaget 820 anmeldelser om vandskader, og man havde ikke tidligere registreret så mange skader efter et enkelt regnskyl.
+11-1	Falck	Falck	NP:siu#:--:----	_	
+11-2	havde	have	VF:----:ta:----	_	
+11-3	mandag	mandag	NC:siuc:--:----	_	
+11-4	eftermiddag	eftermiddag	NC:siuc:--:----	_	
+11-5	modtaget	modtage	VT:siu#:t-:----	_	
+11-6	820	820	LC:--u-:--:----	_	
+11-7	anmeldelser	anmeldelse	NC:piu#:--:----	_	
+11-8	om	om	T-:----:--:----	_	
+11-9	vandskader	vandskade	NC:piu#:--:----	_	
+11-10	,	,	ZD	_	
+11-11	og	og	CC:----:--:----	_	
+11-12	man	man	PI:#-uc:--:----	_	
+11-13	havde	have	VF:----:ta:----	_	
+11-14	ikke	ikke	D-:----:--:u---	_	
+11-15	tidligere	tidlig	AD:----:--:c---	_	
+11-16	registreret	registrere	VT:siu#:t-:----	_	
+11-17	så	så	D-:----:--:u---	_	
+11-18	mange	mangen	AC:p#u#:--:p---	_	
+11-19	skader	skade	NC:piu#:--:----	skade1-1	
+11-20	efter	efter	T-:----:--:----	_	
+11-21	et	en	PI:s-un:--:----	_	
+11-22	enkelt	enkelt	AC:siu§:--:p---	_	
+11-23	regnskyl	regnskyl	NC:siun:--:----	_	
+11-24	.	.	ZP	_	
+
+#id=12
+#text=Der skete ikke blot materielle skader, men også befolkningen blev ramt.
+12-1	Der	der	US:----:--:----	_	
+12-2	skete	ske	VF:----:ta:----	_	
+12-3	ikke	ikke	D-:----:--:u---	_	
+12-4	blot	blot	D-:----:--:u---	_	
+12-5	materielle	materiel	AC:p#u#:--:p---	_	
+12-6	skader	skade	NC:piu#:--:----	skade1-1	
+12-7	,	,	ZD	_	
+12-8	men	men	CC:----:--:----	_	
+12-9	også	også	D-:----:--:u---	_	
+12-10	befolkningen	befolkning	NC:sduc:--:----	_	
+12-11	blev	blive	VF:----:ta:----	_	
+12-12	ramt	ramme	VT:siu#:t-:----	_	
+12-13	.	.	ZP	_	
+
+#id=13
+#text=Men det er nok heller ingen skade til, at hun er gift med den 14 år yngre Martin Jørgensen, der sikkert også kan holde gang i den modne grevinde.
+13-1	Men	men	CC:----:--:----	_	
+13-2	det	det	PP:s-un:--:-3n-	_	
+13-3	er	være	VF:----:sa:----	_	
+13-4	nok	nok	D-:----:--:u---	_	
+13-5	heller	heller	D-:----:--:u---	_	
+13-6	ingen	ingen	PI:s-uc:--:----	_	
+13-7	skade	skade	NC:siuc:--:----	skade-F-det-er-ingen-skade-til	
+13-8	til	til	T-:----:--:----	_	
+13-9	,	,	ZD	_	
+13-10	at	at	CS:----:--:----	_	
+13-11	hun	hun	PP:s-nc:--:-3n-	_	
+13-12	er	være	VF:----:sa:----	_	
+13-13	gift	gift	AC:siu§:--:p---	_	
+13-14	med	med	T-:----:--:----	_	
+13-15	den	den	PM:s-uc:--:----	_	
+13-16	14	14	LO:--u#:--:----	_	
+13-17	år	år	NC:siun:--:----	_	
+13-18	yngre	ung	AD:----:--:c---	_	
+13-19	Martin	Martin	NP:siu#:--:----	_	
+13-20	Jørgensen	Jørgensen	NP:siu#:--:----	_	
+13-21	,	,	ZD	_	
+13-22	der	der	US:----:--:----	_	
+13-23	sikkert	sikker	AD:----:--:p---	_	
+13-24	også	også	D-:----:--:u---	_	
+13-25	kan	kunne	VF:----:sa:----	_	
+13-26	holde	holde	VI:----:-a:----	_	
+13-27	gang	gang	NC:siuc:--:----	_	
+13-28	i	i	T-:----:--:----	_	
+13-29	den	den	PM:s-uc:--:----	_	
+13-30	modne	moden	AC:sdu#:--:p---	_	
+13-31	grevinde	grevinde	NC:siuc:--:----	_	
+13-32	.	.	ZP	_	
+
+#id=14
+#text=Også forruden bliver knust, men heldigvis er ingen kommet til skade.
+14-1	Også	også	D-:----:--:u---	_	
+14-2	forruden	forrude	NC:sduc:--:----	_	
+14-3	bliver	blive	VF:----:sa:----	_	
+14-4	knust	knuse	VT:siu#:t-:----	_	
+14-5	,	,	ZD	_	
+14-6	men	men	CC:----:--:----	_	
+14-7	heldigvis	heldigvis	D-:----:--:u---	_	
+14-8	er	være	VF:----:sa:----	_	
+14-9	ingen	ingen	PI:s-uc:--:----	_	
+14-10	kommet	komme	VT:siu#:t-:----	_	
+14-11	til	til	T-:----:--:----	_	
+14-12	skade	skade	NC:siuc:--:----	skade-F-komme-til-skade	
+14-13	.	.	ZP	_	
+
+#id=15
+#text= Den er på vej til service nu, fortæller Allan, der ikke kom til skade.
+15-1	Den	den	PP:s-uc:--:-3n-	_	
+15-2	er	være	VF:----:sa:----	_	
+15-3	på	på	T-:----:--:----	_	
+15-4	vej	vej	NC:siuc:--:----	_	
+15-5	til	til	T-:----:--:----	_	
+15-6	service	service	NC:siun:--:----	_	
+15-7	nu	nu	D-:----:--:u---	_	
+15-8	,	,	ZD	_	
+15-9	fortæller	fortælle	VF:----:sa:----	_	
+15-10	Allan	Allan	NP:siu#:--:----	_	
+15-11	,	,	ZD	_	
+15-12	der	der	US:----:--:----	_	
+15-13	ikke	ikke	D-:----:--:u---	_	
+15-14	kom	komme	VF:----:ta:----	_	
+15-15	til	til	T-:----:--:----	_	
+15-16	skade	skade	NC:siuc:--:----	skade-F-komme-til-skade	
+15-17	.	.	ZP	_	
+
+#id=16
+#text= Jeg kunne jo ikke se hendes skade og tog derfor alt for let på det.
+16-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+16-2	kunne	kunne	VF:----:ta:----	_	
+16-3	jo	jo	D-:----:--:u---	_	
+16-4	ikke	ikke	D-:----:--:u---	_	
+16-5	se	se	VI:----:-a:----	_	
+16-6	hendes	hendes	PO:#--#:--:-3ns	_	
+16-7	skade	skade	NC:siuc:--:----	skade1-1a	
+16-8	og	og	CC:----:--:----	_	
+16-9	tog	tage	VF:----:ta:----	_	
+16-10	derfor	derfor	D-:----:--:u---	_	
+16-11	alt	alt	D-:----:--:u---	_	
+16-12	for	for	T-:----:--:----	_	
+16-13	let	let	--	_	
+16-14	på	på	T-:----:--:----	_	
+16-15	det	det	PP:s-un:--:-3n-	_	
+16-16	.	.	ZP	_	
+
+#id=17
+#text=- Det er ingen skade til at vise sin sårbarhed, siger sangerinden, der betragter sit ægteskab som lykkeligt.
+17-1	-	-	NC:piu#:--:----	_	
+17-2	Det	Det	XY:----:--:----	_	
+17-3	er	være	VF:----:sa:----	_	
+17-4	ingen	ingen	PI:s-uc:--:----	_	
+17-5	skade	skade	NC:siuc:--:----	skade-F-det-er-ingen-skade-til	
+17-6	til	til	T-:----:--:----	_	
+17-7	at	at	UI:----:--:----	_	
+17-8	vise	vise	VI:----:-a:----	_	
+17-9	sin	sin	PO:s--c:--:-3ys	_	
+17-10	sårbarhed	sårbarhed	NC:siuc:--:----	_	
+17-11	,	,	ZD	_	
+17-12	siger	sige	VF:----:sa:----	_	
+17-13	sangerinden	sangerinde	NC:sduc:--:----	_	
+17-14	,	,	ZD	_	
+17-15	der	der	US:----:--:----	_	
+17-16	betragter	betragte	VF:----:sa:----	_	
+17-17	sit	sin	PO:s--n:--:-3ys	_	
+17-18	ægteskab	ægteskab	NC:siun:--:----	_	
+17-19	som	som	US:----:--:----	_	
+17-20	lykkeligt	lykkelig	AD:----:--:p---	_	
+17-21	.	.	ZP	_	
+
+#id=18
+#text= Tidligere havde hun dyrket badminton og  fodbold på højt plan, men det satte et par skader i korsbåndene en stopper for.
+18-1	Tidligere	tidlig	AD:----:--:c---	_	
+18-2	havde	have	VF:----:ta:----	_	
+18-3	hun	hun	PP:s-nc:--:-3n-	_	
+18-4	dyrket	dyrke	VT:siu#:t-:----	_	
+18-5	badminton	badminton	NC:siuc:--:----	_	
+18-6	og	og	CC:----:--:----	_	
+18-7	fodbold	fodbold	NC:siuc:--:----	_	
+18-8	på	på	T-:----:--:----	_	
+18-9	højt	høj	AC:siun:--:p---	_	
+18-10	plan	plan	NC:siun:--:----	_	
+18-11	,	,	ZD	_	
+18-12	men	men	CC:----:--:----	_	
+18-13	det	det	PP:s-un:--:-3n-	_	
+18-14	satte	sætte	VF:----:ta:----	_	
+18-15	et	en	PI:s-un:--:----	_	
+18-16	par	par	NC:siun:--:----	_	
+18-17	skader	skade	NC:piu#:--:----	skade1-1a	
+18-18	i	i	T-:----:--:----	_	
+18-19	korsbåndene	korsbånd	NC:pdu#:--:----	_	
+18-20	en	en	PI:s-uc:--:----	_	
+18-21	stopper	stopper	NC:siuc:--:----	_	
+18-22	for	for	T-:----:--:----	_	
+18-23	.	.	ZP	_	
+
+#id=19
+#text=Ingen kom heldigvis alvorligt til  skade, men brandvæsenet måtte natten igennem og hele næste dag sprøjte vand på skibet, så det ikke knækkede midt over.
+19-1	Ingen	ingen	PI:s-uc:--:----	_	
+19-2	kom	komme	VF:----:ta:----	_	
+19-3	heldigvis	heldigvis	D-:----:--:u---	_	
+19-4	alvorligt	alvorlig	AD:----:--:p---	_	
+19-5	til	til	T-:----:--:----	_	
+19-6	skade	skade	NC:siuc:--:----	skade-F-komme-til-skade	
+19-7	,	,	ZD	_	
+19-8	men	men	CC:----:--:----	_	
+19-9	brandvæsenet	brandvæsen	NC:sdun:--:----	_	
+19-10	måtte	måtte	VF:----:ta:----	_	
+19-11	natten	nat	NC:sduc:--:----	_	
+19-12	igennem	igennem	T-:----:--:----	_	
+19-13	og	og	CC:----:--:----	_	
+19-14	hele	hel	AC:sdu#:--:p---	_	
+19-15	næste	næste	AC:§§u§:--:p---	_	
+19-16	dag	dag	NC:siuc:--:----	_	
+19-17	sprøjte	sprøjte	VI:----:-a:----	_	
+19-18	vand	vand	NC:siun:--:----	_	
+19-19	på	på	T-:----:--:----	_	
+19-20	skibet	skib	NC:sdun:--:----	_	
+19-21	,	,	ZD	_	
+19-22	så	så	CS:----:--:----	_	
+19-23	det	det	PP:s-un:--:-3n-	_	
+19-24	ikke	ikke	D-:----:--:u---	_	
+19-25	knækkede	knække	VF:----:ta:----	_	
+19-26	midt	midt	D-:----:--:u---	_	
+19-27	over	over	T-:----:--:----	_	
+19-28	.	.	ZP	_	
+
+#id=20
+#text= Skaderne har tilsyneladende ikke kunnet rettes op.
+20-1	Skaderne	skade	NC:pdu#:--:----	skade1-1	
+20-2	har	have	VF:----:sa:----	_	
+20-3	tilsyneladende	tilsyneladende	AD:----:--:p---	_	
+20-4	ikke	ikke	D-:----:--:u---	_	
+20-5	kunnet	kunnet	XY:----:--:----	_	
+20-6	rettes	rette	VF:----:sp:----	_	
+20-7	op	op	D-:----:--:u---	_	
+20-8	.	.	ZP	_	
+
+#id=21
+#text=Hun skyder skylden for sin skade på ungdommens håndboldspilleri, men mener også, den er grunden til, at hun er kommet sig nogenlunde hurtigt. - Jeg opfatter ikke mig selv som én, der har mange sygedage, og smerter er noget, jeg tager piller imod.
+21-1	Hun	hun	PP:s-nc:--:-3n-	_	
+21-2	skyder	skyde	VF:----:sa:----	_	
+21-3	skylden	skyld	NC:sduc:--:----	_	
+21-4	for	for	T-:----:--:----	_	
+21-5	sin	sin	PO:s--c:--:-3ys	_	
+21-6	skade	skade	NC:siuc:--:----	skade1-1a	
+21-7	på	på	T-:----:--:----	_	
+21-8	ungdommens	ungdom	NC:sdgc:--:----	_	
+21-9	håndboldspilleri	håndboldspilleri	NC:siun:--:----	_	
+21-10	,	,	ZD	_	
+21-11	men	men	CC:----:--:----	_	
+21-12	mener	mene	VF:----:sa:----	_	
+21-13	også	også	D-:----:--:u---	_	
+21-14	,	,	ZD	_	
+21-15	den	den	PP:s-uc:--:-3n-	_	
+21-16	er	være	VF:----:sa:----	_	
+21-17	grunden	grund	NC:sduc:--:----	_	
+21-18	til	til	T-:----:--:----	_	
+21-19	,	,	ZD	_	
+21-20	at	at	CS:----:--:----	_	
+21-21	hun	hun	PP:s-nc:--:-3n-	_	
+21-22	er	være	VF:----:sa:----	_	
+21-23	kommet	komme	VT:siu#:t-:----	_	
+21-24	sig	sig	PP:#-u#:--:-3y-	_	
+21-25	nogenlunde	nogenlunde	AD:----:--:p---	_	
+21-26	hurtigt	hurtig	AC:siun:--:p---	_	
+21-27	.	.	ZP	_	
+21-28	-	-	ZH	_	
+21-29	Jeg	jeg	NC:siun:--:----	_	
+21-30	opfatter	opfatte	VF:----:sa:----	_	
+21-31	ikke	ikke	D-:----:--:u---	_	
+21-32	mig	mig	NC:siun:--:----	_	
+21-33	selv	selv	PM:#-u#:--:----	_	
+21-34	som	som	US:----:--:----	_	
+21-35	én	en	PI:s-uc:--:----	_	
+21-36	,	,	ZD	_	
+21-37	der	der	US:----:--:----	_	
+21-38	har	have	VF:----:sa:----	_	
+21-39	mange	mangen	AC:p#u#:--:p---	_	
+21-40	sygedage	sygedag	NC:piu#:--:----	_	
+21-41	,	,	ZD	_	
+21-42	og	og	CC:----:--:----	_	
+21-43	smerter	smerte	NC:piu#:--:----	_	
+21-44	er	være	VF:----:sa:----	_	
+21-45	noget	nogen	PI:s-un:--:----	_	
+21-46	,	,	ZD	_	
+21-47	jeg	jeg	PP:s-nc:--:-1n-	_	
+21-48	tager	tage	VF:----:sa:----	_	
+21-49	piller	pille	NC:piu#:--:----	_	
+21-50	imod	imod	T-:----:--:----	_	
+21-51	.	.	ZP	_	
+
+#id=22
+#text=Jeg er den eneste i Norge,  som er blevet født med så store skader på grund af min mors medicinforbrug, siger 48-årige Judit Karin Steinnes fra Stavanger.
+22-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+22-2	er	være	VF:----:sa:----	_	
+22-3	den	den	PM:s-uc:--:----	_	
+22-4	eneste	eneste	AC:§§u§:--:p---	_	
+22-5	i	i	T-:----:--:----	_	
+22-6	Norge	Norge	NP:siu#:--:----	_	
+22-7	,	,	ZD	_	
+22-8	som	som	US:----:--:----	_	
+22-9	er	være	VF:----:sa:----	_	
+22-10	blevet	blive	VT:siu#:t-:----	_	
+22-11	født	føde	VT:siu#:t-:----	_	
+22-12	med	med	T-:----:--:----	_	
+22-13	så	så	D-:----:--:u---	_	
+22-14	store	stor	AC:p#u#:--:p---	_	
+22-15	skader	skade	NC:piu#:--:----	skade1-1a	
+22-16	på	på	T-:----:--:----	_	
+22-17	grund	grund	NC:siuc:--:----	_	
+22-18	af	af	T-:----:--:----	_	
+22-19	min	min	PO:s--c:--:-1ns	_	
+22-20	mors	mor	NC:sigc:--:----	_	
+22-21	medicinforbrug	medicinforbrug	NC:siun:--:----	_	
+22-22	,	,	ZD	_	
+22-23	siger	sige	VF:----:sa:----	_	
+22-24	48	48	LC:--u-:--:----	_	
+22-25	-	-	ZH	_	
+22-26	årige	årig	AC:sdu#:--:p---	_	
+22-27	Judit	Judit	NP:siu#:--:----	_	
+22-28	Karin	Karin	NP:siu#:--:----	_	
+22-29	Steinnes	Steinnes	NP:siu#:--:----	_	
+22-30	fra	fra	T-:----:--:----	_	
+22-31	Stavanger	Stavanger	NP:siu#:--:----	_	
+22-32	.	.	ZP	_	
+
+#id=23
+#text=Å rsagen til skaderne er, at moderen tog den farlige sovemedicin Thalidomid tidligt i svangerskabet.
+23-1	Å	Å	NC:siun:--:----	_	
+23-2	rsagen	rsag	NC:sduc:--:----	_	
+23-3	til	til	T-:----:--:----	_	
+23-4	skaderne	skade	pdu#:--:----	skade1-1a	
+23-5	er	være	VF:----:sa:----	_	
+23-6	,	,	ZD	_	
+23-7	at	at	CS:----:--:----	_	
+23-8	moderen	moderen	NC:sduc:--:----	_	
+23-9	tog	tage	VF:----:ta:----	_	
+23-10	den	den	PM:s-uc:--:----	_	
+23-11	farlige	farlig	AC:sdu#:--:p---	_	
+23-12	sovemedicin	sovemedicin	NC:siuc:--:----	_	
+23-13	Thalidomid	thalidomid	NC:siuc:--:----	_	
+23-14	tidligt	tidlig	AD:----:--:p---	_	
+23-15	i	i	T-:----:--:----	_	
+23-16	svangerskabet	svangerskab	NC:sdun:--:----	_	
+23-17	.	.	ZP	_	
+
+#id=24
+#text=Flere Thalidomid-ofre mødte dengang op foran Norges Storting med et krav om, at mennesker ikke må bortsorteres, blot fordi lægerne opdager skader på fostrene.
+24-1	Flere	mange	AC:##u#:--:c---	_	
+24-2	Thalidomid	thalidomid	NW:----:--:----	_	
+24-3	-	-	ZH	_	
+24-4	ofre	offer	NC:piu#:--:----	_	
+24-5	mødte	møde	VF:----:ta:----	_	
+24-6	dengang	dengang	D-:----:--:u---	_	
+24-7	op	op	D-:----:--:u---	_	
+24-8	foran	foran	T-:----:--:----	_	
+24-9	Norges	Norge	NP:sig#:--:----	_	
+24-10	Storting	storting	NC:siun:--:----	_	
+24-11	med	med	T-:----:--:----	_	
+24-12	et	en	PI:s-un:--:----	_	
+24-13	krav	krav	NC:siun:--:----	_	
+24-14	om	om	T-:----:--:----	_	
+24-15	,	,	ZD	_	
+24-16	at	at	CS:----:--:----	_	
+24-17	mennesker	menneske	NC:piu#:--:----	_	
+24-18	ikke	ikke	D-:----:--:u---	_	
+24-19	må	måtte	VF:----:sa:----	_	
+24-20	bortsorteres	bortsortere	VI:----:-p:----	_	
+24-21	,	,	ZD	_	
+24-22	blot	blot	D-:----:--:u---	_	
+24-23	fordi	fordi	CS:----:--:----	_	
+24-24	lægerne	læge	NC:pdu#:--:----	_	
+24-25	opdager	opdage	VF:----:sa:----	_	
+24-26	skader	skade	NC:piu#:--:----	skade1-1a	
+24-27	på	på	T-:----:--:----	_	
+24-28	fostrene	foster	NC:pdu#:--:----	_	
+24-29	.	.	ZP	_	
+
+#id=25
+#text= Mine skader er bevis på, at livet begynder meget tidligt i svangerskabet, siger Judit Karin.
+25-1	Mine	mine	NC:siuc:--:----	_	
+25-2	skader	skade	NC:piu#:--:----	skade1-1a	
+25-3	er	være	VF:----:sa:----	_	
+25-4	bevis	bevis	NC:siun:--:----	_	
+25-5	på	på	T-:----:--:----	_	
+25-6	,	,	ZD	_	
+25-7	at	at	CS:----:--:----	_	
+25-8	livet	liv	NC:sdun:--:----	_	
+25-9	begynder	begynde	VF:----:sa:----	_	
+25-10	meget	megen	AD:----:--:p---	_	
+25-11	tidligt	tidlig	AD:----:--:p---	_	
+25-12	i	i	T-:----:--:----	_	
+25-13	svangerskabet	svangerskab	NC:sdun:--:----	_	
+25-14	,	,	ZD	_	
+25-15	siger	sige	VF:----:sa:----	_	
+25-16	Judit	Judit	NP:siu#:--:----	_	
+25-17	Karin	Karin	NP:siu#:--:----	_	
+25-18	.	.	ZP	_	
+
+#id=26
+#text= I alt har jordskældet givet skader for over 80 milliarder kr.
+26-1	I	i	T-:----:--:----	_	
+26-2	alt	al	PI:s-un:--:----	_	
+26-3	har	have	VF:----:sa:----	_	
+26-4	jordskældet	jordskælde	VT:siu#:t-:----	_	
+26-5	givet	give	VT:siu#:t-:----	_	
+26-6	skader	skade	NC:piu#:--:----	skade1-1	
+26-7	for	for	T-:----:--:----	_	
+26-8	over	over	T-:----:--:----	_	
+26-9	80	80	LC:--u-:--:----	_	
+26-10	milliarder	milliard	NC:piu#:--:----	_	
+26-11	kr	krone	NC:piu#:--:----	_	
+26-12	.	.	ZP	_	
+
+#id=27
+#text=Rensdyrene har en del kræfter og løber stærkt, så det sker, at de undervejs vælter nogle folk, men som regel kommer ingen til skade.
+27-1	Rensdyrene	rensdyr	NC:pdu#:--:----	_	
+27-2	har	have	VF:----:sa:----	_	
+27-3	en	en	PI:s-uc:--:----	_	
+27-4	del	del	NC:siuc:--:----	_	
+27-5	kræfter	kraft	NC:piu#:--:----	_	
+27-6	og	og	CC:----:--:----	_	
+27-7	løber	løbe	VF:----:sa:----	_	
+27-8	stærkt	stærk	AC:siun:--:p---	_	
+27-9	,	,	ZD	_	
+27-10	så	så	CS:----:--:----	_	
+27-11	det	det	PP:s-un:--:-3n-	_	
+27-12	sker	ske	VF:----:sa:----	_	
+27-13	,	,	ZD	_	
+27-14	at	at	CS:----:--:----	_	
+27-15	de	de	PP:p-n#:--:-3n-	_	
+27-16	undervejs	undervejs	D-:----:--:u---	_	
+27-17	vælter	vælte	VF:----:sa:----	_	
+27-18	nogle	nogen	PI:p-u#:--:----	_	
+27-19	folk	folk	NC:piu#:--:----	_	
+27-20	,	,	ZD	_	
+27-21	men	men	CC:----:--:----	_	
+27-22	som	som	US:----:--:----	_	
+27-23	regel	regel	NC:siuc:--:----	_	
+27-24	kommer	komme	VF:----:sa:----	_	
+27-25	ingen	ingen	PI:s-uc:--:----	_	
+27-26	til	til	T-:----:--:----	_	
+27-27	skade	skade	NC:siuc:--:----	skade-F-komme-til-skade	
+27-28	.	.	ZP	_	
+
+#id=28
+#text= Heldigvis lykkedes det de to mænd at bringe sig i sikkerhed, så de ikke kom til skade.
+28-1	Heldigvis	heldigvis	D-:----:--:u---	_	
+28-2	lykkedes	lykkes	VF:----:tp:----	_	
+28-3	det	det	PP:s-un:--:-3n-	_	
+28-4	de	de	NP:siu#:--:----	_	
+28-5	to	to	LC:--u-:--:----	_	
+28-6	mænd	mand	NC:piu#:--:----	_	
+28-7	at	at	UI:----:--:----	_	
+28-8	bringe	bringe	VI:----:-a:----	_	
+28-9	sig	sig	PP:#-u#:--:-3y-	_	
+28-10	i	i	T-:----:--:----	_	
+28-11	sikkerhed	sikkerhed	NC:siuc:--:----	_	
+28-12	,	,	ZD	_	
+28-13	så	så	CS:----:--:----	_	
+28-14	de	de	PP:p-n#:--:-3n-	_	
+28-15	ikke	ikke	D-:----:--:u---	_	
+28-16	kom	komme	VF:----:ta:----	_	
+28-17	til	til	T-:----:--:----	_	
+28-18	skade	skade	NC:siuc:--:----	skade-F-komme-til-skade	
+28-19	.	.	ZP	_	
+
+#id=29
+#text= Så meget skade gør den ikke, men det ville være slemt, hvis den bed et barn i øjet.
+29-1	Så	så	D-:----:--:u---	_	
+29-2	meget	megen	AC:siu§:--:p---	_	
+29-3	skade	skade	NC:siuc:--:----	skade1-1	
+29-4	gør	gøre	VF:----:sa:----	_	
+29-5	den	den	PP:s-uc:--:-3n-	_	
+29-6	ikke	ikke	D-:----:--:u---	_	
+29-7	,	,	ZD	_	
+29-8	men	men	CC:----:--:----	_	
+29-9	det	det	PP:s-un:--:-3n-	_	
+29-10	ville	ville	VF:----:ta:----	_	
+29-11	være	være	VI:----:-a:----	_	
+29-12	slemt	slem	AC:siun:--:p---	_	
+29-13	,	,	ZD	_	
+29-14	hvis	hvis	CS:----:--:----	_	
+29-15	den	den	PP:s-uc:--:-3n-	_	
+29-16	bed	bide	VF:----:ta:----	_	
+29-17	et	en	PI:s-un:--:----	_	
+29-18	barn	barn	NC:siun:--:----	_	
+29-19	i	i	T-:----:--:----	_	
+29-20	øjet	øje	NC:sdun:--:----	_	
+29-21	.	.	ZP	_	
+
+#id=30
+#text=Uenighed og skader har betydet en lang pause, men den 30-årige århusianer regner med at genoptage karrieren inden længe.
+30-1	Uenighed	uenighed	NC:siuc:--:----	_	
+30-2	og	og	CC:----:--:----	_	
+30-3	skader	skade	NC:piu#:--:----	skade1-1a	
+30-4	har	have	VF:----:sa:----	_	
+30-5	betydet	betyde	VT:siu#:t-:----	_	
+30-6	en	en	PI:s-uc:--:----	_	
+30-7	lang	lang	AC:siuc:--:p---	_	
+30-8	pause	pause	NC:siuc:--:----	_	
+30-9	,	,	ZD	_	
+30-10	men	men	CC:----:--:----	_	
+30-11	den	den	PM:s-uc:--:----	_	
+30-12	30	30	LW:----:--:----	_	
+30-13	-	-	ZH	_	
+30-14	årige	årig	AC:sdu#:--:p---	_	
+30-15	århusianer	århusianer	NC:siuc:--:----	_	
+30-16	regner	regne	VF:----:sa:----	_	
+30-17	med	med	T-:----:--:----	_	
+30-18	at	at	UI:----:--:----	_	
+30-19	genoptage	genoptage	VI:----:-a:----	_	
+30-20	karrieren	karriere	NC:sduc:--:----	_	
+30-21	inden	inden	T-:----:--:----	_	
+30-22	længe	længe	D-:----:--:u---	_	
+30-23	.	.	ZP	_	
+
+#id=31
+#text= Sådan noget her kan give kongehuset langvarig skade, og det er klart, at det ikke kommer til at ske igen, forklarer Klaus Kjøller.
+31-1	Sådan	sådan	D-:----:--:u---	_	
+31-2	noget	nogen	PI:s-un:--:----	_	
+31-3	her	her	D-:----:--:u---	_	
+31-4	kan	kunne	VF:----:sa:----	_	
+31-5	give	give	VI:----:-a:----	_	
+31-6	kongehuset	kongehus	NC:sdun:--:----	_	
+31-7	langvarig	langvarig	AC:siuc:--:p---	_	
+31-8	skade	skade	NC:siuc:--:----	skade1-1b-1c	
+31-9	,	,	ZD	_	
+31-10	og	og	CC:----:--:----	_	
+31-11	det	det	PP:s-un:--:-3n-	_	
+31-12	er	være	VF:----:sa:----	_	
+31-13	klart	klar	AC:siun:--:p---	_	
+31-14	,	,	ZD	_	
+31-15	at	at	CS:----:--:----	_	
+31-16	det	det	PP:s-un:--:-3n-	_	
+31-17	ikke	ikke	D-:----:--:u---	_	
+31-18	kommer	komme	VF:----:sa:----	_	
+31-19	til	til	T-:----:--:----	_	
+31-20	at	at	UI:----:--:----	_	
+31-21	ske	ske	VI:----:-a:----	_	
+31-22	igen	igen	D-:----:--:u---	_	
+31-23	,	,	ZD	_	
+31-24	forklarer	forklare	VF:----:sa:----	_	
+31-25	Klaus	Klaus	NP:siu#:--:----	_	
+31-26	Kjøller	Kjøller	NP:siu#:--:----	_	
+31-27	.	.	ZP	_	
+
+#id=32
+#text= Kroppen har desværre også taget varig skade.
+32-1	Kroppen	krop	NC:sduc:--:----	_	
+32-2	har	have	VF:----:sa:----	_	
+32-3	desværre	desværre	D-:----:--:u---	_	
+32-4	også	også	D-:----:--:u---	_	
+32-5	taget	tage	VT:siu#:t-:----	_	
+32-6	varig	varig	AC:siuc:--:p---	_	
+32-7	skade	skade	NC:siuc:--:----	skade-F-tage/lide-skade	
+32-8	.	.	ZP	_	
+
+#id=33
+#text= Min strube har taget lidt skade.
+33-1	Min	min	PO:s--c:--:-1ns	_	
+33-2	strube	strube	NC:siuc:--:----	_	
+33-3	har	have	VF:----:sa:----	_	
+33-4	taget	tage	VT:siu#:t-:----	_	
+33-5	lidt	lidt	AC:siu§:--:p---	_	
+33-6	skade	skade	NC:siuc:--:----	skade-F-tage/lide-skade	
+33-7	.	.	ZP	_	
+
+#id=34
+#text=- Man kan virkelig komme til skade, hvis det går galt, siger han.
+34-1	-	-	NC:piu#:--:----	_	
+34-2	Man	Man	NP:siu#:--:----	_	
+34-3	kan	kunne	VF:----:sa:----	_	
+34-4	virkelig	virkelig	D-:----:--:u---	_	
+34-5	komme	komme	VI:----:-a:----	_	
+34-6	til	til	T-:----:--:----	_	
+34-7	skade	skade	NC:siuc:--:----	skade-F-komme-til-skade	
+34-8	,	,	ZD	_	
+34-9	hvis	hvis	CS:----:--:----	_	
+34-10	det	det	PP:s-un:--:-3n-	_	
+34-11	går	gå	VF:----:sa:----	_	
+34-12	galt	gal	AD:----:--:p---	_	
+34-13	,	,	ZD	_	
+34-14	siger	sige	VF:----:sa:----	_	
+34-15	han	han	PP:s-nc:--:-3n-	_	
+34-16	.	.	ZP	_	
+
+#id=35
+#text=Endvidere klappede begge lunger sammen, hjertet forskubbede sig, og han havde meget alvorlige  skader på både milten, leveren og den venstre nyre.
+35-1	Endvidere	endvidere	D-:----:--:u---	_	
+35-2	klappede	klappe	VF:----:ta:----	_	
+35-3	begge	begge	PM:p-u#:--:----	_	
+35-4	lunger	lunge	NC:piu#:--:----	_	
+35-5	sammen	sammen	D-:----:--:u---	_	
+35-6	,	,	ZD	_	
+35-7	hjertet	hjerte	NC:sdun:--:----	_	
+35-8	forskubbede	forskubbe	VF:----:ta:----	_	
+35-9	sig	sig	PP:#-u#:--:-3y-	_	
+35-10	,	,	ZD	_	
+35-11	og	og	CC:----:--:----	_	
+35-12	han	han	PP:s-nc:--:-3n-	_	
+35-13	havde	have	VF:----:ta:----	_	
+35-14	meget	megen	AD:----:--:p---	_	
+35-15	alvorlige	alvorlig	AC:p#u#:--:p---	_	
+35-16	skader	skade	NC:piu#:--:----	skade1-1a	
+35-17	på	på	T-:----:--:----	_	
+35-18	både	både	D-:----:--:u---	_	
+35-19	milten	milt	NC:sduc:--:----	_	
+35-20	,	,	ZD	_	
+35-21	leveren	lever	NC:sduc:--:----	_	
+35-22	og	og	CC:----:--:----	_	
+35-23	den	den	PM:s-uc:--:----	_	
+35-24	venstre	venstre	AC:§§u§:--:p---	_	
+35-25	nyre	nyre	NC:siuc:--:----	_	
+35-26	.	.	ZP	_	
+
+#id=36
+#text= Så snart lægerne fik ham under behandling, kunne de øjeblikkelig se, at han på grund af de mange alvorlige skader svævede i yderste livsfare.
+36-1	Så	så	D-:----:--:u---	_	
+36-2	snart	snart	D-:----:--:u---	_	
+36-3	lægerne	læge	NC:pdu#:--:----	_	
+36-4	fik	få	VF:----:ta:----	_	
+36-5	ham	han	PP:s-uc:--:-3n-	_	
+36-6	under	under	T-:----:--:----	_	
+36-7	behandling	behandling	NC:siuc:--:----	_	
+36-8	,	,	ZD	_	
+36-9	kunne	kunne	VF:----:ta:----	_	
+36-10	de	de	PP:p-n#:--:-3n-	_	
+36-11	øjeblikkelig	øjeblikkelig	AD:----:--:p---	_	
+36-12	se	se	VI:----:-a:----	_	
+36-13	,	,	ZD	_	
+36-14	at	at	CS:----:--:----	_	
+36-15	han	han	PP:s-nc:--:-3n-	_	
+36-16	på	på	T-:----:--:----	_	
+36-17	grund	grund	NC:siuc:--:----	_	
+36-18	af	af	T-:----:--:----	_	
+36-19	de	den	PM:p-u#:--:----	_	
+36-20	mange	mangen	AC:p#u#:--:p---	_	
+36-21	alvorlige	alvorlig	AC:p#u#:--:p---	_	
+36-22	skader	skade	NC:piu#:--:----	skade1-1a	
+36-23	svævede	svæve	VF:----:ta:----	_	
+36-24	i	i	T-:----:--:----	_	
+36-25	yderste	yderst	AC:sdu#:--:p---	_	
+36-26	livsfare	livsfare	NC:siuc:--:----	_	
+36-27	.	.	ZP	_	
+
+#id=37
+#text= Jeg skal formodentlig være på smertestillende medicin resten af livet, konstaterer Flemming, som også har svært ved at koncentrere sig, ligesom hans korttidshukommelse har taget skade af ulykken.
+37-1	Jeg	jeg	PP:s-nc:--:-1n-	_	
+37-2	skal	skulle	VF:----:sa:----	_	
+37-3	formodentlig	formodentlig	AD:----:--:p---	_	
+37-4	være	være	VI:----:-a:----	_	
+37-5	på	på	T-:----:--:----	_	
+37-6	smertestillende	smertestillende	AC:§§u§:--:p---	_	
+37-7	medicin	medicin	NC:siuc:--:----	_	
+37-8	resten	rest	NC:sduc:--:----	_	
+37-9	af	af	T-:----:--:----	_	
+37-10	livet	liv	NC:sdun:--:----	_	
+37-11	,	,	ZD	_	
+37-12	konstaterer	konstatere	VF:----:sa:----	_	
+37-13	Flemming	Flemming	NP:siu#:--:----	_	
+37-14	,	,	ZD	_	
+37-15	som	som	US:----:--:----	_	
+37-16	også	også	D-:----:--:u---	_	
+37-17	har	have	VF:----:sa:----	_	
+37-18	svært	svær	AD:----:--:p---	_	
+37-19	ved	ved	T-:----:--:----	_	
+37-20	at	at	UI:----:--:----	_	
+37-21	koncentrere	koncentrere	VI:----:-a:----	_	
+37-22	sig	sig	PP:#-u#:--:-3y-	_	
+37-23	,	,	ZD	_	
+37-24	ligesom	ligesom	CS:----:--:----	_	
+37-25	hans	hans	PO:#--#:--:-3ns	_	
+37-26	korttidshukommelse	korttidshukommelse	NC:siuc:--:----	_	
+37-27	har	have	VF:----:sa:----	_	
+37-28	taget	tage	VT:siu#:t-:----	_	
+37-29	skade	skade	NC:siuc:--:----	skade-F-tage/lide-skade	
+37-30	af	af	T-:----:--:----	_	
+37-31	ulykken	ulykke	NC:sduc:--:----	_	
+37-32	.	.	ZP	_	
+
+#id=38
+#text= På et tidspunkt kom jeg slemt til skade med mit skinneben, og så var det nærmest slut med fodbold, fortæller Kat, 24.
+38-1	På	på	T-:----:--:----	_	
+38-2	et	en	PI:s-un:--:----	_	
+38-3	tidspunkt	tidspunkt	NC:siun:--:----	_	
+38-4	kom	komme	VF:----:ta:----	_	
+38-5	jeg	jeg	PP:s-nc:--:-1n-	_	
+38-6	slemt	slem	AD:----:--:p---	_	
+38-7	til	til	-:--:----	_	
+38-8	skade	skade	NC:siuc:--:----	skade-F-komme-til-skade	
+38-9	med	med	T-:----:--:----	_	
+38-10	mit	min	PO:s--n:--:-1ns	_	
+38-11	skinneben	skinneben	NC:siun:--:----	_	
+38-12	,	,	ZD	_	
+38-13	og	og	CC:----:--:----	_	
+38-14	så	så	D-:----:--:u---	_	
+38-15	var	være	VF:----:ta:----	_	
+38-16	det	den	PM:s-un:--:----	_	
+38-17	nærmest	nær	AD:----:--:s---	_	
+38-18	slut	slut	XY:----:--:----	_	
+38-19	med	med	T-:----:--:----	_	
+38-20	fodbold	fodbold	NC:siuc:--:----	_	
+38-21	,	,	ZD	_	
+38-22	fortæller	fortælle	VF:----:sa:----	_	
+38-23	Kat	kat	NC:siuc:--:----	_	
+38-24	,	,	ZD	_	
+38-25	24	24	LC:--u-:--:----	_	
+38-26	.	.	ZP	_	
+
+#id=39
+#text= Men desværre fik hun en skade i sine ankler, hvorefter hun for alvor begyndte at satse på rappen. - Jeg skal lave underholdning, så jeg fortsætter uanset hvad, siger hun.
+39-1	Men	men	CC:----:--:----	_	
+39-2	desværre	desværre	D-:----:--:u---	_	
+39-3	fik	få	VF:----:ta:----	_	
+39-4	hun	hun	PP:s-nc:--:-3n-	_	
+39-5	en	en	PI:s-uc:--:----	_	
+39-6	skade	skade	NC:siuc:--:----	skade1-1a	
+39-7	i	i	T-:----:--:----	_	
+39-8	sine	sin	PO:p--#:--:-3ys	_	
+39-9	ankler	ankel	NC:piu#:--:----	_	
+39-10	,	,	ZD	_	
+39-11	hvorefter	hvorefter	D-:----:--:u---	_	
+39-12	hun	hun	PP:s-nc:--:-3n-	_	
+39-13	for	for	T-:----:--:----	_	
+39-14	alvor	alvor	NC:siuc:--:----	_	
+39-15	begyndte	begynde	VF:----:ta:----	_	
+39-16	at	at	UI:----:--:----	_	
+39-17	satse	satse	VI:----:-a:----	_	
+39-18	på	på	T-:----:--:----	_	
+39-19	rappen	rap	NC:sduc:--:----	_	
+39-20	.	.	ZP	_	
+39-21	-	-	ZH	_	
+39-22	Jeg	jeg	NC:siun:--:----	_	
+39-23	skal	skulle	VF:----:sa:----	_	
+39-24	lave	lave	VI:----:-a:----	_	
+39-25	underholdning	underholdning	NC:siuc:--:----	_	
+39-26	,	,	ZD	_	
+39-27	så	så	CS:----:--:----	_	
+39-28	jeg	jeg	PP:s-nc:--:-1n-	_	
+39-29	fortsætter	fortsætte	VF:----:sa:----	_	
+39-30	uanset	uanset	CS:----:--:----	_	
+39-31	hvad	hvad	PR:s-u#:--:----	_	
+39-32	,	,	ZD	_	
+39-33	siger	sige	VF:----:sa:----	_	
+39-34	hun	hun	PP:s-nc:--:-3n-	_	
+39-35	.	.	ZP	_	
+
+#id=40
+#text=Selv om oplevelserne på felthospitalet har været barske, har Claus aldrig tvivlet på, at han var den rigtige mand til jobbet. - Det lægefaglige skal selvfølgelig være i orden, hvis man vil derned, men det er jo ofte meget grove teknikker, man arbejder med, fordi skaderne er så voldsomme.
+40-1	Selv	selv	D-:----:--:u---	_	
+40-2	om	om	T-:----:--:----	_	
+40-3	oplevelserne	oplevelse	NC:pdu#:--:----	_	
+40-4	på	på	T-:----:--:----	_	
+40-5	felthospitalet	felthospital	NC:sdun:--:----	_	
+40-6	har	have	VF:----:sa:----	_	
+40-7	været	være	VT:siu#:t-:----	_	
+40-8	barske	barsk	AC:p#u#:--:p---	_	
+40-9	,	,	ZD	_	
+40-10	har	have	VF:----:sa:----	_	
+40-11	Claus	Claus	NP:siu#:--:----	_	
+40-12	aldrig	aldrig	D-:----:--:u---	_	
+40-13	tvivlet	tvivle	VT:siu#:t-:----	_	
+40-14	på	på	T-:----:--:----	_	
+40-15	,	,	ZD	_	
+40-16	at	at	CS:----:--:----	_	
+40-17	han	han	PP:s-nc:--:-3n-	_	
+40-18	var	være	VF:----:ta:----	_	
+40-19	den	den	PM:s-uc:--:----	_	
+40-20	rigtige	rigtig	AC:sdu#:--:p---	_	
+40-21	mand	mand	NC:siuc:--:----	_	
+40-22	til	til	T-:----:--:----	_	
+40-23	jobbet	job	NC:sdun:--:----	_	
+40-24	.	.	ZP	_	
+40-25	-	-	ZH	_	
+40-26	Det	Det	XY:----:--:----	_	
+40-27	lægefaglige	lægefaglig	AC:sdu#:--:p---	_	
+40-28	skal	skulle	VF:----:sa:----	_	
+40-29	selvfølgelig	selvfølgelig	D-:----:--:u---	_	
+40-30	være	være	VI:----:-a:----	_	
+40-31	i	i	T-:----:--:----	_	
+40-32	orden	orden	NC:siuc:--:----	_	
+40-33	,	,	ZD	_	
+40-34	hvis	hvis	CS:----:--:----	_	
+40-35	man	man	PI:#-uc:--:----	_	
+40-36	vil	ville	VF:----:sa:----	_	
+40-37	derned	derned	D-:----:--:u---	_	
+40-38	,	,	ZD	_	
+40-39	men	men	CC:----:--:----	_	
+40-40	det	det	PP:s-un:--:-3n-	_	
+40-41	er	være	VF:----:sa:----	_	
+40-42	jo	jo	D-:----:--:u---	_	
+40-43	ofte	ofte	D-:----:--:u---	_	
+40-44	meget	megen	AD:----:--:p---	_	
+40-45	grove	grov	AC:p#u#:--:p---	_	
+40-46	teknikker	teknik	NC:piu#:--:----	_	
+40-47	,	,	ZD	_	
+40-48	man	man	PI:#-uc:--:----	_	
+40-49	arbejder	arbejde	VF:----:sa:----	_	
+40-50	med	med	T-:----:--:----	_	
+40-51	,	,	ZD	_	
+40-52	fordi	fordi	CS:----:--:----	_	
+40-53	skaderne	skade	NC:pdu#:--:----	skade1-1a	
+40-54	er	være	VF:----:sa:----	_	
+40-55	så	så	D-:----:--:u---	_	
+40-56	voldsomme	voldsom	AC:p#u#:--:p---	_	
+40-57	.	.	ZP	_	
+
+#id=41
+#text=Kongehusets kommunikationschef, Lene Balleby, fortæller dog til Ekstra Bladet, at skaderne hos den vordende far til fire på ingen måde er alvorlige.
+41-1	Kongehusets	kongehus	NC:sdgn:--:----	_	
+41-2	kommunikationschef	kommunikationschef	NC:siuc:--:----	_	
+41-3	,	,	ZD	_	
+41-4	Lene	Lene	NP:siu#:--:----	_	
+41-5	Balleby	Balleby	NP:siu#:--:----	_	
+41-6	,	,	ZD	_	
+41-7	fortæller	fortælle	VF:----:sa:----	_	
+41-8	dog	dog	D-:----:--:u---	_	
+41-9	til	til	T-:----:--:----	_	
+41-10	Ekstra	ekstra	§:--:p---	_	
+41-11	Bladet	blad	NC:sdun:--:----	_	
+41-12	,	,	ZD	_	
+41-13	at	at	CS:----:--:----	_	
+41-14	skaderne	skade	NC:pdu#:--:----	skade1-1a	
+41-15	hos	hos	T-:----:--:----	_	
+41-16	den	den	PM:s-uc:--:----	_	
+41-17	vordende	vordende	AD:----:--:p---	_	
+41-18	far	far	NC:siuc:--:----	_	
+41-19	til	til	T-:----:--:----	_	
+41-20	fire	fire	LC:--u-:--:----	_	
+41-21	på	på	T-:----:--:----	_	
+41-22	ingen	ingen	PI:s-uc:--:----	_	
+41-23	måde	måde	NC:siuc:--:----	_	
+41-24	er	være	VF:----:sa:----	_	
+41-25	alvorlige	alvorlig	AC:p#u#:--:p---	_	
+41-26	.	.	ZP	_	
+
+#id=42
+#text=For tre år siden  brød en gammel skade i hendes ryg op, og Troels og Rebecca måtte med ét skrinlægge deres musikalske parløb.
+42-1	For	for	T-:----:--:----	_	
+42-2	tre	tre	LC:--u-:--:----	_	
+42-3	år	år	NC:piu#:--:----	_	
+42-4	siden	siden	D-:----:--:u---	_	
+42-5	brød	bryde	VF:----:ta:----	_	
+42-6	en	en	PI:s-uc:--:----	_	
+42-7	gammel	gammel	AC:siuc:--:p---	_	
+42-8	skade	skade	NC:siuc:--:----	skade1-1a	
+42-9	i	i	T-:----:--:----	_	
+42-10	hendes	hendes	PO:#--#:--:-3ns	_	
+42-11	ryg	ryg	NC:siuc:--:----	_	
+42-12	op	op	D-:----:--:u---	_	
+42-13	,	,	ZD	_	
+42-14	og	og	CC:----:--:----	_	
+42-15	Troels	Troels	NP:siu#:--:----	_	
+42-16	og	og	CC:----:--:----	_	
+42-17	Rebecca	Rebecca	NP:siu#:--:----	_	
+42-18	måtte	måtte	VF:----:ta:----	_	
+42-19	med	med	T-:----:--:----	_	
+42-20	ét	en	PI:s-un:--:----	_	
+42-21	skrinlægge	skrinlægge	VI:----:-a:----	_	
+42-22	deres	deres	PO:#--#:--:-3np	_	
+42-23	musikalske	musikalsk	AC:sdu#:--:p---	_	
+42-24	parløb	parløb	NC:siun:--:----	_	
+42-25	.	.	ZP	_	
+

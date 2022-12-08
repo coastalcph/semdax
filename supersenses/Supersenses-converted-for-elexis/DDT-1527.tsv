@@ -1,0 +1,225 @@
+# newdoc id = DDT-1527.tsv
+# sent_id = 1
+# text = " Situationen for besætningen skal tages meget alvorligt.
+1	"	"	PUNCT		
+2	Situationen	situation	NOUN		noun.state
+3	for	for	ADP		
+4	besætningen	besætning	NOUN		noun.person
+5	skal	skulle	AUX		
+6	tages	tage	VERB		verb.cognition
+7	meget	megen	ADV		
+8	alvorligt	alvorlig	ADV		
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1527.tsv
+# sent_id = 2
+# text =  Og det kan nemt komme til at tage meget lang tid at få skibet fri.
+1	Og	og	CCONJ		
+2	det	det	PRON		
+3	kan	kunne	AUX		
+4	nemt	nem	ADV		
+5	komme	komme	VERB		verb.phenomenon
+6	til	til	ADP		verb.PARTICLE
+7	at	at	PART		
+8	tage	tage	VERB		verb.phenomenon
+9	meget	megen	ADV		
+10	lang	lang	ADJ		
+11	tid	tid	NOUN		verb.COLL
+12	at	at	PART		
+13	få	få	VERB		verb.act
+14	skibet	skib	NOUN		noun.vehicle
+15	fri	fri	ADJ		
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1527.tsv
+# sent_id = 3
+# text =  Men nu er der heldigvis et så stort pres fra både den amerikanske ambassade og det danske udenrigsministerium, at det skal lykkes, at få besætningen hjem," siger Jan Fabricius.
+1	Men	men	CCONJ		
+2	nu	nu	ADV		
+3	er	være	VERB		verb.stative
+4	der	der	ADV		
+5	heldigvis	heldigvis	ADV		
+6	et	en	DET		
+7	så	så	ADV		
+8	stort	stor	ADJ		adj.all
+9	pres	pres	NOUN		noun.phenomenon
+10	fra	fra	ADP		
+11	både	både	ADV		
+12	den	den	DET		
+13	amerikanske	amerikansk	ADJ		adj.social
+14	ambassade	ambassade	NOUN		noun.person
+15	og	og	CCONJ		
+16	det	det	DET		
+17	danske	dansk	ADJ		adj.social
+18	udenrigsministerium	udenrigsministerium	NOUN		noun.person
+19	,	,	PUNCT		
+20	at	at	SCONJ		
+21	det	det	PRON		
+22	skal	skulle	AUX		
+23	lykkes	lykkes	VERB		verb.phenomenon
+24	,	,	PUNCT		
+25	at	at	PART		
+26	få	få	VERB		verb.act
+27	besætningen	besætning	NOUN		noun.person
+28	hjem	hjem	ADV		verb.COLL
+29	,	,	PUNCT		
+30	"	"	PUNCT		
+31	siger	sige	VERB		verb.communication
+32	Jan	jan	PROPN		noun.person
+33	Fabricius	fabricius	PROPN		noun.person
+34	.	.	PUNCT		
+
+# newdoc id = DDT-1527.tsv
+# sent_id = 4
+# text = " Hvad der skal ske med skibet, ved jeg ikke.
+1	"	"	PUNCT		
+2	Hvad	hvad	PRON		
+3	der	der	ADV		
+4	skal	skulle	AUX		
+5	ske	ske	VERB		verb.phenomenon
+6	med	med	ADP		
+7	skibet	skib	NOUN		noun.vehicle
+8	,	,	PUNCT		
+9	ved	vide	VERB		verb.cognition
+10	jeg	jeg	PRON		
+11	ikke	ikke	ADV		
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1527.tsv
+# sent_id = 5
+# text =  Man kan åbenbart forvente alt fra den såkaldt fredsbevarende styrke i landet.
+1	Man	man	PRON		
+2	kan	kunne	AUX		
+3	åbenbart	åbenbar	ADV		
+4	forvente	forvente	VERB		verb.cognition
+5	alt	al	ADJ		
+6	fra	fra	ADP		
+7	den	den	DET		
+8	såkaldt	såkaldt	ADV		
+9	fredsbevarende	fredsbevarende	ADJ		adj.all
+10	styrke	styrke	NOUN		noun.person
+11	i	i	ADP		
+12	landet	land	NOUN		noun.location
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1527.tsv
+# sent_id = 6
+# text =  De holder jo faktisk besætningen som gidsler.
+1	De	den	PRON		
+2	holder	holde	VERB		verb.act
+3	jo	jo	ADV		
+4	faktisk	faktisk	ADV		
+5	besætningen	besætning	NOUN		noun.person
+6	som	som	ADP		
+7	gidsler	gidsel	NOUN		noun.person
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1527.tsv
+# sent_id = 7
+# text =  Men jeg kan ikke forestille mig, at de bare kan stjæle et skib på den måde."
+1	Men	men	CCONJ		
+2	jeg	jeg	PRON		
+3	kan	kunne	AUX		
+4	ikke	ikke	ADV		
+5	forestille	forestille	VERB		verb.cognition
+6	mig	jeg	PRON		verb.REFLPRON
+7	,	,	PUNCT		
+8	at	at	SCONJ		
+9	de	den	PRON		
+10	bare	bare	ADV		
+11	kan	kunne	AUX		
+12	stjæle	stjæle	VERB		verb.possession
+13	et	en	DET		
+14	skib	skib	NOUN		noun.vehicle
+15	på	på	ADP		
+16	den	den	DET		
+17	måde	måde	NOUN		noun.abstract
+18	.	.	PUNCT		
+19	"	"	PUNCT		
+
+# newdoc id = DDT-1527.tsv
+# sent_id = 8
+# text =  Den fredsbevarende styrke i Monrovia har beskyldt skibet for at sejle med våben- men det afviser de danske ejere skulle være tilfældet.
+1	Den	den	DET		
+2	fredsbevarende	fredsbevarende	ADJ		adj.all
+3	styrke	styrke	NOUN		noun.person
+4	i	i	ADP		
+5	Monrovia	monrovia	PROPN		noun.location
+6	har	have	AUX		
+7	beskyldt	beskylde	VERB		verb.communication
+8	skibet	skib	NOUN		noun.person
+9	for	for	ADP		
+10	at	at	PART		
+11	sejle	sejle	VERB		verb.motion
+12	med	med	ADP		
+13	våben	våben	NOUN		noun.artifact
+14	-	-	PUNCT		
+15	men	men	CCONJ		
+16	det	det	PRON		
+17	afviser	afvise	VERB		verb.communication
+18	de	den	DET		
+19	danske	dansk	ADJ		adj.social
+20	ejere	ejer	NOUN		noun.person
+21	skulle	skulle	AUX		
+22	være	være	AUX		verb.stative
+23	tilfældet	tilfælde	NOUN		noun.state
+24	.	.	PUNCT		
+
+# newdoc id = DDT-1527.tsv
+# sent_id = 9
+# text =  Den Bahama-registrede coaster har i halvandet år sejlet i fast rutefart mellem Elfenbenskysten og hovedstaden Monrovia i Liberia.
+1	Den	den	DET		
+2	Bahama-registrede	bahama-registred	ADJ		adj.all
+3	coaster	coaster	NOUN		noun.vehicle
+4	har	have	AUX		
+5	i	i	ADP		
+6	halvandet	halvanden	ADJ		
+7	år	år	NOUN		noun.time
+8	sejlet	sejle	VERB		verb.motion
+9	i	i	ADP		
+10	fast	fast	ADJ		
+11	rutefart	rutefart	NOUN		noun.act
+12	mellem	mellem	ADP		
+13	Elfenbenskysten	elfenbenskysten	NOUN		noun.location
+14	og	og	CCONJ		
+15	hovedstaden	hovedstad	NOUN		noun.location
+16	Monrovia	monrovia	PROPN		noun.location
+17	i	i	ADP		
+18	Liberia	liberia	PROPN		noun.location
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1527.tsv
+# sent_id = 10
+# text =  Der er ti besætningsmedlemmer på skibet, hvoraf de seks er danske.
+1	Der	der	ADV		
+2	er	være	VERB		verb.stative
+3	ti	tie	ADJ		
+4	besætningsmedlemmer	besætningsmedlem	NOUN		noun.person
+5	på	på	ADP		
+6	skibet	skib	NOUN		noun.vehicle
+7	,	,	PUNCT		
+8	hvoraf	hvoraf	ADV		
+9	de	den	DET		
+10	seks	seks	ADJ		
+11	er	være	AUX		verb.stative
+12	danske	dansk	ADJ		adj.social
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1527.tsv
+# sent_id = 11
+# text =  Derudover er der en række passagerer, blandt_andet en amerikaner og tre malayer.
+1	Derudover	derudover	ADV		
+2	er	være	VERB		verb.stative
+3	der	der	ADV		
+4	en	en	DET		
+5	række	række	NOUN		noun.quantity
+6	passagerer	passager	NOUN		noun.person
+7	,	,	PUNCT		
+8	blandt_andet	blandt_and	NOUN		
+9	en	en	DET		
+10	amerikaner	amerikaner	NOUN		noun.person
+11	og	og	CCONJ		
+12	tre	tre	ADJ		
+13	malayer	malay	NOUN		noun.person
+14	.	.	PUNCT		
+

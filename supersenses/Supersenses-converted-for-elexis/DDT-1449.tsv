@@ -1,0 +1,260 @@
+# newdoc id = DDT-1449.tsv
+# sent_id = 1
+# text =  ILD I TRABANTER
+1	ILD	ild	NOUN		noun.phenomenon
+2	I	i	ADP		
+3	TRABANTER	trabant	NOUN		noun.vehicle
+
+# newdoc id = DDT-1449.tsv
+# sent_id = 2
+# text =  De sidste par nætter har nazisterne brugt parkerede Trabanter til at barrikadere gaderne.
+1	De	den	DET		
+2	sidste	sidste	ADJ		adj.time
+3	par	par	NOUN		noun.quantity
+4	nætter	nat	NOUN		noun.time
+5	har	have	AUX		
+6	nazisterne	nazist	NOUN		noun.person
+7	brugt	bruge	VERB		verb.act
+8	parkerede	parkere	VERB		adj.all
+9	Trabanter	trabant	NOUN		noun.vehicle
+10	til	til	ADP		
+11	at	at	PART		
+12	barrikadere	barrikadere	VERB		verb.act
+13	gaderne	gade	NOUN		noun.location
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1449.tsv
+# sent_id = 3
+# text =  De små plasticbiler bliver stukket i brand for at holde politiet på afstand.
+1	De	den	DET		
+2	små	lille	ADJ		adj.phys
+3	plasticbiler	plasticbil	NOUN		noun.vehicle
+4	bliver	blive	AUX		
+5	stukket	stikke	VERB		verb.act
+6	i	i	ADP		
+7	brand	brand	NOUN		noun.phenomenon
+8	for	for	ADP		
+9	at	at	PART		
+10	holde	holde	VERB		verb.act
+11	politiet	politi	NOUN		noun.institution
+12	på	på	ADP		verb.COLL
+13	afstand	afstand	NOUN		verb.COLL
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1449.tsv
+# sent_id = 4
+# text =  Siden der ikke længere er en udlænding i miles omkreds, er politi og presse blevet hovedmålet for aggression og vold, og beboerne raser igen.
+1	Siden	siden	SCONJ		
+2	der	der	ADV		
+3	ikke	ikke	ADV		
+4	længere	lang	ADV		
+5	er	være	VERB		verb.stative
+6	en	en	DET		
+7	udlænding	udlænding	NOUN		noun.person
+8	i	i	ADP		
+9	miles	mile	NOUN		noun.quantity
+10	omkreds	omkreds	NOUN		noun.location
+11	,	,	PUNCT		
+12	er	være	AUX		verb.stative
+13	politi	politi	NOUN		noun.institution
+14	og	og	CCONJ		
+15	presse	presse	NOUN		noun.institution
+16	blevet	blive	AUX		verb.stative
+17	hovedmålet	hovedmål	NOUN		noun.motive
+18	for	for	ADP		
+19	aggression	aggression	NOUN		noun.feeling
+20	og	og	CCONJ		
+21	vold	vold	NOUN		noun.act
+22	,	,	PUNCT		
+23	og	og	CCONJ		
+24	beboerne	beboer	NOUN		noun.person
+25	raser	rasere	VERB		verb.emotion
+26	igen	igen	ADV		
+27	.	.	PUNCT		
+
+# newdoc id = DDT-1449.tsv
+# sent_id = 5
+# text =  I_dag synes de pludselig, at optøjerne er gået for langt.
+1	I_dag	i_dag	NOUN		noun.time
+2	synes	synes	VERB		verb.cognition
+3	de	den	PRON		
+4	pludselig	pludselig	ADV		
+5	,	,	PUNCT		
+6	at	at	SCONJ		
+7	optøjerne	optøjer	NOUN		noun.event
+8	er	være	AUX		
+9	gået	gå	VERB		verb.act
+10	for	for	ADV		verb.COLL
+11	langt	lang	ADV		verb.COLL
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1449.tsv
+# sent_id = 6
+# text =  Det har vel aldrig været deres mening, at Trabanterne skulle ryge med i kampens hede.
+1	Det	det	PRON		
+2	har	have	AUX		
+3	vel	vel	ADV		
+4	aldrig	aldrig	ADV		
+5	været	være	AUX		verb.stative
+6	deres	deres	DET		
+7	mening	mening	NOUN		noun.cognition
+8	,	,	PUNCT		
+9	at	at	SCONJ		
+10	Trabanterne	trabant	NOUN		noun.vehicle
+11	skulle	skulle	AUX		
+12	ryge	ryge	VERB		verb.phenomenon
+13	med	med	ADV		verb.PARTICLE
+14	i	i	ADP		
+15	kampens	kamp	NOUN		noun.event
+16	hede	hed	ADJ		noun.phenomenon
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1449.tsv
+# sent_id = 7
+# text =  At nogle vesttyske TV-selskaber har fået ødelagt kameraudstyr for millioner er mindre tragisk for folk i Lichtenhagen.
+1	At	at	SCONJ		
+2	nogle	nogen	DET		
+3	vesttyske	vesttysk	ADJ		adj.social
+4	TV-selskaber	tv-selskab	NOUN		noun.institution
+5	har	have	AUX		
+6	fået	få	VERB		verb.phenomenon
+7	ødelagt	ødelægge	VERB		verb.change
+8	kameraudstyr	kameraudstyr	NOUN		noun.artifact
+9	for	for	ADP		
+10	millioner	million	NOUN		noun.quantity
+11	er	være	AUX		verb.stative
+12	mindre	lille	ADV		
+13	tragisk	tragisk	ADJ		adj.all
+14	for	for	ADP		
+15	folk	folk	NOUN		noun.person
+16	i	i	ADP		
+17	Lichtenhagen	lichtenhagen	PROPN		noun.location
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1449.tsv
+# sent_id = 8
+# text =  Nu er tusindvis af venstreorienterede og højreorienterede ekstremister på vej til Rostock.
+1	Nu	nu	ADV		
+2	er	være	AUX		verb.stative
+3	tusindvis	tusindvis	ADV		noun.quantity
+4	af	af	ADP		
+5	venstreorienterede	venstreorienteret	ADJ		adj.mental
+6	og	og	CCONJ		
+7	højreorienterede	højreorienteret	ADJ		adj.mental
+8	ekstremister	ekstremist	NOUN		noun.person
+9	på	på	ADP		verb.COLL
+10	vej	vej	NOUN		verb.COLL
+11	til	til	ADP		
+12	Rostock	rostock	PROPN		noun.location
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1449.tsv
+# sent_id = 9
+# text =  De vil slås for og mod racisme, og de vil kæmpe mod hinanden.
+1	De	den	PRON		
+2	vil	ville	AUX		
+3	slås	slås	VERB		verb.act
+4	for	for	ADP		
+5	og	og	CCONJ		
+6	mod	mod	ADP		
+7	racisme	racisme	NOUN		noun.cognition
+8	,	,	PUNCT		
+9	og	og	CCONJ		
+10	de	den	PRON		
+11	vil	ville	AUX		
+12	kæmpe	kæmpe	VERB		verb.act
+13	mod	mod	ADP		
+14	hinanden	hinanden	PRON		
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1449.tsv
+# sent_id = 10
+# text = " Voldsturisme" bliver det kaldt.
+1	"	"	PUNCT		
+2	Voldsturisme	voldsturism	NOUN		noun.phenomenon
+3	"	"	PUNCT		
+4	bliver	blive	AUX		
+5	det	det	PRON		
+6	kaldt	kalde	VERB		verb.communication
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1449.tsv
+# sent_id = 11
+# text =  Hele byen venter i frygt og spænding.
+1	Hele	hel	ADJ		adj.phys
+2	byen	by	NOUN		noun.location
+3	venter	vente	VERB		verb.stative
+4	i	i	ADP		
+5	frygt	frygt	NOUN		noun.feeling
+6	og	og	CCONJ		
+7	spænding	spænding	NOUN		noun.feeling
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1449.tsv
+# sent_id = 12
+# text =  Weekenden kan blive lang og blodig.
+1	Weekenden	weekend	NOUN		noun.time
+2	kan	kunne	AUX		
+3	blive	blive	AUX		verb.change
+4	lang	lang	ADJ		adj.time
+5	og	og	CCONJ		
+6	blodig	blodig	ADJ		adj.phys
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1449.tsv
+# sent_id = 13
+# text =  Nazisterne lover at fortsætte til 1. september, dagen hvor Anden Verdenskrig blev startet i 1939.
+1	Nazisterne	nazist	NOUN		noun.person
+2	lover	love	VERB		verb.communication
+3	at	at	PART		
+4	fortsætte	fortsætte	VERB		verb.act
+5	til	til	ADP		
+6	1.	1.	ADJ		
+7	september	september	NOUN		noun.time
+8	,	,	PUNCT		
+9	dagen	dag	NOUN		noun.time
+10	hvor	hvor	ADV		
+11	Anden	anden	ADJ		noun.event
+12	Verdenskrig	verdenskrig	NOUN		noun.event
+13	blev	blive	AUX		
+14	startet	starte	VERB		verb.aspectual
+15	i	i	ADP		
+16	1939	1939	NUM		noun.time
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1449.tsv
+# sent_id = 14
+# text =  Det rene helvede kan bryde løs når som helst.
+1	Det	det	DET		
+2	rene	ren	ADJ		adj.all
+3	helvede	helvede	NOUN		noun.state
+4	kan	kunne	AUX		
+5	bryde	bryde	VERB		verb.aspectual
+6	løs	løse	ADV		verb.PARTICLE
+7	når	når	SCONJ		
+8	som	som	ADP		
+9	helst	helst	ADV		
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1449.tsv
+# sent_id = 15
+# text =  Folk her bad selv om det.
+1	Folk	folk	NOUN		noun.person
+2	her	her	ADV		
+3	bad	bede	VERB		verb.communication
+4	selv	selv	ADV		
+5	om	om	ADP		
+6	det	det	PRON		
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1449.tsv
+# sent_id = 16
+# text =  Nu kan de ikke stoppe det.
+1	Nu	nu	ADV		
+2	kan	kunne	AUX		
+3	de	den	PRON		
+4	ikke	ikke	ADV		
+5	stoppe	stoppe	VERB		verb.aspectual
+6	det	det	PRON		
+7	.	.	PUNCT		
+

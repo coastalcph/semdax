@@ -1,0 +1,1987 @@
+# newdoc id = bentesblog-6.tsv
+# sent_id = 1
+# text =  Tags: gæsteblogge, Madbevægelsen, madopskrifter
+1	Tags	tags	PROPN		noun.communication
+2	:	:	PUNCT		
+3	gæsteblogge	gæsteblog	NOUN		
+4	,	,	PUNCT		
+5	Madbevægelsen	madbevægelsen	PROPN		noun.institution
+6	,	,	PUNCT		
+7	madopskrifter	madopskrift	NOUN		noun.communication
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 2
+# text =  Hmmm jeg har jo overgivet mig og har lagt reklamer på den lille ny, Blogkvinder 40+, i håb om at få dækket nogen af driftomkostningerne ( vist naivt indtjeningen indtil nu har været 5 kroner i alt!).
+1	Hmmm	hmm	VERB		
+2	jeg	jeg	PRON		
+3	har	have	AUX		
+4	jo	jo	ADV		
+5	overgivet	overgive	VERB		
+6	mig	jeg	PRON		verb.REFLPRON
+7	og	og	CCONJ		
+8	har	have	AUX		
+9	lagt	lægge	VERB		verb.motion
+10	reklamer	reklame	NOUN		noun.communication
+11	på	på	ADP		
+12	den	den	DET		
+13	lille	lille	ADJ		adj.phys
+14	ny	ny	ADJ		adj.time
+15	,	,	PUNCT		
+16	Blogkvinder	blogkvinder	PROPN		noun.communication
+17	40+	40+	NUM		noun.communication
+18	,	,	PUNCT		
+19	i	i	ADP		
+20	håb	håb	NOUN		
+21	om	om	ADP		
+22	at	at	PART		
+23	få	få	VERB		
+24	dækket	dække	VERB		verb.possession
+25	nogen	nogen	PRON		
+26	af	af	ADP		
+27	driftomkostningerne	driftomkostning	NOUN		noun.quantity
+28	(	(	PUNCT		
+29	vist	vist	ADV		
+30	naivt	naiv	ADJ		adj.mental
+31	indtjeningen	indtjening	NOUN		noun.quantity
+32	indtil	indtil	ADP		
+33	nu	nu	ADV		
+34	har	have	AUX		
+35	været	være	AUX		verb.stative
+36	5	5	ADJ		
+37	kroner	krone	NOUN		noun.quantity
+38	i	i	ADP		
+39	alt	al	ADJ		
+40	!	!	PUNCT		
+41	)	)	PUNCT		
+42	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 3
+# text =  Dette indlæg blev udgivet den søndag, 23. november 2008 kl.13: 30 og er gemt i Min have, Vejr. Du kan følge alle svar til dette indlæg via RSS2. 0- feedet.
+1	Dette	denne	DET		
+2	indlæg	indlæg	NOUN		noun.communication
+3	blev	blive	AUX		
+4	udgivet	udgive	VERB		verb.communication
+5	den	den	DET		
+6	søndag	søndag	NOUN		noun.time
+7	,	,	PUNCT		
+8	23	23	PRON		
+9	.	.	PUNCT		
+10	november	november	NOUN		noun.time
+11	2008	2008	NUM		
+12	kl	kl	X		
+13	.	.	PUNCT		
+14	13	13	PUNCT		
+15	:	:	PUNCT		
+16	30	30	NUM		
+17	og	og	CCONJ		
+18	er	være	AUX		
+19	gemt	gemme	VERB		verb.motion
+20	i	i	ADP		
+21	Min	min	DET		noun.communication
+22	have	have	NOUN		noun.communication
+23	,	,	PUNCT		
+24	Vejr	vejr	PROPN		noun.phenomenon
+25	.	.	PUNCT		
+26	Du	du	PRON		
+27	kan	kunne	AUX		
+28	følge	følge	VERB		verb.act
+29	alle	al	ADJ		
+30	svar	svar	NOUN		noun.communication
+31	til	til	ADP		
+32	dette	denne	DET		
+33	indlæg	indlæg	NOUN		noun.communication
+34	via	via	ADP		
+35	RSS	rss	PROPN		noun.communication
+36	2	2	PUNCT		noun.communication
+37	.	.	PUNCT		noun.communication
+38	0	0	NUM		noun.communication
+39	-	-	PUNCT		noun.communication
+40	feedet	feed	NOUN		noun.communication
+41	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 4
+# text =  Men en fridag på en mandag falder i den uovertrufne kategori.
+1	Men	men	CCONJ		
+2	en	en	DET		
+3	fridag	fridag	NOUN		noun.time
+4	på	på	ADP		
+5	en	en	DET		
+6	mandag	mandag	NOUN		noun.time
+7	falder	falde	VERB		verb.stative
+8	i	i	ADP		
+9	den	den	DET		
+10	uovertrufne	uovertruffen	ADJ		adj.all
+11	kategori	kategori	NOUN		noun.abstract
+12	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 5
+# text =  Skønt at I er her jeg glæder mig til at møde nogen af jer til blogtræffet næste lørdag!
+1	Skønt	skønt	ADP		
+2	at	at	SCONJ		
+3	I	i	PRON		
+4	er	være	AUX		verb.stative
+5	her	her	ADV		
+6	jeg	jeg	PRON		
+7	glæder	glæde	VERB		verb.emotion
+8	mig	jeg	PRON		verb.COLL
+9	til	til	ADP		verb.COLL
+10	at	at	PART		
+11	møde	møde	VERB		verb.act
+12	nogen	nogen	PRON		
+13	af	af	ADP		
+14	jer	i	PRON		
+15	til	til	ADP		
+16	blogtræffet	blogtræf	NOUN		noun.event
+17	næste	næste	ADJ		
+18	lørdag	lørdag	NOUN		noun.time
+19	!	!	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 6
+# text =  Update:
+1	Update	update	NOUN		noun.act
+2	:	:	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 7
+# text =  Modtager du også mails med mærkelige tilbud om personlig assistance?
+1	Modtager	modtage	VERB		verb.possession
+2	du	du	PRON		
+3	også	også	ADV		
+4	mails	mail	NOUN		
+5	med	med	ADP		
+6	mærkelige	mærkelig	ADJ		adj.all
+7	tilbud	tilbud	NOUN		
+8	om	om	ADP		
+9	personlig	personlig	ADJ		adj.social
+10	assistance	assistance	NOUN		noun.act
+11	?	?	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 8
+# text =  Men bloggeriet kan føre andre spændende ting end dialog med sig.
+1	Men	men	CCONJ		
+2	bloggeriet	bloggeri	NOUN		noun.communication
+3	kan	kunne	AUX		
+4	føre	føre	VERB		verb.phenomenon
+5	andre	anden	DET		
+6	spændende	spændende	ADJ		adj.all
+7	ting	ting	NOUN		noun.TOP
+8	end	ende	ADP		
+9	dialog	dialog	NOUN		noun.communication
+10	med	med	ADP		verb.COLL
+11	sig	sig	PRON		verb.COLL
+12	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 9
+# text =  Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+1	Du	du	PRON		
+2	kan	kunne	AUX		
+3	skrive	skrive	VERB		verb.communication
+4	en	en	DET		
+5	kommentar	kommentar	NOUN		noun.communication
+6	,	,	PUNCT		
+7	eller	eller	CCONJ		
+8	sende	sende	VERB		verb.act
+9	et	en	DET		
+10	trackback	trackback	NOUN		noun.communication
+11	fra	fra	ADP		
+12	dit	dit	DET		
+13	eget	egen	ADJ		
+14	site	sit	NOUN		noun.communication
+15	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 10
+# text =  Nu er Majas novellesamling antaget og udkommet.
+1	Nu	nu	ADV		
+2	er	være	AUX		
+3	Majas	majas	PROPN		noun.person
+4	novellesamling	novellesamling	NOUN		noun.communication
+5	antaget	antage	VERB		
+6	og	og	CCONJ		
+7	udkommet	udkomme	VERB		verb.change
+8	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 11
+# text =  Tags: foto, kløver, mandag, sommer, sommerferie, træthed
+1	Tags	tags	PROPN		noun.communication
+2	:	:	PUNCT		
+3	foto	foto	INTJ		noun.artifact
+4	,	,	PUNCT		
+5	kløver	kløver	NOUN		noun.plant
+6	,	,	PUNCT		
+7	mandag	mandag	NOUN		noun.time
+8	,	,	PUNCT		
+9	sommer	sommer	NOUN		noun.time
+10	,	,	PUNCT		
+11	sommerferie	sommerferie	NOUN		noun.time
+12	,	,	PUNCT		
+13	træthed	træthed	NOUN		noun.feeling
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 12
+# text =  Fint, så sender jeg dig 20, sagde manden.
+1	Fint	fin	ADJ		
+2	,	,	PUNCT		
+3	så	så	ADV		
+4	sender	sende	VERB		verb.act
+5	jeg	jeg	PRON		
+6	dig	du	PRON		
+7	20	20	NUM		
+8	,	,	PUNCT		
+9	sagde	sige	VERB		verb.communication
+10	manden	mand	NOUN		noun.person
+11	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 13
+# text =  Slut med vinterferie, frihed og helt ned i gear- stemning.
+1	Slut	slut	NOUN		
+2	med	med	ADP		
+3	vinterferie	vinterferie	NOUN		noun.time
+4	,	,	PUNCT		
+5	frihed	frihed	NOUN		noun.feeling
+6	og	og	CCONJ		
+7	helt	helt	ADV		noun.feeling
+8	ned	ned	ADV		noun.feeling
+9	i	i	ADP		noun.feeling
+10	gear	gear	NOUN		noun.feeling
+11	-	-	PUNCT		noun.feeling
+12	stemning	stemning	NOUN		noun.feeling
+13	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 14
+# text =  For fem minutter siden.
+1	For	for	ADP		
+2	fem	fem	NUM		
+3	minutter	minut	NOUN		noun.time
+4	siden	siden	ADV		
+5	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 15
+# text =  En massagebold.
+1	En	en	DET		
+2	massagebold	massagebold	NOUN		noun.artifact
+3	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 16
+# text =  Det er" Boy"' s af Ron Mueck på ARoS.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	"	"	PUNCT		
+4	Boy	boy	PROPN		
+5	"	"	PUNCT		
+6	'	'	PUNCT		
+7	s	s	NOUN		
+8	af	af	ADP		
+9	Ron	ron	PROPN		noun.person
+10	Mueck	mueck	PROPN		noun.person
+11	på	på	ADP		
+12	ARoS	aros	PROPN		noun.building
+13	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 17
+# text =  Og så en rask tur gennem byen og en burger i Dalle Valle at køre hjem på jeg fascineres fortsat af, at man kan gå på café her, hvor jeg talrige gange handlede sammen med min mor, da jeg var barn ( det var før, det hed at shoppe).
+1	Og	og	CCONJ		
+2	så	så	SCONJ		
+3	en	en	DET		
+4	rask	rask	ADJ		
+5	tur	tur	NOUN		
+6	gennem	gennem	ADP		
+7	byen	by	NOUN		noun.location
+8	og	og	CCONJ		
+9	en	en	DET		
+10	burger	burger	NOUN		noun.food
+11	i	i	ADP		
+12	Dalle	dalle	PROPN		noun.building
+13	Valle	valle	PROPN		noun.building
+14	at	at	PART		
+15	køre	køre	VERB		verb.motion
+16	hjem	hjem	ADV		
+17	på	på	ADP		
+18	jeg	jeg	PRON		
+19	fascineres	fascinere	VERB		verb.emotion
+20	fortsat	fortsætte	ADV		
+21	af	af	ADP		
+22	,	,	PUNCT		
+23	at	at	SCONJ		
+24	man	man	PRON		
+25	kan	kunne	AUX		
+26	gå	gå	VERB		verb.motion
+27	på	på	ADP		
+28	café	café	NOUN		
+29	her	her	ADV		
+30	,	,	PUNCT		
+31	hvor	hvor	ADV		
+32	jeg	jeg	PRON		
+33	talrige	talrig	ADJ		adj.all
+34	gange	gang	NOUN		noun.quantity
+35	handlede	handle	VERB		verb.possession
+36	sammen	sammen	ADV		
+37	med	med	ADP		
+38	min	min	DET		
+39	mor	mor	NOUN		noun.person
+40	,	,	PUNCT		
+41	da	da	SCONJ		
+42	jeg	jeg	PRON		
+43	var	være	AUX		verb.stative
+44	barn	barn	NOUN		noun.person
+45	(	(	PUNCT		
+46	det	det	PRON		
+47	var	være	AUX		verb.stative
+48	før	før	ADV		
+49	,	,	PUNCT		
+50	det	det	PRON		
+51	hed	hede	VERB		verb.stative
+52	at	at	PART		
+53	shoppe	shoppe	VERB		
+54	)	)	PUNCT		
+55	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 18
+# text =  I dag skal jeg så møde nogle af foreningens medlemmer og det ser jeg frem til.
+1	I	i	ADP		
+2	dag	dag	NOUN		noun.time
+3	skal	skulle	AUX		
+4	jeg	jeg	PRON		
+5	så	så	ADV		
+6	møde	møde	VERB		verb.act
+7	nogle	nogen	PRON		
+8	af	af	ADP		
+9	foreningens	forening	NOUN		noun.institution
+10	medlemmer	medlem	NOUN		noun.person
+11	og	og	CCONJ		
+12	det	det	PRON		
+13	ser	se	VERB		verb.emotion
+14	jeg	jeg	PRON		
+15	frem	frem	ADV		verb.COLL
+16	til	til	ADP		verb.COLL
+17	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 19
+# text =  Det er vist et af resultaterne af, at vi har haft det tolvte varmeste efterår, siden man begyndte at måle den slags i 1874 ( if.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	vist	vise	VERB		
+4	et	en	PRON		
+5	af	af	ADP		
+6	resultaterne	resultat	NOUN		noun.abstract
+7	af	af	ADP		
+8	,	,	PUNCT		
+9	at	at	SCONJ		
+10	vi	vi	PRON		
+11	har	have	AUX		
+12	haft	have	VERB		verb.stative
+13	det	det	DET		
+14	tolvte	tolvte	NOUN		
+15	varmeste	varm	ADJ		adj.phys
+16	efterår	efterår	NOUN		noun.time
+17	,	,	PUNCT		
+18	siden	siden	SCONJ		
+19	man	man	PRON		
+20	begyndte	begynde	VERB		verb.aspectual
+21	at	at	PART		
+22	måle	måle	VERB		
+23	den	den	DET		
+24	slags	slags	NOUN		noun.abstract
+25	i	i	ADP		
+26	1874	1874	NOUN		noun.time
+27	(	(	PUNCT		
+28	if	if	NOUN		
+29	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 20
+# text =  Der er en nøgen ( helt bogstavelig) og rå sandhed i Manns fotografier, som tvinger mig til at tænke, ikke bare naivt percipere.
+1	Der	der	ADV		
+2	er	være	VERB		verb.stative
+3	en	en	DET		
+4	nøgen	nøgen	NOUN		adj.phys
+5	(	(	PUNCT		
+6	helt	helt	ADV		
+7	bogstavelig	bogstavelig	ADV		
+8	)	)	PUNCT		
+9	og	og	CCONJ		
+10	rå	rå	ADJ		adj.all
+11	sandhed	sandhed	NOUN		noun.abstract
+12	i	i	ADP		
+13	Manns	manns	PROPN		noun.person
+14	fotografier	fotografi	NOUN		noun.artifact
+15	,	,	PUNCT		
+16	som	som	PRON		
+17	tvinger	tvinge	VERB		verb.act
+18	mig	jeg	PRON		
+19	til	til	ADP		
+20	at	at	PART		
+21	tænke	tænke	VERB		verb.cognition
+22	,	,	PUNCT		
+23	ikke	ikke	ADV		
+24	bare	bare	ADV		
+25	naivt	naiv	ADJ		
+26	percipere	percipere	NOUN		verb.perception
+27	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 21
+# text =  Det er et helt andet liv.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	et	en	DET		
+4	helt	helt	ADV		
+5	andet	anden	DET		
+6	liv	liv	NOUN		noun.phenomenon
+7	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 22
+# text =  Og selvfølgelig holder jeg stadig snor i blogtræffet den 29. maj!
+1	Og	og	CCONJ		
+2	selvfølgelig	selvfølgelig	ADV		
+3	holder	holde	VERB		
+4	jeg	jeg	PRON		
+5	stadig	stadig	ADV		
+6	snor	snor	NOUN		verb.COLL
+7	i	i	ADP		verb.COLL
+8	blogtræffet	blogtræf	NOUN		noun.event
+9	den	den	PRON		
+10	29	29	ADV		
+11	.	.	PUNCT		
+12	maj	maj	NOUN		noun.time
+13	!	!	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 23
+# text =  Tags: foto, fotografere, Møffe
+1	Tags	tags	PROPN		noun.communication
+2	:	:	PUNCT		
+3	foto	foto	INTJ		noun.artifact
+4	,	,	PUNCT		
+5	fotografere	fotografere	VERB		verb.act
+6	,	,	PUNCT		
+7	Møffe	møffe	PROPN		noun.animal
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 24
+# text =  Tags: andrik, foto, fotoweekend, Skanderborg Sø, ællinger, ænder
+1	Tags	tags	PROPN		noun.communication
+2	:	:	PUNCT		
+3	andrik	andrik	X		noun.animal
+4	,	,	PUNCT		
+5	foto	foto	INTJ		noun.artifact
+6	,	,	PUNCT		
+7	fotoweekend	fotoweekend	NOUN		
+8	,	,	PUNCT		
+9	Skanderborg	skanderborg	PROPN		noun.location
+10	Sø	sø	PROPN		noun.location
+11	,	,	PUNCT		
+12	ællinger	ælling	NOUN		noun.animal
+13	,	,	PUNCT		
+14	ænder	and	NOUN		noun.animal
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 25
+# text =  Og tænk, manden nåede søreme også at svinge støvsugeren i går ( og at reparere min cykel i dag ( nej, ham klager jeg skam ikke over)).
+1	Og	og	CCONJ		
+2	tænk	tænk	INTJ		verb.cognition
+3	,	,	PUNCT		
+4	manden	mand	NOUN		noun.person
+5	nåede	nå	VERB		
+6	søreme	søreme	ADV		
+7	også	også	ADV		
+8	at	at	PART		
+9	svinge	svinge	VERB		verb.motion
+10	støvsugeren	støvsuger	NOUN		noun.artifact
+11	i	i	ADP		
+12	går	går	NOUN		
+13	(	(	PUNCT		
+14	og	og	CCONJ		
+15	at	at	PART		
+16	reparere	reparere	VERB		
+17	min	min	DET		
+18	cykel	cykel	NOUN		noun.vehicle
+19	i	i	ADP		
+20	dag	dag	NOUN		noun.time
+21	(	(	PUNCT		
+22	nej	nej	INTJ		
+23	,	,	PUNCT		
+24	ham	han	PRON		
+25	klager	klage	VERB		verb.communication
+26	jeg	jeg	PRON		
+27	skam	skam	ADV		
+28	ikke	ikke	ADV		
+29	over	over	ADP		
+30	)	)	PUNCT		
+31	)	)	PUNCT		
+32	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 26
+# text =  Så jo, jeg tæller ned til ferien.
+1	Så	så	ADV		
+2	jo	jo	ADV		
+3	,	,	PUNCT		
+4	jeg	jeg	PRON		
+5	tæller	tælle	VERB		verb.act
+6	ned	ned	ADV		
+7	til	til	ADP		
+8	ferien	ferie	NOUN		noun.time
+9	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 27
+# text =  Lyset, som jeg savner at møde hver morgen, når jeg forlader dynens favntag.
+1	Lyset	lys	NOUN		noun.phenomenon
+2	,	,	PUNCT		
+3	som	som	PRON		
+4	jeg	jeg	PRON		
+5	savner	savne	VERB		verb.emotion
+6	at	at	PART		
+7	møde	møde	VERB		
+8	hver	hver	PRON		
+9	morgen	morgen	NOUN		noun.time
+10	,	,	PUNCT		
+11	når	når	SCONJ		
+12	jeg	jeg	PRON		
+13	forlader	forlade	VERB		verb.motion
+14	dynens	dyne	NOUN		noun.artifact
+15	favntag	favntag	NOUN		
+16	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 28
+# text =  Ikke at jeg ikke bryder mig om søde sager ( for det gør jeg skam i ( for) høj grad), men når det handler om måltider, så er jeg meget mere til egentlig mad end det søde.
+1	Ikke	ikke	ADV		
+2	at	at	SCONJ		
+3	jeg	jeg	PRON		
+4	ikke	ikke	ADV		
+5	bryder	bryde	VERB		verb.emotion
+6	mig	jeg	PRON		verb.COLL
+7	om	om	ADP		verb.COLL
+8	søde	sød	ADJ		adj.phys
+9	sager	sag	NOUN		noun.food
+10	(	(	PUNCT		
+11	for	for	CCONJ		
+12	det	det	PRON		
+13	gør	gøre	VERB		verb.emotion
+14	jeg	jeg	PRON		
+15	skam	skam	ADV		
+16	i	i	ADP		
+17	(	(	PUNCT		
+18	for	for	CCONJ		
+19	)	)	PUNCT		
+20	høj	høj	ADJ		
+21	grad	grad	NOUN		
+22	)	)	PUNCT		
+23	,	,	PUNCT		
+24	men	men	CCONJ		
+25	når	når	SCONJ		
+26	det	det	PRON		
+27	handler	handle	VERB		verb.stative
+28	om	om	ADP		verb.COLL
+29	måltider	måltid	NOUN		noun.food
+30	,	,	PUNCT		
+31	så	så	ADV		
+32	er	være	AUX		verb.emotion
+33	jeg	jeg	PRON		
+34	meget	megen	ADV		
+35	mere	mere	ADV		
+36	til	til	ADP		verb.COLL
+37	egentlig	egentlig	ADV		adj.all
+38	mad	mad	NOUN		noun.food
+39	end	ende	ADP		
+40	det	det	DET		
+41	søde	sød	ADJ		adj.phys
+42	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 29
+# text =  I morgen er jeg helt klar til at være seriøs igen tror jeg nok
+1	I	i	ADP		
+2	morgen	morgen	NOUN		noun.time
+3	er	være	AUX		verb.stative
+4	jeg	jeg	PRON		
+5	helt	helt	ADV		
+6	klar	klar	ADJ		adj.mental
+7	til	til	ADP		
+8	at	at	PART		
+9	være	være	AUX		verb.stative
+10	seriøs	seriøs	ADJ		adj.mental
+11	igen	igen	ADV		
+12	tror	tro	VERB		verb.cognition
+13	jeg	jeg	PRON		
+14	nok	nok	ADV		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 30
+# text =  Åh ja, det er en ægte Woody Allen- replik.
+1	Åh	åh	INTJ		
+2	ja	ja	INTJ		
+3	,	,	PUNCT		
+4	det	det	PRON		
+5	er	være	AUX		verb.stative
+6	en	en	DET		
+7	ægte	ægte	ADJ		adj.all
+8	Woody	woody	NOUN		noun.communication
+9	Allen	allen	PROPN		noun.communication
+10	-	-	PUNCT		noun.communication
+11	replik	replik	NOUN		noun.communication
+12	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 31
+# text =  Dette indlæg blev udgivet den søndag, 31. maj 2009 kl. 20:55 og er gemt i Min have, Nydelse. Du kan følge alle svar til dette indlæg via RSS2. 0- feedet.
+1	Dette	denne	DET		
+2	indlæg	indlæg	NOUN		noun.communication
+3	blev	blive	AUX		
+4	udgivet	udgive	VERB		verb.communication
+5	den	den	DET		
+6	søndag	søndag	NOUN		noun.time
+7	,	,	PUNCT		
+8	31	31	PRON		
+9	.	.	PUNCT		
+10	maj	maj	NOUN		noun.time
+11	2009	2009	NUM		noun.time
+12	kl	kl	X		
+13	.	.	PUNCT		
+14	20	20	NUM		
+15	:	:	PUNCT		
+16	55	55	PUNCT		
+17	og	og	CCONJ		
+18	er	være	AUX		
+19	gemt	gemme	VERB		verb.motion
+20	i	i	ADP		
+21	Min	min	DET		noun.communication
+22	have	have	NOUN		noun.communication
+23	,	,	PUNCT		
+24	Nydelse	nydelse	PROPN		noun.feeling
+25	.	.	PUNCT		
+26	Du	du	PRON		
+27	kan	kunne	AUX		
+28	følge	følge	VERB		verb.motion
+29	alle	al	ADJ		
+30	svar	svar	NOUN		noun.communication
+31	til	til	ADP		
+32	dette	denne	DET		
+33	indlæg	indlæg	NOUN		noun.communication
+34	via	via	ADP		
+35	RSS	rss	PROPN		noun.communication
+36	2	2	PUNCT		noun.communication
+37	.	.	PUNCT		noun.communication
+38	0	0	NUM		noun.communication
+39	-	-	PUNCT		noun.communication
+40	feedet	feed	NOUN		noun.communication
+41	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 32
+# text =  På Business. dk kan du læse hele artiklen om den tankevækkende undersøgelse foretaget på Harvard University.
+1	På	på	ADP		
+2	Business	business	PROPN		noun.communication
+3	.	.	PUNCT		noun.communication
+4	dk	dk	PRON		noun.communication
+5	kan	kunne	AUX		
+6	du	du	PRON		
+7	læse	læse	VERB		verb.cognition
+8	hele	hel	ADJ		adj.phys
+9	artiklen	artikel	NOUN		noun.communication
+10	om	om	ADP		
+11	den	den	DET		
+12	tankevækkende	tankevækkende	ADJ		adj.mental
+13	undersøgelse	undersøgelse	NOUN		
+14	foretaget	foretage	VERB		verb.act
+15	på	på	ADP		
+16	Harvard	harvard	PROPN		noun.institution
+17	University	university	PROPN		noun.institution
+18	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 33
+# text =  At vågne i min egen seng ( godt nok kl.
+1	At	at	PART		
+2	vågne	vågne	VERB		verb.change
+3	i	i	ADP		
+4	min	min	DET		
+5	egen	egen	ADJ		adj.all
+6	seng	seng	NOUN		noun.artifact
+7	(	(	PUNCT		
+8	godt	godte	ADV		
+9	nok	nok	ADV		
+10	kl	kl	ADV		
+11	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 34
+# text =  Se selv, sådan cirka 20 cm fra min husmur pibler det frem.
+1	Se	se	VERB		verb.perception
+2	selv	selv	PRON		
+3	,	,	PUNCT		
+4	sådan	sådan	ADV		
+5	cirka	cirka	ADV		
+6	20	20	NUM		
+7	cm	cm	NOUN		noun.quantity
+8	fra	fra	ADP		
+9	min	min	DET		
+10	husmur	husmur	NOUN		noun.artifact
+11	pibler	pible	VERB		
+12	det	det	PRON		
+13	frem	frem	ADV		verb.PARTICLE
+14	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 35
+# text =  Jo længere vi kom hen på dagen i går, jo dårligere fik jeg det.
+1	Jo	jo	INTJ		
+2	længere	lang	ADV		
+3	vi	vi	PRON		
+4	kom	komme	VERB		verb.aspectual
+5	hen	hen	ADV		
+6	på	på	ADP		
+7	dagen	dag	NOUN		noun.time
+8	i	i	ADP		
+9	går	går	NOUN		
+10	,	,	PUNCT		
+11	jo	jo	SCONJ		
+12	dårligere	dårlig	ADV		
+13	fik	få	VERB		
+14	jeg	jeg	PRON		
+15	det	det	PRON		verb.COLL
+16	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 36
+# text =  Men i løbet af ingen tid trængte realiteterne sig på:
+1	Men	men	CCONJ		
+2	i	i	ADP		
+3	løbet	løb	NOUN		
+4	af	af	ADP		
+5	ingen	ingen	DET		
+6	tid	tid	NOUN		noun.time
+7	trængte	trænge	VERB		
+8	realiteterne	realitet	NOUN		noun.attribute
+9	sig	sig	PRON		verb.COLL
+10	på	på	ADP		verb.COLL
+11	:	:	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 37
+# text =  Nu varer det ikke længe, inden jeg finder en bus.
+1	Nu	nu	ADV		
+2	varer	vare	VERB		verb.aspectual
+3	det	det	PRON		
+4	ikke	ikke	ADV		
+5	længe	længe	ADV		
+6	,	,	PUNCT		
+7	inden	inden	SCONJ		
+8	jeg	jeg	PRON		
+9	finder	finde	VERB		verb.act
+10	en	en	DET		
+11	bus	bus	NOUN		noun.vehicle
+12	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 38
+# text =  Dette indlæg blev udgivet den mandag, 19. juli 2010 kl. 08:22 og er gemt i Ferie, Ægteskab. Du kan følge alle svar til dette indlæg via RSS2. 0- feedet.
+1	Dette	denne	DET		
+2	indlæg	indlæg	NOUN		noun.communication
+3	blev	blive	AUX		
+4	udgivet	udgive	VERB		verb.communication
+5	den	den	DET		
+6	mandag	mandag	NOUN		noun.time
+7	,	,	PUNCT		
+8	19	19	PRON		
+9	.	.	PUNCT		
+10	juli	juli	NOUN		noun.time
+11	2010	2010	NUM		noun.time
+12	kl	kl	X		
+13	.	.	PUNCT		
+14	08	08	NUM		
+15	:	:	PUNCT		
+16	22	22	PUNCT		
+17	og	og	CCONJ		
+18	er	være	AUX		
+19	gemt	gemme	VERB		verb.motion
+20	i	i	ADP		
+21	Ferie	ferie	NOUN		noun.communication
+22	,	,	PUNCT		
+23	Ægteskab	ægteskab	NOUN		noun.abstract
+24	.	.	PUNCT		
+25	Du	du	PRON		
+26	kan	kunne	AUX		
+27	følge	følge	VERB		verb.motion
+28	alle	al	ADJ		
+29	svar	svar	NOUN		noun.communication
+30	til	til	ADP		
+31	dette	denne	DET		
+32	indlæg	indlæg	NOUN		noun.communication
+33	via	via	ADP		
+34	RSS	rss	PROPN		noun.communication
+35	2	2	PUNCT		noun.communication
+36	.	.	PUNCT		noun.communication
+37	0	0	NUM		noun.communication
+38	-	-	PUNCT		noun.communication
+39	feedet	feed	NOUN		noun.communication
+40	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 39
+# text =  Tags:
+1	Tags	tag	NOUN		noun.communication
+2	:	:	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 40
+# text =  Der kan nu også være kønt på bunden
+1	Der	der	ADV		
+2	kan	kunne	VERB		
+3	nu	nu	ADV		
+4	også	også	ADV		
+5	være	være	AUX		verb.stative
+6	kønt	køn	ADJ		adj.all
+7	på	på	ADP		
+8	bunden	bund	NOUN		noun.location
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 41
+# text =  Vi ses senere
+1	Vi	vi	PRON		
+2	ses	ses	VERB		verb.act
+3	senere	sen	ADV		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 42
+# text =  Med et andet billede.
+1	Med	med	ADP		
+2	et	en	DET		
+3	andet	anden	DET		adj.all
+4	billede	billede	NOUN		noun.artifact
+5	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 43
+# text =  Og det har jeg det rigtig godt med!
+1	Og	og	CCONJ		
+2	det	det	PRON		
+3	har	have	VERB		verb.emotion
+4	jeg	jeg	PRON		
+5	det	det	PRON		verb.COLL
+6	rigtig	rigtig	ADV		
+7	godt	godte	ADV		
+8	med	med	ADP		
+9	!	!	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 44
+# text =  Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+1	Du	du	PRON		
+2	kan	kunne	AUX		
+3	skrive	skrive	VERB		verb.communication
+4	en	en	DET		
+5	kommentar	kommentar	NOUN		noun.communication
+6	,	,	PUNCT		
+7	eller	eller	CCONJ		
+8	sende	sende	VERB		verb.act
+9	et	en	DET		
+10	trackback	trackback	NOUN		noun.communication
+11	fra	fra	ADP		
+12	dit	dit	DET		
+13	eget	egen	ADJ		adj.all
+14	site	sit	NOUN		noun.communication
+15	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 45
+# text =  Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+1	Du	du	PRON		
+2	kan	kunne	AUX		
+3	skrive	skrive	VERB		verb.communication
+4	en	en	DET		
+5	kommentar	kommentar	NOUN		noun.communication
+6	,	,	PUNCT		
+7	eller	eller	CCONJ		
+8	sende	sende	VERB		verb.act
+9	et	en	DET		
+10	trackback	trackback	NOUN		noun.communication
+11	fra	fra	ADP		
+12	dit	dit	DET		
+13	eget	egen	ADJ		adj.all
+14	site	sit	NOUN		noun.communication
+15	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 46
+# text =  Selv synes jeg nu, at søgemaskineoptimering ( SEO) er superspændende og interessant.
+1	Selv	selv	ADV		
+2	synes	synes	VERB		verb.cognition
+3	jeg	jeg	PRON		
+4	nu	nu	ADV		
+5	,	,	PUNCT		
+6	at	at	SCONJ		
+7	søgemaskineoptimering	søgemaskineoptimering	NOUN		
+8	(	(	PUNCT		
+9	SEO	seo	PROPN		
+10	)	)	PUNCT		
+11	er	være	AUX		
+12	superspændende	superspændende	VERB		adj.mental
+13	og	og	CCONJ		
+14	interessant	interessant	ADJ		adj.mental
+15	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 47
+# text =  Selv om meget er blevet til hverdag i de forgangne seks år, holder vi stadig den 24. maj i hævd som en mindeværdig dag, der skal fejres.
+1	Selv	selv	ADV		
+2	om	om	ADP		
+3	meget	megen	ADV		
+4	er	være	AUX		
+5	blevet	blive	VERB		verb.change
+6	til	til	ADP		
+7	hverdag	hverdag	NOUN		noun.time
+8	i	i	ADP		
+9	de	den	DET		
+10	forgangne	forgangen	ADV		adj.time
+11	seks	seks	ADJ		
+12	år	år	NOUN		noun.time
+13	,	,	PUNCT		
+14	holder	holde	VERB		verb.act
+15	vi	vi	PRON		
+16	stadig	stadig	ADV		
+17	den	den	DET		
+18	24	24	NUM		
+19	.	.	PUNCT		
+20	maj	maj	NOUN		noun.time
+21	i	i	ADP		verb.COLL
+22	hævd	hævd	NOUN		verb.COLL
+23	som	som	ADP		
+24	en	en	DET		
+25	mindeværdig	mindeværdig	ADJ		adj.mental
+26	dag	dag	NOUN		noun.time
+27	,	,	PUNCT		
+28	der	der	PRON		
+29	skal	skulle	AUX		
+30	fejres	fejre	VERB		verb.social
+31	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 48
+# text =  Det er jeg også.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	jeg	jeg	PRON		
+4	også	også	ADV		
+5	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 49
+# text =  Og besøge vores venner.
+1	Og	og	CCONJ		
+2	besøge	besøge	VERB		verb.social
+3	vores	vores	DET		
+4	venner	ven	NOUN		noun.person
+5	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 50
+# text =  Dette indlæg blev udgivet den tirsdag, 17. marts 2009 kl. 10:57 og er gemt i De daglige sisyfosopgaver, Vejr. Du kan følge alle svar til dette indlæg via RSS2. 0- feedet.
+1	Dette	denne	DET		
+2	indlæg	indlæg	NOUN		noun.communication
+3	blev	blive	AUX		
+4	udgivet	udgive	VERB		verb.communication
+5	den	den	DET		
+6	tirsdag	tirsdag	NOUN		noun.time
+7	,	,	PUNCT		
+8	17	17	PRON		
+9	.	.	PUNCT		
+10	marts	marts	NOUN		noun.time
+11	2009	2009	NUM		noun.time
+12	kl	kl	X		
+13	.	.	PUNCT		
+14	10	10	NUM		
+15	:	:	PUNCT		
+16	57	57	PUNCT		
+17	og	og	CCONJ		
+18	er	være	AUX		
+19	gemt	gemme	VERB		verb.motion
+20	i	i	ADP		
+21	De	den	DET		noun.communication
+22	daglige	daglig	ADJ		noun.communication
+23	sisyfosopgaver	sisyfosopgav	NOUN		noun.communication
+24	,	,	PUNCT		
+25	Vejr	vejr	PROPN		noun.phenomenon
+26	.	.	PUNCT		
+27	Du	du	PRON		
+28	kan	kunne	AUX		
+29	følge	følge	VERB		verb.motion
+30	alle	al	ADJ		
+31	svar	svar	NOUN		noun.communication
+32	til	til	ADP		
+33	dette	denne	DET		
+34	indlæg	indlæg	NOUN		noun.communication
+35	via	via	ADP		
+36	RSS	rss	PROPN		noun.communication
+37	2	2	PUNCT		noun.communication
+38	.	.	PUNCT		noun.communication
+39	0	0	NUM		noun.communication
+40	-	-	PUNCT		noun.communication
+41	feedet	feed	NOUN		noun.communication
+42	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 51
+# text =  For jeg er fuldstændig smaskforelsket i dem.
+1	For	for	ADP		
+2	jeg	jeg	PRON		
+3	er	være	AUX		verb.stative
+4	fuldstændig	fuldstændig	ADV		
+5	smaskforelsket	smaskforelsk	VERB		adj.mental
+6	i	i	ADP		
+7	dem	de	PRON		
+8	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 52
+# text =  Så er der vist andre gode grunde end huskeregler om havemøbelvækgemning ved sommertids slutning til at pakke havemøblerne væk for i år.
+1	Så	så	ADV		
+2	er	være	AUX		verb.stative
+3	der	der	ADV		
+4	vist	vise	VERB		
+5	andre	anden	DET		adj.all
+6	gode	god	ADJ		adj.all
+7	grunde	grund	NOUN		noun.motive
+8	end	ende	ADP		
+9	huskeregler	huskeregel	NOUN		noun.cognition
+10	om	om	ADP		
+11	havemøbelvækgemning	havemøbelvækgemning	NOUN		noun.act
+12	ved	ved	ADP		
+13	sommertids	sommertid	NOUN		noun.time
+14	slutning	slutning	NOUN		noun.time
+15	til	til	ADP		
+16	at	at	PART		
+17	pakke	pakke	VERB		verb.motion
+18	havemøblerne	havemøbel	NOUN		noun.artifact
+19	væk	væk	ADV		verb.PARTICLE
+20	for	for	ADP		
+21	i	i	ADP		
+22	år	år	NOUN		noun.time
+23	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 53
+# text =  Kinesisk svirrer og summer i luften, og masser af skilte på varer er kun på kinesisk.
+1	Kinesisk	kinesisk	ADJ		noun.communication
+2	svirrer	svirre	NOUN		verb.phenomenon
+3	og	og	CCONJ		
+4	summer	summer	NOUN		verb.phenomenon
+5	i	i	ADP		
+6	luften	luft	NOUN		
+7	,	,	PUNCT		
+8	og	og	CCONJ		
+9	masser	masse	NOUN		noun.quantity
+10	af	af	ADP		
+11	skilte	skilt	NOUN		
+12	på	på	ADP		
+13	varer	vare	NOUN		noun.artifact
+14	er	være	AUX		verb.stative
+15	kun	kun	ADV		
+16	på	på	ADP		
+17	kinesisk	kinesisk	ADJ		noun.communication
+18	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 54
+# text =  Sådan har jeg sagt i årevis, når der bliver lige lovligt pænt omkring mig.
+1	Sådan	sådan	ADV		
+2	har	have	AUX		
+3	jeg	jeg	PRON		
+4	sagt	sige	VERB		verb.communication
+5	i	i	ADP		
+6	årevis	årevis	NOUN		
+7	,	,	PUNCT		
+8	når	når	SCONJ		
+9	der	der	ADV		
+10	bliver	blive	AUX		verb.change
+11	lige	lige	ADV		
+12	lovligt	lovlig	ADV		
+13	pænt	pæn	ADV		adj.phys
+14	omkring	omkring	ADP		
+15	mig	jeg	PRON		
+16	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 55
+# text =  Stilling til, om det nu også er nu, jeg skal i gang med at blogge igen.
+1	Stilling	stilling	NOUN		noun.cognition
+2	til	til	ADP		
+3	,	,	PUNCT		
+4	om	om	SCONJ		
+5	det	det	PRON		
+6	nu	nu	ADV		
+7	også	også	ADV		
+8	er	være	AUX		verb.stative
+9	nu	nu	ADV		
+10	,	,	PUNCT		
+11	jeg	jeg	PRON		
+12	skal	skulle	AUX		verb.aspectual
+13	i	i	ADP		verb.COLL
+14	gang	gang	NOUN		verb.COLL
+15	med	med	ADP		
+16	at	at	PART		
+17	blogge	blog	VERB		noun.communication
+18	igen	igen	ADV		
+19	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 56
+# text =  Og putte noget af den i fryseren til en anden dag.
+1	Og	og	CCONJ		
+2	putte	putte	VERB		verb.motion
+3	noget	nogen	PRON		
+4	af	af	ADP		
+5	den	den	PRON		
+6	i	i	ADP		
+7	fryseren	fryser	NOUN		noun.container
+8	til	til	ADP		
+9	en	en	DET		
+10	anden	anden	DET		adj.all
+11	dag	dag	NOUN		noun.time
+12	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 57
+# text =  Tags: foto, himmel, solnedgang, sommer
+1	Tags	tags	PROPN		
+2	:	:	PUNCT		
+3	foto	foto	INTJ		noun.artifact
+4	,	,	PUNCT		
+5	himmel	himmel	NOUN		noun.location
+6	,	,	PUNCT		
+7	solnedgang	solnedgang	NOUN		noun.phenomenon
+8	,	,	PUNCT		
+9	sommer	sommer	NOUN		noun.time
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 58
+# text =  En fornøjelig fredag det er lige præcis, hvad jeg ønsker jer alle.
+1	En	en	DET		
+2	fornøjelig	fornøjelig	ADJ		adj.mental
+3	fredag	fredag	NOUN		noun.time
+4	det	det	PRON		
+5	er	være	AUX		verb.stative
+6	lige	lige	ADV		
+7	præcis	præcis	ADV		
+8	,	,	PUNCT		
+9	hvad	hvad	PRON		
+10	jeg	jeg	PRON		
+11	ønsker	ønske	VERB		verb.emotion
+12	jer	i	PRON		
+13	alle	al	ADJ		
+14	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 59
+# text =  Det Kongelige Teater, foto, My Fair Lady, stedmorblomst, tøsetur
+1	Det	det	DET		noun.institution
+2	Kongelige	kongelig	ADJ		noun.institution
+3	Teater	teater	NOUN		noun.institution
+4	,	,	PUNCT		
+5	foto	foto	INTJ		noun.artifact
+6	,	,	PUNCT		
+7	My	my	PROPN		
+8	Fair	fair	PROPN		
+9	Lady	lady	PROPN		
+10	,	,	PUNCT		
+11	stedmorblomst	stedmorblomst	NOUN		noun.plant
+12	,	,	PUNCT		
+13	tøsetur	tøsetur	NOUN		noun.event
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 60
+# text =  Bliver vist nødt til at flade ud hele weekenden for at genvinde den aftappede energi og også vinde over den ihærdige omgang ondt i halsen, som ligger på toppen af det hele suk
+1	Bliver	blive	AUX		verb.emotion
+2	vist	vise	VERB		
+3	nødt	nødt	ADJ		verb.COLL
+4	til	til	ADP		verb.COLL
+5	at	at	PART		
+6	flade	flade	VERB		verb.stative
+7	ud	ud	ADV		verb.PARTICLE
+8	hele	hel	ADJ		adj.phys
+9	weekenden	weekend	NOUN		noun.time
+10	for	for	ADP		
+11	at	at	PART		
+12	genvinde	genvinde	VERB		verb.act
+13	den	den	DET		
+14	aftappede	aftappe	ADJ		adj.all
+15	energi	energi	NOUN		noun.feeling
+16	og	og	CCONJ		
+17	også	også	ADV		
+18	vinde	vinde	VERB		verb.competition
+19	over	over	ADP		verb.COLL
+20	den	den	DET		
+21	ihærdige	ihærdig	ADJ		adj.phys
+22	omgang	omgang	NOUN		noun.quantity
+23	ondt	ond	ADV		adj.phys
+24	i	i	ADP		
+25	halsen	hals	NOUN		noun.body
+26	,	,	PUNCT		
+27	som	som	PRON		
+28	ligger	ligge	VERB		verb.stative
+29	på	på	ADP		
+30	toppen	top	NOUN		noun.relation
+31	af	af	ADP		
+32	det	det	DET		
+33	hele	hel	ADJ		adj.all
+34	suk	suk	NOUN		noun.feeling
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 61
+# text =  Der er blogtræf, det er spændende, og det er i dag!
+1	Der	der	ADV		
+2	er	være	VERB		verb.stative
+3	blogtræf	blogtræf	NOUN		noun.event
+4	,	,	PUNCT		
+5	det	det	PRON		
+6	er	være	AUX		
+7	spændende	spændende	ADJ		adj.mental
+8	,	,	PUNCT		
+9	og	og	CCONJ		
+10	det	det	PRON		
+11	er	være	AUX		verb.stative
+12	i	i	ADP		
+13	dag	dag	NOUN		noun.time
+14	!	!	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 62
+# text =  Så lukker jeg ned og overlader huset til resten af familien.
+1	Så	så	ADV		
+2	lukker	lukke	VERB		verb.cognition|B-verb.aspectual
+3	jeg	jeg	PRON		
+4	ned	ned	ADV		verb.PARTICLE
+5	og	og	CCONJ		
+6	overlader	overlade	VERB		verb.possession|B-verb.act
+7	huset	hus	NOUN		noun.building
+8	til	til	ADP		
+9	resten	rest	NOUN		noun.quantity
+10	af	af	ADP		
+11	familien	familie	NOUN		noun.person
+12	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 63
+# text =  Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+1	Du	du	PRON		
+2	kan	kunne	AUX		
+3	skrive	skrive	VERB		verb.communication
+4	en	en	DET		
+5	kommentar	kommentar	NOUN		noun.communication
+6	,	,	PUNCT		
+7	eller	eller	CCONJ		
+8	sende	sende	VERB		
+9	et	en	DET		
+10	trackback	trackback	NOUN		noun.communication
+11	fra	fra	ADP		
+12	dit	dit	DET		
+13	eget	egen	ADJ		
+14	site	sit	NOUN		noun.communication
+15	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 64
+# text =  Nyd din onsdag.
+1	Nyd	nyde	VERB		verb.emotion
+2	din	din	DET		
+3	onsdag	onsdag	NOUN		noun.time
+4	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 65
+# text =  Efterhånden var der røget rigelige input på teenageren og mig, så vi begyndte så småt at tænke på en bus- og togtur hjem.
+1	Efterhånden	efterhånden	ADV		
+2	var	være	VERB		
+3	der	der	ADV		
+4	røget	røge	VERB		verb.phenomenon
+5	rigelige	rigelig	ADJ		adj.phys
+6	input	input	NOUN		noun.abstract
+7	på	på	ADP		
+8	teenageren	teenager	NOUN		noun.person
+9	og	og	CCONJ		
+10	mig	jeg	PRON		
+11	,	,	PUNCT		
+12	så	så	SCONJ		
+13	vi	vi	PRON		
+14	begyndte	begynde	VERB		verb.aspectual
+15	så	så	ADV		
+16	småt	småt	ADV		
+17	at	at	PART		
+18	tænke	tænke	VERB		verb.cognition
+19	på	på	ADP		
+20	en	en	DET		
+21	bus	bus	NOUN		
+22	-	-	PUNCT		
+23	og	og	CCONJ		
+24	togtur	togtur	NOUN		
+25	hjem	hjem	ADV		
+26	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 66
+# text =  Og et hoved, der kogte af alt for mange tanker.
+1	Og	og	CCONJ		
+2	et	en	DET		
+3	hoved	hoved	NOUN		noun.body
+4	,	,	PUNCT		
+5	der	der	PRON		
+6	kogte	koge	VERB		
+7	af	af	ADP		
+8	alt	al	ADJ		
+9	for	for	ADV		
+10	mange	mangen	ADJ		
+11	tanker	tanker	NOUN		noun.cognition
+12	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 67
+# text =  Og hvordan reagerer de, når appelsagen ikke fører til frifindelse, fordi der ikke findes beviser for uskylden, men derimod stadfæster fængselsstraffen på 20 år?
+1	Og	og	CCONJ		
+2	hvordan	hvordan	ADV		
+3	reagerer	reagere	VERB		verb.act
+4	de	den	PRON		
+5	,	,	PUNCT		
+6	når	når	SCONJ		
+7	appelsagen	appelsag	NOUN		noun.institution
+8	ikke	ikke	ADV		
+9	fører	føre	VERB		verb.phenomenon|B-verb.motion
+10	til	til	ADP		verb.COLL
+11	frifindelse	frifindelse	NOUN		noun.communication
+12	,	,	PUNCT		
+13	fordi	fordi	SCONJ		
+14	der	der	ADV		
+15	ikke	ikke	ADV		
+16	findes	findes	VERB		verb.stative
+17	beviser	bevis	NOUN		noun.abstract
+18	for	for	ADP		
+19	uskylden	uskyld	NOUN		noun.attribute
+20	,	,	PUNCT		
+21	men	men	CCONJ		
+22	derimod	derimod	ADV		
+23	stadfæster	stadfæste	VERB		verb.communication
+24	fængselsstraffen	fængselsstraf	NOUN		noun.abstract
+25	på	på	ADP		
+26	20	20	NUM		
+27	år	år	NOUN		noun.time
+28	?	?	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 68
+# text =  La Oficina, sommerskole, virksomhedsvækst
+1	La	la	PROPN		noun.institution
+2	Oficina	oficina	PROPN		noun.institution
+3	,	,	PUNCT		
+4	sommerskole	sommerskole	NOUN		noun.event
+5	,	,	PUNCT		
+6	virksomhedsvækst	virksomhedsvækst	NOUN		noun.phenomenon
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 69
+# text =  Og hvem har i øvrigt sagt, at man altid skal gøre alting sammen?
+1	Og	og	CCONJ		
+2	hvem	hvem	PRON		
+3	har	have	VERB		
+4	i	i	ADP		
+5	øvrigt	øvrig	ADV		
+6	sagt	sige	VERB		verb.communication
+7	,	,	PUNCT		
+8	at	at	SCONJ		
+9	man	man	PRON		
+10	altid	altid	ADV		
+11	skal	skulle	AUX		
+12	gøre	gøre	VERB		verb.act
+13	alting	alting	NOUN		
+14	sammen	sammen	ADV		
+15	?	?	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 70
+# text =  Så er det altså svært at klage over noget som helst.
+1	Så	så	ADV		
+2	er	være	AUX		verb.stative
+3	det	det	PRON		
+4	altså	altså	ADV		
+5	svært	svær	ADJ		adj.mental
+6	at	at	PART		
+7	klage	klage	VERB		verb.communication
+8	over	over	ADP		
+9	noget	nogen	DET		
+10	som	som	ADP		
+11	helst	helst	ADV		
+12	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 71
+# text =  Ergo er der masser af fred og den ensomhed, som jeg holder så forbandet meget af.
+1	Ergo	ergo	ADV		
+2	er	være	VERB		verb.stative
+3	der	der	ADV		
+4	masser	masse	NOUN		noun.quantity
+5	af	af	ADP		
+6	fred	fred	NOUN		
+7	og	og	CCONJ		
+8	den	den	DET		
+9	ensomhed	ensomhed	NOUN		noun.feeling
+10	,	,	PUNCT		
+11	som	som	PRON		
+12	jeg	jeg	PRON		
+13	holder	holde	VERB		verb.emotion
+14	så	så	ADV		
+15	forbandet	forbandet	ADV		
+16	meget	megen	ADJ		
+17	af	af	ADP		verb.PARTICLE
+18	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 72
+# text =  Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+1	Du	du	PRON		
+2	kan	kunne	AUX		
+3	skrive	skrive	VERB		verb.communication
+4	en	en	DET		
+5	kommentar	kommentar	NOUN		noun.communication
+6	,	,	PUNCT		
+7	eller	eller	CCONJ		
+8	sende	sende	VERB		
+9	et	en	DET		
+10	trackback	trackback	NOUN		noun.communication
+11	fra	fra	ADP		
+12	dit	dit	DET		
+13	eget	egen	ADJ		adj.all
+14	site	sit	NOUN		noun.communication
+15	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 73
+# text =  Det er nu ret hyggeligt at sidde inde og kigge ud på regnens plasken ( også gennem kameraet), selv om jeg jo skulle arbejde.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	nu	nu	ADV		
+4	ret	ret	ADV		
+5	hyggeligt	hyggelig	ADJ		adj.mental
+6	at	at	PART		
+7	sidde	sidde	VERB		verb.stative
+8	inde	inde	ADV		
+9	og	og	CCONJ		
+10	kigge	kigge	VERB		
+11	ud	ud	ADV		
+12	på	på	ADP		
+13	regnens	regn	DET		noun.phenomenon
+14	plasken	plasken	NOUN		noun.phenomenon
+15	(	(	PUNCT		
+16	også	også	ADV		
+17	gennem	gennem	ADP		
+18	kameraet	kamera	NOUN		noun.artifact
+19	)	)	PUNCT		
+20	,	,	PUNCT		
+21	selv	selv	ADV		
+22	om	om	ADP		
+23	jeg	jeg	PRON		
+24	jo	jo	ADV		
+25	skulle	skulle	AUX		
+26	arbejde	arbejde	VERB		
+27	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 74
+# text =  Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+1	Du	du	PRON		
+2	kan	kunne	AUX		
+3	skrive	skrive	VERB		verb.communication
+4	en	en	DET		
+5	kommentar	kommentar	NOUN		noun.communication
+6	,	,	PUNCT		
+7	eller	eller	CCONJ		
+8	sende	sende	VERB		
+9	et	en	DET		
+10	trackback	trackback	NOUN		noun.communication
+11	fra	fra	ADP		
+12	dit	dit	DET		
+13	eget	egen	ADJ		
+14	site	sit	NOUN		noun.communication
+15	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 75
+# text =  Tags:
+1	Tags	tag	NOUN		noun.communication
+2	:	:	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 76
+# text =  Hvorfor det er interessant at kaste sine egne ( nu og da navlepillende) skriverier i grams på nettet.
+1	Hvorfor	hvorfor	ADV		
+2	det	det	PRON		
+3	er	være	AUX		
+4	interessant	interessant	ADJ		adj.mental
+5	at	at	PART		
+6	kaste	kaste	VERB		
+7	sine	sin	DET		
+8	egne	egn	NOUN		adj.all
+9	(	(	PUNCT		
+10	nu	nu	ADV		
+11	og	og	CCONJ		
+12	da	da	ADV		
+13	navlepillende	navlepil	VERB		adj.mental
+14	)	)	PUNCT		
+15	skriverier	skriveri	NOUN		noun.communication
+16	i	i	ADP		verb.COLL
+17	grams	grams	NOUN		verb.COLL
+18	på	på	ADP		
+19	nettet	net	NOUN		noun.communication
+20	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 77
+# text =  t samt de øvrige samfundsfaglige 3. gere også stige ud af bussen først på eftermiddagen.
+1	t	t	NOUN		
+2	samt	samt	CCONJ		
+3	de	den	DET		
+4	øvrige	øvrig	ADJ		adj.all
+5	samfundsfaglige	samfundsfaglig	ADJ		adj.social
+6	3	3	NOUN		noun.person
+7	.	.	PUNCT		noun.person
+8	gere	ger	NOUN		noun.person
+9	også	også	ADV		
+10	stige	stige	VERB		verb.motion
+11	ud	ud	ADV		verb.PARTICLE
+12	af	af	ADP		
+13	bussen	bus	NOUN		noun.vehicle
+14	først	først	ADV		
+15	på	på	ADP		
+16	eftermiddagen	eftermiddag	NOUN		noun.time
+17	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 78
+# text =  God torsdag.
+1	God	god	ADJ		
+2	torsdag	torsdag	NOUN		noun.time
+3	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 79
+# text =  Og jeg kan li, hvad jeg hører!
+1	Og	og	CCONJ		
+2	jeg	jeg	PRON		
+3	kan	kunne	AUX		
+4	li	li	VERB		verb.emotion
+5	,	,	PUNCT		
+6	hvad	hvad	PRON		
+7	jeg	jeg	PRON		
+8	hører	høre	VERB		verb.perception
+9	!	!	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 80
+# text =  Nu er det endelig ved at fise ind.
+1	Nu	nu	ADV		
+2	er	være	AUX		verb.aspectual
+3	det	det	PRON		
+4	endelig	endelig	ADV		
+5	ved	ved	ADP		verb.COLL
+6	at	at	PART		
+7	fise	fise	VERB		verb.cognition
+8	ind	ind	ADV		verb.PARTICLE
+9	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 81
+# text =  Men på den milde måde.
+1	Men	men	CCONJ		
+2	på	på	ADP		
+3	den	den	DET		
+4	milde	mild	ADJ		adj.all
+5	måde	måde	NOUN		noun.abstract
+6	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 82
+# text =  For jeg fattede det simpelthen ikke selv.
+1	For	for	ADP		
+2	jeg	jeg	PRON		
+3	fattede	fatte	VERB		verb.cognition
+4	det	det	PRON		
+5	simpelthen	simpelthen	ADV		
+6	ikke	ikke	ADV		
+7	selv	selv	PRON		
+8	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 83
+# text =  Dette indlæg blev udgivet den lørdag, 3. maj 2008 kl.18:16 og er gemt i Min have, Vejr. Du kan følge alle svar til dette indlæg via RSS2. 0- feedet.
+1	Dette	denne	DET		
+2	indlæg	indlæg	NOUN		noun.communication
+3	blev	blive	AUX		
+4	udgivet	udgive	VERB		verb.communication
+5	den	den	DET		
+6	lørdag	lørdag	NOUN		noun.time
+7	,	,	PUNCT		
+8	3	3	PRON		
+9	.	.	PUNCT		
+10	maj	maj	NOUN		noun.time
+11	2008	2008	NUM		noun.time
+12	kl	kl	X		
+13	.	.	PUNCT		
+14	18	18	PUNCT		
+15	:	:	PUNCT		
+16	16	16	PUNCT		
+17	og	og	CCONJ		
+18	er	være	AUX		
+19	gemt	gemme	VERB		verb.motion
+20	i	i	ADP		
+21	Min	min	DET		
+22	have	have	NOUN		
+23	,	,	PUNCT		
+24	Vejr	vejr	PROPN		noun.phenomenon
+25	.	.	PUNCT		
+26	Du	du	PRON		
+27	kan	kunne	AUX		
+28	følge	følge	VERB		verb.motion
+29	alle	al	ADJ		
+30	svar	svar	NOUN		noun.communication
+31	til	til	ADP		
+32	dette	denne	DET		
+33	indlæg	indlæg	NOUN		noun.communication
+34	via	via	ADP		
+35	RSS	rss	PROPN		noun.communication
+36	2	2	PUNCT		noun.communication
+37	.	.	PUNCT		noun.communication
+38	0	0	NUM		noun.communication
+39	-	-	PUNCT		noun.communication
+40	feedet	feed	NOUN		noun.communication
+41	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 84
+# text =  Der stod simpelthen sommer hen over hele landskabet.
+1	Der	der	ADV		
+2	stod	stå	VERB		verb.stative
+3	simpelthen	simpelthen	ADV		
+4	sommer	sommer	NOUN		noun.time
+5	hen	hen	ADV		
+6	over	over	ADP		
+7	hele	hel	ADJ		
+8	landskabet	landskab	NOUN		noun.location
+9	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 85
+# text =  Mineralerne i vandet siges at have helbredende egenskaber.
+1	Mineralerne	mineral	NOUN		noun.substance
+2	i	i	ADP		
+3	vandet	vand	NOUN		noun.substance
+4	siges	sige	VERB		verb.communication
+5	at	at	PART		
+6	have	have	AUX		
+7	helbredende	helbrede	VERB		adj.phys
+8	egenskaber	egenskab	NOUN		noun.attribute
+9	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 86
+# text =  Det skulle da lige være, at den ikke varede længere, end den gjorde.
+1	Det	det	PRON		
+2	skulle	skulle	AUX		
+3	da	da	ADV		
+4	lige	lige	ADV		
+5	være	være	VERB		verb.stative
+6	,	,	PUNCT		
+7	at	at	SCONJ		
+8	den	den	PRON		
+9	ikke	ikke	ADV		
+10	varede	vare	VERB		verb.aspectual
+11	længere	lang	ADV		
+12	,	,	PUNCT		
+13	end	ende	ADP		
+14	den	den	PRON		
+15	gjorde	gøre	VERB		verb.aspectual
+16	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 87
+# text =  Identifikationen holdt.
+1	Identifikationen	identifikation	NOUN		noun.cognition
+2	holdt	holde	VERB		
+3	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 88
+# text =  I dag er det Catarina, der var min inspirationskilde.
+1	I	i	ADP		
+2	dag	dag	NOUN		noun.time
+3	er	være	AUX		verb.stative
+4	det	det	PRON		
+5	Catarina	catarina	PROPN		noun.person
+6	,	,	PUNCT		
+7	der	der	PRON		
+8	var	være	AUX		verb.stative
+9	min	min	DET		
+10	inspirationskilde	inspirationskilde	NOUN		noun.abstract
+11	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 89
+# text =  Næsten 200. 000?
+1	Næsten	næsten	ADV		
+2	200	200	NUM		
+3	.	.	PUNCT		
+4	000	000	NUM		
+5	?	?	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 90
+# text =  Tags: foto, Katte, nyde livet
+1	Tags	tags	PROPN		noun.communication
+2	:	:	PUNCT		
+3	foto	foto	INTJ		noun.artifact
+4	,	,	PUNCT		
+5	Katte	katte	PROPN		noun.animal
+6	,	,	PUNCT		
+7	nyde	nyde	VERB		verb.emotion
+8	livet	liv	NOUN		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 91
+# text =  For som en del af bloggens læsere ved, går jeg jo om nogen højt på i, at Lov om ophavsret respekteres.
+1	For	for	CCONJ		
+2	som	som	ADP		
+3	en	en	DET		
+4	del	del	NOUN		noun.quantity
+5	af	af	ADP		
+6	bloggens	blog	NOUN		noun.communication
+7	læsere	læser	NOUN		noun.person
+8	ved	ved	ADP		verb.cognition
+9	,	,	PUNCT		
+10	går	gå	VERB		verb.emotion
+11	jeg	jeg	PRON		
+12	jo	jo	ADV		
+13	om	om	ADP		
+14	nogen	nogen	DET		
+15	højt	høj	ADV		verb.COLL
+16	på	på	ADP		verb.COLL
+17	i	i	ADP		
+18	,	,	PUNCT		
+19	at	at	SCONJ		
+20	Lov	lov	PROPN		
+21	om	om	ADP		
+22	ophavsret	ophavsret	NOUN		
+23	respekteres	respektere	VERB		verb.emotion
+24	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 92
+# text =  Der er to #*?! #§#¤ søde pelsdyr, der har gravet og skrabet sneen helt væk helt inde ved huset.
+1	Der	der	ADV		
+2	er	være	VERB		
+3	to	to	NUM		
+4	#*	#*	X		
+5	?	?	PUNCT		
+6	!	!	PUNCT		
+7	#§#¤	#§#¤	DET		
+8	søde	sød	ADJ		
+9	pelsdyr	pelsdyr	NOUN		noun.animal
+10	,	,	PUNCT		
+11	der	der	PRON		
+12	har	have	AUX		
+13	gravet	grave	VERB		verb.contact
+14	og	og	CCONJ		
+15	skrabet	skrabe	VERB		verb.contact
+16	sneen	sne	NOUN		noun.substance
+17	helt	helt	ADV		
+18	væk	væk	ADV		
+19	helt	helt	ADV		
+20	inde	inde	ADV		
+21	ved	ved	ADP		
+22	huset	hus	NOUN		noun.building
+23	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 93
+# text =  Al den tid har vi fået forærende!
+1	Al	al	ADP		adj.phys
+2	den	den	DET		
+3	tid	tid	NOUN		noun.time
+4	har	have	AUX		
+5	vi	vi	PRON		
+6	fået	få	VERB		verb.possession
+7	forærende	forære	VERB		adj.all
+8	!	!	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 94
+# text =  Tags: folkekirken, grundlovsrevision, Humanistisk Samfund, Magasinet PENGE, teenager
+1	Tags	tags	PROPN		noun.communication
+2	:	:	PUNCT		
+3	folkekirken	folkekirke	NOUN		noun.institution
+4	,	,	PUNCT		
+5	grundlovsrevision	grundlovsrevision	NOUN		
+6	,	,	PUNCT		
+7	Humanistisk	humanistisk	ADJ		noun.institution
+8	Samfund	samfund	NOUN		noun.institution
+9	,	,	PUNCT		
+10	Magasinet	magasinet	PROPN		noun.communication
+11	PENGE	penge	PROPN		noun.communication
+12	,	,	PUNCT		
+13	teenager	teenager	NOUN		noun.person
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 95
+# text =  Du kan skrive en kommentar, eller sende et trackback fra dit eget site.
+1	Du	du	PRON		
+2	kan	kunne	AUX		
+3	skrive	skrive	VERB		verb.communication
+4	en	en	DET		
+5	kommentar	kommentar	NOUN		noun.communication
+6	,	,	PUNCT		
+7	eller	eller	CCONJ		
+8	sende	sende	VERB		
+9	et	en	DET		
+10	trackback	trackback	NOUN		noun.communication
+11	fra	fra	ADP		
+12	dit	dit	DET		
+13	eget	egen	ADJ		adj.all
+14	site	sit	NOUN		noun.communication
+15	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 96
+# text =  Er man sådan for alvor blevet helt og aldeles voksen, når man hellere vil læse videre i sin roman end at se Grease i tv?
+1	Er	være	AUX		
+2	man	man	PRON		
+3	sådan	sådan	ADV		
+4	for	for	ADP		
+5	alvor	alvor	NOUN		
+6	blevet	blive	AUX		verb.change
+7	helt	helt	ADV		
+8	og	og	CCONJ		
+9	aldeles	aldeles	ADV		
+10	voksen	voksen	ADJ		adj.phys
+11	,	,	PUNCT		
+12	når	når	SCONJ		
+13	man	man	PRON		
+14	hellere	hellere	ADV		
+15	vil	ville	AUX		
+16	læse	læse	VERB		verb.cognition
+17	videre	videre	ADV		
+18	i	i	ADP		
+19	sin	sin	DET		
+20	roman	roman	NOUN		noun.communication
+21	end	ende	ADP		
+22	at	at	PART		
+23	se	se	VERB		verb.perception
+24	Grease	grease	PROPN		
+25	i	i	ADP		
+26	tv	tv	NOUN		noun.communication
+27	?	?	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 97
+# text =  Her kan du også se, om din kommune deltager.
+1	Her	her	ADV		
+2	kan	kunne	AUX		
+3	du	du	PRON		
+4	også	også	ADV		
+5	se	se	VERB		verb.perception
+6	,	,	PUNCT		
+7	om	om	SCONJ		
+8	din	din	DET		
+9	kommune	kommune	NOUN		noun.institution
+10	deltager	deltage	VERB		
+11	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 98
+# text =  Med den forsinkelse, der er på bogføring af udenlandske transaktioner, så jeg allerede i ånden, at min konto ville nå at blive tømt ud over kassekreditmaksimum, inden Visakort- spærringen slog igennem.
+1	Med	med	ADP		
+2	den	den	DET		
+3	forsinkelse	forsinkelse	NOUN		noun.time
+4	,	,	PUNCT		
+5	der	der	PRON		
+6	er	være	VERB		verb.stative
+7	på	på	ADP		
+8	bogføring	bogføring	NOUN		
+9	af	af	ADP		
+10	udenlandske	udenlandsk	ADJ		adj.social
+11	transaktioner	transaktion	NOUN		noun.act
+12	,	,	PUNCT		
+13	så	så	SCONJ		verb.cognition
+14	jeg	jeg	PRON		
+15	allerede	allerede	ADV		
+16	i	i	ADP		
+17	ånden	ånde	NOUN		
+18	,	,	PUNCT		
+19	at	at	SCONJ		
+20	min	min	DET		
+21	konto	konto	NOUN		noun.communication
+22	ville	ville	AUX		
+23	nå	nå	VERB		verb.aspectual
+24	at	at	PART		
+25	blive	blive	AUX		
+26	tømt	tømme	VERB		verb.act
+27	ud	ud	ADV		
+28	over	over	ADP		
+29	kassekreditmaksimum	kassekreditmaksimum	NOUN		noun.quantity
+30	,	,	PUNCT		
+31	inden	inden	SCONJ		
+32	Visakort	visakort	NOUN		noun.act
+33	-	-	PUNCT		noun.act
+34	spærringen	spærring	NOUN		noun.act
+35	slog	slå	VERB		
+36	igennem	igennem	ADV		verb.PARTICLE
+37	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 99
+# text =  Så jeg er sikker på, vi får en fornøjelig dag, manden og jeg.
+1	Så	så	SCONJ		
+2	jeg	jeg	PRON		
+3	er	være	AUX		verb.stative
+4	sikker	sikker	ADJ		adj.mental
+5	på	på	ADP		
+6	,	,	PUNCT		
+7	vi	vi	PRON		
+8	får	få	VERB		verb.perception
+9	en	en	DET		
+10	fornøjelig	fornøjelig	ADJ		adj.mental
+11	dag	dag	NOUN		noun.time
+12	,	,	PUNCT		
+13	manden	mand	NOUN		noun.person
+14	og	og	CCONJ		
+15	jeg	jeg	PRON		
+16	.	.	PUNCT		
+
+# newdoc id = bentesblog-6.tsv
+# sent_id = 100
+# text = 1. søndag i advent, induktionskogeplader, Mad, æbleskivepande, æbleskiver
+1	1	1	PUNCT		
+2	.	.	PUNCT		
+3	søndag	søndag	NOUN		noun.time
+4	i	i	ADP		
+5	advent	advent	NOUN		noun.time
+6	,	,	PUNCT		
+7	induktionskogeplader	induktionskogeplad	NOUN		noun.artifact
+8	,	,	PUNCT		
+9	Mad	mad	NOUN		noun.food
+10	,	,	PUNCT		
+11	æbleskivepande	æbleskivepande	VERB		noun.container
+12	,	,	PUNCT		
+13	æbleskiver	æbleskive	NOUN		noun.food
+

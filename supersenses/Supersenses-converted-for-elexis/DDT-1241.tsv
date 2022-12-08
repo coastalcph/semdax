@@ -1,0 +1,246 @@
+# newdoc id = DDT-1241.tsv
+# sent_id = 1
+# text =  Det er de store multi-nationale selskabers danske afdelinger, der bruger millioner på TV-2-spots.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	de	den	DET		
+4	store	stor	ADJ		adj.all
+5	multi-nationale	multi-national	ADJ		adj.social
+6	selskabers	selskab	NOUN		noun.institution
+7	danske	dansk	ADJ		adj.social
+8	afdelinger	afdeling	NOUN		noun.institution
+9	,	,	PUNCT		
+10	der	der	PRON		
+11	bruger	bruge	VERB		verb.act
+12	millioner	million	NOUN		noun.quantity
+13	på	på	ADP		
+14	TV-2-spots	tv-2-spot	NOUN		noun.communication
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1241.tsv
+# sent_id = 2
+# text =  ABBA" Gold" har været massivt annonceret på tv, ligesom AC/DC og andre" greatest hits" bliver det.
+1	ABBA	abba	NOUN		noun.person
+2	"	"	PUNCT		
+3	Gold	gold	PROPN		noun.communication
+4	"	"	PUNCT		
+5	har	have	AUX		
+6	været	være	AUX		
+7	massivt	massiv	ADV		
+8	annonceret	annoncere	VERB		verb.communication
+9	på	på	ADP		
+10	tv	tv	NOUN		noun.communication
+11	,	,	PUNCT		
+12	ligesom	ligesom	SCONJ		
+13	AC/DC	ac/dc	PROPN		noun.person
+14	og	og	CCONJ		
+15	andre	anden	DET		
+16	"	"	PUNCT		
+17	greatest	greatest	X		noun.communication
+18	hits	hit	NOUN		noun.communication
+19	"	"	PUNCT		
+20	bliver	blive	AUX		verb.stative
+21	det	det	PRON		
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1241.tsv
+# sent_id = 3
+# text = " Jeg tror tv-annonce-kampagner skader dansk rock meget.
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	tror	tro	VERB		verb.cognition
+4	tv-annonce-kampagner	tv-annonce-kampagn	NOUN		noun.communication
+5	skader	skade	VERB		verb.change
+6	dansk	dansk	ADJ		adj.social
+7	rock	rock	NOUN		noun.domain
+8	meget	megen	ADV		
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1241.tsv
+# sent_id = 4
+# text =  Vi ved af erfaring, at der er en stor gruppe publikum, der blot køber tre-fire plader om året.
+1	Vi	vi	PRON		
+2	ved	vide	VERB		verb.cognition
+3	af	af	ADP		
+4	erfaring	erfaring	NOUN		noun.cognition
+5	,	,	PUNCT		
+6	at	at	SCONJ		
+7	der	der	ADV		
+8	er	være	VERB		verb.stative
+9	en	en	DET		
+10	stor	stor	ADJ		adj.phys
+11	gruppe	gruppe	NOUN		noun.person
+12	publikum	publikum	NOUN		noun.person
+13	,	,	PUNCT		
+14	der	der	PRON		
+15	blot	blot	ADV		
+16	køber	købe	VERB		verb.possession
+17	tre-fire	tre-fir	NOUN		
+18	plader	plade	NOUN		noun.artifact
+19	om	om	ADP		
+20	året	år	NOUN		noun.time
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1241.tsv
+# sent_id = 5
+# text =  Og hvor de tidligere måske købte Kim Larsen, Anne Linnet, TV-2, køber de nu, hvad de ser reklamer for på tv," siger Stefan Fryland, formand for pladeselskabernes sammenslutning IFPI.
+1	Og	og	CCONJ		
+2	hvor	hvor	ADV		
+3	de	den	DET		
+4	tidligere	tidlig	ADV		adj.time
+5	måske	måske	ADV		
+6	købte	købe	VERB		verb.possession
+7	Kim	kim	PROPN		noun.person
+8	Larsen	larsen	PROPN		noun.person
+9	,	,	PUNCT		
+10	Anne	anne	PROPN		noun.person
+11	Linnet	linnet	PROPN		noun.person
+12	,	,	PUNCT		
+13	TV-2	tv-2	NOUN		noun.person
+14	,	,	PUNCT		
+15	køber	købe	VERB		verb.possession
+16	de	den	PRON		
+17	nu	nu	ADV		
+18	,	,	PUNCT		
+19	hvad	hvad	PRON		
+20	de	den	PRON		
+21	ser	se	VERB		verb.perception
+22	reklamer	reklame	NOUN		noun.communication
+23	for	for	ADV		
+24	på	på	ADP		
+25	tv	tv	NOUN		noun.communication
+26	,	,	PUNCT		
+27	"	"	PUNCT		
+28	siger	sige	VERB		verb.communication
+29	Stefan	stefan	PROPN		noun.person
+30	Fryland	fryland	PROPN		noun.person
+31	,	,	PUNCT		
+32	formand	formand	NOUN		noun.person
+33	for	for	ADP		
+34	pladeselskabernes	pladeselskab	NOUN		noun.institution
+35	sammenslutning	sammenslutning	NOUN		noun.institution
+36	IFPI	ifpi	PROPN		noun.institution
+37	.	.	PUNCT		
+
+# newdoc id = DDT-1241.tsv
+# sent_id = 6
+# text =  Men Fryland er også direktør for Polygram- et af de selskaber, der tv-annoncerer mest massivt med opsam lings-plader, hvilket godt kan blotte hans udtalelse for god vilje.
+1	Men	men	CCONJ		
+2	Fryland	fryland	PROPN		noun.person
+3	er	være	AUX		verb.stative
+4	også	også	ADV		
+5	direktør	direktør	NOUN		noun.person
+6	for	for	ADP		
+7	Polygram	polygram	PROPN		noun.institution
+8	-	-	PUNCT		
+9	et	en	PRON		
+10	af	af	ADP		
+11	de	den	DET		
+12	selskaber	selskab	NOUN		noun.institution
+13	,	,	PUNCT		
+14	der	der	PRON		
+15	tv-annoncerer	tv-annonc	VERB		verb.communication
+16	mest	megen	ADV		
+17	massivt	massiv	ADV		
+18	med	med	ADP		
+19	opsam	opsam	X		noun.communication
+20	lings-plader	lings-plader	X		noun.communication
+21	,	,	PUNCT		
+22	hvilket	hvilken	PRON		
+23	godt	godte	ADV		
+24	kan	kunne	AUX		
+25	blotte	blotte	VERB		verb.phenomenon
+26	hans	hans	DET		
+27	udtalelse	udtalelse	NOUN		noun.communication
+28	for	for	ADP		
+29	god	god	ADJ		adj.all
+30	vilje	vilje	NOUN		noun.feeling
+31	.	.	PUNCT		
+
+# newdoc id = DDT-1241.tsv
+# sent_id = 7
+# text = " Jeg er klar over, at jeg har to kasketter og to regnestykker i den sag.
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	er	være	AUX		verb.cognition
+4	klar	klar	ADJ		verb.COLL
+5	over	over	ADP		verb.COLL
+6	,	,	PUNCT		
+7	at	at	SCONJ		
+8	jeg	jeg	PRON		
+9	har	have	VERB		verb.possession
+10	to	to	NUM		
+11	kasketter	kasket	NOUN		noun.artifact
+12	og	og	CCONJ		
+13	to	to	NUM		
+14	regnestykker	regnestykke	NOUN		noun.cognition
+15	i	i	ADP		
+16	den	den	DET		
+17	sag	sag	NOUN		noun.abstract
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1241.tsv
+# sent_id = 8
+# text =  Men det er også min helt personlige mening, at tv-spots er skadelige," siger han.
+1	Men	men	CCONJ		
+2	det	det	PRON		
+3	er	være	AUX		verb.stative
+4	også	også	ADV		
+5	min	min	DET		
+6	helt	helt	ADV		
+7	personlige	personlig	ADJ		adj.social
+8	mening	mening	NOUN		noun.feeling
+9	,	,	PUNCT		
+10	at	at	SCONJ		
+11	tv-spots	tv-spot	NOUN		noun.communication
+12	er	være	AUX		verb.stative
+13	skadelige	skadelig	ADJ		adj.all
+14	,	,	PUNCT		
+15	"	"	PUNCT		
+16	siger	sige	VERB		verb.communication
+17	han	han	PRON		
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1241.tsv
+# sent_id = 9
+# text =  Der findes ikke opgørelser over, hvor mange millioner kroner pladebranchen kaster ud i tv-kampagner.
+1	Der	der	ADV		
+2	findes	findes	VERB		verb.stative
+3	ikke	ikke	ADV		
+4	opgørelser	opgørelse	NOUN		noun.communication
+5	over	over	ADP		
+6	,	,	PUNCT		
+7	hvor	hvor	ADV		
+8	mange	mangen	ADJ		
+9	millioner	million	NOUN		noun.quantity
+10	kroner	krone	NOUN		noun.artifact
+11	pladebranchen	pladebranch	NOUN		noun.institution
+12	kaster	kaste	VERB		verb.possession
+13	ud	ud	ADV		
+14	i	i	ADP		
+15	tv-kampagner	tv-kampagn	NOUN		noun.communication
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1241.tsv
+# sent_id = 10
+# text =  Men flere mener, at det maner til eftertanke, at det totale salg alligevel er gået ned.
+1	Men	men	CCONJ		
+2	flere	flere	ADJ		
+3	mener	mene	VERB		verb.cognition
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	det	det	DET		
+7	maner	maner	NOUN		verb.phenomenon
+8	til	til	ADP		
+9	eftertanke	eftertanke	NOUN		noun.cognition
+10	,	,	PUNCT		
+11	at	at	SCONJ		
+12	det	det	DET		
+13	totale	total	ADJ		adj.all
+14	salg	salg	NOUN		noun.possession
+15	alligevel	alligevel	ADV		
+16	er	være	AUX		
+17	gået	gå	VERB		verb.change
+18	ned	ned	ADV		
+19	.	.	PUNCT		
+

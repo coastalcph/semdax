@@ -1,0 +1,230 @@
+# newdoc id = DDT-1306.tsv
+# sent_id = 1
+# text =  Dronningen har to gange før i sin regeringstid holdt bal for et bredt udsnit inden for kunstens verden.
+1	Dronningen	dronning	NOUN		noun.person
+2	har	have	AUX		
+3	to	to	NUM		
+4	gange	gang	NOUN		noun.quantity
+5	før	før	ADV		
+6	i	i	ADP		
+7	sin	sin	DET		
+8	regeringstid	regeringstid	NOUN		noun.time
+9	holdt	holde	VERB		verb.act
+10	bal	bal	NOUN		verb.COLL
+11	for	for	ADP		
+12	et	en	DET		
+13	bredt	bred	ADJ		adj.phys
+14	udsnit	udsnit	NOUN		noun.relation
+15	inden	inden	ADV		
+16	for	for	ADP		
+17	kunstens	kunst	NOUN		noun.domain
+18	verden	verden	NOUN		noun.domain
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1306.tsv
+# sent_id = 2
+# text =  Det var i 1976 og i 1985.
+1	Det	det	PRON		
+2	var	være	AUX		verb.stative
+3	i	i	ADP		
+4	1976	1976	NOUN		noun.time
+5	og	og	CCONJ		
+6	i	i	ADP		
+7	1985	1985	NUM		noun.time
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1306.tsv
+# sent_id = 3
+# text =  Kunstnerne behøver ikke at frygte, at de ved den lejlighed selv skal levere et nummer.
+1	Kunstnerne	kunstner	NOUN		noun.person
+2	behøver	behøve	VERB		verb.phenomenon
+3	ikke	ikke	ADV		
+4	at	at	PART		
+5	frygte	frygte	VERB		verb.emotion
+6	,	,	PUNCT		
+7	at	at	SCONJ		
+8	de	den	PRON		
+9	ved	ved	ADP		
+10	den	den	DET		
+11	lejlighed	lejlighed	NOUN		noun.event
+12	selv	selv	PRON		
+13	skal	skulle	AUX		
+14	levere	levere	VERB		verb.act
+15	et	en	DET		
+16	nummer	nummer	NOUN		noun.act
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1306.tsv
+# sent_id = 4
+# text =  Livgarden spiller taffelmusik, og der skal danses lancier.
+1	Livgarden	livgarde	NOUN		noun.person
+2	spiller	spille	VERB		verb.act
+3	taffelmusik	taffelmusik	NOUN		noun.domain
+4	,	,	PUNCT		
+5	og	og	CCONJ		
+6	der	der	ADV		
+7	skal	skulle	AUX		
+8	danses	danse	VERB		verb.act
+9	lancier	lancier	NOUN		noun.act
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1306.tsv
+# sent_id = 5
+# text =  Hvem der skal spille op til dans, skal helst være en overraskelse.
+1	Hvem	hvem	PRON		
+2	der	der	ADV		
+3	skal	skulle	AUX		
+4	spille	spille	VERB		verb.act
+5	op	op	ADV		verb.PARTICLE
+6	til	til	ADP		
+7	dans	dans	NOUN		noun.act
+8	,	,	PUNCT		
+9	skal	skulle	AUX		
+10	helst	helst	ADV		
+11	være	være	AUX		verb.stative
+12	en	en	DET		
+13	overraskelse	overraskelse	NOUN		noun.cognition
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1306.tsv
+# sent_id = 6
+# text =  PRINSERNE ER MED
+1	PRINSERNE	prins	NOUN		noun.person
+2	ER	være	AUX		verb.stative
+3	MED	med	ADV		verb.COLL
+
+# newdoc id = DDT-1306.tsv
+# sent_id = 7
+# text =  Kronprins Frederik og prins Joachim, der i denne weekend kommer hjem fra Malaysia, hvor de har været på ferie med deres far prins Henrik, skal også med til ballet.
+1	Kronprins	kronprins	NOUN		noun.person
+2	Frederik	frederik	PROPN		noun.person
+3	og	og	CCONJ		
+4	prins	prins	NOUN		noun.person
+5	Joachim	joachim	PROPN		noun.person
+6	,	,	PUNCT		
+7	der	der	PRON		
+8	i	i	ADP		
+9	denne	denne	DET		
+10	weekend	weekend	NOUN		noun.time
+11	kommer	komme	VERB		verb.motion
+12	hjem	hjem	ADV		verb.PARTICLE
+13	fra	fra	ADP		
+14	Malaysia	malaysia	PROPN		noun.location
+15	,	,	PUNCT		
+16	hvor	hvor	ADV		
+17	de	den	PRON		
+18	har	have	AUX		
+19	været	være	VERB		verb.stative
+20	på	på	ADP		
+21	ferie	ferie	NOUN		noun.time
+22	med	med	ADP		
+23	deres	deres	DET		
+24	far	far	NOUN		noun.person
+25	prins	prins	NOUN		noun.person
+26	Henrik	henrik	PROPN		noun.person
+27	,	,	PUNCT		
+28	skal	skulle	AUX		verb.phenomenon
+29	også	også	ADV		
+30	med	med	ADV		verb.PARTICLE
+31	til	til	ADP		
+32	ballet	ballet	NOUN		noun.event
+33	.	.	PUNCT		
+
+# newdoc id = DDT-1306.tsv
+# sent_id = 8
+# text =  Prins Henrik kommer først om en uge hjem fra Malaysia, hvor han skal sejle.
+1	Prins	prins	NOUN		noun.person
+2	Henrik	henrik	PROPN		noun.person
+3	kommer	komme	VERB		verb.motion
+4	først	først	ADV		
+5	om	om	ADP		
+6	en	en	DET		
+7	uge	uge	NOUN		noun.time
+8	hjem	hjem	ADV		verb.PARTICLE
+9	fra	fra	ADP		
+10	Malaysia	malaysia	PROPN		noun.location
+11	,	,	PUNCT		
+12	hvor	hvor	ADV		
+13	han	han	PRON		
+14	skal	skulle	AUX		
+15	sejle	sejle	VERB		verb.motion
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1306.tsv
+# sent_id = 9
+# text =  Af de mange andre, der glæder sig over hoffets invitation kan nævnes balletdanserne Alexander Kølpin og Rose Gad, operasanger Guido Paevatalu og hans kone Susanne Rolind, Eva Deichmann på Det Kgl. Teater, der har arbejdet meget sammen med Dronningen i forbindelse med Dronningens sceneografi på" Et Folkesagn", og Margrethe har i den sammenhæng heller ikke glemt sine kolleger, sceneografen Lars Juhl og Jens Jacob Worsaae.
+1	Af	af	ADP		
+2	de	den	DET		
+3	mange	mangen	ADJ		
+4	andre	anden	PRON		
+5	,	,	PUNCT		
+6	der	der	PRON		
+7	glæder	glæde	VERB		verb.emotion
+8	sig	sig	PRON		verb.REFLPRON
+9	over	over	ADP		
+10	hoffets	hof	NOUN		noun.person
+11	invitation	invitation	NOUN		noun.communication
+12	kan	kunne	AUX		
+13	nævnes	nævne	VERB		verb.communication
+14	balletdanserne	balletdanser	NOUN		noun.person
+15	Alexander	alexander	PROPN		noun.person
+16	Kølpin	kølpin	PROPN		noun.person
+17	og	og	CCONJ		
+18	Rose	rose	PROPN		noun.person
+19	Gad	gad	PROPN		noun.person
+20	,	,	PUNCT		
+21	operasanger	operasanger	NOUN		noun.person
+22	Guido	guido	PROPN		noun.person
+23	Paevatalu	paevatalu	PROPN		noun.person
+24	og	og	CCONJ		
+25	hans	hans	DET		
+26	kone	kone	NOUN		noun.person
+27	Susanne	susanne	PROPN		noun.person
+28	Rolind	rolind	PROPN		noun.person
+29	,	,	PUNCT		
+30	Eva	eva	PROPN		noun.person
+31	Deichmann	deichmann	PROPN		noun.person
+32	på	på	ADP		
+33	Det	det	DET		noun.institution
+34	Kgl.	kgl.	ADJ		noun.institution
+35	Teater	teater	NOUN		noun.institution
+36	,	,	PUNCT		
+37	der	der	PRON		
+38	har	have	AUX		
+39	arbejdet	arbejde	VERB		verb.act
+40	meget	megen	ADV		
+41	sammen	sammen	ADV		
+42	med	med	ADP		
+43	Dronningen	dronning	NOUN		noun.person
+44	i	i	ADP		
+45	forbindelse	forbindelse	NOUN		
+46	med	med	ADP		
+47	Dronningens	dronning	DET		noun.person
+48	sceneografi	sceneografi	NOUN		noun.act
+49	på	på	ADP		
+50	"	"	PUNCT		
+51	Et	en	DET		noun.communication
+52	Folkesagn	folkesagn	NOUN		noun.communication
+53	"	"	PUNCT		
+54	,	,	PUNCT		
+55	og	og	CCONJ		
+56	Margrethe	margrethe	PROPN		noun.person
+57	har	have	VERB		
+58	i	i	ADP		
+59	den	den	DET		
+60	sammenhæng	sammenhæng	NOUN		
+61	heller	heller	ADV		
+62	ikke	ikke	ADV		
+63	glemt	glemme	VERB		verb.cognition
+64	sine	sin	DET		
+65	kolleger	kolleg	NOUN		noun.person
+66	,	,	PUNCT		
+67	sceneografen	sceneografen	X		noun.person
+68	Lars	lars	PROPN		noun.person
+69	Juhl	juhl	PROPN		noun.person
+70	og	og	CCONJ		
+71	Jens	jens	PROPN		noun.person
+72	Jacob	jacob	PROPN		noun.person
+73	Worsaae	worsaae	PROPN		noun.person
+74	.	.	PUNCT		
+

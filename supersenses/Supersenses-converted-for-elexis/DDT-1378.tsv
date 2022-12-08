@@ -1,0 +1,226 @@
+# newdoc id = DDT-1378.tsv
+# sent_id = 1
+# text =  De kulhydrater, som optages langsomt i kroppen giver en god og langvarig mæthedsfornemmelse.
+1	De	den	DET		
+2	kulhydrater	kulhydrat	NOUN		noun.object
+3	,	,	PUNCT		
+4	som	som	PRON		
+5	optages	optage	VERB		verb.phenomenon
+6	langsomt	langsom	ADV		
+7	i	i	ADP		
+8	kroppen	krop	NOUN		noun.body
+9	giver	give	VERB		verb.phenomenon
+10	en	en	DET		
+11	god	god	ADJ		adj.all
+12	og	og	CCONJ		
+13	langvarig	langvarig	ADJ		adj.time
+14	mæthedsfornemmelse	mæthedsfornem	NOUN		noun.feeling
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1378.tsv
+# sent_id = 2
+# text =  De gode kulhydrater findes i brød, korn, pasta, ris, kartofler, grøntsager og frugt.
+1	De	den	DET		
+2	gode	god	ADJ		adj.all
+3	kulhydrater	kulhydrat	NOUN		noun.object
+4	findes	findes	VERB		verb.stative
+5	i	i	ADP		
+6	brød	brød	NOUN		noun.food
+7	,	,	PUNCT		
+8	korn	korn	NOUN		noun.food
+9	,	,	PUNCT		
+10	pasta	pasta	NOUN		noun.food
+11	,	,	PUNCT		
+12	ris	ris	NOUN		noun.food
+13	,	,	PUNCT		
+14	kartofler	kartoffel	NOUN		noun.food
+15	,	,	PUNCT		
+16	grøntsager	grøntsag	NOUN		noun.food
+17	og	og	CCONJ		
+18	frugt	frugt	NOUN		noun.food
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1378.tsv
+# sent_id = 3
+# text =  De skal indgå i ethvert måltid- og til mellemmåltiderne må de gerne være eneste komponent.
+1	De	den	PRON		
+2	skal	skulle	AUX		
+3	indgå	indgå	VERB		verb.stative
+4	i	i	ADP		
+5	ethvert	enhver	DET		
+6	måltid	måltid	NOUN		noun.food
+7	-	-	PUNCT		
+8	og	og	CCONJ		
+9	til	til	ADP		
+10	mellemmåltiderne	mellemmåltid	NOUN		noun.food
+11	må	måtte	AUX		
+12	de	den	PRON		
+13	gerne	gerne	ADV		
+14	være	være	AUX		verb.stative
+15	eneste	eneste	ADJ		adj.all
+16	komponent	komponent	NOUN		noun.abstract
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1378.tsv
+# sent_id = 4
+# text =  Mælk og smør
+1	Mælk	mælk	NOUN		noun.food
+2	og	og	CCONJ		
+3	smør	smør	NOUN		noun.food
+
+# newdoc id = DDT-1378.tsv
+# sent_id = 5
+# text =  Fedtsyrerne deles op i mættede, fleurmættede og monoumættede typer.
+1	Fedtsyrerne	fedtsyre	NOUN		noun.object
+2	deles	dele	VERB		verb.cognition
+3	op	op	ADV		verb.PARTICLE
+4	i	i	ADP		
+5	mættede	mætte	VERB		adj.all
+6	,	,	PUNCT		
+7	fleurmættede	fleurmætted	ADJ		adj.all
+8	og	og	CCONJ		
+9	monoumættede	monoumættet	ADJ		adj.all
+10	typer	type	NOUN		noun.abstract
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1378.tsv
+# sent_id = 6
+# text =  De skal indgå i lige dele i kosten.
+1	De	den	PRON		
+2	skal	skulle	AUX		
+3	indgå	indgå	VERB		verb.stative
+4	i	i	ADP		
+5	lige	lige	ADJ		adj.all
+6	dele	del	NOUN		noun.relation
+7	i	i	ADP		
+8	kosten	kost	NOUN		noun.food
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1378.tsv
+# sent_id = 7
+# text =  De fleste danskere spiser for mange mættede fedtsyrer, der findes i mejeriprodukter og kødvarer.
+1	De	den	DET		
+2	fleste	mangen	ADJ		
+3	danskere	dansker	NOUN		noun.person
+4	spiser	spise	VERB		verb.consumption
+5	for	for	ADP		
+6	mange	mangen	ADJ		adj.all
+7	mættede	mætte	VERB		adj.all
+8	fedtsyrer	fedtsyre	NOUN		noun.object
+9	,	,	PUNCT		
+10	der	der	PRON		
+11	findes	findes	VERB		verb.stative
+12	i	i	ADP		
+13	mejeriprodukter	mejeriprodukt	NOUN		noun.food
+14	og	og	CCONJ		
+15	kødvarer	kødvare	NOUN		noun.food
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1378.tsv
+# sent_id = 8
+# text =  Fleurmættede fedtsyrer er indeholdt i majs-, vindruekerne- og solsikkeolie samt i minariner.
+1	Fleurmættede	fleurmætted	ADJ		adj.all
+2	fedtsyrer	fedtsyre	NOUN		adj.all
+3	er	være	AUX		
+4	indeholdt	indeholde	ADV		verb.stative
+5	i	i	ADP		
+6	majs-	majs-	NOUN		noun.food
+7	,	,	PUNCT		
+8	vindruekerne-	vindruekerne-	X		noun.food
+9	og	og	CCONJ		
+10	solsikkeolie	solsikkeolie	NOUN		noun.food
+11	samt	samt	CCONJ		
+12	i	i	ADP		
+13	minariner	minarine	NOUN		noun.food
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1378.tsv
+# sent_id = 9
+# text =  Monomættede fedtsyrer findes først og fremmest i olivenolie og er i_øvrigt den fedtsyre, der spises mest af sydpå, hvor de ikke forekommer så mange hjerte-kar sygdomme.
+1	Monomættede	monomætted	ADJ		adj.all
+2	fedtsyrer	fedtsyre	NOUN		noun.object
+3	findes	findes	VERB		verb.stative
+4	først	først	ADV		
+5	og	og	CCONJ		
+6	fremmest	fremmest	ADJ		
+7	i	i	ADP		
+8	olivenolie	olivenolie	NOUN		noun.food
+9	og	og	CCONJ		
+10	er	være	AUX		verb.stative
+11	i_øvrigt	i_øvr	ADV		
+12	den	den	DET		
+13	fedtsyre	fedtsyre	NOUN		noun.object
+14	,	,	PUNCT		
+15	der	der	PRON		
+16	spises	spise	VERB		verb.consumption
+17	mest	megen	ADJ		
+18	af	af	ADP		
+19	sydpå	sydpå	ADV		noun.location
+20	,	,	PUNCT		
+21	hvor	hvor	ADV		
+22	de	den	PRON		
+23	ikke	ikke	ADV		
+24	forekommer	forekomme	VERB		verb.phenomenon
+25	så	så	ADV		
+26	mange	mangen	ADJ		adj.all
+27	hjerte-kar	hjerte-kar	NOUN		noun.disease
+28	sygdomme	sygdom	NOUN		noun.disease
+29	.	.	PUNCT		
+
+# newdoc id = DDT-1378.tsv
+# sent_id = 10
+# text =  Fisk og fjerkræ
+1	Fisk	fisk	NOUN		
+2	og	og	CCONJ		
+3	fjerkræ	fjerkræ	NOUN		
+
+# newdoc id = DDT-1378.tsv
+# sent_id = 11
+# text =  Protein forekommer hovedsageligt i protein, fisk og fjerkræ.
+1	Protein	protein	NOUN		noun.object
+2	forekommer	forekomme	VERB		verb.phenomenon
+3	hovedsageligt	hovedsagelig	ADV		
+4	i	i	ADP		
+5	protein	protein	NOUN		noun.object
+6	,	,	PUNCT		
+7	fisk	fisk	NOUN		noun.food
+8	og	og	CCONJ		
+9	fjerkræ	fjerkræ	NOUN		noun.food
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1378.tsv
+# sent_id = 12
+# text =  Der er en tendens til, vi herhjemme får for meget protein fra forkerte kilder.
+1	Der	der	ADV		
+2	er	være	VERB		verb.stative
+3	en	en	DET		
+4	tendens	tendens	NOUN		noun.phenomenon
+5	til	til	ADP		
+6	,	,	PUNCT		
+7	vi	vi	PRON		
+8	herhjemme	herhjemme	ADV		
+9	får	få	VERB		verb.consumption
+10	for	for	ADV		
+11	meget	megen	ADJ		
+12	protein	protein	NOUN		noun.object
+13	fra	fra	ADP		
+14	forkerte	forkert	ADJ		adj.all
+15	kilder	kilder	NOUN		noun.abstract
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1378.tsv
+# sent_id = 13
+# text =  Det skyldes vores alt for store forbrug af okse- og svinekød.
+1	Det	det	PRON		
+2	skyldes	skyldes	VERB		verb.stative
+3	vores	vores	DET		
+4	alt	alt	ADV		
+5	for	for	ADV		
+6	store	stor	ADJ		adj.all
+7	forbrug	forbrug	NOUN		noun.act
+8	af	af	ADP		
+9	okse-	okse-	X		noun.food
+10	og	og	CCONJ		
+11	svinekød	svinekød	NOUN		noun.food
+12	.	.	PUNCT		
+

@@ -1,0 +1,229 @@
+# newdoc id = DDT-1468.tsv
+# sent_id = 1
+# text =  Og siger:" Det er fast arbejde."
+1	Og	og	CCONJ		
+2	siger	sige	VERB		verb.communication
+3	:	:	PUNCT		
+4	"	"	PUNCT		
+5	Det	det	PRON		
+6	er	være	AUX		verb.stative
+7	fast	fast	ADJ		adj.all
+8	arbejde	arbejde	NOUN		noun.act
+9	.	.	PUNCT		
+10	"	"	PUNCT		
+
+# newdoc id = DDT-1468.tsv
+# sent_id = 2
+# text =  Svendsen kører derud i ambulancen.
+1	Svendsen	svendsen	PROPN		noun.person
+2	kører	køre	VERB		verb.motion
+3	derud	derud	ADV		
+4	i	i	ADP		
+5	ambulancen	ambulance	NOUN		noun.vehicle
+6	.	.	PUNCT		
+
+# newdoc id = DDT-1468.tsv
+# sent_id = 3
+# text =  Det er mest praktisk.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	mest	megen	ADV		
+4	praktisk	praktisk	ADJ		adj.all
+5	.	.	PUNCT		
+
+# newdoc id = DDT-1468.tsv
+# sent_id = 4
+# text =  For går han hen og fumler med en mine, skal han alligevel først på infirmeriet.
+1	For	for	CCONJ		
+2	går	gå	VERB		verb.motion
+3	han	han	PRON		
+4	hen	hen	ADV		
+5	og	og	CCONJ		
+6	fumler	fumler	NOUN		verb.change
+7	med	med	ADP		
+8	en	en	DET		
+9	mine	mine	NOUN		noun.artifact
+10	,	,	PUNCT		
+11	skal	skulle	AUX		verb.phenomenon
+12	han	han	PRON		
+13	alligevel	alligevel	ADV		
+14	først	først	ADV		
+15	på	på	ADP		
+16	infirmeriet	infirmeri	NOUN		noun.building
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1468.tsv
+# sent_id = 5
+# text =  Og så kan man lige så godt have ambulancen derude med det samme.
+1	Og	og	CCONJ		
+2	så	så	ADV		
+3	kan	kunne	AUX		
+4	man	man	PRON		
+5	lige	lige	ADV		
+6	så	så	ADV		
+7	godt	godte	ADV		
+8	have	have	VERB		verb.phenomenon
+9	ambulancen	ambulance	NOUN		noun.vehicle
+10	derude	derude	ADV		
+11	med	med	ADP		
+12	det	det	DET		
+13	samme	samme	ADJ		
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1468.tsv
+# sent_id = 6
+# text =  GRUSOM PROCES
+1	GRUSOM	grusom	ADJ		adj.all
+2	PROCES	proces	NOUN		noun.abstract
+
+# newdoc id = DDT-1468.tsv
+# sent_id = 7
+# text =  FN-forhandleren, den tidligere amerikanske udenrigsminister Cyrus Vance's plan om adskillelse af de kæmpende parter i det, der engang var Jugoslavien, er her ført ud i praktisk markarbejde af kampvognssoldater fra Jyske Dragonregiment, A-kompagniet i UNPROFOR, FNs fredsstyrke i den nyudråbte, ikke anerkendte Kreijna-republik.
+1	FN-forhandleren	fn-forhandl	NOUN		noun.person
+2	,	,	PUNCT		
+3	den	den	DET		
+4	tidligere	tidlig	ADV		adj.time
+5	amerikanske	amerikansk	ADJ		adj.social
+6	udenrigsminister	udenrigsminister	NOUN		noun.person
+7	Cyrus	cyrus	PROPN		noun.person
+8	Vance's	vance's	PROPN		noun.person
+9	plan	plan	NOUN		noun.cognition
+10	om	om	ADP		
+11	adskillelse	adskillelse	NOUN		noun.act
+12	af	af	ADP		
+13	de	den	DET		
+14	kæmpende	kæmpe	VERB		adj.all
+15	parter	part	NOUN		noun.person
+16	i	i	ADP		
+17	det	det	PRON		
+18	,	,	PUNCT		
+19	der	der	ADV		
+20	engang	engang	ADV		
+21	var	være	AUX		verb.stative
+22	Jugoslavien	jugoslavien	PROPN		noun.location
+23	,	,	PUNCT		
+24	er	være	AUX		
+25	her	her	ADV		
+26	ført	føre	VERB		verb.act
+27	ud	ud	ADV		verb.PARTICLE
+28	i	i	ADP		
+29	praktisk	praktisk	ADJ		adj.all
+30	markarbejde	markarbejde	NOUN		noun.act
+31	af	af	ADP		
+32	kampvognssoldater	kampvognssoldat	NOUN		noun.person
+33	fra	fra	ADP		
+34	Jyske	jysk	ADJ		noun.institution
+35	Dragonregiment	dragonregiment	NOUN		noun.institution
+36	,	,	PUNCT		
+37	A-kompagniet	a-kompagni	NOUN		noun.institution
+38	i	i	ADP		
+39	UNPROFOR	unprofor	PROPN		noun.institution
+40	,	,	PUNCT		
+41	FNs	fns	PROPN		noun.institution
+42	fredsstyrke	fredsstyrke	NOUN		noun.institution
+43	i	i	ADP		
+44	den	den	DET		
+45	nyudråbte	nyudråbt	ADJ		adj.all
+46	,	,	PUNCT		
+47	ikke	ikke	ADV		adj.all
+48	anerkendte	anerkende	VERB		adj.all
+49	Kreijna-republik	kreijna-republik	NOUN		noun.institution
+50	.	.	PUNCT		
+
+# newdoc id = DDT-1468.tsv
+# sent_id = 8
+# text =  Her har Tom Jensen og 120 kammerater sat en grænse for krig.
+1	Her	her	ADV		
+2	har	have	AUX		
+3	Tom	tom	PROPN		noun.person
+4	Jensen	jensen	PROPN		noun.person
+5	og	og	CCONJ		
+6	120	120	NUM		
+7	kammerater	kammerat	NOUN		noun.person
+8	sat	sætte	VERB		verb.act
+9	en	en	DET		
+10	grænse	grænse	NOUN		noun.abstract
+11	for	for	ADP		
+12	krig	krig	NOUN		noun.act
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1468.tsv
+# sent_id = 9
+# text =  Men det tidligere Jugoslavien, som blev sammentømret med hård hånd af Anden Verdenskrigs partisanhelt, marskal Tito, tog ikke hensyn til befolkningens etniske grænser.
+1	Men	men	CCONJ		
+2	det	det	DET		
+3	tidligere	tidlig	ADJ		adj.time
+4	Jugoslavien	jugoslavien	PROPN		noun.institution
+5	,	,	PUNCT		
+6	som	som	PRON		
+7	blev	blive	AUX		
+8	sammentømret	sammentømr	VERB		verb.change
+9	med	med	ADP		
+10	hård	hård	ADJ		adj.all
+11	hånd	hånd	NOUN		noun.body
+12	af	af	ADP		
+13	Anden	anden	ADJ		noun.event
+14	Verdenskrigs	verdenskrig	NOUN		noun.event
+15	partisanhelt	partisanhelt	NOUN		noun.person
+16	,	,	PUNCT		
+17	marskal	marskal	NOUN		noun.person
+18	Tito	tito	PROPN		noun.person
+19	,	,	PUNCT		
+20	tog	toge	VERB		verb.act
+21	ikke	ikke	ADV		
+22	hensyn	hensyn	NOUN		verb.COLL
+23	til	til	ADP		
+24	befolkningens	befolkning	NOUN		noun.person
+25	etniske	etnisk	ADJ		adj.social
+26	grænser	grænse	NOUN		noun.location
+27	.	.	PUNCT		
+
+# newdoc id = DDT-1468.tsv
+# sent_id = 10
+# text =  Hvorefter grupperne nu i et frigjort, satanisk had, med mord, bombesprængninger, snigskytter og brande gennemfører deres egen gensidige etniske renselse.
+1	Hvorefter	hvorefter	ADV		
+2	grupperne	gruppe	NOUN		noun.person
+3	nu	nu	ADV		
+4	i	i	ADP		
+5	et	en	DET		
+6	frigjort	frigøre	ADJ		adj.mental
+7	,	,	PUNCT		
+8	satanisk	satanisk	ADJ		adj.mental
+9	had	had	NOUN		noun.feeling
+10	,	,	PUNCT		
+11	med	med	ADP		
+12	mord	mord	NOUN		noun.act
+13	,	,	PUNCT		
+14	bombesprængninger	bombesprængning	NOUN		noun.act
+15	,	,	PUNCT		
+16	snigskytter	snigskytte	NOUN		noun.person
+17	og	og	CCONJ		
+18	brande	brand	NOUN		noun.act
+19	gennemfører	gennemføre	VERB		verb.act
+20	deres	deres	DET		
+21	egen	egen	ADJ		
+22	gensidige	gensidig	ADJ		adj.all
+23	etniske	etnisk	ADJ		adj.social
+24	renselse	renselse	NOUN		noun.act
+25	.	.	PUNCT		
+
+# newdoc id = DDT-1468.tsv
+# sent_id = 11
+# text =  En grusom proces, som de danske FN-soldater har været øjenvidner til på nærmeste hold.
+1	En	en	DET		
+2	grusom	grusom	ADJ		adj.all
+3	proces	proces	NOUN		noun.abstract
+4	,	,	PUNCT		
+5	som	som	ADP		
+6	de	den	DET		
+7	danske	dansk	ADJ		adj.social
+8	FN-soldater	fn-soldat	NOUN		noun.person
+9	har	have	AUX		
+10	været	være	AUX		verb.stative
+11	øjenvidner	øjenvidne	NOUN		noun.person
+12	til	til	ADP		
+13	på	på	ADP		
+14	nærmeste	nær	ADJ		adj.phys
+15	hold	hold	NOUN		noun.location
+16	.	.	PUNCT		
+

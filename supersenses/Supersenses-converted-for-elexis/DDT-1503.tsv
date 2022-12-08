@@ -1,0 +1,222 @@
+# newdoc id = DDT-1503.tsv
+# sent_id = 1
+# text =  De klubber, der sælger ud af publikumsidolerne og ikke har nok at byde på i turneringskampene, får problemer.
+1	De	den	DET		
+2	klubber	klub	NOUN		noun.institution
+3	,	,	PUNCT		
+4	der	der	PRON		
+5	sælger	sælge	VERB		verb.possession
+6	ud	ud	ADV		verb.PARTICLE
+7	af	af	ADP		
+8	publikumsidolerne	publikumsidol	NOUN		noun.person
+9	og	og	CCONJ		
+10	ikke	ikke	ADV		
+11	har	have	VERB		verb.possession
+12	nok	nok	ADV		
+13	at	at	PART		
+14	byde	byde	VERB		verb.communication
+15	på	på	ADP		verb.COLL
+16	i	i	ADP		
+17	turneringskampene	turneringskamp	NOUN		noun.act
+18	,	,	PUNCT		
+19	får	få	VERB		verb.phenomenon
+20	problemer	problem	NOUN		noun.abstract
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1503.tsv
+# sent_id = 2
+# text =  Er det sportslige tilbud ikke godt nok, ja så bliver sportens meget troløse tilskuere væk.
+1	Er	være	AUX		verb.stative
+2	det	det	DET		
+3	sportslige	sportslig	ADJ		adj.all
+4	tilbud	tilbud	NOUN		noun.abstract
+5	ikke	ikke	ADV		
+6	godt	godte	ADV		adj.all
+7	nok	nok	ADV		
+8	,	,	PUNCT		
+9	ja	ja	INTJ		
+10	så	så	ADV		
+11	bliver	blive	AUX		verb.stative
+12	sportens	sport	ADV		noun.domain
+13	meget	megen	ADV		
+14	troløse	troløs	ADJ		adj.mental
+15	tilskuere	tilskuer	NOUN		noun.person
+16	væk	væk	ADV		verb.COLL
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1503.tsv
+# sent_id = 3
+# text =  Derfor er det også relevant med tillægsspørgsmålet:
+1	Derfor	derfor	ADV		
+2	er	være	AUX		verb.stative
+3	det	det	PRON		
+4	også	også	ADV		
+5	relevant	relevant	ADJ		adj.all
+6	med	med	ADP		
+7	tillægsspørgsmålet	tillægsspørgsmål	NOUN		noun.communication
+8	:	:	PUNCT		
+
+# newdoc id = DDT-1503.tsv
+# sent_id = 4
+# text =  Et det klogt at programsætte returkampen i Europa_Cup-turneringen for mestre til Parken med de 40.000 tilskuerpladser?
+1	Et	en	DET		
+2	det	det	DET		
+3	klogt	klog	ADJ		adj.mental
+4	at	at	PART		
+5	programsætte	programsætte	VERB		verb.act
+6	returkampen	returkamp	NOUN		noun.act
+7	i	i	ADP		
+8	Europa_Cup-turneringen	europa_cup-turnering	NOUN		noun.event
+9	for	for	ADP		
+10	mestre	mester	NOUN		noun.person
+11	til	til	ADP		
+12	Parken	park	NOUN		noun.building
+13	med	med	ADP		
+14	de	den	DET		
+15	40.000	40.000	NUM		
+16	tilskuerpladser	tilskuerplads	NOUN		noun.artifact
+17	?	?	PUNCT		
+
+# newdoc id = DDT-1503.tsv
+# sent_id = 5
+# text =  SKRAMMER
+1	SKRAMMER	skramme	NOUN		noun.body
+
+# newdoc id = DDT-1503.tsv
+# sent_id = 6
+# text =  Nøgternt vurderet vender Lyngbyspillerne næste uge hjem med nogle sportslige skrammer fra" sammenstødet" med Glasgow Rangers' skotter på Ibrox.
+1	Nøgternt	nøgtern	ADV		
+2	vurderet	vurdere	VERB		verb.cognition
+3	vender	vende	VERB		verb.motion
+4	Lyngbyspillerne	lyngbyspil	NOUN		noun.person
+5	næste	næste	ADJ		adj.time
+6	uge	uge	NOUN		noun.time
+7	hjem	hjem	ADV		verb.COLL
+8	med	med	ADP		
+9	nogle	nogen	DET		
+10	sportslige	sportslig	ADJ		adj.all
+11	skrammer	skramme	NOUN		noun.body
+12	fra	fra	ADP		
+13	"	"	PUNCT		
+14	sammenstødet	sammenstød	NOUN		noun.act
+15	"	"	PUNCT		
+16	med	med	ADP		
+17	Glasgow	glasgow	PROPN		noun.institution
+18	Rangers'	rangers'	PROPN		noun.institution
+19	skotter	skotte	NOUN		noun.person
+20	på	på	ADP		
+21	Ibrox	ibrox	PROPN		noun.building
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1503.tsv
+# sent_id = 7
+# text =  Hvor mange kan så lokkes til returkamp i Parken til priser mellem 100 kroner og 500 kroner 14 dage senere?
+1	Hvor	hvor	ADV		
+2	mange	mangen	ADJ		
+3	kan	kunne	AUX		
+4	så	så	ADV		
+5	lokkes	lokke	VERB		verb.communication
+6	til	til	ADP		
+7	returkamp	returkamp	NOUN		noun.act
+8	i	i	ADP		
+9	Parken	park	NOUN		noun.building
+10	til	til	ADP		
+11	priser	prise	NOUN		noun.quantity
+12	mellem	mellem	ADP		
+13	100	100	NUM		
+14	kroner	krone	NOUN		noun.quantity
+15	og	og	CCONJ		
+16	500	500	NUM		
+17	kroner	krone	NOUN		noun.quantity
+18	14	14	NUM		
+19	dage	dag	NOUN		noun.time
+20	senere	sen	ADV		adj.time
+21	?	?	PUNCT		
+
+# newdoc id = DDT-1503.tsv
+# sent_id = 8
+# text =  Billetsalget begynder på mandag.
+1	Billetsalget	billetsalg	NOUN		noun.possession
+2	begynder	begynde	VERB		verb.aspectual
+3	på	på	ADP		
+4	mandag	mandag	NOUN		noun.time
+5	.	.	PUNCT		
+
+# newdoc id = DDT-1503.tsv
+# sent_id = 9
+# text = " Der flyttes fra Lyngby Stadion for at give spillerne, pressen og tilskuerne optimale forhold" oplyser Claus Nielsen.
+1	"	"	PUNCT		
+2	Der	der	PRON		
+3	flyttes	flytte	VERB		verb.motion
+4	fra	fra	ADP		
+5	Lyngby	lyngby	PROPN		noun.building
+6	Stadion	stadion	NOUN		noun.building
+7	for	for	ADP		
+8	at	at	PART		
+9	give	give	VERB		verb.possession
+10	spillerne	spiller	NOUN		noun.person
+11	,	,	PUNCT		
+12	pressen	presse	NOUN		noun.person
+13	og	og	CCONJ		
+14	tilskuerne	tilskuer	NOUN		noun.person
+15	optimale	optimal	ADJ		adj.all
+16	forhold	forhold	NOUN		noun.abstract
+17	"	"	PUNCT		
+18	oplyser	oplyse	VERB		verb.communication
+19	Claus	claus	PROPN		noun.person
+20	Nielsen	nielsen	PROPN		noun.person
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1503.tsv
+# sent_id = 10
+# text =  Og det er da et udmærket sigte.
+1	Og	og	CCONJ		
+2	det	det	PRON		
+3	er	være	AUX		verb.stative
+4	da	da	ADV		
+5	et	en	DET		
+6	udmærket	udmærket	ADJ		adj.all
+7	sigte	sigte	NOUN		noun.motive
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1503.tsv
+# sent_id = 11
+# text =  Men stedet er næppe nok til at få gang i omsætningen.
+1	Men	men	CCONJ		
+2	stedet	sted	NOUN		noun.location
+3	er	være	AUX		verb.stative
+4	næppe	næppe	ADV		
+5	nok	nok	ADV		
+6	til	til	ADP		
+7	at	at	PART		
+8	få	få	VERB		verb.act
+9	gang	gang	NOUN		verb.COLL
+10	i	i	ADP		verb.COLL
+11	omsætningen	omsætning	NOUN		noun.quantity
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1503.tsv
+# sent_id = 12
+# text =  Købere ønsker er vis garanti for, at underholdningsværdi og spændingsmoment er til at få øje på ved et fodboldarrangement.
+1	Købere	køber	NOUN		noun.person
+2	ønsker	ønske	VERB		verb.cognition
+3	er	være	VERB		verb.stative
+4	vis	vis	ADJ		
+5	garanti	garanti	NOUN		noun.communication
+6	for	for	ADP		
+7	,	,	PUNCT		
+8	at	at	SCONJ		
+9	underholdningsværdi	underholdningsværdi	NOUN		noun.attribute
+10	og	og	CCONJ		
+11	spændingsmoment	spændingsmoment	NOUN		noun.attribute
+12	er	være	VERB		verb.stative
+13	til	til	ADP		
+14	at	at	PART		
+15	få	få	VERB		verb.perception
+16	øje	øje	NOUN		verb.COLL
+17	på	på	ADP		verb.COLL
+18	ved	ved	ADP		
+19	et	en	DET		
+20	fodboldarrangement	fodboldarrangement	NOUN		noun.event
+21	.	.	PUNCT		
+

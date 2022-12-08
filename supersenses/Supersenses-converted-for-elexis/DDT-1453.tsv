@@ -1,0 +1,248 @@
+# newdoc id = DDT-1453.tsv
+# sent_id = 1
+# text =  Men det er ikke bare ejere af solcentre, der piller ved solarierne.
+1	Men	men	CCONJ		
+2	det	det	PRON		
+3	er	være	AUX		verb.stative
+4	ikke	ikke	ADV		
+5	bare	bare	ADV		
+6	ejere	ejer	NOUN		noun.person
+7	af	af	ADP		
+8	solcentre	solcenter	NOUN		noun.building
+9	,	,	PUNCT		
+10	der	der	PRON		
+11	piller	pille	VERB		verb.act
+12	ved	ved	ADP		
+13	solarierne	solarium	NOUN		noun.artifact
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1453.tsv
+# sent_id = 2
+# text = " Vi har ofte måtte indskærpe overfor leverandørerne, at når vi har godkendt et apparat med filter, så skal filtret blive siddende.
+1	"	"	PUNCT		
+2	Vi	vi	PRON		
+3	har	have	VERB		
+4	ofte	ofte	ADV		
+5	måtte	måtte	X		
+6	indskærpe	indskærpe	VERB		verb.change
+7	overfor	overfor	ADP		
+8	leverandørerne	leverandør	NOUN		noun.institution
+9	,	,	PUNCT		
+10	at	at	SCONJ		
+11	når	når	SCONJ		
+12	vi	vi	PRON		
+13	har	have	AUX		
+14	godkendt	godkende	VERB		verb.cognition
+15	et	en	DET		
+16	apparat	apparat	NOUN		noun.artifact
+17	med	med	ADP		
+18	filter	filter	NOUN		noun.artifact
+19	,	,	PUNCT		
+20	så	så	ADV		
+21	skal	skulle	AUX		
+22	filtret	filter	NOUN		noun.artifact
+23	blive	blive	AUX		
+24	siddende	sidde	VERB		verb.stative
+25	.	.	PUNCT		
+
+# newdoc id = DDT-1453.tsv
+# sent_id = 3
+# text =  Det er alt for tit, vi er ude til sådanne sager.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	alt	alt	ADV		
+4	for	for	ADV		
+5	tit	tit	ADV		
+6	,	,	PUNCT		
+7	vi	vi	PRON		
+8	er	være	AUX		verb.stative
+9	ude	ude	ADV		
+10	til	til	ADP		
+11	sådanne	sådan	ADJ		
+12	sager	sag	NOUN		noun.event
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1453.tsv
+# sent_id = 4
+# text =  Der er bestemte solcentre vi besøger gang på gang, hvor sikkerheden ikke er i orden.
+1	Der	der	ADV		
+2	er	være	VERB		verb.stative
+3	bestemte	bestemt	ADJ		adj.all
+4	solcentre	solcenter	NOUN		noun.building
+5	vi	vi	PRON		
+6	besøger	besøge	VERB		verb.act
+7	gang	gang	NOUN		noun.time
+8	på	på	ADP		
+9	gang	gang	NOUN		noun.time
+10	,	,	PUNCT		
+11	hvor	hvor	ADV		
+12	sikkerheden	sikkerhed	NOUN		noun.attribute
+13	ikke	ikke	ADV		
+14	er	være	VERB		verb.stative
+15	i	i	ADP		adj.all
+16	orden	orden	NOUN		adj.all
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1453.tsv
+# sent_id = 5
+# text =  Vi har oplevet solarier, hvor der har været risiko for elektriske stød.
+1	Vi	vi	PRON		
+2	har	have	AUX		
+3	oplevet	opleve	VERB		verb.perception
+4	solarier	solarium	NOUN		noun.artifact
+5	,	,	PUNCT		
+6	hvor	hvor	ADV		
+7	der	der	ADV		
+8	har	have	AUX		
+9	været	være	VERB		verb.stative
+10	risiko	risiko	NOUN		noun.abstract
+11	for	for	ADP		
+12	elektriske	elektrisk	ADJ		adj.phys
+13	stød	stød	NOUN		noun.phenomenon
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1453.tsv
+# sent_id = 6
+# text =  Vi har været ude for, at der er gået ild i den øverste del af et solarie.
+1	Vi	vi	PRON		
+2	har	have	AUX		
+3	været	være	AUX		verb.perception
+4	ude	ude	ADV		verb.COLL
+5	for	for	ADP		verb.COLL
+6	,	,	PUNCT		
+7	at	at	SCONJ		
+8	der	der	ADV		
+9	er	være	AUX		
+10	gået	gå	VERB		verb.phenomenon
+11	ild	ild	NOUN		verb.COLL
+12	i	i	ADP		
+13	den	den	DET		
+14	øverste	øverst	ADJ		
+15	del	del	NOUN		noun.relation
+16	af	af	ADP		
+17	et	en	DET		
+18	solarie	solari	NOUN		noun.artifact
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1453.tsv
+# sent_id = 7
+# text =  Og så har vi set solarier, hvor automatikken ikke var i orden.
+1	Og	og	CCONJ		
+2	så	så	ADV		
+3	har	have	AUX		
+4	vi	vi	PRON		
+5	set	se	VERB		verb.perception
+6	solarier	solarium	NOUN		noun.artifact
+7	,	,	PUNCT		
+8	hvor	hvor	ADV		
+9	automatikken	automatik	NOUN		noun.artifact
+10	ikke	ikke	ADV		
+11	var	være	VERB		verb.stative
+12	i	i	ADP		adj.all
+13	orden	orden	NOUN		adj.all
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1453.tsv
+# sent_id = 8
+# text =  Hvor f.eks. den øverste del ikke har kunnet trækkes op," siger Finn Rønlov Andersen.
+1	Hvor	hvor	ADV		
+2	f.eks.	f.eks.	ADV		
+3	den	den	DET		
+4	øverste	øverst	ADJ		adj.all
+5	del	del	NOUN		noun.relation
+6	ikke	ikke	ADV		
+7	har	have	AUX		
+8	kunnet	kunne	AUX		
+9	trækkes	trække	VERB		verb.act
+10	op	op	ADV		
+11	,	,	PUNCT		
+12	"	"	PUNCT		
+13	siger	sige	VERB		verb.communication
+14	Finn	finn	PROPN		noun.person
+15	Rønlov	rønlov	PROPN		noun.person
+16	Andersen	andersen	PROPN		noun.person
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1453.tsv
+# sent_id = 9
+# text =  Signe Sylvest, der selv har Riviera Solcenter i Århus kalder Danmark en bananrepublik, når det gælder regler og tilsyn for solcentre.
+1	Signe	signe	PROPN		noun.person
+2	Sylvest	sylvest	PROPN		noun.person
+3	,	,	PUNCT		
+4	der	der	PRON		
+5	selv	selv	PRON		
+6	har	have	VERB		verb.possession
+7	Riviera	riviera	NOUN		noun.building
+8	Solcenter	solcenter	NOUN		noun.building
+9	i	i	ADP		
+10	Århus	århus	PROPN		noun.location
+11	kalder	kalde	VERB		verb.communication
+12	Danmark	danmark	PROPN		noun.location
+13	en	en	DET		
+14	bananrepublik	bananrepublik	NOUN		noun.institution
+15	,	,	PUNCT		
+16	når	når	SCONJ		
+17	det	det	PRON		
+18	gælder	gælde	VERB		verb.stative
+19	regler	regel	NOUN		noun.cognition
+20	og	og	CCONJ		
+21	tilsyn	tilsyn	NOUN		noun.cognition
+22	for	for	ADP		
+23	solcentre	solcenter	NOUN		noun.building
+24	.	.	PUNCT		
+
+# newdoc id = DDT-1453.tsv
+# sent_id = 10
+# text = " Der burde være nogle minimumskrav for oprettelse af solcentre sammen med efterfølgende jævnlige tilsyn.
+1	"	"	PUNCT		
+2	Der	der	ADV		
+3	burde	burde	AUX		
+4	være	være	AUX		verb.stative
+5	nogle	nogen	DET		
+6	minimumskrav	minimumskrav	NOUN		noun.abstract
+7	for	for	ADP		
+8	oprettelse	oprettelse	NOUN		noun.act
+9	af	af	ADP		
+10	solcentre	solcenter	NOUN		noun.building
+11	sammen	sammen	ADV		
+12	med	med	ADP		
+13	efterfølgende	efterfølge	ADV		
+14	jævnlige	jævnlig	ADJ		adj.all
+15	tilsyn	tilsyn	NOUN		noun.act
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1453.tsv
+# sent_id = 11
+# text =  Som det er i_dag kan alle smække et center op.
+1	Som	som	ADP		
+2	det	det	PRON		
+3	er	være	AUX		verb.stative
+4	i_dag	i_dag	NOUN		noun.time
+5	kan	kunne	AUX		
+6	alle	al	ADJ		
+7	smække	smække	VERB		verb.act
+8	et	en	DET		
+9	center	center	NOUN		noun.building
+10	op	op	ADV		verb.COLL
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1453.tsv
+# sent_id = 12
+# text =  Jeg kender eksempler på grillbarer og blomsterhandlere, der har et par sole i baglokalet.
+1	Jeg	jeg	PRON		
+2	kender	kende	VERB		verb.cognition
+3	eksempler	eksempel	NOUN		noun.abstract
+4	på	på	ADP		
+5	grillbarer	grillbar	NOUN		noun.building
+6	og	og	CCONJ		
+7	blomsterhandlere	blomsterhandler	NOUN		noun.building
+8	,	,	PUNCT		
+9	der	der	PRON		
+10	har	have	AUX		verb.possession
+11	et	en	DET		
+12	par	par	NOUN		noun.quantity
+13	sole	sole	VERB		noun.artifact
+14	i	i	ADP		
+15	baglokalet	baglokale	NOUN		noun.building
+16	.	.	PUNCT		
+

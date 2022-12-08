@@ -1,0 +1,225 @@
+# newdoc id = DDT-1253.tsv
+# sent_id = 1
+# text = " Jeg kunne anlægge retssager, men så ville jeg samtidig ødelægge mit liv, og det ønsker jeg ikke at gøre.
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	kunne	kunne	AUX		
+4	anlægge	anlægge	VERB		verb.act
+5	retssager	retssag	NOUN		noun.abstract
+6	,	,	PUNCT		
+7	men	men	CCONJ		
+8	så	så	ADV		
+9	ville	ville	AUX		
+10	jeg	jeg	PRON		
+11	samtidig	samtidig	ADV		
+12	ødelægge	ødelægge	VERB		verb.act
+13	mit	min	DET		
+14	liv	liv	NOUN		noun.state
+15	,	,	PUNCT		
+16	og	og	CCONJ		
+17	det	det	PRON		
+18	ønsker	ønske	VERB		verb.emotion
+19	jeg	jeg	PRON		
+20	ikke	ikke	ADV		
+21	at	at	PART		
+22	gøre	gøre	VERB		verb.act
+23	.	.	PUNCT		
+
+# newdoc id = DDT-1253.tsv
+# sent_id = 2
+# text =  Jeg har aftalt med min kone, at nu vil vi se fremad."
+1	Jeg	jeg	PRON		
+2	har	have	AUX		
+3	aftalt	aftælle	VERB		verb.communication
+4	med	med	ADP		
+5	min	min	DET		
+6	kone	kone	NOUN		noun.person
+7	,	,	PUNCT		
+8	at	at	SCONJ		
+9	nu	nu	ADV		
+10	vil	ville	AUX		
+11	vi	vi	PRON		
+12	se	se	VERB		verb.cognition
+13	fremad	fremad	ADV		
+14	.	.	PUNCT		
+15	"	"	PUNCT		
+
+# newdoc id = DDT-1253.tsv
+# sent_id = 3
+# text =  Har du nogle planer for fremtiden?
+1	Har	have	VERB		
+2	du	du	PRON		
+3	nogle	nogen	DET		
+4	planer	plan	NOUN		noun.cognition
+5	for	for	ADP		
+6	fremtiden	fremtid	NOUN		noun.time
+7	?	?	PUNCT		
+
+# newdoc id = DDT-1253.tsv
+# sent_id = 4
+# text = " Nu er jeg passiv investor.
+1	"	"	PUNCT		
+2	Nu	nu	ADV		
+3	er	være	AUX		verb.stative
+4	jeg	jeg	PRON		
+5	passiv	passiv	ADJ		adj.all
+6	investor	investor	NOUN		noun.person
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1253.tsv
+# sent_id = 5
+# text =  Jeg tror ikke sådan, som det ser ud i_dag, at jeg kommer ind i byggebranchen igen.
+1	Jeg	jeg	PRON		
+2	tror	tro	VERB		verb.cognition
+3	ikke	ikke	ADV		
+4	sådan	sådan	ADV		
+5	,	,	PUNCT		
+6	som	som	PRON		
+7	det	det	PRON		
+8	ser	se	VERB		verb.stative
+9	ud	ud	ADV		verb.PARTICLE
+10	i_dag	i_dag	NOUN		noun.time
+11	,	,	PUNCT		
+12	at	at	SCONJ		
+13	jeg	jeg	PRON		
+14	kommer	komme	VERB		verb.phenomenon
+15	ind	ind	ADV		
+16	i	i	ADP		
+17	byggebranchen	byggebranche	NOUN		noun.institution
+18	igen	igen	ADV		
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1253.tsv
+# sent_id = 6
+# text =  Den er alt for svær i_dag, og der står alt for mange tomme bygninger."
+1	Den	den	PRON		
+2	er	være	AUX		verb.stative
+3	alt	alt	ADV		
+4	for	for	ADV		
+5	svær	svær	ADJ		adj.all
+6	i_dag	i_dag	NOUN		noun.time
+7	,	,	PUNCT		
+8	og	og	CCONJ		
+9	der	der	ADV		
+10	står	stå	VERB		verb.stative
+11	alt	al	ADJ		
+12	for	for	ADV		
+13	mange	mangen	ADJ		adj.phys
+14	tomme	tom	ADJ		adj.phys
+15	bygninger	bygning	NOUN		noun.building
+16	.	.	PUNCT		
+17	"	"	PUNCT		
+
+# newdoc id = DDT-1253.tsv
+# sent_id = 7
+# text =  Hvordan føles det, nu hvor sagen er slut?
+1	Hvordan	hvordan	ADV		
+2	føles	føle	VERB		verb.emotion
+3	det	det	PRON		
+4	,	,	PUNCT		
+5	nu	nu	ADV		
+6	hvor	hvor	ADV		
+7	sagen	sag	NOUN		noun.abstract
+8	er	være	AUX		verb.stative
+9	slut	slut	NOUN		adj.all
+10	?	?	PUNCT		
+
+# newdoc id = DDT-1253.tsv
+# sent_id = 8
+# text = " Vi er ikke bitre, men sagen har afbrudt 10 år af mit liv.
+1	"	"	PUNCT		
+2	Vi	vi	PRON		
+3	er	være	AUX		verb.stative
+4	ikke	ikke	ADV		
+5	bitre	bitter	ADJ		adj.mental
+6	,	,	PUNCT		
+7	men	men	CCONJ		
+8	sagen	sag	NOUN		noun.abstract
+9	har	have	AUX		
+10	afbrudt	afbryde	VERB		verb.aspectual
+11	10	10	NUM		
+12	år	år	NOUN		noun.time
+13	af	af	ADP		
+14	mit	min	DET		
+15	liv	liv	NOUN		noun.time
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1253.tsv
+# sent_id = 9
+# text =  Men sagen har blandt_andet lært mig at sortere mennesker.
+1	Men	men	CCONJ		
+2	sagen	sag	NOUN		noun.abstract
+3	har	have	AUX		
+4	blandt_andet	blandt_and	NOUN		
+5	lært	lære	VERB		verb.cognition
+6	mig	jeg	PRON		
+7	at	at	PART		
+8	sortere	sortere	VERB		verb.cognition
+9	mennesker	menneske	NOUN		noun.person
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1253.tsv
+# sent_id = 10
+# text =  Du lærer, hvem der er dine venner.
+1	Du	du	PRON		
+2	lærer	lære	VERB		verb.cognition
+3	,	,	PUNCT		
+4	hvem	hvem	PRON		
+5	der	der	ADV		
+6	er	være	AUX		verb.stative
+7	dine	din	ADJ		
+8	venner	ven	NOUN		noun.person
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1253.tsv
+# sent_id = 11
+# text = " Milliontab
+1	"	"	PUNCT		
+2	Milliontab	milliontab	NOUN		verb.possession
+
+# newdoc id = DDT-1253.tsv
+# sent_id = 12
+# text =  Da du i foråret fik udbetalt overskuddet fra din personlige konkurs, betalte du frivilligt en del af beløbet videre til kreditorerne i Danske Fabrikshaller.
+1	Da	da	SCONJ		
+2	du	du	PRON		
+3	i	i	ADP		
+4	foråret	forår	NOUN		noun.time
+5	fik	få	VERB		
+6	udbetalt	udbetale	VERB		verb.possession
+7	overskuddet	overskud	NOUN		noun.quantity
+8	fra	fra	ADP		
+9	din	din	DET		
+10	personlige	personlig	ADJ		adj.social
+11	konkurs	konkurs	NOUN		noun.phenomenon
+12	,	,	PUNCT		
+13	betalte	betale	VERB		verb.possession
+14	du	du	PRON		
+15	frivilligt	frivillig	ADV		
+16	en	en	DET		
+17	del	del	NOUN		noun.relation
+18	af	af	ADP		
+19	beløbet	beløb	NOUN		
+20	videre	videre	ADV		
+21	til	til	ADP		
+22	kreditorerne	kreditor	NOUN		noun.person
+23	i	i	ADP		
+24	Danske	dansk	ADJ		noun.institution
+25	Fabrikshaller	fabrikshal	NOUN		noun.institution
+26	.	.	PUNCT		
+
+# newdoc id = DDT-1253.tsv
+# sent_id = 13
+# text =  Men trods betalingen har kreditorerne jo stadig haft milliontab på sagen?
+1	Men	men	CCONJ		
+2	trods	trods	ADP		
+3	betalingen	betaling	NOUN		noun.quantity
+4	har	have	AUX		
+5	kreditorerne	kreditor	NOUN		noun.person
+6	jo	jo	ADV		
+7	stadig	stadig	ADV		
+8	haft	have	VERB		
+9	milliontab	milliontab	NOUN		noun.possession
+10	på	på	ADP		
+11	sagen	sag	NOUN		noun.abstract
+12	?	?	PUNCT		
+

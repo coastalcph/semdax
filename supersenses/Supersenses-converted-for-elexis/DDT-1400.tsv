@@ -1,0 +1,238 @@
+# newdoc id = DDT-1400.tsv
+# sent_id = 1
+# text =  MADEN KNAP
+1	MADEN	mad	NOUN		noun.food
+2	KNAP	knap	ADJ		
+
+# newdoc id = DDT-1400.tsv
+# sent_id = 2
+# text =  En dansk anerkendelse af Makedonien skal dog afstemmes med de øvrige EF-lande, og her stritter Grækenland voldsomt imod.
+1	En	en	DET		
+2	dansk	dansk	ADJ		adj.social
+3	anerkendelse	anerkendelse	NOUN		noun.cognition
+4	af	af	ADP		
+5	Makedonien	makedonien	PROPN		noun.institution
+6	skal	skulle	AUX		
+7	dog	dog	ADV		
+8	afstemmes	afstemme	VERB		verb.communication
+9	med	med	ADP		
+10	de	den	DET		
+11	øvrige	øvrig	ADJ		adj.all
+12	EF-lande	ef-land	NOUN		noun.institution
+13	,	,	PUNCT		
+14	og	og	CCONJ		
+15	her	her	ADV		
+16	stritter	stritte	VERB		verb.cognition
+17	Grækenland	grækenland	PROPN		noun.person
+18	voldsomt	voldsom	ADV		
+19	imod	imod	ADP		verb.PARTICLE
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1400.tsv
+# sent_id = 3
+# text =  Grækerne vil ikke anerkende navnet Makedonien, som efter græsk opfattelse er betegnelsen på et område i det nordlige Grækenland.
+1	Grækerne	græker	NOUN		noun.person
+2	vil	ville	AUX		
+3	ikke	ikke	ADV		
+4	anerkende	anerkende	VERB		verb.cognition
+5	navnet	navn	NOUN		noun.attribute
+6	Makedonien	makedonien	PROPN		noun.communication
+7	,	,	PUNCT		
+8	som	som	PRON		
+9	efter	efter	ADP		
+10	græsk	græsk	ADJ		adj.social
+11	opfattelse	opfattelse	NOUN		noun.cognition
+12	er	være	AUX		verb.stative
+13	betegnelsen	betegnelse	NOUN		noun.communication
+14	på	på	ADP		
+15	et	en	DET		
+16	område	område	NOUN		noun.location
+17	i	i	ADP		
+18	det	det	DET		
+19	nordlige	nordlig	ADJ		adj.phys
+20	Grækenland	grækenland	PROPN		noun.location
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1400.tsv
+# sent_id = 4
+# text =  Mens borgerkrigen raser, og politikerne forhandler, sidder Anders Dahl Rasmussen fortsat i sin celle i fængslet Scremska Mitrovica ca. 65 km vest for Beograd.
+1	Mens	mens	SCONJ		
+2	borgerkrigen	borgerkrig	NOUN		noun.act
+3	raser	rasere	VERB		verb.phenomenon
+4	,	,	PUNCT		
+5	og	og	CCONJ		
+6	politikerne	politiker	NOUN		noun.person
+7	forhandler	forhandle	VERB		verb.communication
+8	,	,	PUNCT		
+9	sidder	sidde	VERB		verb.stative
+10	Anders	anders	PROPN		noun.person
+11	Dahl	dahl	PROPN		noun.person
+12	Rasmussen	rasmussen	PROPN		noun.person
+13	fortsat	fortsætte	ADV		
+14	i	i	ADP		
+15	sin	sin	DET		
+16	celle	celle	NOUN		noun.building
+17	i	i	ADP		
+18	fængslet	fængsel	NOUN		noun.building
+19	Scremska	scremska	PROPN		noun.location
+20	Mitrovica	mitrovica	PROPN		noun.location
+21	ca.	ca.	ADV		
+22	65	65	ADJ		
+23	km	km	NOUN		noun.quantity
+24	vest	vest	ADV		
+25	for	for	ADP		
+26	Beograd	beograd	PROPN		noun.location
+27	.	.	PUNCT		
+
+# newdoc id = DDT-1400.tsv
+# sent_id = 5
+# text =  Han taler ikke jugoslavisk og har i to et halvt år ikke haft besøg af andre end sin jugoslaviske sagfører og diplomater fra den danske ambassade.
+1	Han	han	PRON		
+2	taler	tale	VERB		verb.communication
+3	ikke	ikke	ADV		
+4	jugoslavisk	jugoslavisk	NOUN		noun.communication
+5	og	og	CCONJ		
+6	har	have	VERB		
+7	i	i	ADP		
+8	to	to	NUM		
+9	et	en	DET		
+10	halvt	halv	ADJ		adj.all
+11	år	år	NOUN		noun.time
+12	ikke	ikke	ADV		
+13	haft	have	VERB		verb.stative
+14	besøg	besøg	NOUN		noun.act
+15	af	af	ADP		
+16	andre	anden	DET		
+17	end	ende	ADP		
+18	sin	sin	DET		
+19	jugoslaviske	jugoslavisk	ADJ		adj.social
+20	sagfører	sagfører	NOUN		noun.person
+21	og	og	CCONJ		
+22	diplomater	diplomat	NOUN		noun.person
+23	fra	fra	ADP		
+24	den	den	DET		
+25	danske	dansk	ADJ		adj.social
+26	ambassade	ambassade	NOUN		noun.institution
+27	.	.	PUNCT		
+
+# newdoc id = DDT-1400.tsv
+# sent_id = 6
+# text = " Jeg besøgte ham så sent som i sidste uge, hvor han havde det ganske rimeligt.
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	besøgte	besøge	VERB		verb.act
+4	ham	han	PRON		
+5	så	så	ADV		
+6	sent	sen	ADV		
+7	som	som	ADP		
+8	i	i	ADP		
+9	sidste	sidste	ADJ		adj.time
+10	uge	uge	NOUN		noun.time
+11	,	,	PUNCT		
+12	hvor	hvor	ADV		
+13	han	han	PRON		
+14	havde	have	VERB		verb.emotion
+15	det	det	PRON		verb.COLL
+16	ganske	ganske	ADV		
+17	rimeligt	rimelig	ADV		
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1400.tsv
+# sent_id = 7
+# text =  Han får medicin for sin sukkersyge og kredsløbsforstyrrelser og forsyner os hver gang med lange indkøbslister om aviser, cigaretter og fødevarer," oplyser den danske charge_d'affairs Joachim Rehder til B.T..
+1	Han	han	PRON		
+2	får	få	VERB		verb.possession
+3	medicin	medicin	NOUN		noun.artifact
+4	for	for	ADP		
+5	sin	sin	DET		
+6	sukkersyge	sukkersyge	NOUN		noun.disease
+7	og	og	CCONJ		
+8	kredsløbsforstyrrelser	kredsløbsforstyrrelse	NOUN		noun.phenomenon
+9	og	og	CCONJ		
+10	forsyner	forsyne	VERB		verb.possession
+11	os	vi	PRON		
+12	hver	hver	PRON		
+13	gang	gang	NOUN		noun.abstract
+14	med	med	ADP		
+15	lange	lang	ADJ		adj.phys
+16	indkøbslister	indkøbsliste	NOUN		noun.communication
+17	om	om	ADP		
+18	aviser	avis	NOUN		noun.communication
+19	,	,	PUNCT		
+20	cigaretter	cigaret	NOUN		noun.artifact
+21	og	og	CCONJ		
+22	fødevarer	fødevare	NOUN		noun.food
+23	,	,	PUNCT		
+24	"	"	PUNCT		
+25	oplyser	oplyse	VERB		verb.communication
+26	den	den	DET		
+27	danske	dansk	ADJ		adj.social
+28	charge_d'affairs	charge_d'affairs	X		noun.person
+29	Joachim	joachim	PROPN		noun.person
+30	Rehder	rehder	PROPN		noun.person
+31	til	til	ADP		
+32	B.T.	b.t.	PROPN		noun.person
+33	.	.	PUNCT		
+
+# newdoc id = DDT-1400.tsv
+# sent_id = 8
+# text = " Blandt_andet beder han os købe løg, tomater, spegepølser, the og margarine, for også fængslerne bliver berørt af borgerkrigen.
+1	"	"	PUNCT		
+2	Blandt_andet	blandt_and	NOUN		
+3	beder	bede	VERB		verb.communication
+4	han	han	PRON		
+5	os	vi	PRON		
+6	købe	købe	VERB		verb.possession
+7	løg	løg	NOUN		noun.food
+8	,	,	PUNCT		
+9	tomater	tomat	NOUN		noun.food
+10	,	,	PUNCT		
+11	spegepølser	spegepølse	NOUN		noun.food
+12	,	,	PUNCT		
+13	the	the	NOUN		noun.food
+14	og	og	CCONJ		
+15	margarine	margarine	NOUN		noun.food
+16	,	,	PUNCT		
+17	for	for	CCONJ		
+18	også	også	ADV		
+19	fængslerne	fængsel	NOUN		noun.building
+20	bliver	blive	AUX		
+21	berørt	berøre	VERB		verb.phenomenon
+22	af	af	ADP		
+23	borgerkrigen	borgerkrig	NOUN		noun.event
+24	.	.	PUNCT		
+
+# newdoc id = DDT-1400.tsv
+# sent_id = 9
+# text =  Her i Beograd er det blevet sværere af skaffe mad, og det begynder at blive småt med varer som sukker, spiseolier og benzin," tilføjer diplomaten.
+1	Her	her	ADV		
+2	i	i	ADP		
+3	Beograd	beograd	PROPN		noun.location
+4	er	være	AUX		
+5	det	det	PRON		
+6	blevet	blive	AUX		verb.change
+7	sværere	svær	ADJ		
+8	af	af	ADP		
+9	skaffe	skaffe	VERB		verb.possession
+10	mad	mad	NOUN		noun.food
+11	,	,	PUNCT		
+12	og	og	CCONJ		
+13	det	det	PRON		
+14	begynder	begynde	VERB		verb.aspectual
+15	at	at	PART		
+16	blive	blive	AUX		verb.change
+17	småt	småt	ADV		
+18	med	med	ADP		
+19	varer	vare	NOUN		noun.artifact
+20	som	som	ADP		
+21	sukker	sukker	NOUN		noun.food
+22	,	,	PUNCT		
+23	spiseolier	spiseolie	NOUN		noun.food
+24	og	og	CCONJ		
+25	benzin	benzin	NOUN		noun.artifact
+26	,	,	PUNCT		
+27	"	"	PUNCT		
+28	tilføjer	tilføje	VERB		verb.communication
+29	diplomaten	diplomat	NOUN		noun.person
+30	.	.	PUNCT		
+

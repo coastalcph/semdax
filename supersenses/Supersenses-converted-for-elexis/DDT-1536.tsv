@@ -1,0 +1,213 @@
+# newdoc id = DDT-1536.tsv
+# sent_id = 1
+# text = " Jeg har hele tiden kuldegysninger ned ad ryggen.
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	har	have	AUX		verb.stative
+4	hele	hel	ADJ		
+5	tiden	tid	NOUN		
+6	kuldegysninger	kuldegysning	NOUN		noun.phenomenon
+7	ned	ned	ADV		
+8	ad	ad	ADP		
+9	ryggen	ryg	NOUN		noun.body
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1536.tsv
+# sent_id = 2
+# text =  Jeg frygter, der er mange dræbte," sagde en talsmand for politiet, Klaaf Wilting.
+1	Jeg	jeg	PRON		
+2	frygter	frygte	VERB		verb.emotion
+3	,	,	PUNCT		
+4	der	der	PRON		
+5	er	være	AUX		verb.stative
+6	mange	mangen	ADJ		
+7	dræbte	dræbe	VERB		adj.phys
+8	,	,	PUNCT		
+9	"	"	PUNCT		
+10	sagde	sige	VERB		verb.communication
+11	en	en	DET		
+12	talsmand	talsmand	NOUN		noun.person
+13	for	for	ADP		
+14	politiet	politi	NOUN		noun.institution
+15	,	,	PUNCT		
+16	Klaaf	klaaf	PROPN		noun.person
+17	Wilting	wilting	PROPN		noun.person
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1536.tsv
+# sent_id = 3
+# text =  Ulykken fandt sted i spisetiden ca. 18.45 i_aftes, kort efter at El-Al-flyet med tre besætningsmedlemmer og en kvindelig passager om_bord lettede fra Amsterdams Schiphol lufthavn.
+1	Ulykken	ulykke	NOUN		noun.phenomenon
+2	fandt	finde	VERB		verb.phenomenon
+3	sted	sted	NOUN		verb.COLL
+4	i	i	ADP		
+5	spisetiden	spisetid	NOUN		noun.time
+6	ca.	ca.	ADV		
+7	18.45	18.45	ADJ		
+8	i_aftes	i_aft	NOUN		noun.time
+9	,	,	PUNCT		
+10	kort	korte	ADV		
+11	efter	efter	ADP		
+12	at	at	SCONJ		
+13	El-Al-flyet	el-al-fly	NOUN		noun.vehicle
+14	med	med	ADP		
+15	tre	tre	NUM		
+16	besætningsmedlemmer	besætningsmedlem	NOUN		noun.person
+17	og	og	CCONJ		
+18	en	en	DET		
+19	kvindelig	kvindelig	ADJ		adj.all
+20	passager	passager	NOUN		noun.person
+21	om_bord	om_bord	NOUN		
+22	lettede	lette	VERB		verb.motion
+23	fra	fra	ADP		
+24	Amsterdams	amsterdams	PROPN		noun.location
+25	Schiphol	schiphol	PROPN		noun.location
+26	lufthavn	lufthavn	NOUN		noun.location
+27	.	.	PUNCT		
+
+# newdoc id = DDT-1536.tsv
+# sent_id = 4
+# text =  Piloten meddelte pludselig kontroltårnet, at han havde motorproblemer og var tvunget til at vende om for at nødlande i Schiphol.
+1	Piloten	pilot	NOUN		noun.person
+2	meddelte	meddele	VERB		verb.communication
+3	pludselig	pludselig	ADV		
+4	kontroltårnet	kontroltårn	NOUN		noun.person
+5	,	,	PUNCT		
+6	at	at	SCONJ		
+7	han	han	PRON		
+8	havde	have	VERB		verb.stative
+9	motorproblemer	motorproblem	NOUN		noun.abstract
+10	og	og	CCONJ		
+11	var	være	AUX		verb.stative
+12	tvunget	tvinge	VERB		verb.stative
+13	til	til	ADP		
+14	at	at	PART		
+15	vende	vende	VERB		verb.motion
+16	om	om	ADV		verb.PARTICLE
+17	for	for	ADP		
+18	at	at	PART		
+19	nødlande	nødlande	VERB		verb.motion
+20	i	i	ADP		
+21	Schiphol	schiphol	PROPN		noun.location
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1536.tsv
+# sent_id = 5
+# text = " Jeg så flyet med næsen pegende nedad, venstre vinge op og højre vinge ned ovre bag den flade bygning.
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	så	så	VERB		verb.perception
+4	flyet	fly	NOUN		noun.vehicle
+5	med	med	ADP		
+6	næsen	næse	NOUN		noun.artifact
+7	pegende	pege	VERB		adj.phys
+8	nedad	nedad	ADV		
+9	,	,	PUNCT		
+10	venstre	venstre	ADJ		adj.phys
+11	vinge	vinge	NOUN		noun.artifact
+12	op	op	ADV		
+13	og	og	CCONJ		
+14	højre	højre	ADJ		adj.phys
+15	vinge	vinge	NOUN		noun.artifact
+16	ned	ned	ADV		
+17	ovre	ovre	ADV		
+18	bag	bag	ADP		
+19	den	den	DET		
+20	flade	flad	ADJ		adj.phys
+21	bygning	bygning	NOUN		noun.building
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1536.tsv
+# sent_id = 6
+# text =  Det røg ud af motorerne.
+1	Det	det	PRON		
+2	røg	røge	VERB		verb.phenomenon
+3	ud	ud	ADV		
+4	af	af	ADP		
+5	motorerne	motor	NOUN		noun.artifact
+6	.	.	PUNCT		
+
+# newdoc id = DDT-1536.tsv
+# sent_id = 7
+# text =  Piloten forsøgte at rette maskinen op- så kunne jeg ikke se mere, men pludselig var der gnister i luften," siger øjenvidnet Peter de Neef.
+1	Piloten	pilot	NOUN		noun.person
+2	forsøgte	forsøge	VERB		verb.act
+3	at	at	PART		
+4	rette	rette	VERB		verb.act
+5	maskinen	maskine	NOUN		noun.vehicle
+6	op	op	ADV		verb.PARTICLE
+7	-	-	PUNCT		
+8	så	så	ADV		
+9	kunne	kunne	AUX		
+10	jeg	jeg	PRON		
+11	ikke	ikke	ADV		
+12	se	se	VERB		verb.perception
+13	mere	mere	ADJ		
+14	,	,	PUNCT		
+15	men	men	CCONJ		
+16	pludselig	pludselig	ADV		
+17	var	være	VERB		
+18	der	der	ADV		
+19	gnister	gnist	NOUN		noun.object
+20	i	i	ADP		
+21	luften	luft	NOUN		noun.location
+22	,	,	PUNCT		
+23	"	"	PUNCT		
+24	siger	sige	VERB		verb.communication
+25	øjenvidnet	øjenvidne	NOUN		noun.person
+26	Peter	peter	PROPN		noun.person
+27	de	de	PROPN		noun.person
+28	Neef	neef	PROPN		noun.person
+29	.	.	PUNCT		
+
+# newdoc id = DDT-1536.tsv
+# sent_id = 8
+# text =  I Schiphol lufthavnen fulgte fly-ledelsen i kontroltårnet med rædsel den dramatiske udvikling.
+1	I	i	ADP		
+2	Schiphol	schiphol	PROPN		noun.location
+3	lufthavnen	lufthavn	NOUN		noun.location
+4	fulgte	følge	VERB		verb.cognition
+5	fly-ledelsen	fly-led	NOUN		noun.person
+6	i	i	ADP		
+7	kontroltårnet	kontroltårn	NOUN		noun.building
+8	med	med	ADP		
+9	rædsel	rædsel	NOUN		noun.feeling
+10	den	den	DET		
+11	dramatiske	dramatisk	ADJ		adj.all
+12	udvikling	udvikling	NOUN		noun.phenomenon
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1536.tsv
+# sent_id = 9
+# text = " De kunne se en kæmpe ildkugle," siger en ansat fra det hollandske luftfartsselskab, KLM.
+1	"	"	PUNCT		
+2	De	den	PRON		
+3	kunne	kunne	AUX		
+4	se	se	VERB		verb.perception
+5	en	en	DET		
+6	kæmpe	kæmpe	ADJ		adj.phys
+7	ildkugle	ildkugle	NOUN		noun.object
+8	,	,	PUNCT		
+9	"	"	PUNCT		
+10	siger	sige	VERB		verb.communication
+11	en	en	PRON		
+12	ansat	ansætte	VERB		noun.person
+13	fra	fra	ADP		
+14	det	det	DET		
+15	hollandske	hollandsk	ADJ		adj.social
+16	luftfartsselskab	luftfartsselskab	NOUN		noun.institution
+17	,	,	PUNCT		
+18	KLM	klm	PROPN		noun.institution
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1536.tsv
+# sent_id = 10
+# text =  Årsagen til motor-problemerne var ukendt i_nat.
+1	Årsagen	årsag	NOUN		noun.abstract
+2	til	til	ADP		
+3	motor-problemerne	motor-problem	NOUN		noun.abstract
+4	var	være	AUX		verb.stative
+5	ukendt	ukendt	ADJ		adj.all
+6	i_nat	i_nat	NOUN		noun.time
+7	.	.	PUNCT		
+

@@ -1,0 +1,234 @@
+# newdoc id = DDT-1289.tsv
+# sent_id = 1
+# text =  ( 3 stjerner)" Karlsvognen".
+1	(	(	PUNCT		
+2	3	3	ADJ		
+3	stjerner	stjerne	NOUN		noun.object
+4	)	)	PUNCT		
+5	"	"	PUNCT		
+6	Karlsvognen	karlsvognen	PROPN		noun.communication
+7	"	"	PUNCT		
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1289.tsv
+# sent_id = 2
+# text =  Dansk.
+1	Dansk	dansk	ADJ		adj.social
+2	.	.	PUNCT		
+
+# newdoc id = DDT-1289.tsv
+# sent_id = 3
+# text =  Premiere i 10 biografer over hele landet.
+1	Premiere	premiere	NOUN		noun.event
+2	i	i	ADP		
+3	10	10	NUM		
+4	biografer	biograf	NOUN		noun.building
+5	over	over	ADP		
+6	hele	hel	ADJ		adj.phys
+7	landet	land	NOUN		noun.location
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1289.tsv
+# sent_id = 4
+# text = " ROLIG" betyder morsom på svensk.
+1	"	"	PUNCT		
+2	ROLIG	rolig	PROPN		adj.mental
+3	"	"	PUNCT		
+4	betyder	betyde	VERB		verb.stative
+5	morsom	morsom	ADJ		adj.mental
+6	på	på	ADP		
+7	svensk	svensk	NOUN		noun.communication
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1289.tsv
+# sent_id = 5
+# text =  Det er et af de ord, vor danske hovedperson kommer galt afsted med i" Karlsvognen", der imidlertid hverken rigtig er det ene eller det andet: rolig nok eller morsom nok.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	et	en	PRON		
+4	af	af	ADP		
+5	de	den	DET		
+6	ord	ord	NOUN		noun.communication
+7	,	,	PUNCT		
+8	vor	vor	DET		
+9	danske	dansk	ADJ		adj.social
+10	hovedperson	hovedperson	NOUN		noun.person
+11	kommer	komme	VERB		verb.phenomenon
+12	galt	galt	ADV		
+13	afsted	afsted	ADV		verb.COLL
+14	med	med	ADP		
+15	i	i	ADP		
+16	"	"	PUNCT		
+17	Karlsvognen	karlsvognen	PROPN		noun.communication
+18	"	"	PUNCT		
+19	,	,	PUNCT		
+20	der	der	ADV		
+21	imidlertid	imidlertid	ADV		
+22	hverken	hverken	ADV		
+23	rigtig	rigtig	ADV		
+24	er	være	AUX		verb.stative
+25	det	det	DET		
+26	ene	ene	ADJ		
+27	eller	eller	CCONJ		
+28	det	det	DET		
+29	andet	anden	DET		
+30	:	:	PUNCT		
+31	rolig	rolig	ADJ		adj.all
+32	nok	nok	ADV		
+33	eller	eller	CCONJ		
+34	morsom	morsom	ADJ		adj.mental
+35	nok	nok	ADV		
+36	.	.	PUNCT		
+
+# newdoc id = DDT-1289.tsv
+# sent_id = 6
+# text =  NOGLE gange er den så dvælende, at det er lige før den går i stå.
+1	NOGLE	nogen	DET		
+2	gange	gang	NOUN		noun.abstract
+3	er	være	AUX		verb.stative
+4	den	den	PRON		
+5	så	så	ADV		
+6	dvælende	dvæle	VERB		adj.all
+7	,	,	PUNCT		
+8	at	at	SCONJ		
+9	det	det	PRON		
+10	er	være	AUX		verb.stative
+11	lige	lige	ADV		
+12	før	føre	SCONJ		
+13	den	den	PRON		
+14	går	gå	VERB		verb.phenomenon
+15	i	i	ADP		verb.COLL
+16	stå	stå	NOUN		verb.COLL
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1289.tsv
+# sent_id = 7
+# text =  Andre gange har den så travlt med at fortælle, at man bliver vildt forvirret.
+1	Andre	anden	DET		
+2	gange	gang	NOUN		noun.abstract
+3	har	have	AUX		verb.cognition
+4	den	den	PRON		
+5	så	så	ADV		
+6	travlt	travl	ADV		verb.COLL
+7	med	med	ADP		
+8	at	at	PART		
+9	fortælle	fortælle	VERB		verb.communication
+10	,	,	PUNCT		
+11	at	at	SCONJ		
+12	man	man	PRON		
+13	bliver	blive	AUX		verb.stative
+14	vildt	vildt	ADV		
+15	forvirret	forvirre	VERB		adj.mental
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1289.tsv
+# sent_id = 8
+# text =  MAKKERSKABET mellem den danske filminstruktør, Birger Larsen, og den svenske forfatter, Ulf Stark, begyndte med" Lad isbjørnene Danse"- det gav en Bodil for bedste danske film i 1990.
+1	MAKKERSKABET	makkerskab	NOUN		noun.relation
+2	mellem	mellem	ADP		
+3	den	den	DET		
+4	danske	dansk	ADJ		adj.social
+5	filminstruktør	filminstruktør	NOUN		noun.person
+6	,	,	PUNCT		
+7	Birger	birger	PROPN		noun.person
+8	Larsen	larsen	PROPN		noun.person
+9	,	,	PUNCT		
+10	og	og	CCONJ		
+11	den	den	DET		
+12	svenske	svensk	ADJ		adj.social
+13	forfatter	forfatter	NOUN		noun.person
+14	,	,	PUNCT		
+15	Ulf	ulf	PROPN		noun.person
+16	Stark	stark	PROPN		noun.person
+17	,	,	PUNCT		
+18	begyndte	begynde	VERB		verb.aspectual
+19	med	med	ADP		
+20	"	"	PUNCT		
+21	Lad	lade	VERB		noun.communication
+22	isbjørnene	isbjørn	NOUN		noun.communication
+23	Danse	danse	VERB		noun.communication
+24	"	"	PUNCT		
+25	-	-	PUNCT		
+26	det	det	PRON		
+27	gav	give	VERB		verb.phenomenon
+28	en	en	DET		
+29	Bodil	bodil	PROPN		noun.communication
+30	for	for	ADP		
+31	bedste	god	ADJ		adj.all
+32	danske	dansk	ADJ		adj.social
+33	film	film	NOUN		noun.communication
+34	i	i	ADP		
+35	1990	1990	NUM		noun.time
+36	.	.	PUNCT		
+
+# newdoc id = DDT-1289.tsv
+# sent_id = 9
+# text =  Nu fortsætter det med" Karlavagnen" som Ulf Starks børnebog hedder på svensk, hvor der er et ordspil i, at der ligger et pigenavn gemt i stjernebilledet.
+1	Nu	nu	ADV		
+2	fortsætter	fortsætte	VERB		verb.aspectual
+3	det	det	PRON		
+4	med	med	ADP		
+5	"	"	PUNCT		
+6	Karlavagnen	karlavagnen	PROPN		noun.communication
+7	"	"	PUNCT		
+8	som	som	ADP		
+9	Ulf	ulf	PROPN		noun.person
+10	Starks	starks	PROPN		noun.person
+11	børnebog	børnebog	NOUN		noun.communication
+12	hedder	hedde	VERB		verb.stative
+13	på	på	ADP		
+14	svensk	svensk	NOUN		noun.communication
+15	,	,	PUNCT		
+16	hvor	hvor	ADV		
+17	der	der	ADV		
+18	er	være	VERB		verb.stative
+19	et	en	DET		
+20	ordspil	ordspil	NOUN		noun.phenomenon
+21	i	i	ADP		
+22	,	,	PUNCT		
+23	at	at	SCONJ		
+24	der	der	ADV		
+25	ligger	ligge	VERB		verb.stative
+26	et	en	DET		
+27	pigenavn	pigenavn	NOUN		noun.communication
+28	gemt	gemme	VERB		
+29	i	i	ADP		
+30	stjernebilledet	stjernebillede	NOUN		noun.object
+31	.	.	PUNCT		
+
+# newdoc id = DDT-1289.tsv
+# sent_id = 10
+# text =  Ved oversættelsen til" Karlsvognen" tabes en del af magien.
+1	Ved	ved	ADP		
+2	oversættelsen	oversættelse	NOUN		noun.communication
+3	til	til	ADP		
+4	"	"	PUNCT		
+5	Karlsvognen	karlsvognen	PROPN		noun.communication
+6	"	"	PUNCT		
+7	tabes	tabe	VERB		verb.phenomenon
+8	en	en	DET		
+9	del	del	NOUN		noun.quantity
+10	af	af	ADP		
+11	magien	magi	NOUN		noun.phenomenon
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1289.tsv
+# sent_id = 11
+# text =  Og sådan er det også med filmen: fortryllelsens stjernestøv er blæst bort i banan-røg!
+1	Og	og	CCONJ		
+2	sådan	sådan	ADV		
+3	er	være	AUX		verb.stative
+4	det	det	PRON		
+5	også	også	ADV		
+6	med	med	ADP		
+7	filmen	film	NOUN		noun.communication
+8	:	:	PUNCT		
+9	fortryllelsens	fortryllelse	NOUN		noun.phenomenon
+10	stjernestøv	stjernestøv	NOUN		noun.object
+11	er	være	AUX		
+12	blæst	blæse	VERB		verb.phenomenon
+13	bort	bort	ADV		
+14	i	i	ADP		
+15	banan-røg	banan-røg	NOUN		noun.phenomenon
+16	!	!	PUNCT		
+

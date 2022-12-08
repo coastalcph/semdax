@@ -1,0 +1,247 @@
+# newdoc id = DDT-1372.tsv
+# sent_id = 1
+# text =  De har i fire uger i træk ligget på en førsteplads på Billboard i USA med singlen" Jump", som udkom i februar.
+1	De	den	PRON		
+2	har	have	VERB		
+3	i	i	ADP		
+4	fire	fire	NUM		
+5	uger	uge	NOUN		noun.time
+6	i	i	ADP		
+7	træk	træk	NOUN		noun.phenomenon
+8	ligget	ligge	VERB		verb.stative
+9	på	på	ADP		
+10	en	en	DET		
+11	førsteplads	førsteplads	NOUN		noun.relation
+12	på	på	ADP		
+13	Billboard	billboard	PROPN		noun.communication
+14	i	i	ADP		
+15	USA	usa	PROPN		noun.location
+16	med	med	ADP		
+17	singlen	single	NOUN		noun.communication
+18	"	"	PUNCT		
+19	Jump	jump	PROPN		noun.communication
+20	"	"	PUNCT		
+21	,	,	PUNCT		
+22	som	som	PRON		
+23	udkom	udkomme	VERB		verb.communication
+24	i	i	ADP		
+25	februar	februar	NOUN		noun.time
+26	.	.	PUNCT		
+
+# newdoc id = DDT-1372.tsv
+# sent_id = 2
+# text =  Det er ikke en ny version af Pointer Sisters' gamle hit, ej heller et remix af Van Halens "Jump"-nummer, men derimod en helt ny hip hop sang, som rappes af 12-årige Chris Smith og 13-årige Chris Kelly.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	ikke	ikke	ADV		
+4	en	en	DET		
+5	ny	ny	ADJ		adj.time
+6	version	version	NOUN		noun.communication
+7	af	af	ADP		
+8	Pointer	pointer	PROPN		noun.person
+9	Sisters'	sisters'	PROPN		noun.person
+10	gamle	gammel	ADJ		adj.time
+11	hit	hit	NOUN		noun.communication
+12	,	,	PUNCT		
+13	ej	ej	ADV		
+14	heller	heller	ADV		
+15	et	en	DET		
+16	remix	remix	NOUN		noun.act
+17	af	af	ADP		
+18	Van	van	PROPN		noun.person
+19	Halens	halens	PROPN		noun.person
+20	"Jump"-nummer	"jump"-num	NOUN		noun.communication
+21	,	,	PUNCT		
+22	men	men	CCONJ		
+23	derimod	derimod	ADV		
+24	en	en	DET		
+25	helt	helt	ADV		
+26	ny	ny	ADJ		adj.time
+27	hip	hip	X		noun.communication
+28	hop	hop	X		noun.communication
+29	sang	sang	NOUN		noun.communication
+30	,	,	PUNCT		
+31	som	som	PRON		
+32	rappes	rappe	VERB		verb.communication
+33	af	af	ADP		
+34	12-årige	12-år	ADJ		adj.time
+35	Chris	chris	PROPN		noun.person
+36	Smith	smith	PROPN		noun.person
+37	og	og	CCONJ		
+38	13-årige	13-år	ADJ		adj.time
+39	Chris	chris	PROPN		noun.person
+40	Kelly	kelly	PROPN		noun.person
+41	.	.	PUNCT		
+
+# newdoc id = DDT-1372.tsv
+# sent_id = 3
+# text =  DE BEDSTE VENNER
+1	DE	den	DET		
+2	BEDSTE	god	ADJ		adj.all
+3	VENNER	ven	NOUN		noun.person
+
+# newdoc id = DDT-1372.tsv
+# sent_id = 4
+# text =  De to unge mænd er født og opvokset i Atlanta og mødtes, da de begyndte i 1. klasse.
+1	De	den	DET		
+2	to	to	DET		
+3	unge	ung	ADJ		adj.time
+4	mænd	mand	NOUN		noun.person
+5	er	være	AUX		
+6	født	føde	VERB		verb.phenomenon
+7	og	og	CCONJ		
+8	opvokset	opvokset	ADJ		verb.phenomenon
+9	i	i	ADP		
+10	Atlanta	atlanta	PROPN		noun.location
+11	og	og	CCONJ		
+12	mødtes	mødes	VERB		verb.phenomenon
+13	,	,	PUNCT		
+14	da	da	SCONJ		
+15	de	den	PRON		
+16	begyndte	begynde	VERB		verb.aspectual
+17	i	i	ADP		
+18	1.	1.	ADJ		
+19	klasse	klasse	NOUN		noun.relation
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1372.tsv
+# sent_id = 5
+# text =  Dengang var de ikke ligefrem venner, men det kom efterhånden, som det gik op for dem, at de havde flere interesser til fælles, og i_dag er de bedste venner.
+1	Dengang	dengang	ADV		
+2	var	være	AUX		verb.stative
+3	de	den	PRON		
+4	ikke	ikke	ADV		
+5	ligefrem	ligefrem	ADV		
+6	venner	ven	NOUN		noun.relation
+7	,	,	PUNCT		
+8	men	men	CCONJ		
+9	det	det	PRON		
+10	kom	komme	VERB		verb.phenomenon
+11	efterhånden	efterhånden	ADV		
+12	,	,	PUNCT		
+13	som	som	PRON		
+14	det	det	PRON		
+15	gik	gå	VERB		verb.cognition
+16	op	op	ADV		verb.COLL
+17	for	for	ADP		verb.COLL
+18	dem	de	PRON		
+19	,	,	PUNCT		
+20	at	at	SCONJ		
+21	de	den	PRON		
+22	havde	have	VERB		verb.cognition
+23	flere	flere	ADJ		
+24	interesser	interesse	NOUN		noun.cognition
+25	til	til	ADP		
+26	fælles	fælles	ADJ		
+27	,	,	PUNCT		
+28	og	og	CCONJ		
+29	i_dag	i_dag	NOUN		noun.time
+30	er	være	AUX		verb.stative
+31	de	den	DET		
+32	bedste	god	ADJ		adj.all
+33	venner	ven	NOUN		noun.relation
+34	.	.	PUNCT		
+
+# newdoc id = DDT-1372.tsv
+# sent_id = 6
+# text = " Vi er tvillinger, der ikke ligner hinanden", siger Smith.
+1	"	"	PUNCT		
+2	Vi	vi	PRON		
+3	er	være	AUX		verb.stative
+4	tvillinger	tvilling	NOUN		noun.relation
+5	,	,	PUNCT		
+6	der	der	PRON		
+7	ikke	ikke	ADV		
+8	ligner	ligne	VERB		verb.stative
+9	hinanden	hinanden	PRON		
+10	"	"	PUNCT		
+11	,	,	PUNCT		
+12	siger	sige	VERB		verb.communication
+13	Smith	smith	PROPN		noun.person
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1372.tsv
+# sent_id = 7
+# text =  É n af yndlingsbeskæftigelserne er at gå en tur i parken og filosofere lidt over tilværelsen.
+1	É	é	X		
+2	n	n	X		
+3	af	af	ADP		
+4	yndlingsbeskæftigelserne	yndlingsbeskæftig	NOUN		noun.act
+5	er	være	VERB		verb.stative
+6	at	at	PART		
+7	gå	gå	VERB		verb.motion
+8	en	en	DET		
+9	tur	tur	NOUN		noun.act
+10	i	i	ADP		
+11	parken	park	NOUN		noun.location
+12	og	og	CCONJ		
+13	filosofere	filosofere	VERB		verb.cognition
+14	lidt	lidt	ADV		
+15	over	over	ADP		
+16	tilværelsen	tilværelse	NOUN		noun.state
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1372.tsv
+# sent_id = 8
+# text =  Det var i parken, den 19-årige producer Jermaine Dupri fik øje på dem.
+1	Det	det	PRON		
+2	var	være	AUX		verb.stative
+3	i	i	ADP		
+4	parken	park	NOUN		noun.location
+5	,	,	PUNCT		
+6	den	den	DET		
+7	19-årige	19-år	ADJ		adj.time
+8	producer	producer	NOUN		noun.person
+9	Jermaine	jermaine	PROPN		noun.person
+10	Dupri	dupri	PROPN		noun.person
+11	fik	få	VERB		verb.perception
+12	øje	øje	NOUN		verb.COLL
+13	på	på	ADP		
+14	dem	de	PRON		
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1372.tsv
+# sent_id = 9
+# text = " De havde bare dét," fortæller Dupri.
+1	"	"	PUNCT		
+2	De	den	PRON		
+3	havde	have	AUX		verb.phenomenon
+4	bare	bare	ADV		
+5	dét	dét	PRON		
+6	,	,	PUNCT		
+7	"	"	PUNCT		
+8	fortæller	fortælle	VERB		verb.communication
+9	Dupri	dupri	PROPN		noun.person
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1372.tsv
+# sent_id = 10
+# text = " Jeg vidste, at de kunne blive til et eller andet stort, så jeg gik hen og spurgte, om de kunne rappe."
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	vidste	vide	VERB		verb.cognition
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	de	den	PRON		
+7	kunne	kunne	AUX		
+8	blive	blive	VERB		verb.change
+9	til	til	ADP		
+10	et	en	DET		
+11	eller	eller	CCONJ		
+12	andet	anden	DET		
+13	stort	stor	ADJ		adj.all
+14	,	,	PUNCT		
+15	så	så	SCONJ		
+16	jeg	jeg	PRON		
+17	gik	gå	VERB		verb.motion
+18	hen	hen	ADV		
+19	og	og	CCONJ		
+20	spurgte	spørge	VERB		verb.communication
+21	,	,	PUNCT		
+22	om	om	SCONJ		
+23	de	den	PRON		
+24	kunne	kunne	AUX		
+25	rappe	rappe	VERB		verb.communication
+26	.	.	PUNCT		
+27	"	"	PUNCT		
+

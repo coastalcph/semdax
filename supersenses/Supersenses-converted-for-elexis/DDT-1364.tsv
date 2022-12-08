@@ -1,0 +1,202 @@
+# newdoc id = DDT-1364.tsv
+# sent_id = 1
+# text =  Det skulle ifølge H. P. Clausen være sket i slutningen af marts 1989, hvor Ninn-Hansen rumsterede med et ønske om en kommissionsdomstol.
+1	Det	det	PRON		
+2	skulle	skulle	AUX		
+3	ifølge	ifølge	ADP		
+4	H.	h.	PROPN		noun.person
+5	P.	p.	PROPN		noun.person
+6	Clausen	clausen	PROPN		noun.person
+7	være	være	AUX		
+8	sket	ske	VERB		verb.phenomenon
+9	i	i	ADP		
+10	slutningen	slutning	NOUN		noun.time
+11	af	af	ADP		
+12	marts	marts	NOUN		noun.time
+13	1989	1989	NUM		noun.time
+14	,	,	PUNCT		
+15	hvor	hvor	ADV		
+16	Ninn-Hansen	ninn-hansen	PROPN		noun.person
+17	rumsterede	rumstere	VERB		verb.emotion
+18	med	med	ADP		
+19	et	en	DET		
+20	ønske	ønske	NOUN		noun.cognition
+21	om	om	ADP		
+22	en	en	DET		
+23	kommissionsdomstol	kommissionsdomstol	NOUN		noun.institution
+24	.	.	PUNCT		
+
+# newdoc id = DDT-1364.tsv
+# sent_id = 2
+# text =  Resultatet af samtalen var en klar advarsel mod at rode op i tamil-sagen.
+1	Resultatet	resultat	NOUN		noun.abstract
+2	af	af	ADP		
+3	samtalen	samtale	NOUN		noun.communication
+4	var	være	AUX		verb.stative
+5	en	en	DET		
+6	klar	klar	ADJ		adj.mental
+7	advarsel	advarsel	NOUN		noun.communication
+8	mod	mod	ADP		
+9	at	at	PART		
+10	rode	rode	VERB		verb.act
+11	op	op	ADV		verb.PARTICLE
+12	i	i	ADP		
+13	tamil-sagen	tamil-sag	NOUN		noun.abstract
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1364.tsv
+# sent_id = 3
+# text =  En advarsel som aldrig nåede frem til Poul Schlüter- siger Poul Schlüter.
+1	En	en	DET		
+2	advarsel	advarsel	NOUN		noun.communication
+3	som	som	ADP		
+4	aldrig	aldrig	ADV		
+5	nåede	nå	VERB		verb.motion
+6	frem	frem	ADV		verb.PARTICLE
+7	til	til	ADP		
+8	Poul	poul	PROPN		noun.person
+9	Schlüter	schlüter	PROPN		noun.person
+10	-	-	PUNCT		
+11	siger	sige	VERB		verb.communication
+12	Poul	poul	PROPN		noun.person
+13	Schlüter	schlüter	PROPN		noun.person
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1364.tsv
+# sent_id = 4
+# text =  Hans totale afvisning af, at han fik disse informationer, rammer hans egen departementschef Peter Wiese meget hårdt, idet Wiese ikke har lagt skjul på, at han gentagne gange blev grundigt informeret af Poul Lundbæk Andersen- og har forklaret, at han videregav oplysningerne til" chefen" statsminister Poul Schlüter.
+1	Hans	hans	DET		
+2	totale	total	ADJ		adj.all
+3	afvisning	afvisning	NOUN		noun.act
+4	af	af	ADP		
+5	,	,	PUNCT		
+6	at	at	SCONJ		
+7	han	han	PRON		
+8	fik	få	VERB		verb.possession
+9	disse	denne	DET		
+10	informationer	information	NOUN		noun.communication
+11	,	,	PUNCT		
+12	rammer	ramme	VERB		verb.act
+13	hans	hans	DET		
+14	egen	egen	ADJ		
+15	departementschef	departementschef	NOUN		noun.person
+16	Peter	peter	PROPN		noun.person
+17	Wiese	wiese	PROPN		noun.person
+18	meget	megen	ADV		
+19	hårdt	hård	ADV		
+20	,	,	PUNCT		
+21	idet	idet	SCONJ		
+22	Wiese	wiese	PROPN		noun.person
+23	ikke	ikke	ADV		
+24	har	have	AUX		
+25	lagt	lægge	VERB		verb.act
+26	skjul	skjul	NOUN		verb.COLL
+27	på	på	ADP		verb.COLL
+28	,	,	PUNCT		
+29	at	at	SCONJ		
+30	han	han	PRON		
+31	gentagne	gentage	VERB		
+32	gange	gang	NOUN		noun.time
+33	blev	blive	AUX		
+34	grundigt	grundig	ADV		
+35	informeret	informere	VERB		verb.communication
+36	af	af	ADP		
+37	Poul	poul	PROPN		noun.person
+38	Lundbæk	lundbæk	PROPN		noun.person
+39	Andersen	andersen	PROPN		noun.person
+40	-	-	PUNCT		
+41	og	og	CCONJ		
+42	har	have	AUX		
+43	forklaret	forklare	VERB		verb.communication
+44	,	,	PUNCT		
+45	at	at	SCONJ		
+46	han	han	PRON		
+47	videregav	videregive	VERB		verb.communication
+48	oplysningerne	oplysning	NOUN		noun.communication
+49	til	til	ADP		
+50	"	"	PUNCT		
+51	chefen	chef	NOUN		noun.person
+52	"	"	PUNCT		
+53	statsminister	statsminister	NOUN		noun.person
+54	Poul	poul	PROPN		noun.communication
+55	Schlüter	schlüter	PROPN		noun.communication
+56	.	.	PUNCT		
+
+# newdoc id = DDT-1364.tsv
+# sent_id = 5
+# text =  FORTALTE OM" KNASTERNE"
+1	FORTALTE	fortælle	VERB		verb.communication
+2	OM	om	ADP		
+3	"	"	PUNCT		
+4	KNASTERNE	knast	NOUN		
+5	"	"	PUNCT		
+
+# newdoc id = DDT-1364.tsv
+# sent_id = 6
+# text =  Poul Lundbæk Andersen mødtes med Peter Wiese 29. marts 1989, hvor Poul Lundbæk Andersen fortalte om alle" knasterne" i tamil-sagen.
+1	Poul	poul	PROPN		noun.person
+2	Lundbæk	lundbæk	PROPN		noun.person
+3	Andersen	andersen	PROPN		noun.person
+4	mødtes	mødes	VERB		verb.social
+5	med	med	ADP		
+6	Peter	peter	PROPN		noun.person
+7	Wiese	wiese	PROPN		noun.person
+8	29.	29.	ADJ		
+9	marts	marts	NOUN		noun.time
+10	1989	1989	NUM		noun.time
+11	,	,	PUNCT		
+12	hvor	hvor	ADV		
+13	Poul	poul	PROPN		noun.person
+14	Lundbæk	lundbæk	PROPN		noun.person
+15	Andersen	andersen	PROPN		noun.person
+16	fortalte	fortælle	VERB		verb.communication
+17	om	om	ADP		
+18	alle	al	ADJ		
+19	"	"	PUNCT		
+20	knasterne	knast	NOUN		noun.cognition
+21	"	"	PUNCT		
+22	i	i	ADP		
+23	tamil-sagen	tamil-sag	NOUN		noun.abstract
+24	.	.	PUNCT		
+
+# newdoc id = DDT-1364.tsv
+# sent_id = 7
+# text = " Knasterne" var en gennemgang af alle de for regeringen farlige faldgruber- lige fra optakten over Ninn-Hansens påstand om, at regeringen stod bag ham, til den måde Justitsministeriet fik stoppet ombudsmanden på.
+1	"	"	PUNCT		
+2	Knasterne	knast	NOUN		noun.cognition
+3	"	"	PUNCT		
+4	var	være	AUX		verb.stative
+5	en	en	DET		
+6	gennemgang	gennemgang	NOUN		noun.act
+7	af	af	ADP		
+8	alle	al	ADJ		
+9	de	den	DET		
+10	for	for	ADP		
+11	regeringen	regering	NOUN		noun.person
+12	farlige	farlig	ADJ		adj.all
+13	faldgruber	faldgrube	NOUN		noun.cognition
+14	-	-	PUNCT		
+15	lige	lige	ADV		
+16	fra	fra	ADP		
+17	optakten	optakt	NOUN		noun.act
+18	over	over	ADP		
+19	Ninn-Hansens	ninn-hansens	PROPN		noun.person
+20	påstand	påstand	NOUN		noun.communication
+21	om	om	ADP		
+22	,	,	PUNCT		
+23	at	at	SCONJ		
+24	regeringen	regering	NOUN		noun.person
+25	stod	stå	VERB		verb.act
+26	bag	bag	ADP		
+27	ham	han	PRON		
+28	,	,	PUNCT		
+29	til	til	ADP		
+30	den	den	DET		
+31	måde	måde	NOUN		noun.abstract
+32	Justitsministeriet	justitsministerium	NOUN		noun.institution
+33	fik	få	VERB		verb.phenomenon
+34	stoppet	stoppe	VERB		verb.aspectual
+35	ombudsmanden	ombudsmand	NOUN		noun.person
+36	på	på	ADP		
+37	.	.	PUNCT		
+

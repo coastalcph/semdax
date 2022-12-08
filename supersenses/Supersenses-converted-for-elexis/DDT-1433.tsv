@@ -1,0 +1,232 @@
+# newdoc id = DDT-1433.tsv
+# sent_id = 1
+# text = " Det er så rørende med den lille grimme fyr, der på én gang bliver den skønneste svane.
+1	"	"	PUNCT		
+2	Det	det	PRON		
+3	er	være	AUX		verb.stative
+4	så	så	ADV		
+5	rørende	røre	ADJ		adj.mental
+6	med	med	ADP		
+7	den	den	DET		
+8	lille	lille	ADJ		adj.phys
+9	grimme	grim	ADJ		adj.phys
+10	fyr	fyr	NOUN		noun.person
+11	,	,	PUNCT		
+12	der	der	ADV		
+13	på	på	ADP		
+14	én	én	DET		
+15	gang	gang	NOUN		noun.abstract
+16	bliver	blive	AUX		verb.change
+17	den	den	DET		
+18	skønneste	skøn	ADJ		adj.phys
+19	svane	svane	NOUN		noun.animal
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1433.tsv
+# sent_id = 2
+# text =  Det er så følelsesmæssigt stærkt, og i min alder skal der ikke meget til, før man falder sammen af bevægelse."
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	så	så	ADV		
+4	følelsesmæssigt	følelsesmæssig	ADV		
+5	stærkt	stærk	ADV		adj.mental
+6	,	,	PUNCT		
+7	og	og	CCONJ		
+8	i	i	ADP		
+9	min	min	DET		
+10	alder	alder	NOUN		noun.attribute
+11	skal	skulle	VERB		
+12	der	der	ADV		
+13	ikke	ikke	ADV		
+14	meget	megen	ADJ		
+15	til	til	ADP		
+16	,	,	PUNCT		
+17	før	føre	SCONJ		
+18	man	man	PRON		
+19	falder	falde	VERB		verb.phenomenon
+20	sammen	sammen	ADV		verb.PARTICLE
+21	af	af	ADP		
+22	bevægelse	bevægelse	NOUN		noun.act
+23	.	.	PUNCT		
+24	"	"	PUNCT		
+
+# newdoc id = DDT-1433.tsv
+# sent_id = 3
+# text = " For dem, der har læst H. C. Andersen, forsvinder historierne aldrig.
+1	"	"	PUNCT		
+2	For	for	ADP		
+3	dem	de	PRON		
+4	,	,	PUNCT		
+5	der	der	PRON		
+6	har	have	AUX		
+7	læst	læse	VERB		verb.cognition
+8	H.	h.	PROPN		noun.communication
+9	C.	c.	PROPN		noun.communication
+10	Andersen	andersen	PROPN		noun.communication
+11	,	,	PUNCT		
+12	forsvinder	forsvinde	VERB		verb.phenomenon
+13	historierne	historie	NOUN		noun.communication
+14	aldrig	aldrig	ADV		
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1433.tsv
+# sent_id = 4
+# text =  Det er da forfærdeligt at originalmanuskripter er forsvundet.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	da	da	ADV		
+4	forfærdeligt	forfærdelig	ADJ		adj.all
+5	at	at	SCONJ		
+6	originalmanuskripter	originalmanuskript	NOUN		noun.communication
+7	er	være	AUX		
+8	forsvundet	forsvinde	VERB		verb.phenomenon
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1433.tsv
+# sent_id = 5
+# text =  Men det vigtigste ved hans eventyr er, at de bliver fortalt og læst," siger Victor Borge, som netop er i_gang med at indtale flere af forfatterens eventyr til et stort TV-program, der skal sendes i USA.
+1	Men	men	CCONJ		
+2	det	det	DET		
+3	vigtigste	vigtig	ADJ		adj.all
+4	ved	ved	ADP		
+5	hans	hans	DET		
+6	eventyr	eventyr	NOUN		noun.event
+7	er	være	VERB		verb.stative
+8	,	,	PUNCT		
+9	at	at	SCONJ		
+10	de	den	PRON		
+11	bliver	blive	AUX		
+12	fortalt	fortælle	VERB		verb.communication
+13	og	og	CCONJ		
+14	læst	læse	VERB		verb.cognition
+15	,	,	PUNCT		
+16	"	"	PUNCT		
+17	siger	sige	VERB		verb.communication
+18	Victor	victor	PROPN		noun.person
+19	Borge	borge	PROPN		noun.person
+20	,	,	PUNCT		
+21	som	som	PRON		
+22	netop	netop	ADV		
+23	er	være	AUX		verb.stative
+24	i_gang	i_gang	NOUN		
+25	med	med	ADP		
+26	at	at	PART		
+27	indtale	indtale	VERB		verb.communication
+28	flere	flere	ADJ		
+29	af	af	ADP		
+30	forfatterens	forfatter	DET		noun.person
+31	eventyr	eventyr	NOUN		noun.communication
+32	til	til	ADP		
+33	et	en	DET		
+34	stort	stor	ADJ		adj.phys
+35	TV-program	tv-program	NOUN		noun.communication
+36	,	,	PUNCT		
+37	der	der	PRON		
+38	skal	skulle	AUX		
+39	sendes	sende	VERB		verb.communication
+40	i	i	ADP		
+41	USA	usa	PROPN		noun.location
+42	.	.	PUNCT		
+
+# newdoc id = DDT-1433.tsv
+# sent_id = 6
+# text = " H. C. Andersen er jo verdensberømt, fordi hans forfatterskab er blevet oversat til alle sprog.
+1	"	"	PUNCT		
+2	H.	h.	PROPN		noun.person
+3	C.	c.	PROPN		noun.person
+4	Andersen	andersen	PROPN		noun.person
+5	er	være	AUX		verb.stative
+6	jo	jo	ADV		
+7	verdensberømt	verdensberømt	VERB		adj.all
+8	,	,	PUNCT		
+9	fordi	fordi	SCONJ		
+10	hans	hans	DET		
+11	forfatterskab	forfatterskab	NOUN		noun.communication
+12	er	være	AUX		
+13	blevet	blive	AUX		
+14	oversat	oversætte	VERB		verb.communication
+15	til	til	ADP		
+16	alle	al	ADJ		
+17	sprog	sprog	NOUN		noun.communication
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1433.tsv
+# sent_id = 7
+# text =  Men bøger er jo ikke så populær som underholdning som tidligere, og det er svært at sige, hvor mange der i_dag kender ham her i USA.
+1	Men	men	CCONJ		
+2	bøger	bog	NOUN		noun.communication
+3	er	være	AUX		verb.stative
+4	jo	jo	ADV		
+5	ikke	ikke	ADV		
+6	så	så	ADV		
+7	populær	populær	ADJ		adj.all
+8	som	som	ADP		
+9	underholdning	underholdning	NOUN		noun.domain
+10	som	som	ADP		
+11	tidligere	tidlig	ADV		
+12	,	,	PUNCT		
+13	og	og	CCONJ		
+14	det	det	PRON		
+15	er	være	AUX		verb.stative
+16	svært	svær	ADJ		adj.all
+17	at	at	PART		
+18	sige	sige	VERB		verb.communication
+19	,	,	PUNCT		
+20	hvor	hvor	ADV		
+21	mange	mangen	ADJ		
+22	der	der	ADV		
+23	i_dag	i_dag	NOUN		noun.time
+24	kender	kende	VERB		verb.cognition
+25	ham	han	PRON		
+26	her	her	ADV		
+27	i	i	ADP		
+28	USA	usa	PROPN		noun.location
+29	.	.	PUNCT		
+
+# newdoc id = DDT-1433.tsv
+# sent_id = 8
+# text =  Den yngre generation er ikke så forvænt med den slags litteratur.
+1	Den	den	DET		
+2	yngre	ung	ADJ		adj.phys
+3	generation	generation	NOUN		noun.person
+4	er	være	AUX		verb.stative
+5	ikke	ikke	ADV		
+6	så	så	ADV		
+7	forvænt	forvænne	ADJ		adj.mental
+8	med	med	ADP		
+9	den	den	DET		
+10	slags	slags	ADJ		noun.domain
+11	litteratur	litteratur	NOUN		noun.communication
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1433.tsv
+# sent_id = 9
+# text =  Så TV-programmet er et fremstød, hvor vi prøver at gøre ham populær," siger Victor Borge for hvem H. C. Andersen har stor betydning.
+1	Så	så	SCONJ		
+2	TV-programmet	tv-program	NOUN		noun.communication
+3	er	være	AUX		verb.stative
+4	et	en	DET		
+5	fremstød	fremstød	NOUN		noun.act
+6	,	,	PUNCT		
+7	hvor	hvor	ADV		
+8	vi	vi	PRON		
+9	prøver	prøve	VERB		verb.act
+10	at	at	PART		
+11	gøre	gøre	VERB		verb.change
+12	ham	han	PRON		
+13	populær	populær	ADJ		adj.social
+14	,	,	PUNCT		
+15	"	"	PUNCT		
+16	siger	sige	VERB		verb.communication
+17	Victor	victor	PROPN		noun.person
+18	Borge	borge	PROPN		noun.person
+19	for	for	ADP		
+20	hvem	hvem	PRON		
+21	H.	h.	PROPN		noun.person
+22	C.	c.	PROPN		noun.person
+23	Andersen	andersen	PROPN		noun.person
+24	har	have	VERB		verb.possession
+25	stor	stor	ADJ		adj.phys
+26	betydning	betydning	NOUN		noun.cognition
+27	.	.	PUNCT		
+

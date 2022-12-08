@@ -1,0 +1,236 @@
+# newdoc id = DDT-1497.tsv
+# sent_id = 1
+# text =  DA Socialdemokratiet gav op i september 1982 var det vel egentlig også mest af taktiske grunde.
+1	DA	da	SCONJ		
+2	Socialdemokratiet	socialdemokrati	NOUN		noun.person
+3	gav	give	VERB		verb.cognition
+4	op	op	ADV		verb.PARTICLE
+5	i	i	ADP		
+6	september	september	NOUN		noun.time
+7	1982	1982	ADV		noun.time
+8	var	være	VERB		verb.stative
+9	det	det	PRON		
+10	vel	vel	ADV		
+11	egentlig	egentlig	ADV		
+12	også	også	ADV		
+13	mest	megen	ADV		
+14	af	af	ADP		
+15	taktiske	taktisk	ADJ		adj.all
+16	grunde	grund	NOUN		noun.cognition
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1497.tsv
+# sent_id = 2
+# text =  I håbet om hurtigt at vende tilbage til regeringsbænkene når firkløverregeringen var kørt fast.
+1	I	i	ADP		
+2	håbet	håb	NOUN		noun.feeling
+3	om	om	ADP		
+4	hurtigt	hurtig	ADV		
+5	at	at	PART		
+6	vende	vende	VERB		verb.motion
+7	tilbage	tilbage	ADV		verb.COLL
+8	til	til	ADP		
+9	regeringsbænkene	regeringsbænk	NOUN		noun.artifact
+10	når	når	SCONJ		
+11	firkløverregeringen	firkløverregering	NOUN		noun.person
+12	var	være	AUX		
+13	kørt	køre	VERB		verb.phenomenon
+14	fast	fast	ADV		verb.COLL
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1497.tsv
+# sent_id = 3
+# text =  MEN endnu en gang var det en skæbnefyldt fejlvurdering af ledende politikere.
+1	MEN	men	CCONJ		
+2	endnu	endnu	ADV		
+3	en	en	DET		
+4	gang	gang	NOUN		noun.abstract
+5	var	være	AUX		verb.stative
+6	det	det	PRON		
+7	en	en	DET		
+8	skæbnefyldt	skæbnefyld	ADJ		adj.all
+9	fejlvurdering	fejlvurdering	NOUN		noun.cognition
+10	af	af	ADP		
+11	ledende	lede	VERB		adj.all
+12	politikere	politiker	NOUN		noun.person
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1497.tsv
+# sent_id = 4
+# text =  FIRKLØVERREGERINGEN var ikke en døgnflue.
+1	FIRKLØVERREGERINGEN	firkløverregering	NOUN		noun.person
+2	var	være	AUX		verb.stative
+3	ikke	ikke	ADV		
+4	en	en	DET		
+5	døgnflue	døgnflue	NOUN		noun.phenomenon
+6	.	.	PUNCT		
+
+# newdoc id = DDT-1497.tsv
+# sent_id = 5
+# text =  Under visse omstændigheder kunne den såmænd have siddet den dag i_dag.
+1	Under	under	ADP		
+2	visse	vis	ADJ		
+3	omstændigheder	omstændighed	NOUN		noun.state
+4	kunne	kunne	AUX		
+5	den	den	PRON		
+6	såmænd	såmænd	ADV		
+7	have	have	AUX		
+8	siddet	sidde	VERB		verb.stative
+9	den	den	DET		
+10	dag	dag	NOUN		noun.time
+11	i_dag	i_dag	NOUN		noun.time
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1497.tsv
+# sent_id = 6
+# text =  Det er vel ikke engang udelukket, at den på_ny dukker op.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	vel	vel	ADV		
+4	ikke	ikke	ADV		
+5	engang	engang	ADV		
+6	udelukket	udelukke	VERB		adj.all
+7	,	,	PUNCT		
+8	at	at	SCONJ		
+9	den	den	DET		
+10	på_ny	på_ny	ADJ		
+11	dukker	dukke	NOUN		verb.phenomenon
+12	op	op	ADV		verb.PARTICLE
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1497.tsv
+# sent_id = 7
+# text =  Hvem tør afvise det.
+1	Hvem	hvem	PRON		
+2	tør	tørre	AUX		verb.emotion
+3	afvise	afvise	VERB		verb.communication
+4	det	det	PRON		
+5	.	.	PUNCT		
+
+# newdoc id = DDT-1497.tsv
+# sent_id = 8
+# text =  I_hvert_fald blev dens dannelse starten til en ny fase i dansk politik efter anden verdenskrig.
+1	I_hvert_fald	i_hvert_fald	NOUN		
+2	blev	blive	AUX		verb.stative
+3	dens	dens	DET		
+4	dannelse	dannelse	NOUN		noun.act
+5	starten	start	NOUN		noun.time
+6	til	til	ADP		
+7	en	en	DET		
+8	ny	ny	ADJ		adj.time
+9	fase	fase	NOUN		noun.time
+10	i	i	ADP		
+11	dansk	dansk	ADJ		adj.social
+12	politik	politik	NOUN		noun.domain
+13	efter	efter	ADP		
+14	anden	anden	ADJ		noun.event
+15	verdenskrig	verdenskrig	NOUN		noun.event
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1497.tsv
+# sent_id = 9
+# text =  REGERINGSCHEFEN bærer sin store del af æren herfor, men et par andre momenter bør dog også drages frem.
+1	REGERINGSCHEFEN	regeringschef	NOUN		noun.person
+2	bærer	bære	VERB		verb.stative
+3	sin	sin	DET		
+4	store	stor	ADJ		adj.all
+5	del	del	NOUN		noun.relation
+6	af	af	ADP		
+7	æren	ære	NOUN		noun.cognition
+8	herfor	herfor	ADV		
+9	,	,	PUNCT		
+10	men	men	CCONJ		
+11	et	en	DET		
+12	par	par	NOUN		noun.quantity
+13	andre	anden	DET		
+14	momenter	moment	NOUN		noun.event
+15	bør	burde	AUX		
+16	dog	dog	ADV		
+17	også	også	ADV		
+18	drages	drage	VERB		verb.communication
+19	frem	frem	ADV		
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1497.tsv
+# sent_id = 10
+# text =  DE fire partier var enige om mangt og meget, da regeringen blev dannet.
+1	DE	den	DET		
+2	fire	fire	ADJ		
+3	partier	parti	NOUN		noun.person
+4	var	være	AUX		verb.stative
+5	enige	enig	ADJ		adj.mental
+6	om	om	ADP		
+7	mangt	mangen	ADJ		
+8	og	og	CCONJ		
+9	meget	megen	ADJ		
+10	,	,	PUNCT		
+11	da	da	SCONJ		
+12	regeringen	regering	NOUN		noun.person
+13	blev	blive	AUX		
+14	dannet	danne	VERB		verb.creation
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1497.tsv
+# sent_id = 11
+# text =  Langt mere end dens modstandere havde troet var muligt.
+1	Langt	lang	ADV		
+2	mere	mere	ADJ		
+3	end	ende	ADP		
+4	dens	dens	DET		
+5	modstandere	modstander	NOUN		noun.person
+6	havde	have	AUX		
+7	troet	tro	VERB		verb.cognition
+8	var	være	AUX		verb.stative
+9	muligt	mulig	ADJ		adj.all
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1497.tsv
+# sent_id = 12
+# text =  En væsentlig grund hertil var, at vi alle havde en intuitiv fornemmelse af, at regeringens overlevelse ville bero på, om vi havde mod til at spille ud med meget radikale forslag, der afgørende ville ændre forventningerne i befolkningen og i erhvervslivet.
+1	En	en	DET		
+2	væsentlig	væsentlig	ADJ		adj.all
+3	grund	grund	NOUN		noun.abstract
+4	hertil	hertil	ADV		
+5	var	være	VERB		verb.stative
+6	,	,	PUNCT		
+7	at	at	SCONJ		
+8	vi	vi	PRON		
+9	alle	al	ADJ		
+10	havde	have	VERB		verb.cognition
+11	en	en	DET		
+12	intuitiv	intuitiv	ADJ		adj.all
+13	fornemmelse	fornemmelse	NOUN		noun.feeling
+14	af	af	ADP		
+15	,	,	PUNCT		
+16	at	at	SCONJ		
+17	regeringens	regering	NOUN		noun.person
+18	overlevelse	overlevelse	NOUN		noun.phenomenon
+19	ville	ville	AUX		
+20	bero	bero	VERB		verb.stative
+21	på	på	ADP		
+22	,	,	PUNCT		
+23	om	om	SCONJ		
+24	vi	vi	PRON		
+25	havde	have	VERB		verb.possession
+26	mod	mod	NOUN		noun.feeling
+27	til	til	ADP		
+28	at	at	PART		
+29	spille	spille	VERB		verb.act
+30	ud	ud	ADV		verb.PARTICLE
+31	med	med	ADP		
+32	meget	megen	ADV		
+33	radikale	radikal	ADJ		adj.all
+34	forslag	forslag	NOUN		noun.communication
+35	,	,	PUNCT		
+36	der	der	PRON		
+37	afgørende	afgørende	ADV		
+38	ville	ville	AUX		
+39	ændre	ændre	VERB		verb.change
+40	forventningerne	forventning	NOUN		noun.cognition
+41	i	i	ADP		
+42	befolkningen	befolkning	NOUN		noun.person
+43	og	og	CCONJ		
+44	i	i	ADP		
+45	erhvervslivet	erhvervsliv	NOUN		noun.institution
+46	.	.	PUNCT		
+

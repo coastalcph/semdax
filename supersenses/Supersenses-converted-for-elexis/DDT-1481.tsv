@@ -1,0 +1,245 @@
+# newdoc id = DDT-1481.tsv
+# sent_id = 1
+# text =  Ifølge en gammel aftale indgået mellem Nordjyllands Amt og Bedemændenes Landsforenings nordjyske kreds har portørerne nemlig haft lov til at afkræve bedemændene et beløb på 70 kr. pr. lig, som de hjalp med at løfte op i kisten.
+1	Ifølge	ifølge	ADP		
+2	en	en	DET		
+3	gammel	gammel	ADJ		adj.time
+4	aftale	aftale	NOUN		noun.abstract
+5	indgået	indgå	VERB		verb.act
+6	mellem	mellem	ADP		
+7	Nordjyllands	nordjyllands	PROPN		noun.institution
+8	Amt	amt	NOUN		noun.institution
+9	og	og	CCONJ		
+10	Bedemændenes	bedemand	NOUN		noun.institution
+11	Landsforenings	landsforening	NOUN		noun.institution
+12	nordjyske	nordjysk	ADJ		noun.institution
+13	kreds	kreds	NOUN		noun.institution
+14	har	have	AUX		
+15	portørerne	portør	NOUN		noun.person
+16	nemlig	nemlig	ADV		
+17	haft	have	VERB		verb.possession
+18	lov	lov	NOUN		noun.abstract
+19	til	til	ADP		
+20	at	at	PART		
+21	afkræve	afkræve	VERB		verb.communication
+22	bedemændene	bedemand	NOUN		noun.person
+23	et	en	DET		
+24	beløb	beløb	NOUN		noun.possession
+25	på	på	ADP		
+26	70	70	NUM		
+27	kr.	kr.	NOUN		
+28	pr.	pr.	ADP		
+29	lig	lig	NOUN		noun.object
+30	,	,	PUNCT		
+31	som	som	PRON		
+32	de	den	PRON		
+33	hjalp	hjælpe	VERB		verb.act
+34	med	med	ADP		
+35	at	at	PART		
+36	løfte	løfte	VERB		verb.motion
+37	op	op	ADV		verb.PARTICLE
+38	i	i	ADP		
+39	kisten	kiste	NOUN		noun.container
+40	.	.	PUNCT		
+
+# newdoc id = DDT-1481.tsv
+# sent_id = 2
+# text =  Som leder af sygehusets portørgruppe har ingen kunnet anfægte overportørens ret til sætte sig selv på fast vagt i kapellet.
+1	Som	som	ADP		
+2	leder	leder	NOUN		noun.person
+3	af	af	ADP		
+4	sygehusets	sygehus	NOUN		noun.building
+5	portørgruppe	portørgrup	NOUN		noun.person
+6	har	have	VERB		
+7	ingen	ingen	DET		
+8	kunnet	kunne	NOUN		
+9	anfægte	anfægte	VERB		verb.communication
+10	overportørens	overportør	NOUN		noun.person
+11	ret	ret	NOUN		noun.abstract
+12	til	til	ADP		
+13	sætte	sætte	VERB		verb.act
+14	sig	sig	PRON		
+15	selv	selv	PRON		
+16	på	på	ADP		
+17	fast	fast	ADJ		adj.all
+18	vagt	vagt	NOUN		noun.time
+19	i	i	ADP		
+20	kapellet	kapel	NOUN		noun.building
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1481.tsv
+# sent_id = 3
+# text =  Med omkring 300 døde årligt på Hobro Sygehus er håndsrækningen til bedemændene blevet til en ekstra årsindtægt på rundt regnet 20.000 kr..
+1	Med	med	ADP		
+2	omkring	omkring	ADP		
+3	300	300	NUM		
+4	døde	død	ADJ		noun.person
+5	årligt	årlig	ADV		adj.time
+6	på	på	ADP		
+7	Hobro	hobro	PROPN		noun.building
+8	Sygehus	sygehus	NOUN		noun.building
+9	er	være	AUX		
+10	håndsrækningen	håndsrækning	NOUN		noun.act
+11	til	til	ADP		
+12	bedemændene	bedemand	NOUN		noun.person
+13	blevet	blive	VERB		verb.change
+14	til	til	ADP		
+15	en	en	DET		
+16	ekstra	ekstra	ADJ		adj.all
+17	årsindtægt	årsindtægt	NOUN		noun.possession
+18	på	på	ADP		
+19	rundt	rund	ADV		
+20	regnet	regne	VERB		verb.cognition
+21	20.000	20.000	NUM		
+22	kr.	kr.	NOUN		
+23	.	.	PUNCT		
+
+# newdoc id = DDT-1481.tsv
+# sent_id = 4
+# text =  I FÆLLESKASSE
+1	I	i	ADP		
+2	FÆLLESKASSE	fælleskasse	NOUN		noun.artifact
+
+# newdoc id = DDT-1481.tsv
+# sent_id = 5
+# text = " De øvrige portører har ment, at pengene skulle være delt.
+1	"	"	PUNCT		
+2	De	den	DET		
+3	øvrige	øvrig	ADJ		
+4	portører	portør	NOUN		noun.person
+5	har	have	AUX		
+6	ment	mene	VERB		verb.cognition
+7	,	,	PUNCT		
+8	at	at	SCONJ		
+9	pengene	penge	NOUN		noun.artifact
+10	skulle	skulle	AUX		
+11	være	være	AUX		
+12	delt	dele	VERB		verb.change
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1481.tsv
+# sent_id = 6
+# text =  En del er da også gået til portørernes fælles kaffekasse.
+1	En	en	DET		
+2	del	del	NOUN		noun.quantity
+3	er	være	AUX		verb.stative
+4	da	da	ADV		
+5	også	også	ADV		
+6	gået	gå	VERB		verb.stative
+7	til	til	ADP		
+8	portørernes	portør	NOUN		noun.person
+9	fælles	fælles	ADJ		adj.all
+10	kaffekasse	kaffekas	NOUN		noun.artifact
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1481.tsv
+# sent_id = 7
+# text =  Noget er gået til skat.
+1	Noget	nogen	PRON		
+2	er	være	AUX		
+3	gået	gå	VERB		verb.motion
+4	til	til	ADP		
+5	skat	skat	NOUN		noun.abstract
+6	.	.	PUNCT		
+
+# newdoc id = DDT-1481.tsv
+# sent_id = 8
+# text =  Tilbage har der vel været mellem 3.000 og 5.000 kr. netto til overportøren selv," siger sygehusdirektør Karl Gaub til B.T..
+1	Tilbage	tilbage	ADV		
+2	har	have	VERB		
+3	der	der	ADV		
+4	vel	vel	ADV		
+5	været	være	VERB		verb.stative
+6	mellem	mellem	ADP		
+7	3.000	3.000	NUM		
+8	og	og	CCONJ		
+9	5.000	5.000	NUM		
+10	kr.	kr.	NOUN		
+11	netto	netto	ADV		
+12	til	til	ADP		
+13	overportøren	overportør	NOUN		noun.person
+14	selv	selv	PRON		
+15	,	,	PUNCT		
+16	"	"	PUNCT		
+17	siger	sige	VERB		verb.communication
+18	sygehusdirektør	sygehusdirektør	NOUN		noun.person
+19	Karl	karl	PROPN		noun.person
+20	Gaub	gaub	PROPN		noun.person
+21	til	til	ADP		
+22	B.T.	b.t.	PROPN		noun.communication
+23	.	.	PUNCT		
+
+# newdoc id = DDT-1481.tsv
+# sent_id = 9
+# text = " Om der er tale om 3.000 kr. eller tre millioner er dog for så vidt ligegyldigt.
+1	"	"	PUNCT		
+2	Om	om	SCONJ		
+3	der	der	ADV		
+4	er	være	VERB		
+5	tale	tale	NOUN		verb.stative
+6	om	om	ADP		
+7	3.000	3.000	NUM		
+8	kr.	kr.	NOUN		
+9	eller	eller	CCONJ		
+10	tre	tre	NUM		
+11	millioner	million	NOUN		noun.quantity
+12	er	være	AUX		verb.stative
+13	dog	dog	ADV		
+14	for	for	ADP		
+15	så	så	ADV		
+16	vidt	vidt	ADV		
+17	ligegyldigt	ligegyldig	ADJ		adj.all
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1481.tsv
+# sent_id = 10
+# text =  Sagen er, at der er noget uldent ved hele denne affære.
+1	Sagen	sag	NOUN		noun.abstract
+2	er	være	VERB		verb.stative
+3	,	,	PUNCT		
+4	at	at	SCONJ		
+5	der	der	ADV		
+6	er	være	VERB		verb.stative
+7	noget	nogen	DET		
+8	uldent	ulden	ADJ		adj.mental
+9	ved	ved	ADP		
+10	hele	hel	ADJ		adj.phys
+11	denne	denne	DET		
+12	affære	affære	NOUN		noun.state
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1481.tsv
+# sent_id = 11
+# text =  Og jeg kan ikke leve med, at der rejses tvivl om en medarbejders hæderlighed.
+1	Og	og	CCONJ		
+2	jeg	jeg	PRON		
+3	kan	kunne	AUX		
+4	ikke	ikke	ADV		
+5	leve	leve	VERB		verb.phenomenon
+6	med	med	ADP		
+7	,	,	PUNCT		
+8	at	at	SCONJ		
+9	der	der	ADV		
+10	rejses	rejse	VERB		verb.act
+11	tvivl	tvivl	NOUN		noun.cognition
+12	om	om	ADP		
+13	en	en	DET		
+14	medarbejders	medarbejder	NOUN		noun.person
+15	hæderlighed	hæderlighed	NOUN		noun.attribute
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1481.tsv
+# sent_id = 12
+# text =  Slet ikke, når det er en medarbejder på mellemlederplan.
+1	Slet	slet	ADV		
+2	ikke	ikke	ADV		
+3	,	,	PUNCT		
+4	når	når	SCONJ		
+5	det	det	PRON		
+6	er	være	AUX		verb.stative
+7	en	en	DET		
+8	medarbejder	medarbejder	NOUN		noun.person
+9	på	på	ADP		
+10	mellemlederplan	mellemlederplan	NOUN		noun.relation
+11	.	.	PUNCT		
+

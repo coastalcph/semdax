@@ -1,0 +1,227 @@
+# newdoc id = DDT-1259.tsv
+# sent_id = 1
+# text =  Men er den nu også det?
+1	Men	men	CCONJ		
+2	er	være	AUX		verb.stative
+3	den	den	PRON		
+4	nu	nu	ADV		
+5	også	også	ADV		
+6	det	det	PRON		
+7	?	?	PUNCT		
+
+# newdoc id = DDT-1259.tsv
+# sent_id = 2
+# text =  Ikke nødvendigvis, siger adjunkt, cand._psych. Dion Sommer, Institut for Psykologi ved Aarhus Universitet.
+1	Ikke	ikke	ADV		
+2	nødvendigvis	nødvendigvis	ADV		
+3	,	,	PUNCT		
+4	siger	sige	VERB		verb.communication
+5	adjunkt	adjunkt	NOUN		noun.person
+6	,	,	PUNCT		
+7	cand._psych.	cand._psych.	X		
+8	Dion	dion	PROPN		noun.person
+9	Sommer	sommer	PROPN		noun.person
+10	,	,	PUNCT		
+11	Institut	institut	NOUN		noun.institution
+12	for	for	ADP		
+13	Psykologi	psykologi	NOUN		noun.domain
+14	ved	ved	ADP		
+15	Aarhus	aarhus	PROPN		noun.institution
+16	Universitet	universitet	NOUN		noun.institution
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1259.tsv
+# sent_id = 3
+# text =  Og i_hvert_fald kan vi ikke måle kvaliteten af vore dages barndom ud fra de normer, der gjaldt dengang, vi selv var børn.
+1	Og	og	CCONJ		
+2	i_hvert_fald	i_hvert_fald	NOUN		
+3	kan	kunne	AUX		
+4	vi	vi	PRON		
+5	ikke	ikke	ADV		
+6	måle	måle	VERB		verb.cognition
+7	kvaliteten	kvalitet	NOUN		noun.phenomenon
+8	af	af	ADP		
+9	vore	vor	DET		
+10	dages	dag	NOUN		noun.time
+11	barndom	barndom	NOUN		noun.state
+12	ud	ud	ADV		
+13	fra	fra	ADP		
+14	de	den	DET		
+15	normer	norm	NOUN		noun.abstract
+16	,	,	PUNCT		
+17	der	der	PRON		
+18	gjaldt	gælde	VERB		verb.stative
+19	dengang	dengang	ADV		
+20	,	,	PUNCT		
+21	vi	vi	PRON		
+22	selv	selv	PRON		
+23	var	være	AUX		verb.stative
+24	børn	barn	NOUN		noun.person
+25	.	.	PUNCT		
+
+# newdoc id = DDT-1259.tsv
+# sent_id = 4
+# text = " Børns vilkår har ændret sig så meget de seneste år, at vi faktisk ikke har noget sammenligningsgrundlag," siger han.
+1	"	"	PUNCT		
+2	Børns	barn	ADJ		noun.person
+3	vilkår	vilkår	NOUN		noun.abstract
+4	har	have	AUX		
+5	ændret	ændre	VERB		verb.change
+6	sig	sig	PRON		
+7	så	så	ADV		
+8	meget	megen	ADV		
+9	de	den	DET		
+10	seneste	sen	ADJ		adj.time
+11	år	år	NOUN		noun.time
+12	,	,	PUNCT		
+13	at	at	SCONJ		
+14	vi	vi	PRON		
+15	faktisk	faktisk	ADV		
+16	ikke	ikke	ADV		
+17	har	have	VERB		verb.stative
+18	noget	nogen	DET		
+19	sammenligningsgrundlag	sammenligningsgrundlag	NOUN		noun.abstract
+20	,	,	PUNCT		
+21	"	"	PUNCT		
+22	siger	sige	VERB		verb.communication
+23	han	han	PRON		
+24	.	.	PUNCT		
+
+# newdoc id = DDT-1259.tsv
+# sent_id = 5
+# text = " Vor opfattelse af, hvad børn har godt af, stammer fra en anden tid.
+1	"	"	PUNCT		
+2	Vor	vor	DET		
+3	opfattelse	opfattelse	NOUN		noun.cognition
+4	af	af	ADP		
+5	,	,	PUNCT		
+6	hvad	hvad	PRON		
+7	børn	barn	NOUN		noun.person
+8	har	have	AUX		verb.stative
+9	godt	godte	ADV		verb.COLL
+10	af	af	ADP		verb.COLL
+11	,	,	PUNCT		
+12	stammer	stammer	NOUN		verb.stative
+13	fra	fra	ADP		
+14	en	en	DET		
+15	anden	anden	ADJ		
+16	tid	tid	NOUN		noun.time
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1259.tsv
+# sent_id = 6
+# text =  Det betyder i virkeligheden, at vore kulturelle forestillinger om barndommen bliver en slags spændetrøje, en form, der ikke passer, og hvor vi så skærer de stumper fra, der hænger udenfor- i stedet for at udnytte og glæde os over de nye muligheder.
+1	Det	det	PRON		
+2	betyder	betyde	VERB		verb.stative
+3	i	i	ADP		
+4	virkeligheden	virkelighed	NOUN		
+5	,	,	PUNCT		
+6	at	at	SCONJ		
+7	vore	vor	DET		
+8	kulturelle	kulturel	ADJ		adj.social
+9	forestillinger	forestilling	NOUN		noun.cognition
+10	om	om	ADP		
+11	barndommen	barndom	NOUN		noun.state
+12	bliver	blive	AUX		verb.stative
+13	en	en	DET		
+14	slags	slags	NOUN		noun.abstract
+15	spændetrøje	spændetrøje	NOUN		noun.artifact
+16	,	,	PUNCT		
+17	en	en	DET		
+18	form	form	NOUN		noun.shape
+19	,	,	PUNCT		
+20	der	der	PRON		
+21	ikke	ikke	ADV		
+22	passer	passere	VERB		verb.stative
+23	,	,	PUNCT		
+24	og	og	CCONJ		
+25	hvor	hvor	ADV		
+26	vi	vi	PRON		
+27	så	så	ADV		
+28	skærer	skære	VERB		verb.act
+29	de	den	DET		
+30	stumper	stump	NOUN		noun.artifact
+31	fra	fra	ADP		
+32	,	,	PUNCT		
+33	der	der	PRON		
+34	hænger	hænge	VERB		verb.stative
+35	udenfor	udenfor	ADV		
+36	-	-	PUNCT		
+37	i	i	ADP		
+38	stedet	sted	NOUN		
+39	for	for	ADP		
+40	at	at	PART		
+41	udnytte	udnytte	VERB		verb.act
+42	og	og	CCONJ		
+43	glæde	glæde	NOUN		verb.emotion
+44	os	vi	PRON		verb.REFLPRON
+45	over	over	ADP		
+46	de	den	DET		
+47	nye	ny	ADJ		adj.time
+48	muligheder	mulighed	NOUN		noun.abstract
+49	.	.	PUNCT		
+
+# newdoc id = DDT-1259.tsv
+# sent_id = 7
+# text =  Vores forhold til barndommen bliver defensivt, præget af bekymring og ængstelse.
+1	Vores	vores	DET		
+2	forhold	forhold	NOUN		noun.cognition
+3	til	til	ADP		
+4	barndommen	barndom	NOUN		noun.state
+5	bliver	blive	AUX		
+6	defensivt	defensiv	ADJ		adj.all
+7	,	,	PUNCT		
+8	præget	præge	VERB		adj.all
+9	af	af	ADP		
+10	bekymring	bekymring	NOUN		noun.feeling
+11	og	og	CCONJ		
+12	ængstelse	ængstelse	NOUN		noun.feeling
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1259.tsv
+# sent_id = 8
+# text =  Vi vurderer vores egen indsats ud fra nogle idealforestillinger, som vi ikke føler, vi kan leve op til.
+1	Vi	vi	PRON		
+2	vurderer	vurdere	VERB		verb.cognition
+3	vores	vores	DET		
+4	egen	egen	ADJ		adj.all
+5	indsats	indsats	NOUN		noun.act
+6	ud	ud	ADV		
+7	fra	fra	ADP		
+8	nogle	nogen	DET		
+9	idealforestillinger	idealforestilling	NOUN		noun.cognition
+10	,	,	PUNCT		
+11	som	som	PRON		
+12	vi	vi	PRON		
+13	ikke	ikke	ADV		
+14	føler	føle	VERB		verb.emotion
+15	,	,	PUNCT		
+16	vi	vi	PRON		
+17	kan	kunne	AUX		
+18	leve	leve	VERB		verb.cognition
+19	op	op	ADV		verb.COLL
+20	til	til	ADP		verb.COLL
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1259.tsv
+# sent_id = 9
+# text =  Vi glemmer helt at se på de historiske perspektiver, på de kulturelle og samfundsmæssi ge forandringer.
+1	Vi	vi	PRON		
+2	glemmer	glemme	VERB		verb.cognition
+3	helt	helt	ADV		
+4	at	at	PART		
+5	se	se	VERB		verb.cognition
+6	på	på	ADP		
+7	de	den	DET		
+8	historiske	historisk	ADJ		adj.social
+9	perspektiver	perspektiv	NOUN		noun.abstract
+10	,	,	PUNCT		
+11	på	på	ADP		
+12	de	den	DET		
+13	kulturelle	kulturel	ADJ		adj.social
+14	og	og	CCONJ		
+15	samfundsmæssi	samfundsmæssi	X		adj.social
+16	ge	ge	X		adj.social
+17	forandringer	forandring	NOUN		noun.phenomenon
+18	.	.	PUNCT		
+

@@ -1,0 +1,226 @@
+# newdoc id = DDT-1399.tsv
+# sent_id = 1
+# text =  KOLDING: Så er den koldingensiske bilsælger Christian Christensen igen klar til at tage kampen op med partisanerne i Guatamalas jungle.
+1	KOLDING	kolding	PROPN		noun.location
+2	:	:	PUNCT		
+3	Så	så	ADV		
+4	er	være	AUX		
+5	den	den	DET		
+6	koldingensiske	koldingensisk	ADJ		adj.social
+7	bilsælger	bilsælg	NOUN		noun.person
+8	Christian	christian	PROPN		noun.person
+9	Christensen	christensen	PROPN		noun.person
+10	igen	igen	ADV		
+11	klar	klar	ADJ		adj.all
+12	til	til	ADP		
+13	at	at	PART		
+14	tage	tage	VERB		verb.act
+15	kampen	kamp	NOUN		noun.act
+16	op	op	ADV		verb.PARTICLE
+17	med	med	ADP		
+18	partisanerne	partisan	NOUN		noun.person
+19	i	i	ADP		
+20	Guatamalas	guatamalas	PROPN		noun.location
+21	jungle	jungle	NOUN		noun.location
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1399.tsv
+# sent_id = 2
+# text =  Denne gang i følgeskab med Jørn Middelhede, ligeledes fra Kolding.
+1	Denne	denne	DET		
+2	gang	gang	NOUN		noun.abstract
+3	i	i	ADP		
+4	følgeskab	følgeskab	NOUN		noun.relation
+5	med	med	ADP		
+6	Jørn	jørn	PROPN		noun.person
+7	Middelhede	middelhede	PROPN		noun.person
+8	,	,	PUNCT		
+9	ligeledes	ligeledes	ADV		
+10	fra	fra	ADP		
+11	Kolding	kolding	PROPN		noun.location
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1399.tsv
+# sent_id = 3
+# text = " Målet er en bestemt grotte, hvor Maya-indianerne har malet inskriptioner på væggen," fortæller Christian Christensen, som rejser fra Billund til Guatamala på tirsdag.
+1	"	"	PUNCT		
+2	Målet	mål	NOUN		noun.motive
+3	er	være	AUX		verb.stative
+4	en	en	DET		
+5	bestemt	bestemt	ADJ		adj.all
+6	grotte	grotte	NOUN		noun.building
+7	,	,	PUNCT		
+8	hvor	hvor	ADV		
+9	Maya-indianerne	maya-indian	NOUN		noun.person
+10	har	have	AUX		
+11	malet	male	VERB		verb.creation
+12	inskriptioner	inskription	NOUN		noun.communication
+13	på	på	ADP		
+14	væggen	væg	NOUN		noun.building
+15	,	,	PUNCT		
+16	"	"	PUNCT		
+17	fortæller	fortælle	VERB		verb.communication
+18	Christian	christian	PROPN		noun.person
+19	Christensen	christensen	PROPN		noun.person
+20	,	,	PUNCT		
+21	som	som	PRON		
+22	rejser	rejse	VERB		verb.motion
+23	fra	fra	ADP		
+24	Billund	billund	PROPN		noun.location
+25	til	til	ADP		
+26	Guatamala	guatamala	PROPN		noun.location
+27	på	på	ADP		
+28	tirsdag	tirsdag	NOUN		noun.time
+29	.	.	PUNCT		
+
+# newdoc id = DDT-1399.tsv
+# sent_id = 4
+# text =  Samme mål havde han for to år siden sammen med rejsekammeraten Jan Højrup Nielsen, men ambitionerne måtte opgives.
+1	Samme	samme	ADJ		
+2	mål	mål	NOUN		noun.motive
+3	havde	have	VERB		verb.cognition
+4	han	han	PRON		
+5	for	for	ADP		
+6	to	to	NUM		
+7	år	år	NOUN		noun.time
+8	siden	siden	ADV		
+9	sammen	sammen	ADV		
+10	med	med	ADP		
+11	rejsekammeraten	rejsekammerat	NOUN		noun.person
+12	Jan	jan	PROPN		noun.person
+13	Højrup	højrup	PROPN		noun.person
+14	Nielsen	nielsen	PROPN		noun.person
+15	,	,	PUNCT		
+16	men	men	CCONJ		
+17	ambitionerne	ambition	NOUN		noun.feeling
+18	måtte	måtte	AUX		
+19	opgives	opgive	VERB		verb.cognition
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1399.tsv
+# sent_id = 5
+# text = " Af hensyn til vores egen sikkerhed.
+1	"	"	PUNCT		
+2	Af	af	ADP		
+3	hensyn	hensyn	NOUN		noun.cognition
+4	til	til	ADP		
+5	vores	vores	DET		
+6	egen	egen	ADJ		
+7	sikkerhed	sikkerhed	NOUN		noun.phenomenon
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1399.tsv
+# sent_id = 6
+# text =  Det var dødspatruljerne, som havde den reelle magt i området," fortæller Christian Christensen.
+1	Det	det	PRON		
+2	var	være	AUX		verb.stative
+3	dødspatruljerne	dødspatrulje	NOUN		noun.person
+4	,	,	PUNCT		
+5	som	som	PRON		
+6	havde	have	AUX		verb.social
+7	den	den	DET		
+8	reelle	reel	ADJ		adj.social
+9	magt	magt	NOUN		noun.phenomenon
+10	i	i	ADP		
+11	området	område	NOUN		noun.location
+12	,	,	PUNCT		
+13	"	"	PUNCT		
+14	fortæller	fortælle	VERB		verb.communication
+15	Christian	christian	PROPN		noun.person
+16	Christensen	christensen	PROPN		noun.person
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1399.tsv
+# sent_id = 7
+# text =  Han fik selv beviset, da han kom til Guatamala.
+1	Han	han	PRON		
+2	fik	få	VERB		verb.phenomenon
+3	selv	selv	PRON		
+4	beviset	bevis	NOUN		noun.abstract
+5	,	,	PUNCT		
+6	da	da	SCONJ		
+7	han	han	PRON		
+8	kom	komme	VERB		verb.motion
+9	til	til	ADP		
+10	Guatamala	guatamala	PROPN		noun.location
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1399.tsv
+# sent_id = 8
+# text =  Et par uger tidligere var hans meget gode ven, den amerikanske arkæolog Mike de Vine, blevet fundet dræbt.
+1	Et	en	DET		
+2	par	par	NOUN		noun.quantity
+3	uger	uge	NOUN		noun.time
+4	tidligere	tidlig	ADV		
+5	var	være	AUX		
+6	hans	hans	DET		
+7	meget	megen	ADV		
+8	gode	god	ADJ		adj.all
+9	ven	ven	NOUN		noun.person
+10	,	,	PUNCT		
+11	den	den	DET		
+12	amerikanske	amerikansk	ADJ		adj.social
+13	arkæolog	arkæolog	NOUN		noun.person
+14	Mike	mike	PROPN		noun.person
+15	de	de	PROPN		noun.person
+16	Vine	vine	PROPN		noun.person
+17	,	,	PUNCT		
+18	blevet	blive	AUX		
+19	fundet	finde	VERB		verb.phenomenon
+20	dræbt	dræbe	VERB		adj.phys
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1399.tsv
+# sent_id = 9
+# text =  Den ene dag blev han bortført, og næste dag blev han fundet med halsen skåret halvt over.
+1	Den	den	DET		
+2	ene	ene	ADJ		adj.all
+3	dag	dag	NOUN		noun.time
+4	blev	blive	AUX		
+5	han	han	PRON		
+6	bortført	bortføre	VERB		verb.motion
+7	,	,	PUNCT		
+8	og	og	CCONJ		
+9	næste	næste	ADJ		adj.time
+10	dag	dag	NOUN		noun.time
+11	blev	blive	AUX		
+12	han	han	PRON		
+13	fundet	finde	VERB		verb.phenomenon
+14	med	med	ADP		
+15	halsen	hals	NOUN		noun.body
+16	skåret	skære	VERB		verb.contact
+17	halvt	halv	ADV		
+18	over	over	ADV		
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1399.tsv
+# sent_id = 10
+# text = " Hverken militær eller politi gjorde noget.
+1	"	"	PUNCT		
+2	Hverken	hverken	ADV		
+3	militær	militær	NOUN		noun.person
+4	eller	eller	CCONJ		
+5	politi	politi	NOUN		noun.person
+6	gjorde	gøre	VERB		verb.act
+7	noget	nogen	PRON		
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1399.tsv
+# sent_id = 11
+# text =  Den gang kunne man købe en lejemorder for 75 kr.," fortæller bilsælgeren.
+1	Den	den	DET		
+2	gang	gang	NOUN		
+3	kunne	kunne	AUX		
+4	man	man	PRON		
+5	købe	købe	VERB		verb.possession
+6	en	en	DET		
+7	lejemorder	lejemorder	NOUN		noun.person
+8	for	for	ADP		
+9	75	75	NUM		
+10	kr.	kr.	NOUN		noun.quantity
+11	,	,	PUNCT		
+12	"	"	PUNCT		
+13	fortæller	fortælle	VERB		verb.communication
+14	bilsælgeren	bilsælg	NOUN		noun.person
+15	.	.	PUNCT		
+

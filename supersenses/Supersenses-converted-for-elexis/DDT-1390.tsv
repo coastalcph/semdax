@@ -1,0 +1,197 @@
+# newdoc id = DDT-1390.tsv
+# sent_id = 1
+# text =  Målet er, at de foruden at kunne suge til sig af hans viden om kørsel og teknik, også kan profitere af hans erfaringer inden for det at skaffe sponsor-kroner og omtale, så interessen for fart og væddeløb også økonomisk kan løbe rundt.
+1	Målet	mål	NOUN		noun.motive
+2	er	være	VERB		verb.stative
+3	,	,	PUNCT		
+4	at	at	SCONJ		
+5	de	den	PRON		
+6	foruden	foruden	ADP		
+7	at	at	PART		
+8	kunne	kunne	AUX		
+9	suge	suge	VERB		verb.cognition
+10	til	til	ADP		verb.PARTICLE
+11	sig	sig	PRON		verb.REFLPRON
+12	af	af	ADP		
+13	hans	hans	DET		
+14	viden	viden	NOUN		noun.cognition
+15	om	om	ADP		
+16	kørsel	kørsel	NOUN		noun.act
+17	og	og	CCONJ		
+18	teknik	teknik	NOUN		noun.domain
+19	,	,	PUNCT		
+20	også	også	ADV		
+21	kan	kunne	AUX		
+22	profitere	profitere	VERB		verb.cognition
+23	af	af	ADP		
+24	hans	hans	DET		
+25	erfaringer	erfaring	NOUN		noun.cognition
+26	inden	inden	ADV		
+27	for	for	ADP		
+28	det	det	PRON		
+29	at	at	PART		
+30	skaffe	skaffe	VERB		verb.possession
+31	sponsor-kroner	sponsor-kron	NOUN		noun.artifact
+32	og	og	CCONJ		
+33	omtale	omtale	NOUN		noun.communication
+34	,	,	PUNCT		
+35	så	så	SCONJ		
+36	interessen	interesse	NOUN		noun.feeling
+37	for	for	ADP		
+38	fart	fart	NOUN		noun.phenomenon
+39	og	og	CCONJ		
+40	væddeløb	væddeløb	NOUN		noun.act
+41	også	også	ADV		
+42	økonomisk	økonomisk	ADV		adj.all
+43	kan	kunne	AUX		
+44	løbe	løbe	VERB		verb.phenomenon
+45	rundt	rund	ADV		verb.COLL
+46	.	.	PUNCT		
+
+# newdoc id = DDT-1390.tsv
+# sent_id = 2
+# text = " Målet er jo, at dansk roadracings store klasser også i de kommende år skal have nye talenter tilført.
+1	"	"	PUNCT		
+2	Målet	mål	NOUN		noun.motive
+3	er	være	AUX		verb.stative
+4	jo	jo	ADV		
+5	,	,	PUNCT		
+6	at	at	SCONJ		
+7	dansk	dansk	ADJ		adj.social
+8	roadracings	roadracings	X		noun.act
+9	store	stor	ADJ		adj.all
+10	klasser	klasse	NOUN		noun.group
+11	også	også	ADV		
+12	i	i	ADP		
+13	de	den	DET		
+14	kommende	komme	VERB		adj.time
+15	år	år	NOUN		noun.time
+16	skal	skulle	AUX		
+17	have	have	VERB		
+18	nye	ny	ADJ		adj.time
+19	talenter	talent	NOUN		noun.person
+20	tilført	tilføre	VERB		verb.act
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1390.tsv
+# sent_id = 3
+# text =  Og det sker kun, hvis vi" gamle" gør en aktiv indsats for at få fanget de unges interesse.
+1	Og	og	CCONJ		
+2	det	det	PRON		
+3	sker	ske	VERB		verb.phenomenon
+4	kun	kun	ADV		
+5	,	,	PUNCT		
+6	hvis	hvis	SCONJ		
+7	vi	vi	PRON		
+8	"	"	PUNCT		
+9	gamle	gammel	ADJ		adj.time
+10	"	"	PUNCT		
+11	gør	gøre	VERB		verb.act
+12	en	en	DET		
+13	aktiv	aktiv	ADJ		adj.all
+14	indsats	indsats	NOUN		noun.act
+15	for	for	ADP		
+16	at	at	PART		
+17	få	få	VERB		
+18	fanget	fange	VERB		verb.act
+19	de	den	DET		
+20	unges	unge	ADJ		adj.time
+21	interesse	interesse	NOUN		noun.feeling
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1390.tsv
+# sent_id = 4
+# text =  Jeg har selv via Yamaha og Enghave Motor været så heldig, at jeg kan stille udstyr til rådighed for de to" lærlinge".
+1	Jeg	jeg	PRON		
+2	har	have	AUX		
+3	selv	selv	PRON		
+4	via	via	ADP		
+5	Yamaha	yamaha	PROPN		noun.institution
+6	og	og	CCONJ		
+7	Enghave	enghave	PROPN		noun.institution
+8	Motor	motor	NOUN		noun.institution
+9	været	være	AUX		verb.stative
+10	så	så	ADV		
+11	heldig	heldig	ADJ		adj.all
+12	,	,	PUNCT		
+13	at	at	SCONJ		
+14	jeg	jeg	PRON		
+15	kan	kunne	AUX		
+16	stille	stille	VERB		verb.act
+17	udstyr	udstyr	NOUN		noun.artifact
+18	til	til	ADP		
+19	rådighed	rådighed	NOUN		noun.abstract
+20	for	for	ADP		
+21	de	den	DET		
+22	to	to	NUM		
+23	"	"	PUNCT		
+24	lærlinge	lærling	NOUN		noun.person
+25	"	"	PUNCT		
+26	.	.	PUNCT		
+
+# newdoc id = DDT-1390.tsv
+# sent_id = 5
+# text =  Og de er begge fuld af gå-på-mod og har store ambitioner.
+1	Og	og	CCONJ		
+2	de	den	PRON		
+3	er	være	AUX		
+4	begge	begge	PRON		
+5	fuld	fuld	ADJ		adj.all
+6	af	af	ADP		
+7	gå-på-mod	gå-på-mod	NOUN		noun.feeling
+8	og	og	CCONJ		
+9	har	have	VERB		verb.cognition
+10	store	stor	ADJ		adj.all
+11	ambitioner	ambition	NOUN		noun.feeling
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1390.tsv
+# sent_id = 6
+# text =  Garanti kan jeg jo desværre ikke give dem for succes på de to 80-kubik'ere, men nu er de med, og jeg vil gøre alt for at støtte og træne dem, så deres interesse for roadracing ikke forsvinder," siger Claus Wulff.
+1	Garanti	garanti	NOUN		noun.communication
+2	kan	kunne	AUX		
+3	jeg	jeg	PRON		
+4	jo	jo	ADV		
+5	desværre	desværre	ADV		
+6	ikke	ikke	ADV		
+7	give	give	VERB		verb.communication
+8	dem	de	PRON		
+9	for	for	ADP		
+10	succes	succes	NOUN		noun.cognition
+11	på	på	ADP		
+12	de	den	DET		
+13	to	to	NUM		
+14	80-kubik'ere	80-kubik'ere	X		noun.vehicle
+15	,	,	PUNCT		
+16	men	men	CCONJ		
+17	nu	nu	ADV		
+18	er	være	AUX		verb.social
+19	de	den	PRON		
+20	med	med	ADP		verb.COLL
+21	,	,	PUNCT		
+22	og	og	CCONJ		
+23	jeg	jeg	PRON		
+24	vil	ville	AUX		
+25	gøre	gøre	VERB		verb.act
+26	alt	al	ADJ		
+27	for	for	ADP		
+28	at	at	PART		
+29	støtte	støtte	VERB		verb.cognition
+30	og	og	CCONJ		
+31	træne	træne	VERB		verb.act
+32	dem	de	PRON		
+33	,	,	PUNCT		
+34	så	så	SCONJ		
+35	deres	deres	DET		
+36	interesse	interesse	NOUN		noun.feeling
+37	for	for	ADP		
+38	roadracing	roadracing	X		noun.act
+39	ikke	ikke	ADV		
+40	forsvinder	forsvinde	VERB		verb.phenomenon
+41	,	,	PUNCT		
+42	"	"	PUNCT		
+43	siger	sige	VERB		verb.communication
+44	Claus	claus	PROPN		noun.person
+45	Wulff	wulff	PROPN		noun.person
+46	.	.	PUNCT		
+

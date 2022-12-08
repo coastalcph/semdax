@@ -1,0 +1,246 @@
+# newdoc id = DDT-1498.tsv
+# sent_id = 1
+# text =  En drøm var blevet til virkelighed.
+1	En	en	DET		
+2	drøm	drøm	NOUN		noun.cognition
+3	var	være	AUX		
+4	blevet	blive	VERB		verb.change
+5	til	til	ADP		
+6	virkelighed	virkelighed	NOUN		noun.abstract
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1498.tsv
+# sent_id = 2
+# text =  Man var blevet medlem af den ekslusive fodboldfamilie.
+1	Man	man	PRON		
+2	var	være	AUX		
+3	blevet	blive	AUX		verb.stative
+4	medlem	medlem	NOUN		noun.relation
+5	af	af	ADP		
+6	den	den	DET		
+7	ekslusive	ekslusive	X		adj.all
+8	fodboldfamilie	fodboldfamili	NOUN		noun.institution
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1498.tsv
+# sent_id = 3
+# text =  At det var en fattig familie gjorde ikke så meget dengang.
+1	At	at	SCONJ		
+2	det	det	PRON		
+3	var	være	AUX		verb.stative
+4	en	en	DET		
+5	fattig	fattig	ADJ		adj.all
+6	familie	familie	NOUN		noun.person
+7	gjorde	gøre	VERB		verb.phenomenon
+8	ikke	ikke	ADV		
+9	så	så	ADV		
+10	meget	megen	ADV		
+11	dengang	dengang	ADV		
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1498.tsv
+# sent_id = 4
+# text =  Formuerne, der kom ind på landskampene, gik til udviklingen af nye talenter.
+1	Formuerne	formue	NOUN		noun.artifact
+2	,	,	PUNCT		
+3	der	der	PRON		
+4	kom	komme	VERB		verb.possession
+5	ind	ind	ADV		verb.COLL
+6	på	på	ADP		
+7	landskampene	landskamp	NOUN		noun.act
+8	,	,	PUNCT		
+9	gik	gå	VERB		verb.possession
+10	til	til	ADP		
+11	udviklingen	udvikling	NOUN		noun.act
+12	af	af	ADP		
+13	nye	ny	ADJ		adj.time
+14	talenter	talent	NOUN		noun.person
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1498.tsv
+# sent_id = 5
+# text =  Der var ingen penge til spillerlønninger eller præmier.
+1	Der	der	ADV		
+2	var	være	VERB		verb.stative
+3	ingen	ingen	DET		
+4	penge	penge	NOUN		noun.artifact
+5	til	til	ADP		
+6	spillerlønninger	spillerlønning	NOUN		noun.quantity
+7	eller	eller	CCONJ		
+8	præmier	præmie	NOUN		noun.artifact
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1498.tsv
+# sent_id = 6
+# text =  En sølvske, kniv eller gaffel i ny og næ- måske et askebæger med byvåben på midten- var spillernes belønning for at underholde.
+1	En	en	DET		
+2	sølvske	sølvske	NOUN		noun.artifact
+3	,	,	PUNCT		
+4	kniv	kniv	NOUN		noun.artifact
+5	eller	eller	CCONJ		
+6	gaffel	gaffel	NOUN		noun.artifact
+7	i	i	ADP		
+8	ny	ny	NOUN		noun.time
+9	og	og	CCONJ		
+10	næ	næ	NOUN		noun.time
+11	-	-	PUNCT		
+12	måske	måske	ADV		
+13	et	en	DET		
+14	askebæger	askebæger	NOUN		noun.container
+15	med	med	ADP		
+16	byvåben	byvåben	NOUN		noun.artifact
+17	på	på	ADP		
+18	midten	midte	NOUN		noun.relation
+19	-	-	PUNCT		
+20	var	være	AUX		verb.stative
+21	spillernes	spiller	VERB		noun.person
+22	belønning	belønning	NOUN		noun.quantity
+23	for	for	ADP		
+24	at	at	PART		
+25	underholde	underholde	VERB		verb.act
+26	.	.	PUNCT		
+
+# newdoc id = DDT-1498.tsv
+# sent_id = 7
+# text =  Og så var der altså løftet om, at de kunne komme gratis til fodboldlandskamp resten af deres dage.
+1	Og	og	CCONJ		
+2	så	så	ADV		
+3	var	være	VERB		verb.stative
+4	der	der	ADV		
+5	altså	altså	ADV		
+6	løftet	løfte	VERB		noun.communication
+7	om	om	ADP		
+8	,	,	PUNCT		
+9	at	at	SCONJ		
+10	de	den	PRON		
+11	kunne	kunne	AUX		
+12	komme	komme	VERB		verb.motion
+13	gratis	gratis	ADV		
+14	til	til	ADP		
+15	fodboldlandskamp	fodboldlandskamp	NOUN		noun.act
+16	resten	rest	NOUN		noun.relation
+17	af	af	ADP		
+18	deres	deres	DET		
+19	dage	dag	NOUN		noun.time
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1498.tsv
+# sent_id = 8
+# text =  Men det var kun en halv sandhed.
+1	Men	men	CCONJ		
+2	det	det	PRON		
+3	var	være	AUX		verb.stative
+4	kun	kun	ADV		
+5	en	en	DET		
+6	halv	halv	ADJ		adj.all
+7	sandhed	sandhed	NOUN		noun.abstract
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1498.tsv
+# sent_id = 9
+# text =  Det viser sig i_dag.
+1	Det	det	PRON		
+2	viser	visere	VERB		verb.phenomenon
+3	sig	sig	PRON		verb.REFLPRON
+4	i_dag	i_dag	NOUN		noun.time
+5	.	.	PUNCT		
+
+# newdoc id = DDT-1498.tsv
+# sent_id = 10
+# text =  Påstanden om, at en fodboldspiller ikke gi'r det sidste spark- det får han, er blevet bekræftet på smukt DBU-papir med logo.
+1	Påstanden	påstand	NOUN		noun.communication
+2	om	om	ADP		
+3	,	,	PUNCT		
+4	at	at	SCONJ		
+5	en	en	DET		
+6	fodboldspiller	fodboldspiller	NOUN		noun.person
+7	ikke	ikke	ADV		
+8	gi'r	gi'r	VERB		verb.act
+9	det	det	DET		
+10	sidste	sidste	ADJ		adj.time
+11	spark	spark	NOUN		noun.act
+12	-	-	PUNCT		
+13	det	det	PRON		
+14	får	få	VERB		verb.phenomenon
+15	han	han	PRON		
+16	,	,	PUNCT		
+17	er	være	AUX		
+18	blevet	blive	AUX		
+19	bekræftet	bekræfte	VERB		verb.communication
+20	på	på	ADP		
+21	smukt	smuk	ADJ		adj.phys
+22	DBU-papir	dbu-papir	NOUN		noun.artifact
+23	med	med	ADP		
+24	logo	logo	NOUN		noun.artifact
+25	.	.	PUNCT		
+
+# newdoc id = DDT-1498.tsv
+# sent_id = 11
+# text =  Der er ikke længere råd til at bevare en smuk tradition.
+1	Der	der	ADV		
+2	er	være	VERB		verb.stative
+3	ikke	ikke	ADV		
+4	længere	lang	ADJ		
+5	råd	råd	NOUN		noun.attribute
+6	til	til	ADP		
+7	at	at	PART		
+8	bevare	bevare	VERB		verb.stative
+9	en	en	DET		
+10	smuk	smuk	ADJ		adj.all
+11	tradition	tradition	NOUN		noun.abstract
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1498.tsv
+# sent_id = 12
+# text = " Fagre nye tider," lovede fodboldledere, da aftalerne om at bygge stort og i luksusklasse faldt på plads.
+1	"	"	PUNCT		
+2	Fagre	fager	ADJ		adj.all
+3	nye	ny	ADJ		adj.time
+4	tider	tid	NOUN		noun.time
+5	,	,	PUNCT		
+6	"	"	PUNCT		
+7	lovede	love	VERB		verb.communication
+8	fodboldledere	fodboldled	NOUN		noun.person
+9	,	,	PUNCT		
+10	da	da	SCONJ		
+11	aftalerne	aftale	NOUN		noun.communication
+12	om	om	ADP		
+13	at	at	PART		
+14	bygge	bygge	VERB		verb.creation
+15	stort	stor	ADJ		
+16	og	og	CCONJ		
+17	i	i	ADP		
+18	luksusklasse	luksusklasse	NOUN		noun.relation
+19	faldt	falde	VERB		verb.phenomenon
+20	på	på	ADP		verb.COLL
+21	plads	plads	NOUN		verb.COLL
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1498.tsv
+# sent_id = 13
+# text =  Men de glemte i deres begejstring for fremtidens muligheder, alt for mange af dem, der var med til at skabe fortidens.
+1	Men	men	CCONJ		
+2	de	den	PRON		
+3	glemte	glemme	VERB		verb.cognition
+4	i	i	ADP		
+5	deres	deres	DET		
+6	begejstring	begejstring	NOUN		noun.feeling
+7	for	for	ADP		
+8	fremtidens	fremtid	ADJ		noun.time
+9	muligheder	mulighed	NOUN		noun.abstract
+10	,	,	PUNCT		
+11	alt	al	ADJ		
+12	for	for	ADV		
+13	mange	mangen	ADJ		
+14	af	af	ADP		
+15	dem	de	PRON		
+16	,	,	PUNCT		
+17	der	der	PRON		
+18	var	være	AUX		verb.stative
+19	med	med	ADV		verb.COLL
+20	til	til	ADP		verb.COLL
+21	at	at	PART		
+22	skabe	skabe	VERB		verb.creation
+23	fortidens	fortid	NOUN		noun.time
+24	.	.	PUNCT		
+

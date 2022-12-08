@@ -1,0 +1,219 @@
+# newdoc id = DDT-1277.tsv
+# sent_id = 1
+# text =  Knæet er også årsag til, at Dronningen endnu ikke ved, om hun kan gennemføre sin årlige skitur i Norge.
+1	Knæet	knæ	NOUN		noun.body
+2	er	være	AUX		verb.stative
+3	også	også	ADV		
+4	årsag	årsag	NOUN		noun.abstract
+5	til	til	ADP		
+6	,	,	PUNCT		
+7	at	at	SCONJ		
+8	Dronningen	dronning	NOUN		noun.person
+9	endnu	endnu	ADV		
+10	ikke	ikke	ADV		
+11	ved	vide	VERB		verb.cognition
+12	,	,	PUNCT		
+13	om	om	SCONJ		
+14	hun	hun	PRON		
+15	kan	kunne	AUX		
+16	gennemføre	gennemføre	VERB		verb.act
+17	sin	sin	DET		
+18	årlige	årlig	ADJ		adj.time
+19	skitur	skitur	NOUN		noun.event
+20	i	i	ADP		
+21	Norge	norge	PROPN		noun.location
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1277.tsv
+# sent_id = 2
+# text =  Foreløbig er den planlagt til medio marts.
+1	Foreløbig	foreløbig	ADV		
+2	er	være	AUX		verb.stative
+3	den	den	PRON		
+4	planlagt	planlægge	VERB		verb.cognition
+5	til	til	ADP		
+6	medio	medio	X		
+7	marts	marts	NOUN		noun.time
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1277.tsv
+# sent_id = 3
+# text =  100.000 HÅNDTRYK
+1	100.000	100.000	NUM		
+2	HÅNDTRYK	håndtryk	NOUN		noun.act
+
+# newdoc id = DDT-1277.tsv
+# sent_id = 4
+# text =  I årene som regent har Margrethe ikke ligget på den lade side.
+1	I	i	ADP		
+2	årene	år	NOUN		noun.time
+3	som	som	ADP		
+4	regent	regent	NOUN		noun.person
+5	har	have	AUX		
+6	Margrethe	margrethe	PROPN		noun.person
+7	ikke	ikke	ADV		
+8	ligget	ligge	VERB		verb.stative
+9	på	på	ADP		
+10	den	den	DET		
+11	lade	lad	ADJ		adj.all
+12	side	side	NOUN		noun.relation
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1277.tsv
+# sent_id = 5
+# text =  Hun har bl.a. modtaget titusinder i audiens og har på 20 år trykket op imod 100.000 i hænderne, har rejst jorden rundt utallige gange med besøg i hver en verdensdel.
+1	Hun	hun	PRON		
+2	har	have	AUX		
+3	bl.a.	bl.a.	ADV		
+4	modtaget	modtage	VERB		verb.possession
+5	titusinder	titusinder	NOUN		
+6	i	i	ADP		
+7	audiens	audiens	NOUN		noun.act
+8	og	og	CCONJ		
+9	har	have	VERB		
+10	på	på	ADP		
+11	20	20	NUM		
+12	år	år	NOUN		noun.time
+13	trykket	trykke	VERB		verb.contact
+14	op	op	ADV		
+15	imod	imod	ADP		
+16	100.000	100.000	NUM		
+17	i	i	ADP		
+18	hænderne	hånd	NOUN		noun.body
+19	,	,	PUNCT		
+20	har	have	AUX		
+21	rejst	rejse	VERB		verb.motion
+22	jorden	jord	NOUN		noun.location
+23	rundt	rund	ADV		
+24	utallige	utallig	ADJ		adj.all
+25	gange	gang	NOUN		noun.abstract
+26	med	med	ADP		
+27	besøg	besøg	NOUN		noun.act
+28	i	i	ADP		
+29	hver	hver	DET		
+30	en	en	DET		
+31	verdensdel	verdensdel	NOUN		noun.location
+32	.	.	PUNCT		
+
+# newdoc id = DDT-1277.tsv
+# sent_id = 6
+# text =  Indien er et af de få, store lande, hun endnu har tilgode.
+1	Indien	indien	PROPN		noun.location
+2	er	være	AUX		verb.stative
+3	et	en	PRON		
+4	af	af	ADP		
+5	de	den	DET		
+6	få	få	ADJ		adj.all
+7	,	,	PUNCT		
+8	store	stor	ADJ		adj.phys
+9	lande	land	NOUN		noun.location
+10	,	,	PUNCT		
+11	hun	hun	PRON		
+12	endnu	endnu	ADV		
+13	har	have	VERB		verb.cognition
+14	tilgode	tilgod	NOUN		verb.COLL
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1277.tsv
+# sent_id = 7
+# text =  Regenten deltager i et hav af af arrangementer.
+1	Regenten	regent	NOUN		noun.person
+2	deltager	deltage	VERB		verb.social
+3	i	i	ADP		
+4	et	en	DET		
+5	hav	hav	NOUN		noun.quantity
+6	af	af	ADP		
+7	af	af	ADP		
+8	arrangementer	arrangement	NOUN		noun.event
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1277.tsv
+# sent_id = 8
+# text =  Der har ikke været under 5.000 af slagsen, hvor Margrethe ikke har været æresgæsten.
+1	Der	der	ADV		
+2	har	have	VERB		
+3	ikke	ikke	ADV		
+4	været	være	VERB		verb.stative
+5	under	under	ADP		
+6	5.000	5.000	NUM		
+7	af	af	ADP		
+8	slagsen	slags	NOUN		noun.abstract
+9	,	,	PUNCT		
+10	hvor	hvor	ADV		
+11	Margrethe	margrethe	PROPN		noun.person
+12	ikke	ikke	ADV		
+13	har	have	AUX		
+14	været	være	AUX		verb.stative
+15	æresgæsten	æresgæst	NOUN		noun.person
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1277.tsv
+# sent_id = 9
+# text =  Dronningen er meget interesseret i, hvad der foregår ude i verden.
+1	Dronningen	dronning	NOUN		noun.person
+2	er	være	AUX		verb.stative
+3	meget	megen	ADV		
+4	interesseret	interessere	VERB		adj.mental
+5	i	i	ADP		
+6	,	,	PUNCT		
+7	hvad	hvad	PRON		
+8	der	der	ADV		
+9	foregår	foregå	VERB		verb.phenomenon
+10	ude	ude	ADV		
+11	i	i	ADP		
+12	verden	verden	NOUN		noun.location
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1277.tsv
+# sent_id = 10
+# text =  Den interesse deler hun fuld og helt med sin mand prins Henrik.
+1	Den	den	DET		
+2	interesse	interesse	NOUN		noun.feeling
+3	deler	dele	VERB		verb.phenomenon
+4	hun	hun	PRON		
+5	fuld	fuld	ADV		
+6	og	og	CCONJ		
+7	helt	helt	ADV		
+8	med	med	ADP		
+9	sin	sin	DET		
+10	mand	mand	NOUN		noun.person
+11	prins	prins	NOUN		noun.person
+12	Henrik	henrik	PROPN		noun.person
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1277.tsv
+# sent_id = 11
+# text =  I 20_års-perioden, hvor Margrethe og Henrik har været regentpar, har de været på 27 statsbesøg.
+1	I	i	ADP		
+2	20_års-perioden	20_års-period	NOUN		noun.time
+3	,	,	PUNCT		
+4	hvor	hvor	ADV		
+5	Margrethe	margrethe	PROPN		noun.person
+6	og	og	CCONJ		
+7	Henrik	henrik	PROPN		noun.person
+8	har	have	AUX		
+9	været	være	AUX		verb.stative
+10	regentpar	regentpar	NOUN		noun.person
+11	,	,	PUNCT		
+12	har	have	AUX		
+13	de	den	PRON		
+14	været	være	VERB		verb.stative
+15	på	på	ADP		
+16	27	27	ADJ		
+17	statsbesøg	statsbesøg	NOUN		noun.act
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1277.tsv
+# sent_id = 12
+# text =  Dertil kommer en lang række forskellige mere_eller_mindre officielle rejser.
+1	Dertil	dertil	ADV		
+2	kommer	komme	VERB		verb.phenomenon
+3	en	en	DET		
+4	lang	lang	ADJ		adj.all
+5	række	række	NOUN		noun.quantity
+6	forskellige	forskellig	ADJ		adj.all
+7	mere_eller_mindre	mere_eller_mindr	NOUN		
+8	officielle	officiel	ADJ		adj.social
+9	rejser	rejse	NOUN		noun.act
+10	.	.	PUNCT		
+

@@ -1,0 +1,221 @@
+# newdoc id = DDT-1375.tsv
+# sent_id = 1
+# text =  JESS INGERSLEV kan det samme- det overrumplende, gale- og viser det flere gange.
+1	JESS	jess	PROPN		noun.person
+2	INGERSLEV	ingerslev	PROPN		noun.person
+3	kan	kunne	AUX		
+4	det	det	DET		
+5	samme	samme	ADJ		
+6	-	-	PUNCT		
+7	det	det	PRON		
+8	overrumplende	overrumple	VERB		adj.all
+9	,	,	PUNCT		
+10	gale	gale	PRON		adj.all
+11	-	-	PUNCT		
+12	og	og	CCONJ		
+13	viser	visere	VERB		verb.communication
+14	det	det	DET		
+15	flere	flere	ADJ		
+16	gange	gang	NOUN		noun.abstract
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1375.tsv
+# sent_id = 2
+# text =  Han spiller med masser af selvironi på det iltre- som revyen godt kunne have brug for lidt mere af.
+1	Han	han	PRON		
+2	spiller	spille	VERB		verb.communication
+3	med	med	ADP		
+4	masser	masse	NOUN		noun.quantity
+5	af	af	ADP		
+6	selvironi	selvironi	NOUN		noun.attribute
+7	på	på	ADP		
+8	det	det	DET		
+9	iltre	ilter	ADJ		adj.all
+10	-	-	PUNCT		
+11	som	som	ADP		
+12	revyen	revy	NOUN		noun.communication
+13	godt	godte	ADV		
+14	kunne	kunne	AUX		
+15	have	have	VERB		verb.phenomenon
+16	brug	brug	NOUN		verb.COLL
+17	for	for	ADP		verb.COLL
+18	lidt	lidt	ADV		
+19	mere	mere	ADJ		
+20	af	af	ADP		
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1375.tsv
+# sent_id = 3
+# text =  Den håndværksmæssige udførelse er i top.
+1	Den	den	DET		
+2	håndværksmæssige	håndværksmæssig	ADJ		adj.all
+3	udførelse	udførelse	NOUN		noun.act
+4	er	være	VERB		verb.stative
+5	i	i	ADP		
+6	top	top	NOUN		noun.relation
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1375.tsv
+# sent_id = 4
+# text =  Der er masser af hip i den, men den mangler lissom det sidste pift- også selv_om den har herlige Tom McEwan, som kan pifte- ud mellem tænderne- og meget mere: Blandt_andet synge rock som en parodi på en opblæst koncertsanger.
+1	Der	der	ADV		
+2	er	være	VERB		verb.stative
+3	masser	masse	NOUN		noun.quantity
+4	af	af	ADP		
+5	hip	hip	NOUN		noun.abstract
+6	i	i	ADP		
+7	den	den	PRON		
+8	,	,	PUNCT		
+9	men	men	CCONJ		
+10	den	den	PRON		
+11	mangler	mangle	VERB		verb.stative
+12	lissom	lissom	ADV		
+13	det	det	DET		
+14	sidste	sidste	ADJ		adj.time
+15	pift	pift	NOUN		noun.abstract
+16	-	-	PUNCT		
+17	også	også	ADV		
+18	selv_om	selv_om	X		
+19	den	den	PRON		
+20	har	have	AUX		verb.stative
+21	herlige	herlig	ADJ		adj.mental
+22	Tom	tom	PROPN		noun.person
+23	McEwan	mcewan	PROPN		noun.person
+24	,	,	PUNCT		
+25	som	som	PRON		
+26	kan	kunne	AUX		
+27	pifte	pifte	VERB		verb.act
+28	-	-	PUNCT		
+29	ud	ud	ADV		
+30	mellem	mellem	ADP		
+31	tænderne	tænder	NOUN		noun.body
+32	-	-	PUNCT		
+33	og	og	CCONJ		
+34	meget	megen	ADV		
+35	mere	mere	ADJ		
+36	:	:	PUNCT		
+37	Blandt_andet	blandt_and	NOUN		
+38	synge	synge	VERB		verb.communication
+39	rock	rock	NOUN		noun.communication
+40	som	som	ADP		
+41	en	en	DET		
+42	parodi	parodi	NOUN		noun.act
+43	på	på	ADP		
+44	en	en	DET		
+45	opblæst	opblæst	ADJ		adj.mental
+46	koncertsanger	koncertsanger	NOUN		noun.person
+47	.	.	PUNCT		
+
+# newdoc id = DDT-1375.tsv
+# sent_id = 5
+# text =  MED så herligt et hold som dette: Therese Damsholt, Margrethe Koytu, Jess Ingerslev, Tom McEwan og Finn Nielsen- er det en skam, at der er så få af de numre, hvor de alle er med, der virkelig udnytter spændvidden i deres sammenlagte talenter.
+1	MED	med	ADP		
+2	så	så	ADV		
+3	herligt	herlig	ADJ		adj.all
+4	et	en	DET		
+5	hold	hold	NOUN		noun.person
+6	som	som	ADP		
+7	dette	denne	PRON		
+8	:	:	PUNCT		
+9	Therese	therese	PROPN		noun.person
+10	Damsholt	damsholt	PROPN		noun.person
+11	,	,	PUNCT		
+12	Margrethe	margrethe	PROPN		noun.person
+13	Koytu	koytu	PROPN		noun.person
+14	,	,	PUNCT		
+15	Jess	jess	PROPN		noun.person
+16	Ingerslev	ingerslev	PROPN		noun.person
+17	,	,	PUNCT		
+18	Tom	tom	PROPN		noun.person
+19	McEwan	mcewan	PROPN		noun.person
+20	og	og	CCONJ		
+21	Finn	finn	PROPN		noun.person
+22	Nielsen	nielsen	PROPN		noun.person
+23	-	-	PUNCT		
+24	er	være	AUX		verb.stative
+25	det	det	PRON		
+26	en	en	DET		
+27	skam	skam	NOUN		noun.cognition
+28	,	,	PUNCT		
+29	at	at	SCONJ		
+30	der	der	ADV		
+31	er	være	AUX		verb.stative
+32	så	så	ADV		
+33	få	få	ADJ		adj.all
+34	af	af	ADP		
+35	de	den	DET		
+36	numre	nummer	NOUN		noun.communication
+37	,	,	PUNCT		
+38	hvor	hvor	ADV		
+39	de	den	DET		
+40	alle	al	ADJ		
+41	er	være	AUX		verb.social
+42	med	med	ADV		verb.COLL
+43	,	,	PUNCT		
+44	der	der	PRON		
+45	virkelig	virkelig	ADV		
+46	udnytter	udnytte	VERB		verb.phenomenon
+47	spændvidden	spændvidde	NOUN		noun.quantity
+48	i	i	ADP		
+49	deres	deres	DET		
+50	sammenlagte	sammenlægge	VERB		adj.all
+51	talenter	talent	NOUN		noun.attribute
+52	.	.	PUNCT		
+
+# newdoc id = DDT-1375.tsv
+# sent_id = 6
+# text =  Det gøres heldigvis helt pragtfuldt til_sidst.
+1	Det	det	PRON		
+2	gøres	gøre	VERB		verb.act
+3	heldigvis	heldigvis	ADV		
+4	helt	helt	ADV		
+5	pragtfuldt	pragtfuld	ADJ		
+6	til_sidst	til_sidst	NOUN		
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1375.tsv
+# sent_id = 7
+# text =  I en vild og gal og rivende original operette-parodi.
+1	I	i	ADP		
+2	en	en	DET		
+3	vild	vild	ADJ		adj.all
+4	og	og	CCONJ		
+5	gal	gal	ADJ		adj.all
+6	og	og	CCONJ		
+7	rivende	rivende	ADJ		
+8	original	original	ADJ		adj.all
+9	operette-parodi	operette-parodi	NOUN		noun.act
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1375.tsv
+# sent_id = 8
+# text =  Brødrene Price har komponeret romantisk musik og perverterede os dertil med en absurd tekst om blotteren, lokkeren, transvestitten og de to lystne småpiger i parken.
+1	Brødrene	bror	NOUN		noun.person
+2	Price	price	PROPN		noun.person
+3	har	have	AUX		
+4	komponeret	komponere	VERB		verb.creation
+5	romantisk	romantisk	ADJ		adj.all
+6	musik	musik	NOUN		noun.communication
+7	og	og	CCONJ		
+8	perverterede	pervertere	VERB		verb.act
+9	os	vi	PRON		
+10	dertil	dertil	ADV		
+11	med	med	ADP		
+12	en	en	DET		
+13	absurd	absurd	ADJ		adj.all
+14	tekst	tekst	NOUN		noun.communication
+15	om	om	ADP		
+16	blotteren	blotter	NOUN		noun.person
+17	,	,	PUNCT		
+18	lokkeren	lokker	NOUN		noun.person
+19	,	,	PUNCT		
+20	transvestitten	transvestit	NOUN		noun.person
+21	og	og	CCONJ		
+22	de	den	DET		
+23	to	to	NUM		
+24	lystne	lysten	ADJ		adj.mental
+25	småpiger	småpiger	NOUN		noun.person
+26	i	i	ADP		
+27	parken	park	NOUN		noun.location
+28	.	.	PUNCT		
+

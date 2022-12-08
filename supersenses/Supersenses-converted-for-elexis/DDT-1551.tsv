@@ -1,0 +1,233 @@
+# newdoc id = DDT-1551.tsv
+# sent_id = 1
+# text = " Men da det gik op for mig, at andre brancher var udsat for de samme henvendelser fra politiet, valgte jeg at stoppe de juletraditioner, forretningen og dens kunder ellers har haft glæde af i flere år," tilføjer hun.
+1	"	"	PUNCT		
+2	Men	men	CCONJ		
+3	da	da	SCONJ		
+4	det	det	PRON		
+5	gik	gå	VERB		verb.cognition
+6	op	op	ADV		verb.COLL
+7	for	for	ADP		verb.COLL
+8	mig	jeg	PRON		
+9	,	,	PUNCT		
+10	at	at	SCONJ		
+11	andre	anden	DET		
+12	brancher	branche	NOUN		noun.institution
+13	var	være	AUX		
+14	udsat	udsætte	VERB		verb.phenomenon
+15	for	for	ADP		
+16	de	den	DET		
+17	samme	samme	ADJ		
+18	henvendelser	henvendelse	NOUN		noun.communication
+19	fra	fra	ADP		
+20	politiet	politi	NOUN		noun.institution
+21	,	,	PUNCT		
+22	valgte	vælge	VERB		verb.cognition
+23	jeg	jeg	PRON		
+24	at	at	PART		
+25	stoppe	stoppe	VERB		verb.act
+26	de	den	DET		
+27	juletraditioner	juletradition	NOUN		noun.abstract
+28	,	,	PUNCT		
+29	forretningen	forretning	NOUN		noun.institution
+30	og	og	CCONJ		
+31	dens	dens	DET		
+32	kunder	kunde	NOUN		noun.person
+33	ellers	ellers	ADV		
+34	har	have	AUX		
+35	haft	have	VERB		verb.emotion
+36	glæde	glæde	NOUN		verb.COLL
+37	af	af	ADP		verb.COLL
+38	i	i	ADP		
+39	flere	flere	ADJ		
+40	år	år	NOUN		noun.time
+41	,	,	PUNCT		
+42	"	"	PUNCT		
+43	tilføjer	tilføje	VERB		verb.communication
+44	hun	hun	PRON		
+45	.	.	PUNCT		
+
+# newdoc id = DDT-1551.tsv
+# sent_id = 2
+# text =  En anden blomsterhandler, Carsten Ove Dalsø Nielsen fra Carstens Blomster i Bredegade55, Slagelse, har også modtaget henvendelser fra politiet.
+1	En	en	DET		
+2	anden	anden	DET		
+3	blomsterhandler	blomsterhandler	NOUN		noun.person
+4	,	,	PUNCT		
+5	Carsten	carsten	PROPN		noun.person
+6	Ove	ove	PROPN		noun.person
+7	Dalsø	dalsø	PROPN		noun.person
+8	Nielsen	nielsen	PROPN		noun.person
+9	fra	fra	ADP		
+10	Carstens	carstens	PROPN		noun.building
+11	Blomster	blomst	NOUN		noun.building
+12	i	i	ADP		
+13	Bredegade	bredegade	PROPN		noun.location
+14	55	55	PUNCT		
+15	,	,	PUNCT		
+16	Slagelse	slagelse	PROPN		noun.location
+17	,	,	PUNCT		
+18	har	have	AUX		
+19	også	også	ADV		
+20	modtaget	modtage	VERB		verb.possession
+21	henvendelser	henvendelse	NOUN		noun.communication
+22	fra	fra	ADP		
+23	politiet	politi	NOUN		noun.institution
+24	.	.	PUNCT		
+
+# newdoc id = DDT-1551.tsv
+# sent_id = 3
+# text = " Jeg serverede gløgg for kunderne, men nu må jeg drikke resterne selv.
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	serverede	servere	VERB		verb.possession
+4	gløgg	gløgg	NOUN		noun.food
+5	for	for	ADP		
+6	kunderne	kunde	NOUN		noun.person
+7	,	,	PUNCT		
+8	men	men	CCONJ		
+9	nu	nu	ADV		
+10	må	måtte	AUX		
+11	jeg	jeg	PRON		
+12	drikke	drikke	VERB		verb.consumption
+13	resterne	rest	NOUN		noun.food
+14	selv	selv	PRON		
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1551.tsv
+# sent_id = 4
+# text =  På trods af, at jeg har mest lyst til at fastholde traditionen.
+1	På	på	ADP		
+2	trods	trods	NOUN		
+3	af	af	ADP		
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	jeg	jeg	PRON		
+7	har	have	VERB		verb.emotion
+8	mest	megen	ADV		
+9	lyst	lyst	NOUN		verb.COLL
+10	til	til	ADP		verb.COLL
+11	at	at	PART		
+12	fastholde	fastholde	VERB		verb.act
+13	traditionen	tradition	NOUN		noun.abstract
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1551.tsv
+# sent_id = 5
+# text =  Politiets aktion virker latterlig.
+1	Politiets	politi	NOUN		noun.institution
+2	aktion	aktion	NOUN		noun.act
+3	virker	virke	VERB		verb.cognition
+4	latterlig	latterlig	ADV		adj.all
+5	.	.	PUNCT		
+
+# newdoc id = DDT-1551.tsv
+# sent_id = 6
+# text =  Betjentene burde have andet at tage sig til i en by som Slagelse, der absolut ikke er fri for hverken hærværk eller anden form for kriminalitet," siger Carsten Ove Dalsø Nielsen.
+1	Betjentene	betjent	NOUN		noun.person
+2	burde	burde	AUX		
+3	have	have	VERB		verb.stative
+4	andet	anden	PRON		
+5	at	at	PART		
+6	tage	tage	VERB		verb.act
+7	sig	sig	PRON		verb.REFLPRON
+8	til	til	ADP		verb.PARTICLE
+9	i	i	ADP		
+10	en	en	DET		
+11	by	by	NOUN		noun.location
+12	som	som	ADP		
+13	Slagelse	slagelse	PROPN		noun.location
+14	,	,	PUNCT		
+15	der	der	PRON		
+16	absolut	absolut	ADV		
+17	ikke	ikke	ADV		
+18	er	være	AUX		verb.stative
+19	fri	fri	ADJ		adj.all
+20	for	for	ADP		
+21	hverken	hverken	ADV		
+22	hærværk	hærværk	NOUN		noun.act
+23	eller	eller	CCONJ		
+24	anden	anden	DET		
+25	form	form	NOUN		noun.abstract
+26	for	for	ADP		
+27	kriminalitet	kriminalitet	NOUN		noun.act
+28	,	,	PUNCT		
+29	"	"	PUNCT		
+30	siger	sige	VERB		verb.communication
+31	Carsten	carsten	PROPN		noun.person
+32	Ove	ove	PROPN		noun.person
+33	Dalsø	dalsø	PROPN		noun.person
+34	Nielsen	nielsen	PROPN		noun.person
+35	.	.	PUNCT		
+
+# newdoc id = DDT-1551.tsv
+# sent_id = 7
+# text =  En del frisørsaloner i Slagelse er heller ikke gået ram forbi, fordi de hygger om kunderne.
+1	En	en	DET		
+2	del	del	NOUN		noun.quantity
+3	frisørsaloner	frisørsalon	NOUN		noun.building
+4	i	i	ADP		
+5	Slagelse	slagelse	PROPN		noun.location
+6	er	være	AUX		
+7	heller	heller	ADV		
+8	ikke	ikke	ADV		
+9	gået	gå	VERB		verb.phenomenon
+10	ram	ram	NOUN		verb.COLL
+11	forbi	forbi	ADV		verb.COLL
+12	,	,	PUNCT		
+13	fordi	fordi	SCONJ		
+14	de	den	PRON		
+15	hygger	hygge	VERB		verb.social
+16	om	om	ADP		
+17	kunderne	kunde	NOUN		noun.person
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1551.tsv
+# sent_id = 8
+# text =  Ikke blot i juletiden, men hele året med kaffe, te og småkager, mens folk enten venter på at komme til eller skal sidde en times tid med curlere i håret eller i tørrehjelm.
+1	Ikke	ikke	ADV		
+2	blot	blot	ADV		
+3	i	i	ADP		
+4	juletiden	juletid	NOUN		noun.time
+5	,	,	PUNCT		
+6	men	men	CCONJ		
+7	hele	hel	ADJ		adj.time
+8	året	år	NOUN		noun.time
+9	med	med	ADP		
+10	kaffe	kaffe	NOUN		noun.food
+11	,	,	PUNCT		
+12	te	te	NOUN		noun.food
+13	og	og	CCONJ		
+14	småkager	småkage	NOUN		noun.food
+15	,	,	PUNCT		
+16	mens	mens	SCONJ		
+17	folk	folk	NOUN		noun.person
+18	enten	enten	ADV		
+19	venter	vente	VERB		verb.stative
+20	på	på	ADP		
+21	at	at	PART		
+22	komme	komme	VERB		verb.phenomenon
+23	til	til	ADV		verb.PARTICLE
+24	eller	eller	CCONJ		
+25	skal	skulle	AUX		
+26	sidde	sidde	VERB		verb.stative
+27	en	en	DET		
+28	times	times	ADJ		noun.time
+29	tid	tid	NOUN		noun.time
+30	med	med	ADP		
+31	curlere	curler	NOUN		noun.artifact
+32	i	i	ADP		
+33	håret	hår	NOUN		noun.body
+34	eller	eller	CCONJ		
+35	i	i	ADP		
+36	tørrehjelm	tørrehjelm	NOUN		noun.artifact
+37	.	.	PUNCT		
+
+# newdoc id = DDT-1551.tsv
+# sent_id = 9
+# text =  HVA' MED AVISERNE?
+1	HVA'	hva'	PRON		
+2	MED	med	ADP		
+3	AVISERNE	avis	NOUN		noun.communication
+4	?	?	PUNCT		
+

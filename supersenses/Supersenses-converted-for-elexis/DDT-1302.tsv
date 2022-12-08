@@ -1,0 +1,233 @@
+# newdoc id = DDT-1302.tsv
+# sent_id = 1
+# text = " Vi ses i Helvede!" svarede han hende og tog op på skolen for at tale med hende.
+1	"	"	PUNCT		
+2	Vi	vi	PRON		
+3	ses	ses	VERB		verb.social
+4	i	i	ADP		
+5	Helvede	helvede	NOUN		noun.location
+6	!	!	PUNCT		
+7	"	"	PUNCT		
+8	svarede	svare	VERB		verb.communication
+9	han	han	PRON		
+10	hende	hun	PRON		
+11	og	og	CCONJ		
+12	tog	toge	VERB		verb.motion
+13	op	op	ADV		verb.PARTICLE
+14	på	på	ADP		
+15	skolen	skole	NOUN		noun.building
+16	for	for	ADP		
+17	at	at	PART		
+18	tale	tale	VERB		verb.communication
+19	med	med	ADP		
+20	hende	hun	PRON		
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1302.tsv
+# sent_id = 2
+# text =  Forinden drak han 10-15 øl og en kvart flaske Gammel Dansk.
+1	Forinden	forinden	ADV		
+2	drak	drikke	VERB		verb.consumption
+3	han	han	PRON		
+4	10-15	10-15	NUM		
+5	øl	øl	NOUN		noun.food
+6	og	og	CCONJ		
+7	en	en	DET		
+8	kvart	kvart	ADJ		noun.quantity
+9	flaske	flaske	NOUN		noun.container
+10	Gammel	gammel	PROPN		noun.food
+11	Dansk	dansk	ADJ		noun.food
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1302.tsv
+# sent_id = 3
+# text =  Kort efter at de var blevet alene på hendes værelse kom de op at skændes.
+1	Kort	korte	ADV		
+2	efter	efter	ADP		
+3	at	at	SCONJ		
+4	de	den	PRON		
+5	var	være	AUX		
+6	blevet	blive	AUX		verb.stative
+7	alene	alene	ADV		adj.all
+8	på	på	ADP		
+9	hendes	hendes	DET		
+10	værelse	værelse	NOUN		noun.building
+11	kom	komme	VERB		verb.communication
+12	de	den	PRON		
+13	op	op	ADV		verb.COLL
+14	at	at	PART		verb.COLL
+15	skændes	skændes	VERB		verb.COLL
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1302.tsv
+# sent_id = 4
+# text =  Dan M. greb en brødkniv på bordet.
+1	Dan	dan	PROPN		
+2	M.	m.	PROPN		
+3	greb	gribe	VERB		verb.act
+4	en	en	DET		
+5	brødkniv	brødkniv	NOUN		noun.artifact
+6	på	på	ADP		
+7	bordet	bord	NOUN		noun.artifact
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1302.tsv
+# sent_id = 5
+# text =  Da hun bad ham om at lægge kniven, sagde han, at han aldrig kunne finde på at gøre hende noget.
+1	Da	da	SCONJ		
+2	hun	hun	PRON		
+3	bad	bede	VERB		verb.communication
+4	ham	han	PRON		
+5	om	om	ADP		
+6	at	at	PART		
+7	lægge	lægge	VERB		verb.act
+8	kniven	kniv	NOUN		noun.artifact
+9	,	,	PUNCT		
+10	sagde	sige	VERB		verb.communication
+11	han	han	PRON		
+12	,	,	PUNCT		
+13	at	at	SCONJ		
+14	han	han	PRON		
+15	aldrig	aldrig	ADV		
+16	kunne	kunne	AUX		
+17	finde	finde	VERB		verb.cognition
+18	på	på	ADP		verb.PARTICLE
+19	at	at	PART		
+20	gøre	gøre	VERB		verb.act
+21	hende	hun	PRON		
+22	noget	nogen	PRON		verb.COLL
+23	.	.	PUNCT		
+
+# newdoc id = DDT-1302.tsv
+# sent_id = 6
+# text =  Men da hun alligevel forsøgte at tage kniven fra ham, slog det klik for ham.
+1	Men	men	CCONJ		
+2	da	da	SCONJ		
+3	hun	hun	PRON		
+4	alligevel	alligevel	ADV		
+5	forsøgte	forsøge	VERB		verb.act
+6	at	at	PART		
+7	tage	tage	VERB		verb.possession
+8	kniven	kniv	NOUN		noun.artifact
+9	fra	fra	ADP		
+10	ham	han	PRON		
+11	,	,	PUNCT		
+12	slog	slå	VERB		verb.phenomenon
+13	det	det	PRON		verb.COLL
+14	klik	klik	NOUN		verb.COLL
+15	for	for	ADP		
+16	ham	han	PRON		
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1302.tsv
+# sent_id = 7
+# text =  KNIVEN BRÆKKEDE
+1	KNIVEN	kniv	NOUN		noun.artifact
+2	BRÆKKEDE	brække	VERB		verb.change
+
+# newdoc id = DDT-1302.tsv
+# sent_id = 8
+# text = " I_aften er der tre, der dør," sagde han og gik amok med kniven, der brækkede under de mange hårde hug.
+1	"	"	PUNCT		
+2	I_aften	i_aft	NOUN		
+3	er	være	VERB		verb.stative
+4	der	der	ADV		
+5	tre	tre	NUM		
+6	,	,	PUNCT		
+7	der	der	PRON		
+8	dør	dø	VERB		verb.phenomenon
+9	,	,	PUNCT		
+10	"	"	PUNCT		
+11	sagde	sige	VERB		verb.communication
+12	han	han	PRON		
+13	og	og	CCONJ		
+14	gik	gå	VERB		verb.change
+15	amok	amok	ADV		verb.COLL
+16	med	med	ADP		
+17	kniven	kniv	NOUN		noun.artifact
+18	,	,	PUNCT		
+19	der	der	PRON		
+20	brækkede	brække	VERB		verb.change
+21	under	under	ADP		
+22	de	den	DET		
+23	mange	mangen	ADJ		
+24	hårde	hård	ADJ		adj.phys
+25	hug	hug	NOUN		noun.act
+26	.	.	PUNCT		
+
+# newdoc id = DDT-1302.tsv
+# sent_id = 9
+# text = " Jeg ville skræmme hende," forklarede den 19-årige i grundlovsforhøret.
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	ville	ville	AUX		
+4	skræmme	skræmme	VERB		verb.act
+5	hende	hun	PRON		
+6	,	,	PUNCT		
+7	"	"	PUNCT		
+8	forklarede	forklare	VERB		verb.communication
+9	den	den	DET		
+10	19-årige	19-år	ADJ		adj.phys
+11	i	i	ADP		
+12	grundlovsforhøret	grundlovsforhør	NOUN		noun.act
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1302.tsv
+# sent_id = 10
+# text =  Men politiet er ikke i tvivl om, at det var et drabsforsøg.
+1	Men	men	CCONJ		
+2	politiet	politi	NOUN		noun.institution
+3	er	være	AUX		verb.stative
+4	ikke	ikke	ADV		
+5	i	i	ADP		
+6	tvivl	tvivl	NOUN		noun.cognition
+7	om	om	ADP		
+8	,	,	PUNCT		
+9	at	at	SCONJ		
+10	det	det	PRON		
+11	var	være	AUX		verb.stative
+12	et	en	DET		
+13	drabsforsøg	drabsforsøg	NOUN		noun.act
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1302.tsv
+# sent_id = 11
+# text =  Igen og igen huggede og skar den unge mand i sin kæreste.
+1	Igen	igen	ADV		
+2	og	og	CCONJ		
+3	igen	igen	ADV		
+4	huggede	hugge	VERB		verb.act
+5	og	og	CCONJ		
+6	skar	skære	VERB		verb.act
+7	den	den	DET		
+8	unge	ung	ADJ		adj.phys
+9	mand	mand	NOUN		noun.person
+10	i	i	ADP		
+11	sin	sin	DET		
+12	kæreste	kæreste	NOUN		noun.person
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1302.tsv
+# sent_id = 12
+# text = " Det var et rent tilfælde, at han ikke slog hende ihjel," mener kriminalinspektør Chr. Petersen.
+1	"	"	PUNCT		
+2	Det	det	PRON		
+3	var	være	AUX		verb.stative
+4	et	en	DET		
+5	rent	ren	ADJ		adj.all
+6	tilfælde	tilfælde	NOUN		noun.state
+7	,	,	PUNCT		
+8	at	at	SCONJ		
+9	han	han	PRON		
+10	ikke	ikke	ADV		
+11	slog	slå	VERB		verb.act
+12	hende	hun	PRON		
+13	ihjel	ihjel	ADV		verb.PARTICLE
+14	,	,	PUNCT		
+15	"	"	PUNCT		
+16	mener	mene	VERB		verb.cognition
+17	kriminalinspektør	kriminalinspektør	NOUN		noun.person
+18	Chr.	chr.	PROPN		noun.person
+19	Petersen	petersen	PROPN		noun.person
+20	.	.	PUNCT		
+

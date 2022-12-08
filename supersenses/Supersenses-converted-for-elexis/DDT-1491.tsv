@@ -1,0 +1,227 @@
+# newdoc id = DDT-1491.tsv
+# sent_id = 1
+# text =  Mange tusinde kom altså med i jagten på" Basse", fordi politiet anså det for givet, at bortføreren før eller siden ville komme i berøring med systemet.
+1	Mange	mangen	ADJ		
+2	tusinde	tusinde	NOUN		noun.quantity
+3	kom	komme	VERB		verb.phenomenon
+4	altså	altså	ADV		
+5	med	med	ADV		verb.COLL
+6	i	i	ADP		
+7	jagten	jagt	NOUN		noun.act
+8	på	på	ADP		
+9	"	"	PUNCT		
+10	Basse	basse	NOUN		noun.person
+11	"	"	PUNCT		
+12	,	,	PUNCT		
+13	fordi	fordi	SCONJ		
+14	politiet	politi	NOUN		noun.person
+15	anså	anse	VERB		verb.cognition
+16	det	det	PRON		
+17	for	for	ADP		
+18	givet	give	VERB		adj.all
+19	,	,	PUNCT		
+20	at	at	SCONJ		
+21	bortføreren	bortfører	NOUN		noun.person
+22	før	før	ADV		
+23	eller	eller	CCONJ		
+24	siden	siden	ADV		
+25	ville	ville	AUX		
+26	komme	komme	VERB		verb.phenomenon
+27	i	i	ADP		
+28	berøring	berøring	NOUN		verb.phenomenon
+29	med	med	ADP		
+30	systemet	system	NOUN		noun.abstract
+31	.	.	PUNCT		
+
+# newdoc id = DDT-1491.tsv
+# sent_id = 2
+# text =  Det kunne ske i form af lægebesøg, vaccination, barnedåb eller navngivning, men alt syntes at være forgæves.
+1	Det	det	PRON		
+2	kunne	kunne	AUX		
+3	ske	ske	VERB		verb.phenomenon
+4	i	i	ADP		
+5	form	form	NOUN		noun.abstract
+6	af	af	ADP		
+7	lægebesøg	lægebesøg	NOUN		noun.act
+8	,	,	PUNCT		
+9	vaccination	vaccination	NOUN		noun.act
+10	,	,	PUNCT		
+11	barnedåb	barnedåb	NOUN		noun.act
+12	eller	eller	CCONJ		
+13	navngivning	navngivning	NOUN		noun.act
+14	,	,	PUNCT		
+15	men	men	CCONJ		
+16	alt	al	ADJ		
+17	syntes	synes	VERB		verb.cognition
+18	at	at	PART		
+19	være	være	AUX		verb.stative
+20	forgæves	forgæves	ADJ		adj.all
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1491.tsv
+# sent_id = 3
+# text =  Pludselig skete der imidlertid en overraskende udvikling.
+1	Pludselig	pludselig	ADV		
+2	skete	ske	VERB		verb.phenomenon
+3	der	der	ADV		
+4	imidlertid	imidlertid	ADV		
+5	en	en	DET		
+6	overraskende	overraske	VERB		adj.all
+7	udvikling	udvikling	NOUN		noun.phenomenon
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1491.tsv
+# sent_id = 4
+# text =  En 30-årig, barnløs kvinde fra Aalborg meldte sig hos politiet og tilstod otte måneder efter" Basses" bortkomst, at hun havde kastet drengen i Odense Å.
+1	En	en	DET		
+2	30-årig	30-år	ADJ		adj.time
+3	,	,	PUNCT		
+4	barnløs	barnløs	ADJ		adj.all
+5	kvinde	kvinde	NOUN		noun.person
+6	fra	fra	ADP		
+7	Aalborg	aalborg	PROPN		noun.location
+8	meldte	melde	VERB		verb.act
+9	sig	sig	PRON		verb.REFLPRON
+10	hos	hos	ADP		
+11	politiet	politi	NOUN		noun.institution
+12	og	og	CCONJ		
+13	tilstod	tilstå	VERB		verb.communication
+14	otte	otte	ADJ		
+15	måneder	måned	NOUN		noun.time
+16	efter	efter	ADP		
+17	"	"	PUNCT		
+18	Basses	basse	NOUN		noun.person
+19	"	"	PUNCT		
+20	bortkomst	bortkomst	NOUN		noun.phenomenon
+21	,	,	PUNCT		
+22	at	at	SCONJ		
+23	hun	hun	PRON		
+24	havde	have	AUX		
+25	kastet	kaste	VERB		verb.motion
+26	drengen	dreng	NOUN		noun.person
+27	i	i	ADP		
+28	Odense	odense	PROPN		noun.location
+29	Å	å	NOUN		noun.location
+30	.	.	PUNCT		
+
+# newdoc id = DDT-1491.tsv
+# sent_id = 5
+# text =  Erkendelsen faldt dog fra hinanden efter grundige afhøringer hos politiet.
+1	Erkendelsen	erkendelse	NOUN		noun.cognition
+2	faldt	falde	VERB		verb.change
+3	dog	dog	ADV		
+4	fra	fra	ADP		verb.COLL
+5	hinanden	hinanden	PRON		verb.COLL
+6	efter	efter	ADP		
+7	grundige	grundig	ADJ		adj.all
+8	afhøringer	afhøring	NOUN		noun.act
+9	hos	hos	ADP		
+10	politiet	politi	NOUN		noun.institution
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1491.tsv
+# sent_id = 6
+# text =  Kvinden havde end ikke været i Odense på gerningstidspunktet, og Anna Bü rgel kunne på én gang både ånde lettet op og på_ny leve i uvished om sønnens skæbne.
+1	Kvinden	kvinde	NOUN		noun.person
+2	havde	have	VERB		
+3	end	ende	ADP		
+4	ikke	ikke	ADV		
+5	været	være	VERB		verb.stative
+6	i	i	ADP		
+7	Odense	odense	PROPN		noun.location
+8	på	på	ADP		
+9	gerningstidspunktet	gerningstidspunk	NOUN		noun.time
+10	,	,	PUNCT		
+11	og	og	CCONJ		
+12	Anna	anna	PROPN		noun.person
+13	Bü	bü	PROPN		noun.person
+14	rgel	rgel	X		noun.person
+15	kunne	kunne	VERB		
+16	på	på	ADP		
+17	én	én	DET		
+18	gang	gang	NOUN		noun.abstract
+19	både	både	ADV		
+20	ånde	ånde	VERB		verb.act
+21	lettet	lette	VERB		verb.COLL
+22	op	op	ADV		verb.COLL
+23	og	og	CCONJ		
+24	på_ny	på_ny	NOUN		
+25	leve	leve	VERB		verb.phenomenon
+26	i	i	ADP		
+27	uvished	uvished	NOUN		noun.cognition
+28	om	om	ADP		
+29	sønnens	søn	NOUN		noun.person
+30	skæbne	skæbne	NOUN		noun.phenomenon
+31	.	.	PUNCT		
+
+# newdoc id = DDT-1491.tsv
+# sent_id = 7
+# text =  Nok engang stod man på bar bund i efterforskningen, selv_om alle tænkelige kræfter havde været sat ind såvel lokalt som nationalt lige efter bortførslen gennem de forskellige myndigheder.
+1	Nok	nok	ADV		
+2	engang	engang	ADV		
+3	stod	stå	VERB		verb.stative
+4	man	man	PRON		
+5	på	på	ADP		
+6	bar	bar	ADJ		adj.phys
+7	bund	bund	NOUN		noun.object
+8	i	i	ADP		
+9	efterforskningen	efterforskning	NOUN		noun.act
+10	,	,	PUNCT		
+11	selv_om	selv_om	X		
+12	alle	al	ADJ		
+13	tænkelige	tænkelig	ADJ		adj.all
+14	kræfter	kraft	NOUN		noun.phenomenon
+15	havde	have	AUX		
+16	været	være	AUX		
+17	sat	sætte	VERB		verb.act
+18	ind	ind	ADV		verb.COLL
+19	såvel	såvel	ADV		
+20	lokalt	lokal	ADV		
+21	som	som	ADP		
+22	nationalt	national	ADV		
+23	lige	lige	ADV		
+24	efter	efter	ADP		
+25	bortførslen	bortførsel	NOUN		noun.act
+26	gennem	gennem	ADP		
+27	de	den	DET		
+28	forskellige	forskellig	ADJ		adj.all
+29	myndigheder	myndighed	NOUN		noun.institution
+30	.	.	PUNCT		
+
+# newdoc id = DDT-1491.tsv
+# sent_id = 8
+# text =  Politiet appellerede nok engang til hele den danske befolkning om at holde øjne og ører åbne samt at lede i sommer- og kolonihavehuse efter mistænkelige eksistenser, men lige lidt hjalp det.
+1	Politiet	politi	NOUN		noun.institution
+2	appellerede	appellere	VERB		verb.communication
+3	nok	nok	ADV		
+4	engang	engang	ADV		
+5	til	til	ADP		
+6	hele	hel	ADJ		adj.all
+7	den	den	DET		
+8	danske	dansk	ADJ		adj.social
+9	befolkning	befolkning	NOUN		noun.person
+10	om	om	ADP		
+11	at	at	PART		
+12	holde	holde	VERB		verb.act
+13	øjne	øje	NOUN		noun.body
+14	og	og	CCONJ		
+15	ører	øre	NOUN		noun.body
+16	åbne	åben	ADJ		adj.phys
+17	samt	samt	CCONJ		
+18	at	at	PART		
+19	lede	lede	VERB		verb.act
+20	i	i	ADP		
+21	sommer-	sommer-	X		noun.building
+22	og	og	CCONJ		
+23	kolonihavehuse	kolonihavehus	NOUN		noun.building
+24	efter	efter	ADP		
+25	mistænkelige	mistænkelig	ADJ		adj.all
+26	eksistenser	eksistens	NOUN		noun.person
+27	,	,	PUNCT		
+28	men	men	CCONJ		
+29	lige	lige	ADV		
+30	lidt	lidt	ADV		
+31	hjalp	hjælpe	VERB		verb.act
+32	det	det	PRON		
+33	.	.	PUNCT		
+

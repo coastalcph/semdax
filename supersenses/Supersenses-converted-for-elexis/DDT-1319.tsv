@@ -1,0 +1,196 @@
+# newdoc id = DDT-1319.tsv
+# sent_id = 1
+# text =  ODENSE:" Det er totalt meningsløst og uforståeligt."
+1	ODENSE	odense	PROPN		noun.location
+2	:	:	PUNCT		
+3	"	"	PUNCT		
+4	Det	det	PRON		
+5	er	være	AUX		verb.stative
+6	totalt	total	ADV		
+7	meningsløst	meningsløs	ADJ		adj.mental
+8	og	og	CCONJ		
+9	uforståeligt	uforståelig	ADJ		adj.mental
+10	.	.	PUNCT		
+11	"	"	PUNCT		
+
+# newdoc id = DDT-1319.tsv
+# sent_id = 2
+# text =  Sådan reagerede seks kvindelige studerende på Odense Universitet i_går efter mordet på Betina Jørgensen Kjær, 20, ved Ungbo-kollegiet i Vindegade i Odense.
+1	Sådan	sådan	ADV		
+2	reagerede	reagere	VERB		verb.act
+3	seks	seks	DET		
+4	kvindelige	kvindelig	ADJ		adj.phys
+5	studerende	studerende	NOUN		noun.person
+6	på	på	ADP		
+7	Odense	odense	PROPN		noun.institution
+8	Universitet	universitet	NOUN		noun.institution
+9	i_går	i_går	NOUN		noun.time
+10	efter	efter	ADP		
+11	mordet	mord	NOUN		noun.act
+12	på	på	ADP		
+13	Betina	betina	PROPN		noun.person
+14	Jørgensen	jørgensen	PROPN		noun.person
+15	Kjær	kjær	PROPN		noun.person
+16	,	,	PUNCT		
+17	20	20	NUM		
+18	,	,	PUNCT		
+19	ved	ved	ADP		
+20	Ungbo-kollegiet	ungbo-kollegi	NOUN		noun.building
+21	i	i	ADP		
+22	Vindegade	vindegade	PROPN		noun.location
+23	i	i	ADP		
+24	Odense	odense	PROPN		noun.location
+25	.	.	PUNCT		
+
+# newdoc id = DDT-1319.tsv
+# sent_id = 3
+# text =  De kendte alle Betina Jørgensen Kjær som en yderst sympatisk, flittig og meget dygtig pige.
+1	De	den	PRON		
+2	kendte	kende	VERB		verb.cognition
+3	alle	al	ADJ		
+4	Betina	betina	PROPN		noun.person
+5	Jørgensen	jørgensen	PROPN		noun.person
+6	Kjær	kjær	PROPN		noun.person
+7	som	som	ADP		
+8	en	en	DET		
+9	yderst	yderst	ADV		
+10	sympatisk	sympatisk	ADJ		adj.social
+11	,	,	PUNCT		
+12	flittig	flittig	ADJ		adj.mental
+13	og	og	CCONJ		
+14	meget	megen	ADV		
+15	dygtig	dygtig	ADJ		adj.mental
+16	pige	pige	NOUN		noun.person
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1319.tsv
+# sent_id = 4
+# text =  De havde læst på samme hold ( M 17) med hende siden efteråret og er lige nu gået i_gang med 2. semester af medicinstudiet- det studium, som Betina aldrig fik lov til at gennemføre på_grund_af den bestialske forbrydelse mod hende.
+1	De	den	PRON		
+2	havde	have	AUX		
+3	læst	læse	VERB		verb.cognition
+4	på	på	ADP		
+5	samme	samme	ADJ		
+6	hold	hold	NOUN		noun.person
+7	(	(	PUNCT		
+8	M	m	X		
+9	17	17	ADV		
+10	)	)	PUNCT		
+11	med	med	ADP		
+12	hende	hun	PRON		
+13	siden	siden	ADP		
+14	efteråret	efterår	NOUN		noun.time
+15	og	og	CCONJ		
+16	er	være	AUX		
+17	lige	lige	ADV		
+18	nu	nu	ADV		
+19	gået	gå	VERB		verb.aspectual
+20	i_gang	i_gang	NOUN		verb.PARTICLE
+21	med	med	ADP		
+22	2.	2.	ADJ		noun.time
+23	semester	semester	NOUN		noun.time
+24	af	af	ADP		
+25	medicinstudiet	medicinstudi	NOUN		noun.cognition
+26	-	-	PUNCT		
+27	det	det	DET		
+28	studium	studium	NOUN		noun.domain
+29	,	,	PUNCT		
+30	som	som	PRON		
+31	Betina	betina	PROPN		noun.person
+32	aldrig	aldrig	ADV		
+33	fik	få	VERB		verb.phenomenon
+34	lov	lov	NOUN		verb.COLL
+35	til	til	ADP		
+36	at	at	PART		
+37	gennemføre	gennemføre	VERB		verb.aspectual
+38	på_grund_af	på_grund_af	X		
+39	den	den	DET		
+40	bestialske	bestialsk	ADJ		adj.all
+41	forbrydelse	forbrydelse	NOUN		noun.act
+42	mod	mod	ADP		
+43	hende	hun	PRON		
+44	.	.	PUNCT		
+
+# newdoc id = DDT-1319.tsv
+# sent_id = 5
+# text =  I_går var der undervisning i kemi for M_17-holdet, og her bad lektor Gudrun Ploug-Sørensen om et minuts stilhed i auditoriet for at mindes den myrdede studiekammerat.
+1	I_går	i_går	NOUN		
+2	var	være	VERB		verb.stative
+3	der	der	ADV		
+4	undervisning	undervisning	NOUN		noun.communication
+5	i	i	ADP		
+6	kemi	kemi	NOUN		noun.domain
+7	for	for	ADP		
+8	M_17-holdet	m_17-hold	NOUN		noun.person
+9	,	,	PUNCT		
+10	og	og	CCONJ		
+11	her	her	ADV		
+12	bad	bede	VERB		verb.communication
+13	lektor	lektor	NOUN		noun.person
+14	Gudrun	gudrun	PROPN		noun.person
+15	Ploug-Sørensen	ploug-sørensen	PROPN		noun.person
+16	om	om	ADP		
+17	et	en	DET		
+18	minuts	minut	NOUN		noun.quantity
+19	stilhed	stilhed	NOUN		noun.phenomenon
+20	i	i	ADP		
+21	auditoriet	auditorium	NOUN		noun.building
+22	for	for	ADP		
+23	at	at	PART		
+24	mindes	mindes	VERB		verb.cognition
+25	den	den	DET		
+26	myrdede	myrde	VERB		adj.all
+27	studiekammerat	studiekammerat	NOUN		noun.person
+28	.	.	PUNCT		
+
+# newdoc id = DDT-1319.tsv
+# sent_id = 6
+# text = " Vi kendte Betina som en meget flittig og dygtig studerende.
+1	"	"	PUNCT		
+2	Vi	vi	PRON		
+3	kendte	kende	VERB		verb.cognition
+4	Betina	betina	PROPN		noun.person
+5	som	som	ADP		
+6	en	en	DET		
+7	meget	megen	ADV		
+8	flittig	flittig	ADJ		adj.mental
+9	og	og	CCONJ		
+10	dygtig	dygtig	ADJ		adj.mental
+11	studerende	studerende	NOUN		noun.person
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1319.tsv
+# sent_id = 7
+# text =  Hun var også beskeden, og hvis der var nogen, som ville have en hjælpende hånd af hende, så blev man ikke fejet af," fortæller studiekammeraterne.
+1	Hun	hun	PRON		
+2	var	være	AUX		verb.stative
+3	også	også	ADV		
+4	beskeden	beskeden	ADJ		adj.mental
+5	,	,	PUNCT		
+6	og	og	CCONJ		
+7	hvis	hvis	SCONJ		
+8	der	der	ADV		
+9	var	være	VERB		verb.stative
+10	nogen	nogen	PRON		
+11	,	,	PUNCT		
+12	som	som	PRON		
+13	ville	ville	AUX		
+14	have	have	VERB		verb.phenomenon
+15	en	en	DET		
+16	hjælpende	hjælpe	VERB		adj.all
+17	hånd	hånd	NOUN		noun.act
+18	af	af	ADP		
+19	hende	hun	PRON		
+20	,	,	PUNCT		
+21	så	så	ADV		
+22	blev	blive	AUX		verb.stative
+23	man	man	PRON		
+24	ikke	ikke	ADV		
+25	fejet	feje	VERB		verb.act
+26	af	af	ADP		verb.PARTICLE
+27	,	,	PUNCT		
+28	"	"	PUNCT		
+29	fortæller	fortælle	VERB		verb.communication
+30	studiekammeraterne	studiekammerat	NOUN		noun.person
+31	.	.	PUNCT		
+

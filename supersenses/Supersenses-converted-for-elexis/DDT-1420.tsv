@@ -1,0 +1,250 @@
+# newdoc id = DDT-1420.tsv
+# sent_id = 1
+# text =  De nye virksomheder skal især placeres i området syd for Bella Centret, hvor der åbnes for en meget intens bebyggelse.
+1	De	den	DET		
+2	nye	ny	ADJ		adj.time
+3	virksomheder	virksomhed	NOUN		noun.institution
+4	skal	skulle	AUX		
+5	især	især	ADV		
+6	placeres	placere	VERB		verb.motion
+7	i	i	ADP		
+8	området	område	NOUN		noun.cognition
+9	syd	syd	ADV		
+10	for	for	ADP		
+11	Bella	bella	PROPN		noun.building
+12	Centret	centrum	NOUN		noun.building
+13	,	,	PUNCT		
+14	hvor	hvor	ADV		
+15	der	der	ADV		
+16	åbnes	åbne	VERB		verb.aspectual
+17	for	for	ADP		
+18	en	en	DET		
+19	meget	megen	ADV		
+20	intens	intens	ADJ		adj.all
+21	bebyggelse	bebyggelse	NOUN		noun.building
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1420.tsv
+# sent_id = 2
+# text =  Derimod skal der i højere grad tages hensyn til naturen nord for Bella Centret, hvor i_alt 31 hektar vil blive friholdt af naturmæssige årsager.
+1	Derimod	derimod	ADV		
+2	skal	skulle	AUX		
+3	der	der	ADV		
+4	i	i	ADP		
+5	højere	høj	ADJ		
+6	grad	grad	NOUN		noun.quantity
+7	tages	tage	VERB		verb.act
+8	hensyn	hensyn	NOUN		verb.COLL
+9	til	til	ADP		
+10	naturen	natur	NOUN		noun.phenomenon
+11	nord	nord	ADV		
+12	for	for	ADP		
+13	Bella	bella	PROPN		noun.building
+14	Centret	centrum	NOUN		noun.building
+15	,	,	PUNCT		
+16	hvor	hvor	ADV		
+17	i_alt	i_alt	NOUN		
+18	31	31	NUM		
+19	hektar	hektar	NOUN		noun.quantity
+20	vil	ville	AUX		
+21	blive	blive	AUX		
+22	friholdt	friholde	VERB		verb.act
+23	af	af	ADP		
+24	naturmæssige	naturmæssig	ADJ		adj.phys
+25	årsager	årsag	NOUN		noun.motive
+26	.	.	PUNCT		
+
+# newdoc id = DDT-1420.tsv
+# sent_id = 3
+# text =  Den del af Amager Fælled, der ikke indgår i Ørestaden, skal fredes.
+1	Den	den	DET		
+2	del	del	NOUN		noun.relation
+3	af	af	ADP		
+4	Amager	amager	PROPN		noun.location
+5	Fælled	fælled	NOUN		noun.location
+6	,	,	PUNCT		
+7	der	der	PRON		
+8	ikke	ikke	ADV		
+9	indgår	indgå	VERB		verb.stative
+10	i	i	ADP		
+11	Ørestaden	ørestaden	PROPN		noun.location
+12	,	,	PUNCT		
+13	skal	skulle	AUX		
+14	fredes	frede	VERB		verb.act
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1420.tsv
+# sent_id = 4
+# text =  Det drejer sig om 240 hektar og det område skal have karakter af en stor bypark.
+1	Det	det	PRON		
+2	drejer	dreje	VERB		verb.stative
+3	sig	sig	PRON		verb.REFLPRON
+4	om	om	ADP		verb.COLL
+5	240	240	NUM		
+6	hektar	hektar	NOUN		noun.quantity
+7	og	og	CCONJ		
+8	det	det	DET		
+9	område	område	NOUN		noun.location
+10	skal	skulle	AUX		
+11	have	have	VERB		verb.possession
+12	karakter	karakter	NOUN		noun.attribute
+13	af	af	ADP		
+14	en	en	DET		
+15	stor	stor	ADJ		adj.phys
+16	bypark	bypark	NOUN		noun.building
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1420.tsv
+# sent_id = 5
+# text =  Sammen med Kalvebodkilerne, der i_dag er fredede, vil Amager have en naturpark på i_alt 25 kvadratkilometer.
+1	Sammen	sammen	ADV		
+2	med	med	ADP		
+3	Kalvebodkilerne	kalvebodkilerne	PROPN		noun.location
+4	,	,	PUNCT		
+5	der	der	PRON		
+6	i_dag	i_dag	NOUN		noun.time
+7	er	være	AUX		verb.stative
+8	fredede	frede	VERB		adj.all
+9	,	,	PUNCT		
+10	vil	ville	AUX		
+11	Amager	amager	PROPN		noun.location
+12	have	have	VERB		verb.possession
+13	en	en	DET		
+14	naturpark	naturpark	NOUN		noun.location
+15	på	på	ADP		
+16	i_alt	i_alt	NOUN		
+17	25	25	NUM		
+18	kvadratkilometer	kvadratkilometer	NOUN		noun.quantity
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1420.tsv
+# sent_id = 6
+# text =  Kulturen skal også tilgodeses i Ørestaden.
+1	Kulturen	kultur	NOUN		noun.abstract
+2	skal	skulle	AUX		
+3	også	også	ADV		
+4	tilgodeses	tilgodese	VERB		verb.act
+5	i	i	ADP		
+6	Ørestaden	ørestaden	PROPN		noun.location
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1420.tsv
+# sent_id = 7
+# text =  Ny Tøjhusgrunden skal snarest muligt bebygges, gerne med et kultur- og musikhus.
+1	Ny	ny	ADJ		noun.location
+2	Tøjhusgrunden	tøjhusgrund	NOUN		noun.location
+3	skal	skulle	AUX		
+4	snarest	snarest	ADV		
+5	muligt	mulig	ADV		
+6	bebygges	bebygge	VERB		verb.creation
+7	,	,	PUNCT		
+8	gerne	gerne	ADV		
+9	med	med	ADP		
+10	et	en	DET		
+11	kultur-	kultur-	NOUN		noun.building
+12	og	og	CCONJ		noun.building
+13	musikhus	musikhus	NOUN		noun.building
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1420.tsv
+# sent_id = 8
+# text =  Desuden skal området omkring søerne i det nordlige område af Ørestaden være et udstillingsområde.
+1	Desuden	desuden	ADV		
+2	skal	skulle	AUX		
+3	området	område	NOUN		noun.location
+4	omkring	omkring	ADP		
+5	søerne	sø	NOUN		noun.location
+6	i	i	ADP		
+7	det	det	DET		
+8	nordlige	nordlig	ADJ		
+9	område	område	NOUN		noun.location
+10	af	af	ADP		
+11	Ørestaden	ørestaden	PROPN		noun.location
+12	være	være	AUX		verb.stative
+13	et	en	DET		
+14	udstillingsområde	udstillingsområde	NOUN		noun.location
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1420.tsv
+# sent_id = 9
+# text =  Partierne foreslår en baltisk udstilling i forbindelse med Københavns status som kulturby i 1996.
+1	Partierne	parti	NOUN		noun.person
+2	foreslår	foreslå	VERB		verb.communication
+3	en	en	DET		
+4	baltisk	baltisk	ADJ		adj.social
+5	udstilling	udstilling	NOUN		noun.event
+6	i	i	ADP		
+7	forbindelse	forbindelse	NOUN		
+8	med	med	ADP		
+9	Københavns	københavns	PROPN		noun.institution
+10	status	status	NOUN		noun.attribute
+11	som	som	ADP		
+12	kulturby	kulturby	NOUN		noun.location
+13	i	i	ADP		
+14	1996	1996	NUM		noun.time
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1420.tsv
+# sent_id = 10
+# text =  Og så får Amager endelig sine S-baner.
+1	Og	og	CCONJ		
+2	så	så	ADV		
+3	får	få	VERB		verb.possession
+4	Amager	amager	PROPN		noun.person
+5	endelig	endelig	ADV		
+6	sine	sin	DET		
+7	S-baner	s-bane	NOUN		noun.artifact
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1420.tsv
+# sent_id = 11
+# text =  Der skal anlægges to baner.
+1	Der	der	ADV		
+2	skal	skulle	AUX		
+3	anlægges	anlægge	VERB		verb.creation
+4	to	to	NUM		
+5	baner	bane	NOUN		noun.artifact
+6	.	.	PUNCT		
+
+# newdoc id = DDT-1420.tsv
+# sent_id = 12
+# text =  Den ene, Østamagerbanen, kommer til at gå under Amager og ud til Kastrup.
+1	Den	den	DET		
+2	ene	ene	ADJ		
+3	,	,	PUNCT		
+4	Østamagerbanen	østamagerban	NOUN		noun.artifact
+5	,	,	PUNCT		
+6	kommer	komme	VERB		
+7	til	til	ADP		
+8	at	at	PART		
+9	gå	gå	VERB		verb.motion
+10	under	under	ADP		
+11	Amager	amager	PROPN		noun.location
+12	og	og	CCONJ		
+13	ud	ud	ADV		
+14	til	til	ADP		
+15	Kastrup	kastrup	PROPN		noun.location
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1420.tsv
+# sent_id = 13
+# text =  Den anden bane, Ørestadsbanen, skal gå langs Islands Brygge og vest om universitet til Tårnby.
+1	Den	den	DET		
+2	anden	anden	ADJ		
+3	bane	bane	NOUN		noun.artifact
+4	,	,	PUNCT		
+5	Ørestadsbanen	ørestadsbanen	PROPN		noun.artifact
+6	,	,	PUNCT		
+7	skal	skulle	AUX		
+8	gå	gå	VERB		verb.motion
+9	langs	langs	ADP		
+10	Islands	islands	PROPN		noun.location
+11	Brygge	brygge	PROPN		noun.location
+12	og	og	CCONJ		
+13	vest	vest	NOUN		
+14	om	om	ADP		
+15	universitet	universitet	NOUN		noun.building
+16	til	til	ADP		
+17	Tårnby	tårnby	PROPN		noun.location
+18	.	.	PUNCT		
+

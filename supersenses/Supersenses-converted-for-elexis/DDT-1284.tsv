@@ -1,0 +1,215 @@
+# newdoc id = DDT-1284.tsv
+# sent_id = 1
+# text =  SAS AFVISER
+1	SAS	sas	PROPN		noun.person
+2	AFVISER	afvise	VERB		verb.communication
+
+# newdoc id = DDT-1284.tsv
+# sent_id = 2
+# text =  Svenske og norske aviser mente i_går også at vide, at Stefan Rasmussens dage som helte-pilot var tæt på at være forbi.
+1	Svenske	svensk	ADJ		adj.social
+2	og	og	CCONJ		
+3	norske	norsk	ADJ		adj.social
+4	aviser	avis	NOUN		noun.person
+5	mente	mene	VERB		verb.cognition
+6	i_går	i_går	NOUN		
+7	også	også	ADV		
+8	at	at	PART		
+9	vide	vide	VERB		verb.cognition
+10	,	,	PUNCT		
+11	at	at	SCONJ		
+12	Stefan	stefan	PROPN		noun.person
+13	Rasmussens	rasmussens	PROPN		noun.person
+14	dage	dag	NOUN		noun.time
+15	som	som	ADP		
+16	helte-pilot	helte-pilot	NOUN		noun.person
+17	var	være	AUX		
+18	tæt	tætte	ADV		adj.all
+19	på	på	ADP		
+20	at	at	PART		
+21	være	være	AUX		verb.stative
+22	forbi	forbi	ADV		
+23	.	.	PUNCT		
+
+# newdoc id = DDT-1284.tsv
+# sent_id = 3
+# text =  Men også det afvises af SAS, også selv_om en norsk avis havde SAS-bossen Jan Carlzon som kilde.
+1	Men	men	CCONJ		
+2	også	også	ADV		
+3	det	det	PRON		
+4	afvises	afvise	VERB		verb.communication
+5	af	af	ADP		
+6	SAS	sas	PROPN		noun.person
+7	,	,	PUNCT		
+8	også	også	ADV		
+9	selv_om	selv_om	X		
+10	en	en	DET		
+11	norsk	norsk	ADJ		adj.social
+12	avis	avis	NOUN		noun.person
+13	havde	have	VERB		verb.stative
+14	SAS-bossen	sas-bos	NOUN		noun.person
+15	Jan	jan	PROPN		noun.person
+16	Carlzon	carlzon	PROPN		noun.person
+17	som	som	ADP		
+18	kilde	kilde	NOUN		noun.person
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1284.tsv
+# sent_id = 4
+# text =  Han skulle efter en radio-udsendelse i svensk radio have sagt, at" den som er helt i_dag måske er noget andet i_morgen."
+1	Han	han	PRON		
+2	skulle	skulle	AUX		
+3	efter	efter	ADP		
+4	en	en	DET		
+5	radio-udsendelse	radio-udsend	NOUN		noun.communication
+6	i	i	ADP		
+7	svensk	svensk	ADJ		adj.social
+8	radio	radio	NOUN		noun.communication
+9	have	have	AUX		
+10	sagt	sige	VERB		verb.communication
+11	,	,	PUNCT		
+12	at	at	SCONJ		
+13	"	"	PUNCT		
+14	den	den	PRON		
+15	som	som	ADP		
+16	er	være	AUX		verb.stative
+17	helt	helt	ADV		noun.person
+18	i_dag	i_dag	NOUN		noun.time
+19	måske	måske	ADV		
+20	er	være	AUX		verb.stative
+21	noget	nogen	DET		
+22	andet	anden	ADJ		
+23	i_morgen	i_morg	NOUN		noun.time
+24	.	.	PUNCT		
+25	"	"	PUNCT		
+
+# newdoc id = DDT-1284.tsv
+# sent_id = 5
+# text = " Den udtalelse er i følge Jan Carlzon selv fremsat under en diskussion om faren for, at medier drager for hastige konklusioner.
+1	"	"	PUNCT		
+2	Den	den	DET		
+3	udtalelse	udtalelse	NOUN		noun.communication
+4	er	være	AUX		verb.stative
+5	i	i	ADP		
+6	følge	følge	X		
+7	Jan	jan	PROPN		noun.communication
+8	Carlzon	carlzon	PROPN		noun.communication
+9	selv	selv	PRON		
+10	fremsat	fremsætte	VERB		verb.communication
+11	under	under	ADP		
+12	en	en	DET		
+13	diskussion	diskussion	NOUN		noun.communication
+14	om	om	ADP		
+15	faren	fare	NOUN		noun.phenomenon
+16	for	for	ADP		
+17	,	,	PUNCT		
+18	at	at	SCONJ		
+19	medier	medium	NOUN		noun.person
+20	drager	drage	VERB		verb.cognition
+21	for	for	ADP		
+22	hastige	hastig	ADJ		adj.time
+23	konklusioner	konklusion	NOUN		noun.cognition
+24	.	.	PUNCT		
+
+# newdoc id = DDT-1284.tsv
+# sent_id = 6
+# text =  Den har ingen forbindelse med årsagen til flystyrtet.
+1	Den	den	PRON		
+2	har	have	VERB		verb.stative
+3	ingen	ingen	DET		
+4	forbindelse	forbindelse	NOUN		noun.phenomenon
+5	med	med	ADP		
+6	årsagen	årsag	NOUN		noun.phenomenon
+7	til	til	ADP		
+8	flystyrtet	flystyrt	NOUN		noun.phenomenon
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1284.tsv
+# sent_id = 7
+# text =  I_øvrigt må ingen i SAS udtale sig om en eventuel årsag, før havarikommissionen er færdig med dens undersøgelser.
+1	I_øvrigt	i_øvr	ADV		
+2	må	måtte	AUX		
+3	ingen	ingen	PRON		
+4	i	i	ADP		
+5	SAS	sas	PROPN		noun.institution
+6	udtale	udtale	VERB		verb.communication
+7	sig	sig	PRON		verb.REFLPRON
+8	om	om	ADP		
+9	en	en	DET		
+10	eventuel	eventuel	ADJ		adj.all
+11	årsag	årsag	NOUN		noun.abstract
+12	,	,	PUNCT		
+13	før	føre	SCONJ		
+14	havarikommissionen	havarikommission	NOUN		noun.person
+15	er	være	AUX		
+16	færdig	færdig	ADJ		adj.all
+17	med	med	ADP		
+18	dens	dens	DET		
+19	undersøgelser	undersøgelse	NOUN		noun.act
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1284.tsv
+# sent_id = 8
+# text =  Men i det materiale, jeg selv har set fra kommissionen, er der ikke så meget som en antydning af, at Stefan Rasmussen skulle have gjort noget galt," siger informationschef i SAS, Troels Rasmussen.
+1	Men	men	CCONJ		
+2	i	i	ADP		
+3	det	det	DET		
+4	materiale	materiale	NOUN		noun.artifact
+5	,	,	PUNCT		
+6	jeg	jeg	PRON		
+7	selv	selv	PRON		
+8	har	have	AUX		
+9	set	se	VERB		verb.cognition
+10	fra	fra	ADP		
+11	kommissionen	kommission	NOUN		noun.person
+12	,	,	PUNCT		
+13	er	være	VERB		verb.stative
+14	der	der	ADV		
+15	ikke	ikke	ADV		
+16	så	så	ADV		
+17	meget	megen	ADJ		
+18	som	som	ADP		
+19	en	en	DET		
+20	antydning	antydning	NOUN		noun.communication
+21	af	af	ADP		
+22	,	,	PUNCT		
+23	at	at	SCONJ		
+24	Stefan	stefan	PROPN		noun.person
+25	Rasmussen	rasmussen	PROPN		noun.person
+26	skulle	skulle	AUX		
+27	have	have	AUX		
+28	gjort	gøre	VERB		verb.act
+29	noget	nogen	PRON		
+30	galt	galt	ADV		
+31	,	,	PUNCT		
+32	"	"	PUNCT		
+33	siger	sige	VERB		verb.communication
+34	informationschef	informationschef	NOUN		noun.person
+35	i	i	ADP		
+36	SAS	sas	PROPN		noun.institution
+37	,	,	PUNCT		
+38	Troels	troels	PROPN		noun.person
+39	Rasmussen	rasmussen	PROPN		noun.person
+40	.	.	PUNCT		
+
+# newdoc id = DDT-1284.tsv
+# sent_id = 9
+# text =  De tekniske chefer i både Danmark og Sverige forstår heller ikke, hvor rygtet kommer fra:
+1	De	den	DET		
+2	tekniske	teknisk	ADJ		adj.all
+3	chefer	chef	NOUN		noun.person
+4	i	i	ADP		
+5	både	både	ADV		
+6	Danmark	danmark	PROPN		noun.institution
+7	og	og	CCONJ		
+8	Sverige	sverige	PROPN		noun.institution
+9	forstår	forstå	VERB		verb.cognition
+10	heller	heller	ADV		
+11	ikke	ikke	ADV		
+12	,	,	PUNCT		
+13	hvor	hvor	ADV		
+14	rygtet	rygte	NOUN		noun.phenomenon
+15	kommer	komme	VERB		verb.phenomenon
+16	fra	fra	ADP		
+17	:	:	PUNCT		
+

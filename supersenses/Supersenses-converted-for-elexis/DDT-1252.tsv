@@ -1,0 +1,223 @@
+# newdoc id = DDT-1252.tsv
+# sent_id = 1
+# text =  Danmarks holdning til Kina har siden den dramatiske nedkæmpning af det pro-demokratiske studenteroprør på Den Himmelske Freds Plads i 1989 simret på et meget svagt vågeblus.
+1	Danmarks	danmark	ADJ		noun.institution
+2	holdning	holdning	NOUN		noun.feeling
+3	til	til	ADP		
+4	Kina	kina	PROPN		noun.institution
+5	har	have	AUX		
+6	siden	siden	ADP		
+7	den	den	DET		
+8	dramatiske	dramatisk	ADJ		adj.all
+9	nedkæmpning	nedkæmpning	NOUN		noun.act
+10	af	af	ADP		
+11	det	det	DET		
+12	pro-demokratiske	pro-demokratisk	ADJ		adj.social
+13	studenteroprør	studenteroprør	NOUN		noun.act
+14	på	på	ADP		
+15	Den	den	DET		noun.location
+16	Himmelske	himmelsk	ADJ		noun.location
+17	Freds	fred	NOUN		noun.location
+18	Plads	plads	NOUN		noun.location
+19	i	i	ADP		
+20	1989	1989	PART		noun.time
+21	simret	simre	VERB		verb.act
+22	på	på	ADP		
+23	et	en	DET		
+24	meget	megen	ADV		
+25	svagt	svag	ADJ		adj.phys
+26	vågeblus	vågeblus	NOUN		noun.artifact
+27	.	.	PUNCT		
+
+# newdoc id = DDT-1252.tsv
+# sent_id = 2
+# text =  Kina er stadig i stue-arrest, og Danida holder pengekassen hermetisk lukket for danske engagementer i Kina.
+1	Kina	kina	PROPN		noun.institution
+2	er	være	AUX		verb.stative
+3	stadig	stadig	ADV		
+4	i	i	ADP		
+5	stue-arrest	stue-arrest	NOUN		noun.phenomenon
+6	,	,	PUNCT		
+7	og	og	CCONJ		
+8	Danida	danida	PROPN		noun.institution
+9	holder	holde	VERB		verb.act
+10	pengekassen	pengekasse	NOUN		noun.container
+11	hermetisk	hermetisk	ADV		
+12	lukket	lukke	VERB		adj.phys
+13	for	for	ADP		
+14	danske	dansk	ADJ		adj.social
+15	engagementer	engagement	NOUN		noun.act
+16	i	i	ADP		
+17	Kina	kina	PROPN		noun.location
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1252.tsv
+# sent_id = 3
+# text = " Kineserne er skuffede over Danmarks holdning.
+1	"	"	PUNCT		
+2	Kineserne	kineser	NOUN		noun.person
+3	er	være	AUX		verb.stative
+4	skuffede	skuffe	VERB		adj.mental
+5	over	over	ADP		
+6	Danmarks	danmarks	PROPN		noun.institution
+7	holdning	holdning	NOUN		noun.feeling
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1252.tsv
+# sent_id = 4
+# text =  Danskerne var blandt de første udenlandske forretningsfolk i Kina, men nu er vi blandt de sidste, der lukker op igen," siger Oliver Jensen, FLS i Peking.
+1	Danskerne	dansker	NOUN		noun.person
+2	var	være	AUX		verb.stative
+3	blandt	blandt	ADP		
+4	de	den	DET		
+5	første	først	ADJ		adj.time
+6	udenlandske	udenlandsk	ADJ		adj.social
+7	forretningsfolk	forretningsfolk	NOUN		noun.person
+8	i	i	ADP		
+9	Kina	kina	PROPN		noun.location
+10	,	,	PUNCT		
+11	men	men	CCONJ		
+12	nu	nu	ADV		
+13	er	være	AUX		verb.stative
+14	vi	vi	PRON		
+15	blandt	blandt	ADP		
+16	de	den	DET		
+17	sidste	sidste	ADJ		adj.time
+18	,	,	PUNCT		
+19	der	der	PRON		
+20	lukker	lukke	VERB		verb.act
+21	op	op	ADV		verb.PARTICLE
+22	igen	igen	ADV		
+23	,	,	PUNCT		
+24	"	"	PUNCT		
+25	siger	sige	VERB		verb.communication
+26	Oliver	oliver	PROPN		noun.person
+27	Jensen	jensen	PROPN		noun.person
+28	,	,	PUNCT		
+29	FLS	fls	PROPN		noun.institution
+30	i	i	ADP		
+31	Peking	peking	PROPN		noun.location
+32	.	.	PUNCT		
+
+# newdoc id = DDT-1252.tsv
+# sent_id = 5
+# text =  Han fortæller, at udviklingen i Sydkina kører så hurtigt, at man taber pusten.
+1	Han	han	PRON		
+2	fortæller	fortælle	VERB		verb.communication
+3	,	,	PUNCT		
+4	at	at	SCONJ		
+5	udviklingen	udvikling	NOUN		noun.phenomenon
+6	i	i	ADP		
+7	Sydkina	sydkina	PROPN		noun.location
+8	kører	køre	VERB		verb.phenomenon
+9	så	så	ADV		
+10	hurtigt	hurtig	ADV		
+11	,	,	PUNCT		
+12	at	at	SCONJ		
+13	man	man	PRON		
+14	taber	tabe	VERB		verb.possession
+15	pusten	pusten	NOUN		noun.phenomenon
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1252.tsv
+# sent_id = 6
+# text = " Vi har store forventninger til reformerne, omend vi er forberedt på, at de kan komme til at køre lidt i" ryk".
+1	"	"	PUNCT		
+2	Vi	vi	PRON		
+3	har	have	VERB		verb.cognition
+4	store	stor	ADJ		adj.all
+5	forventninger	forventning	NOUN		noun.cognition
+6	til	til	ADP		
+7	reformerne	reform	NOUN		noun.act
+8	,	,	PUNCT		
+9	omend	omend	SCONJ		
+10	vi	vi	PRON		
+11	er	være	AUX		verb.stative
+12	forberedt	forberede	VERB		adj.mental
+13	på	på	ADP		
+14	,	,	PUNCT		
+15	at	at	SCONJ		
+16	de	den	PRON		
+17	kan	kunne	AUX		verb.social
+18	komme	komme	VERB		verb.phenomenon
+19	til	til	ADP		verb.PARTICLE
+20	at	at	PART		
+21	køre	køre	VERB		verb.phenomenon
+22	lidt	lidt	ADV		
+23	i	i	ADP		
+24	"	"	PUNCT		
+25	ryk	ryk	NOUN		noun.act
+26	"	"	PUNCT		
+27	.	.	PUNCT		
+
+# newdoc id = DDT-1252.tsv
+# sent_id = 7
+# text =  Men det er spændende at se, hvor langt de tør gå med at slippe markedskræfterne løs."
+1	Men	men	CCONJ		
+2	det	det	PRON		
+3	er	være	AUX		verb.stative
+4	spændende	spændende	ADJ		adj.all
+5	at	at	PART		
+6	se	se	VERB		verb.phenomenon
+7	,	,	PUNCT		
+8	hvor	hvor	ADV		
+9	langt	lang	ADV		
+10	de	den	PRON		
+11	tør	tørre	AUX		verb.emotion
+12	gå	gå	VERB		verb.act
+13	med	med	ADP		
+14	at	at	PART		
+15	slippe	slippe	VERB		verb.act
+16	markedskræfterne	markedskræfter	NOUN		noun.abstract
+17	løs	løse	ADV		verb.COLL
+18	.	.	PUNCT		
+19	"	"	PUNCT		
+
+# newdoc id = DDT-1252.tsv
+# sent_id = 8
+# text =  FLS har været aktiv i Kina siden 1906 og har opført 20-30 cement-fabrikker rundt om i landet.
+1	FLS	fls	PROPN		noun.institution
+2	har	have	AUX		
+3	været	være	AUX		verb.stative
+4	aktiv	aktiv	ADJ		adj.all
+5	i	i	ADP		
+6	Kina	kina	PROPN		noun.location
+7	siden	siden	ADP		
+8	1906	1906	NUM		noun.time
+9	og	og	CCONJ		
+10	har	have	AUX		
+11	opført	opføre	VERB		verb.creation
+12	20-30	20-30	NUM		
+13	cement-fabrikker	cement-fabrik	NOUN		noun.building
+14	rundt	rund	ADV		
+15	om	om	ADP		
+16	i	i	ADP		
+17	landet	land	NOUN		noun.location
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1252.tsv
+# sent_id = 9
+# text =  I øjeblikket er man ved at bygge et anlæg i Shanghai, finansieret af spanske lån gennem FLS' søsterfirma i Spanien.
+1	I	i	ADP		
+2	øjeblikket	øjeblik	NOUN		noun.time
+3	er	være	AUX		verb.aspectual
+4	man	man	PRON		
+5	ved	ved	ADP		verb.PARTICLE
+6	at	at	PART		
+7	bygge	bygge	VERB		verb.creation
+8	et	en	DET		
+9	anlæg	anlæg	NOUN		noun.building
+10	i	i	ADP		
+11	Shanghai	shanghai	PROPN		noun.location
+12	,	,	PUNCT		
+13	finansieret	finansiere	VERB		adj.all
+14	af	af	ADP		
+15	spanske	spansk	ADJ		adj.social
+16	lån	lån	NOUN		noun.quantity
+17	gennem	gennem	ADP		
+18	FLS'	fls'	PROPN		noun.institution
+19	søsterfirma	søsterfirma	NOUN		noun.institution
+20	i	i	ADP		
+21	Spanien	spanien	PROPN		noun.location
+22	.	.	PUNCT		
+

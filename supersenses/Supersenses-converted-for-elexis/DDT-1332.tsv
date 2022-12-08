@@ -1,0 +1,214 @@
+# newdoc id = DDT-1332.tsv
+# sent_id = 1
+# text =  Polakkerne havde jo lagt hårdt ud og og drillet vore spilllere mere, end de brød sig om.
+1	Polakkerne	polak	NOUN		noun.person
+2	havde	have	AUX		
+3	jo	jo	ADV		
+4	lagt	lægge	VERB		verb.aspectual
+5	hårdt	hård	ADV		
+6	ud	ud	ADV		verb.PARTICLE
+7	og	og	CCONJ		
+8	og	og	CCONJ		
+9	drillet	drille	VERB		verb.act
+10	vore	vor	DET		
+11	spilllere	spill	NOUN		noun.person
+12	mere	mere	ADV		
+13	,	,	PUNCT		
+14	end	ende	ADP		
+15	de	den	PRON		
+16	brød	bryde	VERB		verb.emotion
+17	sig	sig	PRON		verb.REFLPRON
+18	om	om	ADP		verb.COLL
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1332.tsv
+# sent_id = 2
+# text =  Men målmandsskiftet ændrede handlingsforløbet totalt.
+1	Men	men	CCONJ		
+2	målmandsskiftet	målmandsskift	NOUN		noun.act
+3	ændrede	ændre	VERB		verb.change
+4	handlingsforløbet	handlingsforløb	NOUN		noun.time
+5	totalt	total	ADV		
+6	.	.	PUNCT		
+
+# newdoc id = DDT-1332.tsv
+# sent_id = 3
+# text =  Reserven Onyszko var" kold" og ikke spillet ind, da Jacob Kjeldberg og Jens Madsen på skift demonstrerede, hvad man kan opnå ved ihærdig træning i frispark.
+1	Reserven	reserve	NOUN		noun.person
+2	Onyszko	onyszko	PROPN		noun.person
+3	var	være	AUX		verb.stative
+4	"	"	PUNCT		
+5	kold	kold	ADJ		adj.mental
+6	"	"	PUNCT		
+7	og	og	CCONJ		
+8	ikke	ikke	ADV		
+9	spillet	spille	VERB		verb.act
+10	ind	ind	ADV		verb.PARTICLE
+11	,	,	PUNCT		
+12	da	da	SCONJ		
+13	Jacob	jacob	PROPN		noun.person
+14	Kjeldberg	kjeldberg	PROPN		noun.person
+15	og	og	CCONJ		
+16	Jens	jens	PROPN		noun.person
+17	Madsen	madsen	PROPN		noun.person
+18	på	på	ADP		
+19	skift	skift	NOUN		
+20	demonstrerede	demonstrere	VERB		verb.act
+21	,	,	PUNCT		
+22	hvad	hvad	PRON		
+23	man	man	PRON		
+24	kan	kunne	AUX		
+25	opnå	opnå	VERB		verb.act
+26	ved	ved	ADP		
+27	ihærdig	ihærdig	ADJ		adj.all
+28	træning	træning	NOUN		noun.act
+29	i	i	ADP		
+30	frispark	frispark	NOUN		noun.act
+31	.	.	PUNCT		
+
+# newdoc id = DDT-1332.tsv
+# sent_id = 4
+# text =  To af de dødboldsituationer, der sjældent giver udbytte resulterede i et par flotte mål, da de med veludviklet sparketeknik kanonerede bolden forbi muren og udfordrede Onyszko.
+1	To	to	NOUN		
+2	af	af	ADP		
+3	de	den	DET		
+4	dødboldsituationer	dødboldsituation	NOUN		noun.event
+5	,	,	PUNCT		
+6	der	der	PRON		
+7	sjældent	sjælden	ADV		
+8	giver	give	VERB		verb.phenomenon
+9	udbytte	udbytte	NOUN		noun.act
+10	resulterede	resultere	VERB		verb.phenomenon
+11	i	i	ADP		
+12	et	en	DET		
+13	par	par	NOUN		noun.quantity
+14	flotte	flot	ADJ		adj.all
+15	mål	mål	NOUN		noun.act
+16	,	,	PUNCT		
+17	da	da	SCONJ		
+18	de	den	PRON		
+19	med	med	ADP		
+20	veludviklet	veludviklet	ADJ		adj.all
+21	sparketeknik	sparketeknik	NOUN		noun.attribute
+22	kanonerede	kanonere	VERB		verb.act
+23	bolden	bold	NOUN		noun.artifact
+24	forbi	forbi	ADP		
+25	muren	mur	NOUN		noun.artifact
+26	og	og	CCONJ		
+27	udfordrede	udfordre	VERB		verb.act
+28	Onyszko	onyszko	PROPN		noun.person
+29	.	.	PUNCT		
+
+# newdoc id = DDT-1332.tsv
+# sent_id = 5
+# text =  Dem klarede han ikke.
+1	Dem	de	PRON		
+2	klarede	klare	VERB		verb.act
+3	han	han	PRON		
+4	ikke	ikke	ADV		
+5	.	.	PUNCT		
+
+# newdoc id = DDT-1332.tsv
+# sent_id = 6
+# text =  Det virkede, som_om han havde smurt handskerne ind i brun sæbe.
+1	Det	det	PRON		
+2	virkede	virke	VERB		verb.phenomenon
+3	,	,	PUNCT		
+4	som_om	som_om	PRON		
+5	han	han	PRON		
+6	havde	have	AUX		
+7	smurt	smøre	VERB		verb.act
+8	handskerne	handske	NOUN		noun.artifact
+9	ind	ind	ADV		
+10	i	i	ADP		
+11	brun	brun	ADJ		noun.domain
+12	sæbe	sæbe	NOUN		noun.artifact
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1332.tsv
+# sent_id = 7
+# text =  Han kunne ikke holde på bolden, og så sørgede Miklos Molnar og Peter Møller med deres sans for at være netop der, hvor de såkaldt løse chancer falder, for at få bolden skubbet over stregen.
+1	Han	han	PRON		
+2	kunne	kunne	AUX		
+3	ikke	ikke	ADV		
+4	holde	holde	VERB		verb.act
+5	på	på	ADP		
+6	bolden	bold	NOUN		noun.artifact
+7	,	,	PUNCT		
+8	og	og	CCONJ		
+9	så	så	ADV		
+10	sørgede	sørge	VERB		verb.act
+11	Miklos	miklos	PROPN		noun.person
+12	Molnar	molnar	PROPN		noun.person
+13	og	og	CCONJ		
+14	Peter	peter	PROPN		noun.person
+15	Møller	møller	PROPN		noun.person
+16	med	med	ADP		
+17	deres	deres	DET		
+18	sans	sans	NOUN		noun.feeling
+19	for	for	ADP		
+20	at	at	PART		
+21	være	være	AUX		verb.stative
+22	netop	netop	ADV		
+23	der	der	ADV		
+24	,	,	PUNCT		
+25	hvor	hvor	ADV		
+26	de	den	DET		
+27	såkaldt	såkaldt	ADV		
+28	løse	løs	ADJ		adj.phys
+29	chancer	chance	NOUN		noun.abstract
+30	falder	falde	VERB		verb.phenomenon
+31	,	,	PUNCT		
+32	for	for	ADP		
+33	at	at	PART		
+34	få	få	VERB		verb.phenomenon
+35	bolden	bold	NOUN		noun.artifact
+36	skubbet	skubbe	VERB		verb.motion
+37	over	over	ADP		
+38	stregen	streg	NOUN		noun.location
+39	.	.	PUNCT		
+
+# newdoc id = DDT-1332.tsv
+# sent_id = 8
+# text =  PROBLEMER
+1	PROBLEMER	problem	NOUN		noun.cognition
+
+# newdoc id = DDT-1332.tsv
+# sent_id = 9
+# text =  Polakkerne fik ingen mål, men de spillede så hurtigt, opfindsomt individuelt og kollektivt, at det ikke kan udelukkes, at et dansk hold i samme opstilling kan få problemer i returkampen.
+1	Polakkerne	polak	NOUN		noun.person
+2	fik	få	VERB		verb.possession
+3	ingen	ingen	DET		
+4	mål	mål	NOUN		noun.possession
+5	,	,	PUNCT		
+6	men	men	CCONJ		
+7	de	den	PRON		
+8	spillede	spille	VERB		verb.act
+9	så	så	ADV		
+10	hurtigt	hurtig	ADV		
+11	,	,	PUNCT		
+12	opfindsomt	opfindsom	ADV		
+13	individuelt	individuel	ADV		
+14	og	og	CCONJ		
+15	kollektivt	kollektiv	ADV		
+16	,	,	PUNCT		
+17	at	at	SCONJ		
+18	det	det	PRON		
+19	ikke	ikke	ADV		
+20	kan	kunne	AUX		
+21	udelukkes	udelukke	VERB		verb.act
+22	,	,	PUNCT		
+23	at	at	SCONJ		
+24	et	en	DET		
+25	dansk	dansk	ADJ		adj.social
+26	hold	hold	NOUN		noun.person
+27	i	i	ADP		
+28	samme	samme	ADJ		
+29	opstilling	opstilling	NOUN		noun.abstract
+30	kan	kunne	AUX		
+31	få	få	VERB		verb.possession
+32	problemer	problem	NOUN		noun.phenomenon
+33	i	i	ADP		
+34	returkampen	returkamp	NOUN		noun.event
+35	.	.	PUNCT		
+

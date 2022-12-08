@@ -1,0 +1,307 @@
+# newdoc id = DDT-1466.tsv
+# sent_id = 1
+# text =  Til gengæld synes jeg ikke, tyskerne og spanierne har talt godt nok sammen, da man designede instrumentpanelet.
+1	Til	til	ADP		
+2	gengæld	gengæld	NOUN		
+3	synes	synes	VERB		verb.cognition
+4	jeg	jeg	PRON		
+5	ikke	ikke	ADV		
+6	,	,	PUNCT		
+7	tyskerne	tysker	NOUN		noun.person
+8	og	og	CCONJ		
+9	spanierne	spanier	NOUN		noun.person
+10	har	have	AUX		
+11	talt	tælle	VERB		verb.communication
+12	godt	godte	ADV		
+13	nok	nok	ADV		
+14	sammen	sammen	ADV		
+15	,	,	PUNCT		
+16	da	da	SCONJ		
+17	man	man	PRON		
+18	designede	designe	VERB		verb.creation
+19	instrumentpanelet	instrumentpanel	NOUN		noun.artifact
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1466.tsv
+# sent_id = 2
+# text =  Ikke alle knapper sidder fornuftigt placeret.
+1	Ikke	ikke	ADV		
+2	alle	al	ADJ		
+3	knapper	knap	NOUN		noun.artifact
+4	sidder	sidde	VERB		verb.stative
+5	fornuftigt	fornuftig	ADV		
+6	placeret	placere	VERB		verb.motion
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1466.tsv
+# sent_id = 3
+# text =  Flere dækkes helt af rattet.
+1	Flere	flere	ADJ		
+2	dækkes	dække	VERB		verb.act
+3	helt	helt	ADV		
+4	af	af	ADP		
+5	rattet	rat	NOUN		noun.artifact
+6	.	.	PUNCT		
+
+# newdoc id = DDT-1466.tsv
+# sent_id = 4
+# text =  Udstyrsmæssigt placerer Toledo sig fint i klassen.
+1	Udstyrsmæssigt	udstyrsmæs	ADV		
+2	placerer	placere	VERB		verb.motion
+3	Toledo	toledo	PROPN		noun.vehicle
+4	sig	sig	PRON		
+5	fint	finte	ADV		
+6	i	i	ADP		
+7	klassen	klasse	NOUN		noun.group
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1466.tsv
+# sent_id = 5
+# text =  Servostyring, ABS, elrudehejs, el-sidespejle og centrallås er standard.
+1	Servostyring	servostyring	NOUN		noun.artifact
+2	,	,	PUNCT		
+3	ABS	abs	PROPN		noun.artifact
+4	,	,	PUNCT		
+5	elrudehejs	elrudehej	NOUN		noun.artifact
+6	,	,	PUNCT		
+7	el-sidespejle	el-sidespejl	NOUN		noun.artifact
+8	og	og	CCONJ		
+9	centrallås	centrallås	NOUN		noun.artifact
+10	er	være	AUX		verb.stative
+11	standard	standard	NOUN		noun.abstract
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1466.tsv
+# sent_id = 6
+# text =  Og prismæssigt ligger Seat Toledo også pænt i forhold til konkurrenterne.
+1	Og	og	CCONJ		
+2	prismæssigt	prismæssig	ADV		
+3	ligger	ligge	VERB		verb.stative
+4	Seat	seat	PROPN		noun.vehicle
+5	Toledo	toledo	PROPN		noun.vehicle
+6	også	også	ADV		
+7	pænt	pæn	ADV		
+8	i	i	ADP		
+9	forhold	forhold	NOUN		noun.relation
+10	til	til	ADP		
+11	konkurrenterne	konkurrent	NOUN		noun.vehicle
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1466.tsv
+# sent_id = 7
+# text =  Selv_om der focuseres på det meget nære forhold til VW, er det en spansk bil, og den skal nu bevise, at den kan leve op til det, den lover.
+1	Selv_om	selv_om	NOUN		
+2	der	der	ADV		
+3	focuseres	focus	VERB		verb.cognition
+4	på	på	ADP		
+5	det	det	DET		
+6	meget	megen	ADV		
+7	nære	nær	ADJ		adj.all
+8	forhold	forhold	NOUN		noun.relation
+9	til	til	ADP		
+10	VW	vw	PROPN		noun.institution
+11	,	,	PUNCT		
+12	er	være	AUX		verb.stative
+13	det	det	PRON		
+14	en	en	DET		
+15	spansk	spansk	ADJ		adj.social
+16	bil	bil	NOUN		noun.vehicle
+17	,	,	PUNCT		
+18	og	og	CCONJ		
+19	den	den	PRON		
+20	skal	skulle	AUX		
+21	nu	nu	ADV		
+22	bevise	bevise	VERB		verb.communication
+23	,	,	PUNCT		
+24	at	at	SCONJ		
+25	den	den	PRON		
+26	kan	kunne	AUX		
+27	leve	leve	VERB		verb.act
+28	op	op	ADV		verb.PARTICLE
+29	til	til	ADP		
+30	det	det	PRON		
+31	,	,	PUNCT		
+32	den	den	PRON		
+33	lover	love	VERB		verb.communication
+34	.	.	PUNCT		
+
+# newdoc id = DDT-1466.tsv
+# sent_id = 8
+# text =  Fakta om Seat Toledo 2,0 GLX OPBYGNING: 4/5-personers sedan.
+1	Fakta	faktum	NOUN		noun.communication
+2	om	om	ADP		
+3	Seat	seat	PROPN		noun.vehicle
+4	Toledo	toledo	PROPN		noun.vehicle
+5	2,0	2,0	NUM		
+6	GLX	glx	PROPN		
+7	OPBYGNING	opbygning	NOUN		noun.attribute
+8	:	:	PUNCT		
+9	4/5-personers	4/5-personers	X		
+10	sedan	sedan	NOUN		noun.vehicle
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1466.tsv
+# sent_id = 9
+# text =  Motor på tværs foran og træk på forhjulene.
+1	Motor	motor	NOUN		noun.artifact
+2	på	på	ADP		
+3	tværs	tværs	ADV		
+4	foran	foran	ADV		
+5	og	og	CCONJ		
+6	træk	træk	NOUN		noun.phenomenon
+7	på	på	ADP		
+8	forhjulene	forhjul	NOUN		noun.artifact
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1466.tsv
+# sent_id = 10
+# text =  MOTOR: 4-cylindre, 1984 ccm, 115 hk ved 5400 o/m..
+1	MOTOR	motor	NOUN		noun.artifact
+2	:	:	PUNCT		
+3	4-cylindre	4-cylindr	NOUN		noun.artifact
+4	,	,	PUNCT		
+5	1984	1984	PRON		
+6	ccm	ccm	X		
+7	,	,	PUNCT		
+8	115	115	DET		
+9	hk	hk	NOUN		
+10	ved	ved	ADP		
+11	5400	5400	NUM		
+12	o/m.	o/m.	X		
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1466.tsv
+# sent_id = 11
+# text =  Maks. drejningsmoment: 166 Nm ved 3200 o/m..
+1	Maks.	maks.	ADJ		
+2	drejningsmoment	drejningsmoment	NOUN		noun.attribute
+3	:	:	PUNCT		
+4	166	166	SCONJ		
+5	Nm	nm	PROPN		
+6	ved	ved	ADP		
+7	3200	3200	NUM		
+8	o/m.	o/m.	X		
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1466.tsv
+# sent_id = 12
+# text =  Elektronisk indsprøjtning.
+1	Elektronisk	elektronisk	ADJ		adj.phys
+2	indsprøjtning	indsprøjtning	NOUN		noun.act
+3	.	.	PUNCT		
+
+# newdoc id = DDT-1466.tsv
+# sent_id = 13
+# text =  STYRETØJ: Tandstang med servo.
+1	STYRETØJ	styretøj	NOUN		noun.artifact
+2	:	:	PUNCT		
+3	Tandstang	tandstang	NOUN		noun.artifact
+4	med	med	ADP		
+5	servo	servo	X		noun.artifact
+6	.	.	PUNCT		
+
+# newdoc id = DDT-1466.tsv
+# sent_id = 14
+# text =  BREMSER: Ventillerede skiver for og skiver bag.
+1	BREMSER	bremser	NOUN		noun.artifact
+2	:	:	PUNCT		
+3	Ventillerede	ventil	ADJ		adj.all
+4	skiver	skive	NOUN		noun.artifact
+5	for	for	ADV		
+6	og	og	CCONJ		
+7	skiver	skive	NOUN		noun.artifact
+8	bag	bag	ADV		
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1466.tsv
+# sent_id = 15
+# text =  MÅL OG VÆGT: Længde/bredde/højde: 432/166/142 cm..
+1	MÅL	mål	NOUN		noun.attribute
+2	OG	og	CCONJ		
+3	VÆGT	vægt	NOUN		noun.attribute
+4	:	:	PUNCT		
+5	Længde/bredde/højde	længde/bredde/højde	X		noun.attribute
+6	:	:	PUNCT		
+7	432/166/142	432/166/142	ADJ		
+8	cm.	cm.	NOUN		
+9	.	.	PUNCT		
+
+# newdoc id = DDT-1466.tsv
+# sent_id = 16
+# text =  Egenvægt: 1030 kg..
+1	Egenvægt	egenvægt	NOUN		noun.attribute
+2	:	:	PUNCT		
+3	1030	1030	NUM		
+4	kg.	kg.	NOUN		
+5	.	.	PUNCT		
+
+# newdoc id = DDT-1466.tsv
+# sent_id = 17
+# text =  Tilladt totalvægt: 1495 kg..
+1	Tilladt	tillade	VERB		adj.all
+2	totalvægt	totalvægt	NOUN		noun.attribute
+3	:	:	PUNCT		
+4	1495	1495	ADJ		
+5	kg.	kg.	NOUN		
+6	.	.	PUNCT		
+
+# newdoc id = DDT-1466.tsv
+# sent_id = 18
+# text =  HJUL OG FÆLGE: Stålfælge 6Jx14.
+1	HJUL	hjul	NOUN		noun.artifact
+2	OG	og	CCONJ		
+3	FÆLGE	fælg	NOUN		noun.artifact
+4	:	:	PUNCT		
+5	Stålfælge	stålfælg	NOUN		noun.artifact
+6	6Jx14	6jx14	X		
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1466.tsv
+# sent_id = 19
+# text =  Dæk: 185/60 R14.
+1	Dæk	dæk	NOUN		noun.artifact
+2	:	:	PUNCT		
+3	185/60	185/60	NUM		
+4	R14	r14	X		
+5	.	.	PUNCT		
+
+# newdoc id = DDT-1466.tsv
+# sent_id = 20
+# text =  PRÆSTATIONER: Topfart: 196 km/t..
+1	PRÆSTATIONER	præstation	NOUN		noun.act
+2	:	:	PUNCT		
+3	Topfart	topfart	NOUN		noun.attribute
+4	:	:	PUNCT		
+5	196	196	INTJ		
+6	km/t.	km/t.	X		
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1466.tsv
+# sent_id = 21
+# text =  0-100: 10,5 sek..
+1	0-100	0-100	NUM		
+2	:	:	PUNCT		
+3	10,5	10,5	NUM		
+4	sek.	sek.	NOUN		
+5	.	.	PUNCT		
+
+# newdoc id = DDT-1466.tsv
+# sent_id = 22
+# text =  GARANTI: Seks år på rustgennemtæring.
+1	GARANTI	garanti	NOUN		noun.abstract
+2	:	:	PUNCT		
+3	Seks	seks	ADJ		
+4	år	år	NOUN		noun.time
+5	på	på	ADP		
+6	rustgennemtæring	rustgennemtæring	NOUN		noun.phenomenon
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1466.tsv
+# sent_id = 23
+# text =  PRIS: 219.996 kr..
+1	PRIS	pris	NOUN		noun.possession
+2	:	:	PUNCT		
+3	219.996	219.996	ADJ		
+4	kr.	kr.	NOUN		
+5	.	.	PUNCT		
+

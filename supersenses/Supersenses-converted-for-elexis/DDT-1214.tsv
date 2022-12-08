@@ -1,0 +1,198 @@
+# newdoc id = DDT-1214.tsv
+# sent_id = 1
+# text = " hold op og hold ud..!" prøvekøres i første omgang på Bornholm, hvor de skønsvis 3.000 storrygerne fra på mandag kan ringe til gratisnummeret 80 30 31 30 og få hjælp af et hold frivillige eksrygere.
+1	"	"	PUNCT		
+2	hold	holde	VERB		noun.communication
+3	op	op	ADV		noun.communication
+4	og	og	CCONJ		noun.communication
+5	hold	holde	VERB		noun.communication
+6	ud	ud	ADV		noun.communication
+7	..	..	PUNCT		noun.communication
+8	!	!	PUNCT		noun.communication
+9	"	"	PUNCT		
+10	prøvekøres	prøvekøre	VERB		verb.act
+11	i	i	ADP		
+12	første	først	ADJ		adj.time
+13	omgang	omgang	NOUN		noun.abstract
+14	på	på	ADP		
+15	Bornholm	bornholm	PROPN		noun.location
+16	,	,	PUNCT		
+17	hvor	hvor	ADV		
+18	de	den	DET		
+19	skønsvis	skønsvis	ADV		
+20	3.000	3.000	NUM		
+21	storrygerne	storryger	NOUN		noun.person
+22	fra	fra	ADP		
+23	på	på	ADP		
+24	mandag	mandag	NOUN		noun.time
+25	kan	kunne	AUX		
+26	ringe	ringe	VERB		verb.communication
+27	til	til	ADP		
+28	gratisnummeret	gratisnum	NOUN		noun.attribute
+29	80	80	NUM		
+30	30	30	NUM		
+31	31	31	ADV		
+32	30	30	NUM		
+33	og	og	CCONJ		
+34	få	få	VERB		verb.phenomenon
+35	hjælp	hjælp	NOUN		noun.act
+36	af	af	ADP		
+37	et	en	DET		
+38	hold	hold	NOUN		noun.person
+39	frivillige	frivillig	ADJ		adj.social
+40	eksrygere	eksryger	NOUN		noun.person
+41	.	.	PUNCT		
+
+# newdoc id = DDT-1214.tsv
+# sent_id = 2
+# text =  Om cirka et år skal systemet så ud til resten af landet.
+1	Om	om	ADP		
+2	cirka	cirka	ADV		
+3	et	en	DET		
+4	år	år	NOUN		noun.time
+5	skal	skulle	AUX		
+6	systemet	system	NOUN		noun.abstract
+7	så	så	ADV		
+8	ud	ud	ADV		
+9	til	til	ADP		
+10	resten	rest	NOUN		noun.relation
+11	af	af	ADP		
+12	landet	land	NOUN		noun.location
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1214.tsv
+# sent_id = 3
+# text =  Tidligere tobakskampagner har haft en tendens til at betragte rygere som én stor, røgfarvet masse.
+1	Tidligere	tidlig	ADJ		adj.time
+2	tobakskampagner	tobakskampagn	NOUN		noun.communication
+3	har	have	AUX		
+4	haft	have	VERB		verb.stative
+5	en	en	DET		
+6	tendens	tendens	NOUN		noun.phenomenon
+7	til	til	ADP		
+8	at	at	PART		
+9	betragte	betragte	VERB		verb.cognition
+10	rygere	ryger	NOUN		noun.person
+11	som	som	ADP		
+12	én	én	DET		
+13	stor	stor	ADJ		adj.phys
+14	,	,	PUNCT		
+15	røgfarvet	røgfarvet	ADJ		adj.phys
+16	masse	masse	NOUN		noun.substance
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1214.tsv
+# sent_id = 4
+# text =  Men vil man have fat i storrygerne, må man forstå, at deres afhængighed af tobak og vanskeligheder med at sige farvel til den varierer fra person til person, siger formanden for Tobaksskaderådet, overlæge Poul Ebbe Nielsen:
+1	Men	men	CCONJ		
+2	vil	ville	AUX		
+3	man	man	PRON		
+4	have	have	VERB		verb.communication
+5	fat	fat	ADV		verb.COLL
+6	i	i	ADP		
+7	storrygerne	storryger	NOUN		noun.person
+8	,	,	PUNCT		
+9	må	måtte	AUX		
+10	man	man	PRON		
+11	forstå	forstå	VERB		verb.cognition
+12	,	,	PUNCT		
+13	at	at	SCONJ		
+14	deres	deres	DET		
+15	afhængighed	afhængighed	NOUN		noun.attribute
+16	af	af	ADP		
+17	tobak	tobak	NOUN		noun.substance
+18	og	og	CCONJ		
+19	vanskeligheder	vanskelighed	NOUN		noun.abstract
+20	med	med	ADP		
+21	at	at	PART		
+22	sige	sige	VERB		verb.act
+23	farvel	farvel	NOUN		verb.COLL
+24	til	til	ADP		
+25	den	den	DET		
+26	varierer	variere	VERB		verb.phenomenon
+27	fra	fra	ADP		
+28	person	person	NOUN		noun.person
+29	til	til	ADP		
+30	person	person	NOUN		noun.person
+31	,	,	PUNCT		
+32	siger	sige	VERB		verb.communication
+33	formanden	formand	NOUN		noun.person
+34	for	for	ADP		
+35	Tobaksskaderådet	tobaksskaderåd	NOUN		noun.person
+36	,	,	PUNCT		
+37	overlæge	overlæge	NOUN		noun.person
+38	Poul	poul	PROPN		noun.person
+39	Ebbe	ebbe	PROPN		noun.person
+40	Nielsen	nielsen	PROPN		noun.person
+41	:	:	PUNCT		
+
+# newdoc id = DDT-1214.tsv
+# sent_id = 5
+# text = " Og derfor er chancen for at gennemføre beslutningen om at holde op større, når man får vejledning i at vælge en metode man selv går ind for- og samtidig får hjælp til at holde ud."
+1	"	"	PUNCT		
+2	Og	og	CCONJ		
+3	derfor	derfor	ADV		
+4	er	være	AUX		
+5	chancen	chance	NOUN		noun.abstract
+6	for	for	ADP		
+7	at	at	PART		
+8	gennemføre	gennemføre	VERB		verb.act
+9	beslutningen	beslutning	NOUN		noun.cognition
+10	om	om	ADP		
+11	at	at	PART		
+12	holde	holde	VERB		verb.aspectual
+13	op	op	ADV		verb.PARTICLE
+14	større	stor	ADJ		adj.all
+15	,	,	PUNCT		
+16	når	når	SCONJ		
+17	man	man	PRON		
+18	får	få	VERB		verb.phenomenon
+19	vejledning	vejledning	NOUN		noun.communication
+20	i	i	ADP		
+21	at	at	PART		
+22	vælge	vælge	VERB		verb.cognition
+23	en	en	DET		
+24	metode	metode	NOUN		noun.abstract
+25	man	man	PRON		
+26	selv	selv	PRON		
+27	går	gå	VERB		verb.cognition
+28	ind	ind	ADV		verb.COLL
+29	for	for	ADP		verb.COLL
+30	-	-	PUNCT		
+31	og	og	CCONJ		
+32	samtidig	samtidig	ADV		
+33	får	få	VERB		verb.phenomenon
+34	hjælp	hjælp	NOUN		noun.act
+35	til	til	ADP		
+36	at	at	PART		
+37	holde	holde	VERB		verb.cognition
+38	ud	ud	ADV		verb.PARTICLE
+39	.	.	PUNCT		
+40	"	"	PUNCT		
+
+# newdoc id = DDT-1214.tsv
+# sent_id = 6
+# text =  At mange rygere er lede og kede af tobakken, det er der ingen tvivl om, siger Poul Ebbe Nielsen:
+1	At	at	SCONJ		
+2	mange	mangen	ADJ		adj.all
+3	rygere	ryger	NOUN		noun.person
+4	er	være	AUX		verb.stative
+5	lede	lede	VERB		adj.mental
+6	og	og	CCONJ		
+7	kede	kede	VERB		adj.mental
+8	af	af	ADP		
+9	tobakken	tobak	NOUN		noun.substance
+10	,	,	PUNCT		
+11	det	det	PRON		
+12	er	være	VERB		verb.stative
+13	der	der	ADV		
+14	ingen	ingen	DET		
+15	tvivl	tvivl	NOUN		noun.cognition
+16	om	om	ADP		
+17	,	,	PUNCT		
+18	siger	sige	VERB		verb.communication
+19	Poul	poul	PROPN		noun.person
+20	Ebbe	ebbe	PROPN		noun.person
+21	Nielsen	nielsen	PROPN		noun.person
+22	:	:	PUNCT		
+

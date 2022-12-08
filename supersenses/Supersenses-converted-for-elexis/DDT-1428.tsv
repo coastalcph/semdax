@@ -1,0 +1,215 @@
+# newdoc id = DDT-1428.tsv
+# sent_id = 1
+# text =  Kan man blive forført i Kongens Have i 35 graders varme, mens man ligger under et skyggefuldt træ- iført alt sit tøj vel at mærke- drikker danskvand, ryger smøger og lægger øre til en pop-provokatørs bekendelser?
+1	Kan	kunne	AUX		
+2	man	man	PRON		
+3	blive	blive	AUX		
+4	forført	forføre	VERB		verb.act
+5	i	i	ADP		
+6	Kongens	kongens	PROPN		noun.location
+7	Have	have	PROPN		noun.location
+8	i	i	ADP		
+9	35	35	DET		
+10	graders	grader	NOUN		noun.quantity
+11	varme	varme	NOUN		noun.phenomenon
+12	,	,	PUNCT		
+13	mens	mens	SCONJ		
+14	man	man	PRON		
+15	ligger	ligge	VERB		verb.stative
+16	under	under	ADP		
+17	et	en	DET		
+18	skyggefuldt	skyggefuld	ADJ		adj.phys
+19	træ	træ	NOUN		noun.plant
+20	-	-	PUNCT		
+21	iført	iføre	VERB		verb.body
+22	alt	al	ADJ		
+23	sit	sin	DET		
+24	tøj	tøj	NOUN		noun.artifact
+25	vel	vel	ADV		
+26	at	at	PART		
+27	mærke	mærke	VERB		
+28	-	-	PUNCT		
+29	drikker	drikke	VERB		verb.consumption
+30	danskvand	danskvand	NOUN		noun.food
+31	,	,	PUNCT		
+32	ryger	ryge	VERB		verb.consumption
+33	smøger	smøge	NOUN		noun.food
+34	og	og	CCONJ		
+35	lægger	lægge	VERB		verb.perception
+36	øre	øre	NOUN		verb.COLL
+37	til	til	ADP		
+38	en	en	DET		
+39	pop-provokatørs	pop-provokatør	ADJ		noun.person
+40	bekendelser	bekendelse	NOUN		noun.communication
+41	?	?	PUNCT		
+
+# newdoc id = DDT-1428.tsv
+# sent_id = 2
+# text =  Ja!
+1	Ja	ja	INTJ		
+2	!	!	PUNCT		
+
+# newdoc id = DDT-1428.tsv
+# sent_id = 3
+# text =  Carsten Bo er- for god ordens skyld- 33 år gammel.
+1	Carsten	carsten	PROPN		noun.person
+2	Bo	bo	PROPN		noun.person
+3	er	være	AUX		verb.stative
+4	-	-	PUNCT		
+5	for	for	ADP		
+6	god	god	ADJ		
+7	ordens	orden	NOUN		
+8	skyld	skyld	NOUN		
+9	-	-	PUNCT		
+10	33	33	DET		
+11	år	år	NOUN		noun.time
+12	gammel	gammel	ADJ		adj.time
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1428.tsv
+# sent_id = 4
+# text =  Han er søn af tidligere industriminister Erling Jensen, poet, popsanger og forfatter.
+1	Han	han	PRON		
+2	er	være	AUX		verb.stative
+3	søn	søn	NOUN		noun.person
+4	af	af	ADP		
+5	tidligere	tidlig	ADJ		adj.time
+6	industriminister	industriminister	NOUN		noun.person
+7	Erling	erling	PROPN		noun.person
+8	Jensen	jensen	PROPN		noun.person
+9	,	,	PUNCT		
+10	poet	poet	NOUN		noun.person
+11	,	,	PUNCT		
+12	popsanger	popsanger	NOUN		noun.person
+13	og	og	CCONJ		
+14	forfatter	forfatter	NOUN		noun.person
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1428.tsv
+# sent_id = 5
+# text =  Hovedmanden i grupper med kryptiske navne som 40 i feber, Mænd i blåt eller senest Sea Bee & The D'Generation.
+1	Hovedmanden	hovedmand	NOUN		noun.person
+2	i	i	ADP		
+3	grupper	gruppe	NOUN		noun.group
+4	med	med	ADP		
+5	kryptiske	kryptisk	ADJ		adj.all
+6	navne	navne	NOUN		noun.attribute
+7	som	som	ADP		
+8	40	40	NUM		noun.communication
+9	i	i	ADP		noun.communication
+10	feber	feber	NOUN		noun.communication
+11	,	,	PUNCT		
+12	Mænd	mand	NOUN		noun.communication
+13	i	i	ADP		noun.communication
+14	blåt	blå	ADJ		noun.communication
+15	eller	eller	CCONJ		
+16	senest	sen	ADV		
+17	Sea	sea	PROPN		noun.communication
+18	Bee	bee	PROPN		noun.communication
+19	&	&	CCONJ		noun.communication
+20	The	the	PROPN		noun.communication
+21	D'Generation	d'generation	PROPN		noun.communication
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1428.tsv
+# sent_id = 6
+# text =  Han er- meget mod sin vilje- blevet kaldt 90ernes Steffen Brandt eller C.V. Jørgensen.
+1	Han	han	PRON		
+2	er	være	AUX		verb.stative
+3	-	-	PUNCT		
+4	meget	megen	ADV		
+5	mod	mod	ADP		
+6	sin	sin	DET		
+7	vilje	vilje	NOUN		noun.feeling
+8	-	-	PUNCT		
+9	blevet	blive	AUX		
+10	kaldt	kalde	VERB		verb.communication
+11	90ernes	90ernes	NUM		noun.time
+12	Steffen	steffen	PROPN		noun.person
+13	Brandt	brandt	PROPN		noun.person
+14	eller	eller	CCONJ		
+15	C.V.	c.v.	PROPN		noun.person
+16	Jørgensen	jørgensen	PROPN		noun.person
+17	.	.	PUNCT		
+
+# newdoc id = DDT-1428.tsv
+# sent_id = 7
+# text =  Men det gør ham sgu' sur.
+1	Men	men	CCONJ		
+2	det	det	PRON		
+3	gør	gøre	VERB		verb.change
+4	ham	han	PRON		
+5	sgu'	sgu'	ADV		
+6	sur	sur	ADJ		adj.mental
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1428.tsv
+# sent_id = 8
+# text = " Jeg er mig!" insisterer han under det flere hundrede år gamle egetræ, liggende, som den popflab han er, på ryggen i sine orange jeans, t-shirt- som naturligvis stiller et solbrunt behåret bryst til skue- et par 68er" make love not war" solbriller han netop har købt i Paris, og en Kings i kæften.
+1	"	"	PUNCT		
+2	Jeg	jeg	PRON		
+3	er	være	AUX		verb.stative
+4	mig	jeg	PRON		
+5	!	!	PUNCT		
+6	"	"	PUNCT		
+7	insisterer	insistere	VERB		verb.communication
+8	han	han	PRON		
+9	under	under	ADP		
+10	det	det	DET		
+11	flere	flere	ADJ		
+12	hundrede	hundrede	NOUN		noun.quantity
+13	år	år	NOUN		noun.time
+14	gamle	gammel	ADJ		adj.time
+15	egetræ	egetræ	NOUN		noun.plant
+16	,	,	PUNCT		
+17	liggende	ligge	VERB		verb.stative
+18	,	,	PUNCT		
+19	som	som	ADP		
+20	den	den	DET		
+21	popflab	popflab	NOUN		noun.person
+22	han	han	PRON		
+23	er	være	VERB		verb.stative
+24	,	,	PUNCT		
+25	på	på	ADP		
+26	ryggen	ryg	NOUN		noun.body
+27	i	i	ADP		
+28	sine	sin	DET		
+29	orange	orange	ADJ		adj.phys
+30	jeans	jeans	NOUN		noun.artifact
+31	,	,	PUNCT		
+32	t-shirt	t-shirt	NOUN		noun.artifact
+33	-	-	PUNCT		
+34	som	som	PRON		
+35	naturligvis	naturligvis	ADV		
+36	stiller	stille	VERB		verb.act
+37	et	en	DET		
+38	solbrunt	solbrun	NOUN		adj.phys
+39	behåret	behåret	VERB		adj.phys
+40	bryst	bryst	NOUN		noun.body
+41	til	til	ADP		
+42	skue	skue	NOUN		noun.state
+43	-	-	PUNCT		
+44	et	en	DET		
+45	par	par	NOUN		noun.quantity
+46	68er	68er	X		noun.artifact
+47	"	"	PUNCT		noun.artifact
+48	make	make	X		noun.artifact
+49	love	love	X		noun.artifact
+50	not	not	X		noun.artifact
+51	war	war	X		noun.artifact
+52	"	"	PUNCT		noun.artifact
+53	solbriller	solbriller	NOUN		noun.artifact
+54	han	han	PRON		
+55	netop	netop	ADV		
+56	har	have	AUX		
+57	købt	købe	VERB		verb.possession
+58	i	i	ADP		
+59	Paris	paris	PROPN		noun.location
+60	,	,	PUNCT		
+61	og	og	CCONJ		
+62	en	en	DET		
+63	Kings	kings	PROPN		noun.artifact
+64	i	i	ADP		
+65	kæften	kæft	NOUN		noun.body
+66	.	.	PUNCT		
+

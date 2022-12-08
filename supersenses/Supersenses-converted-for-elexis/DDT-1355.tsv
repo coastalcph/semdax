@@ -1,0 +1,242 @@
+# newdoc id = DDT-1355.tsv
+# sent_id = 1
+# text =  Den onde talrække er nu brudt.
+1	Den	den	DET		
+2	onde	ond	ADJ		adj.all
+3	talrække	talrække	NOUN		noun.phenomenon
+4	er	være	AUX		
+5	nu	nu	ADV		
+6	brudt	bryde	VERB		verb.aspectual
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1355.tsv
+# sent_id = 2
+# text =  For altid vil lykketallet være 13.
+1	For	for	ADP		
+2	altid	altid	ADV		
+3	vil	ville	AUX		
+4	lykketallet	lykketal	NOUN		noun.abstract
+5	være	være	AUX		verb.stative
+6	13	13	ADV		
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1355.tsv
+# sent_id = 3
+# text =  Datoen for den dag i april, da han fik sin tro på det danske retssystem tilbage.
+1	Datoen	dato	NOUN		noun.time
+2	for	for	ADP		
+3	den	den	DET		
+4	dag	dag	NOUN		noun.time
+5	i	i	ADP		
+6	april	april	NOUN		noun.time
+7	,	,	PUNCT		
+8	da	da	SCONJ		
+9	han	han	PRON		
+10	fik	få	VERB		verb.possession
+11	sin	sin	DET		
+12	tro	tro	NOUN		noun.cognition
+13	på	på	ADP		
+14	det	det	DET		
+15	danske	dansk	ADJ		adj.social
+16	retssystem	retssystem	NOUN		noun.abstract
+17	tilbage	tilbage	ADV		
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1355.tsv
+# sent_id = 4
+# text =  HELLERE FRIFINDE
+1	HELLERE	hellere	ADV		
+2	FRIFINDE	frifinde	VERB		verb.cognition
+
+# newdoc id = DDT-1355.tsv
+# sent_id = 5
+# text =  I sin meget redelige og objektive retsbelæring til nævningene havde retsformanden, landsdommer Ole Unmack Larsen, givet et fingerpeg om, hvor det bar hen:
+1	I	i	ADP		
+2	sin	sin	DET		
+3	meget	megen	ADV		
+4	redelige	redelig	ADJ		adj.mental
+5	og	og	CCONJ		
+6	objektive	objektiv	ADJ		adj.mental
+7	retsbelæring	retsbelæring	NOUN		noun.act
+8	til	til	ADP		
+9	nævningene	nævning	NOUN		noun.person
+10	havde	have	AUX		
+11	retsformanden	retsformand	NOUN		noun.person
+12	,	,	PUNCT		
+13	landsdommer	landsdommer	VERB		noun.person
+14	Ole	ole	PROPN		noun.person
+15	Unmack	unmack	PROPN		noun.person
+16	Larsen	larsen	PROPN		noun.person
+17	,	,	PUNCT		
+18	givet	give	VERB		verb.possession
+19	et	en	DET		
+20	fingerpeg	fingerpeg	NOUN		noun.cognition
+21	om	om	ADP		
+22	,	,	PUNCT		
+23	hvor	hvor	ADV		
+24	det	det	PRON		
+25	bar	bære	VERB		verb.phenomenon
+26	hen	hen	ADV		
+27	:	:	PUNCT		
+
+# newdoc id = DDT-1355.tsv
+# sent_id = 6
+# text = " Beviset skal være så stærkt, at det ikke efterlader nogen rimelig tvivl.
+1	"	"	PUNCT		
+2	Beviset	bevis	NOUN		noun.abstract
+3	skal	skulle	AUX		
+4	være	være	AUX		verb.stative
+5	så	så	ADV		
+6	stærkt	stærk	ADJ		adj.all
+7	,	,	PUNCT		
+8	at	at	SCONJ		
+9	det	det	PRON		
+10	ikke	ikke	ADV		
+11	efterlader	efterlade	VERB		verb.act
+12	nogen	nogen	DET		
+13	rimelig	rimelig	ADJ		adj.all
+14	tvivl	tvivl	NOUN		noun.cognition
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1355.tsv
+# sent_id = 7
+# text =  Det er ikke nok at sige, at hvis det ikke er Ove Hansen, hvem er drabsmanden så?
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	ikke	ikke	ADV		
+4	nok	nok	ADV		
+5	at	at	PART		
+6	sige	sige	VERB		verb.communication
+7	,	,	PUNCT		
+8	at	at	SCONJ		
+9	hvis	hvis	SCONJ		
+10	det	det	PRON		
+11	ikke	ikke	ADV		
+12	er	være	AUX		verb.stative
+13	Ove	ove	PROPN		noun.person
+14	Hansen	hansen	PROPN		noun.person
+15	,	,	PUNCT		
+16	hvem	hvem	PRON		
+17	er	være	AUX		verb.stative
+18	drabsmanden	drabsmand	NOUN		noun.person
+19	så	så	ADV		
+20	?	?	PUNCT		
+
+# newdoc id = DDT-1355.tsv
+# sent_id = 8
+# text =  Som magtmonopol kan det danske retssystem ikke tillade sig at lave den fejl at sætte en uskyldig i fængsel.
+1	Som	som	ADP		
+2	magtmonopol	magtmonopol	NOUN		noun.institution
+3	kan	kunne	AUX		
+4	det	det	DET		
+5	danske	dansk	ADJ		adj.social
+6	retssystem	retssystem	NOUN		noun.institution
+7	ikke	ikke	ADV		
+8	tillade	tillade	VERB		verb.act
+9	sig	sig	PRON		verb.REFLPRON
+10	at	at	PART		
+11	lave	lave	VERB		verb.act
+12	den	den	DET		
+13	fejl	fejl	NOUN		noun.event
+14	at	at	PART		
+15	sætte	sætte	VERB		verb.act
+16	en	en	DET		
+17	uskyldig	uskyldig	ADJ		noun.person
+18	i	i	ADP		
+19	fængsel	fængsel	NOUN		noun.building
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1355.tsv
+# sent_id = 9
+# text =  Hellere frifinde for mange end for få."
+1	Hellere	hellere	ADV		
+2	frifinde	frifinde	VERB		verb.cognition
+3	for	for	ADV		
+4	mange	mangen	ADJ		
+5	end	ende	ADP		
+6	for	for	ADV		
+7	få	få	ADJ		
+8	.	.	PUNCT		
+9	"	"	PUNCT		
+
+# newdoc id = DDT-1355.tsv
+# sent_id = 10
+# text =  Retsformanden fastslog, at det ikke var nævningenes opgave at opklare en mordgåde eller samle alle de løse ender, dages vidneafhøringer har efterladt.
+1	Retsformanden	retsformand	NOUN		noun.person
+2	fastslog	fastslå	VERB		verb.cognition
+3	,	,	PUNCT		
+4	at	at	SCONJ		
+5	det	det	PRON		
+6	ikke	ikke	ADV		
+7	var	være	AUX		verb.stative
+8	nævningenes	nævning	VERB		noun.person
+9	opgave	opgave	NOUN		noun.cognition
+10	at	at	PART		
+11	opklare	opklare	VERB		verb.cognition
+12	en	en	DET		
+13	mordgåde	mordgåde	NOUN		noun.abstract
+14	eller	eller	CCONJ		
+15	samle	samle	VERB		verb.act
+16	alle	al	ADJ		
+17	de	den	DET		
+18	løse	løs	ADJ		adj.phys
+19	ender	ende	NOUN		noun.abstract
+20	,	,	PUNCT		
+21	dages	dag	NOUN		noun.time
+22	vidneafhøringer	vidneafhøring	NOUN		noun.act
+23	har	have	AUX		
+24	efterladt	efterlade	VERB		verb.act
+25	.	.	PUNCT		
+
+# newdoc id = DDT-1355.tsv
+# sent_id = 11
+# text =  INDICIERNE FOR SVAGE
+1	INDICIERNE	indicium	NOUN		noun.abstract
+2	FOR	for	ADV		
+3	SVAGE	svag	ADJ		adj.all
+
+# newdoc id = DDT-1355.tsv
+# sent_id = 12
+# text =  Da der fra anklageren ikke forelå direkte fældende, tekniske beviser mod Ove Hansen, var det alene nævningenes opgave at vurdere, om den samlede sum af indicier var stærk nok til at sige, at Pedal-Ove var drabsmand.
+1	Da	da	SCONJ		
+2	der	der	ADV		
+3	fra	fra	ADP		
+4	anklageren	anklager	NOUN		noun.person
+5	ikke	ikke	ADV		
+6	forelå	foreligge	VERB		verb.stative
+7	direkte	direkte	ADV		
+8	fældende	fælde	VERB		adj.all
+9	,	,	PUNCT		
+10	tekniske	teknisk	ADJ		adj.all
+11	beviser	bevis	NOUN		noun.abstract
+12	mod	mod	ADP		
+13	Ove	ove	PROPN		noun.person
+14	Hansen	hansen	PROPN		noun.person
+15	,	,	PUNCT		
+16	var	være	AUX		verb.stative
+17	det	det	PRON		
+18	alene	alene	ADV		
+19	nævningenes	nævning	VERB		noun.person
+20	opgave	opgave	NOUN		noun.cognition
+21	at	at	PART		
+22	vurdere	vurdere	VERB		verb.cognition
+23	,	,	PUNCT		
+24	om	om	SCONJ		
+25	den	den	DET		
+26	samlede	samle	VERB		adj.all
+27	sum	sum	NOUN		noun.quantity
+28	af	af	ADP		
+29	indicier	indicium	NOUN		noun.abstract
+30	var	være	AUX		verb.stative
+31	stærk	stærk	ADJ		adj.all
+32	nok	nok	ADV		
+33	til	til	ADP		
+34	at	at	PART		
+35	sige	sige	VERB		verb.communication
+36	,	,	PUNCT		
+37	at	at	SCONJ		
+38	Pedal-Ove	pedal-ove	PROPN		noun.person
+39	var	være	AUX		verb.stative
+40	drabsmand	drabsmand	NOUN		noun.person
+41	.	.	PUNCT		
+

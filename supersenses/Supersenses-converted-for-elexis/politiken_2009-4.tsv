@@ -1,0 +1,2274 @@
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 1
+# text =  Verner Møller, Odense, 47, professor Erik Steffensen, København, 48, fhv. landsholdsspiller Jesper Olsen, England, 48, troubadur, fysioterapeut, Jens Ole Pihl, Sønderborg, 49.
+1	Verner	verner	PROPN		noun.person
+2	Møller	møller	PROPN		noun.person
+3	,	,	PUNCT		
+4	Odense	odense	PROPN		noun.location
+5	,	,	PUNCT		
+6	47	47	PRON		
+7	,	,	PUNCT		
+8	professor	professor	NOUN		noun.person
+9	Erik	erik	PROPN		noun.person
+10	Steffensen	steffensen	PROPN		noun.person
+11	,	,	PUNCT		
+12	København	københavn	PROPN		noun.location
+13	,	,	PUNCT		
+14	48	48	PRON		
+15	,	,	PUNCT		
+16	fhv	fhv	PRON		
+17	.	.	PUNCT		
+18	landsholdsspiller	landsholdsspiller	NOUN		noun.person
+19	Jesper	jesper	PROPN		noun.person
+20	Olsen	olsen	PROPN		noun.person
+21	,	,	PUNCT		
+22	England	england	PROPN		noun.location
+23	,	,	PUNCT		
+24	48	48	PRON		
+25	,	,	PUNCT		
+26	troubadur	troubadur	NOUN		noun.person
+27	,	,	PUNCT		
+28	fysioterapeut	fysioterapeut	NOUN		noun.person
+29	,	,	PUNCT		
+30	Jens	jens	PROPN		noun.person
+31	Ole	ole	PROPN		noun.person
+32	Pihl	pihl	PROPN		noun.person
+33	,	,	PUNCT		
+34	Sønderborg	sønderborg	PROPN		noun.location
+35	,	,	PUNCT		
+36	49	49	PRON		
+37	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 2
+# text = " Hvis man er fan af den amerikanske baseballiga, så pletter det en æra i nogen grad", siger Barack Obama efter Sports Illustrated har afsløret, at Rodriguez er en 104 spillere, der i 2003 tog steroider.
+1	"	"	PUNCT		
+2	Hvis	hvis	SCONJ		
+3	man	man	PRON		
+4	er	være	AUX		verb.stative
+5	fan	fan	VERB		noun.person
+6	af	af	ADP		
+7	den	den	DET		
+8	amerikanske	amerikansk	ADJ		adj.social
+9	baseballiga	baseballiga	NOUN		noun.institution
+10	,	,	PUNCT		
+11	så	så	ADV		
+12	pletter	plettere	VERB		verb.cognition
+13	det	det	PRON		
+14	en	en	DET		
+15	æra	æra	NOUN		noun.time
+16	i	i	ADP		
+17	nogen	nogen	DET		
+18	grad	grad	NOUN		noun.cognition
+19	"	"	PUNCT		
+20	,	,	PUNCT		
+21	siger	sige	VERB		verb.communication
+22	Barack	barack	PROPN		noun.person
+23	Obama	obama	PROPN		noun.person
+24	efter	efter	ADP		
+25	Sports	sports	PROPN		noun.person
+26	Illustrated	illustrated	PROPN		noun.person
+27	har	have	AUX		
+28	afsløret	afsløre	VERB		verb.communication
+29	,	,	PUNCT		
+30	at	at	SCONJ		
+31	Rodriguez	rodriguez	PROPN		noun.person
+32	er	være	AUX		
+33	en	en	DET		
+34	104	104	NUM		
+35	spillere	spiller	NOUN		noun.person
+36	,	,	PUNCT		
+37	der	der	PRON		
+38	i	i	ADP		
+39	2003	2003	NUM		noun.time
+40	tog	toge	VERB		verb.consumption
+41	steroider	steroid	NOUN		noun.substance
+42	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 3
+# text =  Deres ejendommelige arkitektur, der favner flere offentlige institutioner, ligger som en skarpt tegnet landskabelig struktur på kanten af Ordrup Park.
+1	Deres	deres	DET		
+2	ejendommelige	ejendommelig	ADJ		adj.all
+3	arkitektur	arkitektur	NOUN		noun.domain
+4	,	,	PUNCT		
+5	der	der	PRON		
+6	favner	favne	VERB		verb.stative
+7	flere	flere	ADJ		
+8	offentlige	offentlig	ADJ		adj.social
+9	institutioner	institution	NOUN		noun.institution
+10	,	,	PUNCT		
+11	ligger	ligge	VERB		verb.stative
+12	som	som	ADP		
+13	en	en	DET		
+14	skarpt	skarp	ADV		
+15	tegnet	tegne	VERB		verb.creation
+16	landskabelig	landskabelig	ADJ		adj.all
+17	struktur	struktur	NOUN		noun.attribute
+18	på	på	ADP		
+19	kanten	kant	NOUN		noun.relation
+20	af	af	ADP		
+21	Ordrup	ordrup	PROPN		noun.location
+22	Park	park	PROPN		noun.location
+23	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 4
+# text =  Godt håndværk og lige lidt mere
+1	Godt	godte	ADV		adj.all
+2	håndværk	håndværk	NOUN		noun.act
+3	og	og	CCONJ		
+4	lige	lige	ADV		
+5	lidt	lidt	ADV		
+6	mere	mere	ADJ		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 5
+# text =  Vi anser os selv for et ungt og voksende demokrati, der gør fantastiske fremskridt".
+1	Vi	vi	PRON		
+2	anser	anse	VERB		verb.cognition
+3	os	vi	PRON		
+4	selv	selv	PRON		
+5	for	for	ADP		
+6	et	en	DET		
+7	ungt	ung	NOUN		adj.time
+8	og	og	CCONJ		
+9	voksende	vokse	VERB		verb.change
+10	demokrati	demokrati	NOUN		noun.institution
+11	,	,	PUNCT		
+12	der	der	PRON		
+13	gør	gøre	VERB		verb.act
+14	fantastiske	fantastisk	ADJ		adj.all
+15	fremskridt	fremskridt	NOUN		noun.act
+16	"	"	PUNCT		
+17	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 6
+# text =  Få timer efter Dianne Feinsteins beklagelser ringede både Barack Obama og den kommende vicepræsident, Joe Biden, til senatoren, som allernådigst tog imod deres undskyldninger.
+1	Få	få	VERB		
+2	timer	timer	NOUN		noun.time
+3	efter	efter	ADP		
+4	Dianne	dianne	PROPN		noun.person
+5	Feinsteins	feinsteins	PROPN		noun.person
+6	beklagelser	beklagelse	NOUN		verb.communication
+7	ringede	ringe	VERB		verb.communication
+8	både	både	ADV		
+9	Barack	barack	PROPN		noun.person
+10	Obama	obama	PROPN		noun.person
+11	og	og	CCONJ		
+12	den	den	DET		
+13	kommende	komme	VERB		adj.time
+14	vicepræsident	vicepræsident	NOUN		noun.person
+15	,	,	PUNCT		
+16	Joe	joe	PROPN		noun.person
+17	Biden	biden	PROPN		noun.person
+18	,	,	PUNCT		
+19	til	til	ADP		
+20	senatoren	senator	NOUN		noun.person
+21	,	,	PUNCT		
+22	som	som	PRON		
+23	allernådigst	allernåd	ADV		adj.social
+24	tog	toge	VERB		verb.cognition
+25	imod	imod	ADP		verb.PARTICLE
+26	deres	deres	DET		
+27	undskyldninger	undskyldning	NOUN		noun.communication
+28	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 7
+# text =  Man kan måske godt vinde i Madrid, det kniber mere med at gøre det samme i Middlesbrough, og trods alle Rafael Benitez' kvaliteter i de store europæiske cupkampe ser han heller ikke i år ud til at føre rekordmestrene tilbage til toppen af den nationale liga, hvor klubben næsten havde patent på at befinde sig i et par årtier.
+1	Man	man	PRON		
+2	kan	kunne	AUX		
+3	måske	måske	ADV		
+4	godt	godte	ADV		
+5	vinde	vinde	VERB		verb.competition
+6	i	i	ADP		
+7	Madrid	madrid	PROPN		noun.location
+8	,	,	PUNCT		
+9	det	det	PRON		
+10	kniber	knibe	VERB		verb.stative
+11	mere	mere	ADV		
+12	med	med	ADP		
+13	at	at	PART		
+14	gøre	gøre	VERB		verb.act
+15	det	det	DET		
+16	samme	samme	ADJ		
+17	i	i	ADP		
+18	Middlesbrough	middlesbrough	PROPN		noun.location
+19	,	,	PUNCT		
+20	og	og	CCONJ		
+21	trods	trods	ADP		
+22	alle	al	ADJ		
+23	Rafael	rafael	PROPN		noun.person
+24	Benitez	benitez	PROPN		noun.person
+25	'	'	PUNCT		noun.person
+26	kvaliteter	kvalitet	NOUN		noun.attribute
+27	i	i	ADP		
+28	de	den	DET		
+29	store	stor	ADJ		adj.all
+30	europæiske	europæisk	ADJ		adj.social
+31	cupkampe	cupkamp	NOUN		noun.event
+32	ser	se	VERB		verb.cognition
+33	han	han	PRON		
+34	heller	heller	ADV		
+35	ikke	ikke	ADV		
+36	i	i	ADP		
+37	år	år	NOUN		noun.time
+38	ud	ud	ADV		verb.PARTICLE
+39	til	til	ADP		
+40	at	at	PART		
+41	føre	føre	VERB		verb.motion
+42	rekordmestrene	rekordmestr	NOUN		noun.person
+43	tilbage	tilbage	ADV		
+44	til	til	ADP		
+45	toppen	top	NOUN		noun.cognition
+46	af	af	ADP		
+47	den	den	DET		
+48	nationale	national	ADJ		adj.social
+49	liga	liga	NOUN		noun.institution
+50	,	,	PUNCT		
+51	hvor	hvor	ADV		
+52	klubben	klub	NOUN		noun.person
+53	næsten	næsten	ADV		
+54	havde	have	VERB		noun.possession
+55	patent	patent	NOUN		noun.communication
+56	på	på	ADP		
+57	at	at	PART		
+58	befinde	befinde	VERB		verb.stative
+59	sig	sig	PRON		verb.REFLPRON
+60	i	i	ADP		
+61	et	en	DET		
+62	par	par	NOUN		noun.quantity
+63	årtier	årti	NOUN		noun.time
+64	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 8
+# text =  Det kan jeg bare ikke, for mit liv er jo her i Danmark nu.
+1	Det	det	PRON		
+2	kan	kunne	AUX		verb.stative
+3	jeg	jeg	PRON		
+4	bare	bare	ADV		
+5	ikke	ikke	ADV		
+6	,	,	PUNCT		
+7	for	for	CCONJ		
+8	mit	min	DET		
+9	liv	liv	NOUN		noun.state
+10	er	være	AUX		verb.stative
+11	jo	jo	ADV		
+12	her	her	ADV		
+13	i	i	ADP		
+14	Danmark	danmark	PROPN		noun.location
+15	nu	nu	ADV		
+16	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 9
+# text =  Når vi har haft flere konfrontationer, hvor det ender voldsomt og fatalt, så er nogle i ledelsen af systemet ikke i stand til at håndtere det korrekt".
+1	Når	når	SCONJ		
+2	vi	vi	PRON		
+3	har	have	AUX		
+4	haft	have	VERB		verb.stative
+5	flere	flere	ADJ		
+6	konfrontationer	konfrontation	NOUN		noun.act
+7	,	,	PUNCT		
+8	hvor	hvor	ADV		
+9	det	det	PRON		
+10	ender	ende	VERB		verb.aspectual
+11	voldsomt	voldsom	ADV		adj.all
+12	og	og	CCONJ		
+13	fatalt	fatal	ADV		adj.all
+14	,	,	PUNCT		
+15	så	så	ADV		
+16	er	være	AUX		verb.stative
+17	nogle	nogen	PRON		noun.person
+18	i	i	ADP		
+19	ledelsen	ledelse	NOUN		noun.cognition
+20	af	af	ADP		
+21	systemet	system	NOUN		noun.institution
+22	ikke	ikke	ADV		
+23	i	i	ADP		verb.COLL
+24	stand	stand	NOUN		verb.COLL
+25	til	til	ADP		verb.COLL
+26	at	at	PART		
+27	håndtere	håndtere	VERB		verb.act
+28	det	det	DET		
+29	korrekt	korrekt	ADJ		
+30	"	"	PUNCT		
+31	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 10
+# text =  Jørgen Hoppe er i gang med sin sidste fireårige periode som formand for de handelsansatte i Danmark.
+1	Jørgen	jørgen	PROPN		noun.person
+2	Hoppe	hoppe	PROPN		noun.person
+3	er	være	AUX		verb.stative
+4	i	i	ADP		verb.COLL
+5	gang	gang	NOUN		verb.COLL
+6	med	med	ADP		verb.COLL
+7	sin	sin	DET		
+8	sidste	sidste	ADJ		adj.time
+9	fireårige	fireårig	ADJ		adj.time
+10	periode	periode	NOUN		noun.time
+11	som	som	ADP		
+12	formand	formand	NOUN		noun.person
+13	for	for	ADP		
+14	de	den	DET		
+15	handelsansatte	handelsansat	ADJ		noun.person
+16	i	i	ADP		
+17	Danmark	danmark	PROPN		noun.location
+18	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 11
+# text =  EFTER AT HUN i 1994 stoppede i Folketinget, var hun i en periode formand for Børnerådet i Århus, og hun blev i 1998 medlem af bestyrelsen for Kvindemuseet i Danmark.
+1	EFTER	efter	ADP		
+2	AT	at	PROPN		
+3	HUN	hun	PROPN		
+4	i	i	ADP		
+5	1994	1994	PART		noun.time
+6	stoppede	stoppe	VERB		verb.aspectual
+7	i	i	ADP		
+8	Folketinget	folketing	NOUN		noun.institution
+9	,	,	PUNCT		
+10	var	være	AUX		verb.stative
+11	hun	hun	PRON		
+12	i	i	ADP		
+13	en	en	DET		
+14	periode	periode	NOUN		noun.time
+15	formand	formand	NOUN		noun.person
+16	for	for	ADP		
+17	Børnerådet	børneråd	NOUN		noun.institution
+18	i	i	ADP		
+19	Århus	århus	PROPN		noun.location
+20	,	,	PUNCT		
+21	og	og	CCONJ		
+22	hun	hun	PRON		
+23	blev	blive	VERB		verb.change
+24	i	i	ADP		
+25	1998	1998	NUM		noun.time
+26	medlem	medlem	NOUN		noun.person
+27	af	af	ADP		
+28	bestyrelsen	bestyrelse	NOUN		noun.group
+29	for	for	ADP		
+30	Kvindemuseet	kvindemuseet	PROPN		noun.institution
+31	i	i	ADP		noun.institution
+32	Danmark	danmark	PROPN		noun.institution
+33	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 12
+# text =  Møllerne skal leveres til to projekter i Constanta- regionen i Rumænien, og værdien på ordren er i milliardklassen i danske kroner.
+1	Møllerne	møller	ADV		noun.artifact
+2	skal	skulle	AUX		
+3	leveres	levere	VERB		verb.motion
+4	til	til	ADP		
+5	to	to	NUM		
+6	projekter	projekt	NOUN		noun.act
+7	i	i	ADP		
+8	Constanta	constanta	PROPN		noun.location
+9	-	-	PUNCT		noun.location
+10	regionen	region	NOUN		noun.location
+11	i	i	ADP		
+12	Rumænien	rumænien	PROPN		noun.location
+13	,	,	PUNCT		
+14	og	og	CCONJ		
+15	værdien	værdi	NOUN		noun.attribute
+16	på	på	ADP		
+17	ordren	ordre	NOUN		noun.possession
+18	er	være	AUX		
+19	i	i	ADP		
+20	milliardklassen	milliardklasse	NOUN		noun.quantity
+21	i	i	ADP		
+22	danske	dansk	ADJ		adj.social
+23	kroner	krone	NOUN		noun.quantity
+24	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 13
+# text =  Og skulle rollen som Walt blive hans svanesang som skuespiller, er det en mere end værdig afslutning på en lang karriere foran kameraet.
+1	Og	og	CCONJ		
+2	skulle	skulle	AUX		
+3	rollen	rolle	VERB		noun.cognition
+4	som	som	ADP		
+5	Walt	walt	PRON		noun.person
+6	blive	blive	AUX		
+7	hans	hans	DET		
+8	svanesang	svanesang	NOUN		noun.time
+9	som	som	ADP		
+10	skuespiller	skuespiller	NOUN		noun.person
+11	,	,	PUNCT		
+12	er	være	AUX		verb.stative
+13	det	det	PRON		
+14	en	en	DET		
+15	mere	mere	ADJ		
+16	end	ende	ADP		
+17	værdig	værdig	ADJ		adj.social
+18	afslutning	afslutning	NOUN		noun.time
+19	på	på	ADP		
+20	en	en	DET		
+21	lang	lang	ADJ		adj.time
+22	karriere	karriere	NOUN		noun.act
+23	foran	foran	ADP		
+24	kameraet	kamera	NOUN		noun.artifact
+25	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 14
+# text =  USA trækker soldater ud af Irak for at sende flere til Afghanistan.
+1	USA	usa	PROPN		noun.person
+2	trækker	trække	VERB		verb.act
+3	soldater	soldat	NOUN		noun.person
+4	ud	ud	ADV		
+5	af	af	ADP		
+6	Irak	irak	PROPN		noun.location
+7	for	for	ADP		
+8	at	at	PART		
+9	sende	sende	VERB		verb.act
+10	flere	flere	ADJ		
+11	til	til	ADP		
+12	Afghanistan	afghanistan	PROPN		noun.location
+13	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 15
+# text =  Jeg accepterer selvfølgelig situationen, som den er, og der er ingen bad feelings.
+1	Jeg	jeg	PRON		
+2	accepterer	acceptere	VERB		verb.cognition
+3	selvfølgelig	selvfølgelig	ADV		
+4	situationen	situation	NOUN		noun.state
+5	,	,	PUNCT		
+6	som	som	ADP		
+7	den	den	PRON		
+8	er	være	VERB		verb.stative
+9	,	,	PUNCT		
+10	og	og	CCONJ		
+11	der	der	ADV		
+12	er	være	VERB		verb.stative
+13	ingen	ingen	DET		
+14	bad	bede	ADJ		adj.all
+15	feelings	feeling	NOUN		noun.feeling
+16	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 16
+# text =  19. 00 Vejle- Randers FC Kenneth Møller Pedersen er en vigtig spiller for Randers FC på den centrale midtbane.
+1	19	19	ADV		
+2	.	.	PUNCT		
+3	00	00	NUM		
+4	Vejle	vejle	PROPN		noun.institution
+5	-	-	PUNCT		
+6	Randers	randers	PROPN		noun.institution
+7	FC	fc	PROPN		noun.institution
+8	Kenneth	kenneth	PROPN		noun.person
+9	Møller	møller	PROPN		noun.person
+10	Pedersen	pedersen	PROPN		noun.person
+11	er	være	AUX		verb.stative
+12	en	en	DET		
+13	vigtig	vigtig	ADJ		adj.all
+14	spiller	spiller	NOUN		noun.person
+15	for	for	ADP		
+16	Randers	randers	PROPN		noun.institution
+17	FC	fc	PROPN		noun.institution
+18	på	på	ADP		
+19	den	den	DET		
+20	centrale	central	ADJ		adj.phys
+21	midtbane	midtbane	NOUN		noun.location
+22	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 17
+# text =  Britiske netbrugere kan ikke længere se musikvideoer på YouTube.
+1	Britiske	britisk	ADJ		adj.social
+2	netbrugere	netbrug	NOUN		noun.person
+3	kan	kunne	AUX		verb.social
+4	ikke	ikke	ADV		
+5	længere	lang	ADV		
+6	se	se	VERB		verb.perception
+7	musikvideoer	musikvideo	NOUN		noun.communication
+8	på	på	ADP		
+9	YouTube	youtube	PROPN		noun.communication
+10	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 18
+# text =  Han blev i 2007 idømt 12 års fængsel i det nordafrikanske land for at have deltaget i planlægningen af en fredelig demonstration imod politivold, oplyser organisationen Human Rights Watch.
+1	Han	han	PRON		
+2	blev	blive	AUX		
+3	i	i	ADP		
+4	2007	2007	NUM		noun.time
+5	idømt	idømme	VERB		verb.communication
+6	12	12	NUM		
+7	års	år	NOUN		noun.time
+8	fængsel	fængsel	NOUN		noun.act
+9	i	i	ADP		
+10	det	det	DET		
+11	nordafrikanske	nordafrikansk	ADJ		adj.social
+12	land	land	NOUN		noun.location
+13	for	for	ADP		
+14	at	at	PART		
+15	have	have	AUX		
+16	deltaget	deltage	VERB		verb.social
+17	i	i	ADP		
+18	planlægningen	planlægning	NOUN		noun.act
+19	af	af	ADP		
+20	en	en	DET		
+21	fredelig	fredelig	ADJ		adj.social
+22	demonstration	demonstration	NOUN		noun.act
+23	imod	imod	ADP		
+24	politivold	politivold	NOUN		noun.act
+25	,	,	PUNCT		
+26	oplyser	oplyse	VERB		verb.communication
+27	organisationen	organisation	NOUN		noun.person
+28	Human	human	PROPN		noun.person
+29	Rights	rights	PROPN		noun.person
+30	Watch	watch	PROPN		noun.person
+31	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 19
+# text =  Helt tilbage i søndagsavisen1. 2.:
+1	Helt	helt	ADV		
+2	tilbage	tilbage	ADV		
+3	i	i	ADP		
+4	søndagsavisen	søndagsavis	NOUN		noun.communication
+5	1	1	PUNCT		
+6	.	.	PUNCT		
+7	2	2	PRON		
+8	.	.	PUNCT		
+9	:	:	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 20
+# text =  ( Information)
+1	(	(	PUNCT		
+2	Information	information	NOUN		
+3	)	)	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 21
+# text =  Heri venter den egentlige test på Jacob Zumas integritet og kvaliteten af hans lederskab.
+1	Heri	heri	ADV		
+2	venter	vente	VERB		verb.stative
+3	den	den	DET		
+4	egentlige	egentlig	ADJ		adj.all
+5	test	test	NOUN		noun.cognition
+6	på	på	ADP		
+7	Jacob	jacob	PROPN		noun.person
+8	Zumas	zuma	DET		noun.person
+9	integritet	integritet	NOUN		noun.attribute
+10	og	og	CCONJ		
+11	kvaliteten	kvalitet	NOUN		noun.attribute
+12	af	af	ADP		
+13	hans	hans	DET		
+14	lederskab	lederskab	NOUN		noun.act
+15	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 22
+# text =  Den dumper i en svensk test af bilers evne til at modstå indbrud, og det er skidt for svenske Avensis- ejere, for de kan se frem til, at deres forsikring stiger med 30 procent.
+1	Den	den	PRON		
+2	dumper	dumpe	VERB		verb.social
+3	i	i	ADP		
+4	en	en	DET		
+5	svensk	svensk	ADJ		adj.social
+6	test	test	NOUN		noun.act
+7	af	af	ADP		
+8	bilers	bil	NOUN		noun.vehicle
+9	evne	evne	NOUN		noun.attribute
+10	til	til	ADP		
+11	at	at	PART		
+12	modstå	modstå	VERB		verb.stative
+13	indbrud	indbrud	NOUN		noun.act
+14	,	,	PUNCT		
+15	og	og	CCONJ		
+16	det	det	PRON		
+17	er	være	AUX		verb.stative
+18	skidt	skidt	ADJ		adj.all
+19	for	for	ADP		
+20	svenske	svensk	ADJ		adj.social
+21	Avensis	avensis	NOUN		noun.person
+22	-	-	PUNCT		noun.person
+23	ejere	ejer	NOUN		noun.person
+24	,	,	PUNCT		
+25	for	for	CCONJ		
+26	de	den	PRON		
+27	kan	kunne	AUX		
+28	se	se	VERB		verb.cognition
+29	frem	frem	ADV		verb.PARTICLE
+30	til	til	ADP		
+31	,	,	PUNCT		
+32	at	at	SCONJ		
+33	deres	deres	DET		
+34	forsikring	forsikring	NOUN		noun.possession
+35	stiger	stige	VERB		verb.change
+36	med	med	ADP		
+37	30	30	NUM		
+38	procent	procent	NOUN		noun.quantity
+39	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 23
+# text =  Er det dødens?
+1	Er	være	AUX		verb.stative
+2	det	det	PRON		
+3	dødens	død	NOUN		
+4	?	?	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 24
+# text =  lægge flere billeder oven i hinanden, så de snarere danner et mønster end et
+1	lægge	lægge	VERB		verb.motion
+2	flere	flere	ADJ		
+3	billeder	billede	NOUN		noun.artifact
+4	oven	oven	ADV		
+5	i	i	ADP		
+6	hinanden	hinanden	PRON		
+7	,	,	PUNCT		
+8	så	så	SCONJ		
+9	de	den	PRON		
+10	snarere	snarere	ADV		
+11	danner	danne	VERB		verb.creation
+12	et	en	DET		
+13	mønster	mønster	NOUN		noun.artifact
+14	end	ende	ADP		
+15	et	en	DET		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 25
+# text =  Tfc1 Så går den vilde kongejagt.
+1	Tfc1	tfc1	NOUN		
+2	Så	så	ADV		
+3	går	gå	VERB		verb.motion
+4	den	den	DET		
+5	vilde	vild	ADJ		adj.all
+6	kongejagt	kongejagt	NOUN		noun.act
+7	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 26
+# text =  30% af udenlandske firmaer i Danmark var i 2006 svenskejede.
+1	30%	30%	NUM		
+2	af	af	ADP		
+3	udenlandske	udenlandsk	ADJ		adj.social
+4	firmaer	firma	NOUN		noun.institution
+5	i	i	ADP		
+6	Danmark	danmark	PROPN		noun.location
+7	var	være	AUX		verb.stative
+8	i	i	ADP		
+9	2006	2006	NUM		noun.time
+10	svenskejede	svenskejed	NOUN		verb.possession
+11	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 27
+# text =  P3 kl. 12. 07.
+1	P3	p3	PRON		noun.communication
+2	kl	kl	X		
+3	.	.	PUNCT		
+4	12	12	PRON		
+5	.	.	PUNCT		
+6	07	07	NUM		
+7	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 28
+# text = 5, forbillede for Judy Dench som James Bonds nyeste chef, søsat en serie med den kvindelige topagent, Liz Carlyle.
+1	5	5	PUNCT		
+2	,	,	PUNCT		
+3	forbillede	forbillede	VERB		noun.person
+4	for	for	ADP		
+5	Judy	judy	PROPN		noun.person
+6	Dench	dench	PROPN		noun.person
+7	som	som	ADP		
+8	James	james	PROPN		noun.person
+9	Bonds	bonds	PROPN		noun.person
+10	nyeste	ny	ADJ		adj.time
+11	chef	chef	NOUN		noun.person
+12	,	,	PUNCT		
+13	søsat	søsætte	VERB		verb.aspectual
+14	en	en	DET		
+15	serie	serie	NOUN		noun.communication
+16	med	med	ADP		
+17	den	den	DET		
+18	kvindelige	kvindelig	ADJ		adj.all
+19	topagent	topagent	NOUN		noun.person
+20	,	,	PUNCT		
+21	Liz	liz	PROPN		noun.person
+22	Carlyle	carlyle	PROPN		noun.person
+23	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 29
+# text =  Min påstand er, at vi også har uskylden, som man også kan reagere på.
+1	Min	min	DET		
+2	påstand	påstand	NOUN		noun.communication
+3	er	være	VERB		verb.stative
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	vi	vi	PRON		
+7	også	også	ADV		
+8	har	have	AUX		verb.possession
+9	uskylden	uskyld	NOUN		noun.attribute
+10	,	,	PUNCT		
+11	som	som	PRON		
+12	man	man	PRON		
+13	også	også	ADV		
+14	kan	kunne	AUX		
+15	reagere	reagere	VERB		verb.cognition
+16	på	på	ADP		
+17	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 30
+# text =  Som Krarup skriver:
+1	Som	som	ADP		
+2	Krarup	krarup	PROPN		noun.person
+3	skriver	skrive	VERB		verb.communication
+4	:	:	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 31
+# text =  Ritzau.
+1	Ritzau	ritzau	PROPN		
+2	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 32
+# text =  Carina Christensen forklarer, at Danmarks Radio i år 2000 indgik en otteårig kontrakt om" den fjerde FM- kanal".
+1	Carina	carina	PROPN		noun.person
+2	Christensen	christensen	PROPN		noun.person
+3	forklarer	forklare	VERB		verb.communication
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	Danmarks	danmarks	PROPN		noun.person
+7	Radio	radio	NOUN		noun.person
+8	i	i	ADP		
+9	år	år	NOUN		noun.time
+10	2000	2000	NUM		noun.time
+11	indgik	indgå	VERB		verb.social
+12	en	en	DET		
+13	otteårig	otteårig	ADJ		adj.time
+14	kontrakt	kontrakt	NOUN		noun.communication
+15	om	om	ADP		
+16	"	"	PUNCT		
+17	den	den	DET		
+18	fjerde	fjerde	ADJ		
+19	FM	fm	PROPN		noun.communication
+20	-	-	PUNCT		noun.communication
+21	kanal	kanal	NOUN		noun.communication
+22	"	"	PUNCT		
+23	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 33
+# text =  Forældre må skære igennem og vælge, hvem der skal have lov, og hvor der skal holdes igen", opfordrer hun.
+1	Forældre	forældre	NOUN		noun.person
+2	må	måtte	AUX		
+3	skære	skære	VERB		verb.communication
+4	igennem	igennem	ADV		verb.PARTICLE
+5	og	og	CCONJ		
+6	vælge	vælge	VERB		verb.cognition
+7	,	,	PUNCT		
+8	hvem	hvem	PRON		
+9	der	der	ADV		
+10	skal	skulle	AUX		
+11	have	have	VERB		verb.cognition
+12	lov	lov	NOUN		noun.cognition
+13	,	,	PUNCT		
+14	og	og	CCONJ		
+15	hvor	hvor	ADV		
+16	der	der	ADV		
+17	skal	skulle	AUX		
+18	holdes	holde	VERB		verb.act
+19	igen	igen	ADV		verb.PARTICLE
+20	"	"	PUNCT		
+21	,	,	PUNCT		
+22	opfordrer	opfordre	VERB		verb.communication
+23	hun	hun	PRON		
+24	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 34
+# text =  For bare et par dage siden lavede vi sjov med, at hun havde en dusør på 300. 000 rupier ( cirka 21. 000 kroner) på sit hoved", siger en af hendes venner til den engelske avis The Guardian.
+1	For	for	ADP		
+2	bare	bare	ADV		
+3	et	en	DET		
+4	par	par	NOUN		noun.quantity
+5	dage	dag	NOUN		noun.time
+6	siden	siden	ADV		
+7	lavede	lave	VERB		verb.communication
+8	vi	vi	PRON		
+9	sjov	sjov	VERB		noun.abstract
+10	med	med	ADP		
+11	,	,	PUNCT		
+12	at	at	SCONJ		
+13	hun	hun	PRON		
+14	havde	have	VERB		verb.stative
+15	en	en	DET		
+16	dusør	dusør	NOUN		noun.possession
+17	på	på	ADP		
+18	300	300	NUM		
+19	.	.	PUNCT		
+20	000	000	NUM		
+21	rupier	rupi	NOUN		noun.quantity
+22	(	(	PUNCT		
+23	cirka	cirka	ADV		
+24	21	21	ADV		
+25	.	.	PUNCT		
+26	000	000	NUM		
+27	kroner	krone	NOUN		noun.quantity
+28	)	)	PUNCT		
+29	på	på	ADP		
+30	sit	sin	DET		
+31	hoved	hoved	NOUN		noun.body
+32	"	"	PUNCT		
+33	,	,	PUNCT		
+34	siger	sige	VERB		verb.communication
+35	en	en	PRON		
+36	af	af	ADP		
+37	hendes	hendes	DET		
+38	venner	ven	NOUN		noun.person
+39	til	til	ADP		
+40	den	den	DET		
+41	engelske	engelsk	ADJ		adj.social
+42	avis	avis	NOUN		noun.person
+43	The	the	PROPN		noun.person
+44	Guardian	guardian	PROPN		noun.person
+45	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 35
+# text =  HVIS TO mænd eller to kvinder elsker hinanden og ønsker at blive gift på rådhuset, må ordet' ægtefolk' ikke udtales i officielt øjemed.
+1	HVIS	hvis	SCONJ		
+2	TO	to	DET		
+3	mænd	mand	NOUN		noun.person
+4	eller	eller	CCONJ		
+5	to	to	NUM		
+6	kvinder	kvinde	NOUN		noun.person
+7	elsker	elske	VERB		verb.emotion
+8	hinanden	hinanden	PRON		
+9	og	og	CCONJ		
+10	ønsker	ønske	VERB		noun.cognition
+11	at	at	PART		
+12	blive	blive	AUX		
+13	gift	gift	ADJ		adj.social
+14	på	på	ADP		
+15	rådhuset	rådhus	NOUN		noun.building
+16	,	,	PUNCT		
+17	må	måtte	AUX		
+18	ordet	ord	NOUN		noun.communication
+19	'	'	PUNCT		
+20	ægtefolk	ægtefolk	NOUN		noun.person
+21	'	'	PUNCT		
+22	ikke	ikke	ADV		
+23	udtales	udtale	VERB		verb.communication
+24	i	i	ADP		
+25	officielt	officiel	ADJ		adj.social
+26	øjemed	øjemed	NOUN		noun.motive
+27	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 36
+# text =  Første hverdag gav det nye togselskab på Kystbanen mellem Helsingør og København, DSBFirst, store problemer.
+1	Første	først	ADJ		adj.time
+2	hverdag	hverdag	NOUN		noun.time
+3	gav	give	VERB		verb.creation
+4	det	det	DET		
+5	nye	ny	ADJ		adj.time
+6	togselskab	togselskab	NOUN		noun.institution
+7	på	på	ADP		
+8	Kystbanen	kystbane	NOUN		noun.artifact
+9	mellem	mellem	ADP		
+10	Helsingør	helsingør	PROPN		noun.location
+11	og	og	CCONJ		
+12	København	københavn	PROPN		noun.location
+13	,	,	PUNCT		
+14	DSBFirst	dsbfirst	NOUN		noun.institution
+15	,	,	PUNCT		
+16	store	stor	ADJ		adj.all
+17	problemer	problem	NOUN		noun.cognition
+18	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 37
+# text =  reuters.
+1	reuters	reut	NOUN		
+2	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 38
+# text =  Tilsyneladende havde journalisterne ikke researchet særlig grundigt, for i avisartikler, reklamer og magasiner vekslede udsagnene imellem, at kaffelortene blev leveret af kat, mår, desmerdyr, desmerkat, palmeruller, luwak, civet og civet cat.
+1	Tilsyneladende	tilsyneladende	ADV		
+2	havde	have	AUX		
+3	journalisterne	journalist	NOUN		noun.person
+4	ikke	ikke	ADV		
+5	researchet	researche	VERB		verb.act
+6	særlig	særlig	ADV		
+7	grundigt	grundig	ADV		
+8	,	,	PUNCT		
+9	for	for	CCONJ		
+10	i	i	ADP		
+11	avisartikler	avisartikel	NOUN		noun.communication
+12	,	,	PUNCT		
+13	reklamer	reklame	NOUN		noun.communication
+14	og	og	CCONJ		
+15	magasiner	magasin	NOUN		noun.communication
+16	vekslede	veksle	VERB		verb.change
+17	udsagnene	udsagn	NOUN		noun.communication
+18	imellem	imellem	ADP		
+19	,	,	PUNCT		
+20	at	at	SCONJ		
+21	kaffelortene	kaffelort	NOUN		noun.substance
+22	blev	blive	AUX		
+23	leveret	levere	VERB		verb.creation
+24	af	af	ADP		
+25	kat	kat	NOUN		noun.animal
+26	,	,	PUNCT		
+27	mår	mår	NOUN		noun.animal
+28	,	,	PUNCT		
+29	desmerdyr	desmerdyr	NOUN		noun.animal
+30	,	,	PUNCT		
+31	desmerkat	desmerkat	NOUN		noun.animal
+32	,	,	PUNCT		
+33	palmeruller	palmerul	NOUN		noun.animal
+34	,	,	PUNCT		
+35	luwak	luwak	NOUN		noun.animal
+36	,	,	PUNCT		
+37	civet	civ	NOUN		noun.animal
+38	og	og	CCONJ		
+39	civet	civ	ADJ		noun.animal
+40	cat	cat	NOUN		noun.animal
+41	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 39
+# text =  Og store bistecche, der nonchalant udskæres af hele højreb lige ved spisesalen.
+1	Og	og	CCONJ		
+2	store	stor	ADJ		adj.phys
+3	bistecche	bistecch	NOUN		noun.food
+4	,	,	PUNCT		
+5	der	der	PRON		
+6	nonchalant	nonchalant	NOUN		
+7	udskæres	udskære	VERB		verb.contact
+8	af	af	ADP		
+9	hele	hel	ADJ		adj.phys
+10	højreb	højreb	NOUN		noun.food
+11	lige	lige	ADV		
+12	ved	ved	ADP		
+13	spisesalen	spisesal	NOUN		noun.building
+14	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 40
+# text =  En undersøgelse viser, at 77 procent af de danske internetbrugere aldrig har downloadet copyrightbeskyttet film eller musik.
+1	En	en	DET		
+2	undersøgelse	undersøgelse	NOUN		noun.act
+3	viser	visere	VERB		verb.communication
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	77	77	NUM		
+7	procent	procent	NOUN		noun.quantity
+8	af	af	ADP		
+9	de	den	DET		
+10	danske	dansk	ADJ		adj.social
+11	internetbrugere	internetbruger	NOUN		noun.person
+12	aldrig	aldrig	ADV		
+13	har	have	AUX		
+14	downloadet	downloade	VERB		verb.possession
+15	copyrightbeskyttet	copyrightbeskyt	NOUN		adj.social
+16	film	film	NOUN		noun.communication
+17	eller	eller	CCONJ		
+18	musik	musik	NOUN		noun.communication
+19	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 41
+# text =  Politiken i Gaza
+1	Politiken	politik	NOUN		noun.person
+2	i	i	ADP		
+3	Gaza	gaza	PROPN		noun.location
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 42
+# text =  Vokset op i Sverige, men ikke svensk, med en mor, som mente, fortiden bedst var glemt.
+1	Vokset	vokse	VERB		verb.social
+2	op	op	ADV		verb.PARTICLE
+3	i	i	ADP		
+4	Sverige	sverige	PROPN		noun.location
+5	,	,	PUNCT		
+6	men	men	CCONJ		
+7	ikke	ikke	ADV		
+8	svensk	svensk	NOUN		adj.social
+9	,	,	PUNCT		
+10	med	med	ADP		
+11	en	en	DET		
+12	mor	mor	NOUN		noun.person
+13	,	,	PUNCT		
+14	som	som	PRON		
+15	mente	mene	VERB		verb.cognition
+16	,	,	PUNCT		
+17	fortiden	fortid	NOUN		noun.time
+18	bedst	god	ADV		
+19	var	være	AUX		verb.stative
+20	glemt	glemme	VERB		verb.cognition
+21	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 43
+# text =  Repræsentanternes Hus har godkendt en anden version, så nu skal Kongressens to kamre enes om et kompromis.
+1	Repræsentanternes	repræsentant	DET		noun.person
+2	Hus	hus	NOUN		noun.person
+3	har	have	AUX		
+4	godkendt	godkende	VERB		verb.communication
+5	en	en	DET		
+6	anden	anden	DET		
+7	version	version	NOUN		noun.communication
+8	,	,	PUNCT		
+9	så	så	SCONJ		
+10	nu	nu	ADV		
+11	skal	skulle	AUX		
+12	Kongressens	kongres	VERB		noun.institution
+13	to	to	NUM		
+14	kamre	kammer	NOUN		noun.person
+15	enes	enes	ADV		verb.communication
+16	om	om	ADP		
+17	et	en	DET		
+18	kompromis	kompromis	NOUN		noun.communication
+19	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 44
+# text =  Side4- 5.
+1	Side	side	NOUN		
+2	4	4	PUNCT		
+3	-	-	PUNCT		
+4	5	5	PRON		
+5	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 45
+# text = " De andre angribere har været bedre på træningsbanen og lavet mål i de foregående kampe.
+1	"	"	PUNCT		
+2	De	den	DET		
+3	andre	anden	DET		
+4	angribere	angriber	NOUN		noun.person
+5	har	have	AUX		
+6	været	være	AUX		verb.stative
+7	bedre	god	ADJ		adj.all
+8	på	på	ADP		
+9	træningsbanen	træningsbane	NOUN		noun.location
+10	og	og	CCONJ		
+11	lavet	lave	VERB		verb.creation
+12	mål	mål	NOUN		noun.act
+13	i	i	ADP		
+14	de	den	DET		
+15	foregående	foregående	ADJ		adj.time
+16	kampe	kamp	NOUN		noun.act
+17	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 46
+# text =  Det er godt for bierne og det danske drikkevand, fint for forbrugerne, men ikke optimalt for landmændene.
+1	Det	det	PRON		
+2	er	være	AUX		
+3	godt	godte	ADV		adj.all
+4	for	for	ADP		
+5	bierne	bi	NOUN		noun.animal
+6	og	og	CCONJ		
+7	det	det	DET		
+8	danske	dansk	ADJ		adj.all
+9	drikkevand	drikkevand	NOUN		noun.food
+10	,	,	PUNCT		
+11	fint	fin	ADJ		adj.all
+12	for	for	ADP		
+13	forbrugerne	forbruger	NOUN		noun.person
+14	,	,	PUNCT		
+15	men	men	CCONJ		
+16	ikke	ikke	ADV		
+17	optimalt	optimal	ADJ		adj.all
+18	for	for	ADP		
+19	landmændene	landmand	NOUN		noun.person
+20	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 47
+# text =  Endelig afslørede Carlsbergs ledelse, at der er planer om et storstilet opstød i Rusland, hvilket gjorde stemningen på fondsbørsen endnu bedre.
+1	Endelig	endelig	ADV		
+2	afslørede	afsløre	VERB		verb.communication
+3	Carlsbergs	carlsbergs	PROPN		noun.institution
+4	ledelse	ledelse	NOUN		noun.person
+5	,	,	PUNCT		
+6	at	at	SCONJ		
+7	der	der	ADV		
+8	er	være	VERB		verb.stative
+9	planer	plan	NOUN		noun.cognition
+10	om	om	ADP		
+11	et	en	DET		
+12	storstilet	storstilet	ADJ		adj.all
+13	opstød	opstød	NOUN		noun.act
+14	i	i	ADP		
+15	Rusland	rusland	PROPN		noun.location
+16	,	,	PUNCT		
+17	hvilket	hvilken	PRON		
+18	gjorde	gøre	VERB		verb.change
+19	stemningen	stemning	NOUN		noun.state
+20	på	på	ADP		
+21	fondsbørsen	fondsbørs	NOUN		noun.institution
+22	endnu	endnu	ADV		
+23	bedre	god	ADJ		adj.all
+24	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 48
+# text =  For amerikanerne står Tyrkiet som beviset på, at den muslimske verden kan være såvel demokratisk som muslimsk Erik Boel, højskoleforstander, i Kristeligt Dagblad.
+1	For	for	ADP		
+2	amerikanerne	amerikaner	NOUN		noun.person
+3	står	stå	VERB		verb.stative
+4	Tyrkiet	tyrkiet	NOUN		noun.institution
+5	som	som	ADP		
+6	beviset	bevis	NOUN		noun.cognition
+7	på	på	ADP		
+8	,	,	PUNCT		
+9	at	at	SCONJ		
+10	den	den	DET		
+11	muslimske	muslimsk	ADJ		adj.social
+12	verden	verden	NOUN		noun.institution
+13	kan	kunne	AUX		
+14	være	være	AUX		verb.stative
+15	såvel	såvel	ADV		
+16	demokratisk	demokratisk	ADJ		adj.social
+17	som	som	ADP		
+18	muslimsk	muslimsk	ADJ		adj.social
+19	Erik	erik	PROPN		noun.person
+20	Boel	boel	PROPN		noun.person
+21	,	,	PUNCT		
+22	højskoleforstander	højskoleforstander	NOUN		noun.person
+23	,	,	PUNCT		
+24	i	i	ADP		
+25	Kristeligt	kristelig	ADJ		noun.communication
+26	Dagblad	dagblad	NOUN		noun.communication
+27	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 49
+# text =  Til nød Thustrup Hansen.
+1	Til	til	ADP		
+2	nød	nød	NOUN		
+3	Thustrup	thustrup	PROPN		noun.person
+4	Hansen	hansen	PROPN		noun.person
+5	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 50
+# text =  308 børn født i udlandet blev adopteret i Danmark i 2008.
+1	308	308	NUM		
+2	børn	barn	NOUN		noun.person
+3	født	føde	VERB		verb.act
+4	i	i	ADP		
+5	udlandet	udland	NOUN		noun.location
+6	blev	blive	AUX		
+7	adopteret	adoptere	VERB		verb.social
+8	i	i	ADP		
+9	Danmark	danmark	PROPN		noun.location
+10	i	i	ADP		
+11	2008	2008	NUM		noun.time
+12	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 51
+# text =  Det er da fint nok, men skulle vi ikke- i Europa og i Danmark- hellere bruge tid på det, der betyder noget.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	da	da	ADV		
+4	fint	fin	ADJ		adj.all
+5	nok	nok	ADV		
+6	,	,	PUNCT		
+7	men	men	CCONJ		
+8	skulle	skulle	AUX		verb.social
+9	vi	vi	PRON		
+10	ikke	ikke	ADV		
+11	-	-	PUNCT		
+12	i	i	ADP		
+13	Europa	europa	PROPN		noun.location
+14	og	og	CCONJ		
+15	i	i	ADP		
+16	Danmark	danmark	PROPN		noun.location
+17	-	-	PUNCT		
+18	hellere	hellere	ADV		
+19	bruge	bruge	VERB		verb.act
+20	tid	tid	NOUN		noun.time
+21	på	på	ADP		
+22	det	det	PRON		
+23	,	,	PUNCT		
+24	der	der	PRON		
+25	betyder	betyde	VERB		verb.stative
+26	noget	nogen	PRON		
+27	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 52
+# text =  Herfra kan forældrene bestemme, hvor avanceret mobilen skal være, for den kan forsimples udi det ekstreme.
+1	Herfra	herfra	ADV		
+2	kan	kunne	AUX		
+3	forældrene	forældre	NOUN		noun.person
+4	bestemme	bestemme	VERB		verb.cognition
+5	,	,	PUNCT		
+6	hvor	hvor	ADV		
+7	avanceret	avanceret	ADJ		adj.all
+8	mobilen	mobile	NOUN		noun.artifact
+9	skal	skulle	AUX		
+10	være	være	VERB		verb.stative
+11	,	,	PUNCT		
+12	for	for	CCONJ		
+13	den	den	PRON		
+14	kan	kunne	AUX		
+15	forsimples	forsimple	VERB		verb.change
+16	udi	udi	ADP		
+17	det	det	DET		
+18	ekstreme	ekstrem	ADJ		adj.all
+19	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 53
+# text =  For jeg er sikker på, at det vil være 100 procent effektivt.
+1	For	for	ADP		
+2	jeg	jeg	PRON		
+3	er	være	AUX		verb.stative
+4	sikker	sikker	ADJ		adj.mental
+5	på	på	ADP		
+6	,	,	PUNCT		
+7	at	at	SCONJ		
+8	det	det	PRON		
+9	vil	ville	AUX		
+10	være	være	AUX		verb.stative
+11	100	100	NUM		
+12	procent	procent	NOUN		noun.quantity
+13	effektivt	effektiv	ADJ		adj.all
+14	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 54
+# text =  *
+1	*	*	SYM		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 55
+# text =  Flere af dem reagerede voldsomt.
+1	Flere	flere	ADJ		
+2	af	af	ADP		
+3	dem	de	PRON		
+4	reagerede	reagere	VERB		verb.cognition
+5	voldsomt	voldsom	ADV		
+6	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 56
+# text =  Se nu bare sprayen til venstre, som Christian Holm Donatzky har fotograferet på Tenerife.
+1	Se	se	VERB		verb.perception
+2	nu	nu	ADV		
+3	bare	bare	ADV		
+4	sprayen	spray	NOUN		noun.artifact
+5	til	til	ADP		
+6	venstre	venstre	NOUN		noun.location
+7	,	,	PUNCT		
+8	som	som	ADP		
+9	Christian	christian	PROPN		noun.person
+10	Holm	holm	PROPN		noun.person
+11	Donatzky	donatzky	PROPN		noun.person
+12	har	have	AUX		
+13	fotograferet	fotografere	VERB		verb.act
+14	på	på	ADP		
+15	Tenerife	tenerife	PROPN		noun.location
+16	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 57
+# text =  Ifølge opgørelsen på driverdb. com er næstbedste dansker veteranen John Nielsen med 64 sejre, mens den ottedobbelte Le Mans- vinder Tom Kristensen er noteret for 44 sejre i karrieren.
+1	Ifølge	ifølge	ADP		
+2	opgørelsen	opgørelse	NOUN		noun.communication
+3	på	på	ADP		
+4	driverdb	driverdb	NOUN		noun.communication
+5	.	.	PUNCT		noun.communication
+6	com	com	NOUN		noun.communication
+7	er	være	AUX		verb.stative
+8	næstbedste	næstbedst	ADJ		adj.all
+9	dansker	dansker	NOUN		noun.person
+10	veteranen	veteran	NOUN		noun.person
+11	John	john	PROPN		noun.person
+12	Nielsen	nielsen	PROPN		noun.person
+13	med	med	ADP		
+14	64	64	ADJ		
+15	sejre	sejr	NOUN		noun.event
+16	,	,	PUNCT		
+17	mens	mens	SCONJ		
+18	den	den	DET		
+19	ottedobbelte	ottedobbelt	ADJ		adj.all
+20	Le	le	PROPN		noun.person
+21	Mans	mans	PROPN		noun.person
+22	-	-	PUNCT		noun.person
+23	vinder	vinde	VERB		noun.person
+24	Tom	tom	PROPN		noun.person
+25	Kristensen	kristensen	PROPN		noun.person
+26	er	være	AUX		
+27	noteret	notere	VERB		verb.communication
+28	for	for	ADP		
+29	44	44	ADJ		
+30	sejre	sejr	NOUN		noun.event
+31	i	i	ADP		
+32	karrieren	karriere	NOUN		noun.time
+33	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 58
+# text = " Tjaehh... bumbum".
+1	"	"	PUNCT		
+2	Tjaehh	tjaehh	PROPN		
+3	.	.	PUNCT		
+4	.	.	PUNCT		
+5	.	.	PUNCT		
+6	bumbum	bumbum	NOUN		
+7	"	"	PUNCT		
+8	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 59
+# text =  Kusken Tor Wollebek gav sig selv skylden for, at det ikke blev ti på stribe.
+1	Kusken	kusk	NOUN		noun.person
+2	Tor	tor	PROPN		noun.person
+3	Wollebek	wollebek	PROPN		noun.person
+4	gav	give	VERB		verb.communication
+5	sig	sig	PRON		
+6	selv	selv	PRON		
+7	skylden	skyld	NOUN		noun.cognition
+8	for	for	ADP		
+9	,	,	PUNCT		
+10	at	at	SCONJ		
+11	det	det	PRON		
+12	ikke	ikke	ADV		
+13	blev	blive	AUX		verb.stative
+14	ti	tie	VERB		
+15	på	på	ADP		
+16	stribe	stribe	NOUN		noun.time
+17	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 60
+# text =  skovdrift og brændefyring.
+1	skovdrift	skovdrift	NOUN		noun.act
+2	og	og	CCONJ		
+3	brændefyring	brændefyring	NOUN		noun.act
+4	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 61
+# text =  Når man læser en økonom som Joseph Stiglitz, som tilligemed både er nobelprismodtager, og som har arbejdet på højeste politiske niveau under Clinton- regeringen i USA og efterfølgende som cheføkonom i Verdensbanken, så må man erkende, at der er visse økonomer, man må have dyb respekt for.
+1	Når	når	SCONJ		
+2	man	man	PRON		
+3	læser	læse	VERB		verb.cognition
+4	en	en	DET		
+5	økonom	økonom	NOUN		noun.person
+6	som	som	ADP		
+7	Joseph	joseph	PROPN		noun.person
+8	Stiglitz	stiglitz	PROPN		noun.person
+9	,	,	PUNCT		
+10	som	som	PRON		
+11	tilligemed	tilligemed	VERB		
+12	både	både	ADV		
+13	er	være	AUX		verb.stative
+14	nobelprismodtager	nobelprismodtag	NOUN		noun.person
+15	,	,	PUNCT		
+16	og	og	CCONJ		
+17	som	som	PRON		
+18	har	have	AUX		
+19	arbejdet	arbejde	VERB		verb.social
+20	på	på	ADP		
+21	højeste	høj	ADJ		adj.all
+22	politiske	politisk	ADJ		adj.social
+23	niveau	niveau	NOUN		noun.relation
+24	under	under	ADP		
+25	Clinton	clinton	PROPN		noun.event
+26	-	-	PUNCT		noun.event
+27	regeringen	regering	NOUN		noun.event
+28	i	i	ADP		
+29	USA	usa	PROPN		noun.location
+30	og	og	CCONJ		
+31	efterfølgende	efterfølge	ADV		
+32	som	som	ADP		
+33	cheføkonom	cheføkonom	NOUN		noun.person
+34	i	i	ADP		
+35	Verdensbanken	verdensbank	NOUN		noun.institution
+36	,	,	PUNCT		
+37	så	så	ADV		
+38	må	måtte	AUX		
+39	man	man	PRON		
+40	erkende	erkende	VERB		verb.cognition
+41	,	,	PUNCT		
+42	at	at	SCONJ		
+43	der	der	ADV		
+44	er	være	AUX		verb.stative
+45	visse	vis	ADJ		
+46	økonomer	økonom	NOUN		noun.person
+47	,	,	PUNCT		
+48	man	man	PRON		
+49	må	måtte	AUX		verb.emotion
+50	have	have	VERB		verb.cognition
+51	dyb	dyb	ADJ		adj.all
+52	respekt	respekt	NOUN		noun.feeling
+53	for	for	ADP		
+54	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 62
+# text =  Den engelske grafittikunstner James Jessop har succes- og nu også sin første danske separatudstilling.
+1	Den	den	DET		
+2	engelske	engelsk	ADJ		adj.social
+3	grafittikunstner	grafittikunstn	NOUN		noun.person
+4	James	james	PROPN		noun.person
+5	Jessop	jessop	PROPN		noun.person
+6	har	have	AUX		verb.social
+7	succes	succes	NOUN		noun.cognition
+8	-	-	PUNCT		
+9	og	og	CCONJ		
+10	nu	nu	ADV		
+11	også	også	ADV		
+12	sin	sin	DET		
+13	første	først	ADJ		adj.all
+14	danske	dansk	ADJ		adj.social
+15	separatudstilling	separatudstilling	NOUN		noun.event
+16	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 63
+# text =  Udstilling om antisemitismens historiske udbredelse i danske medier viser nogle af de mørkeste sider af dansk pressehistorie.
+1	Udstilling	udstilling	NOUN		noun.act
+2	om	om	ADP		
+3	antisemitismens	antisemitisme	NOUN		noun.cognition
+4	historiske	historisk	ADJ		adj.social
+5	udbredelse	udbredelse	NOUN		noun.event
+6	i	i	ADP		
+7	danske	dansk	ADJ		adj.social
+8	medier	medium	NOUN		noun.communication
+9	viser	visere	VERB		verb.social
+10	nogle	nogen	PRON		
+11	af	af	ADP		
+12	de	den	DET		
+13	mørkeste	mørk	ADJ		adj.all
+14	sider	side	NOUN		noun.relation
+15	af	af	ADP		
+16	dansk	dansk	ADJ		adj.social
+17	pressehistorie	pressehistorie	NOUN		noun.time
+18	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 64
+# text =  lars. dahlager@pol. dk
+1	lars	lar	NOUN		
+2	.	.	PUNCT		
+3	dahlager@pol	dahlager@pol	NOUN		
+4	.	.	PUNCT		
+5	dk	dk	NOUN		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 65
+# text =  Formålet er at redde den danske eksport af kyllinger til Mellemøsten.
+1	Formålet	formål	NOUN		noun.motive
+2	er	være	VERB		verb.stative
+3	at	at	PART		
+4	redde	redde	VERB		verb.social
+5	den	den	DET		
+6	danske	dansk	ADJ		adj.social
+7	eksport	eksport	NOUN		noun.possession
+8	af	af	ADP		
+9	kyllinger	kylling	NOUN		noun.food
+10	til	til	ADP		
+11	Mellemøsten	mellemøsten	PROPN		noun.location
+12	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 66
+# text =  En overordnet liste over forbudte stumpe genstande, som indirekte kan omfatte tennisketsjere, har godt nok eksisteret i sin nuværende form siden 2004.
+1	En	en	DET		
+2	overordnet	overordnet	VERB		adj.all
+3	liste	liste	NOUN		noun.artifact
+4	over	over	ADP		
+5	forbudte	forbyde	ADJ		adj.social
+6	stumpe	stumpe	NOUN		adj.phys
+7	genstande	genstand	VERB		noun.artifact
+8	,	,	PUNCT		
+9	som	som	PRON		
+10	indirekte	indirekte	ADV		
+11	kan	kunne	AUX		
+12	omfatte	omfatte	VERB		verb.stative
+13	tennisketsjere	tennisketsjer	NOUN		noun.artifact
+14	,	,	PUNCT		
+15	har	have	AUX		
+16	godt	godte	ADV		
+17	nok	nok	ADV		
+18	eksisteret	eksistere	VERB		verb.stative
+19	i	i	ADP		
+20	sin	sin	DET		
+21	nuværende	nuværende	ADJ		adj.time
+22	form	form	NOUN		noun.cognition
+23	siden	siden	ADP		
+24	2004	2004	NUM		noun.time
+25	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 67
+# text =  har fundet inspiration i de kinesiske folkeparker, hvor kropstræning er udbredt.
+1	har	have	AUX		
+2	fundet	finde	VERB		verb.cognition
+3	inspiration	inspiration	NOUN		noun.cognition
+4	i	i	ADP		
+5	de	den	DET		
+6	kinesiske	kinesisk	ADJ		adj.social
+7	folkeparker	folkepark	NOUN		noun.location
+8	,	,	PUNCT		
+9	hvor	hvor	ADV		
+10	kropstræning	kropstræning	NOUN		noun.act
+11	er	være	AUX		
+12	udbredt	udbrede	VERB		adj.all
+13	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 68
+# text =  Den roste temaudstilling Swingtime:
+1	Den	den	DET		
+2	roste	rose	VERB		adj.social
+3	temaudstilling	temaudstilling	NOUN		noun.event
+4	Swingtime	swingtime	PROPN		noun.event
+5	:	:	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 69
+# text =  Fordi man kunne høre, at der ikke blev spillet på rygraden, eller altid fuldstændig perfekt, blev det særlig klart hvor meget man egentlig kan høre, og hvor meget musikerne her kan orientere sig i forhold til hinanden.
+1	Fordi	fordi	SCONJ		
+2	man	man	PRON		
+3	kunne	kunne	AUX		
+4	høre	høre	VERB		verb.perception
+5	,	,	PUNCT		
+6	at	at	SCONJ		
+7	der	der	ADV		
+8	ikke	ikke	ADV		
+9	blev	blive	AUX		
+10	spillet	spille	VERB		verb.communication
+11	på	på	ADP		
+12	rygraden	rygrad	NOUN		noun.cognition
+13	,	,	PUNCT		
+14	eller	eller	CCONJ		
+15	altid	altid	ADV		
+16	fuldstændig	fuldstændig	ADV		
+17	perfekt	perfekt	ADJ		adj.all
+18	,	,	PUNCT		
+19	blev	blive	AUX		
+20	det	det	PRON		
+21	særlig	særlig	ADV		
+22	klart	klar	ADV		adj.all
+23	hvor	hvor	ADV		
+24	meget	megen	ADV		
+25	man	man	PRON		
+26	egentlig	egentlig	ADV		
+27	kan	kunne	AUX		
+28	høre	høre	VERB		verb.perception
+29	,	,	PUNCT		
+30	og	og	CCONJ		
+31	hvor	hvor	ADV		
+32	meget	megen	ADJ		
+33	musikerne	musiker	NOUN		noun.person
+34	her	her	ADV		
+35	kan	kunne	AUX		
+36	orientere	orientere	VERB		verb.communication
+37	sig	sig	PRON		
+38	i	i	ADP		
+39	forhold	forhold	NOUN		
+40	til	til	ADP		
+41	hinanden	hinanden	PRON		
+42	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 70
+# text =  REGERINGEN OG DF har fået 25. 000 flere indvandrere i job, men desværre bliver indsatsen dagligt saboteret af de store socialdemokratiske kommuner, der behandler muslimske indvandrere som ofre og betaler dem for at sygne hen i ghettoerne til uendelig skade for integrationen.
+1	REGERINGEN	regering	NOUN		noun.person
+2	OG	og	CCONJ		
+3	DF	df	PROPN		noun.person
+4	har	have	AUX		
+5	fået	få	VERB		verb.act
+6	25	25	NUM		
+7	.	.	PUNCT		
+8	000	000	NUM		
+9	flere	flere	ADJ		
+10	indvandrere	indvandrer	NOUN		noun.person
+11	i	i	ADP		
+12	job	job	NOUN		noun.act
+13	,	,	PUNCT		
+14	men	men	CCONJ		
+15	desværre	desværre	ADV		
+16	bliver	blive	AUX		
+17	indsatsen	indsats	NOUN		noun.act
+18	dagligt	daglig	ADV		adj.time
+19	saboteret	sabotere	VERB		verb.creation
+20	af	af	ADP		
+21	de	den	DET		
+22	store	stor	ADJ		adj.all
+23	socialdemokratiske	socialdemokratisk	ADJ		adj.social
+24	kommuner	kommune	NOUN		noun.person
+25	,	,	PUNCT		
+26	der	der	PRON		
+27	behandler	behandle	VERB		verb.social
+28	muslimske	muslimsk	ADJ		adj.social
+29	indvandrere	indvandrer	NOUN		noun.person
+30	som	som	ADP		
+31	ofre	offer	NOUN		noun.person
+32	og	og	CCONJ		
+33	betaler	betale	VERB		verb.possession
+34	dem	de	PRON		
+35	for	for	ADP		
+36	at	at	PART		
+37	sygne	sygne	VERB		verb.change
+38	hen	hen	ADV		verb.PARTICLE
+39	i	i	ADP		
+40	ghettoerne	ghetto	NOUN		noun.location
+41	til	til	ADP		
+42	uendelig	uendelig	ADJ		adj.all
+43	skade	skade	NOUN		noun.act
+44	for	for	ADP		
+45	integrationen	integration	NOUN		noun.cognition
+46	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 71
+# text =  Det var den måske allermest kulturelle nation i Europa med en blomstrende filmindustri, en åben presse og en lang historie for tolerance.
+1	Det	det	PRON		
+2	var	være	AUX		verb.stative
+3	den	den	PRON		
+4	måske	måske	ADV		
+5	allermest	allermest	ADV		
+6	kulturelle	kulturel	ADJ		adj.social
+7	nation	nation	NOUN		noun.institution
+8	i	i	ADP		
+9	Europa	europa	PROPN		noun.location
+10	med	med	ADP		
+11	en	en	DET		
+12	blomstrende	blomstre	ADJ		adj.all
+13	filmindustri	filmindustri	NOUN		noun.institution
+14	,	,	PUNCT		
+15	en	en	DET		
+16	åben	åben	ADJ		adj.social
+17	presse	presse	NOUN		noun.communication
+18	og	og	CCONJ		
+19	en	en	DET		
+20	lang	lang	ADJ		adj.time
+21	historie	historie	NOUN		noun.time
+22	for	for	ADP		
+23	tolerance	tolerance	NOUN		noun.cognition
+24	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 72
+# text =  LUFTDRAMA.
+1	LUFTDRAMA	luftdrama	NOUN		
+2	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 73
+# text =  Tom Wilkinson og Kirsten Dunst sekunderer fint vore to hovedpersoner i denne kalejdoskopiske og drilske film, som nok ikke er alles kop te.
+1	Tom	tom	PROPN		noun.person
+2	Wilkinson	wilkinson	PROPN		noun.person
+3	og	og	CCONJ		
+4	Kirsten	kirsten	PROPN		noun.person
+5	Dunst	dunst	PROPN		noun.person
+6	sekunderer	sekundere	NOUN		verb.cognition
+7	fint	finte	ADV		
+8	vore	vor	DET		
+9	to	to	ADJ		
+10	hovedpersoner	hovedperson	NOUN		noun.person
+11	i	i	ADP		
+12	denne	denne	DET		
+13	kalejdoskopiske	kalejdoskopisk	NOUN		adj.all
+14	og	og	CCONJ		
+15	drilske	drilsk	ADJ		adj.all
+16	film	film	NOUN		noun.communication
+17	,	,	PUNCT		
+18	som	som	PRON		
+19	nok	nok	ADV		
+20	ikke	ikke	ADV		
+21	er	være	AUX		verb.stative
+22	alles	alle	ADJ		
+23	kop	kop	NOUN		noun.feeling
+24	te	te	NOUN		noun.feeling
+25	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 74
+# text =  Ellers har vi ikke gjort vores arbejde godt nok".
+1	Ellers	ellers	ADV		
+2	har	have	AUX		
+3	vi	vi	PRON		
+4	ikke	ikke	ADV		
+5	gjort	gøre	VERB		verb.act
+6	vores	vores	DET		
+7	arbejde	arbejde	NOUN		noun.act
+8	godt	godte	ADV		
+9	nok	nok	ADV		
+10	"	"	PUNCT		
+11	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 75
+# text =  Han endte med at polere lyden en del, og Nirvana sagde senere, at de ikke kunne fordrage mikset, selv om de angiveligt var begejstrede nok, første gang de hørte det.
+1	Han	han	PRON		
+2	endte	ende	VERB		
+3	med	med	ADP		
+4	at	at	PART		
+5	polere	polere	VERB		verb.change
+6	lyden	lyde	NOUN		noun.communication
+7	en	en	DET		
+8	del	del	NOUN		
+9	,	,	PUNCT		
+10	og	og	CCONJ		
+11	Nirvana	nirvana	PROPN		noun.person
+12	sagde	sige	VERB		verb.communication
+13	senere	sen	ADV		adj.time
+14	,	,	PUNCT		
+15	at	at	SCONJ		
+16	de	den	PRON		
+17	ikke	ikke	ADV		
+18	kunne	kunne	AUX		
+19	fordrage	fordrage	VERB		verb.cognition
+20	mikset	miks	NOUN		noun.communication
+21	,	,	PUNCT		
+22	selv	selv	ADV		
+23	om	om	ADP		
+24	de	den	DET		
+25	angiveligt	angiv	ADV		
+26	var	være	AUX		verb.stative
+27	begejstrede	begejstre	VERB		verb.emotion
+28	nok	nok	ADV		
+29	,	,	PUNCT		
+30	første	først	ADJ		adj.time
+31	gang	gang	NOUN		noun.time
+32	de	den	PRON		
+33	hørte	høre	VERB		verb.perception
+34	det	det	PRON		
+35	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 76
+# text =  Den korte pause i kamphandlingerne kommer efter, at det internationale samfund i stigende grad har appelleret til Sri Lanka om at beskytte civile, der bliver fanget i krydsild.
+1	Den	den	DET		
+2	korte	kort	ADJ		adj.time
+3	pause	pause	NOUN		noun.time
+4	i	i	ADP		
+5	kamphandlingerne	kamphandling	NOUN		verb.act
+6	kommer	komme	VERB		verb.stative
+7	efter	efter	ADP		
+8	,	,	PUNCT		
+9	at	at	SCONJ		
+10	det	det	DET		
+11	internationale	international	ADJ		adj.social
+12	samfund	samfund	NOUN		noun.person
+13	i	i	ADP		
+14	stigende	stige	ADJ		verb.change
+15	grad	grad	NOUN		noun.cognition
+16	har	have	AUX		
+17	appelleret	appellere	VERB		verb.communication
+18	til	til	ADP		
+19	Sri	sri	PROPN		noun.institution
+20	Lanka	lanka	NOUN		noun.institution
+21	om	om	ADP		
+22	at	at	PART		
+23	beskytte	beskytte	VERB		verb.social
+24	civile	civil	ADJ		noun.person
+25	,	,	PUNCT		
+26	der	der	PRON		
+27	bliver	blive	AUX		
+28	fanget	fange	VERB		verb.social
+29	i	i	ADP		
+30	krydsild	krydsild	NOUN		noun.act
+31	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 77
+# text =  Det skaffede Sedaka på den tids mailinglister hos hitlystne producere.
+1	Det	det	PRON		
+2	skaffede	skaffe	VERB		verb.act
+3	Sedaka	sedaka	PROPN		noun.person
+4	på	på	ADP		
+5	den	den	DET		
+6	tids	tids	NOUN		noun.time
+7	mailinglister	mailinglist	NOUN		noun.communication
+8	hos	hos	ADP		
+9	hitlystne	hitlystn	NOUN		adj.mental
+10	producere	producere	VERB		noun.person
+11	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 78
+# text =  Den er spækket med udstyr, der kan måle tyngdeaccelerationen på Jorden med hidtil uset præcision.
+1	Den	den	PRON		
+2	er	være	AUX		verb.stative
+3	spækket	spække	ADJ		adj.phys
+4	med	med	ADP		
+5	udstyr	udstyr	NOUN		noun.artifact
+6	,	,	PUNCT		
+7	der	der	PRON		
+8	kan	kunne	AUX		
+9	måle	måle	VERB		verb.act
+10	tyngdeaccelerationen	tyngdeacceleration	NOUN		noun.state
+11	på	på	ADP		
+12	Jorden	jord	NOUN		noun.location
+13	med	med	ADP		
+14	hidtil	hidtil	ADV		
+15	uset	uset	ADJ		adj.all
+16	præcision	præcision	NOUN		noun.attribute
+17	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 79
+# text =  Hos Grækenlandseksperten Skibby Rejser ligger en kombinationsrejse til Skiathos/ Skopelos helt i top, men er skarpt forfulgt af øerne Symi, Leros, Karpathos og Tilos.
+1	Hos	hos	ADP		
+2	Grækenlandseksperten	grækenlandseksperten	PROPN		noun.institution
+3	Skibby	skibby	PROPN		noun.institution
+4	Rejser	rejse	NOUN		noun.institution
+5	ligger	ligge	VERB		verb.stative
+6	en	en	DET		
+7	kombinationsrejse	kombinationsrejs	NOUN		noun.act
+8	til	til	ADP		
+9	Skiathos	skiathos	PROPN		noun.location
+10	/	/	PUNCT		
+11	Skopelos	skopelos	PROPN		noun.location
+12	helt	helt	ADV		
+13	i	i	ADP		
+14	top	top	NOUN		noun.relation
+15	,	,	PUNCT		
+16	men	men	CCONJ		
+17	er	være	AUX		verb.stative
+18	skarpt	skarp	ADV		
+19	forfulgt	forfølge	VERB		verb.stative
+20	af	af	ADP		
+21	øerne	ø	NOUN		noun.location
+22	Symi	symi	PROPN		noun.location
+23	,	,	PUNCT		
+24	Leros	leros	PROPN		noun.location
+25	,	,	PUNCT		
+26	Karpathos	karpathos	PROPN		noun.location
+27	og	og	CCONJ		
+28	Tilos	tilos	PROPN		noun.location
+29	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 80
+# text =  Donorlandene understreger, at et stabilt Pakistan er nøglen til at forhindre spredning af terrorisme i regionen.
+1	Donorlandene	donorland	NOUN		noun.person
+2	understreger	understrege	VERB		verb.communication
+3	,	,	PUNCT		
+4	at	at	SCONJ		
+5	et	en	DET		
+6	stabilt	stabil	ADJ		adj.social
+7	Pakistan	pakistan	PROPN		noun.institution
+8	er	være	AUX		
+9	nøglen	nøgle	NOUN		noun.cognition
+10	til	til	ADP		
+11	at	at	PART		
+12	forhindre	forhindre	VERB		verb.social
+13	spredning	spredning	NOUN		noun.act
+14	af	af	ADP		
+15	terrorisme	terrorisme	NOUN		noun.act
+16	i	i	ADP		
+17	regionen	region	NOUN		noun.location
+18	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 81
+# text = " Når man laver store reformer, så sluger det energi.
+1	"	"	PUNCT		
+2	Når	når	SCONJ		
+3	man	man	PRON		
+4	laver	lave	VERB		verb.creation
+5	store	stor	ADJ		adj.all
+6	reformer	reform	NOUN		noun.act
+7	,	,	PUNCT		
+8	så	så	ADV		
+9	sluger	sluge	VERB		verb.change
+10	det	det	PRON		
+11	energi	energi	NOUN		noun.abstract
+12	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 82
+# text =  Industriproduktionen i EU' s største land faldt i februar med hele 23, 3 procent i forhold til samme måned i fjor, meddeler det statistiske forbundskontor i Wiesbaden.
+1	Industriproduktionen	industriproduktion	NOUN		noun.act
+2	i	i	ADP		
+3	EU	eu	PROPN		noun.institution
+4	'	'	PUNCT		
+5	s	s	DET		
+6	største	stor	ADJ		adj.phys
+7	land	land	NOUN		noun.location
+8	faldt	falde	VERB		verb.change
+9	i	i	ADP		
+10	februar	februar	NOUN		noun.time
+11	med	med	ADP		
+12	hele	hel	ADJ		adj.all
+13	23	23	NOUN		
+14	,	,	PUNCT		
+15	3	3	ADJ		
+16	procent	procent	NOUN		noun.quantity
+17	i	i	ADP		
+18	forhold	forhold	NOUN		
+19	til	til	ADP		
+20	samme	samme	ADJ		
+21	måned	måned	NOUN		noun.time
+22	i	i	ADP		
+23	fjor	fjor	NOUN		noun.time
+24	,	,	PUNCT		
+25	meddeler	meddele	VERB		verb.communication
+26	det	det	DET		
+27	statistiske	statistisk	ADJ		adj.all
+28	forbundskontor	forbundskontor	NOUN		noun.person
+29	i	i	ADP		
+30	Wiesbaden	wiesbad	NOUN		noun.location
+31	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 83
+# text =  De tre stiftere kæmpede, til de segnede.
+1	De	den	DET		
+2	tre	tre	ADJ		
+3	stiftere	stifter	NOUN		noun.person
+4	kæmpede	kæmpe	VERB		verb.social
+5	,	,	PUNCT		
+6	til	til	SCONJ		
+7	de	den	PRON		
+8	segnede	segne	VERB		verb.motion
+9	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 84
+# text =  Sørensen bliver den næste dansker i motorsportens Formel 1.
+1	Sørensen	sørensen	PROPN		noun.person
+2	bliver	blive	AUX		verb.change
+3	den	den	DET		
+4	næste	næste	ADJ		adj.time
+5	dansker	dansker	NOUN		noun.person
+6	i	i	ADP		
+7	motorsportens	motorsport	NOUN		noun.domain
+8	Formel	formel	ADJ		noun.institution
+9	1	1	NOUN		noun.institution
+10	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 85
+# text =  På den konservative fløj finder man kandidater som Chip Saltsman fra Tennessee.
+1	På	på	ADP		
+2	den	den	DET		
+3	konservative	konservativ	ADJ		adj.social
+4	fløj	fløj	NOUN		noun.cognition
+5	finder	finde	VERB		verb.stative
+6	man	man	PRON		
+7	kandidater	kandidat	VERB		noun.person
+8	som	som	ADP		
+9	Chip	chip	PROPN		noun.person
+10	Saltsman	saltsman	PROPN		noun.person
+11	fra	fra	ADP		
+12	Tennessee	tennessee	PROPN		noun.location
+13	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 86
+# text =  Handlen steg, målt i omsætning, med 16 procent i de danske netbutikker.
+1	Handlen	handel	NOUN		noun.act
+2	steg	stige	VERB		verb.change
+3	,	,	PUNCT		
+4	målt	måle	VERB		verb.cognition
+5	i	i	ADP		
+6	omsætning	omsætning	NOUN		noun.possession
+7	,	,	PUNCT		
+8	med	med	ADP		
+9	16	16	NUM		
+10	procent	procent	NOUN		noun.quantity
+11	i	i	ADP		
+12	de	den	DET		
+13	danske	dansk	ADJ		adj.social
+14	netbutikker	netbutik	NOUN		noun.institution
+15	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 87
+# text =  Det gik som forudset- plus én.
+1	Det	det	PRON		
+2	gik	gå	VERB		verb.social
+3	som	som	ADP		
+4	forudset	forudse	NOUN		verb.cognition
+5	-	-	PUNCT		
+6	plus	plusse	ADV		
+7	én	én	PRON		
+8	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 88
+# text =  mogens. jacobsen@pol. dk
+1	mogens	mog	NOUN		
+2	.	.	PUNCT		
+3	jacobsen@pol	jacobsen@pol	NOUN		
+4	.	.	PUNCT		
+5	dk	dk	NOUN		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 89
+# text =  Men samarbejdet var livslangt.
+1	Men	men	CCONJ		
+2	samarbejdet	samarbejde	NOUN		noun.act
+3	var	være	AUX		verb.stative
+4	livslangt	livslang	ADJ		adj.time
+5	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 90
+# text =  Engang talte den over 4. 000 medlemmer, nu er der 80 tilbage, og på en generalforsamling i går blev foreningen nedlagt fra 2010.
+1	Engang	engang	ADV		
+2	talte	tælle	VERB		verb.stative
+3	den	den	PRON		
+4	over	over	ADP		
+5	4	4	NUM		
+6	.	.	PUNCT		
+7	000	000	NUM		
+8	medlemmer	medlem	NOUN		noun.person
+9	,	,	PUNCT		
+10	nu	nu	ADV		
+11	er	være	AUX		verb.stative
+12	der	der	ADV		
+13	80	80	NUM		
+14	tilbage	tilbage	ADV		
+15	,	,	PUNCT		
+16	og	og	CCONJ		
+17	på	på	ADP		
+18	en	en	DET		
+19	generalforsamling	generalforsamling	NOUN		noun.event
+20	i	i	ADP		
+21	går	går	NOUN		noun.time
+22	blev	blive	AUX		
+23	foreningen	forening	NOUN		noun.institution
+24	nedlagt	nedlægge	VERB		verb.social
+25	fra	fra	ADP		
+26	2010	2010	NUM		noun.time
+27	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 91
+# text =  IT- SKAT.
+1	IT	it	PROPN		
+2	-	-	PUNCT		
+3	SKAT	skat	NOUN		
+4	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 92
+# text =  Hun er født i Chicago og
+1	Hun	hun	PRON		
+2	er	være	AUX		
+3	født	føde	VERB		verb.creation
+4	i	i	ADP		
+5	Chicago	chicago	PROPN		noun.location
+6	og	og	CCONJ		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 93
+# text =  Selskabet lancerer en hjemmeside, hvor man hjemmefra kan finde ud af, hvilken form for togt der lige netop passer til en selv, og få besvaret mange af de spørgsmål, som presser sig på.
+1	Selskabet	selskab	NOUN		noun.institution
+2	lancerer	lancere	VERB		verb.communication
+3	en	en	DET		
+4	hjemmeside	hjemmeside	NOUN		noun.communication
+5	,	,	PUNCT		
+6	hvor	hvor	ADV		
+7	man	man	PRON		
+8	hjemmefra	hjemmefra	ADV		
+9	kan	kunne	AUX		
+10	finde	finde	VERB		verb.cognition
+11	ud	ud	ADV		verb.COLL
+12	af	af	ADP		verb.COLL
+13	,	,	PUNCT		
+14	hvilken	hvilken	PRON		
+15	form	form	NOUN		noun.cognition
+16	for	for	ADP		
+17	togt	togt	NOUN		noun.act
+18	der	der	ADV		
+19	lige	lige	ADV		
+20	netop	netop	ADV		
+21	passer	passere	VERB		verb.cognition
+22	til	til	ADP		
+23	en	en	DET		
+24	selv	selv	PRON		
+25	,	,	PUNCT		
+26	og	og	CCONJ		
+27	få	få	VERB		
+28	besvaret	besvare	VERB		verb.communication
+29	mange	mangen	ADJ		
+30	af	af	ADP		
+31	de	den	DET		
+32	spørgsmål	spørgsmål	NOUN		noun.communication
+33	,	,	PUNCT		
+34	som	som	PRON		
+35	presser	presse	VERB		noun.cognition
+36	sig	sig	PRON		
+37	på	på	ADP		verb.PARTICLE
+38	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 94
+# text =  Danske Bank har ikke ændret på løbetiden for lånebeviserne, men banken understreger, at lånebeviset kun gælder, hvis forudsætningerne er uændret.
+1	Danske	dansk	ADJ		noun.person
+2	Bank	bank	NOUN		noun.person
+3	har	have	AUX		
+4	ikke	ikke	ADV		
+5	ændret	ændre	VERB		verb.change
+6	på	på	ADP		
+7	løbetiden	løbetid	NOUN		noun.time
+8	for	for	ADP		
+9	lånebeviserne	lånebevis	NOUN		noun.cognition
+10	,	,	PUNCT		
+11	men	men	CCONJ		
+12	banken	banken	NOUN		noun.person
+13	understreger	understrege	VERB		verb.communication
+14	,	,	PUNCT		
+15	at	at	SCONJ		
+16	lånebeviset	lånebevis	NOUN		noun.cognition
+17	kun	kun	ADV		
+18	gælder	gælde	VERB		verb.stative
+19	,	,	PUNCT		
+20	hvis	hvis	SCONJ		
+21	forudsætningerne	forudsætning	NOUN		noun.cognition
+22	er	være	AUX		verb.stative
+23	uændret	uændret	VERB		adj.all
+24	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 95
+# text =  Af fødsler var der 74. 727 mod 75. 264 i 1957.
+1	Af	af	ADP		
+2	fødsler	fødsel	NOUN		noun.act
+3	var	være	VERB		verb.stative
+4	der	der	ADV		
+5	74	74	ADV		
+6	.	.	PUNCT		
+7	727	727	ADV		
+8	mod	mod	ADP		
+9	75	75	NUM		
+10	.	.	PUNCT		
+11	264	264	NOUN		
+12	i	i	ADP		
+13	1957	1957	NUM		noun.time
+14	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 96
+# text =  Artiklen førte til, at hun blev fyret fra sit job som sekretær i det fransk- tyske ungdomskontor, en organisation grundlagt som følge af de to landes venskabskontrakt fra 1963.
+1	Artiklen	artikel	NOUN		noun.communication
+2	førte	føre	VERB		verb.change
+3	til	til	ADP		
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	hun	hun	PRON		
+7	blev	blive	AUX		
+8	fyret	fyre	VERB		verb.social
+9	fra	fra	ADP		
+10	sit	sin	DET		
+11	job	job	NOUN		noun.act
+12	som	som	ADP		
+13	sekretær	sekretær	NOUN		noun.person
+14	i	i	ADP		
+15	det	det	DET		
+16	fransk	fransk	NOUN		adj.social
+17	-	-	PUNCT		
+18	tyske	tysk	ADJ		adj.social
+19	ungdomskontor	ungdomskontor	NOUN		noun.institution
+20	,	,	PUNCT		
+21	en	en	DET		
+22	organisation	organisation	NOUN		noun.institution
+23	grundlagt	grundlægge	VERB		verb.creation
+24	som	som	ADP		
+25	følge	følge	NOUN		
+26	af	af	ADP		
+27	de	den	DET		
+28	to	to	NUM		
+29	landes	land	NOUN		noun.institution
+30	venskabskontrakt	venskabskontrak	NOUN		noun.communication
+31	fra	fra	ADP		
+32	1963	1963	NUM		noun.time
+33	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 97
+# text =  Sd2 a59.
+1	Sd2	sd2	X		
+2	a5	a5	X		
+3	9	9	PUNCT		
+4	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 98
+# text =  Mugabe sagde under indsættelsen, at han tilbyder sin" hånd i venskab og samarbejde og solidaritet til gode for vores storslåede land".
+1	Mugabe	mugabe	PROPN		noun.person
+2	sagde	sige	VERB		verb.communication
+3	under	under	ADP		
+4	indsættelsen	indsættelse	NOUN		verb.social
+5	,	,	PUNCT		
+6	at	at	SCONJ		
+7	han	han	PRON		
+8	tilbyder	tilbyde	VERB		verb.social
+9	sin	sin	DET		
+10	"	"	PUNCT		
+11	hånd	hånd	NOUN		noun.body
+12	i	i	ADP		
+13	venskab	venskab	NOUN		noun.state
+14	og	og	CCONJ		
+15	samarbejde	samarbejde	NOUN		noun.act
+16	og	og	CCONJ		
+17	solidaritet	solidaritet	NOUN		noun.feeling
+18	til	til	ADP		
+19	gode	gode	NOUN		
+20	for	for	ADP		
+21	vores	vores	DET		
+22	storslåede	storslået	ADJ		adj.all
+23	land	land	NOUN		noun.institution
+24	"	"	PUNCT		
+25	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 99
+# text =  FCK har vundet pokalfinalen tre gange og er i semifi- nalerne for tiende gang.
+1	FCK	fck	NOUN		noun.person
+2	har	have	AUX		
+3	vundet	vinde	VERB		verb.competition
+4	pokalfinalen	pokalfinale	NOUN		noun.event
+5	tre	tre	NUM		
+6	gange	gang	NOUN		noun.time
+7	og	og	CCONJ		
+8	er	være	AUX		verb.social
+9	i	i	ADP		
+10	semifi	semifi	NOUN		noun.event
+11	-	-	PUNCT		noun.event
+12	nalerne	nal	NOUN		noun.event
+13	for	for	ADP		
+14	tiende	tiende	ADJ		
+15	gang	gang	NOUN		noun.time
+16	.	.	PUNCT		
+
+# newdoc id = politiken_2009-4.tsv
+# sent_id = 100
+# text =  Det tager sig børnevenligt ud, men er et udpræget voksent spil.
+1	Det	det	PRON		
+2	tager	tage	VERB		verb.cognition
+3	sig	sig	PRON		verb.REFLPRON
+4	børnevenligt	børnevenlig	ADV		adj.social
+5	ud	ud	ADV		verb.PARTICLE
+6	,	,	PUNCT		
+7	men	men	CCONJ		
+8	er	være	AUX		verb.stative
+9	et	en	DET		
+10	udpræget	udpræget	ADJ		
+11	voksent	voksen	ADJ		adj.social
+12	spil	spil	NOUN		noun.act
+13	.	.	PUNCT		
+

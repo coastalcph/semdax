@@ -1,0 +1,205 @@
+# newdoc id = DDT-1490.tsv
+# sent_id = 1
+# text =  Den jyske familiefar forklarede i retten, at han aldrig har fået at vide, hvad han er beskyldt for, og at det har været en alvorlig belastning for ham, og at det førte til, at han blev syg.
+1	Den	den	DET		
+2	jyske	jysk	ADJ		adj.social
+3	familiefar	familiefar	NOUN		noun.person
+4	forklarede	forklare	VERB		verb.communication
+5	i	i	ADP		
+6	retten	ret	NOUN		noun.building
+7	,	,	PUNCT		
+8	at	at	SCONJ		
+9	han	han	PRON		
+10	aldrig	aldrig	ADV		
+11	har	have	AUX		
+12	fået	få	VERB		verb.communication
+13	at	at	PART		verb.COLL
+14	vide	vide	VERB		verb.COLL
+15	,	,	PUNCT		
+16	hvad	hvad	PRON		
+17	han	han	PRON		
+18	er	være	AUX		
+19	beskyldt	beskylde	VERB		verb.communication
+20	for	for	ADP		
+21	,	,	PUNCT		
+22	og	og	CCONJ		
+23	at	at	SCONJ		
+24	det	det	PRON		
+25	har	have	AUX		
+26	været	være	AUX		verb.stative
+27	en	en	DET		
+28	alvorlig	alvorlig	ADJ		adj.all
+29	belastning	belastning	NOUN		noun.phenomenon
+30	for	for	ADP		
+31	ham	han	PRON		
+32	,	,	PUNCT		
+33	og	og	CCONJ		
+34	at	at	SCONJ		
+35	det	det	PRON		
+36	førte	føre	VERB		verb.phenomenon
+37	til	til	ADP		verb.COLL
+38	,	,	PUNCT		
+39	at	at	SCONJ		
+40	han	han	PRON		
+41	blev	blive	AUX		verb.change
+42	syg	syg	ADJ		adj.all
+43	.	.	PUNCT		
+
+# newdoc id = DDT-1490.tsv
+# sent_id = 2
+# text =  Han har i_dag kontakt med børnene og har et godt forhold til både dem og deres mor.
+1	Han	han	PRON		
+2	har	have	AUX		verb.communication
+3	i_dag	i_dag	NOUN		noun.time
+4	kontakt	kontakt	NOUN		verb.COLL
+5	med	med	ADP		
+6	børnene	barn	NOUN		noun.person
+7	og	og	CCONJ		
+8	har	have	AUX		verb.phenomenon
+9	et	en	DET		
+10	godt	god	ADJ		adj.all
+11	forhold	forhold	NOUN		noun.relation
+12	til	til	ADP		
+13	både	både	ADV		
+14	dem	de	PRON		
+15	og	og	CCONJ		
+16	deres	deres	DET		
+17	mor	mor	NOUN		noun.person
+18	.	.	PUNCT		
+
+# newdoc id = DDT-1490.tsv
+# sent_id = 3
+# text =  Dansk Psykologforenings etiknævn har afgivet erklæring til retten om sagen.
+1	Dansk	dansk	ADJ		noun.institution
+2	Psykologforenings	psykologforening	NOUN		noun.institution
+3	etiknævn	etiknævn	NOUN		noun.person
+4	har	have	AUX		
+5	afgivet	afgive	VERB		verb.communication
+6	erklæring	erklæring	NOUN		noun.communication
+7	til	til	ADP		
+8	retten	ret	NOUN		noun.person
+9	om	om	ADP		
+10	sagen	sag	NOUN		noun.abstract
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1490.tsv
+# sent_id = 4
+# text =  Nævnets samlede vurdering er, at Sine Diemar får en skarp påtale for ikke at have handlet i overensstemmelse med foreningens etiske regler.
+1	Nævnets	nævn	NOUN		noun.person
+2	samlede	samle	VERB		adj.all
+3	vurdering	vurdering	NOUN		noun.cognition
+4	er	være	VERB		verb.stative
+5	,	,	PUNCT		
+6	at	at	SCONJ		
+7	Sine	sine	PROPN		noun.person
+8	Diemar	diemar	PROPN		noun.person
+9	får	få	VERB		verb.possession
+10	en	en	DET		
+11	skarp	skarp	ADJ		adj.all
+12	påtale	påtale	NOUN		noun.communication
+13	for	for	ADP		
+14	ikke	ikke	ADV		
+15	at	at	PART		
+16	have	have	AUX		
+17	handlet	handle	VERB		verb.act
+18	i	i	ADP		
+19	overensstemmelse	overensstemmelse	NOUN		noun.abstract
+20	med	med	ADP		
+21	foreningens	forening	NOUN		noun.institution
+22	etiske	etisk	ADJ		adj.mental
+23	regler	regel	NOUN		noun.cognition
+24	.	.	PUNCT		
+
+# newdoc id = DDT-1490.tsv
+# sent_id = 5
+# text =  Sine Diemar har over for sin egen organisation fastholdt, at hun mente, at der var tale om sex-misbrug.
+1	Sine	sine	PROPN		noun.person
+2	Diemar	diemar	PROPN		noun.person
+3	har	have	AUX		
+4	over	over	ADV		
+5	for	for	ADP		
+6	sin	sin	DET		
+7	egen	egen	ADJ		
+8	organisation	organisation	NOUN		noun.person
+9	fastholdt	fastholde	VERB		verb.communication
+10	,	,	PUNCT		
+11	at	at	SCONJ		
+12	hun	hun	PRON		
+13	mente	mene	VERB		verb.cognition
+14	,	,	PUNCT		
+15	at	at	SCONJ		
+16	der	der	ADV		
+17	var	være	VERB		verb.stative
+18	tale	tale	NOUN		verb.COLL
+19	om	om	ADP		verb.COLL
+20	sex-misbrug	sex-misbrug	NOUN		noun.act
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1490.tsv
+# sent_id = 6
+# text =  På den baggrund er hun forpligtiget til at underrette de socialde myndigheder, men hun erkender, at hun ikke har taget kontakt med kommunen.
+1	På	på	ADP		
+2	den	den	DET		
+3	baggrund	baggrund	NOUN		noun.abstract
+4	er	være	AUX		verb.stative
+5	hun	hun	PRON		
+6	forpligtiget	forpligtige	VERB		adj.all
+7	til	til	ADP		
+8	at	at	PART		
+9	underrette	underrette	VERB		verb.communication
+10	de	den	DET		
+11	socialde	sociald	ADJ		adj.social
+12	myndigheder	myndighed	NOUN		noun.institution
+13	,	,	PUNCT		
+14	men	men	CCONJ		
+15	hun	hun	PRON		
+16	erkender	erkende	VERB		verb.communication
+17	,	,	PUNCT		
+18	at	at	SCONJ		
+19	hun	hun	PRON		
+20	ikke	ikke	ADV		
+21	har	have	AUX		
+22	taget	tage	VERB		verb.communication
+23	kontakt	kontakt	NOUN		verb.COLL
+24	med	med	ADP		
+25	kommunen	kommune	NOUN		noun.institution
+26	.	.	PUNCT		
+
+# newdoc id = DDT-1490.tsv
+# sent_id = 7
+# text =  Påstanden om sex-misbrug fik derfor lov til at svæve frit i luften, indtil sagen blev afgjort ved byrretten.
+1	Påstanden	påstand	NOUN		noun.communication
+2	om	om	ADP		
+3	sex-misbrug	sex-misbrug	NOUN		noun.act
+4	fik	få	VERB		verb.phenomenon
+5	derfor	derfor	ADV		
+6	lov	lov	NOUN		verb.COLL
+7	til	til	ADP		
+8	at	at	PART		
+9	svæve	svæve	VERB		verb.stative
+10	frit	fritte	ADV		
+11	i	i	ADP		
+12	luften	luft	NOUN		noun.location
+13	,	,	PUNCT		
+14	indtil	indtil	SCONJ		
+15	sagen	sag	NOUN		noun.abstract
+16	blev	blive	AUX		
+17	afgjort	afgøre	VERB		verb.communication
+18	ved	ved	ADP		
+19	byrretten	byrret	NOUN		noun.institution
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1490.tsv
+# sent_id = 8
+# text =  Sine Diemar har imidlertid anket sagen til Vestre Landsret.
+1	Sine	sine	PROPN		noun.person
+2	Diemar	diemar	PROPN		noun.person
+3	har	have	AUX		
+4	imidlertid	imidlertid	ADV		
+5	anket	anke	VERB		verb.act
+6	sagen	sag	NOUN		noun.abstract
+7	til	til	ADP		
+8	Vestre	vestre	ADJ		noun.institution
+9	Landsret	landsret	NOUN		noun.institution
+10	.	.	PUNCT		
+

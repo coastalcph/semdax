@@ -1,0 +1,3584 @@
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 1
+# text =  Jeg fik ikke svar på spørgsmålet om guldreserverne, men jeg håber, at det kommer.
+1	Jeg	jeg	PRON		
+2	fik	få	VERB		verb.communication
+3	ikke	ikke	ADV		
+4	svar	svar	NOUN		noun.communication
+5	på	på	ADP		
+6	spørgsmålet	spørgsmål	NOUN		noun.communication
+7	om	om	ADP		
+8	guldreserverne	guldreserv	NOUN		noun.possession
+9	,	,	PUNCT		
+10	men	men	CCONJ		
+11	jeg	jeg	PRON		
+12	håber	håbe	VERB		verb.emotion
+13	,	,	PUNCT		
+14	at	at	SCONJ		
+15	det	det	PRON		
+16	kommer	komme	VERB		verb.communication
+17	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 2
+# text =  Derudover har vi de medicinske patienter, som ministeren nævnte, som fortsat ligger på afdelinger, der er overbelagte, og vi har psykiatriske patienter, der bliver afvist på vores psykiatriske skadestuer.
+1	Derudover	derudover	ADV		
+2	har	have	AUX		verb.stative
+3	vi	vi	PRON		
+4	de	den	DET		
+5	medicinske	medicinsk	ADJ		adj.phys
+6	patienter	patient	NOUN		noun.person
+7	,	,	PUNCT		
+8	som	som	ADP		
+9	ministeren	minister	NOUN		noun.person
+10	nævnte	nævne	VERB		verb.communication
+11	,	,	PUNCT		
+12	som	som	PRON		
+13	fortsat	fortsætte	ADV		
+14	ligger	ligge	VERB		verb.stative
+15	på	på	ADP		
+16	afdelinger	afdeling	NOUN		noun.building
+17	,	,	PUNCT		
+18	der	der	PRON		
+19	er	være	AUX		verb.stative
+20	overbelagte	overbelag	VERB		adj.phys
+21	,	,	PUNCT		
+22	og	og	CCONJ		
+23	vi	vi	PRON		
+24	har	have	AUX		verb.stative
+25	psykiatriske	psykiatrisk	ADJ		adj.mental
+26	patienter	patient	NOUN		noun.person
+27	,	,	PUNCT		
+28	der	der	PRON		
+29	bliver	blive	AUX		
+30	afvist	afvise	VERB		verb.act
+31	på	på	ADP		
+32	vores	vores	DET		
+33	psykiatriske	psykiatrisk	ADJ		adj.mental
+34	skadestuer	skadestue	NOUN		noun.building
+35	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 3
+# text =  Vi lever i et demokrati.
+1	Vi	vi	PRON		
+2	lever	levere	VERB		verb.stative
+3	i	i	ADP		
+4	et	en	DET		
+5	demokrati	demokrati	NOUN		noun.abstract
+6	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 4
+# text =  Men det er jo noget, man er nødt til at gå i dybden med og lave regninger på, og det kan vi ikke gøre her fra Folketingets talerstol.
+1	Men	men	CCONJ		
+2	det	det	PRON		
+3	er	være	AUX		verb.stative
+4	jo	jo	ADV		
+5	noget	nogen	PRON		
+6	,	,	PUNCT		
+7	man	man	PRON		
+8	er	være	AUX		verb.stative
+9	nødt	nødt	ADJ		verb.COLL
+10	til	til	ADP		verb.COLL
+11	at	at	PART		
+12	gå	gå	VERB		verb.act
+13	i	i	ADP		verb.COLL
+14	dybden	dybde	NOUN		verb.COLL
+15	med	med	ADV		verb.COLL
+16	og	og	CCONJ		
+17	lave	lave	VERB		verb.act
+18	regninger	regning	NOUN		verb.COLL
+19	på	på	ADP		
+20	,	,	PUNCT		
+21	og	og	CCONJ		
+22	det	det	PRON		
+23	kan	kunne	AUX		
+24	vi	vi	PRON		
+25	ikke	ikke	ADV		
+26	gøre	gøre	VERB		verb.act
+27	her	her	ADV		
+28	fra	fra	ADP		
+29	Folketingets	folketing	NOUN		noun.institution
+30	talerstol	talerstol	NOUN		noun.artifact
+31	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 5
+# text =  Hovedparten af kriminaliteten bliver altså stadig væk begået af danskere her i Danmark, og det er et langt, langt større problem.
+1	Hovedparten	hovedpart	NOUN		noun.relation
+2	af	af	ADP		
+3	kriminaliteten	kriminalitet	NOUN		noun.act
+4	bliver	blive	AUX		
+5	altså	altså	ADV		
+6	stadig	stadig	ADV		
+7	væk	væk	ADV		
+8	begået	begå	VERB		verb.act
+9	af	af	ADP		
+10	danskere	dansker	NOUN		noun.person
+11	her	her	ADV		
+12	i	i	ADP		
+13	Danmark	danmark	PROPN		noun.location
+14	,	,	PUNCT		
+15	og	og	CCONJ		
+16	det	det	PRON		
+17	er	være	AUX		verb.stative
+18	et	en	DET		
+19	langt	lang	ADJ		
+20	,	,	PUNCT		
+21	langt	lang	ADV		
+22	større	stor	ADJ		adj.all
+23	problem	problem	NOUN		noun.cognition
+24	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 6
+# text =  Men at lukke sig om sig selv har aldrig gavnet nogen, og det viser de kedelige erfaringer fra 1930' erne, hvor den internationale handel og den samlede velstand faldt.
+1	Men	men	CCONJ		
+2	at	at	PART		
+3	lukke	lukke	VERB		verb.act
+4	sig	sig	PRON		verb.REFLPRON
+5	om	om	ADP		
+6	sig	sig	PRON		
+7	selv	selv	PRON		
+8	har	have	AUX		
+9	aldrig	aldrig	ADV		
+10	gavnet	gavne	VERB		verb.change
+11	nogen	nogen	PRON		
+12	,	,	PUNCT		
+13	og	og	CCONJ		
+14	det	det	PRON		
+15	viser	visere	VERB		verb.communication
+16	de	den	DET		
+17	kedelige	kedelig	ADJ		adj.mental
+18	erfaringer	erfaring	NOUN		noun.cognition
+19	fra	fra	ADP		
+20	1930	1930	NUM		noun.time
+21	'	'	PUNCT		noun.time
+22	erne	ern	NOUN		noun.time
+23	,	,	PUNCT		
+24	hvor	hvor	ADV		
+25	den	den	DET		
+26	internationale	international	ADJ		adj.social
+27	handel	handel	NOUN		noun.possession
+28	og	og	CCONJ		
+29	den	den	DET		
+30	samlede	samle	VERB		adj.all
+31	velstand	velstand	NOUN		noun.attribute
+32	faldt	falde	VERB		verb.change
+33	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 7
+# text =  Og jeg synes, det er lidt ærgerligt i forhold til de mennesker, der vitterlig har problemer, at man ikke sådan med et varsel fokuserer på, hvordan vi gør det bedre for dem, i stedet for at stå og gøre det lige præcis på det tidspunkt, hvor man synes at det kan være en god politisk sag at tage op, for så vil medierne nok skrive noget om det, for nu er det jo tæt på jul.
+1	Og	og	CCONJ		
+2	jeg	jeg	PRON		
+3	synes	synes	VERB		verb.cognition
+4	,	,	PUNCT		
+5	det	det	PRON		
+6	er	være	AUX		verb.stative
+7	lidt	lidt	ADV		
+8	ærgerligt	ærgerlig	ADJ		adj.mental
+9	i	i	ADP		
+10	forhold	forhold	NOUN		
+11	til	til	ADP		
+12	de	den	DET		
+13	mennesker	menneske	NOUN		noun.person
+14	,	,	PUNCT		
+15	der	der	PRON		
+16	vitterlig	vitterlig	ADV		
+17	har	have	VERB		verb.cognition
+18	problemer	problem	NOUN		noun.cognition
+19	,	,	PUNCT		
+20	at	at	SCONJ		
+21	man	man	PRON		
+22	ikke	ikke	ADV		
+23	sådan	sådan	ADV		
+24	med	med	ADP		
+25	et	en	DET		
+26	varsel	varsel	NOUN		noun.communication
+27	fokuserer	fokusere	VERB		verb.cognition
+28	på	på	ADP		
+29	,	,	PUNCT		
+30	hvordan	hvordan	ADV		
+31	vi	vi	PRON		
+32	gør	gøre	VERB		verb.act
+33	det	det	PRON		
+34	bedre	god	ADV		adj.all
+35	for	for	ADP		
+36	dem	de	PRON		
+37	,	,	PUNCT		
+38	i	i	ADP		
+39	stedet	sted	NOUN		
+40	for	for	ADP		
+41	at	at	PART		
+42	stå	stå	VERB		verb.stative
+43	og	og	CCONJ		
+44	gøre	gøre	VERB		verb.act
+45	det	det	PRON		
+46	lige	lige	ADV		
+47	præcis	præcis	ADV		
+48	på	på	ADP		
+49	det	det	DET		
+50	tidspunkt	tidspunkt	NOUN		noun.time
+51	,	,	PUNCT		
+52	hvor	hvor	ADV		
+53	man	man	PRON		
+54	synes	synes	VERB		verb.cognition
+55	at	at	SCONJ		
+56	det	det	PRON		
+57	kan	kunne	AUX		
+58	være	være	VERB		verb.stative
+59	en	en	DET		
+60	god	god	ADJ		adj.all
+61	politisk	politisk	ADJ		adj.social
+62	sag	sag	NOUN		noun.abstract
+63	at	at	PART		
+64	tage	tage	VERB		verb.act
+65	op	op	ADV		verb.PARTICLE
+66	,	,	PUNCT		
+67	for	for	CCONJ		
+68	så	så	ADV		
+69	vil	ville	AUX		
+70	medierne	medium	NOUN		noun.person
+71	nok	nok	ADV		
+72	skrive	skrive	VERB		verb.communication
+73	noget	nogen	PRON		
+74	om	om	ADP		
+75	det	det	PRON		
+76	,	,	PUNCT		
+77	for	for	CCONJ		
+78	nu	nu	ADV		
+79	er	være	AUX		verb.stative
+80	det	det	PRON		
+81	jo	jo	ADV		
+82	tæt	tætte	ADV		
+83	på	på	ADP		
+84	jul	jul	NOUN		noun.time
+85	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 8
+# text =  Det er så himmelråbende urimeligt, og mit indtryk er, at man vælger at se igennem fingre med det her, fordi man har indtryk af, at det nok ikke drejer sig om ret mange mennesker.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	så	så	ADV		
+4	himmelråbende	himmelråbende	ADJ		
+5	urimeligt	urimelig	ADJ		adj.all
+6	,	,	PUNCT		
+7	og	og	CCONJ		
+8	mit	min	DET		
+9	indtryk	indtryk	NOUN		noun.cognition
+10	er	være	VERB		verb.stative
+11	,	,	PUNCT		
+12	at	at	SCONJ		
+13	man	man	PRON		
+14	vælger	vælge	VERB		verb.cognition
+15	at	at	PART		
+16	se	se	VERB		verb.perception
+17	igennem	igennem	ADP		verb.COLL
+18	fingre	finger	NOUN		verb.COLL
+19	med	med	ADP		
+20	det	det	PRON		
+21	her	her	ADV		
+22	,	,	PUNCT		
+23	fordi	fordi	SCONJ		
+24	man	man	PRON		
+25	har	have	AUX		verb.cognition
+26	indtryk	indtryk	NOUN		noun.cognition|B-verb.COLL
+27	af	af	ADP		verb.COLL
+28	,	,	PUNCT		
+29	at	at	SCONJ		
+30	det	det	PRON		
+31	nok	nok	ADV		
+32	ikke	ikke	ADV		
+33	drejer	dreje	VERB		verb.stative
+34	sig	sig	PRON		verb.REFLPRON
+35	om	om	ADP		verb.PARTICLE
+36	ret	ret	ADV		
+37	mange	mangen	ADJ		adj.all
+38	mennesker	menneske	NOUN		noun.person
+39	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 9
+# text =  Nej, jeg ser i virkeligheden for mig, at det er nogle grupperinger, som stammer fra det tidspunkt, hvor hr. Morten Østergaards parti sad i regering, og hvor man overhovedet ikke havde styr på noget som helst, heller ikke på integrationen, og hvor det ikke var gennemtænkt, hvad der ville ske, hvis man på 1 år som i 2001 lukkede 25. 000 mennesker ind over de danske grænser.
+1	Nej	nej	INTJ		
+2	,	,	PUNCT		
+3	jeg	jeg	PRON		
+4	ser	se	VERB		verb.cognition
+5	i	i	ADP		
+6	virkeligheden	virkelighed	NOUN		noun.abstract
+7	for	for	ADP		verb.COLL
+8	mig	jeg	PRON		verb.REFLPRON
+9	,	,	PUNCT		
+10	at	at	SCONJ		
+11	det	det	PRON		
+12	er	være	AUX		
+13	nogle	nogen	DET		
+14	grupperinger	gruppering	NOUN		noun.person
+15	,	,	PUNCT		
+16	som	som	PRON		
+17	stammer	stamme	VERB		verb.stative
+18	fra	fra	ADP		
+19	det	det	DET		
+20	tidspunkt	tidspunkt	NOUN		noun.time
+21	,	,	PUNCT		
+22	hvor	hvor	ADV		
+23	hr	hr	NOUN		noun.person
+24	.	.	PUNCT		noun.person
+25	Morten	morten	PROPN		noun.person
+26	Østergaards	østergaards	PROPN		noun.person
+27	parti	parti	NOUN		noun.person
+28	sad	sidde	VERB		verb.stative
+29	i	i	ADP		
+30	regering	regering	NOUN		noun.institution
+31	,	,	PUNCT		
+32	og	og	CCONJ		
+33	hvor	hvor	ADV		
+34	man	man	PRON		
+35	overhovedet	overhovedet	ADV		
+36	ikke	ikke	ADV		
+37	havde	have	VERB		verb.cognition
+38	styr	styr	NOUN		verb.COLL
+39	på	på	ADP		verb.COLL
+40	noget	nogen	PRON		
+41	som	som	ADP		
+42	helst	helst	ADV		
+43	,	,	PUNCT		
+44	heller	heller	ADV		
+45	ikke	ikke	ADV		
+46	på	på	ADP		
+47	integrationen	integration	NOUN		noun.act
+48	,	,	PUNCT		
+49	og	og	CCONJ		
+50	hvor	hvor	ADV		
+51	det	det	PRON		
+52	ikke	ikke	ADV		
+53	var	være	AUX		
+54	gennemtænkt	gennemtænke	ADJ		verb.cognition
+55	,	,	PUNCT		
+56	hvad	hvad	PRON		
+57	der	der	ADV		
+58	ville	ville	AUX		
+59	ske	ske	VERB		verb.phenomenon
+60	,	,	PUNCT		
+61	hvis	hvis	SCONJ		
+62	man	man	PRON		
+63	på	på	ADP		
+64	1	1	ADJ		
+65	år	år	NOUN		noun.time
+66	som	som	ADP		
+67	i	i	ADP		
+68	2001	2001	NUM		noun.time
+69	lukkede	lukke	VERB		verb.act
+70	25	25	ADV		
+71	.	.	PUNCT		
+72	000	000	NUM		
+73	mennesker	menneske	NOUN		noun.person
+74	ind	ind	ADV		verb.PARTICLE
+75	over	over	ADP		
+76	de	den	DET		
+77	danske	dansk	ADJ		adj.social
+78	grænser	grænse	NOUN		noun.location
+79	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 10
+# text =  Han har brugt fixerum og sundhedsrum sådan lidt i en pærevælling.
+1	Han	han	PRON		
+2	har	have	AUX		
+3	brugt	bruge	VERB		verb.act
+4	fixerum	fixerum	NOUN		noun.building
+5	og	og	CCONJ		
+6	sundhedsrum	sundhedsrum	NOUN		noun.building
+7	sådan	sådan	ADV		
+8	lidt	lidt	ADV		
+9	i	i	ADP		
+10	en	en	DET		
+11	pærevælling	pærevælling	NOUN		noun.abstract
+12	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 11
+# text =  Jeg er enig i det udgangspunkt, fru Lone Dybkjær har, med hensyn til tvangsadopterede børn, for der taler vi altså om familier, som er fuldstændig splittede, så forældrene ikke har mulighed for at varetage deres børns tarv, men der er relativt få tilfælde.
+1	Jeg	jeg	PRON		
+2	er	være	AUX		verb.stative
+3	enig	enig	VERB		adj.mental
+4	i	i	ADP		
+5	det	det	DET		
+6	udgangspunkt	udgangspunkt	NOUN		noun.abstract
+7	,	,	PUNCT		
+8	fru	fru	X		noun.person
+9	Lone	lone	PROPN		noun.person
+10	Dybkjær	dybkjær	PROPN		noun.person
+11	har	have	VERB		verb.cognition
+12	,	,	PUNCT		
+13	med	med	ADP		
+14	hensyn	hensyn	NOUN		
+15	til	til	ADP		
+16	tvangsadopterede	tvangsadopt	ADJ		adj.all
+17	børn	barn	NOUN		noun.person
+18	,	,	PUNCT		
+19	for	for	CCONJ		
+20	der	der	ADV		
+21	taler	tale	VERB		verb.communication
+22	vi	vi	PRON		
+23	altså	altså	ADV		
+24	om	om	ADP		
+25	familier	familie	NOUN		noun.person
+26	,	,	PUNCT		
+27	som	som	PRON		
+28	er	være	AUX		verb.stative
+29	fuldstændig	fuldstændig	ADV		
+30	splittede	splitte	VERB		adj.all
+31	,	,	PUNCT		
+32	så	så	SCONJ		
+33	forældrene	forældre	NOUN		noun.person
+34	ikke	ikke	ADV		
+35	har	have	VERB		verb.emotion
+36	mulighed	mulighed	NOUN		verb.COLL
+37	for	for	ADP		verb.COLL
+38	at	at	PART		
+39	varetage	varetage	VERB		verb.act
+40	deres	deres	DET		
+41	børns	barn	NOUN		noun.person
+42	tarv	tarv	NOUN		noun.abstract
+43	,	,	PUNCT		
+44	men	men	CCONJ		
+45	der	der	ADV		
+46	er	være	AUX		verb.stative
+47	relativt	relativ	ADV		
+48	få	få	ADJ		adj.all
+49	tilfælde	tilfælde	NOUN		noun.abstract
+50	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 12
+# text =  Vi ønsker så bredt et samarbejde som overhovedet muligt.
+1	Vi	vi	PRON		
+2	ønsker	ønske	VERB		verb.emotion
+3	så	så	ADV		
+4	bredt	bred	ADJ		adj.phys
+5	et	en	DET		
+6	samarbejde	samarbejde	NOUN		noun.act
+7	som	som	ADP		
+8	overhovedet	overhovedet	ADV		
+9	muligt	mulig	ADJ		
+10	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 13
+# text =  Det er muligt, at ministeren ikke mener, der er nogen problemer.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	muligt	mulig	ADJ		adj.all
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	ministeren	minister	NOUN		noun.person
+7	ikke	ikke	ADV		
+8	mener	mene	VERB		verb.cognition
+9	,	,	PUNCT		
+10	der	der	PRON		
+11	er	være	VERB		verb.stative
+12	nogen	nogen	DET		
+13	problemer	problem	NOUN		noun.cognition
+14	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 14
+# text =  For jeg synes, at det arbejde, som også Den Parlamentariske Forsamling foretager, når det gælder valgobservationer, er afgørende.
+1	For	for	ADP		
+2	jeg	jeg	PRON		
+3	synes	synes	VERB		verb.cognition
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	det	det	DET		
+7	arbejde	arbejde	NOUN		noun.act
+8	,	,	PUNCT		
+9	som	som	PRON		
+10	også	også	ADV		
+11	Den	den	DET		noun.institution
+12	Parlamentariske	parlamentarisk	ADJ		noun.institution
+13	Forsamling	forsamling	NOUN		noun.institution
+14	foretager	foretage	VERB		verb.act
+15	,	,	PUNCT		
+16	når	når	SCONJ		
+17	det	det	PRON		
+18	gælder	gælde	VERB		verb.stative
+19	valgobservationer	valgobservation	NOUN		noun.act
+20	,	,	PUNCT		
+21	er	være	AUX		verb.stative
+22	afgørende	afgørende	ADJ		adj.all
+23	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 15
+# text =  Det har vi ikke sagt at vi er imod i Dansk Folkeparti.
+1	Det	det	PRON		
+2	har	have	AUX		
+3	vi	vi	PRON		
+4	ikke	ikke	ADV		
+5	sagt	sige	VERB		verb.communication
+6	at	at	SCONJ		
+7	vi	vi	PRON		
+8	er	være	AUX		verb.stative
+9	imod	imod	ADV		
+10	i	i	ADP		
+11	Dansk	dansk	ADJ		noun.institution
+12	Folkeparti	folkeparti	NOUN		noun.institution
+13	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 16
+# text =  Ja, når de ikke er på terrorlisten, kan man tale med dem- men så længe de er på terrorlisten, kan man ikke tale med dem, det er jo regeringens politik- og så kan man jo tale med alle, der ikke er på terrorlisten, som man har tid til og synes er relevant.
+1	Ja	ja	INTJ		
+2	,	,	PUNCT		
+3	når	når	SCONJ		
+4	de	den	PRON		
+5	ikke	ikke	ADV		
+6	er	være	VERB		verb.stative
+7	på	på	ADP		
+8	terrorlisten	terrorlist	NOUN		noun.communication
+9	,	,	PUNCT		
+10	kan	kunne	AUX		
+11	man	man	PRON		
+12	tale	tale	VERB		verb.communication
+13	med	med	ADP		
+14	dem	de	PRON		
+15	-	-	PUNCT		
+16	men	men	CCONJ		
+17	så	så	ADV		
+18	længe	længe	ADV		
+19	de	den	PRON		
+20	er	være	VERB		verb.stative
+21	på	på	ADP		
+22	terrorlisten	terrorlist	NOUN		noun.communication
+23	,	,	PUNCT		
+24	kan	kunne	AUX		
+25	man	man	PRON		
+26	ikke	ikke	ADV		
+27	tale	tale	VERB		verb.communication
+28	med	med	ADP		
+29	dem	de	PRON		
+30	,	,	PUNCT		
+31	det	det	PRON		
+32	er	være	AUX		verb.stative
+33	jo	jo	ADV		
+34	regeringens	regering	ADJ		noun.person
+35	politik	politik	NOUN		noun.abstract
+36	-	-	PUNCT		
+37	og	og	CCONJ		
+38	så	så	ADV		
+39	kan	kunne	AUX		
+40	man	man	PRON		
+41	jo	jo	ADV		
+42	tale	tale	NOUN		verb.communication
+43	med	med	ADP		
+44	alle	al	ADJ		
+45	,	,	PUNCT		
+46	der	der	PRON		
+47	ikke	ikke	ADV		
+48	er	være	VERB		verb.stative
+49	på	på	ADP		
+50	terrorlisten	terrorlist	NOUN		noun.communication
+51	,	,	PUNCT		
+52	som	som	PRON		
+53	man	man	PRON		
+54	har	have	VERB		verb.possession
+55	tid	tid	NOUN		noun.time
+56	til	til	ADP		
+57	og	og	CCONJ		
+58	synes	synes	VERB		verb.cognition
+59	er	være	AUX		verb.stative
+60	relevant	relevant	ADJ		adj.all
+61	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 17
+# text =  Man har fået store kommuner, og man kender jo ikke alle borgerne sådan, at man ligesom på højre hånd kan sige:
+1	Man	man	PRON		
+2	har	have	AUX		
+3	fået	få	VERB		verb.change
+4	store	stor	ADJ		adj.phys
+5	kommuner	kommune	NOUN		noun.institution
+6	,	,	PUNCT		
+7	og	og	CCONJ		
+8	man	man	PRON		
+9	kender	kende	VERB		verb.cognition
+10	jo	jo	ADV		
+11	ikke	ikke	ADV		
+12	alle	al	ADJ		
+13	borgerne	borger	NOUN		noun.person
+14	sådan	sådan	ADV		
+15	,	,	PUNCT		
+16	at	at	SCONJ		
+17	man	man	PRON		
+18	ligesom	ligesom	ADV		
+19	på	på	ADP		
+20	højre	højre	ADJ		adj.phys
+21	hånd	hånd	NOUN		noun.body
+22	kan	kunne	AUX		
+23	sige	sige	VERB		verb.communication
+24	:	:	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 18
+# text =  Der er så mange forskellige opfattelser, at jeg mener, at vi er bedst tjent med, at vi bevarer den oprindelige frihedslovgivning, som den er, og så affinder os med, at valgretten altså er fulgt med, sådan så det også er blevet en 100 år gammel tradition.
+1	Der	der	ADV		
+2	er	være	VERB		verb.stative
+3	så	så	ADV		
+4	mange	mangen	ADJ		
+5	forskellige	forskellig	ADJ		adj.all
+6	opfattelser	opfattelse	NOUN		noun.cognition
+7	,	,	PUNCT		
+8	at	at	SCONJ		
+9	jeg	jeg	PRON		
+10	mener	mene	VERB		verb.cognition
+11	,	,	PUNCT		
+12	at	at	SCONJ		
+13	vi	vi	PRON		
+14	er	være	AUX		verb.stative
+15	bedst	god	ADV		
+16	tjent	tjene	VERB		verb.COLL
+17	med	med	ADP		verb.COLL
+18	,	,	PUNCT		
+19	at	at	SCONJ		
+20	vi	vi	PRON		
+21	bevarer	bevare	VERB		verb.stative
+22	den	den	DET		
+23	oprindelige	oprindelig	ADJ		adj.all
+24	frihedslovgivning	frihedslovgivning	NOUN		noun.abstract
+25	,	,	PUNCT		
+26	som	som	ADP		
+27	den	den	PRON		
+28	er	være	VERB		verb.stative
+29	,	,	PUNCT		
+30	og	og	CCONJ		
+31	så	så	ADV		
+32	affinder	affinde	VERB		verb.cognition
+33	os	vi	PRON		verb.REFLPRON
+34	med	med	ADP		
+35	,	,	PUNCT		
+36	at	at	SCONJ		
+37	valgretten	valgret	NOUN		noun.abstract
+38	altså	altså	ADV		
+39	er	være	AUX		
+40	fulgt	følge	VERB		verb.phenomenon
+41	med	med	ADP		verb.PARTICLE
+42	,	,	PUNCT		
+43	sådan	sådan	ADJ		
+44	så	så	SCONJ		
+45	det	det	PRON		
+46	også	også	ADV		
+47	er	være	AUX		
+48	blevet	blive	AUX		verb.change
+49	en	en	DET		
+50	100	100	NUM		
+51	år	år	NOUN		noun.time
+52	gammel	gammel	ADJ		adj.time
+53	tradition	tradition	NOUN		noun.abstract
+54	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 19
+# text =  Hvad glæder egentlig beskæftigelsesministeren mest?
+1	Hvad	hvad	PRON		
+2	glæder	glæde	VERB		verb.emotion
+3	egentlig	egentlig	ADV		
+4	beskæftigelsesministeren	beskæftigelsesminister	VERB		noun.person
+5	mest	megen	ADV		
+6	?	?	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 20
+# text =  I den SFI- rapport, som jeg henviste til før, fremgår det også, at mange af de folk, der bliver tvangsudsat af deres bolig, enten for nylig er blevet arbejdsløse eller er på kontanthjælp.
+1	I	i	ADP		
+2	den	den	DET		
+3	SFI	sfi	PROPN		noun.communication
+4	-	-	PUNCT		noun.communication
+5	rapport	rapport	NOUN		noun.communication
+6	,	,	PUNCT		
+7	som	som	PRON		
+8	jeg	jeg	PRON		
+9	henviste	henvise	VERB		verb.communication
+10	til	til	ADP		verb.COLL
+11	før	før	ADV		
+12	,	,	PUNCT		
+13	fremgår	fremgå	VERB		verb.communication
+14	det	det	PRON		
+15	også	også	ADV		
+16	,	,	PUNCT		
+17	at	at	SCONJ		
+18	mange	mangen	ADJ		
+19	af	af	ADP		
+20	de	den	DET		
+21	folk	folk	NOUN		noun.person
+22	,	,	PUNCT		
+23	der	der	PRON		
+24	bliver	blive	AUX		
+25	tvangsudsat	tvangsudsat	VERB		verb.act
+26	af	af	ADP		
+27	deres	deres	DET		
+28	bolig	bolig	NOUN		noun.building
+29	,	,	PUNCT		
+30	enten	enten	ADV		
+31	for	for	ADP		
+32	nylig	nylig	ADV		
+33	er	være	AUX		
+34	blevet	blive	AUX		verb.change
+35	arbejdsløse	arbejdsløs	ADJ		adj.all
+36	eller	eller	CCONJ		
+37	er	være	VERB		verb.stative
+38	på	på	ADP		
+39	kontanthjælp	kontanthjælp	NOUN		noun.possession
+40	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 21
+# text =  Vi ved, at der er tiltag, der virker, når det handler om forebyggelse, vi ved, der er tiltag, der virker, når det handler om at rehabilitere eller resocialisere unge kriminelle, og jeg synes, vi skulle gøre meget mere brug af den viden.
+1	Vi	vi	PRON		
+2	ved	vide	VERB		verb.cognition
+3	,	,	PUNCT		
+4	at	at	SCONJ		
+5	der	der	ADV		
+6	er	være	VERB		verb.stative
+7	tiltag	tiltag	NOUN		noun.act
+8	,	,	PUNCT		
+9	der	der	PRON		
+10	virker	virke	VERB		verb.phenomenon
+11	,	,	PUNCT		
+12	når	når	SCONJ		
+13	det	det	PRON		
+14	handler	handle	VERB		verb.stative
+15	om	om	ADP		verb.COLL
+16	forebyggelse	forebyggelse	NOUN		noun.act
+17	,	,	PUNCT		
+18	vi	vi	PRON		
+19	ved	vide	VERB		verb.cognition
+20	,	,	PUNCT		
+21	der	der	PRON		
+22	er	være	AUX		verb.stative
+23	tiltag	tiltag	NOUN		noun.act
+24	,	,	PUNCT		
+25	der	der	PRON		
+26	virker	virke	VERB		verb.phenomenon
+27	,	,	PUNCT		
+28	når	når	SCONJ		
+29	det	det	PRON		
+30	handler	handle	VERB		verb.stative
+31	om	om	ADP		verb.COLL
+32	at	at	PART		
+33	rehabilitere	rehabilitere	VERB		verb.change
+34	eller	eller	CCONJ		
+35	resocialisere	resocialisere	NOUN		verb.change
+36	unge	ung	ADJ		adj.time
+37	kriminelle	kriminel	ADJ		noun.person
+38	,	,	PUNCT		
+39	og	og	CCONJ		
+40	jeg	jeg	PRON		
+41	synes	synes	VERB		verb.cognition
+42	,	,	PUNCT		
+43	vi	vi	PRON		
+44	skulle	skulle	AUX		
+45	gøre	gøre	VERB		verb.act
+46	meget	megen	ADV		
+47	mere	mere	ADJ		
+48	brug	brug	NOUN		verb.COLL
+49	af	af	ADP		verb.COLL
+50	den	den	DET		
+51	viden	viden	NOUN		noun.cognition
+52	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 22
+# text =  Det er det vigtigste i det her forslag.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	det	det	DET		
+4	vigtigste	vigtig	ADJ		adj.all
+5	i	i	ADP		
+6	det	det	PRON		
+7	her	her	ADV		
+8	forslag	forslag	NOUN		noun.communication
+9	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 23
+# text =  Det skal vi have undersøgt og kende konsekvenserne af, inden vi siger ja til noget.
+1	Det	det	PRON		
+2	skal	skulle	AUX		
+3	vi	vi	PRON		
+4	have	have	AUX		
+5	undersøgt	undersøge	VERB		verb.act
+6	og	og	CCONJ		
+7	kende	kende	VERB		verb.cognition
+8	konsekvenserne	konsekvens	NOUN		noun.phenomenon
+9	af	af	ADP		
+10	,	,	PUNCT		
+11	inden	inden	SCONJ		
+12	vi	vi	PRON		
+13	siger	sige	VERB		verb.communication
+14	ja	ja	NOUN		
+15	til	til	ADP		
+16	noget	nogen	PRON		
+17	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 24
+# text =  Og så føler jeg mig måske alligevel også lidt befriet over, at tingene så alligevel er gået, som de er gået.
+1	Og	og	CCONJ		
+2	så	så	ADV		
+3	føler	føle	VERB		verb.emotion
+4	jeg	jeg	PRON		
+5	mig	jeg	PRON		verb.REFLPRON
+6	måske	måske	ADV		
+7	alligevel	alligevel	ADV		
+8	også	også	ADV		
+9	lidt	lidt	ADV		
+10	befriet	befri	VERB		adj.mental
+11	over	over	ADP		
+12	,	,	PUNCT		
+13	at	at	SCONJ		
+14	tingene	ting	NOUN		noun.abstract
+15	så	så	ADV		
+16	alligevel	alligevel	ADV		
+17	er	være	AUX		
+18	gået	gå	VERB		verb.phenomenon
+19	,	,	PUNCT		
+20	som	som	ADP		
+21	de	den	PRON		
+22	er	være	AUX		
+23	gået	gå	VERB		verb.phenomenon
+24	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 25
+# text =  Jeg tror, at der kommer til at gå rigtig, rigtig mange år, for jeg har hørt, at Dansk Folkepartis ordfører på området, hr.
+1	Jeg	jeg	PRON		
+2	tror	tro	VERB		verb.cognition
+3	,	,	PUNCT		
+4	at	at	SCONJ		
+5	der	der	ADV		
+6	kommer	komme	VERB		
+7	til	til	ADP		
+8	at	at	PART		
+9	gå	gå	VERB		verb.phenomenon
+10	rigtig	rigtig	ADV		
+11	,	,	PUNCT		
+12	rigtig	rigtig	ADV		
+13	mange	mangen	ADJ		adj.time
+14	år	år	NOUN		noun.time
+15	,	,	PUNCT		
+16	for	for	CCONJ		
+17	jeg	jeg	PRON		
+18	har	have	AUX		
+19	hørt	høre	VERB		verb.perception
+20	,	,	PUNCT		
+21	at	at	SCONJ		
+22	Dansk	dansk	ADJ		noun.person
+23	Folkepartis	folkeparti	NOUN		noun.person
+24	ordfører	ordfører	NOUN		noun.person
+25	på	på	ADP		
+26	området	område	NOUN		noun.domain
+27	,	,	PUNCT		
+28	hr	hr	PRON		noun.person
+29	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 26
+# text =  I et menneske er der mange ønskede bakterier og svampe.
+1	I	i	ADP		
+2	et	en	DET		
+3	menneske	menneske	NOUN		noun.person
+4	er	være	VERB		verb.stative
+5	der	der	ADV		
+6	mange	mangen	ADJ		adj.all
+7	ønskede	ønske	VERB		adj.all
+8	bakterier	bakterie	NOUN		noun.object
+9	og	og	CCONJ		
+10	svampe	svamp	NOUN		noun.object
+11	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 27
+# text =  Der er dog trods alt flere forskere, bl. a. en forsker ved Aalborg Universitet, der i meget lang tid har påpeget, at det her kan have effekt på folks valg og måske i virkeligheden være afgørende for, om de mindste partier kommer over spærregrænsen.
+1	Der	der	ADV		
+2	er	være	VERB		verb.stative
+3	dog	dog	ADV		
+4	trods	trods	ADP		
+5	alt	al	ADJ		
+6	flere	flere	ADJ		
+7	forskere	forsker	NOUN		noun.person
+8	,	,	PUNCT		
+9	bl	bl	PRON		
+10	.	.	PUNCT		
+11	a	ae	PRON		
+12	.	.	PUNCT		
+13	en	en	DET		
+14	forsker	forsker	NOUN		noun.person
+15	ved	ved	ADP		
+16	Aalborg	aalborg	PROPN		noun.institution
+17	Universitet	universitet	NOUN		noun.institution
+18	,	,	PUNCT		
+19	der	der	PRON		
+20	i	i	ADP		
+21	meget	megen	ADV		
+22	lang	lang	ADJ		adj.time
+23	tid	tid	NOUN		noun.time
+24	har	have	AUX		
+25	påpeget	påpege	VERB		verb.communication
+26	,	,	PUNCT		
+27	at	at	SCONJ		
+28	det	det	PRON		
+29	her	her	ADV		
+30	kan	kunne	AUX		
+31	have	have	VERB		verb.phenomenon
+32	effekt	effekt	NOUN		noun.phenomenon
+33	på	på	ADP		
+34	folks	folk	ADJ		noun.person
+35	valg	valg	NOUN		noun.cognition
+36	og	og	CCONJ		
+37	måske	måske	ADV		
+38	i	i	ADP		
+39	virkeligheden	virkelighed	NOUN		noun.abstract
+40	være	være	AUX		verb.stative
+41	afgørende	afgørende	ADJ		adj.all
+42	for	for	ADP		
+43	,	,	PUNCT		
+44	om	om	SCONJ		
+45	de	den	DET		
+46	mindste	lille	ADJ		adj.phys
+47	partier	parti	NOUN		noun.institution
+48	kommer	komme	VERB		verb.change
+49	over	over	ADP		verb.COLL
+50	spærregrænsen	spærregrænse	NOUN		noun.abstract
+51	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 28
+# text =  Det er selvfølgelig ikke ministeren ubekendt, hvorfor jeg stiller dette spørgsmål.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	selvfølgelig	selvfølgelig	ADV		
+4	ikke	ikke	ADV		
+5	ministeren	minister	NOUN		noun.person
+6	ubekendt	ubekendt	ADJ		adj.mental
+7	,	,	PUNCT		
+8	hvorfor	hvorfor	ADV		
+9	jeg	jeg	PRON		
+10	stiller	stille	VERB		verb.communication
+11	dette	denne	PRON		
+12	spørgsmål	spørgsmål	NOUN		noun.communication
+13	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 29
+# text =  Når den kollektive trafik i forvejen er ganske presset rent økonomisk og Dansk Folkeparti endnu ikke har været villig til at finde yderligere midler til den kollektive trafik, har jeg svært ved at se, hvordan det her skal betales.
+1	Når	når	SCONJ		
+2	den	den	DET		
+3	kollektive	kollektiv	ADJ		adj.social
+4	trafik	trafik	NOUN		noun.phenomenon
+5	i	i	ADP		
+6	forvejen	forvejen	NOUN		
+7	er	være	AUX		verb.stative
+8	ganske	ganske	ADV		
+9	presset	presse	VERB		adj.all
+10	rent	ren	ADV		
+11	økonomisk	økonomisk	ADV		adj.all
+12	og	og	CCONJ		
+13	Dansk	dansk	ADJ		noun.person
+14	Folkeparti	folkeparti	NOUN		noun.person
+15	endnu	endnu	ADV		
+16	ikke	ikke	ADV		
+17	har	have	AUX		
+18	været	være	AUX		
+19	villig	villig	ADJ		adj.mental
+20	til	til	ADP		
+21	at	at	PART		
+22	finde	finde	VERB		verb.act
+23	yderligere	yderlig	ADJ		adj.all
+24	midler	middel	NOUN		noun.artifact
+25	til	til	ADP		
+26	den	den	DET		
+27	kollektive	kollektiv	ADJ		adj.social
+28	trafik	trafik	NOUN		noun.phenomenon
+29	,	,	PUNCT		
+30	har	have	AUX		verb.cognition
+31	jeg	jeg	PRON		
+32	svært	sværte	ADV		verb.COLL
+33	ved	ved	ADP		verb.COLL
+34	at	at	PART		
+35	se	se	VERB		verb.cognition
+36	,	,	PUNCT		
+37	hvordan	hvordan	ADV		
+38	det	det	PRON		
+39	her	her	ADV		
+40	skal	skulle	AUX		
+41	betales	betale	VERB		verb.possession
+42	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 30
+# text =  Jeg ved ikke, om det gør nogen forskel for hr.
+1	Jeg	jeg	PRON		
+2	ved	vide	VERB		verb.cognition
+3	ikke	ikke	ADV		
+4	,	,	PUNCT		
+5	om	om	SCONJ		
+6	det	det	PRON		
+7	gør	gøre	VERB		verb.change
+8	nogen	nogen	DET		
+9	forskel	forskel	NOUN		noun.abstract
+10	for	for	ADP		
+11	hr	hr	NOUN		
+12	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 31
+# text =  Det var man ikke enig i.
+1	Det	det	PRON		
+2	var	være	AUX		verb.stative
+3	man	man	PRON		
+4	ikke	ikke	ADV		
+5	enig	enig	VERB		adj.mental
+6	i	i	ADP		
+7	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 32
+# text =  Lad mig få et svar på det.
+1	Lad	lade	VERB		verb.phenomenon
+2	mig	jeg	PRON		
+3	få	få	VERB		verb.communication
+4	et	en	DET		
+5	svar	svar	NOUN		noun.communication
+6	på	på	ADP		
+7	det	det	PRON		
+8	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 33
+# text =  Jeg vil også gerne kvittere for gode debatter og en fælles forståelse af, hvor vigtigt det er, når det ulykkelige skal ske, at myndighederne er nødt til at anbringe børn uden for deres hjem, at vi er i stand til at prøve at skabe bedre stabilitet og kontinuitet omkring børnene.
+1	Jeg	jeg	PRON		
+2	vil	ville	AUX		
+3	også	også	ADV		
+4	gerne	gerne	ADV		
+5	kvittere	kvittere	VERB		verb.communication
+6	for	for	ADP		
+7	gode	god	ADJ		adj.all
+8	debatter	debat	NOUN		noun.communication
+9	og	og	CCONJ		
+10	en	en	DET		
+11	fælles	fælles	ADJ		adj.social
+12	forståelse	forståelse	NOUN		noun.cognition
+13	af	af	ADP		
+14	,	,	PUNCT		
+15	hvor	hvor	ADV		
+16	vigtigt	vigtig	ADJ		adj.all
+17	det	det	PRON		
+18	er	være	AUX		verb.stative
+19	,	,	PUNCT		
+20	når	når	SCONJ		
+21	det	det	DET		
+22	ulykkelige	ulykkelig	ADJ		adj.all
+23	skal	skulle	AUX		
+24	ske	ske	VERB		verb.phenomenon
+25	,	,	PUNCT		
+26	at	at	SCONJ		
+27	myndighederne	myndighed	NOUN		noun.institution
+28	er	være	AUX		verb.emotion
+29	nødt	nødt	ADJ		verb.COLL
+30	til	til	ADP		verb.COLL
+31	at	at	PART		
+32	anbringe	anbringe	VERB		verb.act
+33	børn	barn	NOUN		noun.person
+34	uden	uden	ADV		
+35	for	for	ADP		
+36	deres	deres	DET		
+37	hjem	hjem	NOUN		noun.building
+38	,	,	PUNCT		
+39	at	at	SCONJ		
+40	vi	vi	PRON		
+41	er	være	VERB		verb.emotion
+42	i	i	ADP		verb.COLL
+43	stand	stand	NOUN		verb.COLL
+44	til	til	ADP		verb.COLL
+45	at	at	PART		
+46	prøve	prøve	VERB		verb.act
+47	at	at	PART		
+48	skabe	skabe	VERB		verb.creation
+49	bedre	god	ADJ		adj.all
+50	stabilitet	stabilitet	NOUN		noun.attribute
+51	og	og	CCONJ		
+52	kontinuitet	kontinuitet	NOUN		noun.attribute
+53	omkring	omkring	ADP		
+54	børnene	barn	NOUN		noun.person
+55	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 34
+# text =  Vi ved jo godt, at Socialistisk Folkeparti i stor stil er begyndt at benytte sig af fokusgrupper, og der glæder det mig da, at Dansk Folkeparti åbenbart er blevet en af de her fokusgrupper, som Socialistisk Folkeparti benytter sig af.
+1	Vi	vi	PRON		
+2	ved	vide	VERB		verb.cognition
+3	jo	jo	ADV		
+4	godt	godte	ADV		
+5	,	,	PUNCT		
+6	at	at	SCONJ		
+7	Socialistisk	socialistisk	ADJ		noun.institution
+8	Folkeparti	folkeparti	NOUN		noun.institution
+9	i	i	ADP		
+10	stor	stor	ADJ		
+11	stil	stil	NOUN		
+12	er	være	AUX		
+13	begyndt	begynde	VERB		verb.aspectual
+14	at	at	PART		
+15	benytte	benytte	VERB		verb.act
+16	sig	sig	PRON		verb.REFLPRON
+17	af	af	ADP		verb.COLL
+18	fokusgrupper	fokusgrup	NOUN		noun.person
+19	,	,	PUNCT		
+20	og	og	CCONJ		
+21	der	der	ADV		
+22	glæder	glæde	VERB		verb.emotion
+23	det	det	PRON		
+24	mig	jeg	PRON		
+25	da	da	ADV		
+26	,	,	PUNCT		
+27	at	at	SCONJ		
+28	Dansk	dansk	ADJ		noun.person
+29	Folkeparti	folkeparti	NOUN		noun.person
+30	åbenbart	åbenbar	ADV		
+31	er	være	AUX		
+32	blevet	blive	AUX		verb.change
+33	en	en	PRON		
+34	af	af	ADP		
+35	de	den	DET		
+36	her	her	ADV		
+37	fokusgrupper	fokusgrup	NOUN		noun.person
+38	,	,	PUNCT		
+39	som	som	ADP		
+40	Socialistisk	socialistisk	ADJ		noun.institution
+41	Folkeparti	folkeparti	NOUN		noun.institution
+42	benytter	benytte	VERB		verb.act
+43	sig	sig	PRON		verb.REFLPRON
+44	af	af	ADP		verb.COLL
+45	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 35
+# text =  I øjeblikket er der rigtig mange mænd, der bliver fyret, og det tager hårdt på dem; det kan vi læse på forsiden af Urban i dag.
+1	I	i	ADP		
+2	øjeblikket	øjeblik	NOUN		noun.time
+3	er	være	VERB		verb.stative
+4	der	der	ADV		
+5	rigtig	rigtig	ADV		
+6	mange	mangen	ADJ		adj.all
+7	mænd	mand	NOUN		noun.person
+8	,	,	PUNCT		
+9	der	der	PRON		
+10	bliver	blive	AUX		
+11	fyret	fyre	VERB		verb.act
+12	,	,	PUNCT		
+13	og	og	CCONJ		
+14	det	det	PRON		
+15	tager	tage	VERB		verb.change
+16	hårdt	hård	ADV		
+17	på	på	ADP		
+18	dem	de	PRON		
+19	;	;	PUNCT		
+20	det	det	PRON		
+21	kan	kunne	AUX		
+22	vi	vi	PRON		
+23	læse	læse	VERB		verb.cognition
+24	på	på	ADP		
+25	forsiden	forside	NOUN		noun.relation
+26	af	af	ADP		
+27	Urban	urban	PROPN		noun.communication
+28	i	i	ADP		
+29	dag	dag	NOUN		noun.time
+30	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 36
+# text =  Er det ministerens egen idé, at der skal spares på skolerne?
+1	Er	være	AUX		verb.stative
+2	det	det	PRON		
+3	ministerens	minister	ADV		noun.person
+4	egen	egen	ADJ		
+5	idé	idé	NOUN		noun.cognition
+6	,	,	PUNCT		
+7	at	at	SCONJ		
+8	der	der	ADV		
+9	skal	skulle	AUX		
+10	spares	spare	VERB		verb.act
+11	på	på	ADP		
+12	skolerne	skole	NOUN		noun.institution
+13	?	?	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 37
+# text =  Da det her skatteoplæg blev introduceret, havde de et glimrende billede i TV 2 i udsendelsen om aftenen, hvor de havde været oppe ved Rungsted Havn.
+1	Da	da	SCONJ		
+2	det	det	PRON		
+3	her	her	ADV		
+4	skatteoplæg	skatteoplæg	NOUN		noun.communication
+5	blev	blive	AUX		
+6	introduceret	introducere	VERB		verb.communication
+7	,	,	PUNCT		
+8	havde	have	AUX		verb.communication
+9	de	den	PRON		
+10	et	en	DET		
+11	glimrende	glimrende	ADJ		adj.all
+12	billede	billede	NOUN		noun.artifact
+13	i	i	ADP		
+14	TV	tv	NOUN		noun.communication
+15	2	2	NUM		noun.communication
+16	i	i	ADP		
+17	udsendelsen	udsendelse	NOUN		noun.communication
+18	om	om	ADP		
+19	aftenen	aften	NOUN		noun.time
+20	,	,	PUNCT		
+21	hvor	hvor	ADV		
+22	de	den	PRON		
+23	havde	have	AUX		
+24	været	være	AUX		verb.stative
+25	oppe	oppe	ADV		
+26	ved	ved	ADP		
+27	Rungsted	rungsted	PROPN		noun.location
+28	Havn	havn	NOUN		noun.location
+29	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 38
+# text =  Nu har jeg heller ikke været så længe i det her Ting, men jeg mener at kunne huske, at fru Lone Dybkjær på et tidspunkt var miljøminister, men der var altså heller ikke på det tidspunkt en vilje til at få gjort endeligt op med det her problem og få taget ordentligt fat på det.
+1	Nu	nu	ADV		
+2	har	have	AUX		
+3	jeg	jeg	PRON		
+4	heller	heller	ADV		
+5	ikke	ikke	ADV		
+6	været	være	AUX		verb.stative
+7	så	så	ADV		
+8	længe	længe	ADV		
+9	i	i	ADP		
+10	det	det	PRON		
+11	her	her	ADV		
+12	Ting	ting	PROPN		noun.institution
+13	,	,	PUNCT		
+14	men	men	CCONJ		
+15	jeg	jeg	PRON		
+16	mener	mene	VERB		verb.cognition
+17	at	at	PART		
+18	kunne	kunne	AUX		
+19	huske	huske	VERB		verb.cognition
+20	,	,	PUNCT		
+21	at	at	SCONJ		
+22	fru	fru	NOUN		noun.person
+23	Lone	lone	PROPN		noun.person
+24	Dybkjær	dybkjær	PROPN		noun.person
+25	på	på	ADP		
+26	et	en	DET		
+27	tidspunkt	tidspunkt	NOUN		noun.time
+28	var	være	AUX		verb.stative
+29	miljøminister	miljøminister	NOUN		noun.person
+30	,	,	PUNCT		
+31	men	men	CCONJ		
+32	der	der	ADV		
+33	var	være	AUX		verb.stative
+34	altså	altså	ADV		
+35	heller	heller	ADV		
+36	ikke	ikke	ADV		
+37	på	på	ADP		
+38	det	det	DET		
+39	tidspunkt	tidspunkt	NOUN		noun.time
+40	en	en	DET		
+41	vilje	vilje	NOUN		noun.feeling
+42	til	til	ADP		
+43	at	at	PART		
+44	få	få	VERB		
+45	gjort	gøre	VERB		verb.act
+46	endeligt	endeligt	ADV		
+47	op	op	ADV		verb.PARTICLE
+48	med	med	ADP		
+49	det	det	PRON		
+50	her	her	ADV		
+51	problem	problem	NOUN		noun.cognition
+52	og	og	CCONJ		
+53	få	få	VERB		
+54	taget	tage	VERB		verb.act
+55	ordentligt	ordentlig	ADV		
+56	fat	fat	ADV		verb.COLL
+57	på	på	ADP		verb.COLL
+58	det	det	PRON		
+59	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 39
+# text =  At man så insisterer på, at der skal stå, at det netop er regeringen alene, der har gjort noget på det her område sammen med Dansk Folkeparti, er jo i hvert fald ikke at række hånden ud til brede aftaler om det, vi alle er enige om, nemlig at man skal være helt i top i dansk kræftbehandling.
+1	At	at	SCONJ		
+2	man	man	PRON		
+3	så	så	ADV		
+4	insisterer	insistere	VERB		verb.communication
+5	på	på	ADP		
+6	,	,	PUNCT		
+7	at	at	SCONJ		
+8	der	der	ADV		
+9	skal	skulle	AUX		
+10	stå	stå	VERB		verb.stative
+11	,	,	PUNCT		
+12	at	at	SCONJ		
+13	det	det	PRON		
+14	netop	netop	ADV		
+15	er	være	AUX		verb.stative
+16	regeringen	regering	NOUN		noun.person
+17	alene	alene	ADV		
+18	,	,	PUNCT		
+19	der	der	PRON		
+20	har	have	AUX		
+21	gjort	gøre	VERB		verb.act
+22	noget	nogen	PRON		
+23	på	på	ADP		
+24	det	det	PRON		
+25	her	her	ADV		
+26	område	område	NOUN		noun.domain
+27	sammen	sammen	ADV		
+28	med	med	ADP		
+29	Dansk	dansk	ADJ		noun.institution
+30	Folkeparti	folkeparti	NOUN		noun.institution
+31	,	,	PUNCT		
+32	er	være	AUX		verb.stative
+33	jo	jo	ADV		
+34	i	i	ADP		
+35	hvert	hver	DET		
+36	fald	fald	NOUN		
+37	ikke	ikke	ADV		
+38	at	at	PART		
+39	række	række	VERB		verb.motion
+40	hånden	hånd	NOUN		noun.body
+41	ud	ud	ADV		verb.PARTICLE
+42	til	til	ADP		
+43	brede	bred	ADJ		adj.all
+44	aftaler	aftale	NOUN		noun.communication
+45	om	om	ADP		
+46	det	det	PRON		
+47	,	,	PUNCT		
+48	vi	vi	PRON		
+49	alle	al	ADJ		
+50	er	være	AUX		verb.stative
+51	enige	enig	ADJ		adj.mental
+52	om	om	ADP		
+53	,	,	PUNCT		
+54	nemlig	nemlig	ADV		
+55	at	at	SCONJ		
+56	man	man	PRON		
+57	skal	skulle	AUX		
+58	være	være	VERB		verb.stative
+59	helt	helt	ADV		
+60	i	i	ADP		
+61	top	top	NOUN		
+62	i	i	ADP		
+63	dansk	dansk	ADJ		adj.social
+64	kræftbehandling	kræftbehandling	NOUN		noun.act
+65	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 40
+# text =  Altså, Socialdemokratiet har aldrig abonneret på den idé at sige, at vi skal lave køb dansk- klausuler i alt, hvad vi foretager os, det går ikke.
+1	Altså	altså	ADV		
+2	,	,	PUNCT		
+3	Socialdemokratiet	socialdemokrati	NOUN		noun.institution
+4	har	have	AUX		
+5	aldrig	aldrig	ADV		
+6	abonneret	abonnere	VERB		verb.cognition
+7	på	på	ADP		
+8	den	den	DET		
+9	idé	idé	NOUN		noun.cognition
+10	at	at	PART		
+11	sige	sige	VERB		verb.communication
+12	,	,	PUNCT		
+13	at	at	SCONJ		
+14	vi	vi	PRON		
+15	skal	skulle	AUX		
+16	lave	lave	VERB		verb.creation
+17	køb	køb	NOUN		noun.communication
+18	dansk	dansk	NOUN		noun.communication
+19	-	-	PUNCT		noun.communication
+20	klausuler	klausul	NOUN		noun.communication
+21	i	i	ADP		
+22	alt	al	ADJ		
+23	,	,	PUNCT		
+24	hvad	hvad	PRON		
+25	vi	vi	PRON		
+26	foretager	foretage	VERB		verb.act
+27	os	vi	PRON		
+28	,	,	PUNCT		
+29	det	det	PRON		
+30	går	gå	VERB		verb.phenomenon
+31	ikke	ikke	ADV		
+32	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 41
+# text =  Afstemningen slutter.
+1	Afstemningen	afstemning	NOUN		noun.event
+2	slutter	slutte	VERB		verb.aspectual
+3	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 42
+# text =  Jeg kan jo så repetere, at vi har en politik om at fremlægge en klar plan om, hvad vi vil, inden næste folketingsvalg.
+1	Jeg	jeg	PRON		
+2	kan	kunne	AUX		
+3	jo	jo	ADV		
+4	så	så	ADV		
+5	repetere	repetere	VERB		verb.communication
+6	,	,	PUNCT		
+7	at	at	SCONJ		
+8	vi	vi	PRON		
+9	har	have	VERB		verb.possession
+10	en	en	DET		
+11	politik	politik	NOUN		noun.cognition
+12	om	om	ADP		
+13	at	at	PART		
+14	fremlægge	fremlægge	VERB		verb.communication
+15	en	en	DET		
+16	klar	klar	ADJ		adj.all
+17	plan	plan	NOUN		noun.cognition
+18	om	om	ADP		
+19	,	,	PUNCT		
+20	hvad	hvad	PRON		
+21	vi	vi	PRON		
+22	vil	ville	VERB		verb.emotion
+23	,	,	PUNCT		
+24	inden	inden	SCONJ		
+25	næste	næste	ADJ		adj.time
+26	folketingsvalg	folketingsvalg	NOUN		noun.event
+27	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 43
+# text =  Skatteministeren siger:
+1	Skatteministeren	skatteminister	NOUN		noun.person
+2	siger	sige	VERB		verb.communication
+3	:	:	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 44
+# text =  Dansk økonomi er sund og stærk.
+1	Dansk	dansk	ADJ		adj.social
+2	økonomi	økonomi	NOUN		noun.abstract
+3	er	være	AUX		verb.stative
+4	sund	sund	ADJ		adj.all
+5	og	og	CCONJ		
+6	stærk	stærk	ADJ		adj.all
+7	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 45
+# text =  Det er også et svar til hr. Morten Østergaard.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	også	også	ADV		
+4	et	en	DET		
+5	svar	svar	NOUN		noun.communication
+6	til	til	ADP		
+7	hr	hr	NOUN		noun.person
+8	.	.	PUNCT		noun.person
+9	Morten	morten	PROPN		noun.person
+10	Østergaard	østergaard	PROPN		noun.person
+11	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 46
+# text =  Det er på den baggrund, at vi ønsker den her forespørgsel.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	på	på	ADP		
+4	den	den	DET		
+5	baggrund	baggrund	NOUN		noun.abstract
+6	,	,	PUNCT		
+7	at	at	SCONJ		
+8	vi	vi	PRON		
+9	ønsker	ønske	VERB		verb.emotion
+10	den	den	PRON		
+11	her	her	ADV		
+12	forespørgsel	forespørgsel	NOUN		noun.communication
+13	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 47
+# text =  Det er og forbliver en ugerning.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	og	og	CCONJ		
+4	forbliver	forblive	VERB		verb.stative
+5	en	en	DET		
+6	ugerning	ugerning	NOUN		noun.act
+7	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 48
+# text =  Vi er nødt til at tage en lang række initiativer, fordi det er gået fuldstændig amok.
+1	Vi	vi	PRON		
+2	er	være	AUX		verb.emotion
+3	nødt	nødt	ADJ		verb.COLL
+4	til	til	ADP		verb.COLL
+5	at	at	PART		
+6	tage	tage	VERB		verb.act
+7	en	en	DET		
+8	lang	lang	ADJ		adj.all
+9	række	række	NOUN		noun.group
+10	initiativer	initiativ	NOUN		noun.act
+11	,	,	PUNCT		
+12	fordi	fordi	SCONJ		
+13	det	det	PRON		
+14	er	være	AUX		
+15	gået	gå	VERB		verb.change
+16	fuldstændig	fuldstændig	ADV		
+17	amok	amok	ADV		verb.COLL
+18	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 49
+# text =  Det skal vi sådan set anstrenge os for at nå.
+1	Det	det	PRON		
+2	skal	skulle	AUX		
+3	vi	vi	PRON		
+4	sådan	sådan	ADV		
+5	set	se	VERB		
+6	anstrenge	anstrenge	VERB		verb.act
+7	os	vi	PRON		verb.REFLPRON
+8	for	for	ADP		verb.COLL
+9	at	at	PART		
+10	nå	nå	VERB		verb.act
+11	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 50
+# text =  Det er skatteydernes penge, men I kan i øvrigt gøre med dem, som I har lyst til.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	skatteydernes	skatteyder	ADJ		noun.person
+4	penge	penge	NOUN		noun.artifact
+5	,	,	PUNCT		
+6	men	men	CCONJ		
+7	I	i	ADP		
+8	kan	kunne	AUX		
+9	i	i	ADP		
+10	øvrigt	øvrig	ADV		
+11	gøre	gøre	VERB		verb.act
+12	med	med	ADP		
+13	dem	de	PRON		
+14	,	,	PUNCT		
+15	som	som	PRON		
+16	I	i	PRON		
+17	har	have	VERB		verb.emotion
+18	lyst	lyst	NOUN		verb.COLL
+19	til	til	ADP		verb.COLL
+20	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 51
+# text =  Da Dansk Folkepartis ordfører, hr.
+1	Da	da	SCONJ		
+2	Dansk	dansk	ADJ		noun.institution
+3	Folkepartis	folkeparti	NOUN		noun.institution
+4	ordfører	ordfører	NOUN		noun.person
+5	,	,	PUNCT		
+6	hr	hr	PRON		
+7	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 52
+# text =  En clearingcentral beregner, hvor meget den enkelte deltager i clearingen skal levere af værdipapirer og betale af penge for værdipapirer, og en central modpart er så en anden clearingcentral, der påtager sig risikoen på vegne af køber og sælger af værdipapirer.
+1	En	en	DET		
+2	clearingcentral	clearingcentral	NOUN		noun.institution
+3	beregner	beregner	NOUN		verb.cognition
+4	,	,	PUNCT		
+5	hvor	hvor	ADV		
+6	meget	megen	ADV		
+7	den	den	DET		
+8	enkelte	enkelt	ADJ		adj.all
+9	deltager	deltage	VERB		noun.person
+10	i	i	ADP		
+11	clearingen	clearing	NOUN		noun.act
+12	skal	skulle	AUX		
+13	levere	levere	VERB		verb.possession
+14	af	af	ADP		
+15	værdipapirer	værdipapir	NOUN		noun.artifact
+16	og	og	CCONJ		
+17	betale	betale	VERB		verb.possession
+18	af	af	ADP		
+19	penge	penge	NOUN		noun.artifact
+20	for	for	ADP		
+21	værdipapirer	værdipapir	NOUN		noun.artifact
+22	,	,	PUNCT		
+23	og	og	CCONJ		
+24	en	en	DET		
+25	central	central	ADJ		adj.phys
+26	modpart	modpart	NOUN		noun.relation
+27	er	være	AUX		verb.stative
+28	så	så	ADV		
+29	en	en	DET		
+30	anden	anden	ADJ		
+31	clearingcentral	clearingcentral	NOUN		noun.institution
+32	,	,	PUNCT		
+33	der	der	PRON		
+34	påtager	påtage	VERB		verb.act
+35	sig	sig	PRON		verb.REFLPRON
+36	risikoen	risiko	NOUN		noun.abstract
+37	på	på	ADP		
+38	vegne	vegne	NOUN		
+39	af	af	ADP		
+40	køber	køber	NOUN		noun.person
+41	og	og	CCONJ		
+42	sælger	sælge	VERB		noun.person
+43	af	af	ADP		
+44	værdipapirer	værdipapir	NOUN		noun.artifact
+45	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 53
+# text =  Hvem ejer data?
+1	Hvem	hvem	PRON		
+2	ejer	eje	VERB		verb.possession
+3	data	data	NOUN		noun.abstract
+4	?	?	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 54
+# text =  Nu ved jeg, at jeg gør noget forkert, men jeg insisterer på at gøre noget forkert.
+1	Nu	nu	ADV		
+2	ved	vide	VERB		verb.cognition
+3	jeg	jeg	PRON		
+4	,	,	PUNCT		
+5	at	at	SCONJ		
+6	jeg	jeg	PRON		
+7	gør	gøre	VERB		verb.act
+8	noget	nogen	DET		
+9	forkert	forkert	ADJ		adj.all
+10	,	,	PUNCT		
+11	men	men	CCONJ		
+12	jeg	jeg	PRON		
+13	insisterer	insistere	VERB		verb.cognition
+14	på	på	ADP		
+15	at	at	PART		
+16	gøre	gøre	VERB		verb.act
+17	noget	nogen	DET		
+18	forkert	forkert	ADJ		adj.all
+19	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 55
+# text =  Jeg kan jo ikke ligefrem påstå, at jeg står her og føler mig overvældet af positive tilkendegivelser.
+1	Jeg	jeg	PRON		
+2	kan	kunne	AUX		
+3	jo	jo	ADV		
+4	ikke	ikke	ADV		
+5	ligefrem	ligefrem	ADV		
+6	påstå	påstå	VERB		verb.communication
+7	,	,	PUNCT		
+8	at	at	SCONJ		
+9	jeg	jeg	PRON		
+10	står	stå	VERB		verb.stative
+11	her	her	ADV		
+12	og	og	CCONJ		
+13	føler	føle	VERB		verb.emotion
+14	mig	jeg	PRON		verb.REFLPRON
+15	overvældet	overvælde	VERB		adj.mental
+16	af	af	ADP		
+17	positive	positiv	ADJ		adj.all
+18	tilkendegivelser	tilkendegivelse	NOUN		noun.communication
+19	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 56
+# text =  Men i virkeligheden skulle spørgsmålet måske snarere gå på, hvordan og ikke hvornår der skal reageres.
+1	Men	men	CCONJ		
+2	i	i	ADP		
+3	virkeligheden	virkelighed	NOUN		noun.abstract
+4	skulle	skulle	AUX		
+5	spørgsmålet	spørgsmål	NOUN		noun.cognition
+6	måske	måske	ADV		
+7	snarere	snarere	ADV		
+8	gå	gå	VERB		verb.stative
+9	på	på	ADP		verb.COLL
+10	,	,	PUNCT		
+11	hvordan	hvordan	ADV		
+12	og	og	CCONJ		
+13	ikke	ikke	ADV		
+14	hvornår	hvornår	ADV		
+15	der	der	ADV		
+16	skal	skulle	AUX		
+17	reageres	reagere	VERB		verb.act
+18	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 57
+# text =  Så må jeg til gengæld sige, at jeg synes, at jeg i forslaget og det høringsnotat, der er blevet lavet som svar på de høringssvar, der er blevet indgivet fra Københavns og Frederiksberg Kommuner, savner dokumentation for, at der rent faktisk kan opnås effektiviseringsgevinster med det her forslag.
+1	Så	så	ADV		
+2	må	måtte	AUX		
+3	jeg	jeg	PRON		
+4	til	til	ADP		
+5	gengæld	gengæld	NOUN		
+6	sige	sige	VERB		verb.communication
+7	,	,	PUNCT		
+8	at	at	SCONJ		
+9	jeg	jeg	PRON		
+10	synes	synes	VERB		verb.cognition
+11	,	,	PUNCT		
+12	at	at	SCONJ		
+13	jeg	jeg	PRON		
+14	i	i	ADP		
+15	forslaget	forslag	NOUN		noun.communication
+16	og	og	CCONJ		
+17	det	det	DET		
+18	høringsnotat	høringsnotat	NOUN		noun.communication
+19	,	,	PUNCT		
+20	der	der	ADV		
+21	er	være	AUX		
+22	blevet	blive	AUX		
+23	lavet	lave	VERB		verb.creation
+24	som	som	ADP		
+25	svar	svar	NOUN		noun.communication
+26	på	på	ADP		
+27	de	den	DET		
+28	høringssvar	høringssvar	NOUN		noun.communication
+29	,	,	PUNCT		
+30	der	der	ADV		
+31	er	være	AUX		
+32	blevet	blive	AUX		
+33	indgivet	indgive	VERB		verb.possession
+34	fra	fra	ADP		
+35	Københavns	københavns	PROPN		noun.institution
+36	og	og	CCONJ		
+37	Frederiksberg	frederiksberg	PROPN		noun.institution
+38	Kommuner	kommune	NOUN		noun.institution
+39	,	,	PUNCT		
+40	savner	savne	VERB		verb.emotion
+41	dokumentation	dokumentation	NOUN		noun.communication
+42	for	for	ADP		
+43	,	,	PUNCT		
+44	at	at	SCONJ		
+45	der	der	ADV		
+46	rent	ren	ADV		
+47	faktisk	faktisk	ADV		
+48	kan	kunne	AUX		
+49	opnås	opnå	VERB		verb.act
+50	effektiviseringsgevinster	effektiviseringsgevinst	NOUN		noun.abstract
+51	med	med	ADP		
+52	det	det	PRON		
+53	her	her	ADV		
+54	forslag	forslag	NOUN		noun.phenomenon
+55	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 58
+# text =  Jeg synes, regeringen står over for et meget stort problem her, og at den burde handle meget resolut.
+1	Jeg	jeg	PRON		
+2	synes	synes	VERB		verb.cognition
+3	,	,	PUNCT		
+4	regeringen	regering	NOUN		noun.person
+5	står	stå	VERB		verb.stative
+6	over	over	ADV		verb.COLL
+7	for	for	ADP		verb.COLL
+8	et	en	DET		
+9	meget	megen	ADV		
+10	stort	stor	ADJ		adj.phys
+11	problem	problem	NOUN		noun.abstract
+12	her	her	ADV		
+13	,	,	PUNCT		
+14	og	og	CCONJ		
+15	at	at	SCONJ		
+16	den	den	PRON		
+17	burde	burde	AUX		
+18	handle	handle	VERB		verb.act
+19	meget	megen	ADV		
+20	resolut	resolut	ADV		
+21	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 59
+# text =  Med skattereformen bringer vi optimismen tilbage i dansk økonomi, og vi understøtter det initiativ og den virketrang, som vi ved danskerne stadig har masser af.
+1	Med	med	ADP		
+2	skattereformen	skattereform	NOUN		noun.act
+3	bringer	bringe	VERB		verb.change
+4	vi	vi	PRON		
+5	optimismen	optimisme	NOUN		noun.feeling
+6	tilbage	tilbage	ADV		
+7	i	i	ADP		
+8	dansk	dansk	ADJ		adj.social
+9	økonomi	økonomi	NOUN		noun.abstract
+10	,	,	PUNCT		
+11	og	og	CCONJ		
+12	vi	vi	PRON		
+13	understøtter	understøtte	VERB		verb.act
+14	det	det	DET		
+15	initiativ	initiativ	NOUN		noun.act
+16	og	og	CCONJ		
+17	den	den	DET		
+18	virketrang	virketrang	NOUN		noun.feeling
+19	,	,	PUNCT		
+20	som	som	PRON		
+21	vi	vi	PRON		
+22	ved	ved	ADP		verb.cognition
+23	danskerne	dansker	NOUN		noun.person
+24	stadig	stadig	ADV		
+25	har	have	AUX		verb.possession
+26	masser	masse	NOUN		noun.quantity
+27	af	af	ADP		
+28	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 60
+# text =  Så vil jeg høre, om ministeren er enig med Dansk Folkeparti i, at det bør være en midlertidig foranstaltning, fordi det, hvis vi når til en situation- hvilket vi forhåbentlig gør på et tidspunkt- hvor den økonomiske situation er vendt, og hvor vi igen ser en stigning i antallet af virksomhedspraktikpladser, vil være virkelig uholdbart f. eks. at følge Socialistisk Folkepartis, Socialdemokraternes og andres forslag om, at vi så stadig væk skal have et højt antal skolepraktikpladser, for det vil forhindre unge mennesker i at komme ud i det, som de først og fremmest bør komme ud i, nemlig en virksomhedspraktikplads.
+1	Så	så	ADV		
+2	vil	ville	AUX		
+3	jeg	jeg	PRON		
+4	høre	høre	VERB		verb.communication
+5	,	,	PUNCT		
+6	om	om	SCONJ		
+7	ministeren	minister	NOUN		noun.person
+8	er	være	AUX		
+9	enig	enig	VERB		adj.mental
+10	med	med	ADP		
+11	Dansk	dansk	ADJ		noun.institution
+12	Folkeparti	folkeparti	NOUN		noun.institution
+13	i	i	ADP		
+14	,	,	PUNCT		
+15	at	at	SCONJ		
+16	det	det	PRON		
+17	bør	burde	AUX		
+18	være	være	AUX		verb.stative
+19	en	en	DET		
+20	midlertidig	midlertidig	ADJ		adj.time
+21	foranstaltning	foranstaltning	NOUN		noun.abstract
+22	,	,	PUNCT		
+23	fordi	fordi	SCONJ		
+24	det	det	PRON		
+25	,	,	PUNCT		
+26	hvis	hvis	SCONJ		
+27	vi	vi	PRON		
+28	når	nå	VERB		verb.phenomenon
+29	til	til	ADP		
+30	en	en	DET		
+31	situation	situation	NOUN		noun.state
+32	-	-	PUNCT		
+33	hvilket	hvilken	PRON		
+34	vi	vi	PRON		
+35	forhåbentlig	forhåbentlig	ADV		
+36	gør	gøre	VERB		verb.phenomenon
+37	på	på	ADP		
+38	et	en	DET		
+39	tidspunkt	tidspunkt	NOUN		noun.time
+40	-	-	PUNCT		
+41	hvor	hvor	ADV		
+42	den	den	DET		
+43	økonomiske	økonomisk	ADJ		adj.all
+44	situation	situation	NOUN		noun.state
+45	er	være	AUX		verb.stative
+46	vendt	vende	VERB		adj.all
+47	,	,	PUNCT		
+48	og	og	CCONJ		
+49	hvor	hvor	ADV		
+50	vi	vi	PRON		
+51	igen	igen	ADV		
+52	ser	se	VERB		verb.perception
+53	en	en	DET		
+54	stigning	stigning	NOUN		noun.phenomenon
+55	i	i	ADP		
+56	antallet	antal	NOUN		noun.quantity
+57	af	af	ADP		
+58	virksomhedspraktikpladser	virksomhedspraktikplads	NOUN		noun.abstract
+59	,	,	PUNCT		
+60	vil	ville	AUX		
+61	være	være	AUX		verb.stative
+62	virkelig	virkelig	ADV		
+63	uholdbart	uholdbar	ADJ		adj.all
+64	f	f	NOUN		
+65	.	.	PUNCT		
+66	eks	ekse	NOUN		
+67	.	.	PUNCT		
+68	at	at	PART		
+69	følge	følge	VERB		verb.act
+70	Socialistisk	socialistisk	ADJ		noun.institution
+71	Folkepartis	folkeparti	NOUN		noun.institution
+72	,	,	PUNCT		
+73	Socialdemokraternes	socialdemokrat	NOUN		noun.institution
+74	og	og	CCONJ		
+75	andres	anden	DET		
+76	forslag	forslag	NOUN		noun.communication
+77	om	om	ADP		
+78	,	,	PUNCT		
+79	at	at	SCONJ		
+80	vi	vi	PRON		
+81	så	så	ADV		
+82	stadig	stadig	ADV		
+83	væk	væk	ADV		
+84	skal	skulle	AUX		
+85	have	have	VERB		verb.stative
+86	et	en	DET		
+87	højt	høj	ADJ		adj.all
+88	antal	antal	NOUN		noun.quantity
+89	skolepraktikpladser	skolepraktikplads	NOUN		noun.abstract
+90	,	,	PUNCT		
+91	for	for	CCONJ		
+92	det	det	PRON		
+93	vil	ville	AUX		
+94	forhindre	forhindre	VERB		verb.act
+95	unge	ung	ADJ		adj.time
+96	mennesker	menneske	NOUN		noun.person
+97	i	i	ADP		
+98	at	at	PART		
+99	komme	komme	VERB		verb.motion
+100	ud	ud	ADV		verb.PARTICLE
+101	i	i	ADP		
+102	det	det	PRON		
+103	,	,	PUNCT		
+104	som	som	ADP		
+105	de	den	PRON		
+106	først	først	ADV		
+107	og	og	CCONJ		
+108	fremmest	fremmest	ADJ		
+109	bør	burde	AUX		
+110	komme	komme	VERB		verb.motion
+111	ud	ud	ADV		verb.PARTICLE
+112	i	i	ADP		
+113	,	,	PUNCT		
+114	nemlig	nemlig	ADV		
+115	en	en	DET		
+116	virksomhedspraktikplads	virksomhedspraktikplad	NOUN		noun.abstract
+117	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 61
+# text =  Vi foreslår en velfærdspakke, der giver kommunerne og regionerne penge til renovering af skoler og iværksættelse af andre projekter, der er blevet udskudt på grund af de økonomiske rammer, staten har dikteret kommunerne.
+1	Vi	vi	PRON		
+2	foreslår	foreslå	VERB		verb.communication
+3	en	en	DET		
+4	velfærdspakke	velfærdspak	NOUN		noun.abstract
+5	,	,	PUNCT		
+6	der	der	PRON		
+7	giver	give	VERB		verb.possession
+8	kommunerne	kommune	NOUN		noun.institution
+9	og	og	CCONJ		
+10	regionerne	region	NOUN		noun.institution
+11	penge	penge	NOUN		noun.artifact
+12	til	til	ADP		
+13	renovering	renovering	NOUN		noun.act
+14	af	af	ADP		
+15	skoler	skole	NOUN		noun.building
+16	og	og	CCONJ		
+17	iværksættelse	iværksættelse	NOUN		noun.act
+18	af	af	ADP		
+19	andre	anden	DET		
+20	projekter	projekt	NOUN		noun.act
+21	,	,	PUNCT		
+22	der	der	ADV		
+23	er	være	AUX		
+24	blevet	blive	AUX		
+25	udskudt	udskyde	VERB		verb.act
+26	på	på	ADP		
+27	grund	grund	NOUN		
+28	af	af	ADP		
+29	de	den	DET		
+30	økonomiske	økonomisk	ADJ		adj.all
+31	rammer	ramme	NOUN		noun.relation
+32	,	,	PUNCT		
+33	staten	stat	NOUN		noun.institution
+34	har	have	AUX		
+35	dikteret	diktere	VERB		verb.communication
+36	kommunerne	kommune	NOUN		noun.institution
+37	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 62
+# text =  Sådan er det i den her regering, sådan har det været i alle tidligere regeringer, og sådan tror jeg også det vil være i alle kommende regeringer.
+1	Sådan	sådan	ADV		
+2	er	være	AUX		verb.stative
+3	det	det	PRON		
+4	i	i	ADP		
+5	den	den	DET		
+6	her	her	ADV		
+7	regering	regering	NOUN		noun.institution
+8	,	,	PUNCT		
+9	sådan	sådan	ADV		
+10	har	have	AUX		
+11	det	det	PRON		
+12	været	være	VERB		verb.stative
+13	i	i	ADP		
+14	alle	al	ADJ		
+15	tidligere	tidlig	ADJ		adj.time
+16	regeringer	regering	NOUN		noun.institution
+17	,	,	PUNCT		
+18	og	og	CCONJ		
+19	sådan	sådan	ADV		
+20	tror	tro	VERB		verb.cognition
+21	jeg	jeg	PRON		
+22	også	også	ADV		
+23	det	det	PRON		
+24	vil	ville	AUX		
+25	være	være	VERB		verb.stative
+26	i	i	ADP		
+27	alle	al	ADJ		
+28	kommende	komme	VERB		adj.time
+29	regeringer	regering	NOUN		noun.institution
+30	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 63
+# text =  De skattelettelser, vi giver til de enkelte borger, er jo for at styrke den enkelte borger og den enkelte familie mod krisen, så man selv har noget at stå imod med, så man ikke er afhængig af støtteordninger og andre ting og sager.
+1	De	den	DET		
+2	skattelettelser	skattelettelse	NOUN		noun.act
+3	,	,	PUNCT		
+4	vi	vi	PRON		
+5	giver	give	VERB		verb.possession
+6	til	til	ADP		
+7	de	den	DET		
+8	enkelte	enkelt	ADJ		adj.all
+9	borger	borger	NOUN		noun.person
+10	,	,	PUNCT		
+11	er	være	AUX		
+12	jo	jo	ADV		
+13	for	for	ADP		
+14	at	at	PART		
+15	styrke	styrke	VERB		verb.change
+16	den	den	DET		
+17	enkelte	enkelt	ADJ		adj.all
+18	borger	borger	NOUN		noun.person
+19	og	og	CCONJ		
+20	den	den	DET		
+21	enkelte	enkelt	ADJ		adj.all
+22	familie	familie	NOUN		noun.person
+23	mod	mod	ADP		
+24	krisen	krise	NOUN		noun.state
+25	,	,	PUNCT		
+26	så	så	SCONJ		
+27	man	man	PRON		
+28	selv	selv	PRON		
+29	har	have	VERB		verb.possession
+30	noget	nogen	PRON		
+31	at	at	PART		
+32	stå	stå	VERB		verb.act
+33	imod	imod	ADP		verb.PARTICLE
+34	med	med	ADV		
+35	,	,	PUNCT		
+36	så	så	SCONJ		
+37	man	man	PRON		
+38	ikke	ikke	ADV		
+39	er	være	AUX		verb.stative
+40	afhængig	afhængig	ADJ		adj.all
+41	af	af	ADP		
+42	støtteordninger	støtteordning	NOUN		noun.abstract
+43	og	og	CCONJ		
+44	andre	anden	DET		
+45	ting	ting	NOUN		noun.abstract
+46	og	og	CCONJ		
+47	sager	sag	NOUN		noun.abstract
+48	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 64
+# text =  For man skal også tage hensyn til børnene, det er jeg enig i; børnene kommer jo ofte i klemme.
+1	For	for	CCONJ		
+2	man	man	PRON		
+3	skal	skulle	AUX		
+4	også	også	ADV		
+5	tage	tage	VERB		verb.act
+6	hensyn	hensyn	NOUN		verb.COLL
+7	til	til	ADP		ve
+8	børnene	barn	NOUN		noun.person
+9	,	,	PUNCT		
+10	det	det	PRON		
+11	er	være	AUX		verb.stative
+12	jeg	jeg	PRON		
+13	enig	enig	VERB		adj.mental
+14	i	i	ADP		
+15	;	;	PUNCT		
+16	børnene	barn	NOUN		noun.person
+17	kommer	komme	VERB		verb.phenomenon
+18	jo	jo	ADV		
+19	ofte	ofte	ADV		
+20	i	i	ADP		verb.COLL
+21	klemme	klemme	NOUN		verb.COLL
+22	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 65
+# text =  Konsekvensen af besparelserne er, at der vil være endnu flere vagter, hvor en fængselsfunktionær vil være alene, og det synes jeg ikke er i orden.
+1	Konsekvensen	konsekvens	NOUN		noun.phenomenon
+2	af	af	ADP		
+3	besparelserne	besparelse	NOUN		noun.act
+4	er	være	VERB		verb.stative
+5	,	,	PUNCT		
+6	at	at	SCONJ		
+7	der	der	ADV		
+8	vil	ville	AUX		
+9	være	være	AUX		verb.stative
+10	endnu	endnu	ADV		
+11	flere	flere	ADJ		
+12	vagter	vagt	NOUN		noun.time
+13	,	,	PUNCT		
+14	hvor	hvor	ADV		
+15	en	en	DET		
+16	fængselsfunktionær	fængselsfunktionær	NOUN		noun.person
+17	vil	ville	AUX		
+18	være	være	AUX		verb.stative
+19	alene	alene	ADV		adj.all
+20	,	,	PUNCT		
+21	og	og	CCONJ		
+22	det	det	PRON		
+23	synes	synes	VERB		verb.cognition
+24	jeg	jeg	PRON		
+25	ikke	ikke	ADV		
+26	er	være	VERB		verb.stative
+27	i	i	ADP		
+28	orden	orden	NOUN		noun.state
+29	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 66
+# text =  Og det er jo så det, vi må agere på her fra Folketingets side og konstatere, at der er et stort udviklingsarbejde i gang, og at der her fra Folketingets side er skabt rammer for en bedre pårørendeinddragelse.
+1	Og	og	CCONJ		
+2	det	det	PRON		
+3	er	være	AUX		verb.stative
+4	jo	jo	ADV		
+5	så	så	ADV		
+6	det	det	PRON		
+7	,	,	PUNCT		
+8	vi	vi	PRON		
+9	må	måtte	AUX		
+10	agere	agere	VERB		verb.act
+11	på	på	ADP		
+12	her	her	ADV		
+13	fra	fra	ADP		
+14	Folketingets	folketing	NOUN		noun.institution
+15	side	side	NOUN		noun.location
+16	og	og	CCONJ		
+17	konstatere	konstatere	VERB		verb.cognition
+18	,	,	PUNCT		
+19	at	at	SCONJ		
+20	der	der	ADV		
+21	er	være	VERB		verb.stative
+22	et	en	DET		
+23	stort	stor	ADJ		adj.phys
+24	udviklingsarbejde	udviklingsarbejde	NOUN		noun.act
+25	i	i	ADP		
+26	gang	gang	NOUN		
+27	,	,	PUNCT		
+28	og	og	CCONJ		
+29	at	at	SCONJ		
+30	der	der	ADV		
+31	her	her	ADV		
+32	fra	fra	ADP		
+33	Folketingets	folketing	NOUN		noun.institution
+34	side	side	NOUN		noun.location
+35	er	være	AUX		
+36	skabt	skabe	VERB		verb.creation
+37	rammer	ramme	NOUN		noun.relation
+38	for	for	ADP		
+39	en	en	DET		
+40	bedre	god	ADJ		adj.all
+41	pårørendeinddragelse	pårørendeinddrag	NOUN		noun.act
+42	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 67
+# text =  Jeg beder formanden underrette Folketinget herom.
+1	Jeg	jeg	PRON		
+2	beder	bede	VERB		verb.communication
+3	formanden	formand	NOUN		noun.person
+4	underrette	underrette	VERB		verb.communication
+5	Folketinget	folketing	NOUN		noun.institution
+6	herom	herom	ADV		
+7	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 68
+# text =  Den danske landfoged på Færøerne har lige lavet en stor omlægning af politiet på Færøerne efter den danske model med politireformen, uden at man har spurgt en eneste færøsk politiker, kommunalpolitiker eller nogen som helst.
+1	Den	den	DET		
+2	danske	dansk	ADJ		adj.social
+3	landfoged	landfoged	NOUN		noun.person
+4	på	på	ADP		
+5	Færøerne	færøerne	PROPN		noun.location
+6	har	have	AUX		
+7	lige	lige	ADV		
+8	lavet	lave	VERB		verb.change
+9	en	en	DET		
+10	stor	stor	ADJ		adj.all
+11	omlægning	omlægning	NOUN		noun.act
+12	af	af	ADP		
+13	politiet	politi	NOUN		noun.institution
+14	på	på	ADP		
+15	Færøerne	færøerne	PROPN		noun.location
+16	efter	efter	ADP		
+17	den	den	DET		
+18	danske	dansk	ADJ		adj.social
+19	model	model	NOUN		noun.abstract
+20	med	med	ADP		
+21	politireformen	politireform	NOUN		noun.act
+22	,	,	PUNCT		
+23	uden	uden	ADP		
+24	at	at	SCONJ		
+25	man	man	PRON		
+26	har	have	AUX		
+27	spurgt	spørge	VERB		verb.communication
+28	en	en	DET		
+29	eneste	eneste	ADJ		adj.all
+30	færøsk	færøsk	ADJ		adj.social
+31	politiker	politiker	NOUN		noun.person
+32	,	,	PUNCT		
+33	kommunalpolitiker	kommunalpolitiker	NOUN		noun.person
+34	eller	eller	CCONJ		
+35	nogen	nogen	DET		
+36	som	som	ADP		
+37	helst	helst	ADV		
+38	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 69
+# text =  Vi må prøve at se på, hvad en busbillet reelt koster i forhold til det produkt, man får, og i forhold til lønudviklingen i Danmark.
+1	Vi	vi	PRON		
+2	må	måtte	AUX		
+3	prøve	prøve	VERB		
+4	at	at	PART		
+5	se	se	VERB		verb.cognition
+6	på	på	ADP		verb.COLL
+7	,	,	PUNCT		
+8	hvad	hvad	PRON		
+9	en	en	DET		
+10	busbillet	busbil	NOUN		noun.artifact
+11	reelt	reel	ADV		
+12	koster	koste	VERB		verb.stative
+13	i	i	ADP		
+14	forhold	forhold	NOUN		
+15	til	til	ADP		
+16	det	det	DET		
+17	produkt	produkt	NOUN		noun.abstract
+18	,	,	PUNCT		
+19	man	man	PRON		
+20	får	få	VERB		verb.possession
+21	,	,	PUNCT		
+22	og	og	CCONJ		
+23	i	i	ADP		
+24	forhold	forhold	NOUN		
+25	til	til	ADP		
+26	lønudviklingen	lønudvikling	NOUN		noun.phenomenon
+27	i	i	ADP		
+28	Danmark	danmark	PROPN		noun.location
+29	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 70
+# text =  Der er ingen tvivl om, at starthjælpen og kontanthjælpsloftet skaber fattigdom i Danmark, og hvis man bliver ved med at holde fast i starthjælpen og kontanthjælpsloftet, må man også acceptere, at der er fattigdom i Danmark, måske helt op til 50. 000 børn, der lever i fattigdom.
+1	Der	der	ADV		
+2	er	være	VERB		verb.stative
+3	ingen	ingen	DET		
+4	tvivl	tvivl	NOUN		noun.cognition
+5	om	om	ADP		
+6	,	,	PUNCT		
+7	at	at	SCONJ		
+8	starthjælpen	starthjælp	NOUN		noun.act
+9	og	og	CCONJ		
+10	kontanthjælpsloftet	kontanthjælpsloft	NOUN		noun.abstract
+11	skaber	skabe	VERB		verb.creation
+12	fattigdom	fattigdom	NOUN		noun.state
+13	i	i	ADP		
+14	Danmark	danmark	PROPN		noun.location
+15	,	,	PUNCT		
+16	og	og	CCONJ		
+17	hvis	hvis	SCONJ		
+18	man	man	PRON		
+19	bliver	blive	AUX		verb.aspectual
+20	ved	vide	VERB		verb.COLL
+21	med	med	ADP		verb.COLL
+22	at	at	PART		
+23	holde	holde	VERB		verb.stative
+24	fast	fast	ADV		verb.PARTICLE
+25	i	i	ADP		
+26	starthjælpen	starthjælp	NOUN		noun.act
+27	og	og	CCONJ		
+28	kontanthjælpsloftet	kontanthjælpsloft	NOUN		noun.abstract
+29	,	,	PUNCT		
+30	må	måtte	AUX		
+31	man	man	PRON		
+32	også	også	ADV		
+33	acceptere	acceptere	VERB		verb.cognition
+34	,	,	PUNCT		
+35	at	at	SCONJ		
+36	der	der	ADV		
+37	er	være	VERB		verb.stative
+38	fattigdom	fattigdom	NOUN		noun.state
+39	i	i	ADP		
+40	Danmark	danmark	PROPN		noun.location
+41	,	,	PUNCT		
+42	måske	måske	ADV		
+43	helt	helt	ADV		
+44	op	op	ADV		
+45	til	til	ADP		
+46	50	50	NUM		
+47	.	.	PUNCT		
+48	000	000	NUM		
+49	børn	barn	NOUN		noun.person
+50	,	,	PUNCT		
+51	der	der	PRON		
+52	lever	levere	VERB		verb.phenomenon
+53	i	i	ADP		
+54	fattigdom	fattigdom	NOUN		noun.state
+55	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 71
+# text =  Man kan måske trække lidt på smilebåndet over, at der skal tælles håndvaske og spritdispensere, men det er helt uberettiget.
+1	Man	man	PRON		
+2	kan	kunne	AUX		
+3	måske	måske	ADV		
+4	trække	trække	VERB		verb.motion
+5	lidt	lidt	ADV		
+6	på	på	ADP		verb.COLL
+7	smilebåndet	smilebånd	NOUN		verb.COLL
+8	over	over	ADP		
+9	,	,	PUNCT		
+10	at	at	SCONJ		
+11	der	der	ADV		
+12	skal	skulle	AUX		
+13	tælles	tælle	VERB		verb.cognition
+14	håndvaske	håndvaske	ADJ		noun.artifact
+15	og	og	CCONJ		
+16	spritdispensere	spritdispens	NOUN		noun.container
+17	,	,	PUNCT		
+18	men	men	CCONJ		
+19	det	det	PRON		
+20	er	være	AUX		verb.stative
+21	helt	helt	ADV		
+22	uberettiget	uberettiget	ADJ		adj.all
+23	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 72
+# text =  På den anden side kan sektoren kun glæde sig over, at Socialdemokraterne, SF og Enhedslisten er i mindretal og så ingen indflydelse har haft på dette lovforslag.
+1	På	på	ADP		
+2	den	den	DET		
+3	anden	anden	DET		
+4	side	side	NOUN		noun.relation
+5	kan	kunne	AUX		
+6	sektoren	sektor	NOUN		noun.group
+7	kun	kun	ADV		
+8	glæde	glæde	VERB		verb.emotion
+9	sig	sig	PRON		verb.REFLPRON
+10	over	over	ADP		verb.COLL
+11	,	,	PUNCT		
+12	at	at	SCONJ		
+13	Socialdemokraterne	socialdemokrat	NOUN		noun.institution
+14	,	,	PUNCT		
+15	SF	sf	PROPN		noun.institution
+16	og	og	CCONJ		
+17	Enhedslisten	enhedslist	NOUN		noun.institution
+18	er	være	AUX		verb.stative
+19	i	i	ADP		
+20	mindretal	mindretal	NOUN		noun.quantity
+21	og	og	CCONJ		
+22	så	så	ADV		
+23	ingen	ingen	DET		
+24	indflydelse	indflydelse	NOUN		noun.abstract
+25	har	have	AUX		
+26	haft	have	VERB		verb.stative
+27	på	på	ADP		
+28	dette	denne	DET		
+29	lovforslag	lovforslag	NOUN		noun.communication
+30	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 73
+# text =  De skal bruges gunstigt.
+1	De	den	PRON		
+2	skal	skulle	AUX		
+3	bruges	bruge	VERB		verb.act
+4	gunstigt	gunstig	ADV		
+5	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 74
+# text =  Man har alle ressourcerne, man har alle mulighederne, man har hele ekspertisen, men man afstår fra nogle ting, fordi man jo helst ikke skulle genere en eller anden forstander i en bygd.
+1	Man	man	PRON		
+2	har	have	AUX		verb.possession
+3	alle	al	ADJ		
+4	ressourcerne	ressource	NOUN		noun.abstract
+5	,	,	PUNCT		
+6	man	man	PRON		
+7	har	have	AUX		verb.possession
+8	alle	al	ADJ		
+9	mulighederne	mulighed	NOUN		noun.abstract
+10	,	,	PUNCT		
+11	man	man	PRON		
+12	har	have	AUX		verb.possession
+13	hele	hel	ADJ		
+14	ekspertisen	ekspertise	NOUN		noun.cognition
+15	,	,	PUNCT		
+16	men	men	CCONJ		
+17	man	man	PRON		
+18	afstår	afstå	VERB		verb.cognition
+19	fra	fra	ADP		verb.COLL
+20	nogle	nogen	DET		
+21	ting	ting	NOUN		noun.abstract
+22	,	,	PUNCT		
+23	fordi	fordi	SCONJ		
+24	man	man	PRON		
+25	jo	jo	ADV		
+26	helst	helst	ADV		
+27	ikke	ikke	ADV		
+28	skulle	skulle	AUX		
+29	genere	genere	VERB		verb.act
+30	en	en	DET		
+31	eller	eller	CCONJ		
+32	anden	anden	DET		
+33	forstander	forstander	NOUN		noun.person
+34	i	i	ADP		
+35	en	en	DET		
+36	bygd	bygd	NOUN		noun.location
+37	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 75
+# text =  Dermed lægges der endnu en sten til en mosaik, der tegner et billede af en minister og en regering, som føler sig hævet over Folketinget, demokratiet og befolkningen; et billede, som jo bestyrkes yderligere af ministerens tilståelse af at have overtrådt grundloven i sagen om udskydelse af betalingsfrister for A- skat, arbejdsmarkedsbidrag og moms; et grundlovsbrud, som ministeren var lige ved at gentage i lovforslaget om pensionsbeskatning, L 200, som vi også har til behandling i dag, og som han skyndsomst måtte trække i land, da fadæsen blev opdaget; en minister, som i den såkaldte skrothandlersag tilsidesætter en borgers krav på tilbagebetaling af uberettiget indbetalt moms i størrelsesordenen 3 mio. kr.
+1	Dermed	dermed	ADV		
+2	lægges	lægge	VERB		verb.change
+3	der	der	ADV		
+4	endnu	endnu	ADV		
+5	en	en	DET		
+6	sten	sten	NOUN		noun.object
+7	til	til	ADP		
+8	en	en	DET		
+9	mosaik	mosaik	NOUN		noun.artifact
+10	,	,	PUNCT		
+11	der	der	PRON		
+12	tegner	tegne	VERB		verb.communication
+13	et	en	DET		
+14	billede	billede	NOUN		noun.cognition
+15	af	af	ADP		
+16	en	en	DET		
+17	minister	minister	NOUN		noun.person
+18	og	og	CCONJ		
+19	en	en	DET		
+20	regering	regering	NOUN		noun.institution
+21	,	,	PUNCT		
+22	som	som	PRON		
+23	føler	føle	VERB		verb.emotion
+24	sig	sig	PRON		verb.REFLPRON
+25	hævet	hæve	VERB		adj.social
+26	over	over	ADP		
+27	Folketinget	folketing	NOUN		noun.institution
+28	,	,	PUNCT		
+29	demokratiet	demokrati	NOUN		noun.abstract
+30	og	og	CCONJ		
+31	befolkningen	befolkning	NOUN		noun.person
+32	;	;	PUNCT		
+33	et	en	DET		
+34	billede	billede	NOUN		noun.cognition
+35	,	,	PUNCT		
+36	som	som	PRON		
+37	jo	jo	ADV		
+38	bestyrkes	bestyrke	VERB		verb.change
+39	yderligere	yderlig	ADV		
+40	af	af	ADP		
+41	ministerens	minister	NOUN		noun.person
+42	tilståelse	tilståelse	NOUN		noun.communication
+43	af	af	ADP		
+44	at	at	PART		
+45	have	have	AUX		
+46	overtrådt	overtræde	VERB		verb.act
+47	grundloven	grundlov	NOUN		noun.abstract
+48	i	i	ADP		
+49	sagen	sag	NOUN		noun.abstract
+50	om	om	ADP		
+51	udskydelse	udskydelse	NOUN		noun.act
+52	af	af	ADP		
+53	betalingsfrister	betalingsfrist	NOUN		noun.time
+54	for	for	ADP		
+55	A	a	PROPN		noun.possession
+56	-	-	PUNCT		noun.possession
+57	skat	skat	NOUN		noun.possession
+58	,	,	PUNCT		
+59	arbejdsmarkedsbidrag	arbejdsmarkedsbidrag	NOUN		noun.possession
+60	og	og	CCONJ		
+61	moms	moms	NOUN		noun.possession
+62	;	;	PUNCT		
+63	et	en	DET		
+64	grundlovsbrud	grundlovsbrud	NOUN		noun.act
+65	,	,	PUNCT		
+66	som	som	ADP		
+67	ministeren	minister	NOUN		noun.person
+68	var	være	AUX		
+69	lige	lige	ADV		
+70	ved	ved	ADP		
+71	at	at	PART		
+72	gentage	gentage	VERB		verb.act
+73	i	i	ADP		
+74	lovforslaget	lovforslag	NOUN		noun.communication
+75	om	om	ADP		
+76	pensionsbeskatning	pensionsbeskatning	NOUN		noun.act
+77	,	,	PUNCT		
+78	L	l	PROPN		
+79	200	200	NUM		
+80	,	,	PUNCT		
+81	som	som	PRON		
+82	vi	vi	PRON		
+83	også	også	ADV		
+84	har	have	VERB		verb.stative
+85	til	til	ADP		
+86	behandling	behandling	NOUN		noun.act
+87	i	i	ADP		
+88	dag	dag	NOUN		noun.time
+89	,	,	PUNCT		
+90	og	og	CCONJ		
+91	som	som	ADP		
+92	han	han	PRON		
+93	skyndsomst	skyndsomst	NOUN		
+94	måtte	måtte	AUX		
+95	trække	trække	VERB		verb.act
+96	i	i	ADP		verb.COLL
+97	land	land	NOUN		verb.COLL
+98	,	,	PUNCT		
+99	da	da	SCONJ		
+100	fadæsen	fadæse	NOUN		noun.act
+101	blev	blive	AUX		
+102	opdaget	opdage	VERB		verb.cognition
+103	;	;	PUNCT		
+104	en	en	DET		
+105	minister	minister	NOUN		noun.person
+106	,	,	PUNCT		
+107	som	som	PRON		
+108	i	i	ADP		
+109	den	den	DET		
+110	såkaldte	såkaldt	ADJ		adj.all
+111	skrothandlersag	skrothandlersag	NOUN		noun.abstract
+112	tilsidesætter	tilsidesætte	VERB		verb.act
+113	en	en	DET		
+114	borgers	borger	ADJ		noun.person
+115	krav	krav	NOUN		noun.abstract
+116	på	på	ADP		
+117	tilbagebetaling	tilbagebetaling	NOUN		noun.possession
+118	af	af	ADP		
+119	uberettiget	uberettiget	ADJ		
+120	indbetalt	indbetale	VERB		adj.all
+121	moms	moms	NOUN		noun.possession
+122	i	i	ADP		
+123	størrelsesordenen	størrelsesorden	NOUN		noun.quantity
+124	3	3	ADJ		
+125	mio	mio	NOUN		noun.quantity
+126	.	.	PUNCT		
+127	kr	kr	NOUN		noun.quantity
+128	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 76
+# text =  Jeg synes, det bliver bedre og bedre.
+1	Jeg	jeg	PRON		
+2	synes	synes	VERB		verb.cognition
+3	,	,	PUNCT		
+4	det	det	PRON		
+5	bliver	blive	AUX		verb.change
+6	bedre	god	ADJ		adj.all
+7	og	og	CCONJ		
+8	bedre	god	ADJ		adj.all
+9	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 77
+# text =  Jeg tror, man gør klogt i at erindre sig selv om, at den der mindre gruppe borgere, som ministeren taler om, er 5. 000 mennesker, der hvert eneste år mister deres sygedagpenge.
+1	Jeg	jeg	PRON		
+2	tror	tro	VERB		verb.cognition
+3	,	,	PUNCT		
+4	man	man	PRON		
+5	gør	gøre	VERB		verb.act
+6	klogt	klog	ADJ		verb.COLL
+7	i	i	ADP		verb.COLL
+8	at	at	PART		
+9	erindre	erindre	VERB		verb.cognition
+10	sig	sig	PRON		
+11	selv	selv	ADV		
+12	om	om	ADP		
+13	,	,	PUNCT		
+14	at	at	SCONJ		
+15	den	den	PRON		
+16	der	der	ADV		
+17	mindre	lille	ADJ		adj.all
+18	gruppe	gruppe	NOUN		noun.group
+19	borgere	borger	NOUN		noun.person
+20	,	,	PUNCT		
+21	som	som	ADP		
+22	ministeren	minister	NOUN		noun.person
+23	taler	tale	VERB		verb.communication
+24	om	om	ADP		
+25	,	,	PUNCT		
+26	er	være	AUX		verb.stative
+27	5	5	ADJ		
+28	.	.	PUNCT		
+29	000	000	NUM		
+30	mennesker	menneske	NOUN		noun.person
+31	,	,	PUNCT		
+32	der	der	PRON		
+33	hvert	hver	PRON		
+34	eneste	eneste	ADJ		
+35	år	år	NOUN		noun.time
+36	mister	miste	VERB		verb.phenomenon
+37	deres	deres	DET		
+38	sygedagpenge	sygedagpenge	NOUN		noun.possession
+39	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 78
+# text =  Det er en konstatering af, at der politisk var en opfattelse af, at der krævedes forandringer i gymnasiet, fordi de kommende studenter forventedes at gå ud og præge det vidensamfund, som tog til dag for dag.
+1	Det	det	PRON		
+2	er	være	AUX		verb.stative
+3	en	en	DET		
+4	konstatering	konstatering	NOUN		noun.cognition
+5	af	af	ADP		
+6	,	,	PUNCT		
+7	at	at	SCONJ		
+8	der	der	ADV		
+9	politisk	politisk	ADV		
+10	var	være	AUX		verb.stative
+11	en	en	DET		
+12	opfattelse	opfattelse	NOUN		noun.cognition
+13	af	af	ADP		
+14	,	,	PUNCT		
+15	at	at	SCONJ		
+16	der	der	ADV		
+17	krævedes	kræve	VERB		verb.communication
+18	forandringer	forandring	NOUN		noun.act
+19	i	i	ADP		
+20	gymnasiet	gymnasium	NOUN		noun.institution
+21	,	,	PUNCT		
+22	fordi	fordi	SCONJ		
+23	de	den	PRON		
+24	kommende	komme	VERB		adj.time
+25	studenter	student	NOUN		noun.person
+26	forventedes	forvente	VERB		verb.cognition
+27	at	at	PART		
+28	gå	gå	VERB		verb.motion
+29	ud	ud	ADV		verb.PARTICLE
+30	og	og	CCONJ		
+31	præge	præge	VERB		verb.change
+32	det	det	DET		
+33	vidensamfund	vidensamfund	NOUN		noun.abstract
+34	,	,	PUNCT		
+35	som	som	PRON		
+36	tog	toge	VERB		verb.change
+37	til	til	ADP		verb.PARTICLE
+38	dag	dag	NOUN		noun.time
+39	for	for	ADP		
+40	dag	dag	NOUN		noun.time
+41	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 79
+# text =  Sandheden er jo, som man også hører fra flere af ordførerne, at det her er et godt forslag, som der vil være bred opbakning til i Folketinget.
+1	Sandheden	sandhed	NOUN		noun.abstract
+2	er	være	AUX		verb.stative
+3	jo	jo	ADV		
+4	,	,	PUNCT		
+5	som	som	PRON		
+6	man	man	PRON		
+7	også	også	ADV		
+8	hører	høre	VERB		verb.perception
+9	fra	fra	ADP		
+10	flere	flere	ADJ		
+11	af	af	ADP		
+12	ordførerne	ordfører	NOUN		noun.person
+13	,	,	PUNCT		
+14	at	at	SCONJ		
+15	det	det	PRON		
+16	her	her	ADV		
+17	er	være	AUX		verb.stative
+18	et	en	DET		
+19	godt	god	ADJ		adj.all
+20	forslag	forslag	NOUN		noun.communication
+21	,	,	PUNCT		
+22	som	som	PRON		
+23	der	der	ADV		
+24	vil	ville	AUX		
+25	være	være	AUX		verb.stative
+26	bred	bred	ADJ		adj.all
+27	opbakning	opbakning	NOUN		noun.cognition
+28	til	til	ADP		
+29	i	i	ADP		
+30	Folketinget	folketing	NOUN		noun.institution
+31	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 80
+# text =  Det kan give meget tryghed, mens gerningsmanden er spærret inde, men omvendt kan det så tilsvarende give utryghed, når man bliver gjort opmærksom på, at gerningsmanden slippes fri.
+1	Det	det	PRON		
+2	kan	kunne	AUX		
+3	give	give	VERB		verb.possession
+4	meget	megen	ADJ		
+5	tryghed	tryghed	NOUN		noun.feeling
+6	,	,	PUNCT		
+7	mens	mens	SCONJ		
+8	gerningsmanden	gerningsmand	NOUN		noun.person
+9	er	være	AUX		
+10	spærret	spærre	VERB		verb.motion
+11	inde	inde	ADV		verb.COLL
+12	,	,	PUNCT		
+13	men	men	CCONJ		
+14	omvendt	omvende	ADV		
+15	kan	kunne	AUX		
+16	det	det	PRON		
+17	så	så	ADV		
+18	tilsvarende	tilsvarende	ADV		
+19	give	give	VERB		verb.possession
+20	utryghed	utryghed	NOUN		noun.feeling
+21	,	,	PUNCT		
+22	når	når	SCONJ		
+23	man	man	PRON		
+24	bliver	blive	AUX		
+25	gjort	gøre	VERB		verb.communication
+26	opmærksom	opmærksom	ADJ		verb.COLL
+27	på	på	ADP		verb.COLL
+28	,	,	PUNCT		
+29	at	at	SCONJ		
+30	gerningsmanden	gerningsmand	NOUN		noun.person
+31	slippes	slippe	VERB		verb.act
+32	fri	fri	ADJ		verb.COLL
+33	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 81
+# text =  Det oplever vi da tit, og jeg tror da ikke, at hr. Messerschmidt lader nogen chance gå fra sig for at fortælle os om de ting, han ved.
+1	Det	det	PRON		
+2	oplever	opleve	VERB		verb.perception
+3	vi	vi	PRON		
+4	da	da	ADV		
+5	tit	tit	ADV		
+6	,	,	PUNCT		
+7	og	og	CCONJ		
+8	jeg	jeg	PRON		
+9	tror	tro	VERB		verb.cognition
+10	da	da	ADV		
+11	ikke	ikke	ADV		
+12	,	,	PUNCT		
+13	at	at	PART		
+14	hr	hr	VERB		noun.person
+15	.	.	PUNCT		noun.person
+16	Messerschmidt	messerschmidt	PROPN		noun.person
+17	lader	lade	VERB		verb.act
+18	nogen	nogen	DET		
+19	chance	chance	NOUN		noun.abstract
+20	gå	gå	VERB		verb.motion
+21	fra	fra	ADP		verb.COLL
+22	sig	sig	PRON		verb.REFLPRON
+23	for	for	ADP		
+24	at	at	PART		
+25	fortælle	fortælle	VERB		verb.communication
+26	os	vi	ADV		
+27	om	om	ADP		
+28	de	den	DET		
+29	ting	ting	NOUN		noun.abstract
+30	,	,	PUNCT		
+31	han	han	PRON		
+32	ved	vide	VERB		verb.cognition
+33	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 82
+# text =  Jesper Langballe, at hvis vi virkelig går ind og analyserer det irske nej, så er det, vi får nogle interessante ting frem, for det viser jo også klart, at nogle af hovedbegrundelserne for, at man stemte nej, var, at man var nervøs for neutraliteten, man var nervøs for, om man kunne bibeholde et nej til abort og lignende.
+1	Jesper	jesper	PROPN		noun.person
+2	Langballe	langballe	PROPN		noun.person
+3	,	,	PUNCT		
+4	at	at	SCONJ		
+5	hvis	hvis	SCONJ		
+6	vi	vi	PRON		
+7	virkelig	virkelig	ADV		
+8	går	gå	VERB		verb.act
+9	ind	ind	ADV		verb.PARTICLE
+10	og	og	CCONJ		
+11	analyserer	analysere	VERB		verb.cognition
+12	det	det	DET		
+13	irske	irsk	ADJ		adj.social
+14	nej	nej	NOUN		noun.act
+15	,	,	PUNCT		
+16	så	så	ADV		
+17	er	være	AUX		
+18	det	det	PRON		
+19	,	,	PUNCT		
+20	vi	vi	PRON		
+21	får	få	VERB		verb.communication
+22	nogle	nogen	DET		
+23	interessante	interessant	ADJ		adj.all
+24	ting	ting	NOUN		noun.abstract
+25	frem	frem	ADV		verb.COLL
+26	,	,	PUNCT		
+27	for	for	CCONJ		
+28	det	det	PRON		
+29	viser	visere	VERB		verb.communication
+30	jo	jo	ADV		
+31	også	også	ADV		
+32	klart	klar	ADV		
+33	,	,	PUNCT		
+34	at	at	SCONJ		
+35	nogle	nogen	PRON		
+36	af	af	ADP		
+37	hovedbegrundelserne	hovedbegrund	NOUN		noun.cognition
+38	for	for	ADP		
+39	,	,	PUNCT		
+40	at	at	SCONJ		
+41	man	man	PRON		
+42	stemte	stemme	VERB		verb.act
+43	nej	nej	NOUN		
+44	,	,	PUNCT		
+45	var	være	VERB		verb.stative
+46	,	,	PUNCT		
+47	at	at	SCONJ		
+48	man	man	PRON		
+49	var	være	AUX		verb.stative
+50	nervøs	nervøs	ADJ		adj.mental
+51	for	for	ADP		
+52	neutraliteten	neutralitet	NOUN		noun.state
+53	,	,	PUNCT		
+54	man	man	PRON		
+55	var	være	AUX		verb.stative
+56	nervøs	nervøs	ADJ		adj.mental
+57	for	for	ADP		
+58	,	,	PUNCT		
+59	om	om	SCONJ		
+60	man	man	PRON		
+61	kunne	kunne	AUX		
+62	bibeholde	bibeholde	VERB		verb.stative
+63	et	en	DET		
+64	nej	nej	NOUN		noun.act
+65	til	til	ADP		
+66	abort	abort	NOUN		noun.act
+67	og	og	CCONJ		
+68	lignende	ligne	VERB		adj.all
+69	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 83
+# text =  Det kan det naturligvis ikke.
+1	Det	det	PRON		
+2	kan	kunne	AUX		
+3	det	det	PRON		
+4	naturligvis	naturligvis	ADV		
+5	ikke	ikke	ADV		
+6	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 84
+# text =  Når vi er medforslagsstillere af det her, er det, fordi det handler om at mindske smerten.
+1	Når	når	SCONJ		
+2	vi	vi	PRON		
+3	er	være	AUX		verb.stative
+4	medforslagsstillere	medforslagsstil	ADJ		noun.person
+5	af	af	ADP		
+6	det	det	PRON		
+7	her	her	ADV		
+8	,	,	PUNCT		
+9	er	være	AUX		verb.stative
+10	det	det	PRON		
+11	,	,	PUNCT		
+12	fordi	fordi	SCONJ		
+13	det	det	PRON		
+14	handler	handle	VERB		verb.stative
+15	om	om	ADP		verb.PARTICLE
+16	at	at	PART		
+17	mindske	mindske	VERB		verb.change
+18	smerten	smerte	NOUN		noun.feeling
+19	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 85
+# text =  Vi har presset på og presset på, for at vi får akut behandling af livstruende sygdomme, kræft, hjertesygdomme og gerne andre sygdomme, som er livstruende, men det, vi kan se, er, at når man så samtidig i sundhedsvæsenet bliver mødt af krav om, at alt, uanset om det er meget, meget alvorligt eller livstruende, skal behandles inden for 1 måned, så bliver der nogle tabere.
+1	Vi	vi	PRON		
+2	har	have	AUX		
+3	presset	presse	VERB		verb.act
+4	på	på	ADP		verb.PARTICLE
+5	og	og	CCONJ		
+6	presset	presse	VERB		verb.act
+7	på	på	ADP		verb.PARTICLE
+8	,	,	PUNCT		
+9	for	for	CCONJ		
+10	at	at	SCONJ		
+11	vi	vi	PRON		
+12	får	få	VERB		
+13	akut	akut	ADJ		adj.time
+14	behandling	behandling	NOUN		noun.act
+15	af	af	ADP		
+16	livstruende	livstruende	ADJ		adj.all
+17	sygdomme	sygdom	NOUN		noun.disease
+18	,	,	PUNCT		
+19	kræft	kræft	PRON		noun.disease
+20	,	,	PUNCT		
+21	hjertesygdomme	hjertesygdom	NOUN		noun.disease
+22	og	og	CCONJ		
+23	gerne	gerne	ADV		
+24	andre	anden	DET		
+25	sygdomme	sygdom	NOUN		noun.disease
+26	,	,	PUNCT		
+27	som	som	PRON		
+28	er	være	AUX		
+29	livstruende	livstruende	ADJ		adj.all
+30	,	,	PUNCT		
+31	men	men	CCONJ		
+32	det	det	PRON		
+33	,	,	PUNCT		
+34	vi	vi	PRON		
+35	kan	kunne	AUX		
+36	se	se	VERB		verb.perception
+37	,	,	PUNCT		
+38	er	være	VERB		verb.stative
+39	,	,	PUNCT		
+40	at	at	SCONJ		
+41	når	når	SCONJ		
+42	man	man	PRON		
+43	så	så	ADV		
+44	samtidig	samtidig	ADV		
+45	i	i	ADP		
+46	sundhedsvæsenet	sundhedsvæsen	NOUN		noun.institution
+47	bliver	blive	AUX		
+48	mødt	møde	VERB		verb.phenomenon
+49	af	af	ADP		
+50	krav	krav	NOUN		noun.cognition
+51	om	om	ADP		
+52	,	,	PUNCT		
+53	at	at	SCONJ		
+54	alt	al	ADJ		
+55	,	,	PUNCT		
+56	uanset	uanset	ADJ		
+57	om	om	ADP		
+58	det	det	PRON		
+59	er	være	AUX		verb.stative
+60	meget	megen	ADJ		
+61	,	,	PUNCT		
+62	meget	megen	ADV		
+63	alvorligt	alvorlig	ADV		adj.all
+64	eller	eller	CCONJ		
+65	livstruende	livstruende	VERB		adj.all
+66	,	,	PUNCT		
+67	skal	skulle	AUX		
+68	behandles	behandle	VERB		verb.change
+69	inden	inden	ADV		
+70	for	for	ADP		
+71	1	1	ADJ		
+72	måned	måned	NOUN		noun.time
+73	,	,	PUNCT		
+74	så	så	ADV		
+75	bliver	blive	VERB		verb.stative
+76	der	der	ADV		
+77	nogle	nogen	DET		
+78	tabere	taber	NOUN		noun.person
+79	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 86
+# text =  Derfor har regeringen også taget en lang række initiativer med henblik på at forebygge og bekæmpe kriminaliteten blandt børn og unge.
+1	Derfor	derfor	ADV		
+2	har	have	AUX		
+3	regeringen	regering	NOUN		noun.person
+4	også	også	ADV		
+5	taget	tage	VERB		verb.act
+6	en	en	DET		
+7	lang	lang	ADJ		adj.all
+8	række	række	NOUN		noun.group
+9	initiativer	initiativ	NOUN		noun.act
+10	med	med	ADP		
+11	henblik	henblik	NOUN		
+12	på	på	ADP		
+13	at	at	PART		
+14	forebygge	forebygge	VERB		verb.act
+15	og	og	CCONJ		
+16	bekæmpe	bekæmpe	VERB		verb.act
+17	kriminaliteten	kriminalitet	NOUN		noun.act
+18	blandt	blandt	ADP		
+19	børn	barn	NOUN		noun.person
+20	og	og	CCONJ		
+21	unge	ung	ADJ		noun.person
+22	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 87
+# text =  Lønmodtagernes Garantifond sikrer også en tidlig udbetaling, hvor lønmodtageren ikke behøver at vente på, at hele konkursboet er gjort op.
+1	Lønmodtagernes	lønmodtager	VERB		noun.institution
+2	Garantifond	garantifond	NOUN		noun.institution
+3	sikrer	sikre	VERB		verb.act
+4	også	også	ADV		
+5	en	en	DET		
+6	tidlig	tidlig	ADJ		adj.time
+7	udbetaling	udbetaling	NOUN		noun.possession
+8	,	,	PUNCT		
+9	hvor	hvor	ADV		
+10	lønmodtageren	lønmodtager	NOUN		noun.person
+11	ikke	ikke	ADV		
+12	behøver	behøve	VERB		verb.emotion
+13	at	at	PART		
+14	vente	vente	VERB		verb.stative
+15	på	på	ADP		
+16	,	,	PUNCT		
+17	at	at	SCONJ		
+18	hele	hel	ADJ		
+19	konkursboet	konkursbo	NOUN		noun.possession
+20	er	være	AUX		
+21	gjort	gøre	VERB		verb.cognition
+22	op	op	ADV		verb.PARTICLE
+23	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 88
+# text =  Så har vi sagt, at folk jo skal have mulighed for at indrette sig på det her system.
+1	Så	så	ADV		
+2	har	have	AUX		
+3	vi	vi	PRON		
+4	sagt	sige	VERB		verb.communication
+5	,	,	PUNCT		
+6	at	at	SCONJ		
+7	folk	folk	NOUN		noun.person
+8	jo	jo	ADV		
+9	skal	skulle	AUX		
+10	have	have	VERB		verb.stative
+11	mulighed	mulighed	NOUN		verb.COLL
+12	for	for	ADP		verb.COLL
+13	at	at	PART		
+14	indrette	indrette	VERB		verb.change
+15	sig	sig	PRON		verb.REFLPRON
+16	på	på	ADP		
+17	det	det	PRON		
+18	her	her	ADV		
+19	system	system	NOUN		noun.abstract
+20	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 89
+# text =  Til gengæld er vi altså indstillet på at prøve at se på andre måder at følge ressourceudviklingen på gymnasiet og ungdomsuddannelserne som sådan på, det synes jeg kunne være ganske interessant, og vi kan jo i løbet af sommeren overveje, hvordan vi kan stille geniale spørgsmål til ministeren, så vi får det klarlagt i løbet af efteråret, og så vi har et andet grundlag at diskutere på end klassekvotienten.
+1	Til	til	ADP		
+2	gengæld	gengæld	NOUN		
+3	er	være	AUX		
+4	vi	vi	PRON		
+5	altså	altså	ADV		
+6	indstillet	indstille	VERB		verb.cognition
+7	på	på	ADP		verb.PARTICLE
+8	at	at	PART		
+9	prøve	prøve	VERB		verb.act
+10	at	at	PART		
+11	se	se	VERB		verb.cognition
+12	på	på	ADP		
+13	andre	anden	DET		
+14	måder	måde	NOUN		noun.abstract
+15	at	at	PART		
+16	følge	følge	VERB		verb.cognition
+17	ressourceudviklingen	ressourceudvikling	NOUN		noun.abstract
+18	på	på	ADP		
+19	gymnasiet	gymnasium	NOUN		noun.institution
+20	og	og	CCONJ		
+21	ungdomsuddannelserne	ungdomsuddannelse	NOUN		noun.institution
+22	som	som	ADP		
+23	sådan	sådan	ADV		
+24	på	på	ADP		
+25	,	,	PUNCT		
+26	det	det	PRON		
+27	synes	synes	VERB		verb.cognition
+28	jeg	jeg	PRON		
+29	kunne	kunne	AUX		
+30	være	være	AUX		verb.stative
+31	ganske	ganske	ADV		
+32	interessant	interessant	ADJ		adj.mental
+33	,	,	PUNCT		
+34	og	og	CCONJ		
+35	vi	vi	PRON		
+36	kan	kunne	AUX		
+37	jo	jo	ADV		
+38	i	i	ADP		
+39	løbet	løb	NOUN		
+40	af	af	ADP		
+41	sommeren	sommer	NOUN		noun.time
+42	overveje	overveje	VERB		verb.cognition
+43	,	,	PUNCT		
+44	hvordan	hvordan	ADV		
+45	vi	vi	PRON		
+46	kan	kunne	AUX		
+47	stille	stille	VERB		verb.communication
+48	geniale	genial	ADJ		adj.all
+49	spørgsmål	spørgsmål	NOUN		noun.communication
+50	til	til	ADP		
+51	ministeren	minister	NOUN		noun.person
+52	,	,	PUNCT		
+53	så	så	SCONJ		
+54	vi	vi	PRON		
+55	får	få	VERB		
+56	det	det	PRON		
+57	klarlagt	klarlægge	VERB		verb.act
+58	i	i	ADP		
+59	løbet	løb	NOUN		
+60	af	af	ADP		
+61	efteråret	efterår	NOUN		noun.time
+62	,	,	PUNCT		
+63	og	og	CCONJ		
+64	så	så	SCONJ		
+65	vi	vi	PRON		
+66	har	have	AUX		verb.possession
+67	et	en	DET		
+68	andet	anden	DET		
+69	grundlag	grundlag	NOUN		noun.abstract
+70	at	at	PART		
+71	diskutere	diskutere	VERB		verb.communication
+72	på	på	ADP		
+73	end	ende	ADP		
+74	klassekvotienten	klassekvotient	NOUN		noun.quantity
+75	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 90
+# text =  Personen skal dog have en gyldig grund til at sige jobbet op.
+1	Personen	person	NOUN		noun.person
+2	skal	skulle	AUX		
+3	dog	dog	ADV		
+4	have	have	VERB		verb.possession
+5	en	en	DET		
+6	gyldig	gyldig	ADJ		adj.all
+7	grund	grund	NOUN		noun.motive
+8	til	til	ADP		
+9	at	at	PART		
+10	sige	sige	VERB		verb.act
+11	jobbet	job	NOUN		noun.act
+12	op	op	ADV		verb.PARTICLE
+13	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 91
+# text =  Lad os nu beholde den her prioritering, der har været gældende siden konflikten, og lade være med at genindføre en 1- måneds- behandlingsgaranti for alle patienter over en kam.
+1	Lad	lade	VERB		
+2	os	vi	PRON		
+3	nu	nu	ADV		
+4	beholde	beholde	VERB		verb.possession
+5	den	den	PRON		
+6	her	her	ADV		
+7	prioritering	prioritering	NOUN		noun.cognition
+8	,	,	PUNCT		
+9	der	der	PRON		
+10	har	have	AUX		
+11	været	være	AUX		verb.stative
+12	gældende	gælde	ADJ		adj.all
+13	siden	siden	ADP		
+14	konflikten	konflikt	NOUN		noun.event
+15	,	,	PUNCT		
+16	og	og	CCONJ		
+17	lade	lade	ADV		verb.stative
+18	være	være	AUX		verb.COLL
+19	med	med	ADP		
+20	at	at	PART		
+21	genindføre	genindføre	VERB		verb.aspectual
+22	en	en	DET		
+23	1	1	ADJ		noun.communication
+24	-	-	PUNCT		noun.communication
+25	måneds	måned	ADJ		noun.communication
+26	-	-	PUNCT		noun.communication
+27	behandlingsgaranti	behandlingsgaranti	NOUN		noun.communication
+28	for	for	ADP		
+29	alle	al	ADJ		
+30	patienter	patient	NOUN		noun.person
+31	over	over	ADP		
+32	en	en	DET		
+33	kam	kam	NOUN		noun.artifact
+34	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 92
+# text =  Derfor er det jo vigtigt, at ministeren, hvis ministeren synes noget, siger til udvalget, at det skal ende med det her, og de så skal finde ud af de tekniske regler omkring det.
+1	Derfor	derfor	ADV		
+2	er	være	AUX		verb.stative
+3	det	det	PRON		
+4	jo	jo	ADV		
+5	vigtigt	vigtig	ADJ		adj.all
+6	,	,	PUNCT		
+7	at	at	SCONJ		
+8	ministeren	minister	NOUN		noun.person
+9	,	,	PUNCT		
+10	hvis	hvis	SCONJ		
+11	ministeren	minister	NOUN		noun.person
+12	synes	synes	VERB		verb.cognition
+13	noget	nogen	PRON		
+14	,	,	PUNCT		
+15	siger	sige	VERB		verb.communication
+16	til	til	ADP		
+17	udvalget	udvalg	NOUN		noun.person
+18	,	,	PUNCT		
+19	at	at	SCONJ		
+20	det	det	PRON		
+21	skal	skulle	AUX		
+22	ende	ende	VERB		verb.aspectual
+23	med	med	ADP		verb.COLL
+24	det	det	PRON		
+25	her	her	ADV		
+26	,	,	PUNCT		
+27	og	og	CCONJ		
+28	de	den	PRON		
+29	så	så	ADV		
+30	skal	skulle	AUX		
+31	finde	finde	VERB		verb.cognition
+32	ud	ud	ADV		verb.COLL
+33	af	af	ADP		verb.COLL
+34	de	den	DET		
+35	tekniske	teknisk	ADJ		adj.all
+36	regler	regel	NOUN		noun.cognition
+37	omkring	omkring	ADP		
+38	det	det	PRON		
+39	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 93
+# text =  I den udsendelse var det hr. Bjarne Laustsen, der er min partifælle, som var den anden kombattant, og udsendelsen var meget, meget morsom, når man sådan hørte den med et trænet øre.
+1	I	i	ADP		
+2	den	den	DET		
+3	udsendelse	udsendelse	NOUN		noun.communication
+4	var	være	AUX		verb.stative
+5	det	det	PRON		
+6	hr	hr	ADV		noun.person
+7	.	.	PUNCT		noun.person
+8	Bjarne	bjarne	PROPN		noun.person
+9	Laustsen	laustsen	PROPN		noun.person
+10	,	,	PUNCT		
+11	der	der	PRON		
+12	er	være	AUX		verb.stative
+13	min	min	DET		
+14	partifælle	partifælle	NOUN		noun.person
+15	,	,	PUNCT		
+16	som	som	PRON		
+17	var	være	AUX		verb.stative
+18	den	den	PRON		
+19	anden	anden	DET		
+20	kombattant	kombattant	NOUN		noun.person
+21	,	,	PUNCT		
+22	og	og	CCONJ		
+23	udsendelsen	udsendelse	NOUN		noun.communication
+24	var	være	AUX		verb.stative
+25	meget	megen	ADJ		
+26	,	,	PUNCT		
+27	meget	megen	ADV		
+28	morsom	morsom	ADJ		adj.mental
+29	,	,	PUNCT		
+30	når	når	SCONJ		
+31	man	man	PRON		
+32	sådan	sådan	ADV		
+33	hørte	høre	VERB		verb.perception
+34	den	den	PRON		
+35	med	med	ADP		
+36	et	en	DET		
+37	trænet	træne	ADJ		adj.all
+38	øre	øre	NOUN		noun.body
+39	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 94
+# text =  Så hvad med bare at kalde det vederlag i stedet for løn?
+1	Så	så	ADV		
+2	hvad	hvad	PRON		
+3	med	med	ADP		
+4	bare	bare	ADV		
+5	at	at	PART		
+6	kalde	kalde	VERB		verb.communication
+7	det	det	DET		
+8	vederlag	vederlag	NOUN		noun.possession
+9	i	i	ADP		
+10	stedet	sted	NOUN		
+11	for	for	ADP		
+12	løn	løn	NOUN		noun.possession
+13	?	?	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 95
+# text =  Der blander man altså argumenterne sammen på kryds og på tværs.
+1	Der	der	ADV		
+2	blander	blande	VERB		verb.cognition
+3	man	man	PRON		
+4	altså	altså	ADV		
+5	argumenterne	argument	NOUN		noun.communication
+6	sammen	sammen	ADV		verb.COLL
+7	på	på	ADP		
+8	kryds	kryds	NOUN		noun.shape
+9	og	og	CCONJ		
+10	på	på	ADP		
+11	tværs	tværs	ADV		noun.shape
+12	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 96
+# text =  Når vi er nogle, der interesserer os for det, er det jo, fordi vi i månedsvis har vidst, at den rapport lå der, og vi har bedt om at få tallene udleveret.
+1	Når	når	SCONJ		
+2	vi	vi	PRON		
+3	er	være	AUX		verb.stative
+4	nogle	nogen	PRON		
+5	,	,	PUNCT		
+6	der	der	PRON		
+7	interesserer	interessere	VERB		noun.cognition
+8	os	vi	PRON		verb.REFLPRON
+9	for	for	ADP		
+10	det	det	PRON		
+11	,	,	PUNCT		
+12	er	være	AUX		verb.stative
+13	det	det	PRON		
+14	jo	jo	ADV		
+15	,	,	PUNCT		
+16	fordi	fordi	SCONJ		
+17	vi	vi	PRON		
+18	i	i	ADP		
+19	månedsvis	månedsvis	NOUN		
+20	har	have	AUX		
+21	vidst	vide	VERB		verb.cognition
+22	,	,	PUNCT		
+23	at	at	SCONJ		
+24	den	den	DET		
+25	rapport	rapport	NOUN		noun.communication
+26	lå	ligge	VERB		verb.stative
+27	der	der	ADV		
+28	,	,	PUNCT		
+29	og	og	CCONJ		
+30	vi	vi	PRON		
+31	har	have	AUX		
+32	bedt	bede	VERB		verb.communication
+33	om	om	ADP		verb.COLL
+34	at	at	PART		
+35	få	få	VERB		
+36	tallene	tal	NOUN		noun.quantity
+37	udleveret	udlevere	VERB		verb.possession
+38	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 97
+# text =  Nu har jeg nævnt nogle andre ting også, og det kunne være behandlingsgaranti, men vi har jo faktisk været med til at sætte ekstra midler af, 500 mio. kr. om året ekstra siden 2001, og for 2006 var det 500 mio. kr. yderligere, og det er jo penge, som kommunerne har fået, som de kan prioritere brugen af selv.
+1	Nu	nu	ADV		
+2	har	have	AUX		
+3	jeg	jeg	PRON		
+4	nævnt	nævne	VERB		verb.communication
+5	nogle	nogen	DET		
+6	andre	anden	DET		
+7	ting	ting	NOUN		noun.abstract
+8	også	også	ADV		
+9	,	,	PUNCT		
+10	og	og	CCONJ		
+11	det	det	PRON		
+12	kunne	kunne	AUX		
+13	være	være	AUX		verb.stative
+14	behandlingsgaranti	behandlingsgaranti	NOUN		noun.communication
+15	,	,	PUNCT		
+16	men	men	CCONJ		
+17	vi	vi	PRON		
+18	har	have	AUX		
+19	jo	jo	ADV		
+20	faktisk	faktisk	ADV		
+21	været	være	AUX		verb.stative
+22	med	med	ADV		verb.COLL
+23	til	til	ADP		verb.COLL
+24	at	at	PART		
+25	sætte	sætte	VERB		verb.act
+26	ekstra	ekstra	ADJ		adj.all
+27	midler	middel	NOUN		noun.artifact
+28	af	af	ADP		
+29	,	,	PUNCT		
+30	500	500	NUM		
+31	mio	mio	NOUN		noun.quantity
+32	.	.	PUNCT		
+33	kr	kr	NOUN		noun.quantity
+34	.	.	PUNCT		
+35	om	om	ADP		
+36	året	år	NOUN		noun.time
+37	ekstra	ekstra	ADV		
+38	siden	siden	ADP		
+39	2001	2001	NUM		noun.time
+40	,	,	PUNCT		
+41	og	og	CCONJ		
+42	for	for	ADP		
+43	2006	2006	NUM		noun.time
+44	var	være	AUX		verb.stative
+45	det	det	PRON		
+46	500	500	NUM		
+47	mio	mio	NOUN		noun.quantity
+48	.	.	PUNCT		
+49	kr	kr	NOUN		noun.quantity
+50	.	.	PUNCT		
+51	yderligere	yderlig	ADV		adj.all
+52	,	,	PUNCT		
+53	og	og	CCONJ		
+54	det	det	PRON		
+55	er	være	AUX		verb.stative
+56	jo	jo	ADV		
+57	penge	penge	NOUN		noun.artifact
+58	,	,	PUNCT		
+59	som	som	PRON		
+60	kommunerne	kommune	NOUN		noun.institution
+61	har	have	AUX		
+62	fået	få	VERB		verb.possession
+63	,	,	PUNCT		
+64	som	som	PRON		
+65	de	den	PRON		
+66	kan	kunne	AUX		
+67	prioritere	prioritere	VERB		verb.cognition
+68	brugen	bruge	NOUN		noun.act
+69	af	af	ADP		
+70	selv	selv	PRON		
+71	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 98
+# text =  Så alt det der skattestopvolapyk, Venstre stadig kører på, synes jeg snart de skulle tage og droppe og så begynde at forholde sig til realiteterne.
+1	Så	så	ADV		
+2	alt	al	ADJ		
+3	det	det	DET		
+4	der	der	ADV		
+5	skattestopvolapyk	skattestopvolapyk	VERB		noun.communication
+6	,	,	PUNCT		
+7	Venstre	venstre	NOUN		noun.institution
+8	stadig	stadig	ADV		
+9	kører	køre	VERB		verb.communication
+10	på	på	ADP		verb.COLL
+11	,	,	PUNCT		
+12	synes	synes	VERB		verb.cognition
+13	jeg	jeg	PRON		
+14	snart	snart	ADV		
+15	de	den	PRON		
+16	skulle	skulle	AUX		
+17	tage	tage	VERB		verb.aspectual
+18	og	og	CCONJ		
+19	droppe	droppe	VERB		verb.act
+20	og	og	CCONJ		
+21	så	så	ADV		
+22	begynde	begynde	VERB		verb.aspectual
+23	at	at	PART		
+24	forholde	forholde	VERB		verb.cognition
+25	sig	sig	PRON		verb.REFLPRON
+26	til	til	ADP		verb.COLL
+27	realiteterne	realitet	NOUN		noun.abstract
+28	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 99
+# text =  Om SF' s forslag vil jeg sige, at det jo nok behandler et meget væsentligt problem, men jeg er altså ikke sikker på_ eller rettere: jeg er temmelig usikker på det_ at SF har foreskrevet den rigtige løsning på problemet.
+1	Om	om	ADP		
+2	SF	sf	PROPN		noun.institution
+3	'	'	PUNCT		noun.institution
+4	s	s	DET		noun.institution
+5	forslag	forslag	NOUN		noun.communication
+6	vil	ville	AUX		
+7	jeg	jeg	PRON		
+8	sige	sige	VERB		verb.communication
+9	,	,	PUNCT		
+10	at	at	SCONJ		
+11	det	det	PRON		
+12	jo	jo	ADV		
+13	nok	nok	ADV		
+14	behandler	behandle	VERB		verb.act
+15	et	en	DET		
+16	meget	megen	ADV		
+17	væsentligt	væsentlig	ADJ		adj.all
+18	problem	problem	NOUN		noun.abstract
+19	,	,	PUNCT		
+20	men	men	CCONJ		
+21	jeg	jeg	PRON		
+22	er	være	AUX		verb.stative
+23	altså	altså	ADV		
+24	ikke	ikke	ADV		
+25	sikker	sikker	ADJ		adj.mental
+26	på	på	ADP		
+27	_	_	PUNCT		
+28	eller	eller	CCONJ		
+29	rettere	ret	NOUN		
+30	:	:	PUNCT		
+31	jeg	jeg	PRON		
+32	er	være	AUX		verb.stative
+33	temmelig	temmelig	ADV		
+34	usikker	usikker	ADJ		adj.mental
+35	på	på	ADP		
+36	det	det	PRON		
+37	_	_	PUNCT		
+38	at	at	SCONJ		
+39	SF	sf	PROPN		noun.institution
+40	har	have	AUX		
+41	foreskrevet	foreskrive	VERB		verb.communication
+42	den	den	DET		
+43	rigtige	rigtig	ADJ		adj.all
+44	løsning	løsning	NOUN		noun.abstract
+45	på	på	ADP		
+46	problemet	problem	NOUN		noun.abstract
+47	.	.	PUNCT		
+
+# newdoc id = folketingetstaler-2.tsv
+# sent_id = 100
+# text =  Med Dansk Folkepartis ønske om også at gøre noget i forhold til folkeskolen må jeg så forvente, at Dansk Folkeparti bakker op om f. eks. et af de punkter, der er i forslaget til vedtagelse, som nemlig er, at oppositionen foreslår, at børn, der ikke har lært at læse, skal have den fornødne hjælp til det i løbet af 1. klasse, så de får løftet deres læseniveau.
+1	Med	med	ADP		
+2	Dansk	dansk	ADJ		noun.institution
+3	Folkepartis	folkeparti	NOUN		noun.institution
+4	ønske	ønske	NOUN		noun.cognition
+5	om	om	ADP		
+6	også	også	ADV		
+7	at	at	PART		
+8	gøre	gøre	VERB		verb.act
+9	noget	nogen	PRON		
+10	i	i	ADP		
+11	forhold	forhold	NOUN		
+12	til	til	ADP		
+13	folkeskolen	folkeskole	NOUN		noun.institution
+14	må	måtte	AUX		
+15	jeg	jeg	PRON		
+16	så	så	ADV		
+17	forvente	forvente	VERB		verb.cognition
+18	,	,	PUNCT		
+19	at	at	SCONJ		
+20	Dansk	dansk	ADJ		noun.institution
+21	Folkeparti	folkeparti	NOUN		noun.institution
+22	bakker	bakke	VERB		verb.communication
+23	op	op	ADV		verb.PARTICLE
+24	om	om	ADP		
+25	f	f	NOUN		
+26	.	.	PUNCT		
+27	eks	ekse	NOUN		
+28	.	.	PUNCT		
+29	et	en	PRON		
+30	af	af	ADP		
+31	de	den	DET		
+32	punkter	punkt	NOUN		noun.abstract
+33	,	,	PUNCT		
+34	der	der	PRON		
+35	er	være	VERB		verb.stative
+36	i	i	ADP		
+37	forslaget	forslag	NOUN		noun.communication
+38	til	til	ADP		
+39	vedtagelse	vedtagelse	NOUN		noun.communication
+40	,	,	PUNCT		
+41	som	som	ADP		
+42	nemlig	nemlig	ADV		
+43	er	være	VERB		verb.stative
+44	,	,	PUNCT		
+45	at	at	SCONJ		
+46	oppositionen	opposition	NOUN		noun.person
+47	foreslår	foreslå	VERB		verb.communication
+48	,	,	PUNCT		
+49	at	at	SCONJ		
+50	børn	barn	NOUN		noun.person
+51	,	,	PUNCT		
+52	der	der	PRON		
+53	ikke	ikke	ADV		
+54	har	have	AUX		
+55	lært	lære	VERB		verb.cognition
+56	at	at	PART		
+57	læse	læse	VERB		verb.cognition
+58	,	,	PUNCT		
+59	skal	skulle	AUX		
+60	have	have	VERB		verb.possession
+61	den	den	DET		
+62	fornødne	fornøden	ADJ		adj.all
+63	hjælp	hjælp	NOUN		noun.act
+64	til	til	ADP		
+65	det	det	PRON		
+66	i	i	ADP		
+67	løbet	løb	NOUN		
+68	af	af	ADP		
+69	1	1	NUM		
+70	.	.	PUNCT		
+71	klasse	klasse	NOUN		noun.relation
+72	,	,	PUNCT		
+73	så	så	SCONJ		
+74	de	den	PRON		
+75	får	få	VERB		
+76	løftet	løfte	VERB		verb.change
+77	deres	deres	DET		
+78	læseniveau	læseniveau	NOUN		noun.relation
+79	.	.	PUNCT		
+

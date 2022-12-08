@@ -1,0 +1,237 @@
+# newdoc id = DDT-1419.tsv
+# sent_id = 1
+# text =  Ofte måtte vi nøjes med en skål boullion til middag..."
+1	Ofte	ofte	ADV		
+2	måtte	måtte	AUX		
+3	vi	vi	PRON		
+4	nøjes	nøjes	VERB		verb.phenomenon
+5	med	med	ADP		
+6	en	en	DET		
+7	skål	skål	NOUN		noun.container
+8	boullion	boullion	NOUN		noun.food
+9	til	til	ADP		
+10	middag	middag	NOUN		noun.food
+11	...	...	PUNCT		
+12	"	"	PUNCT		
+
+# newdoc id = DDT-1419.tsv
+# sent_id = 2
+# text =  PARADIS
+1	PARADIS	paradis	NOUN		noun.location
+
+# newdoc id = DDT-1419.tsv
+# sent_id = 3
+# text =  I sin første sæson for Valenciennes scorede Papin 15 mål.
+1	I	i	ADP		
+2	sin	sin	DET		
+3	første	først	ADJ		adj.all
+4	sæson	sæson	NOUN		noun.time
+5	for	for	ADP		
+6	Valenciennes	valenciennes	PROPN		noun.institution
+7	scorede	score	VERB		verb.act
+8	Papin	papin	PROPN		noun.person
+9	15	15	ADJ		
+10	mål	mål	NOUN		noun.act
+11	.	.	PUNCT		
+
+# newdoc id = DDT-1419.tsv
+# sent_id = 4
+# text =  Det var godt, men ikke godt nok til, at en fransk storklub ville købe denne mærkelige" bondeknold".
+1	Det	det	PRON		
+2	var	være	AUX		verb.stative
+3	godt	god	ADJ		adj.all
+4	,	,	PUNCT		
+5	men	men	CCONJ		
+6	ikke	ikke	ADV		
+7	godt	godte	ADV		adj.all
+8	nok	nok	ADV		
+9	til	til	ADP		
+10	,	,	PUNCT		
+11	at	at	SCONJ		
+12	en	en	DET		
+13	fransk	fransk	ADJ		adj.social
+14	storklub	storklub	NOUN		noun.institution
+15	ville	ville	AUX		
+16	købe	købe	VERB		verb.possession
+17	denne	denne	DET		
+18	mærkelige	mærkelig	ADJ		adj.all
+19	"	"	PUNCT		
+20	bondeknold	bondeknold	NOUN		noun.person
+21	"	"	PUNCT		
+22	.	.	PUNCT		
+
+# newdoc id = DDT-1419.tsv
+# sent_id = 5
+# text =  I stedet slog Club Brugge til.
+1	I	i	ADP		
+2	stedet	sted	NOUN		
+3	slog	slå	VERB		verb.act
+4	Club	club	PROPN		noun.institution
+5	Brugge	brugge	PROPN		noun.institution
+6	til	til	ADV		verb.PARTICLE
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1419.tsv
+# sent_id = 6
+# text =  Overgangssummen på 1,3 mill. franc reddede Valenciennes fra konkurs.
+1	Overgangssummen	overgangssum	NOUN		noun.quantity
+2	på	på	ADP		
+3	1,3	1,3	ADJ		
+4	mill.	mill.	NOUN		
+5	franc	franc	NOUN		noun.artifact
+6	reddede	redde	VERB		verb.phenomenon
+7	Valenciennes	valenciennes	PROPN		noun.institution
+8	fra	fra	ADP		
+9	konkurs	konkurs	ADJ		noun.state
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1419.tsv
+# sent_id = 7
+# text =  Papin fik lønforhøjelse, og succes'en ventede lige rundt om hjørnet.
+1	Papin	papin	PROPN		noun.person
+2	fik	få	VERB		verb.possession
+3	lønforhøjelse	lønforhøjelse	NOUN		noun.quantity
+4	,	,	PUNCT		
+5	og	og	CCONJ		
+6	succes'en	succes	NOUN		noun.state
+7	ventede	vente	VERB		verb.stative
+8	lige	lige	ADV		
+9	rundt	rund	ADV		
+10	om	om	ADP		
+11	hjørnet	hjørne	NOUN		noun.location
+12	.	.	PUNCT		
+
+# newdoc id = DDT-1419.tsv
+# sent_id = 8
+# text =  I Brugge scorede den lille målfarlige franskmand i sæsonen 1985-86 hele 21 ligamål, seks træffere i pokalturneringen samt fem pletskud i UEFA Cup'en.
+1	I	i	ADP		
+2	Brugge	brugge	PROPN		noun.location
+3	scorede	score	VERB		verb.act
+4	den	den	DET		
+5	lille	lille	ADJ		adj.phys
+6	målfarlige	målfarlig	ADJ		adj.all
+7	franskmand	franskmand	NOUN		noun.person
+8	i	i	ADP		
+9	sæsonen	sæson	NOUN		noun.time
+10	1985-86	1985-86	X		noun.time
+11	hele	hel	ADJ		
+12	21	21	DET		
+13	ligamål	ligamål	NOUN		noun.act
+14	,	,	PUNCT		
+15	seks	seks	ADJ		
+16	træffere	træffer	NOUN		noun.act
+17	i	i	ADP		
+18	pokalturneringen	pokalturnering	NOUN		noun.event
+19	samt	samt	CCONJ		
+20	fem	fem	ADJ		
+21	pletskud	pletskud	NOUN		noun.act
+22	i	i	ADP		
+23	UEFA	uefa	PROPN		noun.event
+24	Cup'en	cup'	NOUN		noun.event
+25	.	.	PUNCT		
+
+# newdoc id = DDT-1419.tsv
+# sent_id = 9
+# text =  Papins lykke var for alvor gjort.
+1	Papins	papin	ADJ		noun.person
+2	lykke	lykke	NOUN		noun.feeling
+3	var	være	AUX		
+4	for	for	ADP		
+5	alvor	alvor	NOUN		
+6	gjort	gøre	VERB		verb.phenomenon
+7	.	.	PUNCT		
+
+# newdoc id = DDT-1419.tsv
+# sent_id = 10
+# text =  Frankrigs daværende landstræner Henri Michel kunne ikke længere komme uden om ham.
+1	Frankrigs	frankrig	DET		noun.institution
+2	daværende	daværende	ADJ		adj.time
+3	landstræner	landstræner	NOUN		noun.person
+4	Henri	henri	PROPN		noun.person
+5	Michel	michel	PROPN		noun.person
+6	kunne	kunne	AUX		
+7	ikke	ikke	ADV		
+8	længere	lang	ADV		
+9	komme	komme	VERB		verb.cognition
+10	uden	uden	ADV		verb.COLL
+11	om	om	ADP		verb.COLL
+12	ham	han	PRON		
+13	.	.	PUNCT		
+
+# newdoc id = DDT-1419.tsv
+# sent_id = 11
+# text =  Ved VM i Mexico scorede han to mål, det ene i bronzekampen mod Belgien.
+1	Ved	ved	ADP		
+2	VM	vm	PROPN		noun.event
+3	i	i	ADP		
+4	Mexico	mexico	PROPN		noun.location
+5	scorede	score	VERB		verb.act
+6	han	han	PRON		
+7	to	to	VERB		
+8	mål	mål	NOUN		noun.act
+9	,	,	PUNCT		
+10	det	det	DET		
+11	ene	ene	ADJ		
+12	i	i	ADP		
+13	bronzekampen	bronzekamp	NOUN		noun.event
+14	mod	mod	ADP		
+15	Belgien	belgien	PROPN		noun.institution
+16	.	.	PUNCT		
+
+# newdoc id = DDT-1419.tsv
+# sent_id = 12
+# text =  Marseilles stenrige ejer, finansfyrsten Bernard Tapie, slog til og hentede ham til Middelhavs-storbyen for ni mill. kr..
+1	Marseilles	marseilles	PROPN		noun.institution
+2	stenrige	stenrig	ADJ		adj.all
+3	ejer	ejer	NOUN		noun.person
+4	,	,	PUNCT		
+5	finansfyrsten	finansfyrste	NOUN		noun.person
+6	Bernard	bernard	PROPN		noun.person
+7	Tapie	tapie	PROPN		noun.person
+8	,	,	PUNCT		
+9	slog	slå	VERB		verb.act
+10	til	til	ADV		verb.PARTICLE
+11	og	og	CCONJ		
+12	hentede	hente	VERB		verb.possession
+13	ham	han	PRON		
+14	til	til	ADP		
+15	Middelhavs-storbyen	middelhavs-storby	NOUN		noun.location
+16	for	for	ADP		
+17	ni	ni	ADJ		
+18	mill.	mill.	NOUN		
+19	kr.	kr.	NOUN		noun.quantity
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1419.tsv
+# sent_id = 13
+# text = " Marseille var bare det rene paradis for mig.
+1	"	"	PUNCT		
+2	Marseille	marseille	PROPN		noun.location
+3	var	være	AUX		verb.stative
+4	bare	bare	ADV		
+5	det	det	DET		
+6	rene	ren	ADJ		adj.all
+7	paradis	paradis	NOUN		noun.location
+8	for	for	ADP		
+9	mig	jeg	PRON		
+10	.	.	PUNCT		
+
+# newdoc id = DDT-1419.tsv
+# sent_id = 14
+# text =  I Brugge tjente jeg 8.000 franc om måneden, i Marseille pludselig det tyve-dobbelte.
+1	I	i	ADP		
+2	Brugge	brugge	PROPN		noun.location
+3	tjente	tjene	VERB		verb.possession
+4	jeg	jeg	PRON		
+5	8.000	8.000	NUM		
+6	franc	franc	NOUN		noun.artifact
+7	om	om	ADP		
+8	måneden	måned	NOUN		noun.time
+9	,	,	PUNCT		
+10	i	i	ADP		
+11	Marseille	marseille	PROPN		noun.location
+12	pludselig	pludselig	ADV		
+13	det	det	DET		
+14	tyve-dobbelte	tyve-dobbelt	ADJ		adj.all
+15	.	.	PUNCT		
+

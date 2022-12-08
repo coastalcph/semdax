@@ -1,0 +1,244 @@
+# newdoc id = DDT-1421.tsv
+# sent_id = 1
+# text =  Kriminalpolitiet i Løgstør har endnu ikke kunne konstatere, at manden har søgt lægehjælp, og man beder derfor offentligheden om hjælp til at identificere gerningsmanden.
+1	Kriminalpolitiet	kriminalpoliti	NOUN		noun.institution
+2	i	i	ADP		
+3	Løgstør	løgstør	PROPN		noun.location
+4	har	have	AUX		
+5	endnu	endnu	ADV		
+6	ikke	ikke	ADV		
+7	kunne	kunne	AUX		
+8	konstatere	konstatere	VERB		verb.cognition
+9	,	,	PUNCT		
+10	at	at	SCONJ		
+11	manden	mand	NOUN		noun.person
+12	har	have	AUX		
+13	søgt	søge	VERB		verb.act
+14	lægehjælp	lægehjælp	NOUN		noun.act
+15	,	,	PUNCT		
+16	og	og	CCONJ		
+17	man	man	PRON		
+18	beder	bede	VERB		verb.communication
+19	derfor	derfor	ADV		
+20	offentligheden	offentlighed	NOUN		noun.person
+21	om	om	ADP		
+22	hjælp	hjælp	NOUN		noun.act
+23	til	til	ADP		
+24	at	at	PART		
+25	identificere	identificere	VERB		verb.cognition
+26	gerningsmanden	gerningsmand	NOUN		noun.person
+27	.	.	PUNCT		
+
+# newdoc id = DDT-1421.tsv
+# sent_id = 2
+# text =  Han beskrives som 25-30 år, ca. 175 cm., almindelig af bygning, sort kort hår, sorte øjne, stor krum næse og måske med overskæg.
+1	Han	han	PRON		
+2	beskrives	beskrive	VERB		verb.communication
+3	som	som	ADP		
+4	25-30	25-30	NUM		
+5	år	år	NOUN		noun.time
+6	,	,	PUNCT		
+7	ca.	ca.	ADV		
+8	175	175	ADJ		
+9	cm.	cm.	NOUN		
+10	,	,	PUNCT		
+11	almindelig	almindelig	ADJ		adj.all
+12	af	af	ADP		
+13	bygning	bygning	NOUN		noun.body
+14	,	,	PUNCT		
+15	sort	sort	ADJ		adj.phys
+16	kort	kort	ADJ		adj.phys
+17	hår	hår	NOUN		noun.body
+18	,	,	PUNCT		
+19	sorte	sort	ADJ		adj.phys
+20	øjne	øje	NOUN		noun.body
+21	,	,	PUNCT		
+22	stor	stor	ADJ		adj.phys
+23	krum	krum	ADJ		adj.phys
+24	næse	næse	NOUN		noun.body
+25	og	og	CCONJ		
+26	måske	måske	ADV		
+27	med	med	ADP		
+28	overskæg	overskæg	NOUN		noun.body
+29	.	.	PUNCT		
+
+# newdoc id = DDT-1421.tsv
+# sent_id = 3
+# text =  Han var iført en muligvis rød t-shirt, en sort lædervest og grå bukser.
+1	Han	han	PRON		
+2	var	være	AUX		
+3	iført	iføre	VERB		verb.body
+4	en	en	DET		
+5	muligvis	muligvis	ADV		
+6	rød	rød	ADJ		adj.phys
+7	t-shirt	t-shirt	NOUN		noun.artifact
+8	,	,	PUNCT		
+9	en	en	DET		
+10	sort	sort	ADJ		adj.phys
+11	lædervest	lædervest	NOUN		noun.artifact
+12	og	og	CCONJ		
+13	grå	grå	ADJ		adj.phys
+14	bukser	bukser	NOUN		noun.artifact
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1421.tsv
+# sent_id = 4
+# text =  Under samtalen på restaurant Rio Bravo fortalte han kvinden, at han var iraner.
+1	Under	under	ADP		
+2	samtalen	samtale	NOUN		noun.communication
+3	på	på	ADP		
+4	restaurant	restaurant	NOUN		noun.building
+5	Rio	rio	PROPN		noun.building
+6	Bravo	bravo	PROPN		noun.building
+7	fortalte	fortælle	VERB		verb.communication
+8	han	han	PRON		
+9	kvinden	kvinde	NOUN		noun.person
+10	,	,	PUNCT		
+11	at	at	SCONJ		
+12	han	han	PRON		
+13	var	være	AUX		verb.stative
+14	iraner	iraner	NOUN		noun.person
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1421.tsv
+# sent_id = 5
+# text =  IKKE LIVSTRUENDE
+1	IKKE	ikke	ADV		
+2	LIVSTRUENDE	livstruende	ADJ		adj.all
+
+# newdoc id = DDT-1421.tsv
+# sent_id = 6
+# text =  Embedslæge Ib Steen Andersen, Nordjyllands Amt, kan ikke umiddelbart sige, hvor farligt bidsåret er, men selv_om der er mange blodårer i lemmet, anser embedslægen ikke situationen for livstruende.
+1	Embedslæge	embedslæge	NOUN		noun.person
+2	Ib	ib	PROPN		noun.person
+3	Steen	steen	PROPN		noun.person
+4	Andersen	andersen	PROPN		noun.person
+5	,	,	PUNCT		
+6	Nordjyllands	nordjyllands	PROPN		noun.location
+7	Amt	amt	NOUN		noun.location
+8	,	,	PUNCT		
+9	kan	kunne	AUX		
+10	ikke	ikke	ADV		
+11	umiddelbart	umiddelbar	ADV		
+12	sige	sige	VERB		verb.communication
+13	,	,	PUNCT		
+14	hvor	hvor	ADV		
+15	farligt	farlig	ADJ		adj.all
+16	bidsåret	bidsår	NOUN		noun.disease
+17	er	være	VERB		verb.stative
+18	,	,	PUNCT		
+19	men	men	CCONJ		
+20	selv_om	selv_om	X		
+21	der	der	ADV		
+22	er	være	AUX		verb.stative
+23	mange	mangen	ADJ		
+24	blodårer	blodåre	NOUN		noun.body
+25	i	i	ADP		
+26	lemmet	lem	NOUN		noun.body
+27	,	,	PUNCT		
+28	anser	anse	VERB		verb.cognition
+29	embedslægen	embedslæge	NOUN		noun.person
+30	ikke	ikke	ADV		
+31	situationen	situation	NOUN		noun.state
+32	for	for	ADP		
+33	livstruende	livstruende	ADJ		adj.all
+34	.	.	PUNCT		
+
+# newdoc id = DDT-1421.tsv
+# sent_id = 7
+# text = " Det er jo slet ikke noget ukendt fænomen, at mænd er blevet bidt i nævnte legemsdel.
+1	"	"	PUNCT		
+2	Det	det	PRON		
+3	er	være	AUX		verb.stative
+4	jo	jo	ADV		
+5	slet	slet	ADV		
+6	ikke	ikke	ADV		
+7	noget	nogen	DET		
+8	ukendt	ukendt	ADJ		adj.all
+9	fænomen	fænomen	NOUN		noun.phenomenon
+10	,	,	PUNCT		
+11	at	at	SCONJ		
+12	mænd	mand	NOUN		noun.person
+13	er	være	AUX		
+14	blevet	blive	AUX		
+15	bidt	bide	VERB		verb.act
+16	i	i	ADP		
+17	nævnte	nævne	VERB		adj.all
+18	legemsdel	legemsdel	NOUN		noun.body
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1421.tsv
+# sent_id = 8
+# text =  Vi har endog eksempler på, at en del er blevet bidt af, uden at det har medført døden.
+1	Vi	vi	PRON		
+2	har	have	AUX		verb.phenomenon
+3	endog	endog	ADV		
+4	eksempler	eksempel	NOUN		noun.abstract
+5	på	på	ADP		
+6	,	,	PUNCT		
+7	at	at	SCONJ		
+8	en	en	DET		
+9	del	del	NOUN		noun.relation
+10	er	være	AUX		
+11	blevet	blive	AUX		
+12	bidt	bide	VERB		verb.act
+13	af	af	ADP		verb.COLL
+14	,	,	PUNCT		
+15	uden	uden	ADP		
+16	at	at	SCONJ		
+17	det	det	PRON		
+18	har	have	AUX		
+19	medført	medføre	VERB		verb.phenomenon
+20	døden	død	NOUN		noun.phenomenon
+21	.	.	PUNCT		
+
+# newdoc id = DDT-1421.tsv
+# sent_id = 9
+# text =  Men med mindre manden søger lægebehandling, så er der nok en risiko for, at han får en infektion i såret, for rent faktisk er der flere bakterier i et menneskebid end i for eksempel et hundebid," siger Ib Steen Andersen.
+1	Men	men	CCONJ		
+2	med	med	ADP		
+3	mindre	lille	ADJ		
+4	manden	mand	NOUN		noun.person
+5	søger	søge	VERB		verb.act
+6	lægebehandling	lægebehandling	NOUN		noun.act
+7	,	,	PUNCT		
+8	så	så	ADV		
+9	er	være	AUX		verb.stative
+10	der	der	ADV		
+11	nok	nok	ADV		
+12	en	en	DET		
+13	risiko	risiko	NOUN		noun.abstract
+14	for	for	ADP		
+15	,	,	PUNCT		
+16	at	at	SCONJ		
+17	han	han	PRON		
+18	får	få	VERB		verb.possession
+19	en	en	DET		
+20	infektion	infektion	NOUN		noun.disease
+21	i	i	ADP		
+22	såret	sår	NOUN		noun.phenomenon
+23	,	,	PUNCT		
+24	for	for	CCONJ		
+25	rent	ren	ADV		
+26	faktisk	faktisk	ADV		
+27	er	være	VERB		verb.stative
+28	der	der	ADV		
+29	flere	flere	ADJ		
+30	bakterier	bakterie	NOUN		noun.object
+31	i	i	ADP		
+32	et	en	DET		
+33	menneskebid	menneskebid	NOUN		noun.act
+34	end	ende	ADP		
+35	i	i	ADP		
+36	for	for	ADP		
+37	eksempel	eksempel	NOUN		noun.abstract
+38	et	en	DET		
+39	hundebid	hundebid	NOUN		noun.act
+40	,	,	PUNCT		
+41	"	"	PUNCT		
+42	siger	sige	VERB		verb.communication
+43	Ib	ib	PROPN		noun.person
+44	Steen	steen	PROPN		noun.person
+45	Andersen	andersen	PROPN		noun.person
+46	.	.	PUNCT		
+

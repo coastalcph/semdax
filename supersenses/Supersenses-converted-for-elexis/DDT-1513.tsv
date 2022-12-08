@@ -1,0 +1,229 @@
+# newdoc id = DDT-1513.tsv
+# sent_id = 1
+# text =  Per Henriksen har været med til at starte Skovlunde Golfklub, og derfor blev han valgt til formand."
+1	Per	per	PROPN		noun.person
+2	Henriksen	henriksen	PROPN		noun.person
+3	har	have	AUX		
+4	været	være	AUX		verb.stative
+5	med	med	ADV		verb.PARTICLE
+6	til	til	ADP		
+7	at	at	PART		
+8	starte	starte	VERB		verb.act
+9	Skovlunde	skovlunde	PROPN		noun.institution
+10	Golfklub	golfklub	NOUN		noun.institution
+11	,	,	PUNCT		
+12	og	og	CCONJ		
+13	derfor	derfor	ADV		
+14	blev	blive	AUX		
+15	han	han	PRON		
+16	valgt	vælge	VERB		verb.communication
+17	til	til	ADP		
+18	formand	formand	NOUN		noun.person
+19	.	.	PUNCT		
+20	"	"	PUNCT		
+
+# newdoc id = DDT-1513.tsv
+# sent_id = 2
+# text =  Citat slut!
+1	Citat	citat	NOUN		noun.communication
+2	slut	slut	NOUN		adj.all
+3	!	!	PUNCT		
+
+# newdoc id = DDT-1513.tsv
+# sent_id = 3
+# text = " Det er utroligt, at Per Henriksen kan få sig selv til at fyre de bemærkninger af.
+1	"	"	PUNCT		
+2	Det	det	PRON		
+3	er	være	AUX		verb.stative
+4	utroligt	utrolig	ADJ		adj.mental
+5	,	,	PUNCT		
+6	at	at	SCONJ		
+7	Per	per	PROPN		noun.person
+8	Henriksen	henriksen	PROPN		noun.person
+9	kan	kunne	AUX		
+10	få	få	VERB		verb.act
+11	sig	sig	PRON		
+12	selv	selv	PRON		
+13	til	til	ADP		verb.PARTICLE
+14	at	at	PART		
+15	fyre	fyre	VERB		verb.communication
+16	de	den	DET		
+17	bemærkninger	bemærkning	NOUN		noun.communication
+18	af	af	ADP		verb.PARTICLE
+19	.	.	PUNCT		
+
+# newdoc id = DDT-1513.tsv
+# sent_id = 4
+# text =  For er der noget, han har gjort, så er det at fortsætte med at bygge underskuddet op.
+1	For	for	CCONJ		
+2	er	være	VERB		verb.stative
+3	der	der	ADV		
+4	noget	nogen	PRON		
+5	,	,	PUNCT		
+6	han	han	PRON		
+7	har	have	AUX		
+8	gjort	gøre	VERB		verb.act
+9	,	,	PUNCT		
+10	så	så	ADV		
+11	er	være	AUX		verb.stative
+12	det	det	PRON		
+13	at	at	PART		
+14	fortsætte	fortsætte	VERB		verb.aspectual
+15	med	med	ADP		
+16	at	at	PART		
+17	bygge	bygge	VERB		verb.act
+18	underskuddet	underskud	NOUN		noun.quantity
+19	op	op	ADV		verb.PARTICLE
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1513.tsv
+# sent_id = 5
+# text =  Og han har aldrig holdt vore aftaler.
+1	Og	og	CCONJ		
+2	han	han	PRON		
+3	har	have	AUX		
+4	aldrig	aldrig	ADV		
+5	holdt	holde	VERB		verb.cognition
+6	vore	vor	DET		
+7	aftaler	aftale	NOUN		noun.communication
+8	.	.	PUNCT		
+
+# newdoc id = DDT-1513.tsv
+# sent_id = 6
+# text =  Jeg vil helt klart opfordre fremtidige trænere i BMS til at forlange en bankgaranti.
+1	Jeg	jeg	PRON		
+2	vil	ville	AUX		
+3	helt	helt	ADV		
+4	klart	klar	ADV		
+5	opfordre	opfordre	VERB		verb.communication
+6	fremtidige	fremtidig	ADJ		adj.time
+7	trænere	træner	NOUN		noun.person
+8	i	i	ADP		
+9	BMS	bms	PROPN		noun.institution
+10	til	til	ADP		
+11	at	at	PART		
+12	forlange	forlange	VERB		verb.communication
+13	en	en	DET		
+14	bankgaranti	bankgaranti	NOUN		noun.communication
+15	.	.	PUNCT		
+
+# newdoc id = DDT-1513.tsv
+# sent_id = 7
+# text =  Allerede tidligt sidste år sagde jeg til Per Henriksen, at jeg gerne ville stoppe med en måneds varsel.
+1	Allerede	allerede	ADV		
+2	tidligt	tidlig	ADV		
+3	sidste	sidste	ADJ		adj.time
+4	år	år	NOUN		noun.time
+5	sagde	sige	VERB		verb.communication
+6	jeg	jeg	PRON		
+7	til	til	ADP		
+8	Per	per	PROPN		noun.person
+9	Henriksen	henriksen	PROPN		noun.person
+10	,	,	PUNCT		
+11	at	at	SCONJ		
+12	jeg	jeg	PRON		
+13	gerne	gerne	ADV		
+14	ville	ville	AUX		
+15	stoppe	stoppe	VERB		verb.act
+16	med	med	ADP		
+17	en	en	DET		
+18	måneds	måned	ADJ		noun.time
+19	varsel	varsel	NOUN		noun.communication
+20	.	.	PUNCT		
+
+# newdoc id = DDT-1513.tsv
+# sent_id = 8
+# text =  For på det tidspunkt havde jeg store problemer med at få mine penge.
+1	For	for	CCONJ		
+2	på	på	ADP		
+3	det	det	DET		
+4	tidspunkt	tidspunkt	NOUN		noun.time
+5	havde	have	AUX		verb.stative
+6	jeg	jeg	PRON		
+7	store	stor	ADJ		adj.all
+8	problemer	problem	NOUN		noun.abstract
+9	med	med	ADP		
+10	at	at	PART		
+11	få	få	VERB		verb.possession
+12	mine	mine	DET		
+13	penge	penge	NOUN		noun.artifact
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1513.tsv
+# sent_id = 9
+# text =  Jeg fik blot besked om, at der overhovedet ikke var nogen problemer.
+1	Jeg	jeg	PRON		
+2	fik	få	VERB		verb.communication
+3	blot	blot	ADV		
+4	besked	besked	NOUN		verb.COLL
+5	om	om	ADP		
+6	,	,	PUNCT		
+7	at	at	SCONJ		
+8	der	der	ADV		
+9	overhovedet	overhovedet	ADV		
+10	ikke	ikke	ADV		
+11	var	være	VERB		verb.stative
+12	nogen	nogen	DET		
+13	problemer	problem	NOUN		noun.abstract
+14	.	.	PUNCT		
+
+# newdoc id = DDT-1513.tsv
+# sent_id = 10
+# text =  Løfterne om bonus har jeg heller aldrig fået svar på, hvor bare en undskyldning kunne have gjort underværker," understreger Peter Freil.
+1	Løfterne	løfter	NOUN		noun.communication
+2	om	om	ADP		
+3	bonus	bonus	NOUN		noun.quantity
+4	har	have	AUX		
+5	jeg	jeg	PRON		
+6	heller	heller	ADV		
+7	aldrig	aldrig	ADV		
+8	fået	få	VERB		verb.communication
+9	svar	svar	NOUN		verb.COLL
+10	på	på	ADP		
+11	,	,	PUNCT		
+12	hvor	hvor	ADV		
+13	bare	bare	ADV		
+14	en	en	DET		
+15	undskyldning	undskyldning	NOUN		noun.communication
+16	kunne	kunne	AUX		
+17	have	have	AUX		
+18	gjort	gøre	VERB		verb.change
+19	underværker	underværk	NOUN		verb.COLL
+20	,	,	PUNCT		
+21	"	"	PUNCT		
+22	understreger	understrege	VERB		verb.communication
+23	Peter	peter	PROPN		noun.person
+24	Freil	freil	PROPN		noun.person
+25	.	.	PUNCT		
+
+# newdoc id = DDT-1513.tsv
+# sent_id = 11
+# text =  TVANGSAKKORD
+1	TVANGSAKKORD	tvangsakkord	NOUN		noun.communication
+
+# newdoc id = DDT-1513.tsv
+# sent_id = 12
+# text =  BMS forsøger nu at få en tvangsakkord stablet på benene, men flere personer spænder i øjeblikket ben for den plan.
+1	BMS	bms	PROPN		noun.person
+2	forsøger	forsøge	VERB		verb.act
+3	nu	nu	ADV		
+4	at	at	PART		
+5	få	få	VERB		verb.act
+6	en	en	DET		
+7	tvangsakkord	tvangsakkord	NOUN		noun.communication
+8	stablet	stable	VERB		verb.COLL
+9	på	på	ADP		verb.COLL
+10	benene	ben	NOUN		verb.COLL
+11	,	,	PUNCT		
+12	men	men	CCONJ		
+13	flere	flere	ADJ		
+14	personer	person	NOUN		noun.person
+15	spænder	spænde	VERB		verb.act
+16	i	i	ADP		
+17	øjeblikket	øjeblik	NOUN		noun.time
+18	ben	ben	NOUN		verb.COLL
+19	for	for	ADP		
+20	den	den	DET		
+21	plan	plan	NOUN		noun.cognition
+22	.	.	PUNCT		
+
